@@ -1,0 +1,170 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42113",
+            "Umbrella": "Queensgate Homes",
+            "Umbrella ID": "10946",
+            "VB_NAME": "Queensgate Developments (Kitchener) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Woodbridge",
+            "HCRA_INITIALLICENSEDATE": "2012-06-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-06 04:00:00.000 +0000",
+            "Expiry Date": "2024-06-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3800 Steeles Avenue West",
+            "TELEPHONE": "905-264-0600",
+            "FAX": "905-264-0662",
+            "WEBSITEURL": "www.queensgatehomes.com",
+            "EMAIL": "lauren@queensgatehomes.com",
+            "ACCOUNTNUMBER": "B42113",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 181,
+            "SUMM_TOTAL": 181,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12536138",
+            "TO": "Mahmood (Mike) Karim",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-543-3470"
+        },
+        {
+            "TOUNIQUENUMBER": "12536138",
+            "TO": "Mahmood (Mike) Karim",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-543-3470"
+        },
+        {
+            "TOUNIQUENUMBER": "12536140",
+            "TO": "Lauren Palombo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-0600"
+        },
+        {
+            "TOUNIQUENUMBER": "325478",
+            "TO": "Fausto Palombo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-0600"
+        },
+        {
+            "TOUNIQUENUMBER": "325478",
+            "TO": "Fausto Palombo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-0600"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42113",
+            "Umbrella": "Queensgate Homes",
+            "Umbrella ID": "10946",
+            "VB_NAME": "Queensgate Developments (Kitchener) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42113",
+            "MEMBERNAME": "Queensgate Developments (Kitchener) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42113",
+            "Umbrella": "Queensgate Homes",
+            "Umbrella ID": "10946",
+            "VB_NAME": "Queensgate Developments (Kitchener) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B5378",
+            "MEMBERNAME": "Palbac Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42113",
+            "Umbrella": "Queensgate Homes",
+            "Umbrella ID": "10946",
+            "VB_NAME": "Queensgate Developments (Kitchener) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B6916",
+            "MEMBERNAME": "Trimar Development Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42113",
+            "Umbrella": "Queensgate Homes",
+            "Umbrella ID": "10946",
+            "VB_NAME": "Queensgate Developments (Kitchener) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47759",
+            "MEMBERNAME": "Queensgate Homes (Barrie) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42113",
+            "Umbrella": "Queensgate Homes",
+            "Umbrella ID": "10946",
+            "VB_NAME": "Queensgate Developments (Kitchener) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27332",
+            "MEMBERNAME": "Queensgate Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42113",
+            "Umbrella": "Queensgate Homes",
+            "Umbrella ID": "10946",
+            "VB_NAME": "Queensgate Developments (Kitchener) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43210",
+            "MEMBERNAME": "Queensgate Homes (Oakville) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Victoria Common Phase 2",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "15 Prince Albert Blvd.",
+            "# of Units": 114,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-04-03"
+        },
+        {
+            "Condo Project Name": "The Claridge",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "155 St. Leger St.",
+            "# of Units": 77,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-06-08"
+        }
+    ],
+    "builderConditions": []
+}

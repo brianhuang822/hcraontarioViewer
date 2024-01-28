@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34887",
+            "Umbrella": "Condor Homes",
+            "Umbrella ID": "12085330",
+            "VB_NAME": "Condor Developments Ltd.",
+            "OPERATINGNAME": "Condor Homes",
+            "CITY": "HAMPTON",
+            "HCRA_INITIALLICENSEDATE": "2005-05-31",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2007-10-24 18:25:45.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "61 FIRNER ST",
+            "TELEPHONE": "905-404-2233",
+            "FAX": "905-404-2234",
+            "WEBSITEURL": "www.condorhomes.ca",
+            "EMAIL": "condordevelopments@rogers.com",
+            "ACCOUNTNUMBER": "B34887",
+            "Total Outstanding Amount": 1771.96,
+            "TAB": 0,
+            "BREACH": 1771.96,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11693050",
+            "TO": "Ronald (Ron) W O'Connor",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-404-2233"
+        },
+        {
+            "TOUNIQUENUMBER": "11693050",
+            "TO": "Ronald (Ron) W O'Connor",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-404-2233"
+        },
+        {
+            "TOUNIQUENUMBER": "11693050",
+            "TO": "Ronald (Ron) W O'Connor",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-404-2233"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34887",
+            "Umbrella": "Condor Homes",
+            "Umbrella ID": "12085330",
+            "VB_NAME": "Condor Developments Ltd.",
+            "OPERATINGNAME": "Condor Homes",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B31386",
+            "MEMBERNAME": "1441660 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Sunrise Homes Durham",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B34887",
+            "Umbrella": "Condor Homes",
+            "Umbrella ID": "12085330",
+            "VB_NAME": "Condor Developments Ltd.",
+            "OPERATINGNAME": "Condor Homes",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B34887",
+            "MEMBERNAME": "Condor Developments Ltd.",
+            "MEMBEROPERATINGNAME": "Condor Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

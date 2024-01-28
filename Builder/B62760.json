@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62760",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Reval Construction Inc.",
+            "OPERATINGNAME": "Reval Construction Inc.",
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2023-12-08",
+            "LICENCE_STATUS": "Licensed with Conditions",
+            "HCRA_LICENSERENEWEDON": "2023-12-08 20:57:57.000 +0000",
+            "Expiry Date": "2024-12-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "22 Caesar Avenue",
+            "TELEPHONE": "613-422-7272",
+            "FAX": null,
+            "WEBSITEURL": "http://www.reval.ca",
+            "EMAIL": "info@reval.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600016246",
+            "TO": "Andrei Katchmar",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-422-7272"
+        },
+        {
+            "TOUNIQUENUMBER": "600016246",
+            "TO": "Andrei Katchmar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-422-7272"
+        },
+        {
+            "TOUNIQUENUMBER": "600006927",
+            "TO": "Lee McClintock",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-0267"
+        },
+        {
+            "TOUNIQUENUMBER": "600006927",
+            "TO": "Lee McClintock",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-0267"
+        },
+        {
+            "TOUNIQUENUMBER": "600006927",
+            "TO": "Lee McClintock",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-0267"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62760",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Reval Construction Inc.",
+            "OPERATINGNAME": "Reval Construction Inc.",
+            "LICENCE_STATUS": "Licensed with Conditions",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": [
+        {
+            "HCRA_DESCRIPTION": "Reval Construction Inc. must apply to enroll the following home with the Tarion Warranty Corporation before January 8, 2024:\n\n\u2022 246 Byron Avenue, Ottawa, ON K1Z 6Y8",
+            "HCRA_EFFECTIVEDATE": "2023-12-08 05:00:00.000 +0000"
+        }
+    ]
+}

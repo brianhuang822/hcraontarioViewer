@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41491",
+            "Umbrella": "Graystone Homes",
+            "Umbrella ID": "12545425",
+            "VB_NAME": "Graystone Custom Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2011-11-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-10 05:32:00.000 +0000",
+            "Expiry Date": "2025-01-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1615 North Routledge Park",
+            "TELEPHONE": "519-601-6900",
+            "FAX": "519-601-6901",
+            "WEBSITEURL": "www.graystonecustomhomes.ca",
+            "EMAIL": "danderson@graystonehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 28,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 28,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11976275",
+            "TO": "Derek H. Anderson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-640-9222"
+        },
+        {
+            "TOUNIQUENUMBER": "11976275",
+            "TO": "Derek H. Anderson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-640-9222"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41491",
+            "Umbrella": "Graystone Homes",
+            "Umbrella ID": "12545425",
+            "VB_NAME": "Graystone Custom Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47946",
+            "MEMBERNAME": "180 Villagewalk Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41491",
+            "Umbrella": "Graystone Homes",
+            "Umbrella ID": "12545425",
+            "VB_NAME": "Graystone Custom Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45731",
+            "MEMBERNAME": "Legacy of Upper Richmond Village Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41491",
+            "Umbrella": "Graystone Homes",
+            "Umbrella ID": "12545425",
+            "VB_NAME": "Graystone Custom Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34082",
+            "MEMBERNAME": "Graystone Development Group Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41491",
+            "Umbrella": "Graystone Homes",
+            "Umbrella ID": "12545425",
+            "VB_NAME": "Graystone Custom Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41491",
+            "MEMBERNAME": "Graystone Custom Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Eight at Warbler",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": " 1170 Riverbend Dr. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42129",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1414610 Ontario Inc.",
+            "OPERATINGNAME": "Mag Eastwood Construction",
+            "CITY": "Gloucester",
+            "HCRA_INITIALLICENSEDATE": "2012-08-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-08-14 04:15:13.000 +0000",
+            "Expiry Date": "2022-08-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2754 Quinn Road",
+            "TELEPHONE": "613-223-7521",
+            "FAX": "613/822-7436",
+            "WEBSITEURL": "www.eastwood.construction.ca",
+            "EMAIL": "mario@eastwoodconstruction.ca",
+            "ACCOUNTNUMBER": "B42129",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 23419.5,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 23419.5
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345487",
+            "TO": "Carlo Grandinetti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-822-1840"
+        },
+        {
+            "TOUNIQUENUMBER": "313455",
+            "TO": "John Grandinetti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-723-1365"
+        },
+        {
+            "TOUNIQUENUMBER": "313456",
+            "TO": "Mario Grandinetti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-223-7521"
+        },
+        {
+            "TOUNIQUENUMBER": "313456",
+            "TO": "Mario Grandinetti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-223-7521"
+        },
+        {
+            "TOUNIQUENUMBER": "313456",
+            "TO": "Mario Grandinetti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-223-7521"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42129",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1414610 Ontario Inc.",
+            "OPERATINGNAME": "Mag Eastwood Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

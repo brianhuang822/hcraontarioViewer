@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23788",
+            "Umbrella": "Namcon",
+            "Umbrella ID": "11960",
+            "VB_NAME": "Namcon Limited",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1994-03-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-03-17 12:00:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 40045, R.P.O. Marlee",
+            "TELEPHONE": "416/322-8036",
+            "FAX": "416/486-0377",
+            "WEBSITEURL": " ",
+            "EMAIL": "namcon@rogers.com",
+            "ACCOUNTNUMBER": "B23788",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 8365,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 8365
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "327986",
+            "TO": "Nuno Machado",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-322-8036"
+        },
+        {
+            "TOUNIQUENUMBER": "327986",
+            "TO": "Nuno Machado",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-322-8036"
+        },
+        {
+            "TOUNIQUENUMBER": "327986",
+            "TO": "Nuno Machado",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-322-8036"
+        },
+        {
+            "TOUNIQUENUMBER": "328006",
+            "TO": "Mary Machado",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-489-2121"
+        },
+        {
+            "TOUNIQUENUMBER": "328006",
+            "TO": "Mary Machado",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-489-2121"
+        },
+        {
+            "TOUNIQUENUMBER": "328006",
+            "TO": "Mary Machado",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-489-2121"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23788",
+            "Umbrella": "Namcon",
+            "Umbrella ID": "11960",
+            "VB_NAME": "Namcon Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23788",
+            "MEMBERNAME": "Namcon Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23788",
+            "Umbrella": "Namcon",
+            "Umbrella ID": "11960",
+            "VB_NAME": "Namcon Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28519",
+            "MEMBERNAME": "Namcon Building Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

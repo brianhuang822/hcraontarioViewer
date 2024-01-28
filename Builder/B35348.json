@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35348",
+            "Umbrella": "Simon Clark Homes",
+            "Umbrella ID": "12267431",
+            "VB_NAME": "Simon James Clark & Denise B. Petel-Clark",
+            "OPERATINGNAME": "S. Clark and Son Construction Service",
+            "CITY": "KINGSTON",
+            "HCRA_INITIALLICENSEDATE": "2005-04-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-04-29 13:31:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "49 A Grant Timmins Dr.",
+            "TELEPHONE": "(613)384-1096",
+            "FAX": "(613)384-1373",
+            "WEBSITEURL": null,
+            "EMAIL": "info@sclarkhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12065330",
+            "TO": "Denise B. Petel-Clark",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-384-1096"
+        },
+        {
+            "TOUNIQUENUMBER": "12065329",
+            "TO": "Simon Clark",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-561-5961"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35348",
+            "Umbrella": "Simon Clark Homes",
+            "Umbrella ID": "12267431",
+            "VB_NAME": "Simon James Clark & Denise B. Petel-Clark",
+            "OPERATINGNAME": "S. Clark and Son Construction Service",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35348",
+            "MEMBERNAME": "Simon James Clark & Denise B. Petel-Clark",
+            "MEMBEROPERATINGNAME": "S. Clark and Son Construction Service",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35348",
+            "Umbrella": "Simon Clark Homes",
+            "Umbrella ID": "12267431",
+            "VB_NAME": "Simon James Clark & Denise B. Petel-Clark",
+            "OPERATINGNAME": "S. Clark and Son Construction Service",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38328",
+            "MEMBERNAME": "S. Clark Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

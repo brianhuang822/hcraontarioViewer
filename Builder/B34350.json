@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34350",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Star Nine Developments Inc.",
+            "OPERATINGNAME": "Stratford Terraces",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2005-01-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-01-18 16:00:55.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "240 Duncan Mill Rd., Suite 500",
+            "TELEPHONE": "416-385-0019",
+            "FAX": "416-385-9272",
+            "WEBSITEURL": "www.okeefeassociates.on.ca",
+            "EMAIL": "davvid@okeefeassociates.on.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1024,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1024
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11997223",
+            "TO": "Gordon Allan Naylor",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-275-2037"
+        },
+        {
+            "TOUNIQUENUMBER": "11997223",
+            "TO": "Gordon Allan Naylor",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-275-2037"
+        },
+        {
+            "TOUNIQUENUMBER": "11997224",
+            "TO": "Manouchehr Ghaeinizadeh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11997224",
+            "TO": "Manouchehr Ghaeinizadeh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11997225",
+            "TO": "Bahieh Sharifi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34350",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Star Nine Developments Inc.",
+            "OPERATINGNAME": "Stratford Terraces",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "STRATFORD TERRACES",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": " 400 Romeo Street North ",
+            "# of Units": 60,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-02-21"
+        }
+    ],
+    "builderConditions": []
+}

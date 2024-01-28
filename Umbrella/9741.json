@@ -1,0 +1,323 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Morguard Residential",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "55 City Centre Dr.",
+            "TELEPHONE": "(416)421-3020",
+            "FAX": "(416)421-8408",
+            "WEBSITEURL": "www.morguard.com",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "The West Village (block 3) Inc.",
+            "MEMBEROPERATINGNAME": "The West Village",
+            "MEMBERVBNUM": "B25972",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The West Village (block 5) Inc.",
+            "MEMBEROPERATINGNAME": "The West Village",
+            "MEMBERVBNUM": "B26005",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The West Village (Block 2) Inc.",
+            "MEMBEROPERATINGNAME": "The West Village",
+            "MEMBERVBNUM": "B26968",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "East Of Bay (1997) Development Corporation",
+            "MEMBEROPERATINGNAME": "Opera Place",
+            "MEMBERVBNUM": "B26900",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The West Village (block 1 East) Inc.",
+            "MEMBEROPERATINGNAME": "The West Village",
+            "MEMBERVBNUM": "B26876",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The West Village (Block 6) Inc.",
+            "MEMBEROPERATINGNAME": "Block 6 Townhomes",
+            "MEMBERVBNUM": "B30653",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Korgold Development Corp.",
+            "MEMBEROPERATINGNAME": "The West Village",
+            "MEMBERVBNUM": "B23869",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "East of Bay (2000) Development Corporation",
+            "MEMBEROPERATINGNAME": "Aria @ Opera Place",
+            "MEMBERVBNUM": "B30654",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Leaside Green Inc.",
+            "MEMBEROPERATINGNAME": "Leaside Green",
+            "MEMBERVBNUM": "B26478",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "East Of Bay Development Corp.",
+            "MEMBEROPERATINGNAME": "The Opera Place",
+            "MEMBERVBNUM": "B25202",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Korank Properties Limited",
+            "MEMBEROPERATINGNAME": "Mayfair On The Green",
+            "MEMBERVBNUM": "B9461",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Village Terraces Inc.",
+            "MEMBEROPERATINGNAME": "Village Terraces",
+            "MEMBERVBNUM": "B27525",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Village Terraces II Inc.",
+            "MEMBEROPERATINGNAME": "Village Terraces II",
+            "MEMBERVBNUM": "B28601",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "VILLAGE TERRACES II",
+            "Account Number": "B28601",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1140 Parkwest Pl.",
+            "# of Units": 118,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-09-13"
+        },
+        {
+            "Condo Project Name": "ALLEGRO AT OPERA PLACE",
+            "Account Number": "B26900",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "909 Bay St.",
+            "# of Units": 269,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-02-04"
+        },
+        {
+            "Condo Project Name": "VILLAGE TERRACES",
+            "Account Number": "B27525",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1150 Parkwest Pl.",
+            "# of Units": 123,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-02-15"
+        },
+        {
+            "Condo Project Name": "THE WEST VILLAGE",
+            "Account Number": "B26876",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "731-765 Village Green Blvd./parkwest Pl.",
+            "# of Units": 45,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-08-03"
+        },
+        {
+            "Condo Project Name": "LEASIDE GREEN",
+            "Account Number": "B26478",
+            "Project Status": "Completed",
+            "Location": "EAST YORK",
+            "Address": "15-17,2-22 Overlea Blvd. & Leaside Drive",
+            "# of Units": 82,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-08-03"
+        },
+        {
+            "Condo Project Name": "THE OPERA PLACE - TOWER 1",
+            "Account Number": "B25202",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "889 Bay Street",
+            "# of Units": 154,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-05-10"
+        },
+        {
+            "Condo Project Name": "THE WEST VILLAGE",
+            "Account Number": "B26968",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "Parkwest Pl. & Village Green Blvd.",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-04-16"
+        },
+        {
+            "Condo Project Name": "THE OPERA PLACE - TOWER 2",
+            "Account Number": "B25202",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "887 Bay Street",
+            "# of Units": 161,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-04-14"
+        },
+        {
+            "Condo Project Name": "THE WEST VILLAGE",
+            "Account Number": "B26005",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1132-1182 Upper Village Dr.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-12-10"
+        },
+        {
+            "Condo Project Name": "THE WEST VILLAGE PHASE II",
+            "Account Number": "B25972",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1191 Cawthra Road",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-08-08"
+        },
+        {
+            "Condo Project Name": "THE WEST VILLAGE",
+            "Account Number": "B23869",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "812-832 Village Green Blvd,upper Village,westsho",
+            "# of Units": 49,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-07-31"
+        },
+        {
+            "Condo Project Name": "THE WEST VILLAGE, BLOCK 2",
+            "Account Number": "B23869",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1211-1231 Parkwest Pl.",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-05-07"
+        },
+        {
+            "Condo Project Name": "THE WEST VILLAGE, BLOCK 2",
+            "Account Number": "B23869",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1241 Parkwest Pl.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-03-26"
+        },
+        {
+            "Condo Project Name": "THE WEST VILLAGE",
+            "Account Number": "B23869",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1194-1246 Upper Village Dr.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-12-19"
+        },
+        {
+            "Condo Project Name": "THE WEST VILLAGE, BLOCK 3",
+            "Account Number": "B23869",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1194-1246 West Shore Dr.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-12-19"
+        },
+        {
+            "Condo Project Name": "MAYFAIR ON THE GREEN PHASE 1V",
+            "Account Number": "B9461",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "480 McLevin Avenue",
+            "# of Units": 139,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-07-27"
+        },
+        {
+            "Condo Project Name": "MAYFAIR ON THE GREEN_III",
+            "Account Number": "B9461",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "430 McLevin Ave.",
+            "# of Units": 282,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-11-14"
+        },
+        {
+            "Condo Project Name": "410 MCLEVIN AVE.",
+            "Account Number": "B9461",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "410 McLevin Ave.",
+            "# of Units": 222,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-10-24"
+        },
+        {
+            "Condo Project Name": "MAYFAIR ON THE GREEN I",
+            "Account Number": "B9461",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "400 McLevin Road",
+            "# of Units": 222,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-07-03"
+        }
+    ]
+}

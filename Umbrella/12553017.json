@@ -1,0 +1,132 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Charron Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 4,
+            "TOTALUNITS": 8,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 5300,
+            "ADDRESS": "2502 Pigeon Lake Road",
+            "TELEPHONE": "705-340-8209",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "pcharron_1814@icloud.com",
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 5300,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 5300
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "2594441 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Charron Homes",
+            "MEMBERVBNUM": "B48267",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "993769 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "JJP Construction",
+            "MEMBERVBNUM": "B25737",
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "MEMBERNAME": "756520 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "D-Can Custom Home Builder",
+            "MEMBERVBNUM": "B21829",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 1,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 1,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 5300,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 5300,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 5,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 5,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 5300,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 5300,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 2,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 2,
+            "Chargeable Conciliation": 4,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 5300,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 5300,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 5300,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 5300,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "King's Wharf Estates",
+            "Account Number": "B48267",
+            "Project Status": null,
+            "Location": "BOBCAYGEON",
+            "Address": " 2218 Pigeon Lake Rd. ",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ]
+}

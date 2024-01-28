@@ -1,0 +1,70 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Onesco Construction",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 1185.5,
+            "ADDRESS": "1740 Balfour Blvd.",
+            "TELEPHONE": "5199729038",
+            "FAX": "5199729038",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1185.5,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1185.5
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "High Life Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37479",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Antoine Bassile",
+            "MEMBEROPERATINGNAME": "Onesco Construction",
+            "MEMBERVBNUM": "B34658",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2011",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 1185.5,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 1185.5,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1185.5,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1185.5,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": []
+}

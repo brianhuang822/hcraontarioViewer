@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61068",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Novacon Construction Inc.",
+            "OPERATINGNAME": "Novacon Construction Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-03-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-23 23:54:50.000 +0000",
+            "Expiry Date": "2025-03-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "121 Lebovic Avenue",
+            "TELEPHONE": "416-750-7555",
+            "FAX": null,
+            "WEBSITEURL": "https://www.novacon.ca",
+            "EMAIL": "margie@novacon.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600009371",
+            "TO": "Pavel Bigas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-750-7555"
+        },
+        {
+            "TOUNIQUENUMBER": "600009371",
+            "TO": "Pavel Bigas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-750-7555"
+        },
+        {
+            "TOUNIQUENUMBER": "600009371",
+            "TO": "Pavel Bigas",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-750-7555"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61068",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Novacon Construction Inc.",
+            "OPERATINGNAME": "Novacon Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

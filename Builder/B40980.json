@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40980",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "McKenzie Building Group Inc.",
+            "OPERATINGNAME": "McKenzie Homes",
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2010-12-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-01 20:00:09.000 +0000",
+            "Expiry Date": "2024-12-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "15 Cuddy Boulevard",
+            "TELEPHONE": "519-850-7712",
+            "FAX": null,
+            "WEBSITEURL": "www.mckenziehomes.ca",
+            "EMAIL": "office@mckenziehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 295,
+            "SUMM_CONDO": 22,
+            "SUMM_TOTAL": 317,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12454953",
+            "TO": "Trevor Brent McKenzie",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-850-7712"
+        },
+        {
+            "TOUNIQUENUMBER": "12454953",
+            "TO": "Trevor Brent McKenzie",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-850-7712"
+        },
+        {
+            "TOUNIQUENUMBER": "12454953",
+            "TO": "Trevor Brent McKenzie",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-850-7712"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40980",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "McKenzie Building Group Inc.",
+            "OPERATINGNAME": "McKenzie Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Towns at Victoria Flats",
+            "Project Status": "In Progress",
+            "Location": "LONDON",
+            "Address": " 2-22 2427 Daisy Bend, 2-44 3025 Doyle Dr. ",
+            "# of Units": 33,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

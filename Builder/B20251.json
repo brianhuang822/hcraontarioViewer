@@ -1,0 +1,296 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B20251",
+            "Umbrella": "Van El",
+            "Umbrella ID": "12428440",
+            "VB_NAME": "832605 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "BRANTFORD",
+            "HCRA_INITIALLICENSEDATE": "1990-09-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-09-25 12:00:46.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "26 Kerr-Shaver Terr.",
+            "TELEPHONE": "519-754-4968",
+            "FAX": "519-754-0471",
+            "WEBSITEURL": " ",
+            "EMAIL": "enidmoon@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 24,
+            "SUMM_CONDO": 13,
+            "SUMM_TOTAL": 37,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "334843",
+            "TO": "Deborah VanElslander",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-4968"
+        },
+        {
+            "TOUNIQUENUMBER": "334843",
+            "TO": "Deborah VanElslander",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-4968"
+        },
+        {
+            "TOUNIQUENUMBER": "334843",
+            "TO": "Deborah VanElslander",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-4968"
+        },
+        {
+            "TOUNIQUENUMBER": "334842",
+            "TO": "David Robert Van Elslander",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-6261"
+        },
+        {
+            "TOUNIQUENUMBER": "334842",
+            "TO": "David Robert Van Elslander",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-6261"
+        },
+        {
+            "TOUNIQUENUMBER": "334842",
+            "TO": "David Robert Van Elslander",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-6261"
+        },
+        {
+            "TOUNIQUENUMBER": "12174930",
+            "TO": "Lori Mills",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-717-6096"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B20251",
+            "Umbrella": "Van El",
+            "Umbrella ID": "12428440",
+            "VB_NAME": "832605 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40575",
+            "MEMBERNAME": "2168987 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Van El",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B20251",
+            "Umbrella": "Van El",
+            "Umbrella ID": "12428440",
+            "VB_NAME": "832605 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B20251",
+            "MEMBERNAME": "832605 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Sihler Woods",
+            "Project Status": null,
+            "Location": "SIMCOE",
+            "Address": "12 Lynndale Rd.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Stone Gate",
+            "Project Status": "Completed",
+            "Location": "PARIS",
+            "Address": "30 Cedar St.",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-03-06"
+        },
+        {
+            "Condo Project Name": "Conklin Court",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": " 601 Conklin Rd. ",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-06-12"
+        },
+        {
+            "Condo Project Name": "WOODLAND RIDGE",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": " 20 Isherwood Ave. ",
+            "# of Units": 105,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-12-15"
+        },
+        {
+            "Condo Project Name": "WOODLAND RIDGE",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": " 20 Isherwood ",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-10-28"
+        },
+        {
+            "Condo Project Name": "HERONS NEST",
+            "Project Status": "Completed",
+            "Location": "WOODSTOCK",
+            "Address": " 53 Heron's Landing ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-06-07"
+        },
+        {
+            "Condo Project Name": "VAN EL ESTATE",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "115 Glenwood Dr.",
+            "# of Units": 31,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-12-04"
+        },
+        {
+            "Condo Project Name": "FORESTVIEW HEIGHTS",
+            "Project Status": "Completed",
+            "Location": "SIMCOE",
+            "Address": "150 Oak Street",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-07-03"
+        },
+        {
+            "Condo Project Name": "FAIRWAY ESTATES",
+            "Project Status": "Completed",
+            "Location": "DELHI",
+            "Address": "74 Wilson Ave.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-02-16"
+        },
+        {
+            "Condo Project Name": "VAN EL DRIVE",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "146 North Park St.",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-07-13"
+        },
+        {
+            "Condo Project Name": "HARBOUR VIEW ESTATE",
+            "Project Status": "Completed",
+            "Location": "PORT DOVER",
+            "Address": "615 Nelson St. W.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-01-21"
+        },
+        {
+            "Condo Project Name": "VAN-LYN TERRACE",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "229 Lyndon Rd.",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-04-19"
+        },
+        {
+            "Condo Project Name": "VICTORIA COURT",
+            "Project Status": "Completed",
+            "Location": "SIMCOE",
+            "Address": "175 Victoria St.",
+            "# of Units": 54,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-04-07"
+        },
+        {
+            "Condo Project Name": "VAN OAKS",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "570 West St.",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-05-01"
+        },
+        {
+            "Condo Project Name": "VAN EL VILLAGE",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "20 Courtland Dr.",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-03-08"
+        },
+        {
+            "Condo Project Name": "VANE EL LANE",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "1030 Colborne Street East",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-04-28"
+        },
+        {
+            "Condo Project Name": "ST. ANDREWS COURT",
+            "Project Status": "Completed",
+            "Location": "CALEDONIA",
+            "Address": "31 Kinross St.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-03-05"
+        },
+        {
+            "Condo Project Name": "HULL HOUSE LANE",
+            "Project Status": "Completed",
+            "Location": "CALEDONIA",
+            "Address": "54 Argyle St. South",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1992-04-01"
+        }
+    ],
+    "builderConditions": []
+}

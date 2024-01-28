@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47994",
+            "Umbrella": "CTN Developments",
+            "Umbrella ID": "12548042",
+            "VB_NAME": "CTN Jane Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2020-11-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-15 16:39:26.000 +0000",
+            "Expiry Date": "2024-11-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1315 Finch Avenue West",
+            "TELEPHONE": "416-848-4848",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "michael@ctndevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100438424",
+            "TO": "Huucu Nguyen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-398-9980"
+        },
+        {
+            "TOUNIQUENUMBER": "100438424",
+            "TO": "Huucu Nguyen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-398-9980"
+        },
+        {
+            "TOUNIQUENUMBER": "100438424",
+            "TO": "Huucu Nguyen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-398-9980"
+        },
+        {
+            "TOUNIQUENUMBER": "100466562",
+            "TO": "Michael Hui Nguyen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-878-4245"
+        },
+        {
+            "TOUNIQUENUMBER": "100466562",
+            "TO": "Michael Hui Nguyen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-878-4245"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47994",
+            "Umbrella": "CTN Developments",
+            "Umbrella ID": "12548042",
+            "VB_NAME": "CTN Jane Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46263",
+            "MEMBERNAME": "CTN King Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B47994",
+            "Umbrella": "CTN Developments",
+            "Umbrella ID": "12548042",
+            "VB_NAME": "CTN Jane Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47994",
+            "MEMBERNAME": "CTN Jane Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47994",
+            "Umbrella": "CTN Developments",
+            "Umbrella ID": "12548042",
+            "VB_NAME": "CTN Jane Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47011",
+            "MEMBERNAME": "CTN Build Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Yorkwoods Condos",
+            "Project Status": "In Progress",
+            "Location": "NORTH YORK",
+            "Address": " 2839 Jane St. ",
+            "# of Units": 190,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

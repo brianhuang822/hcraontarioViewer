@@ -1,0 +1,133 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Glen Orchard Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 8,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "6415 Northwest Dr., Unit 38",
+            "TELEPHONE": "(905) 677-7207",
+            "FAX": "(905) 677-7307",
+            "WEBSITEURL": "www.glenorchardhomes.com",
+            "EMAIL": "info@glenorchardhomes.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 8,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Bezic Development Limited & Glen Orchard Homes Ltd",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9362",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bezic Developments Limited",
+            "MEMBEROPERATINGNAME": "Glen Orchard Homes",
+            "MEMBERVBNUM": "B7736",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kingston Beach Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45794",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Glen Orchard Homes (Glenhampton) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27876",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Glen Orchard Homes (Treetop II) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28130",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 5,
+            "Total Posessions": 5,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 8,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 3,
+            "Total Posessions": 3,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 8,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "The Winthorpe Modern",
+            "Account Number": "B45794",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "715 Kingston Rd.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-04-21"
+        },
+        {
+            "Condo Project Name": "HILLRIDGE",
+            "Account Number": "B7736",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "2303 Hillridge Court",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-09-30"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Gateman-Milloy",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "270 Shoemaker Street",
+            "TELEPHONE": "519-748-6500",
+            "FAX": "519-748-6626",
+            "WEBSITEURL": " ",
+            "EMAIL": "bmccaughey@gatemanmilloy.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Gateman-Milloy Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B39352",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Mill-Gate Homes (Myers Road) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B39353",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Myer's Road Condominiums",
+            "Account Number": "B39353",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": "685 Myer's Road",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-09-21"
+        },
+        {
+            "Condo Project Name": "Myer's Road Condominiums",
+            "Account Number": "B39353",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": "695 Myers Road",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-07-03"
+        },
+        {
+            "Condo Project Name": "Myer's Road Condominiums",
+            "Account Number": "B39353",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": "695 Myer's Road",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-07-20"
+        }
+    ]
+}

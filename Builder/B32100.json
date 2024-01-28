@@ -1,0 +1,135 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32100",
+            "Umbrella": "Canalfa Towers At Liberty Village",
+            "Umbrella ID": "12130263",
+            "VB_NAME": "CanAlfa Liberty Village Homes Inc.",
+            "OPERATINGNAME": "Liberty Village",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2002-02-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-06-01 15:01:41.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "80 Lynn Williams Street, 2nd Floor",
+            "TELEPHONE": "416-863-4404",
+            "FAX": "416-863-4592",
+            "WEBSITEURL": null,
+            "EMAIL": "eric@canalfa.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11761454",
+            "TO": "Walter Jensen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-214-5581"
+        },
+        {
+            "TOUNIQUENUMBER": "11761454",
+            "TO": "Walter Jensen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-214-5581"
+        },
+        {
+            "TOUNIQUENUMBER": "11761455",
+            "TO": "Philip Beinhaker",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-214-5581"
+        },
+        {
+            "TOUNIQUENUMBER": "11761455",
+            "TO": "Philip Beinhaker",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-214-5581"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32100",
+            "Umbrella": "Canalfa Towers At Liberty Village",
+            "Umbrella ID": "12130263",
+            "VB_NAME": "CanAlfa Liberty Village Homes Inc.",
+            "OPERATINGNAME": "Liberty Village",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32100",
+            "MEMBERNAME": "CanAlfa Liberty Village Homes Inc.",
+            "MEMBEROPERATINGNAME": "Liberty Village",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32100",
+            "Umbrella": "Canalfa Towers At Liberty Village",
+            "Umbrella ID": "12130263",
+            "VB_NAME": "CanAlfa Liberty Village Homes Inc.",
+            "OPERATINGNAME": "Liberty Village",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36273",
+            "MEMBERNAME": "Towers At Liberty Village Inc.",
+            "MEMBEROPERATINGNAME": "Liberty Village",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "LIBERTY VILLAGE",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 22-34 Western Battery Rd. ",
+            "# of Units": 139,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-02-09"
+        },
+        {
+            "Condo Project Name": "LIBERTY VILLAGE",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "  East Liberty St. /Western Battery Rd. ",
+            "# of Units": 117,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-09-14"
+        },
+        {
+            "Condo Project Name": "LIBERTY VILLAGE",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 21 Pirandello St. ",
+            "# of Units": 44,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-05-02"
+        },
+        {
+            "Condo Project Name": "LIBERTY VILLAGE",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "  Western Battery Rd./East Liberty St. ",
+            "# of Units": 167,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-03-11"
+        }
+    ],
+    "builderConditions": []
+}

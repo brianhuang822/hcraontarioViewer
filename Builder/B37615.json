@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37615",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2123620 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "2007-05-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-05-24 12:00:19.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "69 Bigwin Rd., Unit 3",
+            "TELEPHONE": "905-971-9826",
+            "FAX": "905-318-2059",
+            "WEBSITEURL": " ",
+            "EMAIL": "mikedicenzo@hotmail.com",
+            "ACCOUNTNUMBER": "B37615",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 6330.01,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 6330.01
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12217949",
+            "TO": "Michael Anthony DiCenzo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-9826"
+        },
+        {
+            "TOUNIQUENUMBER": "12217949",
+            "TO": "Michael Anthony DiCenzo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-9826"
+        },
+        {
+            "TOUNIQUENUMBER": "12217949",
+            "TO": "Michael Anthony DiCenzo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-9826"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37615",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2123620 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Green Gables",
+            "Project Status": "Completed",
+            "Location": "STONEY CREEK",
+            "Address": "307 Hwy. 8",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-09-27"
+        }
+    ],
+    "builderConditions": []
+}

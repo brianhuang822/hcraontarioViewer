@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48187",
+            "Umbrella": "Brock View Group",
+            "Umbrella ID": "12551744",
+            "VB_NAME": "Brock View Homes Inc. ",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2020-06-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-05-31 19:10:51.000 +0000",
+            "Expiry Date": "2022-06-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "27 Chicora Avenue",
+            "TELEPHONE": "289-257-0046",
+            "FAX": "416-927-0283",
+            "WEBSITEURL": " ",
+            "EMAIL": "bvpmoffice@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100615975",
+            "TO": "David Roff",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-702-7021"
+        },
+        {
+            "TOUNIQUENUMBER": "100615975",
+            "TO": "David Roff",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-702-7021"
+        },
+        {
+            "TOUNIQUENUMBER": "100615975",
+            "TO": "David Roff",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-702-7021"
+        },
+        {
+            "TOUNIQUENUMBER": "100614936",
+            "TO": "Bryan Keenan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-257-0046"
+        },
+        {
+            "TOUNIQUENUMBER": "100614936",
+            "TO": "Bryan Keenan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-257-0046"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48187",
+            "Umbrella": "Brock View Group",
+            "Umbrella ID": "12551744",
+            "VB_NAME": "Brock View Homes Inc. ",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48187",
+            "MEMBERNAME": "Brock View Homes Inc. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48187",
+            "Umbrella": "Brock View Group",
+            "Umbrella ID": "12551744",
+            "VB_NAME": "Brock View Homes Inc. ",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48113",
+            "MEMBERNAME": "Brock View Building Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48187",
+            "Umbrella": "Brock View Group",
+            "Umbrella ID": "12551744",
+            "VB_NAME": "Brock View Homes Inc. ",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B61314",
+            "MEMBERNAME": "Brock View Cottages Inc.",
+            "MEMBEROPERATINGNAME": "Brock View Cottages Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Princeton Common",
+            "Project Status": null,
+            "Location": "ST. CATHARINES",
+            "Address": " 427 Geneva St. ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

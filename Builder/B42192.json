@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42192",
+            "Umbrella": "Valley Lane Construction",
+            "Umbrella ID": "12538449",
+            "VB_NAME": "Valley Lane Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Joyceville",
+            "HCRA_INITIALLICENSEDATE": "2012-08-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-13 20:08:19.000 +0000",
+            "Expiry Date": "2024-08-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2315 McCarey Road",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "rspell@kingston.net",
+            "ACCOUNTNUMBER": "B42192",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12226747",
+            "TO": "Kelly Filman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-328-9423"
+        },
+        {
+            "TOUNIQUENUMBER": "12226747",
+            "TO": "Kelly Filman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-328-9423"
+        },
+        {
+            "TOUNIQUENUMBER": "12226746",
+            "TO": "Rod Spellman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-541-9741"
+        },
+        {
+            "TOUNIQUENUMBER": "12226746",
+            "TO": "Rod Spellman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-541-9741"
+        },
+        {
+            "TOUNIQUENUMBER": "12226746",
+            "TO": "Rod Spellman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-541-9741"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42192",
+            "Umbrella": "Valley Lane Construction",
+            "Umbrella ID": "12538449",
+            "VB_NAME": "Valley Lane Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37802",
+            "MEMBERNAME": "Rod Spellman",
+            "MEMBEROPERATINGNAME": "Valley Lane Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42192",
+            "Umbrella": "Valley Lane Construction",
+            "Umbrella ID": "12538449",
+            "VB_NAME": "Valley Lane Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42192",
+            "MEMBERNAME": "Valley Lane Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31977",
+            "Umbrella": "John Zivanovic Holdings",
+            "Umbrella ID": "12539873",
+            "VB_NAME": "Grand Port Meadows Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "2002-04-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-04-18 12:30:40.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1669 Chesbro Court",
+            "TELEPHONE": "905-278-5681",
+            "FAX": "905-790-9521",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "309971",
+            "TO": "John (Janko) Zivanovic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-278-5681"
+        },
+        {
+            "TOUNIQUENUMBER": "309971",
+            "TO": "John (Janko) Zivanovic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-278-5681"
+        },
+        {
+            "TOUNIQUENUMBER": "309971",
+            "TO": "John (Janko) Zivanovic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-278-5681"
+        },
+        {
+            "TOUNIQUENUMBER": "11749246",
+            "TO": "Michael (Milorad) Zivanovic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-790-6870"
+        },
+        {
+            "TOUNIQUENUMBER": "11749246",
+            "TO": "Michael (Milorad) Zivanovic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-790-6870"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31977",
+            "Umbrella": "John Zivanovic Holdings",
+            "Umbrella ID": "12539873",
+            "VB_NAME": "Grand Port Meadows Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32362",
+            "MEMBERNAME": "John Zivanovic Holdings Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31977",
+            "Umbrella": "John Zivanovic Holdings",
+            "Umbrella ID": "12539873",
+            "VB_NAME": "Grand Port Meadows Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31977",
+            "MEMBERNAME": "Grand Port Meadows Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31977",
+            "Umbrella": "John Zivanovic Holdings",
+            "Umbrella ID": "12539873",
+            "VB_NAME": "Grand Port Meadows Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22674",
+            "MEMBERNAME": "Grand Port Meadows Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

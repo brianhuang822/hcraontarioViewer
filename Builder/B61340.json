@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61340",
+            "Umbrella": "The TVM Group",
+            "Umbrella ID": "12552295",
+            "VB_NAME": "Metrosuite Inc.",
+            "OPERATINGNAME": "Metrosuite Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-05-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-19 18:34:38.000 +0000",
+            "Expiry Date": "2024-05-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "801 Eglinton Ave West",
+            "TELEPHONE": "416-256-4394",
+            "FAX": "416-781-0776",
+            "WEBSITEURL": "https://metrosuite.ca",
+            "EMAIL": "info@metrosuite.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600010064",
+            "TO": "Jacob Sofer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-4394"
+        },
+        {
+            "TOUNIQUENUMBER": "600010064",
+            "TO": "Jacob Sofer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-4394"
+        },
+        {
+            "TOUNIQUENUMBER": "600010064",
+            "TO": "Jacob Sofer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-4394"
+        },
+        {
+            "TOUNIQUENUMBER": "100286307",
+            "TO": "Amit Sofer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-4394"
+        },
+        {
+            "TOUNIQUENUMBER": "100286307",
+            "TO": "Amit Sofer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-4394"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61340",
+            "Umbrella": "The TVM Group",
+            "Umbrella ID": "12552295",
+            "VB_NAME": "Metrosuite Inc.",
+            "OPERATINGNAME": "Metrosuite Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44300",
+            "MEMBERNAME": "TVM Cobourg Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B61340",
+            "Umbrella": "The TVM Group",
+            "Umbrella ID": "12552295",
+            "VB_NAME": "Metrosuite Inc.",
+            "OPERATINGNAME": "Metrosuite Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47768",
+            "MEMBERNAME": "TVM 195 Hunter Street East Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61340",
+            "Umbrella": "The TVM Group",
+            "Umbrella ID": "12552295",
+            "VB_NAME": "Metrosuite Inc.",
+            "OPERATINGNAME": "Metrosuite Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61340",
+            "MEMBERNAME": "Metrosuite Inc.",
+            "MEMBEROPERATINGNAME": "Metrosuite Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

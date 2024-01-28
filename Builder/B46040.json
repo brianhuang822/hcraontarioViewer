@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46040",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "MGM Dream Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Pickering",
+            "HCRA_INITIALLICENSEDATE": "2017-12-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-11 17:59:42.000 +0000",
+            "Expiry Date": "2024-12-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1315 Pickering Parkway",
+            "TELEPHONE": "647-303-3224",
+            "FAX": null,
+            "WEBSITEURL": "www.mgmdreamhomes.com",
+            "EMAIL": "mgmdreamhomes@gmail.com",
+            "ACCOUNTNUMBER": "B46040",
+            "Total Outstanding Amount": 27401.39,
+            "TAB": 0,
+            "BREACH": 27401.39,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 23430,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 23430
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100422679",
+            "TO": "Ahlam Sadek-Mekhaiel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-303-3224"
+        },
+        {
+            "TOUNIQUENUMBER": "100422679",
+            "TO": "Ahlam Sadek-Mekhaiel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-303-3224"
+        },
+        {
+            "TOUNIQUENUMBER": "100422680",
+            "TO": "Mina Mekhaiel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-303-3224"
+        },
+        {
+            "TOUNIQUENUMBER": "100422680",
+            "TO": "Mina Mekhaiel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-303-3224"
+        },
+        {
+            "TOUNIQUENUMBER": "100422680",
+            "TO": "Mina Mekhaiel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-303-3224"
+        },
+        {
+            "TOUNIQUENUMBER": "100422678",
+            "TO": "Gebraiel Mekhaiel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-303-3224"
+        },
+        {
+            "TOUNIQUENUMBER": "100422678",
+            "TO": "Gebraiel Mekhaiel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-303-3224"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108943",
+            "CHARGE_AGAINST": "M.G.M. Dream Homes Ltd.",
+            "CHARGE_DATE": "2017-06-20",
+            "DISPOSITION_DATE": "2018-01-03",
+            "THE_FINE_": "2500",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "3125",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326928",
+            "ORGANIZATION_NAME": "M.G.M. Dream Homes Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Whitby, ON",
+            "CITY_DEFENCE": "Pickering, ON",
+            "VB_NUMBER": "B46040",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108943 9326928",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Whitby, Town",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "FROM_OFFENCE_DATE": "2016-05-13",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "5625",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B46040",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "MGM Dream Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

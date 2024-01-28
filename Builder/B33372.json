@@ -1,0 +1,139 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33372",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (Hurontario) Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "VANCOUVER",
+            "HCRA_INITIALLICENSEDATE": "2003-06-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-06-04 15:00:34.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "856 Homer St., Ste. 500",
+            "TELEPHONE": "604/602-4445",
+            "FAX": "416-369-9068",
+            "WEBSITEURL": "www.amacon.com",
+            "EMAIL": "dmather@amacon.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11637595",
+            "TO": "Marcello De Cotiis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11637595",
+            "TO": "Marcello De Cotiis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11637595",
+            "TO": "Marcello De Cotiis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11771027",
+            "TO": "Lilliana L. DeCotiis",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-369-9069"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33372",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (Hurontario) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31498",
+            "MEMBERNAME": "Amacon Development (Parkway) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33372",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (Hurontario) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32628",
+            "MEMBERNAME": "Amacon Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B33372",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (Hurontario) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33372",
+            "MEMBERNAME": "Amacon Development (Hurontario) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33372",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (Hurontario) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38706",
+            "MEMBERNAME": "Amacon Development (City Centre) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Eve",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "3515 Kariya Dr",
+            "# of Units": 276,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-04-09"
+        },
+        {
+            "Condo Project Name": "Eden Park",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 3504 Hurontario St. ",
+            "# of Units": 300,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-03-02"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B12276",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Birchwood Bldrs (st.Cath) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "1976-01-02",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "1979-05-27 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "TARION",
+            "TELEPHONE": "(416)000-0000",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "318843",
+            "TO": "Dien Langendoen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "318837",
+            "TO": "Cornelius Langendoen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "andrelangendoen@sympatico.ca"
+        },
+        {
+            "TOUNIQUENUMBER": "337343",
+            "TO": "John Wynia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B12276",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Birchwood Bldrs (st.Cath) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "ST CATHARINES",
+            "Address": "168 Lake St",
+            "# of Units": 64,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1981-10-01"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "ST CATHARINES",
+            "Address": "75 Ventura Drive",
+            "# of Units": 97,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1978-05-09"
+        }
+    ],
+    "builderConditions": []
+}

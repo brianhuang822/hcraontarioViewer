@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27850",
+            "Umbrella": "Jay Robinson Custom Homes",
+            "Umbrella ID": "11062",
+            "VB_NAME": "Jay Robinson Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Campbellville",
+            "HCRA_INITIALLICENSEDATE": "1998-11-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-30 21:42:22.000 +0000",
+            "Expiry Date": "2024-12-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10090 Pineview Trail",
+            "TELEPHONE": "905-699-4116",
+            "FAX": "905-854-3440",
+            "WEBSITEURL": "jayrobinson.ca",
+            "EMAIL": "jay@jayrobinson.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 9,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 9,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "328570",
+            "TO": "Jay Robinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-699-4116"
+        },
+        {
+            "TOUNIQUENUMBER": "328570",
+            "TO": "Jay Robinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-699-4116"
+        },
+        {
+            "TOUNIQUENUMBER": "328570",
+            "TO": "Jay Robinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-699-4116"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27850",
+            "Umbrella": "Jay Robinson Custom Homes",
+            "Umbrella ID": "11062",
+            "VB_NAME": "Jay Robinson Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B11023",
+            "MEMBERNAME": "Jay Robinson Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27850",
+            "Umbrella": "Jay Robinson Custom Homes",
+            "Umbrella ID": "11062",
+            "VB_NAME": "Jay Robinson Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27850",
+            "MEMBERNAME": "Jay Robinson Custom Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

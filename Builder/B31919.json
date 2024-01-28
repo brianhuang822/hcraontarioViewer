@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31919",
+            "Umbrella": "DCRM Builders",
+            "Umbrella ID": "12422268",
+            "VB_NAME": "D & J Charbonneau Ltee",
+            "OPERATINGNAME": null,
+            "CITY": "PLANTAGENET",
+            "HCRA_INITIALLICENSEDATE": "2001-12-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-12-05 16:00:49.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2075 Conc. 1",
+            "TELEPHONE": "(613)673-9283",
+            "FAX": "(613) 673-9283",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "305915",
+            "TO": "Denis Charbonneau",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-673-9283"
+        },
+        {
+            "TOUNIQUENUMBER": "305915",
+            "TO": "Denis Charbonneau",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-673-9283"
+        },
+        {
+            "TOUNIQUENUMBER": "305915",
+            "TO": "Denis Charbonneau",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-673-9283"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31919",
+            "Umbrella": "DCRM Builders",
+            "Umbrella ID": "12422268",
+            "VB_NAME": "D & J Charbonneau Ltee",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31919",
+            "MEMBERNAME": "D & J Charbonneau Ltee",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31919",
+            "Umbrella": "DCRM Builders",
+            "Umbrella ID": "12422268",
+            "VB_NAME": "D & J Charbonneau Ltee",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B1390",
+            "MEMBERNAME": "D.& J. Charbonneau Ltee.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31919",
+            "Umbrella": "DCRM Builders",
+            "Umbrella ID": "12422268",
+            "VB_NAME": "D & J Charbonneau Ltee",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40505",
+            "MEMBERNAME": "DCRM Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

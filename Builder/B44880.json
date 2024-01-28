@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44880",
+            "Umbrella": "Enirox",
+            "Umbrella ID": "12543831",
+            "VB_NAME": "Enirox Group Management & Consulting Inc.",
+            "OPERATINGNAME": "Enirox Group Management & Consulting Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2015-11-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-28 20:29:47.000 +0000",
+            "Expiry Date": "2024-11-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "101 Railside Road",
+            "TELEPHONE": "416-661-6900",
+            "FAX": "416-661-6906",
+            "WEBSITEURL": "www.enirox.com",
+            "EMAIL": "ssales@enirox.com",
+            "ACCOUNTNUMBER": "B44880",
+            "Total Outstanding Amount": 260588,
+            "TAB": 260588,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 21713.4,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 21713.4
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12318678",
+            "TO": "Arash Kamali",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-6900"
+        },
+        {
+            "TOUNIQUENUMBER": "12318678",
+            "TO": "Arash Kamali",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-6900"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44880",
+            "Umbrella": "Enirox",
+            "Umbrella ID": "12543831",
+            "VB_NAME": "Enirox Group Management & Consulting Inc.",
+            "OPERATINGNAME": "Enirox Group Management & Consulting Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40853",
+            "MEMBERNAME": "2164008 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44880",
+            "Umbrella": "Enirox",
+            "Umbrella ID": "12543831",
+            "VB_NAME": "Enirox Group Management & Consulting Inc.",
+            "OPERATINGNAME": "Enirox Group Management & Consulting Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44880",
+            "MEMBERNAME": "Enirox Group Management & Consulting Inc.",
+            "MEMBEROPERATINGNAME": "Enirox Group Management & Consulting Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44880",
+            "Umbrella": "Enirox",
+            "Umbrella ID": "12543831",
+            "VB_NAME": "Enirox Group Management & Consulting Inc.",
+            "OPERATINGNAME": "Enirox Group Management & Consulting Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39234",
+            "MEMBERNAME": "Enirox Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,404 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2005-12-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-12-22 16:02:07.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "17 Nelson St.",
+            "TELEPHONE": "416-304-1755",
+            "FAX": "416-304-0736",
+            "WEBSITEURL": "www.urbancapital.ca",
+            "EMAIL": "cook@urbancapital.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "333056",
+            "TO": "Ian Taggart",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "344533",
+            "TO": "Christopher Taggart",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-2973"
+        },
+        {
+            "TOUNIQUENUMBER": "344533",
+            "TO": "Christopher Taggart",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-2973"
+        },
+        {
+            "TOUNIQUENUMBER": "333057",
+            "TO": "James Taggart",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-521-3000"
+        },
+        {
+            "TOUNIQUENUMBER": "342563",
+            "TO": "David Wex",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-304-0431"
+        },
+        {
+            "TOUNIQUENUMBER": "342563",
+            "TO": "David Wex",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-304-0431"
+        },
+        {
+            "TOUNIQUENUMBER": "11698476",
+            "TO": "Brad Lamb",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-368-5262"
+        },
+        {
+            "TOUNIQUENUMBER": "342872",
+            "TO": "Mark Reeve",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-304-0434"
+        },
+        {
+            "TOUNIQUENUMBER": "342872",
+            "TO": "Mark Reeve",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-304-0434"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47744",
+            "MEMBERNAME": "Reina Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44202",
+            "MEMBERNAME": "Ravine Development GP Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38547",
+            "MEMBERNAME": "Urban Capital (Gladstone) Inc.",
+            "MEMBEROPERATINGNAME": "Central",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33872",
+            "MEMBERNAME": "St. Andrew On The Green Inc.",
+            "MEMBEROPERATINGNAME": "St. Andrew On The Green",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45934",
+            "MEMBERNAME": "Urban Capital Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36113",
+            "MEMBERNAME": "Urban Capital (Laurier) Inc.",
+            "MEMBEROPERATINGNAME": "Mondrian",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45741",
+            "MEMBERNAME": "4208 Dundas Development GP Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40771",
+            "MEMBERNAME": "250 Manning Avenue Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48040",
+            "MEMBERNAME": "Urban Capital (James Street) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40081",
+            "MEMBERNAME": "Urban Capital (River City 1) Inc.",
+            "MEMBEROPERATINGNAME": "River City",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40417",
+            "MEMBERNAME": "Urban Capital (Central 2) Inc.",
+            "MEMBEROPERATINGNAME": "Central 2",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42742",
+            "MEMBERNAME": "Queen Simcoe Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33220",
+            "MEMBERNAME": "Urban Capital (George) Inc.",
+            "MEMBEROPERATINGNAME": "East Market Phase 3",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36035",
+            "MEMBERNAME": "Simcoe Nelson Property Inc.",
+            "MEMBEROPERATINGNAME": "Boutique",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43928",
+            "MEMBERNAME": "Urban Capital (Flora) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40714",
+            "MEMBERNAME": "Richmond-Peter Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31391",
+            "MEMBERNAME": "Urban Capital (York) Inc.",
+            "MEMBEROPERATINGNAME": "The East Market",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45801",
+            "MEMBERNAME": "Urban Capital (River City 4) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41588",
+            "MEMBERNAME": "Urban Capital (Central 3) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46036",
+            "MEMBERNAME": "Urban Capital - Rosewater 1 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28230",
+            "MEMBERNAME": "Urban Capital (Charlotte) Inc.",
+            "MEMBEROPERATINGNAME": "Charlotte",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40171",
+            "MEMBERNAME": "Nicholas Mary Property Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41617",
+            "MEMBERNAME": "Urban Capital (River City 2) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36113",
+            "Umbrella": "Urban Capital Property Group",
+            "Umbrella ID": "11742466",
+            "VB_NAME": "Urban Capital (Laurier) Inc.",
+            "OPERATINGNAME": "Mondrian",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43584",
+            "MEMBERNAME": "Urban Capital (River City 3) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Mondrian",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "324 Laurier Ave. W.",
+            "# of Units": 249,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-12-23"
+        }
+    ],
+    "builderConditions": []
+}

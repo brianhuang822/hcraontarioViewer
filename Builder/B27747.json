@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27747",
+            "Umbrella": "Sky Homes",
+            "Umbrella ID": "10827",
+            "VB_NAME": "Sky Homes Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Concord",
+            "HCRA_INITIALLICENSEDATE": "1998-09-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-15 17:29:06.000 +0000",
+            "Expiry Date": "2024-09-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3300 Steeles Avenue West",
+            "TELEPHONE": "416-663-9334",
+            "FAX": "416-663-8109",
+            "WEBSITEURL": "www.skyhomes.ca",
+            "EMAIL": "skyhomescorporation@rogers.com",
+            "ACCOUNTNUMBER": "B27747",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 94,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 94,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329488",
+            "TO": "Arthur Saccoccia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-663-9334"
+        },
+        {
+            "TOUNIQUENUMBER": "329488",
+            "TO": "Arthur Saccoccia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-663-9334"
+        },
+        {
+            "TOUNIQUENUMBER": "329488",
+            "TO": "Arthur Saccoccia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-663-9334"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27747",
+            "Umbrella": "Sky Homes",
+            "Umbrella ID": "10827",
+            "VB_NAME": "Sky Homes Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46219",
+            "MEMBERNAME": "Kleinburg Village Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27747",
+            "Umbrella": "Sky Homes",
+            "Umbrella ID": "10827",
+            "VB_NAME": "Sky Homes Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27747",
+            "MEMBERNAME": "Sky Homes Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27747",
+            "Umbrella": "Sky Homes",
+            "Umbrella ID": "10827",
+            "VB_NAME": "Sky Homes Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B7668",
+            "MEMBERNAME": "Ledi Properties Inc.",
+            "MEMBEROPERATINGNAME": "Ledi Properties Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27747",
+            "Umbrella": "Sky Homes",
+            "Umbrella ID": "10827",
+            "VB_NAME": "Sky Homes Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33124",
+            "MEMBERNAME": "Crestvale Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27747",
+            "Umbrella": "Sky Homes",
+            "Umbrella ID": "10827",
+            "VB_NAME": "Sky Homes Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47978",
+            "MEMBERNAME": "Coppertrail Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Cherry Lane",
+            "Project Status": null,
+            "Location": "MISSISSAUGA",
+            "Address": " 3105 Cawthra Rd. ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

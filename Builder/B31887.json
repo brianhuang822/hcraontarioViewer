@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31887",
+            "Umbrella": "Condos On Broadway",
+            "Umbrella ID": "12542254",
+            "VB_NAME": "Cesta Developments Inc.",
+            "OPERATINGNAME": "Cesta Developments",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2001-11-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-25 21:52:29.000 +0000",
+            "Expiry Date": "2024-11-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "536 Queens Drive",
+            "TELEPHONE": "905-873-3335",
+            "FAX": "905-873-0325",
+            "WEBSITEURL": "cestadevelopments.com",
+            "EMAIL": "info@cestadevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 42,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 42,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11739509",
+            "TO": "Carmine Cesta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-873-3335"
+        },
+        {
+            "TOUNIQUENUMBER": "11739509",
+            "TO": "Carmine Cesta",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-873-3335"
+        },
+        {
+            "TOUNIQUENUMBER": "11739509",
+            "TO": "Carmine Cesta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-873-3335"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31887",
+            "Umbrella": "Condos On Broadway",
+            "Umbrella ID": "12542254",
+            "VB_NAME": "Cesta Developments Inc.",
+            "OPERATINGNAME": "Cesta Developments",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31887",
+            "MEMBERNAME": "Cesta Developments Inc.",
+            "MEMBEROPERATINGNAME": "Cesta Developments",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31887",
+            "Umbrella": "Condos On Broadway",
+            "Umbrella ID": "12542254",
+            "VB_NAME": "Cesta Developments Inc.",
+            "OPERATINGNAME": "Cesta Developments",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61197",
+            "MEMBERNAME": "2572727 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2572727 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31887",
+            "Umbrella": "Condos On Broadway",
+            "Umbrella ID": "12542254",
+            "VB_NAME": "Cesta Developments Inc.",
+            "OPERATINGNAME": "Cesta Developments",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61230",
+            "MEMBERNAME": "1951 Queen Street West Inc.",
+            "MEMBEROPERATINGNAME": "1951 Queen Street West Inc.",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "6995 Glory Crt.",
+            "Project Status": null,
+            "Location": "MISSISSAUGA",
+            "Address": "6995 Glory Crt.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

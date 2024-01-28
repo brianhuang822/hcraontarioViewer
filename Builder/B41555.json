@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41555",
+            "Umbrella": "Wilk & Sons",
+            "Umbrella ID": "12503205",
+            "VB_NAME": "Wilk & Sons Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2011-09-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-13 21:31:13.000 +0000",
+            "Expiry Date": "2024-09-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4374 Corporate Drive",
+            "TELEPHONE": "905-330-9701",
+            "FAX": "905-336-8766",
+            "WEBSITEURL": null,
+            "EMAIL": "rhwilk9@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12146781",
+            "TO": "Robert (Rob) Wilkinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-330-9701"
+        },
+        {
+            "TOUNIQUENUMBER": "12146781",
+            "TO": "Robert (Rob) Wilkinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-330-9701"
+        },
+        {
+            "TOUNIQUENUMBER": "12146781",
+            "TO": "Robert (Rob) Wilkinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-330-9701"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41555",
+            "Umbrella": "Wilk & Sons",
+            "Umbrella ID": "12503205",
+            "VB_NAME": "Wilk & Sons Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46556",
+            "MEMBERNAME": "Hudson Restoration Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41555",
+            "Umbrella": "Wilk & Sons",
+            "Umbrella ID": "12503205",
+            "VB_NAME": "Wilk & Sons Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36577",
+            "MEMBERNAME": "Ironstone Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41555",
+            "Umbrella": "Wilk & Sons",
+            "Umbrella ID": "12503205",
+            "VB_NAME": "Wilk & Sons Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41555",
+            "MEMBERNAME": "Wilk & Sons Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

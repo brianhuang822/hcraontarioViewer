@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44292",
+            "Umbrella": "DMN Enterprises",
+            "Umbrella ID": "12542675",
+            "VB_NAME": "DMN Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2015-03-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-03-07 14:00:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1885 Wilson Ave., Ste. 206",
+            "TELEPHONE": "416/746-2588",
+            "FAX": "416/746-2088",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B44292",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 4,
+            "SUMM_MINOR_AMT": 123660.13,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 123660.13
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11699039",
+            "TO": "Gerardo Damiano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-6166"
+        },
+        {
+            "TOUNIQUENUMBER": "11699039",
+            "TO": "Gerardo Damiano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-6166"
+        },
+        {
+            "TOUNIQUENUMBER": "11699039",
+            "TO": "Gerardo Damiano",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-6166"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44292",
+            "Umbrella": "DMN Enterprises",
+            "Umbrella ID": "12542675",
+            "VB_NAME": "DMN Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44292",
+            "MEMBERNAME": "DMN Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44292",
+            "Umbrella": "DMN Enterprises",
+            "Umbrella ID": "12542675",
+            "VB_NAME": "DMN Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31422",
+            "MEMBERNAME": "Goldstar Park Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44292",
+            "Umbrella": "DMN Enterprises",
+            "Umbrella ID": "12542675",
+            "VB_NAME": "DMN Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37893",
+            "MEMBERNAME": "La Villa Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

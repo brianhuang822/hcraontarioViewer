@@ -1,0 +1,149 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11774",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bevco Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Ancaster",
+            "HCRA_INITIALLICENSEDATE": "1985-04-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-18 13:55:18.000 +0000",
+            "Expiry Date": "2024-04-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7 Cedar Grove Court",
+            "TELEPHONE": "905-304-0188",
+            "FAX": null,
+            "WEBSITEURL": "bevcohomes.ca",
+            "EMAIL": "fernando@bevcohomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 91,
+            "SUMM_CONDO": 21,
+            "SUMM_TOTAL": 112,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "327799",
+            "TO": "Fernando Recchia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-304-0188"
+        },
+        {
+            "TOUNIQUENUMBER": "327799",
+            "TO": "Fernando Recchia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-304-0188"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11774",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bevco Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WALNUT GROVE OF ANCASTER",
+            "Project Status": null,
+            "Location": "ANCASTER",
+            "Address": "195 Wilson St., W.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Fernridge Estates Simcoe",
+            "Project Status": null,
+            "Location": "SIMCOE",
+            "Address": " 545 Queensway West ",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Fern Ridge Estates",
+            "Project Status": null,
+            "Location": "BURLINGTON",
+            "Address": "299,313 Plains Rd. W.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "33 Jarvis",
+            "Project Status": null,
+            "Location": "BRANTFORD",
+            "Address": "33 Jarvis St.",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": null,
+            "Location": "HAMILTON",
+            "Address": "231 York Rd.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Fern Ridge Estates",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "60 Dufferin Ave.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-12-09"
+        },
+        {
+            "Condo Project Name": "Fern Ridge Estates",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "60 Dufferin Ave.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-03-12"
+        },
+        {
+            "Condo Project Name": "VALLEY CREEK ESTATE",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": " 2166 Headon Rd ",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-07-12"
+        }
+    ],
+    "builderConditions": []
+}

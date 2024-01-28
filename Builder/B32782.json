@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32782",
+            "Umbrella": "Gregory Moffatt",
+            "Umbrella ID": "12540368",
+            "VB_NAME": "Gregory Moffatt",
+            "OPERATINGNAME": null,
+            "CITY": "BRAMPTON",
+            "HCRA_INITIALLICENSEDATE": "2003-05-20",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2004-09-14 18:13:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "16 Sherwood Cres.",
+            "TELEPHONE": "(905) 453-7111",
+            "FAX": "(905) 453-7111",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344573",
+            "TO": "Greg Moffatt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-763-9574"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32782",
+            "Umbrella": "Gregory Moffatt",
+            "Umbrella ID": "12540368",
+            "VB_NAME": "Gregory Moffatt",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B32782",
+            "MEMBERNAME": "Gregory Moffatt",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B32782",
+            "Umbrella": "Gregory Moffatt",
+            "Umbrella ID": "12540368",
+            "VB_NAME": "Gregory Moffatt",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B27999",
+            "MEMBERNAME": "Greg Moffatt",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

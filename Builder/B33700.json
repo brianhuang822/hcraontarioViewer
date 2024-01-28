@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33700",
+            "Umbrella": "Krista Construction",
+            "Umbrella ID": "12539827",
+            "VB_NAME": "Krista Construction Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2003-09-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-31 21:05:54.000 +0000",
+            "Expiry Date": "2024-09-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1292 Humber Place",
+            "TELEPHONE": "613-745-5524",
+            "FAX": "613-745-6120",
+            "WEBSITEURL": " ",
+            "EMAIL": "geoff@kristaconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "319080",
+            "TO": "Geoffrey Lauzon",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-745-5524"
+        },
+        {
+            "TOUNIQUENUMBER": "319080",
+            "TO": "Geoffrey Lauzon",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-745-5524"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33700",
+            "Umbrella": "Krista Construction",
+            "Umbrella ID": "12539827",
+            "VB_NAME": "Krista Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B763",
+            "MEMBERNAME": "Krista Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33700",
+            "Umbrella": "Krista Construction",
+            "Umbrella ID": "12539827",
+            "VB_NAME": "Krista Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33700",
+            "MEMBERNAME": "Krista Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

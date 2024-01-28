@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43604",
+            "Umbrella": "The Brightstar Group",
+            "Umbrella ID": "12540174",
+            "VB_NAME": "Brightstar Newcastle Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Unionville",
+            "HCRA_INITIALLICENSEDATE": "2014-04-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-21 14:22:25.000 +0000",
+            "Expiry Date": "2024-04-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "24 Millstone Court",
+            "TELEPHONE": "647-523-7580",
+            "FAX": "416/362-1218",
+            "WEBSITEURL": "www.brookhousegate.com",
+            "EMAIL": "bdkd@sympatico.ca",
+            "ACCOUNTNUMBER": "B43604",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 78,
+            "SUMM_TOTAL": 78,
+            "SUMM_CC": 5,
+            "SUMM_MINOR": 4,
+            "SUMM_MINOR_AMT": 13495.98,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 13495.98
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12250373",
+            "TO": "James Buckler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-362-5890"
+        },
+        {
+            "TOUNIQUENUMBER": "12250373",
+            "TO": "James Buckler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-362-5890"
+        },
+        {
+            "TOUNIQUENUMBER": "338292",
+            "TO": "John Blackburn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-462-1852"
+        },
+        {
+            "TOUNIQUENUMBER": "338292",
+            "TO": "John Blackburn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-462-1852"
+        },
+        {
+            "TOUNIQUENUMBER": "11656645",
+            "TO": "Lawson Gay",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-432-4877"
+        },
+        {
+            "TOUNIQUENUMBER": "11656645",
+            "TO": "Lawson Gay",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-432-4877"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43604",
+            "Umbrella": "The Brightstar Group",
+            "Umbrella ID": "12540174",
+            "VB_NAME": "Brightstar Newcastle Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43604",
+            "MEMBERNAME": "Brightstar Newcastle Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43604",
+            "Umbrella": "The Brightstar Group",
+            "Umbrella ID": "12540174",
+            "VB_NAME": "Brightstar Newcastle Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38155",
+            "MEMBERNAME": "Brightstar Crates Landing Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Brookhouse Gate",
+            "Project Status": "Completed",
+            "Location": "CLARINGTON",
+            "Address": " 21 Brookhouse Drive ",
+            "# of Units": 78,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-06-18"
+        }
+    ],
+    "builderConditions": []
+}

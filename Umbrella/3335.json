@@ -1,0 +1,601 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Royal Pine Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 6,
+            "TOTALUNITS": 1745,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 500.22,
+            "ADDRESS": "3550 Langstaff Road",
+            "TELEPHONE": "905-856-2150",
+            "FAX": "905-856-6543",
+            "WEBSITEURL": "https://www.royalpinehomes.com",
+            "EMAIL": "nick@royalpinehomes.com",
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Rangebury Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32048",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cambria Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17862",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eaglepoint Estates Inc.",
+            "MEMBEROPERATINGNAME": "Stonewood",
+            "MEMBERVBNUM": "B24383",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Blanefield Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20273",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Southberry Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38919",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1668872 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43186",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Glenhill Estates Inc.",
+            "MEMBEROPERATINGNAME": "Glenhill",
+            "MEMBERVBNUM": "B31328",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Wayburn Developments Inc.",
+            "MEMBEROPERATINGNAME": "Millbrook Gate",
+            "MEMBERVBNUM": "B28426",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rideglen Investments Inc.",
+            "MEMBEROPERATINGNAME": "Castlemore Village",
+            "MEMBERVBNUM": "B33978",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dewridge Estates Inc.",
+            "MEMBEROPERATINGNAME": "Royal Springs",
+            "MEMBERVBNUM": "B33007",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Royalview Estates Inc.",
+            "MEMBEROPERATINGNAME": "Manors Of Boyd Park",
+            "MEMBERVBNUM": "B23612",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Forestside Estates Inc..",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33008",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Colridge Holdings Inc.",
+            "MEMBEROPERATINGNAME": "Millbrook Gate",
+            "MEMBERVBNUM": "B30825",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Forestside Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47335",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Stagrun Developments Inc.",
+            "MEMBEROPERATINGNAME": "Bedford Park",
+            "MEMBERVBNUM": "B25872",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2185715 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2185715 Ontario Inc.",
+            "MEMBERVBNUM": "B60454",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Grovetrail Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48531",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Huntview Estates Inc.",
+            "MEMBEROPERATINGNAME": "Knotting Hill",
+            "MEMBERVBNUM": "B31703",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Hollyrod Developments Inc.",
+            "MEMBEROPERATINGNAME": "Royal Cachet",
+            "MEMBERVBNUM": "B27591",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bralawn Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38917",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Oakcourt Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26895",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stonevalley Estates Inc.",
+            "MEMBEROPERATINGNAME": "Belvedere Estates",
+            "MEMBERVBNUM": "B25310",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Hillglen Estates Inc.",
+            "MEMBEROPERATINGNAME": "Enchanted Forest",
+            "MEMBERVBNUM": "B25759",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Foxchapel Estates Inc.",
+            "MEMBEROPERATINGNAME": "Levi Creek",
+            "MEMBERVBNUM": "B27914",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bridle Village Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20272",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Summer Ridge Estates Inc.",
+            "MEMBEROPERATINGNAME": "Summer Ridge Estates Inc.",
+            "MEMBERVBNUM": "B62106",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "FSRC Investments Inc.",
+            "MEMBEROPERATINGNAME": "Royal Princeton Estates Phase II",
+            "MEMBERVBNUM": "B35178",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Braylea Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44917",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Garden Village Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42929",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cliftongate Investments Inc.",
+            "MEMBEROPERATINGNAME": "Royal Princeton Park",
+            "MEMBERVBNUM": "B26031",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eldershire Place Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17865",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ivycrest Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32058",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lyngate Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40186",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Woodpath Estates Inc.",
+            "MEMBEROPERATINGNAME": "Maple Springs",
+            "MEMBERVBNUM": "B24409",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Millglen Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40185",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Elderhills Developments Inc.",
+            "MEMBEROPERATINGNAME": "Elderhills",
+            "MEMBERVBNUM": "B22175",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Huntdale Estates Inc.",
+            "MEMBEROPERATINGNAME": "Mackenzie Chase",
+            "MEMBERVBNUM": "B35662",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Denford Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38921",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Daletree Developments Inc.",
+            "MEMBEROPERATINGNAME": "Royal Ridge Estates",
+            "MEMBERVBNUM": "B24670",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 161,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 161,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 346,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 346,
+            "Chargeable Conciliation": 2,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 97,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 97,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 276,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 276,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 282,
+            "Condo Unit Posessions": 91,
+            "Total Posessions": 373,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 71,
+            "Condo Unit Posessions": 4,
+            "Total Posessions": 75,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 132,
+            "Total Posessions": 132,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 72,
+            "Condo Unit Posessions": 12,
+            "Total Posessions": 84,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 1,
+            "Condo Unit Posessions": 6,
+            "Total Posessions": 7,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 500.22,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 500.22,
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 78,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 78,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 71,
+            "Condo Unit Posessions": 206,
+            "Total Posessions": 277,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1294,
+            "SUMM_CONDO": 451,
+            "SUMM_TOTAL": 1745,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 500.22,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 500.22,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Hampton Place",
+            "Account Number": "B44917",
+            "Project Status": "Completed",
+            "Location": "STOUFFVILLE",
+            "Address": "25 Baker Hill Blvd.",
+            "# of Units": 156,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-08-20"
+        },
+        {
+            "Condo Project Name": "Capo Di Monte",
+            "Account Number": "B43186",
+            "Project Status": "Completed",
+            "Location": "WOODBRIDGE",
+            "Address": " 9909 Pine Valley Dr. ",
+            "# of Units": 98,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-04-25"
+        },
+        {
+            "Condo Project Name": "MILLBROOK GATE SOUTH",
+            "Account Number": "B30825",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "  Drew Kelly Way/Golf WayMellisa Way ",
+            "# of Units": 82,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-11-25"
+        },
+        {
+            "Condo Project Name": "MILLBROOK GATE",
+            "Account Number": "B28426",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "Caleb Way/Michael Way/Asalin Way",
+            "# of Units": 60,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-04-23"
+        },
+        {
+            "Condo Project Name": "BEDFORD PARK",
+            "Account Number": "B25872",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1575 South Parade Crt.",
+            "# of Units": 68,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-07-26"
+        },
+        {
+            "Condo Project Name": "BEDFORD PARK",
+            "Account Number": "B25872",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1591 South Parade Crt.",
+            "# of Units": 63,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-11-20"
+        },
+        {
+            "Condo Project Name": "BEDFORD PARK",
+            "Account Number": "B25872",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1588 South Parade Crt.",
+            "# of Units": 82,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-08-25"
+        },
+        {
+            "Condo Project Name": "CLAIREVILLE URBAN TOWNS",
+            "Account Number": "B47335",
+            "Project Status": "In Progress",
+            "Location": "BRAMPTON",
+            "Address": " 65, 75, 85 Attmar Dr. ",
+            "# of Units": 207,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

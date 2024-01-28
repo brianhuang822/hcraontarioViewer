@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47342",
+            "Umbrella": "HDB Holdings",
+            "Umbrella ID": "12552315",
+            "VB_NAME": "Aaron Breier and Michelle Breier",
+            "OPERATINGNAME": null,
+            "CITY": "BURLINGTON",
+            "HCRA_INITIALLICENSEDATE": "2020-11-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-11-07 04:15:17.000 +0000",
+            "Expiry Date": "2021-11-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5228 Walkers Line",
+            "TELEPHONE": "289/337-5120",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "aaron@nestfinehomes.com",
+            "ACCOUNTNUMBER": "B47342",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 245121.6,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 245121.6
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100534803",
+            "TO": "Michelle Breier (McCutcheon)",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-580-2489"
+        },
+        {
+            "TOUNIQUENUMBER": "100515060",
+            "TO": "Aaron Breier",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-337-5120"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47342",
+            "Umbrella": "HDB Holdings",
+            "Umbrella ID": "12552315",
+            "VB_NAME": "Aaron Breier and Michelle Breier",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47156",
+            "MEMBERNAME": "2523820 Ontario Corp.",
+            "MEMBEROPERATINGNAME": "Nest Fine Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47342",
+            "Umbrella": "HDB Holdings",
+            "Umbrella ID": "12552315",
+            "VB_NAME": "Aaron Breier and Michelle Breier",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47342",
+            "MEMBERNAME": "Aaron Breier and Michelle Breier",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

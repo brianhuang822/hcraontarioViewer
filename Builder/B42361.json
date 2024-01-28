@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42361",
+            "Umbrella": "Les Fondations Brisson",
+            "Umbrella ID": "12539757",
+            "VB_NAME": "Falcon Home Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Casselman",
+            "HCRA_INITIALLICENSEDATE": "2013-01-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-05 19:18:33.000 +0000",
+            "Expiry Date": "2024-06-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 981",
+            "TELEPHONE": "613-764-1530",
+            "FAX": "613-764-3376",
+            "WEBSITEURL": "www.falconhomeconstruction.ca",
+            "EMAIL": "marc@falconhomeconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 219,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 219,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100174286",
+            "TO": "Sebastien Brisson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-764-1530"
+        },
+        {
+            "TOUNIQUENUMBER": "100174286",
+            "TO": "Sebastien Brisson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-764-1530"
+        },
+        {
+            "TOUNIQUENUMBER": "304202",
+            "TO": "Marc Brisson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-764-1530"
+        },
+        {
+            "TOUNIQUENUMBER": "304202",
+            "TO": "Marc Brisson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-764-1530"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42361",
+            "Umbrella": "Les Fondations Brisson",
+            "Umbrella ID": "12539757",
+            "VB_NAME": "Falcon Home Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32457",
+            "MEMBERNAME": "Les Fondations Brisson Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42361",
+            "Umbrella": "Les Fondations Brisson",
+            "Umbrella ID": "12539757",
+            "VB_NAME": "Falcon Home Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B16383",
+            "MEMBERNAME": "Les Fondations Brisson Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42361",
+            "Umbrella": "Les Fondations Brisson",
+            "Umbrella ID": "12539757",
+            "VB_NAME": "Falcon Home Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42361",
+            "MEMBERNAME": "Falcon Home Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

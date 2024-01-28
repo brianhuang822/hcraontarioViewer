@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35208",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Maplehurst Developers and Builders Inc.",
+            "OPERATINGNAME": "Maplehurst Homes",
+            "CITY": "Brampton",
+            "HCRA_INITIALLICENSEDATE": "2004-12-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-12-08 13:00:40.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4 Petworth RD",
+            "TELEPHONE": "905/846-6939",
+            "FAX": "1-888-800-4805",
+            "WEBSITEURL": "www.maplehursthomes.com",
+            "EMAIL": "tmbaig@gmail.com",
+            "ACCOUNTNUMBER": "B35208",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 4,
+            "SUMM_MINOR_AMT": 75694.55,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 75694.55
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12050133",
+            "TO": "Tahir Mahmood Baig",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-846-6939"
+        },
+        {
+            "TOUNIQUENUMBER": "12050133",
+            "TO": "Tahir Mahmood Baig",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-846-6939"
+        },
+        {
+            "TOUNIQUENUMBER": "12050133",
+            "TO": "Tahir Mahmood Baig",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-846-6939"
+        },
+        {
+            "TOUNIQUENUMBER": "100123241",
+            "TO": "Aksa Tahir Baig",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-846-6939"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35208",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Maplehurst Developers and Builders Inc.",
+            "OPERATINGNAME": "Maplehurst Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "VILLAGE AT LOCK 19, PETERBOUGH",
+            "Project Status": null,
+            "Location": "PETERBOROUGH",
+            "Address": "35 Brinton Ave.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

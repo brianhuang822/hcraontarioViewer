@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21993",
+            "Umbrella": "Armel Corporation",
+            "Umbrella ID": "12540634",
+            "VB_NAME": "Armel Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1992-05-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-08-06 21:45:31.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "181 Bay St.,Ste. 2800 BCE Place",
+            "TELEPHONE": "(416)364-1480",
+            "FAX": "(416)364-1485",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "337105",
+            "TO": "Melvyn Wolfond",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-789-4561"
+        },
+        {
+            "TOUNIQUENUMBER": "337105",
+            "TO": "Melvyn Wolfond",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-789-4561"
+        },
+        {
+            "TOUNIQUENUMBER": "337104",
+            "TO": "Arthur Wolfond",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-789-4561"
+        },
+        {
+            "TOUNIQUENUMBER": "337104",
+            "TO": "Arthur Wolfond",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-789-4561"
+        },
+        {
+            "TOUNIQUENUMBER": "314245",
+            "TO": "Robert P. Hall",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-346-1480"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21993",
+            "Umbrella": "Armel Corporation",
+            "Umbrella ID": "12540634",
+            "VB_NAME": "Armel Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B12879",
+            "MEMBERNAME": "Armel Corporation,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B21993",
+            "Umbrella": "Armel Corporation",
+            "Umbrella ID": "12540634",
+            "VB_NAME": "Armel Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B21993",
+            "MEMBERNAME": "Armel Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

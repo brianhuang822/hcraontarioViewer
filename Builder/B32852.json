@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32852",
+            "Umbrella": "Stoney Meadow Homes",
+            "Umbrella ID": "12539922",
+            "VB_NAME": "Stoney Meadow Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "VARS",
+            "HCRA_INITIALLICENSEDATE": "2002-11-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-11-22 14:00:15.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1105 Burton Rd.",
+            "TELEPHONE": "613-445-3265",
+            "FAX": "613-445-3265",
+            "WEBSITEURL": " ",
+            "EMAIL": "debbiearmstrong@xplornet.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "301403",
+            "TO": "Deborah Armstrong",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-445-3265"
+        },
+        {
+            "TOUNIQUENUMBER": "301403",
+            "TO": "Deborah Armstrong",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-445-3265"
+        },
+        {
+            "TOUNIQUENUMBER": "301403",
+            "TO": "Deborah Armstrong",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-445-3265"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32852",
+            "Umbrella": "Stoney Meadow Homes",
+            "Umbrella ID": "12539922",
+            "VB_NAME": "Stoney Meadow Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32852",
+            "MEMBERNAME": "Stoney Meadow Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32852",
+            "Umbrella": "Stoney Meadow Homes",
+            "Umbrella ID": "12539922",
+            "VB_NAME": "Stoney Meadow Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B19968",
+            "MEMBERNAME": "Leahcraft Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

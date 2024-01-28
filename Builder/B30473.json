@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B30473",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Intrawest ULC",
+            "OPERATINGNAME": null,
+            "CITY": "Blue Mountain",
+            "HCRA_INITIALLICENSEDATE": "2000-05-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-03-08 19:53:37.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "218 Jozo Weider Boulevard",
+            "TELEPHONE": "1-888-696-2583",
+            "FAX": "705-445-9185",
+            "WEBSITEURL": "www.intrawest.com",
+            "EMAIL": "dpiggott@intrawest.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B30473",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Intrawest ULC",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Mosaic At Blue Phase 2",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": " 190 Jozo Weider Blvd. ",
+            "# of Units": 78,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-06-22"
+        },
+        {
+            "Condo Project Name": "Mosaic At Blue",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "190 Jozo Weider Blvd",
+            "# of Units": 85,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-10-29"
+        },
+        {
+            "Condo Project Name": "THE GRAND GEORGIAN",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": " 130 Fairway Crt ",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-08-10"
+        },
+        {
+            "Condo Project Name": "SEASONS AT BLUE",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "170 Jozo Weider Blvd",
+            "# of Units": 83,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-07-11"
+        }
+    ],
+    "builderConditions": []
+}

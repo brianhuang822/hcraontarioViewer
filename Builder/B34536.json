@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34536",
+            "Umbrella": "Henriette Robitaille",
+            "Umbrella ID": "12540515",
+            "VB_NAME": "Claremount Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "ST. THOMAS",
+            "HCRA_INITIALLICENSEDATE": "2004-08-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-09-01 15:01:18.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9 Havenridge Court",
+            "TELEPHONE": "519-631-9625",
+            "FAX": "519-631-3524",
+            "WEBSITEURL": "www.claremounthomes.com",
+            "EMAIL": "sales@claremounthomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11754740",
+            "TO": "Henriette B. Robitaille",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-631-9625"
+        },
+        {
+            "TOUNIQUENUMBER": "11754740",
+            "TO": "Henriette B. Robitaille",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-631-9625"
+        },
+        {
+            "TOUNIQUENUMBER": "11754740",
+            "TO": "Henriette B. Robitaille",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-631-9625"
+        },
+        {
+            "TOUNIQUENUMBER": "328611",
+            "TO": "Gilbert Robitaille",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-868-6051"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34536",
+            "Umbrella": "Henriette Robitaille",
+            "Umbrella ID": "12540515",
+            "VB_NAME": "Claremount Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34536",
+            "MEMBERNAME": "Claremount Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34536",
+            "Umbrella": "Henriette Robitaille",
+            "Umbrella ID": "12540515",
+            "VB_NAME": "Claremount Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32014",
+            "MEMBERNAME": "Henriette B. Robitaille",
+            "MEMBEROPERATINGNAME": "Best Quality Builders",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

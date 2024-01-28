@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35943",
+            "Umbrella": "Meric Homes",
+            "Umbrella ID": "12541228",
+            "VB_NAME": "Meric Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "BETHANY",
+            "HCRA_INITIALLICENSEDATE": "2005-09-09",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "2006-08-01 00:25:35.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "14 Woodland Tr.",
+            "TELEPHONE": "705-277-3919",
+            "FAX": "705-277-2043",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B35943",
+            "Total Outstanding Amount": 0.01,
+            "TAB": 0,
+            "BREACH": 0.01,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11639432",
+            "TO": "Eric Smith",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-277-3919"
+        },
+        {
+            "TOUNIQUENUMBER": "11639432",
+            "TO": "Eric Smith",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-277-3919"
+        },
+        {
+            "TOUNIQUENUMBER": "11639432",
+            "TO": "Eric Smith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-277-3919"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35943",
+            "Umbrella": "Meric Homes",
+            "Umbrella ID": "12541228",
+            "VB_NAME": "Meric Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B30622",
+            "MEMBERNAME": "Eric Smith",
+            "MEMBEROPERATINGNAME": "Meric Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35943",
+            "Umbrella": "Meric Homes",
+            "Umbrella ID": "12541228",
+            "VB_NAME": "Meric Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B35943",
+            "MEMBERNAME": "Meric Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

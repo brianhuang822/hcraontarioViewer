@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41969",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2177419 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2012-06-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-06-05 13:01:04.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3883 Hwy. 7, Ste. 228",
+            "TELEPHONE": "905/265-1535",
+            "FAX": "905/265-1502",
+            "WEBSITEURL": " ",
+            "EMAIL": "marino3883@marinogroup.ca",
+            "ACCOUNTNUMBER": "B41969",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 97,
+            "SUMM_TOTAL": 97,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12528495",
+            "TO": "Silvio DiGiammarino",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-265-1535"
+        },
+        {
+            "TOUNIQUENUMBER": "12528495",
+            "TO": "Silvio DiGiammarino",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-265-1535"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41969",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2177419 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Courtyards of Maple",
+            "Project Status": "Completed",
+            "Location": "MAPLE",
+            "Address": " 2396 Major Mackenzie Dr. ",
+            "# of Units": 97,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-07-03"
+        }
+    ],
+    "builderConditions": []
+}

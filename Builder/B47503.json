@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47503",
+            "Umbrella": "Greentown Developments",
+            "Umbrella ID": "12549888",
+            "VB_NAME": "404 and 410 Dundas South Street Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2019-05-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-04 17:10:05.000 +0000",
+            "Expiry Date": "2024-05-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4711 Yonge Street",
+            "TELEPHONE": "416-221-6496",
+            "FAX": null,
+            "WEBSITEURL": "www.greentowndevelopments.com",
+            "EMAIL": "dan@greentowndevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 16,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 16,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100435644",
+            "TO": "Faisal Javaid",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-388-2433"
+        },
+        {
+            "TOUNIQUENUMBER": "100435645",
+            "TO": "Maritza Malin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-223-1441"
+        },
+        {
+            "TOUNIQUENUMBER": "100435631",
+            "TO": "Dan Shan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-221-6496"
+        },
+        {
+            "TOUNIQUENUMBER": "100435631",
+            "TO": "Dan Shan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-221-6496"
+        },
+        {
+            "TOUNIQUENUMBER": "100435632",
+            "TO": "David Opie",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-221-6496"
+        },
+        {
+            "TOUNIQUENUMBER": "100435632",
+            "TO": "David Opie",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-221-6496"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47503",
+            "Umbrella": "Greentown Developments",
+            "Umbrella ID": "12549888",
+            "VB_NAME": "404 and 410 Dundas South Street Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46228",
+            "MEMBERNAME": "Black Walnut Estates Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Resigned"
+        },
+        {
+            "Account Number": "B47503",
+            "Umbrella": "Greentown Developments",
+            "Umbrella ID": "12549888",
+            "VB_NAME": "404 and 410 Dundas South Street Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47503",
+            "MEMBERNAME": "404 and 410 Dundas South Street Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Urban",
+            "Project Status": null,
+            "Location": "CAMBRIDGE",
+            "Address": " 404 & 410 Dundas Street South ",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "URBN Condos",
+            "Project Status": "In Progress",
+            "Location": "CAMBRIDGE",
+            "Address": " 408 Dundas Street South ",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

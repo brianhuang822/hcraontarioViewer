@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B6913",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "435385 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "DOWNSVIEW",
+            "HCRA_INITIALLICENSEDATE": "1980-09-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1984-12-03 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1485 Whitehorse Rd.,",
+            "TELEPHONE": "(416)635-2910",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "311327",
+            "TO": "R. Fletcher",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "330699",
+            "TO": "Fred Sharf",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "322586",
+            "TO": "Harold Mecklinger",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "335896",
+            "TO": "Glenn Wallace",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B6913",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "435385 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BLOOR ST. CONDO",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "360 Bloor St.E.",
+            "# of Units": 162,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1982-12-09"
+        }
+    ],
+    "builderConditions": []
+}

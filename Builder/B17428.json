@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B17428",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Howick Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Listowel",
+            "HCRA_INITIALLICENSEDATE": "1989-03-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-22 19:04:03.000 +0000",
+            "Expiry Date": "2024-03-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "660 Wallace Avenue South",
+            "TELEPHONE": "519-335-3156",
+            "FAX": "519-335-6291",
+            "WEBSITEURL": "www.howickhomes.com",
+            "EMAIL": "homes@howickhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 33,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 33,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "325129",
+            "TO": "George Oriold",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-335-3731"
+        },
+        {
+            "TOUNIQUENUMBER": "325129",
+            "TO": "George Oriold",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-335-3731"
+        },
+        {
+            "TOUNIQUENUMBER": "325129",
+            "TO": "George Oriold",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-335-3731"
+        },
+        {
+            "TOUNIQUENUMBER": "335526",
+            "TO": "William Vinen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-335-3156"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B17428",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Howick Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "FAIRWAY DEVELOPMENTS",
+            "Project Status": "Completed",
+            "Location": "LISTOWEL",
+            "Address": "752-758 Scott Street",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-12-31"
+        }
+    ],
+    "builderConditions": []
+}

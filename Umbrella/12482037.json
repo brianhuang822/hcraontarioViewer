@@ -1,0 +1,161 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Zanette Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 1,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 366.54,
+            "ADDRESS": "P.O. Box 10040",
+            "TELEPHONE": "807-623-1000",
+            "FAX": "807-623-5574",
+            "WEBSITEURL": null,
+            "EMAIL": "rzrealty@tbaytel.net",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 366.54,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 366.54
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Grenville Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40979",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "777773 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19193",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Brookside Developers Inc.",
+            "MEMBEROPERATINGNAME": "Brookside Manor Condominiums",
+            "MEMBERVBNUM": "B26768",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "444348 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B2984",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Design Build (Thunder Bay) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41069",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "TBCC Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41457",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 24,
+            "Total Posessions": 24,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 366.54,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 366.54,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 366.54,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 366.54,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 366.54,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 366.54,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Lakeview Suites Condominiums",
+            "Account Number": "B40979",
+            "Project Status": "Completed",
+            "Location": "THUNDER BAY",
+            "Address": "375 Adelaide St.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-09-15"
+        },
+        {
+            "Condo Project Name": "BROOKSIDE MANOR CONDOMINIUMS",
+            "Account Number": "B26768",
+            "Project Status": "Completed",
+            "Location": "THUNDER BAY",
+            "Address": "186 N. Algoma St.",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-07-24"
+        },
+        {
+            "Condo Project Name": null,
+            "Account Number": "B19193",
+            "Project Status": "Completed",
+            "Location": "THUNDER BAY",
+            "Address": "800 Gordon St.",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-11-24"
+        },
+        {
+            "Condo Project Name": "444348 CONDO",
+            "Account Number": "B2984",
+            "Project Status": "Completed",
+            "Location": "THUNDER BAY",
+            "Address": "725 S.James St.",
+            "# of Units": 54,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-11-09"
+        }
+    ]
+}

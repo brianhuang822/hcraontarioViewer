@@ -1,0 +1,105 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61485",
+            "Umbrella": "AvranceCorp Developments",
+            "Umbrella ID": "500001767",
+            "VB_NAME": "1000232096 Ontario Inc.",
+            "OPERATINGNAME": "1000232096 Ontario Inc.",
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2022-09-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-01 04:00:00.000 +0000",
+            "Expiry Date": "2024-09-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1-4205 Keele Street",
+            "TELEPHONE": "647-700-6934",
+            "FAX": null,
+            "WEBSITEURL": "https://AVRANCECORP.COM",
+            "EMAIL": "info@avrancecorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600009556",
+            "TO": "Akeem Ameen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-783-3171"
+        },
+        {
+            "TOUNIQUENUMBER": "600005666",
+            "TO": "Samuel Babarinde",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-700-6934"
+        },
+        {
+            "TOUNIQUENUMBER": "600005666",
+            "TO": "Samuel Babarinde",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-700-6934"
+        },
+        {
+            "TOUNIQUENUMBER": "600005666",
+            "TO": "Samuel Babarinde",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-700-6934"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61485",
+            "Umbrella": "AvranceCorp Developments",
+            "Umbrella ID": "500001767",
+            "VB_NAME": "1000232096 Ontario Inc.",
+            "OPERATINGNAME": "1000232096 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60168",
+            "MEMBERNAME": "Westfield Investment Group Inc.",
+            "MEMBEROPERATINGNAME": "Avrancecorp Developments",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61485",
+            "Umbrella": "AvranceCorp Developments",
+            "Umbrella ID": "500001767",
+            "VB_NAME": "1000232096 Ontario Inc.",
+            "OPERATINGNAME": "1000232096 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61485",
+            "MEMBERNAME": "1000232096 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "1000232096 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Wasaga Lux Condos",
+            "Project Status": "In Progress",
+            "Location": "WASAGA BEACH",
+            "Address": "  Sunnidale & Knox ",
+            "# of Units": 183,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

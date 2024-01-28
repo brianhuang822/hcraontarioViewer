@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27431",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kirkby Real Estate Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Huntsville",
+            "HCRA_INITIALLICENSEDATE": "1998-06-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-01 18:53:22.000 +0000",
+            "Expiry Date": "2024-06-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "181 Town Line Road East",
+            "TELEPHONE": "705-788-4404",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "kirkbymuskoka@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343918",
+            "TO": "Mark Kirkby",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-789-1300"
+        },
+        {
+            "TOUNIQUENUMBER": "343918",
+            "TO": "Mark Kirkby",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-789-1300"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA101528",
+            "CHARGE_AGAINST": "Kirkby Real Estate Ltd",
+            "CHARGE_DATE": "2012-10-23",
+            "DISPOSITION_DATE": "2013-04-16",
+            "THE_FINE_": "2500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "750",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9325536",
+            "ORGANIZATION_NAME": "Kirkby Real Estate Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Huntsville, ON",
+            "CITY_DEFENCE": "Huntsville, ON",
+            "VB_NUMBER": "B27431",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA101528 9325536",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Huntsville, Town",
+            "INFORMATION_NUMBER": "12-0371",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2011-05-25",
+            "TO_OFFENCE_DATE": "2012-10-22",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "3250",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "19:43.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B27431",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kirkby Real Estate Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Autumn Lane",
+            "Project Status": null,
+            "Location": "HUNTSVILLE",
+            "Address": "226 Fairway Dr.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

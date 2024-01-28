@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23324",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Reinhardt Rental Holdings Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Wingham",
+            "HCRA_INITIALLICENSEDATE": "1993-08-31",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-14 21:34:14.000 +0000",
+            "Expiry Date": "2024-09-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 1506",
+            "TELEPHONE": "519-335-6034",
+            "FAX": "519-335-6634",
+            "WEBSITEURL": " ",
+            "EMAIL": "jrconst@wightman.ca",
+            "ACCOUNTNUMBER": "B23324",
+            "Total Outstanding Amount": 12500,
+            "TAB": 12500,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 12,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 12,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "327991",
+            "TO": "Joe Reinhardt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-335-6034"
+        },
+        {
+            "TOUNIQUENUMBER": "327991",
+            "TO": "Joe Reinhardt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-335-6034"
+        },
+        {
+            "TOUNIQUENUMBER": "327991",
+            "TO": "Joe Reinhardt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-335-6034"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23324",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Reinhardt Rental Holdings Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

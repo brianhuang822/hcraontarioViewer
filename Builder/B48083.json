@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48083",
+            "Umbrella": "Hawk Development",
+            "Umbrella ID": "500002134",
+            "VB_NAME": "Niacon Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Niagara Falls",
+            "HCRA_INITIALLICENSEDATE": "2021-01-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-18 15:21:44.000 +0000",
+            "Expiry Date": "2025-01-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3659 Stanley Avenue",
+            "TELEPHONE": "905-262-5492",
+            "FAX": "905-262-5794",
+            "WEBSITEURL": "www.niacon.ca",
+            "EMAIL": "niacon@niacon.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100615323",
+            "TO": "Billie Hawkswell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-262-5492"
+        },
+        {
+            "TOUNIQUENUMBER": "314723",
+            "TO": "Christopher Hawkswell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-353-2404"
+        },
+        {
+            "TOUNIQUENUMBER": "314723",
+            "TO": "Christopher Hawkswell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-353-2404"
+        },
+        {
+            "TOUNIQUENUMBER": "100615324",
+            "TO": "Adam Hawkswell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-262-5492"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48083",
+            "Umbrella": "Hawk Development",
+            "Umbrella ID": "500002134",
+            "VB_NAME": "Niacon Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48083",
+            "MEMBERNAME": "Niacon Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48083",
+            "Umbrella": "Hawk Development",
+            "Umbrella ID": "500002134",
+            "VB_NAME": "Niacon Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61452",
+            "MEMBERNAME": "2717981 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2717981 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

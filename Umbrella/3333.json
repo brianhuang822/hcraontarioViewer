@@ -1,0 +1,82 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Merrick Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "23 Lesmill Rd.",
+            "TELEPHONE": "(416)446-1303",
+            "FAX": "(416)446-2966",
+            "WEBSITEURL": "www.merrick-homes.com",
+            "EMAIL": "info@merrick-homes.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Bsrj Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16638",
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "MEMBERNAME": "Merrick Homes (Oakville) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B11911",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Merrick (The Oaks) Devs. Inc. & Yorkhill (The Oaks",
+            "MEMBEROPERATINGNAME": "The Oaks",
+            "MEMBERVBNUM": "B18289",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Merrick Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8162",
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "VILLAGES OF MORRISON",
+            "Account Number": "B18289",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "2414 Munn'S Avenue_& Chester",
+            "# of Units": 31,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-07-15"
+        },
+        {
+            "Condo Project Name": "OAKS,THE",
+            "Account Number": "B18289",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "2191 Sixth Line",
+            "# of Units": 76,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-01-04"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40489",
+            "Umbrella": "L & T Construction Group",
+            "Umbrella ID": "12410765",
+            "VB_NAME": "L & T Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "STONEY CREEK",
+            "HCRA_INITIALLICENSEDATE": "2010-04-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-04-28 12:00:14.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "26 Deerhurst Rd.",
+            "TELEPHONE": "905-662-2199",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "326056",
+            "TO": "Lino Pelone",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-662-2199"
+        },
+        {
+            "TOUNIQUENUMBER": "326056",
+            "TO": "Lino Pelone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-662-2199"
+        },
+        {
+            "TOUNIQUENUMBER": "326056",
+            "TO": "Lino Pelone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-662-2199"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40489",
+            "Umbrella": "L & T Construction Group",
+            "Umbrella ID": "12410765",
+            "VB_NAME": "L & T Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22497",
+            "MEMBERNAME": "L. & T. Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40489",
+            "Umbrella": "L & T Construction Group",
+            "Umbrella ID": "12410765",
+            "VB_NAME": "L & T Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40489",
+            "MEMBERNAME": "L & T Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61555",
+            "Umbrella": "MRSM Homes",
+            "Umbrella ID": "500001691",
+            "VB_NAME": "2717632 Ontario Ltd.",
+            "OPERATINGNAME": "2717632 Ontario Ltd.",
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2022-08-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-03 20:34:08.000 +0000",
+            "Expiry Date": "2024-08-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "610 Bowes Road",
+            "TELEPHONE": "416-787-9140",
+            "FAX": null,
+            "WEBSITEURL": "https://www.mariorotundostone.com",
+            "EMAIL": "rotundo.stone@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345292",
+            "TO": "Pat Rotundo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-787-9140"
+        },
+        {
+            "TOUNIQUENUMBER": "345292",
+            "TO": "Pat Rotundo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-787-9140"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61555",
+            "Umbrella": "MRSM Homes",
+            "Umbrella ID": "500001691",
+            "VB_NAME": "2717632 Ontario Ltd.",
+            "OPERATINGNAME": "2717632 Ontario Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61555",
+            "MEMBERNAME": "2717632 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "2717632 Ontario Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61555",
+            "Umbrella": "MRSM Homes",
+            "Umbrella ID": "500001691",
+            "VB_NAME": "2717632 Ontario Ltd.",
+            "OPERATINGNAME": "2717632 Ontario Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28474",
+            "MEMBERNAME": "Mario Rotundo Stone & Masonry Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

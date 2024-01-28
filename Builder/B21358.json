@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21358",
+            "Umbrella": "Perwick Investments",
+            "Umbrella ID": "3479",
+            "VB_NAME": "Gorevale Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "1991-07-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1999-08-25 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "35 West Pearce St., Ste. 16",
+            "TELEPHONE": "(905)881-1533",
+            "FAX": "(905)881-5845",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "313250",
+            "TO": "Claudio Gorizzan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416- 888-2485"
+        },
+        {
+            "TOUNIQUENUMBER": "313250",
+            "TO": "Claudio Gorizzan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416- 888-2485"
+        },
+        {
+            "TOUNIQUENUMBER": "313250",
+            "TO": "Claudio Gorizzan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416- 888-2485"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21358",
+            "Umbrella": "Perwick Investments",
+            "Umbrella ID": "3479",
+            "VB_NAME": "Gorevale Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B21358",
+            "MEMBERNAME": "Gorevale Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B21358",
+            "Umbrella": "Perwick Investments",
+            "Umbrella ID": "3479",
+            "VB_NAME": "Gorevale Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B8201",
+            "MEMBERNAME": "Perwick Investments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B21358",
+            "Umbrella": "Perwick Investments",
+            "Umbrella ID": "3479",
+            "VB_NAME": "Gorevale Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30754",
+            "MEMBERNAME": "Perwick Investments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

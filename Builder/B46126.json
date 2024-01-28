@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46126",
+            "Umbrella": "Carlyle Communities",
+            "Umbrella ID": "500000719",
+            "VB_NAME": "Carlyle Communities (Crestview) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2017-04-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-04-29 04:15:04.000 +0000",
+            "Expiry Date": "2022-04-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "476 Richmond Street West",
+            "TELEPHONE": "416-422-0880",
+            "FAX": null,
+            "WEBSITEURL": "http://vellorecrescent.com",
+            "EMAIL": "info@carlylecommunities.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 20,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 20,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100541561",
+            "TO": "Brandon Young",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-422-0880"
+        },
+        {
+            "TOUNIQUENUMBER": "100128519",
+            "TO": "Naram Mansour",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-422-0880"
+        },
+        {
+            "TOUNIQUENUMBER": "100128519",
+            "TO": "Naram Mansour",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-422-0880"
+        },
+        {
+            "TOUNIQUENUMBER": "100128519",
+            "TO": "Naram Mansour",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-422-0880"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46126",
+            "Umbrella": "Carlyle Communities",
+            "Umbrella ID": "500000719",
+            "VB_NAME": "Carlyle Communities (Crestview) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60693",
+            "MEMBERNAME": "Berkley Carlyle (Junction) Inc.",
+            "MEMBEROPERATINGNAME": "Berkley Carlyle (Junction) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46126",
+            "Umbrella": "Carlyle Communities",
+            "Umbrella ID": "500000719",
+            "VB_NAME": "Carlyle Communities (Crestview) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46126",
+            "MEMBERNAME": "Carlyle Communities (Crestview) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46126",
+            "Umbrella": "Carlyle Communities",
+            "Umbrella ID": "500000719",
+            "VB_NAME": "Carlyle Communities (Crestview) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60550",
+            "MEMBERNAME": "Carlyle Communities Inc.",
+            "MEMBEROPERATINGNAME": "Carlyle Communities Inc.",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Manors of Mineola",
+            "Project Status": null,
+            "Location": "MISSISSAUGA",
+            "Address": "Crestview Ave.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

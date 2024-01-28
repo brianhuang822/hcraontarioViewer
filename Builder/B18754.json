@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B18754",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Applejack Resorts Corp",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "1990-09-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1995-04-15 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2 Robert Speck Parkway, Suite 750",
+            "TELEPHONE": "(905)515-2905",
+            "FAX": "(905)803-9960",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "337106",
+            "TO": "Elie Wolfson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "327509",
+            "TO": "Ralph Rabinonicz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "335839",
+            "TO": "Murry Waldman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "310317",
+            "TO": "Fred Engle",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "330001",
+            "TO": "Natalie Schacter",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "337389",
+            "TO": "Bernard Yaphe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "325484",
+            "TO": "Joel Palter",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "318061",
+            "TO": "Robert Kosnik",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-486-0758"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B18754",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Applejack Resorts Corp",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "APPLEJACK PHASE V (5)",
+            "Project Status": "Completed",
+            "Location": "THORNBURY",
+            "Address": "150 Victoria St.",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-12-27"
+        },
+        {
+            "Condo Project Name": "APPLEJACK PHASE IV (4)",
+            "Project Status": "Completed",
+            "Location": "THORNBURY",
+            "Address": "150 Victoria St.",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-07-13"
+        }
+    ],
+    "builderConditions": []
+}

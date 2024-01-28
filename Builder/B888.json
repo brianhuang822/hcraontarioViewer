@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B888",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Trobar Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "1976-01-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1994-10-22 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1525 Carling Ave Ste 400",
+            "TELEPHONE": "(613)728-1999",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "313074",
+            "TO": "Robert Edward Moffatt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-238-7503"
+        },
+        {
+            "TOUNIQUENUMBER": "313074",
+            "TO": "Robert Edward Moffatt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-238-7503"
+        },
+        {
+            "TOUNIQUENUMBER": "335804",
+            "TO": "Richard W. Wagner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "324464",
+            "TO": "Michael S. Neville",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313983",
+            "TO": "Terrence B. Guilbault",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-234-2296"
+        },
+        {
+            "TOUNIQUENUMBER": "317503",
+            "TO": "Judy C. Kettles",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B888",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Trobar Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "CORONATION CONDO",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "710 Coronation",
+            "# of Units": 59,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1985-03-19"
+        }
+    ],
+    "builderConditions": []
+}

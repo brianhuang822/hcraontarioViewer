@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44123",
+            "Umbrella": "Les Maisons Fossil Homes",
+            "Umbrella ID": "12542412",
+            "VB_NAME": "8886440 Canada Inc.",
+            "OPERATINGNAME": "LES MAISONS FOSSIL HOMES",
+            "CITY": "Embrun",
+            "HCRA_INITIALLICENSEDATE": "2015-02-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-10 16:20:38.000 +0000",
+            "Expiry Date": "2025-02-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1452 Saint Joseph Road",
+            "TELEPHONE": "613-859-5637",
+            "FAX": null,
+            "WEBSITEURL": "www.fossilhomes.ca",
+            "EMAIL": "fossilhomes@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 15,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 15,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100183931",
+            "TO": "Joel Poirier",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-859-5637"
+        },
+        {
+            "TOUNIQUENUMBER": "100183931",
+            "TO": "Joel Poirier",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-859-5637"
+        },
+        {
+            "TOUNIQUENUMBER": "100183931",
+            "TO": "Joel Poirier",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-859-5637"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44123",
+            "Umbrella": "Les Maisons Fossil Homes",
+            "Umbrella ID": "12542412",
+            "VB_NAME": "8886440 Canada Inc.",
+            "OPERATINGNAME": "LES MAISONS FOSSIL HOMES",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44123",
+            "MEMBERNAME": "8886440 Canada Inc.",
+            "MEMBEROPERATINGNAME": "LES MAISONS FOSSIL HOMES",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44123",
+            "Umbrella": "Les Maisons Fossil Homes",
+            "Umbrella ID": "12542412",
+            "VB_NAME": "8886440 Canada Inc.",
+            "OPERATINGNAME": "LES MAISONS FOSSIL HOMES",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43122",
+            "MEMBERNAME": "Joel Robert Poirier",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

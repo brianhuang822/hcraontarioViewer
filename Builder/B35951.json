@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35951",
+            "Umbrella": "Brookside Builders",
+            "Umbrella ID": "12191590",
+            "VB_NAME": "Lackovic Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2005-11-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-11-10 13:00:42.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2405 Lakeshore Blvd. W., Ste. 400",
+            "TELEPHONE": "416-259-7638",
+            "FAX": "416-259-7424",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "318510",
+            "TO": "Vinko Lackovic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-277-2439"
+        },
+        {
+            "TOUNIQUENUMBER": "318510",
+            "TO": "Vinko Lackovic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-277-2439"
+        },
+        {
+            "TOUNIQUENUMBER": "318510",
+            "TO": "Vinko Lackovic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-277-2439"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35951",
+            "Umbrella": "Brookside Builders",
+            "Umbrella ID": "12191590",
+            "VB_NAME": "Lackovic Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B8844",
+            "MEMBERNAME": "Lackovic Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35951",
+            "Umbrella": "Brookside Builders",
+            "Umbrella ID": "12191590",
+            "VB_NAME": "Lackovic Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35948",
+            "MEMBERNAME": "1190591 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Brookside Builders",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35951",
+            "Umbrella": "Brookside Builders",
+            "Umbrella ID": "12191590",
+            "VB_NAME": "Lackovic Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35951",
+            "MEMBERNAME": "Lackovic Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

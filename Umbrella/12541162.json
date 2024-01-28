@@ -1,0 +1,64 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Dairy Lane",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "23 Dairy Lane, Unit #10",
+            "TELEPHONE": "7057883842",
+            "FAX": "7057883845",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Dairy Lane Heights Inc.",
+            "MEMBEROPERATINGNAME": "Dairy Lane Heights",
+            "MEMBERVBNUM": "B35267",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "DAIRY LANE HEIGHTS",
+            "Account Number": "B35267",
+            "Project Status": "Completed",
+            "Location": "HUNTSVILLE",
+            "Address": "26 Dairy Lane",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-06-11"
+        },
+        {
+            "Condo Project Name": "DAIRY LANE HEIGHTS",
+            "Account Number": "B35267",
+            "Project Status": "Completed",
+            "Location": "HUNTSVILLE",
+            "Address": " 24 Dairy Lane ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-11-02"
+        }
+    ]
+}

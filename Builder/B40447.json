@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40447",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Silverstone Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "CAMBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2010-05-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-06-03 20:26:43.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "285 Riverbank Dr.",
+            "TELEPHONE": "519/778-7272",
+            "FAX": "519/650-5303",
+            "WEBSITEURL": " ",
+            "EMAIL": "llazarmele@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 19,
+            "SUMM_TOTAL": 21,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12406993",
+            "TO": "Llazar Mele",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-778-7272"
+        },
+        {
+            "TOUNIQUENUMBER": "12406993",
+            "TO": "Llazar Mele",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-778-7272"
+        },
+        {
+            "TOUNIQUENUMBER": "12406993",
+            "TO": "Llazar Mele",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-778-7272"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40447",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Silverstone Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Joseph's Lane",
+            "Project Status": "Completed",
+            "Location": "AYR",
+            "Address": "1126 Swan St.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-02-10"
+        },
+        {
+            "Condo Project Name": "Joseph's Lane",
+            "Project Status": "Completed",
+            "Location": "AYR",
+            "Address": "1126 Swan St.",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-02-05"
+        }
+    ],
+    "builderConditions": []
+}

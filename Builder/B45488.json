@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45488",
+            "Umbrella": "Five Diamonds Building Group",
+            "Umbrella ID": "12545929",
+            "VB_NAME": "Payson Estates Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2017-02-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-02-07 14:00:16.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "210 Bartor Rd., Unit 3",
+            "TELEPHONE": "416/744-9100",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "info@fivediamonds.ca",
+            "ACCOUNTNUMBER": "B45488",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 39186.73,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 39186.73
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100379394",
+            "TO": "Kenneth Ramsay",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-441-2888"
+        },
+        {
+            "TOUNIQUENUMBER": "100309633",
+            "TO": "Eitan Ben-Izhak",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-854-4313"
+        },
+        {
+            "TOUNIQUENUMBER": "100309633",
+            "TO": "Eitan Ben-Izhak",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-854-4313"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45488",
+            "Umbrella": "Five Diamonds Building Group",
+            "Umbrella ID": "12545929",
+            "VB_NAME": "Payson Estates Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45488",
+            "MEMBERNAME": "Payson Estates Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45488",
+            "Umbrella": "Five Diamonds Building Group",
+            "Umbrella ID": "12545929",
+            "VB_NAME": "Payson Estates Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44594",
+            "MEMBERNAME": "Five Diamonds Canada Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

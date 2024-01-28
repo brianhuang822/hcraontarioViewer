@@ -1,0 +1,94 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Trilet Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "936 The East Mall",
+            "TELEPHONE": "(416)626-1200",
+            "FAX": "(416)626-8291",
+            "WEBSITEURL": "www.triletgroup.com",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Trilet Holdings Ltd.",
+            "MEMBEROPERATINGNAME": "Riverwalk Greens",
+            "MEMBERVBNUM": "B28376",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Trilet Developments Ltd.",
+            "MEMBEROPERATINGNAME": "Olde Village Court",
+            "MEMBERVBNUM": "B24533",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Gazelle Bowl Limited",
+            "MEMBEROPERATINGNAME": "The Victorian House",
+            "MEMBERVBNUM": "B24534",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Trilet Lake Corporation",
+            "MEMBEROPERATINGNAME": "Tiffin By The Bay",
+            "MEMBERVBNUM": "B26890",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Trilet Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B5893",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Trilet Bay Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27081",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "TIFFIN BY THE BAY",
+            "Account Number": "B26890",
+            "Project Status": "Completed",
+            "Location": "MIDLAND",
+            "Address": "280 Aberdeen Blvd",
+            "# of Units": 55,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-12-17"
+        },
+        {
+            "Condo Project Name": "THE VICTORIAN HOUSE",
+            "Account Number": "B24534",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "105 Victoria St.",
+            "# of Units": 105,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-05-07"
+        }
+    ]
+}

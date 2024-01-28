@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21812",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Crosspoint Estates Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "1992-03-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-11 15:44:07.000 +0000",
+            "Expiry Date": "2025-03-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4890 Tomken Road",
+            "TELEPHONE": "905-206-1001",
+            "FAX": "905-206-0228",
+            "WEBSITEURL": "www.dezenhomes.ca",
+            "EMAIL": "rosemary@dezenrealty.com",
+            "ACCOUNTNUMBER": "B21812",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 16,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 16,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600014177",
+            "TO": "Alessandro DeZen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-206-1001"
+        },
+        {
+            "TOUNIQUENUMBER": "600014177",
+            "TO": "Alessandro DeZen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-206-1001"
+        },
+        {
+            "TOUNIQUENUMBER": "245333",
+            "TO": "Rosemary Palmieri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-206-1001"
+        },
+        {
+            "TOUNIQUENUMBER": "245333",
+            "TO": "Rosemary Palmieri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-206-1001"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21812",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Crosspoint Estates Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "ROYAL QUEEN",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "694,696,698,700 The Queensway",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-09-21"
+        },
+        {
+            "Condo Project Name": "BRISTOL & MCLAUGHLIN",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "550 Steddick Court",
+            "# of Units": 64,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-01-25"
+        }
+    ],
+    "builderConditions": []
+}

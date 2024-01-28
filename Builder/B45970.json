@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45970",
+            "Umbrella": "Sherbrooke",
+            "Umbrella ID": "12546006",
+            "VB_NAME": "Sherbrooke Dwellings Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2017-02-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-09 19:37:41.000 +0000",
+            "Expiry Date": "2025-02-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "43 Okanagan Drive",
+            "TELEPHONE": "613-820-1040",
+            "FAX": "613-828-6326",
+            "WEBSITEURL": "www.thesherbrookepeople.com",
+            "EMAIL": "stanlevine@thesherbrookepeople.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343091",
+            "TO": "Catherine J. Levine",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-820-1040"
+        },
+        {
+            "TOUNIQUENUMBER": "343091",
+            "TO": "Catherine J. Levine",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-820-1040"
+        },
+        {
+            "TOUNIQUENUMBER": "319698",
+            "TO": "Stanley Levine",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-820-1040"
+        },
+        {
+            "TOUNIQUENUMBER": "319698",
+            "TO": "Stanley Levine",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-820-1040"
+        },
+        {
+            "TOUNIQUENUMBER": "319698",
+            "TO": "Stanley Levine",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-820-1040"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45970",
+            "Umbrella": "Sherbrooke",
+            "Umbrella ID": "12546006",
+            "VB_NAME": "Sherbrooke Dwellings Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26623",
+            "MEMBERNAME": "Sherbrooke Urban Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45970",
+            "Umbrella": "Sherbrooke",
+            "Umbrella ID": "12546006",
+            "VB_NAME": "Sherbrooke Dwellings Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45970",
+            "MEMBERNAME": "Sherbrooke Dwellings Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

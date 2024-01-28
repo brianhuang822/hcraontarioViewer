@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B18598",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Rybarco Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1989-07-27",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "1993-07-13 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Ryan Associates Inc.",
+            "TELEPHONE": "(416)364-0947",
+            "FAX": "(416)364-7423",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329404",
+            "TO": "John Michael Ryan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "329406",
+            "TO": "John J. Ryan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-522-5569"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B18598",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Rybarco Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "NOT KNOWN",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "1120 Queens Ave.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-08-15"
+        }
+    ],
+    "builderConditions": []
+}

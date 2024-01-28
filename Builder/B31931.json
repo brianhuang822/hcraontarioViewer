@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31931",
+            "Umbrella": "D.C. Custom Builders",
+            "Umbrella ID": "12541238",
+            "VB_NAME": "1452011 Ontario Ltd.",
+            "OPERATINGNAME": "Luxury Home Development",
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2002-05-31 21:36:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "100 West Beaver Creek Rd., Ste. 11",
+            "TELEPHONE": "416-708-7088",
+            "FAX": "905-508-7882",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11716421",
+            "TO": "Duke Cheung",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-708-7088"
+        },
+        {
+            "TOUNIQUENUMBER": "11716421",
+            "TO": "Duke Cheung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-708-7088"
+        },
+        {
+            "TOUNIQUENUMBER": "11716421",
+            "TO": "Duke Cheung",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-708-7088"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31931",
+            "Umbrella": "D.C. Custom Builders",
+            "Umbrella ID": "12541238",
+            "VB_NAME": "1452011 Ontario Ltd.",
+            "OPERATINGNAME": "Luxury Home Development",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B31671",
+            "MEMBERNAME": "D.C. Custom Builder Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31931",
+            "Umbrella": "D.C. Custom Builders",
+            "Umbrella ID": "12541238",
+            "VB_NAME": "1452011 Ontario Ltd.",
+            "OPERATINGNAME": "Luxury Home Development",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B31931",
+            "MEMBERNAME": "1452011 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Luxury Home Development",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B31931",
+            "Umbrella": "D.C. Custom Builders",
+            "Umbrella ID": "12541238",
+            "VB_NAME": "1452011 Ontario Ltd.",
+            "OPERATINGNAME": "Luxury Home Development",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B36327",
+            "MEMBERNAME": "D.C. Group (Ontario) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

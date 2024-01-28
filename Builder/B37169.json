@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37169",
+            "Umbrella": "Entity Homes",
+            "Umbrella ID": "12540951",
+            "VB_NAME": "2055065 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2007-07-04 02:23:46.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "163 Buttermill Ave., 2nd Floor",
+            "TELEPHONE": "416-671-5255",
+            "FAX": "905-738-4750",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12085794",
+            "TO": "Antonio Bruno",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12085794",
+            "TO": "Antonio Bruno",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12085794",
+            "TO": "Antonio Bruno",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37169",
+            "Umbrella": "Entity Homes",
+            "Umbrella ID": "12540951",
+            "VB_NAME": "2055065 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B37169",
+            "MEMBERNAME": "2055065 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B37169",
+            "Umbrella": "Entity Homes",
+            "Umbrella ID": "12540951",
+            "VB_NAME": "2055065 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B35772",
+            "MEMBERNAME": "2038791 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

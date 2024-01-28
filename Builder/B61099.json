@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61099",
+            "Umbrella": "Plutus Homes",
+            "Umbrella ID": "500001365",
+            "VB_NAME": "Plutus Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-04-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-18 14:09:33.000 +0000",
+            "Expiry Date": "2024-04-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "518 Cranbrooke Avenue",
+            "TELEPHONE": "416-890-3090",
+            "FAX": null,
+            "WEBSITEURL": "https://plutusgroup.ca",
+            "EMAIL": "ali@plutusgroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11921014",
+            "TO": "Mohammad Ali Nashid",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-897-8186"
+        },
+        {
+            "TOUNIQUENUMBER": "11921014",
+            "TO": "Mohammad Ali Nashid",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-897-8186"
+        },
+        {
+            "TOUNIQUENUMBER": "600008819",
+            "TO": "Ali Baniasadi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-890-3090"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61099",
+            "Umbrella": "Plutus Homes",
+            "Umbrella ID": "500001365",
+            "VB_NAME": "Plutus Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61268",
+            "MEMBERNAME": "2193258 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61099",
+            "Umbrella": "Plutus Homes",
+            "Umbrella ID": "500001365",
+            "VB_NAME": "Plutus Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61099",
+            "MEMBERNAME": "Plutus Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

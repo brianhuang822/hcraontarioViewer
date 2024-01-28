@@ -1,0 +1,71 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Stratum Realty Development",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "2 Toronto St., P.O. Box 1438",
+            "TELEPHONE": "705/730-5883",
+            "FAX": "705/721-4750",
+            "WEBSITEURL": "www.thestratumgroup.com",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "The Stratum Realty Development Corporation",
+            "MEMBEROPERATINGNAME": "Waterford Place",
+            "MEMBERVBNUM": "B27246",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Grand Shores Realty Development Corporation",
+            "MEMBEROPERATINGNAME": "Grand Harbour",
+            "MEMBERVBNUM": "B27890",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Victoria Harbour Development Corporation",
+            "MEMBEROPERATINGNAME": "Victoria Shores",
+            "MEMBERVBNUM": "B27756",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lakepoint Development (Burlington) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9536",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "LAKESHORE ROAD",
+            "Account Number": "B9536",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "2190 Lakeshore Rd e",
+            "# of Units": 62,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-10-18"
+        }
+    ]
+}

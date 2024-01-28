@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41921",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1343266 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Hawkesbury",
+            "HCRA_INITIALLICENSEDATE": "2012-05-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-03 20:30:15.000 +0000",
+            "Expiry Date": "2024-05-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "770 Cameron Street",
+            "TELEPHONE": "613-632-3000",
+            "FAX": "1-613-632-3002",
+            "WEBSITEURL": "www.rmsrenovation.ca",
+            "EMAIL": "sylvain@rmsportesetfenetres.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304526",
+            "TO": "Sylvain Brunette",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-930-3339"
+        },
+        {
+            "TOUNIQUENUMBER": "304526",
+            "TO": "Sylvain Brunette",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-930-3339"
+        },
+        {
+            "TOUNIQUENUMBER": "304526",
+            "TO": "Sylvain Brunette",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-930-3339"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41921",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1343266 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BlueWater",
+            "Project Status": null,
+            "Location": "GUELPH",
+            "Address": " 855 Victoria Rd. S ",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

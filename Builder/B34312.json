@@ -1,0 +1,144 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34312",
+            "Umbrella": "Edwards Developments",
+            "Umbrella ID": "11937046",
+            "VB_NAME": "Edwards Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CAYUGA",
+            "HCRA_INITIALLICENSEDATE": "2004-04-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-04-14 12:00:54.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "369 Decewsville Rd.",
+            "TELEPHONE": "905-765-7297",
+            "FAX": null,
+            "WEBSITEURL": "edwardscustomhomes.ca",
+            "EMAIL": "les@edwardscustomhomes.ca",
+            "ACCOUNTNUMBER": "B34312",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 13077.41,
+            "SUMM_MAJOR": 1,
+            "SUMM_MAJOR_AMT": 16301.2,
+            "SUMM_TOTAL_CLAIMS": 29378.61
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "310084",
+            "TO": "Les Edwards",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-765-7297"
+        },
+        {
+            "TOUNIQUENUMBER": "310084",
+            "TO": "Les Edwards",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-765-7297"
+        },
+        {
+            "TOUNIQUENUMBER": "310084",
+            "TO": "Les Edwards",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-765-7297"
+        },
+        {
+            "TOUNIQUENUMBER": "11995967",
+            "TO": "Katherine Edwards",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-765-4797"
+        },
+        {
+            "TOUNIQUENUMBER": "11995967",
+            "TO": "Katherine Edwards",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-765-4797"
+        },
+        {
+            "TOUNIQUENUMBER": "11995967",
+            "TO": "Katherine Edwards",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-765-4797"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34312",
+            "Umbrella": "Edwards Developments",
+            "Umbrella ID": "11937046",
+            "VB_NAME": "Edwards Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32911",
+            "MEMBERNAME": "Les Edwards",
+            "MEMBEROPERATINGNAME": "Edwards Custom Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34312",
+            "Umbrella": "Edwards Developments",
+            "Umbrella ID": "11937046",
+            "VB_NAME": "Edwards Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34312",
+            "MEMBERNAME": "Edwards Custom Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34312",
+            "Umbrella": "Edwards Developments",
+            "Umbrella ID": "11937046",
+            "VB_NAME": "Edwards Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33666",
+            "MEMBERNAME": "Edwards Custom Homes 2003 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34312",
+            "Umbrella": "Edwards Developments",
+            "Umbrella ID": "11937046",
+            "VB_NAME": "Edwards Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B19991",
+            "MEMBERNAME": "Les Edward Custom Building Your Home",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B34312",
+            "Umbrella": "Edwards Developments",
+            "Umbrella ID": "11937046",
+            "VB_NAME": "Edwards Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41479",
+            "MEMBERNAME": "Edwards Custom Homes 2010 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

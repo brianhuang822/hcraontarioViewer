@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60220",
+            "Umbrella": "Barne Construction",
+            "Umbrella ID": "12416809",
+            "VB_NAME": "Barn\u00e9 Building and Construction Inc.",
+            "OPERATINGNAME": "Barn\u00e9 Building and Construction Inc.",
+            "CITY": "Sudbury",
+            "HCRA_INITIALLICENSEDATE": "2021-05-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-01 20:00:54.000 +0000",
+            "Expiry Date": "2024-05-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "109 Elm Street",
+            "TELEPHONE": "705-674-2240",
+            "FAX": "705-674-7548",
+            "WEBSITEURL": "http://www.barne.ca",
+            "EMAIL": "rdiotte@barne.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600006940",
+            "TO": "Michel Diotte",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-665-3814"
+        },
+        {
+            "TOUNIQUENUMBER": "342122",
+            "TO": "Patrick Diotte",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-665-2087"
+        },
+        {
+            "TOUNIQUENUMBER": "600006939",
+            "TO": "Daniel Diotte",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-929-5885"
+        },
+        {
+            "TOUNIQUENUMBER": "600006938",
+            "TO": "James Diotte",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-698-2242"
+        },
+        {
+            "TOUNIQUENUMBER": "309179",
+            "TO": "Richard Diotte",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-674-2240"
+        },
+        {
+            "TOUNIQUENUMBER": "309179",
+            "TO": "Richard Diotte",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-674-2240"
+        },
+        {
+            "TOUNIQUENUMBER": "309179",
+            "TO": "Richard Diotte",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-674-2240"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60220",
+            "Umbrella": "Barne Construction",
+            "Umbrella ID": "12416809",
+            "VB_NAME": "Barn\u00e9 Building and Construction Inc.",
+            "OPERATINGNAME": "Barn\u00e9 Building and Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38389",
+            "MEMBERNAME": "Barne Building and Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B60220",
+            "Umbrella": "Barne Construction",
+            "Umbrella ID": "12416809",
+            "VB_NAME": "Barn\u00e9 Building and Construction Inc.",
+            "OPERATINGNAME": "Barn\u00e9 Building and Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60220",
+            "MEMBERNAME": "Barn\u00e9 Building and Construction Inc.",
+            "MEMBEROPERATINGNAME": "Barn\u00e9 Building and Construction Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60220",
+            "Umbrella": "Barne Construction",
+            "Umbrella ID": "12416809",
+            "VB_NAME": "Barn\u00e9 Building and Construction Inc.",
+            "OPERATINGNAME": "Barn\u00e9 Building and Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25860",
+            "MEMBERNAME": "Barne Construction (1995) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

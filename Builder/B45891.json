@@ -1,0 +1,121 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45891",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2356915 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2017-02-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-02-26 04:15:05.000 +0000",
+            "Expiry Date": "2022-02-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2831 Haughton Avenue",
+            "TELEPHONE": "613-228-9410",
+            "FAX": null,
+            "WEBSITEURL": "www.rideauwalk.ca",
+            "EMAIL": "marian@fischergroup.ca",
+            "ACCOUNTNUMBER": "B45891",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 8,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 905,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 905
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100385568",
+            "TO": "Rolf Robillard",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-878-0008"
+        },
+        {
+            "TOUNIQUENUMBER": "100385568",
+            "TO": "Rolf Robillard",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-878-0008"
+        },
+        {
+            "TOUNIQUENUMBER": "100408241",
+            "TO": "Mark Gans",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-242-0861"
+        },
+        {
+            "TOUNIQUENUMBER": "100408241",
+            "TO": "Mark Gans",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-242-0861"
+        },
+        {
+            "TOUNIQUENUMBER": "100489746",
+            "TO": "Jeff Varah",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-671-2367"
+        },
+        {
+            "TOUNIQUENUMBER": "100408231",
+            "TO": "Bruce Fischer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-228-9410"
+        },
+        {
+            "TOUNIQUENUMBER": "100408231",
+            "TO": "Bruce Fischer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-228-9410"
+        },
+        {
+            "TOUNIQUENUMBER": "100408235",
+            "TO": "Marian Fischer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-228-9410"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45891",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2356915 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Rideau Walk",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 140 Springhurst Ave. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-02-24"
+        }
+    ],
+    "builderConditions": []
+}

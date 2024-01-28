@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45887",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Banman Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Mount Brydges",
+            "HCRA_INITIALLICENSEDATE": "2017-01-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-13 18:33:30.000 +0000",
+            "Expiry Date": "2025-01-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2613 Queen Street",
+            "TELEPHONE": "519-913-2470",
+            "FAX": null,
+            "WEBSITEURL": "www.banmandevelopments.ca",
+            "EMAIL": "paul@banmandevelopments.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 54,
+            "SUMM_CONDO": 21,
+            "SUMM_TOTAL": 75,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100410390",
+            "TO": "Paul Banman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-913-2470"
+        },
+        {
+            "TOUNIQUENUMBER": "100410390",
+            "TO": "Paul Banman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-913-2470"
+        },
+        {
+            "TOUNIQUENUMBER": "339236",
+            "TO": "Peter Banman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-913-2470"
+        },
+        {
+            "TOUNIQUENUMBER": "339236",
+            "TO": "Peter Banman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-913-2470"
+        },
+        {
+            "TOUNIQUENUMBER": "339237",
+            "TO": "Elizabeth Banman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-913-2470"
+        },
+        {
+            "TOUNIQUENUMBER": "339237",
+            "TO": "Elizabeth Banman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-913-2470"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45887",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Banman Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Brookridge Community",
+            "Project Status": null,
+            "Location": "STRATHROY",
+            "Address": "  Queen St. And Lions Park Dr. ",
+            "# of Units": 70,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

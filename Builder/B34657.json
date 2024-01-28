@@ -1,0 +1,85 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34657",
+            "Umbrella": "Joseph and Anna Messina",
+            "Umbrella ID": "12540401",
+            "VB_NAME": "Anna Messina",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2004-09-21 23:57:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "275 MacPhderson Ave., Unit 101A",
+            "TELEPHONE": "(416) 964-9351",
+            "FAX": "(416) 964-2635",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338194",
+            "TO": "Anna Messina",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416- 964-9351"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34657",
+            "Umbrella": "Joseph and Anna Messina",
+            "Umbrella ID": "12540401",
+            "VB_NAME": "Anna Messina",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B34657",
+            "MEMBERNAME": "Anna Messina",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B34657",
+            "Umbrella": "Joseph and Anna Messina",
+            "Umbrella ID": "12540401",
+            "VB_NAME": "Anna Messina",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B24429",
+            "MEMBERNAME": "Joseph V. Messina Designs Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B34657",
+            "Umbrella": "Joseph and Anna Messina",
+            "Umbrella ID": "12540401",
+            "VB_NAME": "Anna Messina",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B20912",
+            "MEMBERNAME": "Joe Messina And Anna Messina",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

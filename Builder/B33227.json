@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33227",
+            "Umbrella": "Lockwood Brothers Construction",
+            "Umbrella ID": "11903891",
+            "VB_NAME": "1504107 Ontario Inc.",
+            "OPERATINGNAME": "Lockwood Brothers Construction",
+            "CITY": "Oxford Station",
+            "HCRA_INITIALLICENSEDATE": "2003-04-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-18 19:25:25.000 +0000",
+            "Expiry Date": "2024-04-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2010 Totem Ranch Road East",
+            "TELEPHONE": "613-258-4225",
+            "FAX": "613-258-4772",
+            "WEBSITEURL": "https://www.lbchomes.com/",
+            "EMAIL": "corey@lbchomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 132,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 132,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11692409",
+            "TO": "Corey Lockwood",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-258-4225"
+        },
+        {
+            "TOUNIQUENUMBER": "11692409",
+            "TO": "Corey Lockwood",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-258-4225"
+        },
+        {
+            "TOUNIQUENUMBER": "11692409",
+            "TO": "Corey Lockwood",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-258-4225"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33227",
+            "Umbrella": "Lockwood Brothers Construction",
+            "Umbrella ID": "11903891",
+            "VB_NAME": "1504107 Ontario Inc.",
+            "OPERATINGNAME": "Lockwood Brothers Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31320",
+            "MEMBERNAME": "Corey Lockwood",
+            "MEMBEROPERATINGNAME": "Lockwood Brothers Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33227",
+            "Umbrella": "Lockwood Brothers Construction",
+            "Umbrella ID": "11903891",
+            "VB_NAME": "1504107 Ontario Inc.",
+            "OPERATINGNAME": "Lockwood Brothers Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33227",
+            "MEMBERNAME": "1504107 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Lockwood Brothers Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B33227",
+            "Umbrella": "Lockwood Brothers Construction",
+            "Umbrella ID": "11903891",
+            "VB_NAME": "1504107 Ontario Inc.",
+            "OPERATINGNAME": "Lockwood Brothers Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41312",
+            "MEMBERNAME": "2057876 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

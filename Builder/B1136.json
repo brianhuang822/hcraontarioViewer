@@ -1,0 +1,149 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1136",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Iberica Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "GLOUCESTER",
+            "HCRA_INITIALLICENSEDATE": "1986-03-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1997-03-08 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5669 Power Rd., R. R. #6",
+            "TELEPHONE": "(613)822-6626",
+            "FAX": "(613)822-1203",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "313159",
+            "TO": "Manuel Goncalves",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-822-1200"
+        },
+        {
+            "TOUNIQUENUMBER": "313159",
+            "TO": "Manuel Goncalves",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-822-1200"
+        },
+        {
+            "TOUNIQUENUMBER": "313159",
+            "TO": "Manuel Goncalves",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-822-1200"
+        },
+        {
+            "TOUNIQUENUMBER": "316087",
+            "TO": "Enrique Iglesias",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "316087",
+            "TO": "Enrique Iglesias",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "316087",
+            "TO": "Enrique Iglesias",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "335238",
+            "TO": "Jose Vaz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "335238",
+            "TO": "Jose Vaz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "335238",
+            "TO": "Jose Vaz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "327884",
+            "TO": "Americo Rego",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-822-1200"
+        },
+        {
+            "TOUNIQUENUMBER": "327884",
+            "TO": "Americo Rego",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-822-1200"
+        },
+        {
+            "TOUNIQUENUMBER": "327884",
+            "TO": "Americo Rego",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-822-1200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1136",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Iberica Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "CYR ST.",
+            "Project Status": "Completed",
+            "Location": "VANIER",
+            "Address": "320 Cyr St.",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1987-03-27"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,70 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "RHP Building Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": null,
+            "TOTALUNITS": null,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": null,
+            "ADDRESS": "1515 Gordon Street",
+            "TELEPHONE": "519-654-9099",
+            "FAX": null,
+            "WEBSITEURL": "https://reidsproperties.com",
+            "EMAIL": "mmacgregor@reidsproperties.com",
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "2776563 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B60875",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "RHH Rental Properties Ltd.",
+            "MEMBEROPERATINGNAME": "Reid's Heritage Properties",
+            "MEMBERVBNUM": "B60833",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Marquis",
+            "Account Number": "B60875",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": "  Woolwich St and Woodlawn Rd ",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Marquis",
+            "Account Number": "B60875",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": "  Woolwich St and Woodlawn Rd ",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B8983",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Whomsley Dev.Ltd.& Fryer Planning Ser.Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1987-07-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1990-07-16 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Fryer Planning Service",
+            "TELEPHONE": "(416)920-0475",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336591",
+            "TO": "Megan Whomsley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "311901",
+            "TO": "Geoffrey R.D. Fryer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336590",
+            "TO": "Eric Whomsley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B8983",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Whomsley Dev.Ltd.& Fryer Planning Ser.Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "BROCK",
+            "Address": "Box 63, R.R.#1,edengroved",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-10-05"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "BEAVERTON",
+            "Address": "Box 62, R.R.#1",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-12-09"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,120 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38142",
+            "Umbrella": "Huisman Construction",
+            "Umbrella ID": "12540305",
+            "VB_NAME": "Huisman Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "DUNDAS",
+            "HCRA_INITIALLICENSEDATE": "2007-10-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-11-01 15:02:36.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "430 Old Brock Rd.",
+            "TELEPHONE": "905-628-3382",
+            "FAX": "905-628-3389",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11773130",
+            "TO": "Sherry Huisman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-3382"
+        },
+        {
+            "TOUNIQUENUMBER": "11773130",
+            "TO": "Sherry Huisman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-3382"
+        },
+        {
+            "TOUNIQUENUMBER": "11773130",
+            "TO": "Sherry Huisman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-3382"
+        },
+        {
+            "TOUNIQUENUMBER": "11773127",
+            "TO": "Harmen Huisman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-3382"
+        },
+        {
+            "TOUNIQUENUMBER": "11773127",
+            "TO": "Harmen Huisman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-3382"
+        },
+        {
+            "TOUNIQUENUMBER": "11773127",
+            "TO": "Harmen Huisman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-3382"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38142",
+            "Umbrella": "Huisman Construction",
+            "Umbrella ID": "12540305",
+            "VB_NAME": "Huisman Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32151",
+            "MEMBERNAME": "Huisman Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38142",
+            "Umbrella": "Huisman Construction",
+            "Umbrella ID": "12540305",
+            "VB_NAME": "Huisman Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38142",
+            "MEMBERNAME": "Huisman Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38142",
+            "Umbrella": "Huisman Construction",
+            "Umbrella ID": "12540305",
+            "VB_NAME": "Huisman Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41145",
+            "MEMBERNAME": "Huisman Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

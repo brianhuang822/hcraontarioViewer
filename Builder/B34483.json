@@ -1,0 +1,149 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34483",
+            "Umbrella": "Royal Premier Developments",
+            "Umbrella ID": "500001233",
+            "VB_NAME": "1423197 Ontario Inc.",
+            "OPERATINGNAME": "ROYAL PREMIER HOMES",
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2004-06-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-08 19:11:33.000 +0000",
+            "Expiry Date": "2024-06-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "509 Commissioners Road West",
+            "TELEPHONE": "519-495-0115",
+            "FAX": "1-519-641-1959",
+            "WEBSITEURL": "www.royalpremierhomes.ca",
+            "EMAIL": "rph@royalpremierhomes.ca",
+            "ACCOUNTNUMBER": "B34483",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 73,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 73,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12524296",
+            "TO": "Mohammad Salehi",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-0115"
+        },
+        {
+            "TOUNIQUENUMBER": "12002699",
+            "TO": "Farhad Noory",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-0115"
+        },
+        {
+            "TOUNIQUENUMBER": "12002699",
+            "TO": "Farhad Noory",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-0115"
+        },
+        {
+            "TOUNIQUENUMBER": "12002699",
+            "TO": "Farhad Noory",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-0115"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34483",
+            "Umbrella": "Royal Premier Developments",
+            "Umbrella ID": "500001233",
+            "VB_NAME": "1423197 Ontario Inc.",
+            "OPERATINGNAME": "ROYAL PREMIER HOMES",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46591",
+            "MEMBERNAME": "2425293 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34483",
+            "Umbrella": "Royal Premier Developments",
+            "Umbrella ID": "500001233",
+            "VB_NAME": "1423197 Ontario Inc.",
+            "OPERATINGNAME": "ROYAL PREMIER HOMES",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34483",
+            "MEMBERNAME": "1423197 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "ROYAL PREMIER HOMES",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34483",
+            "Umbrella": "Royal Premier Developments",
+            "Umbrella ID": "500001233",
+            "VB_NAME": "1423197 Ontario Inc.",
+            "OPERATINGNAME": "ROYAL PREMIER HOMES",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60659",
+            "MEMBERNAME": "2749282 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2749282 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34483",
+            "Umbrella": "Royal Premier Developments",
+            "Umbrella ID": "500001233",
+            "VB_NAME": "1423197 Ontario Inc.",
+            "OPERATINGNAME": "ROYAL PREMIER HOMES",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43507",
+            "MEMBERNAME": "Timeless Homes Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Westmount Walk Garden Villas",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "696 Commissioners Rd. W.",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "767 WHARNCLIFFE",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 767 Wharncliffe Rd S ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-01-18"
+        },
+        {
+            "Condo Project Name": "767 WHARNCLIFFE",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 767 Wharncliffe Rd S ",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-04-01"
+        }
+    ],
+    "builderConditions": []
+}

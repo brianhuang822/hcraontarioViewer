@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B521",
+            "Umbrella": "Draper Construction",
+            "Umbrella ID": "12541514",
+            "VB_NAME": "Eric Roland Draper",
+            "OPERATINGNAME": null,
+            "CITY": "BRAESIDE",
+            "HCRA_INITIALLICENSEDATE": "1980-04-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-04-18 12:00:27.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 98 7 Appleby St.",
+            "TELEPHONE": "613-623-7572",
+            "FAX": "613-623-8318",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "309583",
+            "TO": "Eric Roland Draper",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-432-8648"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B521",
+            "Umbrella": "Draper Construction",
+            "Umbrella ID": "12541514",
+            "VB_NAME": "Eric Roland Draper",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43625",
+            "MEMBERNAME": "629995 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B521",
+            "Umbrella": "Draper Construction",
+            "Umbrella ID": "12541514",
+            "VB_NAME": "Eric Roland Draper",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B521",
+            "MEMBERNAME": "Eric Roland Draper",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

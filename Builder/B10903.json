@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B10903",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sandfield Homes",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "1976-01-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1979-01-07 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "TARION",
+            "TELEPHONE": "(416)000-0000",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "312887",
+            "TO": "Edie Glazer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-419-5436"
+        },
+        {
+            "TOUNIQUENUMBER": "318063",
+            "TO": "David Kosoy",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312888",
+            "TO": "Michael Glazer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "317785",
+            "TO": "Arthur Kleinstein",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B10903",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sandfield Homes",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "Marine Dr & East St",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1981-10-01"
+        }
+    ],
+    "builderConditions": []
+}

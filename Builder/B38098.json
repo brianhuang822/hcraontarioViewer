@@ -1,0 +1,132 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38098",
+            "Umbrella": "Blue Spruce Homes",
+            "Umbrella ID": "12541183",
+            "VB_NAME": "Blue Spruce Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "ST. CATHARINES",
+            "HCRA_INITIALLICENSEDATE": "2007-11-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-11-13 16:01:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "13 Parnell Rd.",
+            "TELEPHONE": "905-937-6932",
+            "FAX": "905-646-8025",
+            "WEBSITEURL": null,
+            "EMAIL": "wbootsma@cogeco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12120090",
+            "TO": "Wil Bootsma",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-937-6932"
+        },
+        {
+            "TOUNIQUENUMBER": "12120090",
+            "TO": "Wil Bootsma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-937-6932"
+        },
+        {
+            "TOUNIQUENUMBER": "12120090",
+            "TO": "Wil Bootsma",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-937-6932"
+        },
+        {
+            "TOUNIQUENUMBER": "12143380",
+            "TO": "Irene Bootsma",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-937-6932"
+        },
+        {
+            "TOUNIQUENUMBER": "12143380",
+            "TO": "Irene Bootsma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-937-6932"
+        },
+        {
+            "TOUNIQUENUMBER": "12143380",
+            "TO": "Irene Bootsma",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-937-6932"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38098",
+            "Umbrella": "Blue Spruce Homes",
+            "Umbrella ID": "12541183",
+            "VB_NAME": "Blue Spruce Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38098",
+            "MEMBERNAME": "Blue Spruce Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38098",
+            "Umbrella": "Blue Spruce Homes",
+            "Umbrella ID": "12541183",
+            "VB_NAME": "Blue Spruce Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36213",
+            "MEMBERNAME": "Wil Bootsma",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38098",
+            "Umbrella": "Blue Spruce Homes",
+            "Umbrella ID": "12541183",
+            "VB_NAME": "Blue Spruce Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40818",
+            "MEMBERNAME": "Blue Spruce Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38098",
+            "Umbrella": "Blue Spruce Homes",
+            "Umbrella ID": "12541183",
+            "VB_NAME": "Blue Spruce Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42383",
+            "MEMBERNAME": "Blue Spruce Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

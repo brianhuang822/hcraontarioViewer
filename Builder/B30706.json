@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B30706",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1398796 Ontario Inc.",
+            "OPERATINGNAME": "Bloorwood Group",
+            "CITY": "Richmond Hill",
+            "HCRA_INITIALLICENSEDATE": "2000-06-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-06-03 12:31:43.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "15 Chaplin Court",
+            "TELEPHONE": "416-531-2345",
+            "FAX": "416-531-0864",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B30706",
+            "Total Outstanding Amount": 564716.06,
+            "TAB": 101776.72,
+            "BREACH": 462939.34,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11643825",
+            "TO": "John Rego",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-530-1080"
+        },
+        {
+            "TOUNIQUENUMBER": "12012639",
+            "TO": "Cindy Rego",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11643790",
+            "TO": "Katina Bargis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-508-8309"
+        },
+        {
+            "TOUNIQUENUMBER": "11643790",
+            "TO": "Katina Bargis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-508-8309"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B30706",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1398796 Ontario Inc.",
+            "OPERATINGNAME": "Bloorwood Group",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BLOORWOOD MANOR",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": " 50 Resurrection Rd/Michael Power ",
+            "# of Units": 61,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-03-10"
+        }
+    ],
+    "builderConditions": []
+}

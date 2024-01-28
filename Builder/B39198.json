@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39198",
+            "Umbrella": "Kingsley Development Group",
+            "Umbrella ID": "12332920",
+            "VB_NAME": "359 King Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "KITCHENER",
+            "HCRA_INITIALLICENSEDATE": "2008-11-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-11-22 16:00:22.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "274 Shirley Ave., Unit 201",
+            "TELEPHONE": "519-576-8278",
+            "FAX": "519-576-0739",
+            "WEBSITEURL": null,
+            "EMAIL": "gcrozier@kingsleydev.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336162",
+            "TO": "Al Way",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-6417"
+        },
+        {
+            "TOUNIQUENUMBER": "336162",
+            "TO": "Al Way",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-6417"
+        },
+        {
+            "TOUNIQUENUMBER": "12315479",
+            "TO": "Gordon Schembri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-578-2734"
+        },
+        {
+            "TOUNIQUENUMBER": "12315479",
+            "TO": "Gordon Schembri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-578-2734"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39198",
+            "Umbrella": "Kingsley Development Group",
+            "Umbrella ID": "12332920",
+            "VB_NAME": "359 King Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40617",
+            "MEMBERNAME": "Parry Sound Harbourview Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39198",
+            "Umbrella": "Kingsley Development Group",
+            "Umbrella ID": "12332920",
+            "VB_NAME": "359 King Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39198",
+            "MEMBERNAME": "359 King Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39198",
+            "Umbrella": "Kingsley Development Group",
+            "Umbrella ID": "12332920",
+            "VB_NAME": "359 King Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37990",
+            "MEMBERNAME": "Jameshill Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

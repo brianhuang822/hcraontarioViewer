@@ -1,0 +1,187 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1203",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Charlesfort Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "1986-05-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:31:57.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "18 Clemow Avenue",
+            "TELEPHONE": "613-233-0044",
+            "FAX": null,
+            "WEBSITEURL": "www.charlesfort.ca",
+            "EMAIL": "casey@charlesfort.ca",
+            "ACCOUNTNUMBER": "B1203",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 89,
+            "SUMM_TOTAL": 89,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 4660,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 4660
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12138861",
+            "TO": "Wendy Bennett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-233-0044"
+        },
+        {
+            "TOUNIQUENUMBER": "305608",
+            "TO": "Douglas C. Casey",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-233-0044"
+        },
+        {
+            "TOUNIQUENUMBER": "305608",
+            "TO": "Douglas C. Casey",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-233-0044"
+        },
+        {
+            "TOUNIQUENUMBER": "12337698",
+            "TO": "John Davis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-523-5311"
+        },
+        {
+            "TOUNIQUENUMBER": "305604",
+            "TO": "Cheryl-Ann Casey",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-233-0044"
+        },
+        {
+            "TOUNIQUENUMBER": "305604",
+            "TO": "Cheryl-Ann Casey",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-233-0044"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1203",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Charlesfort Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Pullman",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "509-515 Gladstone Avenue",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-07-12"
+        },
+        {
+            "Condo Project Name": "The Merit",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "108 Lisgar St.",
+            "# of Units": 76,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-06-26"
+        },
+        {
+            "Condo Project Name": "The Hudson",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "235 Kent St.",
+            "# of Units": 110,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-01-05"
+        },
+        {
+            "Condo Project Name": "The Hudson",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "245 Kent St",
+            "# of Units": 121,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-04-06"
+        },
+        {
+            "Condo Project Name": "THE GARDENS",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 95 Bronson Ave ",
+            "# of Units": 81,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-09-20"
+        },
+        {
+            "Condo Project Name": "THE GARDENS",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 85 Bronson Ave ",
+            "# of Units": 82,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-02-03"
+        },
+        {
+            "Condo Project Name": "THE ST. CHARLES",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "103/107 Third Ave.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-11-20"
+        },
+        {
+            "Condo Project Name": "THE JEFFERSON HALL APARTMENTS",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "130 Glebe Ave",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-08-08"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "215 St. Patrick St.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-11-13"
+        }
+    ],
+    "builderConditions": []
+}

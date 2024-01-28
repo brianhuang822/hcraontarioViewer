@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37069",
+            "Umbrella": "Royden Homes",
+            "Umbrella ID": "12200430",
+            "VB_NAME": "Michael Dennis O'Connor & John Robert Royle",
+            "OPERATINGNAME": "Royden Homes",
+            "CITY": "SMITHS FALLS",
+            "HCRA_INITIALLICENSEDATE": "2006-12-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-12-08 16:02:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2 Victoria Ave.",
+            "TELEPHONE": "613-283-0574",
+            "FAX": "613-283-3593",
+            "WEBSITEURL": "www.roydenhomes.com",
+            "EMAIL": "dennis@denoco.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12183496",
+            "TO": "Michael Dennis O'Connor",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-283-0574"
+        },
+        {
+            "TOUNIQUENUMBER": "329220",
+            "TO": "John Robert Royle",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-966-8350"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37069",
+            "Umbrella": "Royden Homes",
+            "Umbrella ID": "12200430",
+            "VB_NAME": "Michael Dennis O'Connor & John Robert Royle",
+            "OPERATINGNAME": "Royden Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37069",
+            "MEMBERNAME": "Michael Dennis O'Connor & John Robert Royle",
+            "MEMBEROPERATINGNAME": "Royden Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37069",
+            "Umbrella": "Royden Homes",
+            "Umbrella ID": "12200430",
+            "VB_NAME": "Michael Dennis O'Connor & John Robert Royle",
+            "OPERATINGNAME": "Royden Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34788",
+            "MEMBERNAME": "John Robert Royle",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

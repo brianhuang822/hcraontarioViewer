@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39518",
+            "Umbrella": "Copkot Holdings",
+            "Umbrella ID": "12401976",
+            "VB_NAME": "Copkot Holdings Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "STOUFFVILLE",
+            "HCRA_INITIALLICENSEDATE": "2009-04-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-04-25 15:00:32.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "85 Katherine Cres.",
+            "TELEPHONE": "905-642-8355",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "kcopetti@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12347770",
+            "TO": "Leonard Copetti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-568-9907"
+        },
+        {
+            "TOUNIQUENUMBER": "12347770",
+            "TO": "Leonard Copetti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-568-9907"
+        },
+        {
+            "TOUNIQUENUMBER": "12347770",
+            "TO": "Leonard Copetti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-568-9907"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39518",
+            "Umbrella": "Copkot Holdings",
+            "Umbrella ID": "12401976",
+            "VB_NAME": "Copkot Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40243",
+            "MEMBERNAME": "1639216 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39518",
+            "Umbrella": "Copkot Holdings",
+            "Umbrella ID": "12401976",
+            "VB_NAME": "Copkot Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39518",
+            "MEMBERNAME": "Copkot Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9343",
+            "Umbrella": "Consolidated Homes",
+            "Umbrella ID": "12545166",
+            "VB_NAME": "Consolidated Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Bradford",
+            "HCRA_INITIALLICENSEDATE": "1988-03-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-20 15:51:53.000 +0000",
+            "Expiry Date": "2024-03-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "75 Artesian Industrial Parkway",
+            "TELEPHONE": "905-778-1818",
+            "FAX": "905-778-0877",
+            "WEBSITEURL": null,
+            "EMAIL": "chl@atpgroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 18,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 18,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "325168",
+            "TO": "Paul Orsi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-778-1818"
+        },
+        {
+            "TOUNIQUENUMBER": "325168",
+            "TO": "Paul Orsi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-778-1818"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9343",
+            "Umbrella": "Consolidated Homes",
+            "Umbrella ID": "12545166",
+            "VB_NAME": "Consolidated Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B9343",
+            "MEMBERNAME": "Consolidated Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B9343",
+            "Umbrella": "Consolidated Homes",
+            "Umbrella ID": "12545166",
+            "VB_NAME": "Consolidated Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45498",
+            "MEMBERNAME": "2146552 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

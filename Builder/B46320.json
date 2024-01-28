@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46320",
+            "Umbrella": "Restauri Homes - Chappel",
+            "Umbrella ID": "12546745",
+            "VB_NAME": "2566964 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Hamilton",
+            "HCRA_INITIALLICENSEDATE": "2017-07-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-23 19:55:34.000 +0000",
+            "Expiry Date": "2024-07-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "161 Rebecca Street",
+            "TELEPHONE": "289-389-7707",
+            "FAX": "905-522-0452",
+            "WEBSITEURL": " ",
+            "EMAIL": "lmdisilvestro@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 21,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 21,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11722129",
+            "TO": "Michael Restauri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-8631"
+        },
+        {
+            "TOUNIQUENUMBER": "100442591",
+            "TO": "Laura Di Silvestro",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-308-5600"
+        },
+        {
+            "TOUNIQUENUMBER": "100442591",
+            "TO": "Laura Di Silvestro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-308-5600"
+        },
+        {
+            "TOUNIQUENUMBER": "100442591",
+            "TO": "Laura Di Silvestro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-308-5600"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46320",
+            "Umbrella": "Restauri Homes - Chappel",
+            "Umbrella ID": "12546745",
+            "VB_NAME": "2566964 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31717",
+            "MEMBERNAME": "1419747 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Restauri Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46320",
+            "Umbrella": "Restauri Homes - Chappel",
+            "Umbrella ID": "12546745",
+            "VB_NAME": "2566964 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46320",
+            "MEMBERNAME": "2566964 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Red Hill Towns",
+            "Project Status": null,
+            "Location": "HAMILTON",
+            "Address": " 154 & 166 Mount Albion Rd. ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Chapple Estates",
+            "Project Status": null,
+            "Location": "HAMILTON",
+            "Address": "120 Vineberg Dr., Units 36 - 40",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

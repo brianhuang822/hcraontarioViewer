@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42201",
+            "Umbrella": "Roswell",
+            "Umbrella ID": "12541619",
+            "VB_NAME": "Roswell Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2012-08-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-19 19:39:37.000 +0000",
+            "Expiry Date": "2024-08-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3619 Dundas Street West",
+            "TELEPHONE": "416-936-2428",
+            "FAX": "416-763-5581",
+            "WEBSITEURL": "https://www.roswellconstructioninc.com",
+            "EMAIL": "sergio.roswell@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100123576",
+            "TO": "Sergio Rosa",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-936-2428"
+        },
+        {
+            "TOUNIQUENUMBER": "100123576",
+            "TO": "Sergio Rosa",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-936-2428"
+        },
+        {
+            "TOUNIQUENUMBER": "100123576",
+            "TO": "Sergio Rosa",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-936-2428"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42201",
+            "Umbrella": "Roswell",
+            "Umbrella ID": "12541619",
+            "VB_NAME": "Roswell Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42201",
+            "MEMBERNAME": "Roswell Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,1169 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "The Conservatory Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": 28059.39,
+            "OUTSTANDINGAMTTAB": 13910.09,
+            "BREACH": 14149.3,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 2,
+            "TOTALUNITS": 3775,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 1355.3,
+            "ADDRESS": "90 Tiverton Court Suite 200",
+            "TELEPHONE": "905-477-7609",
+            "FAX": "905-477-6293",
+            "WEBSITEURL": "www.conservatorygroup.com",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Christie Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17142",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Hollybar High Rise Developments Ltd.",
+            "MEMBEROPERATINGNAME": "Milan Condominiums",
+            "MEMBERVBNUM": "B38284",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Grape Arbour Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26296",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Hillsville Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43114",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Oakdale Village Homes Inc.",
+            "MEMBEROPERATINGNAME": "Oakdale Estates",
+            "MEMBERVBNUM": "B35105",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Hawkshire Holdings Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8691",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Upper Beach Estates Ltd.",
+            "MEMBEROPERATINGNAME": "Upper Beach Village",
+            "MEMBERVBNUM": "B31083",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Touchtone Construction Ltd.",
+            "MEMBEROPERATINGNAME": "Tiara",
+            "MEMBERVBNUM": "B26081",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Jaylaura Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41185",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "King Of The Road Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Deerfield",
+            "MEMBERVBNUM": "B25226",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Jason Properties Inc.",
+            "MEMBEROPERATINGNAME": "The Universal",
+            "MEMBERVBNUM": "B32799",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Fancy Dell Developments Inc.",
+            "MEMBEROPERATINGNAME": "Infinity",
+            "MEMBERVBNUM": "B38973",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Melodic Brook Developments Inc.",
+            "MEMBEROPERATINGNAME": "Walnut Grove In Spring Valley",
+            "MEMBERVBNUM": "B36754",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Belair Way Developments Inc.",
+            "MEMBEROPERATINGNAME": "Villagio",
+            "MEMBERVBNUM": "B27159",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Pinecliff Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19597",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Scarlet Iris Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36072",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Eastshire Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22815",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "W.S. Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36816",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Barhill Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33846",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Pauling Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37085",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Crest Valley Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9276",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Marlo Developments Inc.",
+            "MEMBEROPERATINGNAME": "Riverside",
+            "MEMBERVBNUM": "B24854",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cherry Hill Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20930",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Halcourt Homes Ltd. (Brampton)",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8955",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Torville Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43113",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Penelope Gardens Construction Ltd.",
+            "MEMBEROPERATINGNAME": "Gates of Scarborough",
+            "MEMBERVBNUM": "B32661",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Middle Oak Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32436",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Angelonia Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38805",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Marton Developments Inc.",
+            "MEMBEROPERATINGNAME": "Forest Hill Village",
+            "MEMBERVBNUM": "B31074",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Antelope Hills Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33119",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Isadore Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9227",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Songfest Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40900",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ginger Downs Developments Inc.",
+            "MEMBEROPERATINGNAME": "Stars Of Brampton",
+            "MEMBERVBNUM": "B23755",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Heather Downs Developments Inc.",
+            "MEMBEROPERATINGNAME": "The Rio 2",
+            "MEMBERVBNUM": "B27581",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Orchid Hills Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26080",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Southwell Valley Estates Inc.",
+            "MEMBEROPERATINGNAME": "Sorrento",
+            "MEMBERVBNUM": "B27727",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rainbow Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37452",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Yonge North Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8762",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Misty Manor (No.2) Developments Inc.",
+            "MEMBEROPERATINGNAME": "The Majestic Phase 2",
+            "MEMBERVBNUM": "B30479",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Jade Cove Developments Inc.",
+            "MEMBEROPERATINGNAME": "Central Park",
+            "MEMBERVBNUM": "B34188",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Olde Park Construction Company Limited",
+            "MEMBEROPERATINGNAME": "Carruthers Creek",
+            "MEMBERVBNUM": "B27160",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Sharon Valley Developments Inc.",
+            "MEMBEROPERATINGNAME": "The Towns at Cedar Gardens",
+            "MEMBERVBNUM": "B34477",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Randylon Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32434",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "647261 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Maple Estates",
+            "MEMBERVBNUM": "B8763",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Markham Woods Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Markham Woods",
+            "MEMBERVBNUM": "B31076",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Onville Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45232",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Hayter Street Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17143",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Towne Meadow Development Corporation Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9594",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Neges Glen Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46290",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Castlefield Estates Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26035",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Craftsbury Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26102",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Jasper Village In Milton Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38831",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Borin Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38798",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Aberdeen Developments Inc.",
+            "MEMBEROPERATINGNAME": "Walnut Grove - Phase 2",
+            "MEMBERVBNUM": "B32660",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rosedale Developments Inc.",
+            "MEMBEROPERATINGNAME": "Platinum Towers",
+            "MEMBERVBNUM": "B32116",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Tedley Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9189",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Prescott Homes Ltd.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7836",
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "MEMBERNAME": "Coshlea Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45231",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Shellville Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46291",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Cardoba Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38797",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Holly Downs Developments Inc.",
+            "MEMBEROPERATINGNAME": "Skyscape Ph.1 Altitude Ph.2",
+            "MEMBERVBNUM": "B34979",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "B-Major Homes (Ontario) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42037",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Misty Manor Dev. Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19134",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Fawndale Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25048",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Governor's Bridge Estates Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27728",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Dewberry Construction Ltd.",
+            "MEMBEROPERATINGNAME": "The Imperial",
+            "MEMBERVBNUM": "B25962",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Country Meadow Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21569",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cantabile Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38830",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bear Bay Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7837",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Quiet Pasture Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9488",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bayview Towers Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8531",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Port Union Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Port Union Village",
+            "MEMBERVBNUM": "B34478",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Rosewood Developments Corp.",
+            "MEMBEROPERATINGNAME": "Colonial Park",
+            "MEMBERVBNUM": "B26082",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Conservatory Const. Co. Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8532",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Tamaron Properties Ltd.",
+            "MEMBEROPERATINGNAME": "Dunvegan Heights",
+            "MEMBERVBNUM": "B34056",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ivory Gate Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31715",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Sharynton Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17540",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Milton Main Street Developments Ltd.",
+            "MEMBEROPERATINGNAME": "Netherfield Valley Estates",
+            "MEMBERVBNUM": "B31156",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Priva Developments Inc.",
+            "MEMBEROPERATINGNAME": "Brookside",
+            "MEMBERVBNUM": "B26447",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Harmony Creek Investments Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20841",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Conigley Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42232",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Viewmark Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7295",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Woodheath Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16375",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Roxygold Developments Limited",
+            "MEMBEROPERATINGNAME": "The Roxy",
+            "MEMBERVBNUM": "B26572",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Roxygold Developments Limited",
+            "MEMBEROPERATINGNAME": "43 Eglinton Ave. East",
+            "MEMBERVBNUM": "B27467",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Skyrise Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16549",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 188,
+            "Condo Unit Posessions": 30,
+            "Total Posessions": 218,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 244,
+            "Condo Unit Posessions": 652,
+            "Total Posessions": 896,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 209,
+            "Condo Unit Posessions": 107,
+            "Total Posessions": 316,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 257,
+            "Condo Unit Posessions": 413,
+            "Total Posessions": 670,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 344,
+            "Condo Unit Posessions": 118,
+            "Total Posessions": 462,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 107,
+            "Condo Unit Posessions": 247,
+            "Total Posessions": 354,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 216,
+            "Condo Unit Posessions": 40,
+            "Total Posessions": 256,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 124,
+            "Condo Unit Posessions": 86,
+            "Total Posessions": 210,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 168,
+            "Condo Unit Posessions": 202,
+            "Total Posessions": 370,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 100,
+            "Condo Unit Posessions": 1,
+            "Total Posessions": 101,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 1355.3,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 1355.3,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 140,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 140,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1909,
+            "SUMM_CONDO": 1866,
+            "SUMM_TOTAL": 3775,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1355.3,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1355.3,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Grande Mirage",
+            "Account Number": "B32799",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 349 Rathburn Rd. W. ",
+            "# of Units": 344,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-12-17"
+        },
+        {
+            "Condo Project Name": "Cove",
+            "Account Number": "B42037",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 39 Annie Craig Drive ",
+            "# of Units": 281,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-02-10"
+        },
+        {
+            "Condo Project Name": "Mirage Condominiums",
+            "Account Number": "B32799",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 339 Rathburn Rd. W. ",
+            "# of Units": 352,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-06-22"
+        },
+        {
+            "Condo Project Name": "Milan Condominiums",
+            "Account Number": "B38284",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 825 Church Street ",
+            "# of Units": 316,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-01-12"
+        },
+        {
+            "Condo Project Name": "Infinity 4",
+            "Account Number": "B38973",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "25 Lower Simcoe St.",
+            "# of Units": 298,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-08-21"
+        },
+        {
+            "Condo Project Name": "Infinity 3- Phase 1",
+            "Account Number": "B38973",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "19 Grand Trunk Crescent",
+            "# of Units": 408,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-05-14"
+        },
+        {
+            "Condo Project Name": "Altitude",
+            "Account Number": "B34979",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "88 Grangeway Ave.",
+            "# of Units": 222,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-11-15"
+        },
+        {
+            "Condo Project Name": "Widesuites",
+            "Account Number": "B36816",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "208 Enfield Place",
+            "# of Units": 278,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-08-22"
+        },
+        {
+            "Condo Project Name": "Pearl",
+            "Account Number": "B37452",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "35 Hollywood Ave.",
+            "# of Units": 351,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-08-12"
+        },
+        {
+            "Condo Project Name": "Upper Beach Village",
+            "Account Number": "B38805",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "2230 Gerrard St. E.",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-06-11"
+        },
+        {
+            "Condo Project Name": "Universal Condominiums",
+            "Account Number": "B32799",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "335 Rathburn Rd W",
+            "# of Units": 296,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-12-30"
+        },
+        {
+            "Condo Project Name": "PLATINUM TOWERS",
+            "Account Number": "B32116",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "18 Spring Garden Ave",
+            "# of Units": 341,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-11-21"
+        },
+        {
+            "Condo Project Name": "SKYSCAPE",
+            "Account Number": "B34979",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "68 Grangeway Ave",
+            "# of Units": 228,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-06-20"
+        },
+        {
+            "Condo Project Name": "Infinity Phase II",
+            "Account Number": "B33119",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 51 Lower Simcoe St ",
+            "# of Units": 244,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-04-10"
+        },
+        {
+            "Condo Project Name": "INFINITY CONDOMINIUMS",
+            "Account Number": "B33119",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "30 Grand Trunk Cres.",
+            "# of Units": 395,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-05-29"
+        },
+        {
+            "Condo Project Name": "TOWNS AT CEDAR  GARDENS",
+            "Account Number": "B34477",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "45 &55 Cedarcroft Blvd./Antibes Dr",
+            "# of Units": 47,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-06-12"
+        },
+        {
+            "Condo Project Name": "PLATINUM TOWERS",
+            "Account Number": "B32116",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 23 Hollywood Ave. ",
+            "# of Units": 342,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-12-23"
+        },
+        {
+            "Condo Project Name": "TBD",
+            "Account Number": "B30479",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": " 18 Parkview Ave ",
+            "# of Units": 285,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-04-06"
+        },
+        {
+            "Condo Project Name": "RIO IV",
+            "Account Number": "B27581",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 195 Merton Street, Building C ",
+            "# of Units": 124,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-04-01"
+        },
+        {
+            "Condo Project Name": "THE RIO 3",
+            "Account Number": "B27581",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "225 Merton St., Bldg. B",
+            "# of Units": 124,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-03-05"
+        },
+        {
+            "Condo Project Name": "THE ROXY",
+            "Account Number": "B27467",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "43 Eglinton Ave. E.",
+            "# of Units": 142,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-06-27"
+        },
+        {
+            "Condo Project Name": "GRAPE ARBOUR",
+            "Account Number": "B26296",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "28 Empress Ave.",
+            "# of Units": 269,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-05-31"
+        },
+        {
+            "Condo Project Name": "THE IMPERIAL - BUILDING \"B\"",
+            "Account Number": "B19134",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "260 Doris Avenue",
+            "# of Units": 145,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-12-16"
+        },
+        {
+            "Condo Project Name": "THE IMPERIAL_- BUILDING \"A\"",
+            "Account Number": "B19134",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "256 Doris Avenue",
+            "# of Units": 188,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-11-26"
+        },
+        {
+            "Condo Project Name": "736 BAY ST., TORONTO",
+            "Account Number": "B17143",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "736 Bay St.",
+            "# of Units": 306,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-01-11"
+        },
+        {
+            "Condo Project Name": "SKYRISE",
+            "Account Number": "B16549",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "7300 Yonge Street",
+            "# of Units": 412,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-12-31"
+        },
+        {
+            "Condo Project Name": "CENTER IV",
+            "Account Number": "B17142",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "400 Webb Drive",
+            "# of Units": 224,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-09-09"
+        },
+        {
+            "Condo Project Name": "RATHBURN CONDOMINIUMS",
+            "Account Number": "B9189",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "330/350 Rathburn Road",
+            "# of Units": 408,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-10-31"
+        },
+        {
+            "Condo Project Name": "QUIET PASTURE HOMES",
+            "Account Number": "B9488",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "700 Constellation Rd",
+            "# of Units": 184,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-10-23"
+        },
+        {
+            "Condo Project Name": "BAYVIEW TOWERS",
+            "Account Number": "B8531",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "8501 Bayview Ave.",
+            "# of Units": 248,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-10-24"
+        },
+        {
+            "Condo Project Name": "CLARK AVENUE",
+            "Account Number": "B8532",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "343 Clark Ave.w",
+            "# of Units": 144,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-06-23"
+        },
+        {
+            "Condo Project Name": "CLARK AVENUE",
+            "Account Number": "B8532",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "333 Clark Ave.",
+            "# of Units": 161,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-11-02"
+        },
+        {
+            "Condo Project Name": "Water's Edge",
+            "Account Number": "B42037",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 38 Annie Craig Dr. ",
+            "# of Units": 602,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Pearl Place",
+            "Account Number": "B32116",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 4917-4975 Yonge Street ",
+            "# of Units": 478,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

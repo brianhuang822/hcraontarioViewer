@@ -1,0 +1,148 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38330",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "EllisDon Residential Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2008-11-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-27 13:39:15.000 +0000",
+            "Expiry Date": "2023-11-19",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "1004 Middlegate Road",
+            "TELEPHONE": "905-896-8900",
+            "FAX": "905-896-8911",
+            "WEBSITEURL": "www.ellisdon.com",
+            "EMAIL": "ecaranci@ellisdon.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 8098.37,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 8098.37
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600009147",
+            "TO": "Kieran Hawe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-803-6327"
+        },
+        {
+            "TOUNIQUENUMBER": "600009147",
+            "TO": "Kieran Hawe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-803-6327"
+        },
+        {
+            "TOUNIQUENUMBER": "600009148",
+            "TO": "Andres Duran",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-455-6770"
+        },
+        {
+            "TOUNIQUENUMBER": "600009146",
+            "TO": "Brian Kilburn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-455-6770"
+        },
+        {
+            "TOUNIQUENUMBER": "600009149",
+            "TO": "Andrew Anderson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-803-7060"
+        },
+        {
+            "TOUNIQUENUMBER": "331535",
+            "TO": "Geoffrey Smith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-896-8900"
+        },
+        {
+            "TOUNIQUENUMBER": "331535",
+            "TO": "Geoffrey Smith",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-896-8900"
+        },
+        {
+            "TOUNIQUENUMBER": "343439",
+            "TO": "John Bernhardt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-455-6770"
+        },
+        {
+            "TOUNIQUENUMBER": "343439",
+            "TO": "John Bernhardt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-455-6770"
+        },
+        {
+            "TOUNIQUENUMBER": "100542085",
+            "TO": "Dave Lauzon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-455-6770"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38330",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "EllisDon Residential Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61889",
+            "MEMBERNAME": "Fieldway Road Developments Inc.",
+            "MEMBEROPERATINGNAME": "Fieldway Road Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B38330",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "EllisDon Residential Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27060",
+            "MEMBERNAME": "Ellis-Don Residential Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B38330",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "EllisDon Residential Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38330",
+            "MEMBERNAME": "EllisDon Residential Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

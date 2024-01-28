@@ -1,0 +1,733 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Andrin Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 8,
+            "TOTALUNITS": 2275,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "26 Lesmill Road",
+            "TELEPHONE": "416-733-3128",
+            "FAX": "416-733-3129",
+            "WEBSITEURL": "www.andrinhomes.com",
+            "EMAIL": "amarchildon@andrinhomes.com",
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Andrin Country Lane West Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48797",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "2143811 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48801",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Next Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46891",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Cherrytree Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25560",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Nova Towns Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B60965",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Mclaughlin Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34821",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin (Heart Lake) Properties Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41718",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Whitby Country Lane Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45200",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Eldorado Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28653",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Hillsborough Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44379",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Beaches Limited",
+            "MEMBEROPERATINGNAME": "The Beach Club",
+            "MEMBERVBNUM": "B37214",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Ravines Limited",
+            "MEMBEROPERATINGNAME": "The Ravines at Eldorado",
+            "MEMBERVBNUM": "B35358",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Block Andrin Whitby Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46425",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Wismer Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46415",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Glenway Urban Towns Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48105",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Havlock Investments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27409",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin City Centre One Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40798",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Breakwater Limited",
+            "MEMBEROPERATINGNAME": "Penny Lane",
+            "MEMBERVBNUM": "B35168",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Marianneville Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B61700",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Maple Station Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43977",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Skyville (Andrin) Homes Inc.",
+            "MEMBEROPERATINGNAME": "Penny Lane I",
+            "MEMBERVBNUM": "B32193",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Portofino Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27179",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Portofino (III) Limited",
+            "MEMBEROPERATINGNAME": "The Townhomes of Memory Lane",
+            "MEMBERVBNUM": "B30458",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bovaird-Yellow Brick Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26596",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Cherrytree Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40621",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Ravines Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26269",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Bathurst Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44052",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Marianneville Stonehaven Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48796",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Anchor Woods Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46288",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Woodbine Homes Limited",
+            "MEMBEROPERATINGNAME": "Cathedraltown",
+            "MEMBERVBNUM": "B39009",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin High Street Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41215",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Malta Avenue Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25218",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin (Valentina) Homes Limited",
+            "MEMBEROPERATINGNAME": "Kennedy Village",
+            "MEMBERVBNUM": "B33185",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Charlieville Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48799",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin (Grantchester) Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32896",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Glenway Two Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45311",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin Turnberry Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31023",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrin (Milton) Properties Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46307",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Andrin Fairway Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32377",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 218,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 218,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 132,
+            "Condo Unit Posessions": 47,
+            "Total Posessions": 179,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 212,
+            "Total Posessions": 212,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 15,
+            "Condo Unit Posessions": 153,
+            "Total Posessions": 168,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 145,
+            "Condo Unit Posessions": 12,
+            "Total Posessions": 157,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 169,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 169,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 514,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 514,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 124,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 124,
+            "Chargeable Conciliation": 5,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 59,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 59,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 163,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 163,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 138,
+            "Condo Unit Posessions": 386,
+            "Total Posessions": 524,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2024",
+            "Freehold Posessions": 6,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 6,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1465,
+            "SUMM_CONDO": 810,
+            "SUMM_TOTAL": 2275,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Marianne Stonehaven",
+            "Account Number": "B48796",
+            "Project Status": null,
+            "Location": "NEWMARKET",
+            "Address": "  Bayview Avenue ",
+            "# of Units": 126,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "TURNBERRY GOLF CLUB",
+            "Account Number": "B32377",
+            "Project Status": null,
+            "Location": "BRAMPTON",
+            "Address": "250/271 Richvale Dr.",
+            "# of Units": 113,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Turnberry Townhomes",
+            "Account Number": "B41718",
+            "Project Status": null,
+            "Location": "BRAMPTON",
+            "Address": "-",
+            "# of Units": 73,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Glenway",
+            "Account Number": "B45311",
+            "Project Status": null,
+            "Location": "NEWMARKET",
+            "Address": "Davis Drive",
+            "# of Units": 140,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "City Centre Condominiums",
+            "Account Number": "B40798",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "85 Duke Street West",
+            "# of Units": 203,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-08-15"
+        },
+        {
+            "Condo Project Name": "The Berwick",
+            "Account Number": "B40621",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "54 Berwick Ave.",
+            "# of Units": 222,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-08-26"
+        },
+        {
+            "Condo Project Name": "PENNY LANE",
+            "Account Number": "B35168",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 3045 Breakwater Crt. ",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-02-21"
+        },
+        {
+            "Condo Project Name": "PENNY LANE",
+            "Account Number": "B32896",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 3030 Breakwater Crt. ",
+            "# of Units": 179,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-03-04"
+        },
+        {
+            "Condo Project Name": "KENNEDY VILLAGE",
+            "Account Number": "B33185",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "  Woltner Way/Nakina Way/Ash Tree Ln./Vale ",
+            "# of Units": 55,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-11-01"
+        },
+        {
+            "Condo Project Name": "PENNY LANE",
+            "Account Number": "B32193",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 1128 Dundas St. W. ",
+            "# of Units": 37,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-10-02"
+        },
+        {
+            "Condo Project Name": "THE TOWNHOUSES OF MEMORY LANE",
+            "Account Number": "B27179",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "80 Acorn Pl.",
+            "# of Units": 98,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-11-21"
+        },
+        {
+            "Condo Project Name": "THE TOWNHOMES OF MEMORY LANE",
+            "Account Number": "B27179",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "80 Acorn Pl.",
+            "# of Units": 99,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-06-01"
+        },
+        {
+            "Condo Project Name": "VILLAGE BY THE PARK",
+            "Account Number": "B27409",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "170 Havelock Dr.",
+            "# of Units": 64,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-09-17"
+        },
+        {
+            "Condo Project Name": "THE YELLOW BRICK ROAD",
+            "Account Number": "B26596",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "2 Clay Brick Crt.",
+            "# of Units": 73,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-09-18"
+        },
+        {
+            "Condo Project Name": "MAIN STREET VILLAGE PHASE 2",
+            "Account Number": "B25560",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "10 Cherrytree Drive",
+            "# of Units": 65,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-08-21"
+        },
+        {
+            "Condo Project Name": "MAIN STREET VILLAGE",
+            "Account Number": "B25218",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "35 Malta Avenue",
+            "# of Units": 64,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-11-28"
+        },
+        {
+            "Condo Project Name": "Glenway Urban Towns",
+            "Account Number": "B48105",
+            "Project Status": "In Progress",
+            "Location": "NEWMARKET",
+            "Address": " 1 1 Mitchell Place ",
+            "# of Units": 304,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Young Condos at City Centre",
+            "Account Number": "B46891",
+            "Project Status": "In Progress",
+            "Location": "KITCHENER",
+            "Address": " 55 Duke St., W. ",
+            "# of Units": 316,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31193",
+            "Umbrella": "Mona-Con Homes",
+            "Umbrella ID": "12540288",
+            "VB_NAME": "Mona-Con Project Managers Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CARP",
+            "HCRA_INITIALLICENSEDATE": "2000-12-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-12-12 16:01:35.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6562 Rothbourne Rd., R.R.3",
+            "TELEPHONE": "(613) 831-1720",
+            "FAX": "(613) 831-1720",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11678403",
+            "TO": "Henry Holmsten",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-832-3176"
+        },
+        {
+            "TOUNIQUENUMBER": "11678403",
+            "TO": "Henry Holmsten",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-832-3176"
+        },
+        {
+            "TOUNIQUENUMBER": "11678403",
+            "TO": "Henry Holmsten",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-832-3176"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31193",
+            "Umbrella": "Mona-Con Homes",
+            "Umbrella ID": "12540288",
+            "VB_NAME": "Mona-Con Project Managers Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31193",
+            "MEMBERNAME": "Mona-Con Project Managers Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31193",
+            "Umbrella": "Mona-Con Homes",
+            "Umbrella ID": "12540288",
+            "VB_NAME": "Mona-Con Project Managers Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40955",
+            "MEMBERNAME": "Mona-Con Project Managers Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11718",
+            "Umbrella": "Double \"G\" Contractors",
+            "Umbrella ID": "3447",
+            "VB_NAME": "Double \"G\" Constractors Limited",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "1984-07-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1996-08-13 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "115 Main St. East, #1404",
+            "TELEPHONE": "(905)523-0744",
+            "FAX": "(905)523-1780",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "312282",
+            "TO": "Daniel A. Gasbarrini",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-752-0557"
+        },
+        {
+            "TOUNIQUENUMBER": "312282",
+            "TO": "Daniel A. Gasbarrini",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-752-0557"
+        },
+        {
+            "TOUNIQUENUMBER": "312282",
+            "TO": "Daniel A. Gasbarrini",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-752-0557"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11718",
+            "Umbrella": "Double \"G\" Contractors",
+            "Umbrella ID": "3447",
+            "VB_NAME": "Double \"G\" Constractors Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11718",
+            "MEMBERNAME": "Double \"G\" Constractors Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "RIVERWEST, PHASE 1",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1199 Hamilton Rd.",
+            "# of Units": 43,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-06-05"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "147A-159H Brantwd",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-02-22"
+        }
+    ],
+    "builderConditions": []
+}

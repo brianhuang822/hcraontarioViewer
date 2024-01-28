@@ -1,0 +1,118 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42658",
+            "Umbrella": "Adstruct",
+            "Umbrella ID": "12539148",
+            "VB_NAME": "Adstruct Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2023-12-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-08 19:09:51.000 +0000",
+            "Expiry Date": "2024-12-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "128 Sheppard Avenue West",
+            "TELEPHONE": "416-953-0977",
+            "FAX": null,
+            "WEBSITEURL": "https://www.adstruct.ca",
+            "EMAIL": "farhad@adstruct.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100120200",
+            "TO": "Sara Sharifian Attar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-953-0977"
+        },
+        {
+            "TOUNIQUENUMBER": "100120197",
+            "TO": "Farhad Vatandoost",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-953-0977"
+        },
+        {
+            "TOUNIQUENUMBER": "100120197",
+            "TO": "Farhad Vatandoost",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-953-0977"
+        },
+        {
+            "TOUNIQUENUMBER": "100120197",
+            "TO": "Farhad Vatandoost",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-953-0977"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42658",
+            "Umbrella": "Adstruct",
+            "Umbrella ID": "12539148",
+            "VB_NAME": "Adstruct Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42157",
+            "MEMBERNAME": "Farhad Vatandoost and Sara Sharifian Attar",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42658",
+            "Umbrella": "Adstruct",
+            "Umbrella ID": "12539148",
+            "VB_NAME": "Adstruct Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47281",
+            "MEMBERNAME": "Hub Ltd.",
+            "MEMBEROPERATINGNAME": "Hub Development Group",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42658",
+            "Umbrella": "Adstruct",
+            "Umbrella ID": "12539148",
+            "VB_NAME": "Adstruct Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42658",
+            "MEMBERNAME": "Adstruct Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42658",
+            "Umbrella": "Adstruct",
+            "Umbrella ID": "12539148",
+            "VB_NAME": "Adstruct Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43126",
+            "MEMBERNAME": "Hub Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

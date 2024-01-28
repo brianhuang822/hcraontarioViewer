@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B4944",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Glenworth Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "DOWNSVIEW",
+            "HCRA_INITIALLICENSEDATE": "1977-02-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1979-06-30 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "A-4525 Chesswood Dr.",
+            "TELEPHONE": "(416)635-7973",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "331412",
+            "TO": "Kenneth Slater",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-886-4766"
+        },
+        {
+            "TOUNIQUENUMBER": "331415",
+            "TO": "William Slater",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "329015",
+            "TO": "Bernard Ross",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "323221",
+            "TO": "Simon Minz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "330034",
+            "TO": "Ira Schdlnick",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B4944",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Glenworth Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "OSHAWA",
+            "Address": "1010 Glen St",
+            "# of Units": 52,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1981-10-01"
+        }
+    ],
+    "builderConditions": []
+}

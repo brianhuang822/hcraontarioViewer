@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33946",
+            "Umbrella": "Wilson-McLean",
+            "Umbrella ID": "12540876",
+            "VB_NAME": "1367518 Ontario Limited",
+            "OPERATINGNAME": "Alpine Springs",
+            "CITY": "COLLINGWOOD",
+            "HCRA_INITIALLICENSEDATE": "2003-12-09",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2005-04-29 00:16:44.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "The Georgian Business Centre",
+            "TELEPHONE": "705-444-5174",
+            "FAX": "705-446-3526",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342804",
+            "TO": "Mark Wilson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-446-5468"
+        },
+        {
+            "TOUNIQUENUMBER": "342804",
+            "TO": "Mark Wilson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-446-5468"
+        },
+        {
+            "TOUNIQUENUMBER": "342804",
+            "TO": "Mark Wilson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-446-5468"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33946",
+            "Umbrella": "Wilson-McLean",
+            "Umbrella ID": "12540876",
+            "VB_NAME": "1367518 Ontario Limited",
+            "OPERATINGNAME": "Alpine Springs",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B26414",
+            "MEMBERNAME": "Wilson-McLean Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33946",
+            "Umbrella": "Wilson-McLean",
+            "Umbrella ID": "12540876",
+            "VB_NAME": "1367518 Ontario Limited",
+            "OPERATINGNAME": "Alpine Springs",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B33946",
+            "MEMBERNAME": "1367518 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Alpine Springs",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B33946",
+            "Umbrella": "Wilson-McLean",
+            "Umbrella ID": "12540876",
+            "VB_NAME": "1367518 Ontario Limited",
+            "OPERATINGNAME": "Alpine Springs",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B28551",
+            "MEMBERNAME": "Thornbury River Walk Corporation",
+            "MEMBEROPERATINGNAME": "Thornbury River Walk",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

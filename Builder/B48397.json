@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48397",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Brenbrooke Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Hastings",
+            "HCRA_INITIALLICENSEDATE": "2020-09-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-25 13:57:06.000 +0000",
+            "Expiry Date": "2024-09-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4 Front Street East",
+            "TELEPHONE": "905-213-9660",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "brookingseric@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304283",
+            "TO": "Eric Brookings",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-213-9660"
+        },
+        {
+            "TOUNIQUENUMBER": "304283",
+            "TO": "Eric Brookings",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-213-9660"
+        },
+        {
+            "TOUNIQUENUMBER": "304283",
+            "TO": "Eric Brookings",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-213-9660"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48397",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Brenbrooke Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Lock 18 Hastings",
+            "Project Status": "In Progress",
+            "Location": "HASTINGS",
+            "Address": " 20 Pond St. ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

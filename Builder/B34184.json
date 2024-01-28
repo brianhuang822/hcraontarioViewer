@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34184",
+            "Umbrella": "Ficmar Construction Group",
+            "Umbrella ID": "12214213",
+            "VB_NAME": "1584823 Ontario Inc. and Ficmar Builders Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "SAULT STE. MARIE",
+            "HCRA_INITIALLICENSEDATE": "2004-03-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-03-17 13:30:31.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1092 Great Northern Rd., Unit 1",
+            "TELEPHONE": "705-253-0046",
+            "FAX": "705-946-0517",
+            "WEBSITEURL": "www.ficmarbuilders.com",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11986243",
+            "TO": "Mario A. Febbraro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-253-0046"
+        },
+        {
+            "TOUNIQUENUMBER": "11986243",
+            "TO": "Mario A. Febbraro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-253-0046"
+        },
+        {
+            "TOUNIQUENUMBER": "11986242",
+            "TO": "Steve Ficociello",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-253-0046"
+        },
+        {
+            "TOUNIQUENUMBER": "11986242",
+            "TO": "Steve Ficociello",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-253-0046"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34184",
+            "Umbrella": "Ficmar Construction Group",
+            "Umbrella ID": "12214213",
+            "VB_NAME": "1584823 Ontario Inc. and Ficmar Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60332",
+            "MEMBERNAME": "2706183 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2706183 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34184",
+            "Umbrella": "Ficmar Construction Group",
+            "Umbrella ID": "12214213",
+            "VB_NAME": "1584823 Ontario Inc. and Ficmar Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37421",
+            "MEMBERNAME": "Ficmar Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34184",
+            "Umbrella": "Ficmar Construction Group",
+            "Umbrella ID": "12214213",
+            "VB_NAME": "1584823 Ontario Inc. and Ficmar Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34184",
+            "MEMBERNAME": "1584823 Ontario Inc. and Ficmar Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

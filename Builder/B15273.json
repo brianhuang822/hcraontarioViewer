@@ -1,0 +1,109 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B15273",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "657774 Ontario Limited.,",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1988-11-30",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1992-12-02 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "98-645 William Street",
+            "TELEPHONE": "(519)434-1808",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "325831",
+            "TO": "William Patten",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "307289",
+            "TO": "Donald Crich",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B15273",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "657774 Ontario Limited.,",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "6TH ST. CONDO",
+            "Project Status": "Completed",
+            "Location": "OWEN SOUND",
+            "Address": "850 6th St. E.",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-08-15"
+        },
+        {
+            "Condo Project Name": "VALLEYSIDE CONDO",
+            "Project Status": "Completed",
+            "Location": "WALKERTON",
+            "Address": "5 Valleyside Dr.",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-11-30"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "STRATHROY",
+            "Address": "31 Victoria St.",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-12-16"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "In Progress",
+            "Location": "BLENHEIM",
+            "Address": "2 Chittim Rd",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

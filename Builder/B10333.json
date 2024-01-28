@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B10333",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Jrene Sales Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "WALKERTON",
+            "HCRA_INITIALLICENSEDATE": "1985-07-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1995-08-19 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5 Mullens Dr.",
+            "TELEPHONE": "(519)881-2475",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339379",
+            "TO": "Edward G. Hinsperger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "307814",
+            "TO": "John V. Hinsperger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "315278",
+            "TO": "John Harvey Hinsperger",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "1-519-323-7733"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B10333",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Jrene Sales Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "RIVERVIEW CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "WALKERTON",
+            "Address": "203 McNabb Street",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-03-10"
+        }
+    ],
+    "builderConditions": []
+}

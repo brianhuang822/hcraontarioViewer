@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40181",
+            "Umbrella": "Stirling Bridge",
+            "Umbrella ID": "12224554",
+            "VB_NAME": "Shellard Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2010-03-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-05-25 19:12:39.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "33 University Ave., Ste. 2702",
+            "TELEPHONE": "416-363-4079",
+            "FAX": "416-777-9880",
+            "WEBSITEURL": "www.stirlingbridge.ca",
+            "EMAIL": "info@stirlingbridge.ca",
+            "ACCOUNTNUMBER": "B40181",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 17,
+            "SUMM_MINOR_AMT": 150244.78,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 150244.78
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12071469",
+            "TO": "Donald James McGorman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-363-4079"
+        },
+        {
+            "TOUNIQUENUMBER": "12071469",
+            "TO": "Donald James McGorman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-363-4079"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40181",
+            "Umbrella": "Stirling Bridge",
+            "Umbrella ID": "12224554",
+            "VB_NAME": "Shellard Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40181",
+            "MEMBERNAME": "Shellard Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40181",
+            "Umbrella": "Stirling Bridge",
+            "Umbrella ID": "12224554",
+            "VB_NAME": "Shellard Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35843",
+            "MEMBERNAME": "694440 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Elizabeth Landing",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40181",
+            "Umbrella": "Stirling Bridge",
+            "Umbrella ID": "12224554",
+            "VB_NAME": "Shellard Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35464",
+            "MEMBERNAME": "1636530 Ontario Corporation",
+            "MEMBEROPERATINGNAME": "Stirling Bridge",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40181",
+            "Umbrella": "Stirling Bridge",
+            "Umbrella ID": "12224554",
+            "VB_NAME": "Shellard Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37823",
+            "MEMBERNAME": "2065373 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Grandview Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40181",
+            "Umbrella": "Stirling Bridge",
+            "Umbrella ID": "12224554",
+            "VB_NAME": "Shellard Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39899",
+            "MEMBERNAME": "Stirling Homes of Kingston Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Vantage",
+            "Project Status": null,
+            "Location": "BRANTFORD",
+            "Address": "21 Diana Ave.",
+            "# of Units": 138,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

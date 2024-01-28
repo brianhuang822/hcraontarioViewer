@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34411",
+            "Umbrella": "Jake Doerksen Construction",
+            "Umbrella ID": "12540205",
+            "VB_NAME": "Jacob Doerksen & Maria Doerksen",
+            "OPERATINGNAME": null,
+            "CITY": "VIRGIL",
+            "HCRA_INITIALLICENSEDATE": "2004-05-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-05-15 12:31:06.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "23 Annmarie Dr, Box 982",
+            "TELEPHONE": "(905) 468-7646",
+            "FAX": "(905) 468-9905",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12000009",
+            "TO": "Jacob Doerksen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-7179"
+        },
+        {
+            "TOUNIQUENUMBER": "12000010",
+            "TO": "Maria Doerksen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-7197"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34411",
+            "Umbrella": "Jake Doerksen Construction",
+            "Umbrella ID": "12540205",
+            "VB_NAME": "Jacob Doerksen & Maria Doerksen",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34411",
+            "MEMBERNAME": "Jacob Doerksen & Maria Doerksen",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34411",
+            "Umbrella": "Jake Doerksen Construction",
+            "Umbrella ID": "12540205",
+            "VB_NAME": "Jacob Doerksen & Maria Doerksen",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35728",
+            "MEMBERNAME": "Jake Doerksen Construction Inc.",
+            "MEMBEROPERATINGNAME": "Jake Doerksen Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

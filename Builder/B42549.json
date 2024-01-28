@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42549",
+            "Umbrella": "Imperial Park Developments",
+            "Umbrella ID": "12542343",
+            "VB_NAME": "Imperial Park Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2013-03-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-15 13:51:28.000 +0000",
+            "Expiry Date": "2024-03-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5690 Steeles Avenue West",
+            "TELEPHONE": "416-875-3824",
+            "FAX": "905-265-0775",
+            "WEBSITEURL": "www.imperialparkdevelopments.com",
+            "EMAIL": "hs@imperialparkdevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100150623",
+            "TO": "Harrison Sadr",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-875-3824"
+        },
+        {
+            "TOUNIQUENUMBER": "100150623",
+            "TO": "Harrison Sadr",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-875-3824"
+        },
+        {
+            "TOUNIQUENUMBER": "100150623",
+            "TO": "Harrison Sadr",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-875-3824"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42549",
+            "Umbrella": "Imperial Park Developments",
+            "Umbrella ID": "12542343",
+            "VB_NAME": "Imperial Park Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44197",
+            "MEMBERNAME": "Hossein Bagheri-Sadr",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42549",
+            "Umbrella": "Imperial Park Developments",
+            "Umbrella ID": "12542343",
+            "VB_NAME": "Imperial Park Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42549",
+            "MEMBERNAME": "Imperial Park Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

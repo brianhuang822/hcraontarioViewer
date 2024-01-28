@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60024",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Madison Mulder Enterprises Inc.",
+            "OPERATINGNAME": "Madison Mulder Enterprises Inc.",
+            "CITY": "Spencerville",
+            "HCRA_INITIALLICENSEDATE": "2021-03-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-24 02:20:56.000 +0000",
+            "Expiry Date": "2024-03-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "51 Centre Street",
+            "TELEPHONE": "613-803-7488",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "madison@mulderswelding.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600005027",
+            "TO": "Madison Mulder",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-803-7488"
+        },
+        {
+            "TOUNIQUENUMBER": "600005027",
+            "TO": "Madison Mulder",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-803-7488"
+        },
+        {
+            "TOUNIQUENUMBER": "600005027",
+            "TO": "Madison Mulder",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-803-7488"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60024",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Madison Mulder Enterprises Inc.",
+            "OPERATINGNAME": "Madison Mulder Enterprises Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

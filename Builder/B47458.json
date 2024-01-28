@@ -1,0 +1,152 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47458",
+            "Umbrella": "Diamond Kilmer",
+            "Umbrella ID": "500001860",
+            "VB_NAME": "DK St. Clair Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2019-05-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-03 17:08:26.000 +0000",
+            "Expiry Date": "2024-05-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "40 King Street West",
+            "TELEPHONE": "416-635-6100",
+            "FAX": "416-635-7697",
+            "WEBSITEURL": " ",
+            "EMAIL": "rpavri@kilmergroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 223,
+            "SUMM_TOTAL": 223,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100562038",
+            "TO": "Steven Bloom",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-6100"
+        },
+        {
+            "TOUNIQUENUMBER": "100562038",
+            "TO": "Steven Bloom",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-6100"
+        },
+        {
+            "TOUNIQUENUMBER": "100562044",
+            "TO": "Andrew Nairne",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-6100"
+        },
+        {
+            "TOUNIQUENUMBER": "100562034",
+            "TO": "David Harper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-814-3436"
+        },
+        {
+            "TOUNIQUENUMBER": "100562034",
+            "TO": "David Harper",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-814-3436"
+        },
+        {
+            "TOUNIQUENUMBER": "12490063",
+            "TO": "Stephen Diamond",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-324-5442"
+        },
+        {
+            "TOUNIQUENUMBER": "12490063",
+            "TO": "Stephen Diamond",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-324-5442"
+        },
+        {
+            "TOUNIQUENUMBER": "12162769",
+            "TO": "Robert Blazevski",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-324-5442"
+        },
+        {
+            "TOUNIQUENUMBER": "12162769",
+            "TO": "Robert Blazevski",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-324-5442"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47458",
+            "Umbrella": "Diamond Kilmer",
+            "Umbrella ID": "500001860",
+            "VB_NAME": "DK St. Clair Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47458",
+            "MEMBERNAME": "DK St. Clair Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47458",
+            "Umbrella": "Diamond Kilmer",
+            "Umbrella ID": "500001860",
+            "VB_NAME": "DK St. Clair Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60797",
+            "MEMBERNAME": "DK Victoria Park Inc.",
+            "MEMBEROPERATINGNAME": "DK Victoria Park Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47458",
+            "Umbrella": "Diamond Kilmer",
+            "Umbrella ID": "500001860",
+            "VB_NAME": "DK St. Clair Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61708",
+            "MEMBERNAME": "DK Broadview Inc.",
+            "MEMBEROPERATINGNAME": "DK Broadview Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Reunion Crossing",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 1808 St. Clair Ave. W ",
+            "# of Units": 229,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-10-04"
+        }
+    ],
+    "builderConditions": []
+}

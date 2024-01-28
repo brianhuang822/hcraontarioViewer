@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43228",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Urlando Management Design Build Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "2015-01-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-03-17 12:01:30.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1469 Chasehurst Drive",
+            "TELEPHONE": "905/826-5812",
+            "FAX": "289/997-5812",
+            "WEBSITEURL": "www.umdesign.ca",
+            "EMAIL": "rocco@umdesign.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338838",
+            "TO": "Rocco Urlando",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-738-8992"
+        },
+        {
+            "TOUNIQUENUMBER": "338838",
+            "TO": "Rocco Urlando",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-738-8992"
+        },
+        {
+            "TOUNIQUENUMBER": "338838",
+            "TO": "Rocco Urlando",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-738-8992"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108067",
+            "CHARGE_AGAINST": "Urlando Management Design Build Inc",
+            "CHARGE_DATE": "2013-10-24",
+            "DISPOSITION_DATE": "2014-10-07",
+            "THE_FINE_": "2500",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "625",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9325977",
+            "ORGANIZATION_NAME": "Urlando Management Design Build Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Innisfil, ON",
+            "CITY_DEFENCE": "Mississauga, ON",
+            "VB_NUMBER": "B43228",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108067 9325977",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Innisfil, Town",
+            "INFORMATION_NUMBER": "999-132532",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "FROM_OFFENCE_DATE": "2012-05-03",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "3125",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B43228",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Urlando Management Design Build Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

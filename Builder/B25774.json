@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25774",
+            "Umbrella": "Kingdale Homes",
+            "Umbrella ID": "12547424",
+            "VB_NAME": "1146204 Ontario Inc.",
+            "OPERATINGNAME": "Kingdale Homes",
+            "CITY": "QUEENSVILLE",
+            "HCRA_INITIALLICENSEDATE": "1996-08-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-11-28 21:48:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "19829 Leslie St.",
+            "TELEPHONE": "905-478-2909",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "kingdalehomes@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340871",
+            "TO": "Robert Delcourt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-383-4942"
+        },
+        {
+            "TOUNIQUENUMBER": "340871",
+            "TO": "Robert Delcourt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-383-4942"
+        },
+        {
+            "TOUNIQUENUMBER": "340871",
+            "TO": "Robert Delcourt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-383-4942"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25774",
+            "Umbrella": "Kingdale Homes",
+            "Umbrella ID": "12547424",
+            "VB_NAME": "1146204 Ontario Inc.",
+            "OPERATINGNAME": "Kingdale Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25774",
+            "MEMBERNAME": "1146204 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Kingdale Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25774",
+            "Umbrella": "Kingdale Homes",
+            "Umbrella ID": "12547424",
+            "VB_NAME": "1146204 Ontario Inc.",
+            "OPERATINGNAME": "Kingdale Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46689",
+            "MEMBERNAME": "2180367 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Kingdale Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,63 @@
+{
+    "builderSummary": [],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12006957",
+            "TO": "Bogdan (Bob) Demkowicz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-227-6502"
+        },
+        {
+            "TOUNIQUENUMBER": "12326464",
+            "TO": "Dariusz Tymejczyk",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-341-9400"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA106176",
+            "CHARGE_AGAINST": "2071512 Ontario Inc.",
+            "CHARGE_DATE": "2009-09-09",
+            "DISPOSITION_DATE": "2010-04-29",
+            "THE_FINE_": "10000",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "2500",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9324240",
+            "ORGANIZATION_NAME": "2071512 Ontario Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Brockville, ON",
+            "CITY_DEFENCE": "Prescott, ON",
+            "VB_NUMBER": "B39320",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": null,
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA106176 9324240",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Brockville, City",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "FROM_OFFENCE_DATE": "2008-12-19",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "12500",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "14:00.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

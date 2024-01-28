@@ -1,0 +1,138 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45031",
+            "Umbrella": "Haven Development",
+            "Umbrella ID": "12544530",
+            "VB_NAME": "400 East Mall GP Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2017-01-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2024-01-04 06:00:05.000 +0000",
+            "Expiry Date": "2024-01-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1275 Finch Ave. W. Ste. 803",
+            "TELEPHONE": "905-851-1010",
+            "FAX": null,
+            "WEBSITEURL": "www.havendevelopments.ca",
+            "EMAIL": "adam.pells@havendevelopments.ca",
+            "ACCOUNTNUMBER": "B45031",
+            "Total Outstanding Amount": 23390,
+            "TAB": 0,
+            "BREACH": 23390,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 62,
+            "SUMM_TOTAL": 62,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 20495,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 20495
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100388855",
+            "TO": "Anthony Abate",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-1010"
+        },
+        {
+            "TOUNIQUENUMBER": "100388855",
+            "TO": "Anthony Abate",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-1010"
+        },
+        {
+            "TOUNIQUENUMBER": "100145066",
+            "TO": "Paolo Abate",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-1010"
+        },
+        {
+            "TOUNIQUENUMBER": "100145066",
+            "TO": "Paolo Abate",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-1010"
+        },
+        {
+            "TOUNIQUENUMBER": "100144973",
+            "TO": "Nick Tsimidis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-371-3300"
+        },
+        {
+            "TOUNIQUENUMBER": "100144973",
+            "TO": "Nick Tsimidis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-371-3300"
+        },
+        {
+            "TOUNIQUENUMBER": "12522173",
+            "TO": "Jordan Teperman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-1010"
+        },
+        {
+            "TOUNIQUENUMBER": "12522173",
+            "TO": "Jordan Teperman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-1010"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45031",
+            "Umbrella": "Haven Development",
+            "Umbrella ID": "12544530",
+            "VB_NAME": "400 East Mall GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45031",
+            "MEMBERNAME": "400 East Mall GP Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45031",
+            "Umbrella": "Haven Development",
+            "Umbrella ID": "12544530",
+            "VB_NAME": "400 East Mall GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45034",
+            "MEMBERNAME": "625 Sheppard Bayview Village GP Inc.",
+            "MEMBEROPERATINGNAME": "Haven Developments",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "400 East mall",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 400 East Mall ",
+            "# of Units": 62,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-03-10"
+        }
+    ],
+    "builderConditions": [
+        {
+            "HCRA_DESCRIPTION": "You agree to use\u00a0Skygrid\u00a0as the Project Manager for the\u00a0aforementioned condominium\u00a0project. Should circumstances change, you must inform Tarion and a new risk assessment to determine the terms and conditions for the project will\u00a0be\u00a0conducted.\u00a0",
+            "HCRA_EFFECTIVEDATE": null
+        }
+    ]
+}

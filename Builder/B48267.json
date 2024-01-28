@@ -1,0 +1,138 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48267",
+            "Umbrella": "Charron Homes",
+            "Umbrella ID": "12553017",
+            "VB_NAME": "2594441 Ontario Inc.",
+            "OPERATINGNAME": "Charron Homes",
+            "CITY": "Bobcaygeon",
+            "HCRA_INITIALLICENSEDATE": "2020-12-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-12-29 18:38:46.000 +0000",
+            "Expiry Date": "2023-12-22",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "2502 Pigeon Lake Road",
+            "TELEPHONE": "705-340-8209",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "admin@charronhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 5300,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 5300
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100625414",
+            "TO": "Larry Vander Schaaf",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-933-8980"
+        },
+        {
+            "TOUNIQUENUMBER": "339347",
+            "TO": "Lisa Charron",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-340-8209"
+        },
+        {
+            "TOUNIQUENUMBER": "339347",
+            "TO": "Lisa Charron",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-340-8209"
+        },
+        {
+            "TOUNIQUENUMBER": "339347",
+            "TO": "Lisa Charron",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-340-8209"
+        },
+        {
+            "TOUNIQUENUMBER": "339346",
+            "TO": "Paul Charron",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-340-8209"
+        },
+        {
+            "TOUNIQUENUMBER": "339346",
+            "TO": "Paul Charron",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-340-8209"
+        },
+        {
+            "TOUNIQUENUMBER": "339346",
+            "TO": "Paul Charron",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-340-8209"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48267",
+            "Umbrella": "Charron Homes",
+            "Umbrella ID": "12553017",
+            "VB_NAME": "2594441 Ontario Inc.",
+            "OPERATINGNAME": "Charron Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48267",
+            "MEMBERNAME": "2594441 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Charron Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48267",
+            "Umbrella": "Charron Homes",
+            "Umbrella ID": "12553017",
+            "VB_NAME": "2594441 Ontario Inc.",
+            "OPERATINGNAME": "Charron Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25737",
+            "MEMBERNAME": "993769 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "JJP Construction",
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B48267",
+            "Umbrella": "Charron Homes",
+            "Umbrella ID": "12553017",
+            "VB_NAME": "2594441 Ontario Inc.",
+            "OPERATINGNAME": "Charron Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B21829",
+            "MEMBERNAME": "756520 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "D-Can Custom Home Builder",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "King's Wharf Estates",
+            "Project Status": null,
+            "Location": "BOBCAYGEON",
+            "Address": " 2218 Pigeon Lake Rd. ",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

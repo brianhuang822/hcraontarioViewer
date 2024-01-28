@@ -1,0 +1,91 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44753",
+            "Umbrella": "Dash Developments",
+            "Umbrella ID": "500002729",
+            "VB_NAME": "143 Avenue Road GP Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2016-08-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-21 15:55:54.000 +0000",
+            "Expiry Date": "2024-08-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "159 Avenue Road",
+            "TELEPHONE": "416-222-6175",
+            "FAX": "416-946-1882",
+            "WEBSITEURL": "www.Avenue151yorkville.com",
+            "EMAIL": "sharon@dashdevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 60,
+            "SUMM_TOTAL": 60,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100320385",
+            "TO": "Sharon Golberg",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-222-6175"
+        },
+        {
+            "TOUNIQUENUMBER": "100320385",
+            "TO": "Sharon Golberg",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-222-6175"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44753",
+            "Umbrella": "Dash Developments",
+            "Umbrella ID": "500002729",
+            "VB_NAME": "143 Avenue Road GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62759",
+            "MEMBERNAME": "Dash (Q&S) Inc.",
+            "MEMBEROPERATINGNAME": "Dash (Q&S) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44753",
+            "Umbrella": "Dash Developments",
+            "Umbrella ID": "500002729",
+            "VB_NAME": "143 Avenue Road GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44753",
+            "MEMBERNAME": "143 Avenue Road GP Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "143 Avenue Road",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 143 Avenue Rd. ",
+            "# of Units": 70,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-11-18"
+        }
+    ],
+    "builderConditions": []
+}

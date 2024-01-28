@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26395",
+            "Umbrella": "Richmond Homes",
+            "Umbrella ID": "12540325",
+            "VB_NAME": "1129365 Ontario Inc.",
+            "OPERATINGNAME": "Richmond Homes",
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1997-04-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-04-24 15:01:04.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1777 Highbury Ave. N., Ste. 9",
+            "TELEPHONE": "(519)679-4101",
+            "FAX": "(519)679-4101",
+            "WEBSITEURL": null,
+            "EMAIL": "john.tilas@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342775",
+            "TO": "John Tsantilas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-679-4101"
+        },
+        {
+            "TOUNIQUENUMBER": "342775",
+            "TO": "John Tsantilas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-679-4101"
+        },
+        {
+            "TOUNIQUENUMBER": "342775",
+            "TO": "John Tsantilas",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-679-4101"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26395",
+            "Umbrella": "Richmond Homes",
+            "Umbrella ID": "12540325",
+            "VB_NAME": "1129365 Ontario Inc.",
+            "OPERATINGNAME": "Richmond Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40170",
+            "MEMBERNAME": "Crown Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26395",
+            "Umbrella": "Richmond Homes",
+            "Umbrella ID": "12540325",
+            "VB_NAME": "1129365 Ontario Inc.",
+            "OPERATINGNAME": "Richmond Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26395",
+            "MEMBERNAME": "1129365 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Richmond Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

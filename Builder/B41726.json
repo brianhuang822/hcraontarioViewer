@@ -1,0 +1,145 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41726",
+            "Umbrella": "Two Hundred",
+            "Umbrella ID": "12524032",
+            "VB_NAME": "Two Hundred Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2012-02-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-02-24 04:15:03.000 +0000",
+            "Expiry Date": "2022-02-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "59 Waverley Road",
+            "TELEPHONE": "416-698-9068",
+            "FAX": "416/698-9068",
+            "WEBSITEURL": " ",
+            "EMAIL": "karstenriedel@rogers.com",
+            "ACCOUNTNUMBER": "B41726",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 24,
+            "SUMM_TOTAL": 24,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 7500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7500
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12294722",
+            "TO": "Frank Daniel Riedel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-269-1528"
+        },
+        {
+            "TOUNIQUENUMBER": "12294722",
+            "TO": "Frank Daniel Riedel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-269-1528"
+        },
+        {
+            "TOUNIQUENUMBER": "12294722",
+            "TO": "Frank Daniel Riedel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-269-1528"
+        },
+        {
+            "TOUNIQUENUMBER": "12408925",
+            "TO": "Karsten Robert Riedel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-450-4747"
+        },
+        {
+            "TOUNIQUENUMBER": "12408925",
+            "TO": "Karsten Robert Riedel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-450-4747"
+        },
+        {
+            "TOUNIQUENUMBER": "323283",
+            "TO": "Robert W. Mitchell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-839-4628"
+        },
+        {
+            "TOUNIQUENUMBER": "323283",
+            "TO": "Robert W. Mitchell",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-839-4628"
+        },
+        {
+            "TOUNIQUENUMBER": "323283",
+            "TO": "Robert W. Mitchell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-839-4628"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41726",
+            "Umbrella": "Two Hundred",
+            "Umbrella ID": "12524032",
+            "VB_NAME": "Two Hundred Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38898",
+            "MEMBERNAME": "One Rainsford Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B41726",
+            "Umbrella": "Two Hundred",
+            "Umbrella ID": "12524032",
+            "VB_NAME": "Two Hundred Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40490",
+            "MEMBERNAME": "One Rainsford Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41726",
+            "Umbrella": "Two Hundred",
+            "Umbrella ID": "12524032",
+            "VB_NAME": "Two Hundred Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41726",
+            "MEMBERNAME": "Two Hundred Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Two Hundred",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 200 Woodbine Avenue ",
+            "# of Units": 31,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-06-22"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36512",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1521115 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "SMITHVILLE",
+            "HCRA_INITIALLICENSEDATE": "2006-05-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-05-05 15:01:09.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "137 Griffin St., Box 508",
+            "TELEPHONE": "905-957-2134",
+            "FAX": "905-957-2134",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12143465",
+            "TO": "Sarah Leyburn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-957-2134"
+        },
+        {
+            "TOUNIQUENUMBER": "12143465",
+            "TO": "Sarah Leyburn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-957-2134"
+        },
+        {
+            "TOUNIQUENUMBER": "12143465",
+            "TO": "Sarah Leyburn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-957-2134"
+        },
+        {
+            "TOUNIQUENUMBER": "12143463",
+            "TO": "Bruce Leyburn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-957-2134"
+        },
+        {
+            "TOUNIQUENUMBER": "12143463",
+            "TO": "Bruce Leyburn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-957-2134"
+        },
+        {
+            "TOUNIQUENUMBER": "12143463",
+            "TO": "Bruce Leyburn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-957-2134"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36512",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1521115 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "L.A. Condos",
+            "Project Status": "Completed",
+            "Location": "SMITHVILLE",
+            "Address": "111 Smits Cove",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-01-04"
+        }
+    ],
+    "builderConditions": []
+}

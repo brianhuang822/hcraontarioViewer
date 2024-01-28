@@ -1,0 +1,1126 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Z Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "1135 Adelaide St. N., 3rd Flr.",
+            "TELEPHONE": "(519)673-1730",
+            "FAX": "(519)438-7564",
+            "WEBSITEURL": "www.zgroup.on.ca.",
+            "EMAIL": "zgroup@zgroup.on.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Hawthorne Lane Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25806",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Foxborough Chase Inc.",
+            "MEMBEROPERATINGNAME": "Foxborough Chase",
+            "MEMBERVBNUM": "B31287",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ambleside Glen Limited",
+            "MEMBEROPERATINGNAME": "Ambleside Glen",
+            "MEMBERVBNUM": "B31288",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Westglen Village Inc.",
+            "MEMBEROPERATINGNAME": "Westglen Village",
+            "MEMBERVBNUM": "B27116",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Springbank Hill Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24919",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Summerside Homes (London) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24749",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "River Oak Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21471",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Uplands Pointe Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33663",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Skyline Ridge Limited",
+            "MEMBEROPERATINGNAME": "Uplands West",
+            "MEMBERVBNUM": "B36029",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Avonlea Village At Summerside Ltd.",
+            "MEMBEROPERATINGNAME": "Avonlea Village",
+            "MEMBERVBNUM": "B25792",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "River Ridge In Byron Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22773",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Westford Towers Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19961",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Spring Creek Estates (1991) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21472",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Colborne Manor Inc.",
+            "MEMBEROPERATINGNAME": "Colborne Manor",
+            "MEMBERVBNUM": "B26701",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Homeview Homes Limited",
+            "MEMBEROPERATINGNAME": "The Homeview Collection",
+            "MEMBERVBNUM": "B30544",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Richmond Summit Inc.",
+            "MEMBEROPERATINGNAME": "Richmond Summit",
+            "MEMBERVBNUM": "B24586",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Byron Lane Inc.",
+            "MEMBEROPERATINGNAME": "Byron Lane",
+            "MEMBERVBNUM": "B26917",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stoneybrook Club Inc.",
+            "MEMBEROPERATINGNAME": "Stoneybrook Club",
+            "MEMBERVBNUM": "B30545",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Thames Crossing Inc.",
+            "MEMBEROPERATINGNAME": "Thames Crossing",
+            "MEMBERVBNUM": "B24615",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Laurelwood Estates Inc.",
+            "MEMBEROPERATINGNAME": "Timber Trail",
+            "MEMBERVBNUM": "B31554",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Arva Park Estates Inc.",
+            "MEMBEROPERATINGNAME": "Arva Park Estates",
+            "MEMBERVBNUM": "B31988",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The 18th At East Park Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23420",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Orchard Hill (1992) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23377",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kains Ridge Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38572",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Z Group Homes Inc.",
+            "MEMBEROPERATINGNAME": "Wickerson Heights/Copperfield",
+            "MEMBERVBNUM": "B31632",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Northgate Village Inc.",
+            "MEMBEROPERATINGNAME": "Northgate Village",
+            "MEMBERVBNUM": "B27115",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Beaverbrook (London) Corp.",
+            "MEMBEROPERATINGNAME": "Westbrook",
+            "MEMBERVBNUM": "B27549",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Villages of Sunningdale Inc.",
+            "MEMBEROPERATINGNAME": "Highlands of Sunningdale",
+            "MEMBERVBNUM": "B32979",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Farnham Gate Inc.",
+            "MEMBEROPERATINGNAME": "Farnham Gate",
+            "MEMBERVBNUM": "B23891",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Woodvale Walk Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38357",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Middleton Village Inc.",
+            "MEMBEROPERATINGNAME": "Middleton Village Inc.",
+            "MEMBERVBNUM": "B27113",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Avian Terrace Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23544",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "627 Wharncliffe Road South Inc.",
+            "MEMBEROPERATINGNAME": "Orchard Hill",
+            "MEMBERVBNUM": "B24426",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Z Realty Company Limited",
+            "MEMBEROPERATINGNAME": "The Residences of Stonebrook At Sunningdale",
+            "MEMBERVBNUM": "B37090",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stoneybrook Gardens Inc.",
+            "MEMBEROPERATINGNAME": "Stoneybrook Gardens",
+            "MEMBERVBNUM": "B25949",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rosecliffe Ridge Inc.",
+            "MEMBEROPERATINGNAME": "Rosecliffe Ridge",
+            "MEMBERVBNUM": "B27368",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "New Wavell St. Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19959",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Northdale Walk Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23545",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cavendish Lane At Summerside Inc.",
+            "MEMBEROPERATINGNAME": "Cavendish Lane",
+            "MEMBERVBNUM": "B26700",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "East Park (1994) Inc.",
+            "MEMBEROPERATINGNAME": "The 18th At East Park",
+            "MEMBERVBNUM": "B24269",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Highland Greens (1992) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22471",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "567 Fanshawe Park Road Inc.",
+            "MEMBEROPERATINGNAME": "567 Fanshawe",
+            "MEMBERVBNUM": "B30546",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cabot Lane Inc.",
+            "MEMBEROPERATINGNAME": "Cabot Lane",
+            "MEMBERVBNUM": "B27713",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Coventry Walk Inc.",
+            "MEMBEROPERATINGNAME": "Coventry Walk",
+            "MEMBERVBNUM": "B28498",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "30 Grand Avenue Inc.",
+            "MEMBEROPERATINGNAME": "30 Grand Ave.",
+            "MEMBERVBNUM": "B26181",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Marsh Trail Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34913",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "The Residences of Stonebrook at sunningdale",
+            "Account Number": "B37090",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "181 Skyline Ave.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "UPLANDS POINTE",
+            "Account Number": "B33663",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "Chambers Ave./Blue Jay Way",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Uplands West",
+            "Account Number": "B36029",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "   ",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-05-28"
+        },
+        {
+            "Condo Project Name": "RAVINES OF SUNNINGDALE",
+            "Account Number": "B32979",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 578 McGarrell Pl. ",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-05-06"
+        },
+        {
+            "Condo Project Name": "Marsh Trail",
+            "Account Number": "B34913",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 600 Hyde Park Rd ",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-01-08"
+        },
+        {
+            "Condo Project Name": "Marsh Trail",
+            "Account Number": "B34913",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 600 Hyde Park Rd ",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-08-21"
+        },
+        {
+            "Condo Project Name": "TBD",
+            "Account Number": "B36029",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 445-497 Skyline Ave. ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-04-30"
+        },
+        {
+            "Condo Project Name": "UPLANDS POINTE",
+            "Account Number": "B33663",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 505 Blue Jay Dr ",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-11-22"
+        },
+        {
+            "Condo Project Name": "RAVINES OF SUNNINGDALE",
+            "Account Number": "B32979",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 578 McGarrell Place ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-05-18"
+        },
+        {
+            "Condo Project Name": "UPLANDS POINTE",
+            "Account Number": "B33663",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 505 Blue Jay Dr ",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-02-09"
+        },
+        {
+            "Condo Project Name": "Coventry Walks",
+            "Account Number": "B28498",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 2025 Meadowgate Blvd ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-01-23"
+        },
+        {
+            "Condo Project Name": "COVENTRY WALK",
+            "Account Number": "B28498",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 2025 Meadowgate Blvd ",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-02-14"
+        },
+        {
+            "Condo Project Name": "UPLANDS POINTE",
+            "Account Number": "B33663",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 505 Blue Jay Dr ",
+            "# of Units": 25,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-12-31"
+        },
+        {
+            "Condo Project Name": "MEADOWS OF SUNNINGDALE",
+            "Account Number": "B32979",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 575 McGarrell Pl. ",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-10-29"
+        },
+        {
+            "Condo Project Name": "ARVA PARK ESTATES",
+            "Account Number": "B31988",
+            "Project Status": "Completed",
+            "Location": "ARVA",
+            "Address": " 21 St. John's Dr. ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-02-16"
+        },
+        {
+            "Condo Project Name": "COVENTRY WALK",
+            "Account Number": "B28498",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 2025 Meadowgate Blvd ",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-02-09"
+        },
+        {
+            "Condo Project Name": "COVENTRY WALK",
+            "Account Number": "B28498",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "2025 Meadowgate Blvd",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-04-14"
+        },
+        {
+            "Condo Project Name": "WESTGLEN VILLAGE",
+            "Account Number": "B27116",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "215 North Centre Rd.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-01-03"
+        },
+        {
+            "Condo Project Name": "COVENTRY WALK",
+            "Account Number": "B28498",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "2025 Meadowgate Rd.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-10-20"
+        },
+        {
+            "Condo Project Name": "CAVENDISH LANE",
+            "Account Number": "B26700",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "335 Lighthouse Rd.",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-06-23"
+        },
+        {
+            "Condo Project Name": "MIDDLETON VILLAGE",
+            "Account Number": "B27113",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "185 North Centre Rd.",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-03-07"
+        },
+        {
+            "Condo Project Name": "ROSECLIFFE RIDGE",
+            "Account Number": "B27368",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "681 Commissioners Rd.",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-12-30"
+        },
+        {
+            "Condo Project Name": "CABOT LANE",
+            "Account Number": "B27713",
+            "Project Status": "Completed",
+            "Location": "WOODSTOCK",
+            "Address": "Nova Scotia Crt.",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-12-01"
+        },
+        {
+            "Condo Project Name": "NORTHGATE VILLAGE",
+            "Account Number": "B27115",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "145 North Centre St.",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-06-16"
+        },
+        {
+            "Condo Project Name": "BYRON LANE",
+            "Account Number": "B26917",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1499 Byron Baseline Rd.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-04-14"
+        },
+        {
+            "Condo Project Name": "CABOT LANE",
+            "Account Number": "B27713",
+            "Project Status": "Completed",
+            "Location": "WOODSTOCK",
+            "Address": "Nova Scotia Crt.",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-04-08"
+        },
+        {
+            "Condo Project Name": "ROSECLIFFE RIDGE",
+            "Account Number": "B27368",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "681 Commissioners Rd.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-03-30"
+        },
+        {
+            "Condo Project Name": "MIDDLETON VILLAGE",
+            "Account Number": "B27113",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "185 North Centre Rd.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-03-23"
+        },
+        {
+            "Condo Project Name": "WESTBROOK",
+            "Account Number": "B27549",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "515 Proudfoot Ln.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-03-17"
+        },
+        {
+            "Condo Project Name": "WESTGLEN VILLAGE",
+            "Account Number": "B27116",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "205 North Centre Rd.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-01-28"
+        },
+        {
+            "Condo Project Name": "CAVENDISH LANE",
+            "Account Number": "B26700",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "335 Lighthouse Rd.",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-12-16"
+        },
+        {
+            "Condo Project Name": "HAWTHORNE LANE",
+            "Account Number": "B25806",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1199 Reardon Blvd.",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-11-13"
+        },
+        {
+            "Condo Project Name": "BYRON LANE",
+            "Account Number": "B26917",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1499 Byron Baseline Rd.",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-08-25"
+        },
+        {
+            "Condo Project Name": "HAWTHORNE LANE",
+            "Account Number": "B25806",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1199 Reardon Blvd.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-07-15"
+        },
+        {
+            "Condo Project Name": "COLBORNE MANOR",
+            "Account Number": "B26701",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "609 Colborne St.",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-05-27"
+        },
+        {
+            "Condo Project Name": "SPRINGBANK HILL",
+            "Account Number": "B24919",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1100 Byron Baseline Rd.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-04-24"
+        },
+        {
+            "Condo Project Name": "STONEYBROOK GARDENS",
+            "Account Number": "B25949",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "59 Pennybrook Cres.",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-01-08"
+        },
+        {
+            "Condo Project Name": "30 GRAND AVE.",
+            "Account Number": "B26181",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "30 Grand  Ave.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-12-04"
+        },
+        {
+            "Condo Project Name": "RICHMOND SUMMIT",
+            "Account Number": "B24586",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "270 North Centre Rd.",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-10-22"
+        },
+        {
+            "Condo Project Name": "AVONLEA VILLATE",
+            "Account Number": "B25792",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "325 Lighthouse Road",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-10-07"
+        },
+        {
+            "Condo Project Name": "SPRINGBANK HILL INC.",
+            "Account Number": "B24919",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1100 Byron Baseline Rd.",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-07-03"
+        },
+        {
+            "Condo Project Name": "RICHMOND SUMMIT",
+            "Account Number": "B24586",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "250 North Centre Road",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-06-24"
+        },
+        {
+            "Condo Project Name": "THAMES CROSSING",
+            "Account Number": "B24615",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "519 Riverside Dr.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-06-18"
+        },
+        {
+            "Condo Project Name": "AVONLEA VILLAGE",
+            "Account Number": "B25792",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "325 Lighthouse Road",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-04-21"
+        },
+        {
+            "Condo Project Name": "STONEYBROOK GARDENS",
+            "Account Number": "B25949",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "59 Pennybrook Cres.",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-04-16"
+        },
+        {
+            "Condo Project Name": "RICHMOND SUMMIT",
+            "Account Number": "B24586",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "270 North Centre Rd.",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-03-12"
+        },
+        {
+            "Condo Project Name": "HAWTHORNE LANE",
+            "Account Number": "B25806",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1199 Reardon Boulevard",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-02-24"
+        },
+        {
+            "Condo Project Name": "SPRINGBANK HILL",
+            "Account Number": "B24919",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1100 Byron Baseline Rd.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-12-23"
+        },
+        {
+            "Condo Project Name": "THAMES CROSSING",
+            "Account Number": "B24615",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "519 Riverside Dr.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-12-20"
+        },
+        {
+            "Condo Project Name": "SPRINGBANK HILL INC",
+            "Account Number": "B24919",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1100 Baseline Road",
+            "# of Units": 31,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-03-11"
+        },
+        {
+            "Condo Project Name": "THAMES CROSSING",
+            "Account Number": "B24615",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "519 Riverside Dr.",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-02-21"
+        },
+        {
+            "Condo Project Name": "RICHMOND SUMMIT",
+            "Account Number": "B24586",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "250 North Centre Rd.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-11-23"
+        },
+        {
+            "Condo Project Name": "THE 18TH AT EAST PARK",
+            "Account Number": "B24269",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1241 Hamilton Road",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-11-07"
+        },
+        {
+            "Condo Project Name": "ORCHARD HILL",
+            "Account Number": "B24426",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "627 Wharncliffe Road South",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-09-22"
+        },
+        {
+            "Condo Project Name": "THE 18TH AT EAST PARK",
+            "Account Number": "B24269",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1241 Hamilton Road East",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-06-27"
+        },
+        {
+            "Condo Project Name": "NORTHDALE WALK, PHASE 4",
+            "Account Number": "B23545",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1478 Adelaide St.N.",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-04-03"
+        },
+        {
+            "Condo Project Name": "FARNHAM GATE",
+            "Account Number": "B23891",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1015 Farnham Rd.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-12-09"
+        },
+        {
+            "Condo Project Name": "AVIAN TERRACE",
+            "Account Number": "B23544",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "499 Teeple Terrace",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-12-09"
+        },
+        {
+            "Condo Project Name": "NORTHDALE WALK INC.",
+            "Account Number": "B23545",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1478 Adelaide St. N.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-11-25"
+        },
+        {
+            "Condo Project Name": "NORTHDALE WALK",
+            "Account Number": "B23545",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1478 Adelaide Street North",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-10-07"
+        },
+        {
+            "Condo Project Name": "THE 18TH AT EAST PARK",
+            "Account Number": "B23420",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1241 Hamilton Rd.",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-09-12"
+        },
+        {
+            "Condo Project Name": "NORTHDALE WALK",
+            "Account Number": "B23545",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1478 Adelaide Street North",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-08-30"
+        },
+        {
+            "Condo Project Name": "HIGHLAND GREENS PHASE II",
+            "Account Number": "B22471",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "10 Rossmore Court",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-02-04"
+        },
+        {
+            "Condo Project Name": "ORCHARD HILL",
+            "Account Number": "B23377",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "617 Wharncliffe Rd. South",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-01-24"
+        },
+        {
+            "Condo Project Name": "RIVER RIDGE IN BYRON",
+            "Account Number": "B22773",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1331 Commissioners Road West",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-11-08"
+        },
+        {
+            "Condo Project Name": "HIGHLAND GREENS",
+            "Account Number": "B22471",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "10 Rossmore Court",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-06-23"
+        },
+        {
+            "Condo Project Name": "ARGYLE MEWS PHASE III",
+            "Account Number": "B19959",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1990 Wavell Street",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-03-04"
+        },
+        {
+            "Condo Project Name": "RIVER OAK",
+            "Account Number": "B21471",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "445 Riverside Dr.",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1992-05-05"
+        },
+        {
+            "Condo Project Name": "SPRING CREEK ESTATES",
+            "Account Number": "B21472",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "536 Third Street",
+            "# of Units": 58,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1992-03-25"
+        },
+        {
+            "Condo Project Name": "ARGYLE MEWS PHASE II",
+            "Account Number": "B19959",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1990 Wavell St.",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1992-03-12"
+        },
+        {
+            "Condo Project Name": "WESTFORD CONDOMINIUM",
+            "Account Number": "B19961",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "744 Wonderland Rd.n",
+            "# of Units": 94,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-04-30"
+        },
+        {
+            "Condo Project Name": "NOT KNOWN",
+            "Account Number": "B19959",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1990 Wavell St.",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-01-10"
+        },
+        {
+            "Condo Project Name": "SPRING CREEK ESTATES (1991)INC",
+            "Account Number": "B21472",
+            "Project Status": "In Progress",
+            "Location": "LONDON",
+            "Address": "536 Third Street",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "SPRING CREEK ESTATES (1991)INC",
+            "Account Number": "B21472",
+            "Project Status": "In Progress",
+            "Location": "LONDON",
+            "Address": "536 Third Street",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

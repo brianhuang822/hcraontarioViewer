@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23603",
+            "Umbrella": "Jourdan",
+            "Umbrella ID": "10389",
+            "VB_NAME": "Jourdan Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1993-11-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-10-14 01:27:41.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9 Woodlawn Ave. E.",
+            "TELEPHONE": "(416)920-0111",
+            "FAX": "(416)920-0113",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341545",
+            "TO": "Varda Jourdan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-920-0111"
+        },
+        {
+            "TOUNIQUENUMBER": "341545",
+            "TO": "Varda Jourdan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-920-0111"
+        },
+        {
+            "TOUNIQUENUMBER": "341545",
+            "TO": "Varda Jourdan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-920-0111"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23603",
+            "Umbrella": "Jourdan",
+            "Umbrella ID": "10389",
+            "VB_NAME": "Jourdan Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23603",
+            "MEMBERNAME": "Jourdan Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23603",
+            "Umbrella": "Jourdan",
+            "Umbrella ID": "10389",
+            "VB_NAME": "Jourdan Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27913",
+            "MEMBERNAME": "Jourdan At Beaches Inc.",
+            "MEMBEROPERATINGNAME": "The Neighbourhood In The Upper Beaches",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23603",
+            "Umbrella": "Jourdan",
+            "Umbrella ID": "10389",
+            "VB_NAME": "Jourdan Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25388",
+            "MEMBERNAME": "Jourdan At Clarington Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23603",
+            "Umbrella": "Jourdan",
+            "Umbrella ID": "10389",
+            "VB_NAME": "Jourdan Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25437",
+            "MEMBERNAME": "Rockingham Gardens Holdings Inc.",
+            "MEMBEROPERATINGNAME": "9 Woodlawn",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

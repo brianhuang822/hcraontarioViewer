@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36722",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Paris-Maki Holdings Ltd.",
+            "OPERATINGNAME": "15 Maki Avenue",
+            "CITY": "SUDBURY",
+            "HCRA_INITIALLICENSEDATE": "2006-06-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-06-28 15:01:36.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "130 Elm St.",
+            "TELEPHONE": "705-560-9770",
+            "FAX": "705-560-9800",
+            "WEBSITEURL": "www.dalron.com",
+            "EMAIL": "msutherland@dalron.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12003318",
+            "TO": "Grant E. Cooper",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12003318",
+            "TO": "Grant E. Cooper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "301449",
+            "TO": "Frank Arnold",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-671-9927"
+        },
+        {
+            "TOUNIQUENUMBER": "301453",
+            "TO": "Ronald Arnold",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-560-9770"
+        },
+        {
+            "TOUNIQUENUMBER": "301453",
+            "TO": "Ronald Arnold",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-560-9770"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36722",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Paris-Maki Holdings Ltd.",
+            "OPERATINGNAME": "15 Maki Avenue",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "15 Maki Ave",
+            "Project Status": "Completed",
+            "Location": "SUDBURY",
+            "Address": "15 Maki Ave",
+            "# of Units": 33,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-01-20"
+        }
+    ],
+    "builderConditions": []
+}

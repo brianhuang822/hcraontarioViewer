@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42338",
+            "Umbrella": "Soloe Development",
+            "Umbrella ID": "12542193",
+            "VB_NAME": "The BTB Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "2013-11-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-11-09 13:00:59.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "95 Wright St.",
+            "TELEPHONE": "416/617-3855",
+            "FAX": "905/883-0431",
+            "WEBSITEURL": "www.btbgroup.ca",
+            "EMAIL": "guidochevy@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 3150,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3150
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100133021",
+            "TO": "Benito Chiaravalloti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-737-9966"
+        },
+        {
+            "TOUNIQUENUMBER": "100133021",
+            "TO": "Benito Chiaravalloti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-737-9966"
+        },
+        {
+            "TOUNIQUENUMBER": "100133021",
+            "TO": "Benito Chiaravalloti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-737-9966"
+        },
+        {
+            "TOUNIQUENUMBER": "100133004",
+            "TO": "Guido Chiaravalloti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-617-3855"
+        },
+        {
+            "TOUNIQUENUMBER": "100133004",
+            "TO": "Guido Chiaravalloti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-617-3855"
+        },
+        {
+            "TOUNIQUENUMBER": "100133004",
+            "TO": "Guido Chiaravalloti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-617-3855"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42338",
+            "Umbrella": "Soloe Development",
+            "Umbrella ID": "12542193",
+            "VB_NAME": "The BTB Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42338",
+            "MEMBERNAME": "The BTB Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42338",
+            "Umbrella": "Soloe Development",
+            "Umbrella ID": "12542193",
+            "VB_NAME": "The BTB Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43364",
+            "MEMBERNAME": "Gchiar Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

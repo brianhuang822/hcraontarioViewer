@@ -1,0 +1,173 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46153",
+            "Umbrella": "Realpro Homes",
+            "Umbrella ID": "12547530",
+            "VB_NAME": "Realpro Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Hamilton",
+            "HCRA_INITIALLICENSEDATE": "2018-01-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-22 16:42:39.000 +0000",
+            "Expiry Date": "2025-01-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "76 Wellington Street North",
+            "TELEPHONE": "519-265-4085",
+            "FAX": null,
+            "WEBSITEURL": "www.realprohomes.com",
+            "EMAIL": "contact@mohammedghaddar.com",
+            "ACCOUNTNUMBER": "B46153",
+            "Total Outstanding Amount": 6724.63,
+            "TAB": 0,
+            "BREACH": 6724.63,
+            "SUMM_FREEHOLD": 14,
+            "SUMM_CONDO": 7,
+            "SUMM_TOTAL": 21,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 8500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 8500
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100429789",
+            "TO": "Hussein Ghaddar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-570-7880"
+        },
+        {
+            "TOUNIQUENUMBER": "100429789",
+            "TO": "Hussein Ghaddar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-570-7880"
+        },
+        {
+            "TOUNIQUENUMBER": "100429789",
+            "TO": "Hussein Ghaddar",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-570-7880"
+        },
+        {
+            "TOUNIQUENUMBER": "100317704",
+            "TO": "Mohammed Ghaddar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-902-0707"
+        },
+        {
+            "TOUNIQUENUMBER": "100317704",
+            "TO": "Mohammed Ghaddar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-902-0707"
+        },
+        {
+            "TOUNIQUENUMBER": "100317704",
+            "TO": "Mohammed Ghaddar",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-902-0707"
+        },
+        {
+            "TOUNIQUENUMBER": "100263845",
+            "TO": "Riad Saddik",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-921-2055"
+        },
+        {
+            "TOUNIQUENUMBER": "100263845",
+            "TO": "Riad Saddik",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-921-2055"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46153",
+            "Umbrella": "Realpro Homes",
+            "Umbrella ID": "12547530",
+            "VB_NAME": "Realpro Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46153",
+            "MEMBERNAME": "Realpro Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46153",
+            "Umbrella": "Realpro Homes",
+            "Umbrella ID": "12547530",
+            "VB_NAME": "Realpro Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44092",
+            "MEMBERNAME": "Riad Saddik",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Northridge",
+            "Project Status": "Completed",
+            "Location": "GUELPH",
+            "Address": " 671 Victoria Rd. North ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-04-06"
+        },
+        {
+            "Condo Project Name": "Northridge",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": " 675 Victoria Road North ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Northridge",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": " 675 Victoria Road North ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Northridge",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": " 675 Victoria Road North ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Northridge",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": " 675 Victoria Road North ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

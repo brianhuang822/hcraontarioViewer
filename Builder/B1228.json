@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1228",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Due North Real Estate Limited",
+            "OPERATINGNAME": null,
+            "CITY": "CARLETON PLACE",
+            "HCRA_INITIALLICENSEDATE": "1986-05-29",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2004-04-08 23:55:49.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "143 Bridge St.",
+            "TELEPHONE": "(613)253-4253",
+            "FAX": "(613)257-2593",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "330747",
+            "TO": "Ralph Henry Shaw",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-253-2094"
+        },
+        {
+            "TOUNIQUENUMBER": "330747",
+            "TO": "Ralph Henry Shaw",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-253-2094"
+        },
+        {
+            "TOUNIQUENUMBER": "330747",
+            "TO": "Ralph Henry Shaw",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-253-2094"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1228",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Due North Real Estate Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WOODWARD AVE CONDO",
+            "Project Status": "In Progress",
+            "Location": "CARLETON PLACE",
+            "Address": "40 Woodwrd Ave",
+            "# of Units": 31,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

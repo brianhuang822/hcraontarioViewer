@@ -1,0 +1,65 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Legacy Custom Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "1767 Northway Ave.",
+            "TELEPHONE": "(519)977-5997",
+            "FAX": "(519)977-6204",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Legacy Custom Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25247",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Legacy Custom Homes Inc.& Louis Harris",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22933",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1046290 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28442",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "WOODLOT MANORS",
+            "Account Number": "B25247",
+            "Project Status": "Completed",
+            "Location": "LASALLE",
+            "Address": "1995 Normandy Ave.",
+            "# of Units": 46,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-04-29"
+        }
+    ]
+}

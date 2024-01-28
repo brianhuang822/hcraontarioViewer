@@ -1,0 +1,132 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48213",
+            "Umbrella": "Green City Communities",
+            "Umbrella ID": "500001391",
+            "VB_NAME": "GC King Bond GP Inc.",
+            "OPERATINGNAME": "Green City Communities",
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2020-08-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-26 19:32:37.000 +0000",
+            "Expiry Date": "2024-08-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "85 Renfrew Drive",
+            "TELEPHONE": "905-604-7018",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "dino.giacomelli@greencitydvp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100623234",
+            "TO": "Lin (James) Zhang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-7018"
+        },
+        {
+            "TOUNIQUENUMBER": "100623234",
+            "TO": "Lin (James) Zhang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-7018"
+        },
+        {
+            "TOUNIQUENUMBER": "342048",
+            "TO": "Dino Giacomelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-7018"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48213",
+            "Umbrella": "Green City Communities",
+            "Umbrella ID": "500001391",
+            "VB_NAME": "GC King Bond GP Inc.",
+            "OPERATINGNAME": "Green City Communities",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61206",
+            "MEMBERNAME": "2795886 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2795886 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48213",
+            "Umbrella": "Green City Communities",
+            "Umbrella ID": "500001391",
+            "VB_NAME": "GC King Bond GP Inc.",
+            "OPERATINGNAME": "Green City Communities",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48213",
+            "MEMBERNAME": "GC King Bond GP Inc.",
+            "MEMBEROPERATINGNAME": "Green City Communities",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48213",
+            "Umbrella": "Green City Communities",
+            "Umbrella ID": "500001391",
+            "VB_NAME": "GC King Bond GP Inc.",
+            "OPERATINGNAME": "Green City Communities",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61330",
+            "MEMBERNAME": "Green City Communities Kennedy Inc.",
+            "MEMBEROPERATINGNAME": "Green City Communities Kennedy Inc.",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48213",
+            "Umbrella": "Green City Communities",
+            "Umbrella ID": "500001391",
+            "VB_NAME": "GC King Bond GP Inc.",
+            "OPERATINGNAME": "Green City Communities",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61247",
+            "MEMBERNAME": "Green City Development Group Inc.",
+            "MEMBEROPERATINGNAME": "Green City Development Group Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Twelve Oaks",
+            "Project Status": "In Progress",
+            "Location": "RICHMOND HILL",
+            "Address": "  King Rd. And Bond Cres. ",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Twelve Oaks",
+            "Project Status": null,
+            "Location": "RICHMOND HILL",
+            "Address": "  King Rd. And Bond Cres. ",
+            "# of Units": 73,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

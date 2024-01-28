@@ -1,0 +1,146 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25454",
+            "Umbrella": "Generation Homes",
+            "Umbrella ID": "11800050",
+            "VB_NAME": "Leaside Mews Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "1996-05-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1999-05-12 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "106 Corstate Ave., Unit 2",
+            "TELEPHONE": "(905)738-5046",
+            "FAX": "(905)738-9501",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "328330",
+            "TO": "Connie Rinomato",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-6555"
+        },
+        {
+            "TOUNIQUENUMBER": "328333",
+            "TO": "Leo Rinomato",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-738-5046"
+        },
+        {
+            "TOUNIQUENUMBER": "328333",
+            "TO": "Leo Rinomato",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-738-5046"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25454",
+            "Umbrella": "Generation Homes",
+            "Umbrella ID": "11800050",
+            "VB_NAME": "Leaside Mews Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32470",
+            "MEMBERNAME": "Generation Homes (Ambassador Hills) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25454",
+            "Umbrella": "Generation Homes",
+            "Umbrella ID": "11800050",
+            "VB_NAME": "Leaside Mews Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27815",
+            "MEMBERNAME": "Rutherford Generation Investments Inc.",
+            "MEMBEROPERATINGNAME": "Generation Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25454",
+            "Umbrella": "Generation Homes",
+            "Umbrella ID": "11800050",
+            "VB_NAME": "Leaside Mews Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32469",
+            "MEMBERNAME": "Generation Homes (Whitby) Limited",
+            "MEMBEROPERATINGNAME": "Generation Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25454",
+            "Umbrella": "Generation Homes",
+            "Umbrella ID": "11800050",
+            "VB_NAME": "Leaside Mews Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28470",
+            "MEMBERNAME": "Generation Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B25454",
+            "Umbrella": "Generation Homes",
+            "Umbrella ID": "11800050",
+            "VB_NAME": "Leaside Mews Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48833",
+            "MEMBERNAME": "Leo Rinomato",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B25454",
+            "Umbrella": "Generation Homes",
+            "Umbrella ID": "11800050",
+            "VB_NAME": "Leaside Mews Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25454",
+            "MEMBERNAME": "Leaside Mews Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "LEASIDE GARDENS",
+            "Project Status": "Completed",
+            "Location": "EAST YORK",
+            "Address": "211 Randolph Rd.",
+            "# of Units": 68,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-02-06"
+        }
+    ],
+    "builderConditions": []
+}

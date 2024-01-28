@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43630",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Fincore Development Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2015-07-31 01:13:51.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "782 Richmond St.",
+            "TELEPHONE": "519/667-1700",
+            "FAX": "519/667-1703",
+            "WEBSITEURL": "www.fincorecanada.com",
+            "EMAIL": "craig@fincorecanada.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100224034",
+            "TO": "William Blake Bowler",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-667-1700"
+        },
+        {
+            "TOUNIQUENUMBER": "100224034",
+            "TO": "William Blake Bowler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-667-1700"
+        },
+        {
+            "TOUNIQUENUMBER": "100224034",
+            "TO": "William Blake Bowler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-667-1700"
+        },
+        {
+            "TOUNIQUENUMBER": "100224030",
+            "TO": "Craig Gauld",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-667-1700"
+        },
+        {
+            "TOUNIQUENUMBER": "100224029",
+            "TO": "Loredana Onesan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-667-1700"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43630",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Fincore Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

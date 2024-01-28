@@ -1,0 +1,76 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Metroview Developments",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "5690 Steeles Avenue West",
+            "TELEPHONE": "905-747-5161",
+            "FAX": "905-285-9906",
+            "WEBSITEURL": "https://www.metroview.ca",
+            "EMAIL": "dalvir@metroview.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Metroview Construction Inc.",
+            "MEMBEROPERATINGNAME": "Metroview Construction Inc.",
+            "MEMBERVBNUM": "B61955",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Metroview Developments (Westwood) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47665",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Metroview Developments (Harding) Inc.",
+            "MEMBEROPERATINGNAME": "Metroview Developments (Harding) Inc.",
+            "MEMBERVBNUM": "B60341",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "8888 Yonge",
+            "Account Number": "B47665",
+            "Project Status": "In Progress",
+            "Location": "RICHMOND HILL",
+            "Address": " 8888 Yonge St. ",
+            "# of Units": 204,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Y9825",
+            "Account Number": "B60341",
+            "Project Status": "In Progress",
+            "Location": "RICHMOND HILL",
+            "Address": " 9825 Yonge Street ",
+            "# of Units": 451,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

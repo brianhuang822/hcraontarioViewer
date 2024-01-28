@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34414",
+            "Umbrella": "Laurens Wit Construction",
+            "Umbrella ID": "12539882",
+            "VB_NAME": "1348364 Ontario Inc.",
+            "OPERATINGNAME": "Laurens Wit Construction",
+            "CITY": "DUNROBIN",
+            "HCRA_INITIALLICENSEDATE": "2004-04-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-04-29 12:00:45.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "444 Rock Forest Rd.",
+            "TELEPHONE": "613/832-4418",
+            "FAX": null,
+            "WEBSITEURL": "www.wit-homes.com",
+            "EMAIL": "info@wit-homes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11645483",
+            "TO": "Laurens Wit",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-832-4418"
+        },
+        {
+            "TOUNIQUENUMBER": "11645483",
+            "TO": "Laurens Wit",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-832-4418"
+        },
+        {
+            "TOUNIQUENUMBER": "11645483",
+            "TO": "Laurens Wit",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-832-4418"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34414",
+            "Umbrella": "Laurens Wit Construction",
+            "Umbrella ID": "12539882",
+            "VB_NAME": "1348364 Ontario Inc.",
+            "OPERATINGNAME": "Laurens Wit Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32399",
+            "MEMBERNAME": "1348364 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34414",
+            "Umbrella": "Laurens Wit Construction",
+            "Umbrella ID": "12539882",
+            "VB_NAME": "1348364 Ontario Inc.",
+            "OPERATINGNAME": "Laurens Wit Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30725",
+            "MEMBERNAME": "1348364 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Laurens Wit Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34414",
+            "Umbrella": "Laurens Wit Construction",
+            "Umbrella ID": "12539882",
+            "VB_NAME": "1348364 Ontario Inc.",
+            "OPERATINGNAME": "Laurens Wit Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34414",
+            "MEMBERNAME": "1348364 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Laurens Wit Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

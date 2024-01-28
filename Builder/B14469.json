@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B14469",
+            "Umbrella": "Tony Santos Construction",
+            "Umbrella ID": "12539858",
+            "VB_NAME": "Tony Santos Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1977-05-30",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-05-31 12:31:30.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4680 Avenue Rd., R.R.4",
+            "TELEPHONE": "(519)768-1792",
+            "FAX": "(519) 768-1792",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329771",
+            "TO": "Antonio Santos",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-668-5669"
+        },
+        {
+            "TOUNIQUENUMBER": "329771",
+            "TO": "Antonio Santos",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-668-5669"
+        },
+        {
+            "TOUNIQUENUMBER": "329771",
+            "TO": "Antonio Santos",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-668-5669"
+        },
+        {
+            "TOUNIQUENUMBER": "329782",
+            "TO": "Maria F. Santos",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-668-5669"
+        },
+        {
+            "TOUNIQUENUMBER": "329782",
+            "TO": "Maria F. Santos",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-668-5669"
+        },
+        {
+            "TOUNIQUENUMBER": "329782",
+            "TO": "Maria F. Santos",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-668-5669"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B14469",
+            "Umbrella": "Tony Santos Construction",
+            "Umbrella ID": "12539858",
+            "VB_NAME": "Tony Santos Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33673",
+            "MEMBERNAME": "West Lorne Holdings Ltd.",
+            "MEMBEROPERATINGNAME": "West Lorne Holding",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B14469",
+            "Umbrella": "Tony Santos Construction",
+            "Umbrella ID": "12539858",
+            "VB_NAME": "Tony Santos Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B14469",
+            "MEMBERNAME": "Tony Santos Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

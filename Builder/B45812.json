@@ -1,0 +1,91 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45812",
+            "Umbrella": "Coronation & Silverthorn",
+            "Umbrella ID": "12546846",
+            "VB_NAME": "Silverthorn Mills Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Waterloo",
+            "HCRA_INITIALLICENSEDATE": "2016-11-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-07-08 19:54:26.000 +0000",
+            "Expiry Date": "2019-11-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "412 Albert Street, Suite 100",
+            "TELEPHONE": "519/342-1000",
+            "FAX": "519/342-0851",
+            "WEBSITEURL": "www.marshallzehr.com",
+            "EMAIL": "breitzel@marshallzehr.com",
+            "ACCOUNTNUMBER": "B45812",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 31745.75,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 31745.75
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12521194",
+            "TO": "David Marshall",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-342-0852"
+        },
+        {
+            "TOUNIQUENUMBER": "12521194",
+            "TO": "David Marshall",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-342-0852"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45812",
+            "Umbrella": "Coronation & Silverthorn",
+            "Umbrella ID": "12546846",
+            "VB_NAME": "Silverthorn Mills Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45812",
+            "MEMBERNAME": "Silverthorn Mills Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45812",
+            "Umbrella": "Coronation & Silverthorn",
+            "Umbrella ID": "12546846",
+            "VB_NAME": "Silverthorn Mills Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37466",
+            "MEMBERNAME": "Coronation Gardens Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Silverthorn Mills",
+            "Project Status": null,
+            "Location": "MISSISSAUGA",
+            "Address": "Logenberry Cres.",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

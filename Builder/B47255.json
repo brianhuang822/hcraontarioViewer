@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47255",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "JEC Properties Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2018-11-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-11 22:12:54.000 +0000",
+            "Expiry Date": "2024-11-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5341 John Lucas Drive",
+            "TELEPHONE": "905-783-5454",
+            "FAX": null,
+            "WEBSITEURL": "http://jecproperties.com",
+            "EMAIL": "stefan@JECproperties.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100526017",
+            "TO": "Stefan Cechovsky",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-783-5454"
+        },
+        {
+            "TOUNIQUENUMBER": "100528579",
+            "TO": "Mohammad Abdullah",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-965-5142"
+        },
+        {
+            "TOUNIQUENUMBER": "100528579",
+            "TO": "Mohammad Abdullah",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-965-5142"
+        },
+        {
+            "TOUNIQUENUMBER": "100528579",
+            "TO": "Mohammad Abdullah",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-965-5142"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47255",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "JEC Properties Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Slessor Gardens",
+            "Project Status": "In Progress",
+            "Location": "GRIMSBY",
+            "Address": " 84 Livingston Ave ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

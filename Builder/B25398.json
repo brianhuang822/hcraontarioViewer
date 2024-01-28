@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25398",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Woodbridge Avenue (1995) Development Inc.",
+            "OPERATINGNAME": "The Terraces Of Woodbridge",
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "1996-06-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-06-05 12:31:27.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "100 Arbors Lane, Unit A",
+            "TELEPHONE": "(905)856-5225Ext.30",
+            "FAX": "(905)856-9017",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341552",
+            "TO": "Briane Randall",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-605-0491"
+        },
+        {
+            "TOUNIQUENUMBER": "341552",
+            "TO": "Briane Randall",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-605-0491"
+        },
+        {
+            "TOUNIQUENUMBER": "341552",
+            "TO": "Briane Randall",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-605-0491"
+        },
+        {
+            "TOUNIQUENUMBER": "330137",
+            "TO": "Lorenz Schmidt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905 8565225"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25398",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Woodbridge Avenue (1995) Development Inc.",
+            "OPERATINGNAME": "The Terraces Of Woodbridge",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE TERRACES OF WOODBRIDGE",
+            "Project Status": "Completed",
+            "Location": "WOODBRIDGE",
+            "Address": "141 Woodbridge Avenue",
+            "# of Units": 70,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-11-15"
+        },
+        {
+            "Condo Project Name": "THE TERRACES OF WOODBRIDGE",
+            "Project Status": "Completed",
+            "Location": "WOODBRIDGE",
+            "Address": "121 Woodbridge Avenue",
+            "# of Units": 80,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-03-30"
+        }
+    ],
+    "builderConditions": []
+}

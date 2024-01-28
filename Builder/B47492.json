@@ -1,0 +1,91 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47492",
+            "Umbrella": "Lux Homes Design & Build",
+            "Umbrella ID": "12549729",
+            "VB_NAME": "Lux Homes Design & Build Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2019-02-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-08 15:24:48.000 +0000",
+            "Expiry Date": "2025-03-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1593 Adelaide Street North",
+            "TELEPHONE": "519-281-4778",
+            "FAX": null,
+            "WEBSITEURL": "http://www.luxhomesdesignbuild.ca",
+            "EMAIL": "info@luxhomesdesignbuild.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 64,
+            "SUMM_CONDO": 2,
+            "SUMM_TOTAL": 66,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100153261",
+            "TO": "Rafal Oslizlo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-281-4778"
+        },
+        {
+            "TOUNIQUENUMBER": "100153261",
+            "TO": "Rafal Oslizlo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-281-4778"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47492",
+            "Umbrella": "Lux Homes Design & Build",
+            "Umbrella ID": "12549729",
+            "VB_NAME": "Lux Homes Design & Build Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42578",
+            "MEMBERNAME": "Legacy Homes Of London Ltd.",
+            "MEMBEROPERATINGNAME": "Legacy Homes Of London Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47492",
+            "Umbrella": "Lux Homes Design & Build",
+            "Umbrella ID": "12549729",
+            "VB_NAME": "Lux Homes Design & Build Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47492",
+            "MEMBERNAME": "Lux Homes Design & Build Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 1570 Coronation Dr. ",
+            "# of Units": 2,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-08-26"
+        }
+    ],
+    "builderConditions": []
+}

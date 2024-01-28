@@ -1,0 +1,59 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Stefcon Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "8 Shand Avenue",
+            "TELEPHONE": "416-702-9767",
+            "FAX": "(416)234-1559",
+            "WEBSITEURL": "www.stefconhomes.com",
+            "EMAIL": "andrew@stefconhomes.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Stefcon Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9648",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1107982 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Stefcon Homes",
+            "MEMBERVBNUM": "B30478",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "VALECREST ESTATES",
+            "Account Number": "B9648",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "1291 Royal York Road",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-03-02"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61701",
+            "Umbrella": "Lev Group",
+            "Umbrella ID": "500001183",
+            "VB_NAME": "Lev at Aberdeen Inc.",
+            "OPERATINGNAME": "Lev at Aberdeen Inc.",
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2022-11-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-23 17:14:20.000 +0000",
+            "Expiry Date": "2024-11-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "700 Lawrence Avenue West",
+            "TELEPHONE": "416-479-4123",
+            "FAX": null,
+            "WEBSITEURL": "http://levliving.com",
+            "EMAIL": "warranty@levliving.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008358",
+            "TO": "Yaniv Geler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-479-4123"
+        },
+        {
+            "TOUNIQUENUMBER": "600008358",
+            "TO": "Yaniv Geler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-479-4123"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61701",
+            "Umbrella": "Lev Group",
+            "Umbrella ID": "500001183",
+            "VB_NAME": "Lev at Aberdeen Inc.",
+            "OPERATINGNAME": "Lev at Aberdeen Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62177",
+            "MEMBERNAME": "1 Rosetta Street Inc.",
+            "MEMBEROPERATINGNAME": "1 Rosetta Street Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61701",
+            "Umbrella": "Lev Group",
+            "Umbrella ID": "500001183",
+            "VB_NAME": "Lev at Aberdeen Inc.",
+            "OPERATINGNAME": "Lev at Aberdeen Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61701",
+            "MEMBERNAME": "Lev at Aberdeen Inc.",
+            "MEMBEROPERATINGNAME": "Lev at Aberdeen Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61701",
+            "Umbrella": "Lev Group",
+            "Umbrella ID": "500001183",
+            "VB_NAME": "Lev at Aberdeen Inc.",
+            "OPERATINGNAME": "Lev at Aberdeen Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61001",
+            "MEMBERNAME": "Lev Developments Inc.",
+            "MEMBEROPERATINGNAME": "Lev Living",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61701",
+            "Umbrella": "Lev Group",
+            "Umbrella ID": "500001183",
+            "VB_NAME": "Lev at Aberdeen Inc.",
+            "OPERATINGNAME": "Lev at Aberdeen Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61957",
+            "MEMBERNAME": "2178949 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Aberdeen Gardens Retirement Residence",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61701",
+            "Umbrella": "Lev Group",
+            "Umbrella ID": "500001183",
+            "VB_NAME": "Lev at Aberdeen Inc.",
+            "OPERATINGNAME": "Lev at Aberdeen Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60597",
+            "MEMBERNAME": "Koler Construction Inc.",
+            "MEMBEROPERATINGNAME": "Koler",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Setai",
+            "Project Status": null,
+            "Location": "HAMILTON",
+            "Address": " 444 Aberdeen Avenue ",
+            "# of Units": 108,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

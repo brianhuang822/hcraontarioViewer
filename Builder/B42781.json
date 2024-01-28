@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42781",
+            "Umbrella": "Norseman Construction",
+            "Umbrella ID": "12541184",
+            "VB_NAME": "Norseman Construction & Development Ltd.",
+            "OPERATINGNAME": "Norseman Construction & Development Ltd.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2013-05-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-27 19:15:02.000 +0000",
+            "Expiry Date": "2024-05-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1304 Woodbine Avenue",
+            "TELEPHONE": "647-435-5433",
+            "FAX": "647/435-5574",
+            "WEBSITEURL": "www.norsemanconstruction.ca",
+            "EMAIL": "kevinp@norsemanconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12402660",
+            "TO": "Kristofer Potts",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-464-6333"
+        },
+        {
+            "TOUNIQUENUMBER": "12402660",
+            "TO": "Kristofer Potts",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-464-6333"
+        },
+        {
+            "TOUNIQUENUMBER": "12402660",
+            "TO": "Kristofer Potts",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-464-6333"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42781",
+            "Umbrella": "Norseman Construction",
+            "Umbrella ID": "12541184",
+            "VB_NAME": "Norseman Construction & Development Ltd.",
+            "OPERATINGNAME": "Norseman Construction & Development Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42781",
+            "MEMBERNAME": "Norseman Construction & Development Ltd.",
+            "MEMBEROPERATINGNAME": "Norseman Construction & Development Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42781",
+            "Umbrella": "Norseman Construction",
+            "Umbrella ID": "12541184",
+            "VB_NAME": "Norseman Construction & Development Ltd.",
+            "OPERATINGNAME": "Norseman Construction & Development Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40354",
+            "MEMBERNAME": "Norseman Construction & Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42781",
+            "Umbrella": "Norseman Construction",
+            "Umbrella ID": "12541184",
+            "VB_NAME": "Norseman Construction & Development Ltd.",
+            "OPERATINGNAME": "Norseman Construction & Development Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40355",
+            "MEMBERNAME": "Norseman Development Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

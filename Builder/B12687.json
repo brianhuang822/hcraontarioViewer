@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B12687",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Fallsview Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "NIAGARA FALLS",
+            "HCRA_INITIALLICENSEDATE": "1986-07-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-07-10 15:01:09.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9059 Tapestry Crt.",
+            "TELEPHONE": "905-358-5631",
+            "FAX": "905-358-5242",
+            "WEBSITEURL": null,
+            "EMAIL": "fallsviewhomes@yahoo.ca",
+            "ACCOUNTNUMBER": "B12687",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "309495",
+            "TO": "Sergio Dosa",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-358-5631"
+        },
+        {
+            "TOUNIQUENUMBER": "309495",
+            "TO": "Sergio Dosa",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-358-5631"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B12687",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Fallsview Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Orchard Grove Condos",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": " 5727 Kalar Rd ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-11-27"
+        }
+    ],
+    "builderConditions": []
+}

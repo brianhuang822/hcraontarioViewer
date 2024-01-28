@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47806",
+            "Umbrella": "Countryside Pointe",
+            "Umbrella ID": "12550969",
+            "VB_NAME": "Evendale Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Uxbridge",
+            "HCRA_INITIALLICENSEDATE": "2019-11-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-22 15:10:28.000 +0000",
+            "Expiry Date": "2024-11-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "304 Toronto Street",
+            "TELEPHONE": "905-852-9900",
+            "FAX": null,
+            "WEBSITEURL": "http://countrysidepointe.ca",
+            "EMAIL": "countrysidepointe@outlook.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 77,
+            "SUMM_TOTAL": 83,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "323019",
+            "TO": "Mark Milani",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-960-1099"
+        },
+        {
+            "TOUNIQUENUMBER": "323019",
+            "TO": "Mark Milani",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-960-1099"
+        },
+        {
+            "TOUNIQUENUMBER": "100131902",
+            "TO": "Blair Boston",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-290-1190"
+        },
+        {
+            "TOUNIQUENUMBER": "100131902",
+            "TO": "Blair Boston",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-290-1190"
+        },
+        {
+            "TOUNIQUENUMBER": "332757",
+            "TO": "David Sud",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-836-9306"
+        },
+        {
+            "TOUNIQUENUMBER": "332757",
+            "TO": "David Sud",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-836-9306"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47806",
+            "Umbrella": "Countryside Pointe",
+            "Umbrella ID": "12550969",
+            "VB_NAME": "Evendale Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B22025",
+            "MEMBERNAME": "Markway Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47806",
+            "Umbrella": "Countryside Pointe",
+            "Umbrella ID": "12550969",
+            "VB_NAME": "Evendale Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43773",
+            "MEMBERNAME": "Maple Brook Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47806",
+            "Umbrella": "Countryside Pointe",
+            "Umbrella ID": "12550969",
+            "VB_NAME": "Evendale Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47806",
+            "MEMBERNAME": "Evendale Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Countryside Pointe",
+            "Project Status": null,
+            "Location": "UXBRIDGE",
+            "Address": "  Brock St. E. And Nelkydd Ln. ",
+            "# of Units": 82,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

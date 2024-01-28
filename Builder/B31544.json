@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31544",
+            "Umbrella": "Slubor Group",
+            "Umbrella ID": "12538519",
+            "VB_NAME": "Slubor Group Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2001-07-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-07-20 15:02:15.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "118 Helendale Ave.",
+            "TELEPHONE": "647-343-2588",
+            "FAX": "647-343-2588",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345574",
+            "TO": "Victor Guitberg",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-508-7436"
+        },
+        {
+            "TOUNIQUENUMBER": "11707881",
+            "TO": "Ewgeniy (Eugene) Sluzkiy",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-841-0368"
+        },
+        {
+            "TOUNIQUENUMBER": "11707881",
+            "TO": "Ewgeniy (Eugene) Sluzkiy",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-841-0368"
+        },
+        {
+            "TOUNIQUENUMBER": "11707882",
+            "TO": "Boroda Gennady",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11707882",
+            "TO": "Boroda Gennady",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31544",
+            "Umbrella": "Slubor Group",
+            "Umbrella ID": "12538519",
+            "VB_NAME": "Slubor Group Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39129",
+            "MEMBERNAME": "Slubor Group Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31544",
+            "Umbrella": "Slubor Group",
+            "Umbrella ID": "12538519",
+            "VB_NAME": "Slubor Group Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31544",
+            "MEMBERNAME": "Slubor Group Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31544",
+            "Umbrella": "Slubor Group",
+            "Umbrella ID": "12538519",
+            "VB_NAME": "Slubor Group Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42356",
+            "MEMBERNAME": "On The Avenue Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

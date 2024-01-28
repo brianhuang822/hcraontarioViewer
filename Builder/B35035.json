@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35035",
+            "Umbrella": "Crimson Bridge Developments",
+            "Umbrella ID": "12540946",
+            "VB_NAME": "Riverdale Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "WINDSOR",
+            "HCRA_INITIALLICENSEDATE": "2004-11-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-11-19 14:30:40.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3016 Troup Cres.",
+            "TELEPHONE": "705-544-5434",
+            "FAX": "705-544-2286",
+            "WEBSITEURL": "riverdalegroup.com",
+            "EMAIL": "1fortier@riverdalegroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12117487",
+            "TO": "Andrew Woods",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-321-9960"
+        },
+        {
+            "TOUNIQUENUMBER": "12117487",
+            "TO": "Andrew Woods",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-321-9960"
+        },
+        {
+            "TOUNIQUENUMBER": "11844718",
+            "TO": "Boyd Kent Woods",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-544-5434"
+        },
+        {
+            "TOUNIQUENUMBER": "11844718",
+            "TO": "Boyd Kent Woods",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-544-5434"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35035",
+            "Umbrella": "Crimson Bridge Developments",
+            "Umbrella ID": "12540946",
+            "VB_NAME": "Riverdale Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32907",
+            "MEMBERNAME": "1531415 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Crimson Bridge Developments",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B35035",
+            "Umbrella": "Crimson Bridge Developments",
+            "Umbrella ID": "12540946",
+            "VB_NAME": "Riverdale Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35035",
+            "MEMBERNAME": "Riverdale Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24021",
+            "Umbrella": "Britt Builders",
+            "Umbrella ID": "12540135",
+            "VB_NAME": "753333 Ontario Inc.",
+            "OPERATINGNAME": "Britt Builders",
+            "CITY": "BELLEVILLE",
+            "HCRA_INITIALLICENSEDATE": "1994-06-13",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2001-12-21 20:41:41.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "44 Elvins Gardens",
+            "TELEPHONE": "(613)962-1519",
+            "FAX": "(613) 962-1519",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304219",
+            "TO": "Peter Britt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-962-1519"
+        },
+        {
+            "TOUNIQUENUMBER": "304219",
+            "TO": "Peter Britt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-962-1519"
+        },
+        {
+            "TOUNIQUENUMBER": "304219",
+            "TO": "Peter Britt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-962-1519"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24021",
+            "Umbrella": "Britt Builders",
+            "Umbrella ID": "12540135",
+            "VB_NAME": "753333 Ontario Inc.",
+            "OPERATINGNAME": "Britt Builders",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B24021",
+            "MEMBERNAME": "753333 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Britt Builders",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B24021",
+            "Umbrella": "Britt Builders",
+            "Umbrella ID": "12540135",
+            "VB_NAME": "753333 Ontario Inc.",
+            "OPERATINGNAME": "Britt Builders",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B34719",
+            "MEMBERNAME": "753333 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Britt Builders",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B24021",
+            "Umbrella": "Britt Builders",
+            "Umbrella ID": "12540135",
+            "VB_NAME": "753333 Ontario Inc.",
+            "OPERATINGNAME": "Britt Builders",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B3651",
+            "MEMBERNAME": "Britt Builders Divi.Of 753333 Ont.Inc.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

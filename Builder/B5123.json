@@ -1,0 +1,126 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B5123",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Delton Realty Ltd.",
+            "OPERATINGNAME": "York-Hanover Ltd. Ont Div.",
+            "CITY": "DON MILLS",
+            "HCRA_INITIALLICENSEDATE": "1977-01-31",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "1978-04-06 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1305-797 Don Mills Rd.",
+            "TELEPHONE": "(416)429-7611",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "302145",
+            "TO": "D.H. Barstow",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "309163",
+            "TO": "B.H. Dinsmore",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "327306",
+            "TO": "R.J. Prusac",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B5123",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Delton Realty Ltd.",
+            "OPERATINGNAME": "York-Hanover Ltd. Ont Div.",
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "3100 Kirwin Ave.",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1982-12-01"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "Brittany Dr.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1982-03-01"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "McLeod St.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1981-10-01"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "#3-1 Chester Le Blvd",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1981-10-01"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "8-21 Porterfield Cres",
+            "# of Units": 65,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1981-10-01"
+        }
+    ],
+    "builderConditions": []
+}

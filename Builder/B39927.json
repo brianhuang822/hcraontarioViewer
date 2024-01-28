@@ -1,0 +1,74 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39927",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Miltonbrook Gardens Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2009-09-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-09-24 15:00:47.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6625 Kitimat Road",
+            "TELEPHONE": "905-821-3666",
+            "FAX": "905-821-2313",
+            "WEBSITEURL": "www.coscorp.ca",
+            "EMAIL": "pcostigan@coscorp.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39927",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Miltonbrook Gardens Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Miltonbrook Gardens",
+            "Project Status": null,
+            "Location": "MILTON",
+            "Address": "Farmstead Dr.",
+            "# of Units": 104,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Miltonbrook Gardens Phase II",
+            "Project Status": null,
+            "Location": "MILTON",
+            "Address": "745 Farmstead Drive",
+            "# of Units": 66,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

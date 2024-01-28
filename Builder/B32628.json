@@ -1,0 +1,171 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32628",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Vancouver",
+            "HCRA_INITIALLICENSEDATE": "2003-01-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-07 16:50:05.000 +0000",
+            "Expiry Date": "2025-01-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "856 Homer Street",
+            "TELEPHONE": "604-602-7700",
+            "FAX": "604/602-7110",
+            "WEBSITEURL": "www.amacon.com",
+            "EMAIL": "homewarranty@amacon.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 8,
+            "SUMM_MINOR_AMT": 51538,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 51538
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11637595",
+            "TO": "Marcello De Cotiis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11637595",
+            "TO": "Marcello De Cotiis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11637595",
+            "TO": "Marcello De Cotiis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "12285696",
+            "TO": "Lilliana L. De Cotiis",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11810439",
+            "TO": "Donato De Cotiis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11810439",
+            "TO": "Donato De Cotiis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11810439",
+            "TO": "Donato De Cotiis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11810428",
+            "TO": "Teresa Sutherland",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11810428",
+            "TO": "Teresa Sutherland",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11810428",
+            "TO": "Teresa Sutherland",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32628",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33372",
+            "MEMBERNAME": "Amacon Development (Hurontario) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32628",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38706",
+            "MEMBERNAME": "Amacon Development (City Centre) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B32628",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31498",
+            "MEMBERNAME": "Amacon Development (Parkway) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32628",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32628",
+            "MEMBERNAME": "Amacon Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Elle",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "3525 Kariya Dr.",
+            "# of Units": 328,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-11-17"
+        }
+    ],
+    "builderConditions": []
+}

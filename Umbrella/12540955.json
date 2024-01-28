@@ -1,0 +1,76 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Wright New Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 17728,
+            "ADDRESS": "456 West Belle River Rd., R.R. 1",
+            "TELEPHONE": "5197276637",
+            "FAX": "5197276058",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 17728,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 17728
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Wright New Homes & Siding Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37618",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Wright New Homes & Siding Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27782",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Wright New Homes & Siding Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B39950",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2011",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 17728,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 17728,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 17728,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 17728,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": []
+}

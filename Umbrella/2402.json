@@ -1,0 +1,772 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Urbancorp",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": 2154974.17,
+            "OUTSTANDINGAMTTAB": 111810.66,
+            "BREACH": 2043163.51,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 206,
+            "TOTALUNITS": 784,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 3444008.46,
+            "ADDRESS": "120 Lynn Williams St., Ste. 2A",
+            "TELEPHONE": "(416)928-5001",
+            "FAX": "(416)928-9501",
+            "WEBSITEURL": "www.urbancorp.com",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Bridge On King Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38104",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Riviera By Landmark Inc.",
+            "MEMBEROPERATINGNAME": "Riviera by Landmark",
+            "MEMBERVBNUM": "B30979",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rivers Edge Of Port Hope Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40360",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "5 Rosehill Avenue Developments Inc.",
+            "MEMBEROPERATINGNAME": "5 Rosehill",
+            "MEMBERVBNUM": "B25145",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (Valermo) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42553",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Townhouses of Hogg's Hollow Inc.",
+            "MEMBEROPERATINGNAME": "The Townhouses of Hogg's Hollow",
+            "MEMBERVBNUM": "B33177",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Toronto Centre Developments 2 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31773",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sloane Square: Lennox Mews Inc.",
+            "MEMBEROPERATINGNAME": "Lennox Mews Inc.",
+            "MEMBERVBNUM": "B23580",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "L.P. West Inc.",
+            "MEMBEROPERATINGNAME": "Homes Of Lawrence Park Wese",
+            "MEMBERVBNUM": "B23770",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Edge on Triangle Park Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40588",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Downsview Park Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41599",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "123 Eglinton Avenue East Inc.",
+            "MEMBEROPERATINGNAME": "Homes Of Eglinton",
+            "MEMBERVBNUM": "B24498",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "King West Village North Limited",
+            "MEMBEROPERATINGNAME": "King West Village North",
+            "MEMBERVBNUM": "B26970",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (Mallow) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44057",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Westside Gallery Lofts Inc.",
+            "MEMBEROPERATINGNAME": "Westside Lofts",
+            "MEMBERVBNUM": "B36464",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Urbancorp Communities Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40367",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Fuzion Downtown Development Inc.",
+            "MEMBEROPERATINGNAME": "Fuzion",
+            "MEMBERVBNUM": "B40180",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (Riverdale) Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41302",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Toronto Centre Developments Inc.",
+            "MEMBEROPERATINGNAME": "Townhomes Of Toronto Centre",
+            "MEMBERVBNUM": "B30701",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "119 Merton Street Developments Inc.",
+            "MEMBEROPERATINGNAME": "The Metro",
+            "MEMBERVBNUM": "B26789",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "King West Village 1029 King Limited",
+            "MEMBEROPERATINGNAME": "The Electra",
+            "MEMBERVBNUM": "B28306",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (Woodbine) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43628",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "High Res. Inc.",
+            "MEMBEROPERATINGNAME": "High Res.",
+            "MEMBERVBNUM": "B32937",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (St. Clair Village) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43212",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (Bridlepath) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43629",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (Lawrence) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43219",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "King West Village Strachan Ltd.",
+            "MEMBEROPERATINGNAME": "King West Village Strachan",
+            "MEMBERVBNUM": "B28045",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "King West Village Lofts Limited",
+            "MEMBEROPERATINGNAME": "King West Village Lofts",
+            "MEMBERVBNUM": "B26969",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Newtowns at Kingtowns Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34682",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "King Towns Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33546",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (Leslieville) Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41277",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "King West Village South Limited",
+            "MEMBEROPERATINGNAME": "King West Village South",
+            "MEMBERVBNUM": "B26971",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kingsclub Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41600",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (The Beach) Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41301",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (952 Queen West) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43496",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Toronto Centre Developments 3 Inc.",
+            "MEMBEROPERATINGNAME": "Townhomes of Toronto Centre",
+            "MEMBERVBNUM": "B31815",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (St. Clair West) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44130",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Marina Townhomes Of South Beach Inc.",
+            "MEMBEROPERATINGNAME": "South Beach Marina Townhomes",
+            "MEMBERVBNUM": "B28303",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Urbancorp (Patricia) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44058",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sloane Square Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23452",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 58,
+            "Total Posessions": 58,
+            "Chargeable Conciliation": 19,
+            "# of Claims (Minor)": 7,
+            "Dollers paid in Claims (Minor)": 171390.41,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 171390.41,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 1,
+            "Total Posessions": 1,
+            "Chargeable Conciliation": 69,
+            "# of Claims (Minor)": 59,
+            "Dollers paid in Claims (Minor)": 1039099.19,
+            "# of Claims (Major)": 1,
+            "Dollers paid in Claims (Major)": 94779.38,
+            "Dollars Paid in All Claims": 1133878.57,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 1,
+            "Total Posessions": 1,
+            "Chargeable Conciliation": 20,
+            "# of Claims (Minor)": 30,
+            "Dollers paid in Claims (Minor)": 316984.88,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 316984.88,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 1,
+            "Total Posessions": 1,
+            "Chargeable Conciliation": 2,
+            "# of Claims (Minor)": 3,
+            "Dollers paid in Claims (Minor)": 73801.32,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 73801.32,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 6,
+            "# of Claims (Minor)": 3,
+            "Dollers paid in Claims (Minor)": 27515.54,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 27515.54,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 21,
+            "Condo Unit Posessions": 243,
+            "Total Posessions": 264,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 38,
+            "Condo Unit Posessions": 359,
+            "Total Posessions": 397,
+            "Chargeable Conciliation": 3,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 8,
+            "Condo Unit Posessions": 304,
+            "Total Posessions": 312,
+            "Chargeable Conciliation": 14,
+            "# of Claims (Minor)": 8,
+            "Dollers paid in Claims (Minor)": 204295.52,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 204295.52,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 11,
+            "Total Posessions": 11,
+            "Chargeable Conciliation": 54,
+            "# of Claims (Minor)": 42,
+            "Dollers paid in Claims (Minor)": 1041300.16,
+            "# of Claims (Major)": 3,
+            "Dollers paid in Claims (Major)": 86290.32,
+            "Dollars Paid in All Claims": 1127590.48,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 3,
+            "Total Posessions": 3,
+            "Chargeable Conciliation": 18,
+            "# of Claims (Minor)": 18,
+            "Dollers paid in Claims (Minor)": 381211.74,
+            "# of Claims (Major)": 1,
+            "Dollers paid in Claims (Major)": 7340,
+            "Dollars Paid in All Claims": 388551.74,
+            "SUMM_FREEHOLD": 46,
+            "SUMM_CONDO": 738,
+            "SUMM_TOTAL": 784,
+            "SUMM_CC": 206,
+            "SUMM_MINOR": 126,
+            "SUMM_MINOR_AMT": 3255598.76,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 188409.7,
+            "SUMM_TOTAL_CLAIMS": 3444008.46,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Neighbourhoods of Downsview Park",
+            "Account Number": "B41599",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "-",
+            "# of Units": 404,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Ravines on Lawrence",
+            "Account Number": "B43219",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "1780 Lawrence Ave., W.",
+            "# of Units": 91,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Leslieville",
+            "Account Number": "B41277",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "50 Curzon St.",
+            "# of Units": 55,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-09-07"
+        },
+        {
+            "Condo Project Name": "Edge",
+            "Account Number": "B40588",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 36 Lisgar St. ",
+            "# of Units": 666,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-04-29"
+        },
+        {
+            "Condo Project Name": "Curve",
+            "Account Number": "B36464",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "170 Sudbury St.",
+            "# of Units": 135,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-01-24"
+        },
+        {
+            "Condo Project Name": "Fuzion",
+            "Account Number": "B40180",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "20 Joe Shuster Way",
+            "# of Units": 246,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-12-17"
+        },
+        {
+            "Condo Project Name": "Bridge",
+            "Account Number": "B38104",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "38 Joe Shuster Way",
+            "# of Units": 534,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-04-05"
+        },
+        {
+            "Condo Project Name": "Rivers Edge",
+            "Account Number": "B40360",
+            "Project Status": "Completed",
+            "Location": "PORT HOPE",
+            "Address": "50 Mill Street North",
+            "# of Units": 58,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-07-17"
+        },
+        {
+            "Condo Project Name": "Westside Gallery Lofts",
+            "Account Number": "B36464",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "150 Sudbury St.",
+            "# of Units": 369,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-07-16"
+        },
+        {
+            "Condo Project Name": "Acclaim",
+            "Account Number": "B40367",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "801 Sheppard Ave.W.",
+            "# of Units": 61,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-04-20"
+        },
+        {
+            "Condo Project Name": "Newtowns At Kingtowns",
+            "Account Number": "B34682",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 28 Laidlaw St ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-06-26"
+        },
+        {
+            "Condo Project Name": "NEWTOWNS AT KINGTOWNS",
+            "Account Number": "B34682",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 28 Laidlaw St ",
+            "# of Units": 265,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-05-23"
+        },
+        {
+            "Condo Project Name": "TOWNHOUSES OF HOGG'S HOLLOW",
+            "Account Number": "B33177",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": " 45-53 York Mills Rd. ",
+            "# of Units": 81,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-10-18"
+        },
+        {
+            "Condo Project Name": "KING WEST VILLAGE STRACHAN",
+            "Account Number": "B28045",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "100 Strachan Ave.",
+            "# of Units": 109,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-10-22"
+        },
+        {
+            "Condo Project Name": "KING WEST VILLAGE STRACHAN",
+            "Account Number": "B28045",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "100 Strachan Ave.",
+            "# of Units": 168,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-10-22"
+        },
+        {
+            "Condo Project Name": "THE \"METRO\"",
+            "Account Number": "B26789",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "119 Merton St.",
+            "# of Units": 192,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-09-11"
+        },
+        {
+            "Condo Project Name": "KING WEST VILLAGE N. LIMITED",
+            "Account Number": "B26970",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "12 Sudbury St.",
+            "# of Units": 204,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-09-01"
+        },
+        {
+            "Condo Project Name": "KING WEST VILLAGE LOFTS LTD.",
+            "Account Number": "B26969",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "954 King St. W.",
+            "# of Units": 150,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-08-30"
+        },
+        {
+            "Condo Project Name": "5 ROSEHILL AVENUE DEV. INC.",
+            "Account Number": "B25145",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "5 Rosehill Ave.",
+            "# of Units": 94,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-10-16"
+        },
+        {
+            "Condo Project Name": "LENNOX MEWS",
+            "Account Number": "B23580",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "228 St. George Street",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-02-14"
+        },
+        {
+            "Condo Project Name": "SLOANE SQUARE-THE LENNOX MEWS",
+            "Account Number": "B23580",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "230-232 St. George St.",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-02-11"
+        },
+        {
+            "Condo Project Name": "HOMES AT 123 EGLINTON",
+            "Account Number": "B24498",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "83 Lillian St.",
+            "# of Units": 184,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-07-16"
+        },
+        {
+            "Condo Project Name": "SLOANE SQUARE",
+            "Account Number": "B23452",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "217 St. George St.",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-07-17"
+        }
+    ]
+}

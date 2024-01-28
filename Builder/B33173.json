@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33173",
+            "Umbrella": "RVH",
+            "Umbrella ID": "12200458",
+            "VB_NAME": "Royal Vista Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "2003-03-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-03-05 14:30:44.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "60 Barondale Dr. Suite 299",
+            "TELEPHONE": "416-300-1539",
+            "FAX": "905-615-0041",
+            "WEBSITEURL": null,
+            "EMAIL": "labno@rogers.com",
+            "ACCOUNTNUMBER": "B33173",
+            "Total Outstanding Amount": 0.02,
+            "TAB": 0,
+            "BREACH": 0.02,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11882151",
+            "TO": "Wieslaw Labno",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-502-9417"
+        },
+        {
+            "TOUNIQUENUMBER": "11882151",
+            "TO": "Wieslaw Labno",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-502-9417"
+        },
+        {
+            "TOUNIQUENUMBER": "11882151",
+            "TO": "Wieslaw Labno",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-502-9417"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33173",
+            "Umbrella": "RVH",
+            "Umbrella ID": "12200458",
+            "VB_NAME": "Royal Vista Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33173",
+            "MEMBERNAME": "Royal Vista Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33173",
+            "Umbrella": "RVH",
+            "Umbrella ID": "12200458",
+            "VB_NAME": "Royal Vista Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37271",
+            "MEMBERNAME": "Royal Vista Homes (Weston) Ltd.",
+            "MEMBEROPERATINGNAME": "RVH",
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

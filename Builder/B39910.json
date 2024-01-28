@@ -1,0 +1,148 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39910",
+            "Umbrella": "AHK Group",
+            "Umbrella ID": "12541336",
+            "VB_NAME": "6551980 Canada Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "2009-11-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-11-25 13:00:10.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2985 Drew Rd., Unit 207",
+            "TELEPHONE": "905-696-0723",
+            "FAX": "905-696-0721",
+            "WEBSITEURL": "www.ahkcon.com",
+            "EMAIL": "info@ahk.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344966",
+            "TO": "Satwinder Singh Verraich",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-858-0529"
+        },
+        {
+            "TOUNIQUENUMBER": "344966",
+            "TO": "Satwinder Singh Verraich",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-858-0529"
+        },
+        {
+            "TOUNIQUENUMBER": "12371218",
+            "TO": "Amit Dewan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "jaydevan@telus.net"
+        },
+        {
+            "TOUNIQUENUMBER": "12371218",
+            "TO": "Amit Dewan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "jaydevan@telus.net"
+        },
+        {
+            "TOUNIQUENUMBER": "335420",
+            "TO": "Palwinder Singh Verraich",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-876-0973"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39910",
+            "Umbrella": "AHK Group",
+            "Umbrella ID": "12541336",
+            "VB_NAME": "6551980 Canada Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39910",
+            "MEMBERNAME": "6551980 Canada Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39910",
+            "Umbrella": "AHK Group",
+            "Umbrella ID": "12541336",
+            "VB_NAME": "6551980 Canada Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48899",
+            "MEMBERNAME": "Lotus North Bay General Partner I Inc. in its capacity as General Partner of Rhombi North Bay Development I LP",
+            "MEMBEROPERATINGNAME": "Lu Vesta Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39910",
+            "Umbrella": "AHK Group",
+            "Umbrella ID": "12541336",
+            "VB_NAME": "6551980 Canada Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B61868",
+            "MEMBERNAME": "Neka Developers Inc.",
+            "MEMBEROPERATINGNAME": "Neka Developers Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39910",
+            "Umbrella": "AHK Group",
+            "Umbrella ID": "12541336",
+            "VB_NAME": "6551980 Canada Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43663",
+            "MEMBERNAME": "980544 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39910",
+            "Umbrella": "AHK Group",
+            "Umbrella ID": "12541336",
+            "VB_NAME": "6551980 Canada Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47564",
+            "MEMBERNAME": "2636937 Ontario Ltd. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "345 Bronson",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "345 Bronson Ave.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-06-24"
+        }
+    ],
+    "builderConditions": []
+}

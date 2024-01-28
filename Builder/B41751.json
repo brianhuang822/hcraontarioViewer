@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41751",
+            "Umbrella": "The Exclusive Group",
+            "Umbrella ID": "12515957",
+            "VB_NAME": "Michele Modica & Rose Anne Modica",
+            "OPERATINGNAME": null,
+            "CITY": "Richmond Hill",
+            "HCRA_INITIALLICENSEDATE": "2011-12-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-09-06 19:39:02.000 +0000",
+            "Expiry Date": "2021-05-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "16 Waterstone Street",
+            "TELEPHONE": "416-678-1174",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "roseanne.dimartino@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12178878",
+            "TO": "Michele Modica",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-678-1174"
+        },
+        {
+            "TOUNIQUENUMBER": "12178877",
+            "TO": "Rose Anne Dimartino",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-678-1174"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41751",
+            "Umbrella": "The Exclusive Group",
+            "Umbrella ID": "12515957",
+            "VB_NAME": "Michele Modica & Rose Anne Modica",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41751",
+            "MEMBERNAME": "Michele Modica & Rose Anne Modica",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41751",
+            "Umbrella": "The Exclusive Group",
+            "Umbrella ID": "12515957",
+            "VB_NAME": "Michele Modica & Rose Anne Modica",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37040",
+            "MEMBERNAME": "1696819 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

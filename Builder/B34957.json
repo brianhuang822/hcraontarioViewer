@@ -1,0 +1,82 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34957",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Carandale Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "ETOBICOKE",
+            "HCRA_INITIALLICENSEDATE": "2005-02-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-02-08 13:00:48.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "195 Norseman Street, Unit 10",
+            "TELEPHONE": "416-742-4435",
+            "FAX": "416-742-4463",
+            "WEBSITEURL": "www.carandalehomes.com",
+            "EMAIL": "ccarav@caranconstruction.com",
+            "ACCOUNTNUMBER": "B34957",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 13,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 13,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 2565,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 2565
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12033465",
+            "TO": "Carlo Caravaggio",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-4435"
+        },
+        {
+            "TOUNIQUENUMBER": "12033465",
+            "TO": "Carlo Caravaggio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-4435"
+        },
+        {
+            "TOUNIQUENUMBER": "12033465",
+            "TO": "Carlo Caravaggio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-4435"
+        },
+        {
+            "TOUNIQUENUMBER": "12282640",
+            "TO": "Cinzia Bonaldi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-403-6500"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34957",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Carandale Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60935",
+            "Umbrella": "Ledgemark Homes",
+            "Umbrella ID": "12550012",
+            "VB_NAME": "LivGreen 2 (Main St.) Inc.",
+            "OPERATINGNAME": "LivGreen 2 (Main St.) Inc.",
+            "CITY": "Unionville",
+            "HCRA_INITIALLICENSEDATE": "2022-01-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-09 22:21:57.000 +0000",
+            "Expiry Date": "2024-01-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "206 Main Street",
+            "TELEPHONE": "905-479-6446",
+            "FAX": null,
+            "WEBSITEURL": "http://livgreen.ca",
+            "EMAIL": "info@ledgemarkhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340944",
+            "TO": "George LeDonne",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-479-6446"
+        },
+        {
+            "TOUNIQUENUMBER": "340944",
+            "TO": "George LeDonne",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-479-6446"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60935",
+            "Umbrella": "Ledgemark Homes",
+            "Umbrella ID": "12550012",
+            "VB_NAME": "LivGreen 2 (Main St.) Inc.",
+            "OPERATINGNAME": "LivGreen 2 (Main St.) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46697",
+            "MEMBERNAME": "Stiver Lane Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60935",
+            "Umbrella": "Ledgemark Homes",
+            "Umbrella ID": "12550012",
+            "VB_NAME": "LivGreen 2 (Main St.) Inc.",
+            "OPERATINGNAME": "LivGreen 2 (Main St.) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47632",
+            "MEMBERNAME": "LivGreen Main St. Inc. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60935",
+            "Umbrella": "Ledgemark Homes",
+            "Umbrella ID": "12550012",
+            "VB_NAME": "LivGreen 2 (Main St.) Inc.",
+            "OPERATINGNAME": "LivGreen 2 (Main St.) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46645",
+            "MEMBERNAME": "Ledgemark Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60935",
+            "Umbrella": "Ledgemark Homes",
+            "Umbrella ID": "12550012",
+            "VB_NAME": "LivGreen 2 (Main St.) Inc.",
+            "OPERATINGNAME": "LivGreen 2 (Main St.) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60935",
+            "MEMBERNAME": "LivGreen 2 (Main St.) Inc.",
+            "MEMBEROPERATINGNAME": "LivGreen 2 (Main St.) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "LivGreen 2 Main St. Stouffville Condominiums",
+            "Project Status": "In Progress",
+            "Location": "STOUFFVILLE",
+            "Address": " 5945 Main St. ",
+            "# of Units": 166,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21558",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Goodman Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Woodstock",
+            "HCRA_INITIALLICENSEDATE": "1991-11-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-18 19:23:38.000 +0000",
+            "Expiry Date": "2024-11-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "233 Tamarack Boulevard",
+            "TELEPHONE": "519-537-2783",
+            "FAX": "519-539-4638",
+            "WEBSITEURL": "www.goodmanhomesltd.net",
+            "EMAIL": "goodajhomes@hotmail.com",
+            "ACCOUNTNUMBER": "B21558",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 103,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 103,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 25250.92,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 25250.92
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340461",
+            "TO": "Anita Erika Goodman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-537-2783"
+        },
+        {
+            "TOUNIQUENUMBER": "339022",
+            "TO": "John Goodman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-537-2783"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21558",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Goodman Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "CEDAR CREEK VILLAS",
+            "Project Status": "Completed",
+            "Location": "WOODSTOCK",
+            "Address": "  Ferguson Dr. ",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-05-18"
+        },
+        {
+            "Condo Project Name": "CEDAR CREEK VILLAS",
+            "Project Status": "Completed",
+            "Location": "WOODSTOCK",
+            "Address": "  Ferguson Dr. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-12-16"
+        },
+        {
+            "Condo Project Name": "CEDAR CREEK VILLAS",
+            "Project Status": "Completed",
+            "Location": "WOODSTOCK",
+            "Address": "Ferguson Dr.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-07-07"
+        }
+    ],
+    "builderConditions": []
+}

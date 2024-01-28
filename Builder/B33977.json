@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33977",
+            "Umbrella": "Jones Construction",
+            "Umbrella ID": "12544551",
+            "VB_NAME": "1585191 Ontario Ltd.",
+            "OPERATINGNAME": "Jones Construction",
+            "CITY": "SEAGRAVE",
+            "HCRA_INITIALLICENSEDATE": "2003-11-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-11-29 16:00:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1415 Scugog Line 12, R.R. 2",
+            "TELEPHONE": "905-985-7453",
+            "FAX": "905-985-7453",
+            "WEBSITEURL": null,
+            "EMAIL": "jonesconstruction@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11964899",
+            "TO": "Morgan Grant Jones",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-985-7453"
+        },
+        {
+            "TOUNIQUENUMBER": "11964899",
+            "TO": "Morgan Grant Jones",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-985-7453"
+        },
+        {
+            "TOUNIQUENUMBER": "11964899",
+            "TO": "Morgan Grant Jones",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-985-7453"
+        },
+        {
+            "TOUNIQUENUMBER": "11964900",
+            "TO": "Kimberly (Kim) Jones",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-717-3194"
+        },
+        {
+            "TOUNIQUENUMBER": "11964900",
+            "TO": "Kimberly (Kim) Jones",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-717-3194"
+        },
+        {
+            "TOUNIQUENUMBER": "11964900",
+            "TO": "Kimberly (Kim) Jones",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-717-3194"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33977",
+            "Umbrella": "Jones Construction",
+            "Umbrella ID": "12544551",
+            "VB_NAME": "1585191 Ontario Ltd.",
+            "OPERATINGNAME": "Jones Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33977",
+            "MEMBERNAME": "1585191 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Jones Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33977",
+            "Umbrella": "Jones Construction",
+            "Umbrella ID": "12544551",
+            "VB_NAME": "1585191 Ontario Ltd.",
+            "OPERATINGNAME": "Jones Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45072",
+            "MEMBERNAME": "1585191 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

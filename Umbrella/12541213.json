@@ -1,0 +1,81 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "The Bnai Fischel Trust",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "3190 Steeles Ave. E., Ste. 304",
+            "TELEPHONE": "9053072220",
+            "FAX": "9053072221",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "The Townhomes of Thornhill Village Inc.",
+            "MEMBEROPERATINGNAME": "Old Thornhill Village",
+            "MEMBERVBNUM": "B34211",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Townhomes Of Thornhill Village II Inc.",
+            "MEMBEROPERATINGNAME": "The Residences of Olde Thornhill Village",
+            "MEMBERVBNUM": "B33657",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "TOWNHOMES OF THORNHILL VILLAGE",
+            "Account Number": "B34211",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": " 312 & 314 John St. ",
+            "# of Units": 58,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-08-21"
+        },
+        {
+            "Condo Project Name": "TOWNHOMES OF THORNHILL",
+            "Account Number": "B34211",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": " 306 & 310 John St. ",
+            "# of Units": 86,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-04-24"
+        },
+        {
+            "Condo Project Name": "TOWNHOMES OF THORNHILL VILLAGE",
+            "Account Number": "B34211",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": " 308 & 316 John St. ",
+            "# of Units": 76,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-10-31"
+        }
+    ]
+}

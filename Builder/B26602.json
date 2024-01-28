@@ -1,0 +1,122 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26602",
+            "Umbrella": "Hampshire Homes Dundas",
+            "Umbrella ID": "12539804",
+            "VB_NAME": "Hampshire Homes Dundas Limited",
+            "OPERATINGNAME": "Huron Ridge",
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "1997-08-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-08-16 12:38:23.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "12 Falconer Dr., Unit 8",
+            "TELEPHONE": "(905)826-9953",
+            "FAX": "(905)826-0451",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "334133",
+            "TO": "Gary P. Mooney",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-891-0885"
+        },
+        {
+            "TOUNIQUENUMBER": "334133",
+            "TO": "Gary P. Mooney",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-891-0885"
+        },
+        {
+            "TOUNIQUENUMBER": "334133",
+            "TO": "Gary P. Mooney",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-891-0885"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26602",
+            "Umbrella": "Hampshire Homes Dundas",
+            "Umbrella ID": "12539804",
+            "VB_NAME": "Hampshire Homes Dundas Limited",
+            "OPERATINGNAME": "Huron Ridge",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26863",
+            "MEMBERNAME": "Hampshire Homes Dundas II Limited",
+            "MEMBEROPERATINGNAME": "Huron Ridge Phase II",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26602",
+            "Umbrella": "Hampshire Homes Dundas",
+            "Umbrella ID": "12539804",
+            "VB_NAME": "Hampshire Homes Dundas Limited",
+            "OPERATINGNAME": "Huron Ridge",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26602",
+            "MEMBERNAME": "Hampshire Homes Dundas Limited",
+            "MEMBEROPERATINGNAME": "Huron Ridge",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26602",
+            "Umbrella": "Hampshire Homes Dundas",
+            "Umbrella ID": "12539804",
+            "VB_NAME": "Hampshire Homes Dundas Limited",
+            "OPERATINGNAME": "Huron Ridge",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27698",
+            "MEMBERNAME": "Barchester Manors Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26602",
+            "Umbrella": "Hampshire Homes Dundas",
+            "Umbrella ID": "12539804",
+            "VB_NAME": "Hampshire Homes Dundas Limited",
+            "OPERATINGNAME": "Huron Ridge",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24150",
+            "MEMBERNAME": "Momat Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HURON RIDGE",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "840 Dundas St. W.",
+            "# of Units": 25,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-06-02"
+        }
+    ],
+    "builderConditions": []
+}

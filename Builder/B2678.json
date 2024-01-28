@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B2678",
+            "Umbrella": "Robert Higgins Construction",
+            "Umbrella ID": "12540414",
+            "VB_NAME": "Robert Higgins Const. Limited",
+            "OPERATINGNAME": null,
+            "CITY": "SAULT STE. MARIE",
+            "HCRA_INITIALLICENSEDATE": "1987-04-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1997-04-04 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "389 River Rd.",
+            "TELEPHONE": "(705)759-0109",
+            "FAX": "(705)759-0298",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "315184",
+            "TO": "Nora Higgins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "315185",
+            "TO": "Robert Higgins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-759-0109"
+        },
+        {
+            "TOUNIQUENUMBER": "315185",
+            "TO": "Robert Higgins",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-759-0109"
+        },
+        {
+            "TOUNIQUENUMBER": "315185",
+            "TO": "Robert Higgins",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-759-0109"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B2678",
+            "Umbrella": "Robert Higgins Construction",
+            "Umbrella ID": "12540414",
+            "VB_NAME": "Robert Higgins Const. Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B2553",
+            "MEMBERNAME": "Robert Higgins Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B2678",
+            "Umbrella": "Robert Higgins Construction",
+            "Umbrella ID": "12540414",
+            "VB_NAME": "Robert Higgins Const. Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27692",
+            "MEMBERNAME": "Robert Higgins Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B2678",
+            "Umbrella": "Robert Higgins Construction",
+            "Umbrella ID": "12540414",
+            "VB_NAME": "Robert Higgins Const. Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B2678",
+            "MEMBERNAME": "Robert Higgins Const. Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

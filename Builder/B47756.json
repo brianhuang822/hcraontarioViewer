@@ -1,0 +1,147 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47756",
+            "Umbrella": "Greystone",
+            "Umbrella ID": "12545227",
+            "VB_NAME": "1901364 Ontario Inc. ",
+            "OPERATINGNAME": null,
+            "CITY": "Huntsville",
+            "HCRA_INITIALLICENSEDATE": "2019-10-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-25 16:18:42.000 +0000",
+            "Expiry Date": "2024-10-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8 Crescent Road",
+            "TELEPHONE": "705-789-1418",
+            "FAX": "705-789-8543",
+            "WEBSITEURL": " ",
+            "EMAIL": "pat@greystoneconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 67,
+            "SUMM_TOTAL": 67,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345097",
+            "TO": "Patrick Dube",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-789-1418"
+        },
+        {
+            "TOUNIQUENUMBER": "345097",
+            "TO": "Patrick Dube",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-789-1418"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47756",
+            "Umbrella": "Greystone",
+            "Umbrella ID": "12545227",
+            "VB_NAME": "1901364 Ontario Inc. ",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45729",
+            "MEMBERNAME": "1793951 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47756",
+            "Umbrella": "Greystone",
+            "Umbrella ID": "12545227",
+            "VB_NAME": "1901364 Ontario Inc. ",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47756",
+            "MEMBERNAME": "1901364 Ontario Inc. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47756",
+            "Umbrella": "Greystone",
+            "Umbrella ID": "12545227",
+            "VB_NAME": "1901364 Ontario Inc. ",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28356",
+            "MEMBERNAME": "Greystone Project Management Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47756",
+            "Umbrella": "Greystone",
+            "Umbrella ID": "12545227",
+            "VB_NAME": "1901364 Ontario Inc. ",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41350",
+            "MEMBERNAME": "1802367 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47756",
+            "Umbrella": "Greystone",
+            "Umbrella ID": "12545227",
+            "VB_NAME": "1901364 Ontario Inc. ",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40488",
+            "MEMBERNAME": "1793951 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Alexander",
+            "Project Status": "Completed",
+            "Location": "HUNTSVILLE",
+            "Address": " 18 Campus Trail ",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-10-06"
+        },
+        {
+            "Condo Project Name": "The Tom",
+            "Project Status": "Completed",
+            "Location": "HUNTSVILLE",
+            "Address": " 23 Campus Trail ",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-08-06"
+        },
+        {
+            "Condo Project Name": "The Emily Condominium",
+            "Project Status": "In Progress",
+            "Location": "HUNTSVILLE",
+            "Address": " 20 Campus Trail ",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

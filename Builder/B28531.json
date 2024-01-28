@@ -1,0 +1,142 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28531",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Collier Residences Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2000-01-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-01-18 13:30:54.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10 Wanless Ave. Ste. 201",
+            "TELEPHONE": "(416)481-2222 ext. 212",
+            "FAX": "(416)481-8000",
+            "WEBSITEURL": null,
+            "EMAIL": "lyager@plazacorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344699",
+            "TO": "Basil John Livingston",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "344619",
+            "TO": "Owen Lawson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-487-9547"
+        },
+        {
+            "TOUNIQUENUMBER": "344619",
+            "TO": "Owen Lawson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-487-9547"
+        },
+        {
+            "TOUNIQUENUMBER": "344619",
+            "TO": "Owen Lawson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-487-9547"
+        },
+        {
+            "TOUNIQUENUMBER": "344620",
+            "TO": "Scott Bellinger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-222-0474"
+        },
+        {
+            "TOUNIQUENUMBER": "344620",
+            "TO": "Scott Bellinger",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-222-0474"
+        },
+        {
+            "TOUNIQUENUMBER": "304301",
+            "TO": "David Brothman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "304301",
+            "TO": "David Brothman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "314889",
+            "TO": "Anthony Heller",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "314889",
+            "TO": "Anthony Heller",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "314889",
+            "TO": "Anthony Heller",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28531",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Collier Residences Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "20 COLLIER",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "20 Collier St",
+            "# of Units": 92,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-09-11"
+        }
+    ],
+    "builderConditions": []
+}

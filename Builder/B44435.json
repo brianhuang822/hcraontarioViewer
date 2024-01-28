@@ -1,0 +1,105 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44435",
+            "Umbrella": "Jarvis Meadows Homes",
+            "Umbrella ID": "12540247",
+            "VB_NAME": "663947 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Jarvis",
+            "HCRA_INITIALLICENSEDATE": "2015-05-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-05-28 05:00:19.000 +0000",
+            "Expiry Date": "2023-05-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2151 Main Street North",
+            "TELEPHONE": "905-520-4944",
+            "FAX": "905-765-0101",
+            "WEBSITEURL": " ",
+            "EMAIL": "laird@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 24,
+            "SUMM_TOTAL": 24,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100297096",
+            "TO": "Keith James Saunders",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-909-9960"
+        },
+        {
+            "TOUNIQUENUMBER": "100297096",
+            "TO": "Keith James Saunders",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-909-9960"
+        },
+        {
+            "TOUNIQUENUMBER": "329799",
+            "TO": "Laird McKeen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-520-4944"
+        },
+        {
+            "TOUNIQUENUMBER": "329799",
+            "TO": "Laird McKeen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-520-4944"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44435",
+            "Umbrella": "Jarvis Meadows Homes",
+            "Umbrella ID": "12540247",
+            "VB_NAME": "663947 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23863",
+            "MEMBERNAME": "L. & L. McKeen Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44435",
+            "Umbrella": "Jarvis Meadows Homes",
+            "Umbrella ID": "12540247",
+            "VB_NAME": "663947 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44435",
+            "MEMBERNAME": "663947 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Jarvis Meadows",
+            "Project Status": "Completed",
+            "Location": "HALDIMAND",
+            "Address": "Saunders Dr.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-04-11"
+        }
+    ],
+    "builderConditions": []
+}

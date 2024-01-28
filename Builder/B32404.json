@@ -1,0 +1,190 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32404",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Charleston Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Rockwood",
+            "HCRA_INITIALLICENSEDATE": "2002-05-31",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-24 17:21:32.000 +0000",
+            "Expiry Date": "2024-06-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "167 Jolliffe Avenue",
+            "TELEPHONE": "519-856-4054",
+            "FAX": "519-856-4105",
+            "WEBSITEURL": "www.charlestonhomes.ca",
+            "EMAIL": "customerservice@charlestonhomes.ca",
+            "ACCOUNTNUMBER": "B32404",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 106,
+            "SUMM_CONDO": 101,
+            "SUMM_TOTAL": 207,
+            "SUMM_CC": 7,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1800,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1800
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11787335",
+            "TO": "Lisa White",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-763-8124"
+        },
+        {
+            "TOUNIQUENUMBER": "11787335",
+            "TO": "Lisa White",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-763-8124"
+        },
+        {
+            "TOUNIQUENUMBER": "100645471",
+            "TO": "Avraham Israel Deutsch",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-684-1804"
+        },
+        {
+            "TOUNIQUENUMBER": "100568851",
+            "TO": "Jonas White",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-856-4054"
+        },
+        {
+            "TOUNIQUENUMBER": "100568851",
+            "TO": "Jonas White",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-856-4054"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32404",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Charleston Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Woodside Court",
+            "Project Status": null,
+            "Location": "GUELPH",
+            "Address": "Woodside Road",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Harmony Court",
+            "Project Status": null,
+            "Location": "GUELPH",
+            "Address": " 5150 Wellington Road ",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Halton Village Station",
+            "Project Status": "Completed",
+            "Location": "ACTON",
+            "Address": " 284 Queen St. E. ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-09-30"
+        },
+        {
+            "Condo Project Name": "Noble Ridge",
+            "Project Status": "Completed",
+            "Location": "ROCKWOOD",
+            "Address": "Linden Ave. And Hickory Dr.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-04-27"
+        },
+        {
+            "Condo Project Name": "Noble Ridge",
+            "Project Status": "Completed",
+            "Location": "ROCKWOOD",
+            "Address": "Hickory Drive / Juniper Street",
+            "# of Units": 25,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-05-04"
+        },
+        {
+            "Condo Project Name": "Phase 2 of Noble Ridge",
+            "Project Status": "Completed",
+            "Location": "ROCKWOOD",
+            "Address": "17-38 Linden Ave And Juniper St.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-06-01"
+        },
+        {
+            "Condo Project Name": "Noble Ridge",
+            "Project Status": "Completed",
+            "Location": "ROCKWOOD",
+            "Address": "Linden Ave/Juniper St./Hickory Dr.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-08-17"
+        },
+        {
+            "Condo Project Name": "Arbour Lane",
+            "Project Status": "Completed",
+            "Location": "ACTON",
+            "Address": "John Goy Sr. trail",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-05-16"
+        },
+        {
+            "Condo Project Name": "Stewart Mills Townes by the Speed River",
+            "Project Status": "Completed",
+            "Location": "GUELPH",
+            "Address": "110 Cardigan St.",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-09-27"
+        },
+        {
+            "Condo Project Name": "Stewart Mills Townes by the Speed River",
+            "Project Status": "Completed",
+            "Location": "GUELPH",
+            "Address": "Cardigan St.",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-09-27"
+        }
+    ],
+    "builderConditions": []
+}

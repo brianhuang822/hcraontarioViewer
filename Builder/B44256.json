@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44256",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "S.I.R. Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2016-02-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-02-05 14:01:49.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "80 Jutland Rd., Ste. 500",
+            "TELEPHONE": "416/274-4712",
+            "FAX": null,
+            "WEBSITEURL": "www.sirgroup.ca",
+            "EMAIL": "rob@sirgroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100529706",
+            "TO": "Danylo Znacko",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "100281692",
+            "TO": "Jan Znaczko",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-274-4712"
+        },
+        {
+            "TOUNIQUENUMBER": "100281692",
+            "TO": "Jan Znaczko",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-274-4712"
+        },
+        {
+            "TOUNIQUENUMBER": "100281692",
+            "TO": "Jan Znaczko",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-274-4712"
+        },
+        {
+            "TOUNIQUENUMBER": "100281693",
+            "TO": "Robert Allan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-330-8087"
+        },
+        {
+            "TOUNIQUENUMBER": "100281693",
+            "TO": "Robert Allan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-330-8087"
+        },
+        {
+            "TOUNIQUENUMBER": "100281693",
+            "TO": "Robert Allan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-330-8087"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108355",
+            "CHARGE_AGAINST": "S.I.R. Group Inc.",
+            "CHARGE_DATE": "2015-01-14",
+            "DISPOSITION_DATE": "2016-01-25",
+            "THE_FINE_": "5000",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "1250",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326395",
+            "ORGANIZATION_NAME": "S.I.R. Group Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Toronto, ON",
+            "CITY_DEFENCE": "Toronto, ON",
+            "VB_NUMBER": "B44256",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108355 9326395",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Toronto, City",
+            "INFORMATION_NUMBER": "4863 999 15 331275   00",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "FROM_OFFENCE_DATE": "2013-11-08",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "6250",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B44256",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "S.I.R. Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,70 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "LeMine",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "1600 16th Ave.",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Central Park Ajax Developments Phase 1 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45185",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "3070 Ellesmere Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43602",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Academy Condominiums",
+            "Account Number": "B43602",
+            "Project Status": "In Progress \u2013 Legal Proceeding",
+            "Location": "TORONTO",
+            "Address": "3070 Ellesmere Rd.",
+            "# of Units": 353,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Central Park Ajax",
+            "Account Number": "B45185",
+            "Project Status": "Cancelled",
+            "Location": "AJAX",
+            "Address": "188 Harwood Ave. S.",
+            "# of Units": 410,
+            "# of Terminations": 354,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-04-15"
+        }
+    ]
+}

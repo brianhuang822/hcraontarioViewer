@@ -1,0 +1,74 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42552",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Stirling Cook Aurora Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Stouffville",
+            "HCRA_INITIALLICENSEDATE": "2013-01-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-02-05 14:00:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "44 Grayfield Drive",
+            "TELEPHONE": "416/988-3868",
+            "FAX": "905/727-6028",
+            "WEBSITEURL": "www.stirlingcookdevelopments.com",
+            "EMAIL": "stirlingcook@vianet.ca",
+            "ACCOUNTNUMBER": "B42552",
+            "Total Outstanding Amount": 165080.94,
+            "TAB": 0,
+            "BREACH": 165080.94,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 6,
+            "SUMM_TOTAL": 10,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 11160.5,
+            "SUMM_MAJOR": 1,
+            "SUMM_MAJOR_AMT": 197305.15,
+            "SUMM_TOTAL_CLAIMS": 208465.65
+        }
+    ],
+    "builderPDOs": [],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42552",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Stirling Cook Aurora Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Bloomington Heights",
+            "Project Status": null,
+            "Location": "AURORA",
+            "Address": "13777 Yonge St.",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Bloomington Heights",
+            "Project Status": "Completed",
+            "Location": "AURORA",
+            "Address": "74 Old Bloomington Rd.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-11-30"
+        }
+    ],
+    "builderConditions": []
+}

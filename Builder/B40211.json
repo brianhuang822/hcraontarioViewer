@@ -1,0 +1,126 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40211",
+            "Umbrella": "Barrie Waterfront Developments",
+            "Umbrella ID": "12552303",
+            "VB_NAME": "Triangle West Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2010-02-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-02-09 14:01:18.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "224 York Mills Rd.",
+            "TELEPHONE": "416-871-2004",
+            "FAX": "18665420737",
+            "WEBSITEURL": "www.artcondos.ca",
+            "EMAIL": "gary@garysilverberg.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12395246",
+            "TO": "Daniel Weinryb",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-222-4446"
+        },
+        {
+            "TOUNIQUENUMBER": "12395241",
+            "TO": "David Feldberg",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-3370"
+        },
+        {
+            "TOUNIQUENUMBER": "12395241",
+            "TO": "David Feldberg",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-3370"
+        },
+        {
+            "TOUNIQUENUMBER": "12395241",
+            "TO": "David Feldberg",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-3370"
+        },
+        {
+            "TOUNIQUENUMBER": "331070",
+            "TO": "Gary Silverberg",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-871-2004"
+        },
+        {
+            "TOUNIQUENUMBER": "331070",
+            "TO": "Gary Silverberg",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-871-2004"
+        },
+        {
+            "TOUNIQUENUMBER": "331070",
+            "TO": "Gary Silverberg",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-871-2004"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40211",
+            "Umbrella": "Barrie Waterfront Developments",
+            "Umbrella ID": "12552303",
+            "VB_NAME": "Triangle West Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48194",
+            "MEMBERNAME": "Barrie Waterfront Developments Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40211",
+            "Umbrella": "Barrie Waterfront Developments",
+            "Umbrella ID": "12552303",
+            "VB_NAME": "Triangle West Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40211",
+            "MEMBERNAME": "Triangle West Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Art Condominiums",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "8 Dovercourt Rd.",
+            "# of Units": 153,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-07-09"
+        }
+    ],
+    "builderConditions": []
+}

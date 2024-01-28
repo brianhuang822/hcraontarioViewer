@@ -1,0 +1,139 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46946",
+            "Umbrella": "Kaleido Developments",
+            "Umbrella ID": "12551875",
+            "VB_NAME": "Kaleido Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Woodbridge",
+            "HCRA_INITIALLICENSEDATE": "2018-06-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-08 19:35:25.000 +0000",
+            "Expiry Date": "2024-06-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "595 Cityview Boulevard",
+            "TELEPHONE": "647-499-1546",
+            "FAX": "647-792-1092",
+            "WEBSITEURL": "https://kaleidocorp.ca/development/",
+            "EMAIL": "dave.martino@kaleidocorp.ca",
+            "ACCOUNTNUMBER": "B46946",
+            "Total Outstanding Amount": 35689.17,
+            "TAB": 0,
+            "BREACH": 35689.17,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 74,
+            "SUMM_TOTAL": 74,
+            "SUMM_CC": 15,
+            "SUMM_MINOR": 4,
+            "SUMM_MINOR_AMT": 30516.61,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 30516.61
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100629338",
+            "TO": "Vanessa Martino",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-998-0184"
+        },
+        {
+            "TOUNIQUENUMBER": "100497375",
+            "TO": "David Martino",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-499-1546"
+        },
+        {
+            "TOUNIQUENUMBER": "100497375",
+            "TO": "David Martino",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-499-1546"
+        },
+        {
+            "TOUNIQUENUMBER": "100497375",
+            "TO": "David Martino",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-499-1546"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46946",
+            "Umbrella": "Kaleido Developments",
+            "Umbrella ID": "12551875",
+            "VB_NAME": "Kaleido Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48401",
+            "MEMBERNAME": "665-671 Sheppard Avenue West Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46946",
+            "Umbrella": "Kaleido Developments",
+            "Umbrella ID": "12551875",
+            "VB_NAME": "Kaleido Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46989",
+            "MEMBERNAME": "Kaleido Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46946",
+            "Umbrella": "Kaleido Developments",
+            "Umbrella ID": "12551875",
+            "VB_NAME": "Kaleido Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46946",
+            "MEMBERNAME": "Kaleido Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46946",
+            "Umbrella": "Kaleido Developments",
+            "Umbrella ID": "12551875",
+            "VB_NAME": "Kaleido Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48984",
+            "MEMBERNAME": "Landmark-416 Dundas St. Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Nova Towns",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 57-63 Finch Ave. W. ",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-01-24"
+        },
+        {
+            "Condo Project Name": "Elevate",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 485 Logan Ave. ",
+            "# of Units": 41,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

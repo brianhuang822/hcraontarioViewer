@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25381",
+            "Umbrella": "Falls Masonry",
+            "Umbrella ID": "12540494",
+            "VB_NAME": "Falls Masonry Ltd.",
+            "OPERATINGNAME": "Pine Meadows Builders",
+            "CITY": "NIAGARA FALLS",
+            "HCRA_INITIALLICENSEDATE": "1996-03-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-03-20 12:00:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8049 Tad St.",
+            "TELEPHONE": "905-357-4227",
+            "FAX": "905-357-5478",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "308810",
+            "TO": "Cosimo Dilollo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-357-4227"
+        },
+        {
+            "TOUNIQUENUMBER": "308810",
+            "TO": "Cosimo Dilollo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-357-4227"
+        },
+        {
+            "TOUNIQUENUMBER": "308810",
+            "TO": "Cosimo Dilollo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-357-4227"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25381",
+            "Umbrella": "Falls Masonry",
+            "Umbrella ID": "12540494",
+            "VB_NAME": "Falls Masonry Ltd.",
+            "OPERATINGNAME": "Pine Meadows Builders",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B12570",
+            "MEMBERNAME": "Cosimo Dilollo",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25381",
+            "Umbrella": "Falls Masonry",
+            "Umbrella ID": "12540494",
+            "VB_NAME": "Falls Masonry Ltd.",
+            "OPERATINGNAME": "Pine Meadows Builders",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25381",
+            "MEMBERNAME": "Falls Masonry Ltd.",
+            "MEMBEROPERATINGNAME": "Pine Meadows Builders",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "DRUMMOND COURT",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": " 5595 Drummond Rd ",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-03-25"
+        },
+        {
+            "Condo Project Name": "PINE MEADOWS BUILDERS",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": "5070 Drummond Rd.",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-07-11"
+        }
+    ],
+    "builderConditions": []
+}

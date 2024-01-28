@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39792",
+            "Umbrella": "Dimensions Home and Renovations",
+            "Umbrella ID": "12541141",
+            "VB_NAME": "Dimecom Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2009-09-18 18:52:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "83 Beaver Bend Cres",
+            "TELEPHONE": "416-207-0022",
+            "FAX": "4162078826",
+            "WEBSITEURL": null,
+            "EMAIL": "dimensionshome@bellnet.ca",
+            "ACCOUNTNUMBER": "B39792",
+            "Total Outstanding Amount": 335.2,
+            "TAB": 0,
+            "BREACH": 335.2,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12171088",
+            "TO": "Claudio Mastronardi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-207-0022"
+        },
+        {
+            "TOUNIQUENUMBER": "12171088",
+            "TO": "Claudio Mastronardi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-207-0022"
+        },
+        {
+            "TOUNIQUENUMBER": "12171088",
+            "TO": "Claudio Mastronardi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-207-0022"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39792",
+            "Umbrella": "Dimensions Home and Renovations",
+            "Umbrella ID": "12541141",
+            "VB_NAME": "Dimecom Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B39792",
+            "MEMBERNAME": "Dimecom Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B39792",
+            "Umbrella": "Dimensions Home and Renovations",
+            "Umbrella ID": "12541141",
+            "VB_NAME": "Dimecom Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B36957",
+            "MEMBERNAME": "1589120 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Dimensions Home and Renovations",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

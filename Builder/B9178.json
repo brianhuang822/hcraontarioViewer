@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9178",
+            "Umbrella": "Semaldin Homes",
+            "Umbrella ID": "12539712",
+            "VB_NAME": "Semaldin Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "1987-10-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-10-12 13:14:16.000 +0000",
+            "Expiry Date": "2022-10-10",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "1565 Sagewood Court",
+            "TELEPHONE": "905-858-1904",
+            "FAX": "905-858-4136",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345259",
+            "TO": "Peter D.F. Sergi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "330587",
+            "TO": "Franco Joseph Sergi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-858-1904"
+        },
+        {
+            "TOUNIQUENUMBER": "330587",
+            "TO": "Franco Joseph Sergi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-858-1904"
+        },
+        {
+            "TOUNIQUENUMBER": "330587",
+            "TO": "Franco Joseph Sergi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-858-1904"
+        },
+        {
+            "TOUNIQUENUMBER": "330589",
+            "TO": "Mariangela Sergi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-858-1904"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9178",
+            "Umbrella": "Semaldin Homes",
+            "Umbrella ID": "12539712",
+            "VB_NAME": "Semaldin Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B7021",
+            "MEMBERNAME": "Pentida Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B9178",
+            "Umbrella": "Semaldin Homes",
+            "Umbrella ID": "12539712",
+            "VB_NAME": "Semaldin Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B9178",
+            "MEMBERNAME": "Semaldin Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

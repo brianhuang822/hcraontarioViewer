@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24281",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "A.K. Contracting (Kenora) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "KENORA",
+            "HCRA_INITIALLICENSEDATE": "1994-07-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-07-30 12:56:59.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Hwy.17 W., P.O. Box 1830",
+            "TELEPHONE": "(807)543-2493",
+            "FAX": "(807)543-2966",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "317888",
+            "TO": "Allen Kobylka",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-547-2677"
+        },
+        {
+            "TOUNIQUENUMBER": "317888",
+            "TO": "Allen Kobylka",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-547-2677"
+        },
+        {
+            "TOUNIQUENUMBER": "317888",
+            "TO": "Allen Kobylka",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-547-2677"
+        },
+        {
+            "TOUNIQUENUMBER": "317889",
+            "TO": "Jean Kobylka",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-547-2677"
+        },
+        {
+            "TOUNIQUENUMBER": "317889",
+            "TO": "Jean Kobylka",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-547-2677"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24281",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "A.K. Contracting (Kenora) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "PANORAMA RIDGE CONDO PHASE 2",
+            "Project Status": "Completed",
+            "Location": "KEEWATIN",
+            "Address": "1350 Huron Street",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-12-16"
+        },
+        {
+            "Condo Project Name": "PANORAMA RIDGE CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "KEEWATIN",
+            "Address": "Huron Street & Sixth Street",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-07-20"
+        }
+    ],
+    "builderConditions": []
+}

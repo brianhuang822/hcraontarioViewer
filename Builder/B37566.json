@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37566",
+            "Umbrella": "ICF Homes",
+            "Umbrella ID": "12543454",
+            "VB_NAME": "2121724 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "East Garafraxa",
+            "HCRA_INITIALLICENSEDATE": "2007-08-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-31 18:23:21.000 +0000",
+            "Expiry Date": "2024-08-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "11351 East-West Garafraxa Townline",
+            "TELEPHONE": "705-427-3580",
+            "FAX": "1-866-868-6606",
+            "WEBSITEURL": "https://icfhome.ca",
+            "EMAIL": "jbillingsley7@gmail.com",
+            "ACCOUNTNUMBER": "B37566",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 25,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 25,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 3763.45,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3763.45
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12215470",
+            "TO": "John Billingsley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-533-1633"
+        },
+        {
+            "TOUNIQUENUMBER": "12215470",
+            "TO": "John Billingsley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-533-1633"
+        },
+        {
+            "TOUNIQUENUMBER": "12215470",
+            "TO": "John Billingsley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-533-1633"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA104500",
+            "CHARGE_AGAINST": "2121724 Ontario Inc.",
+            "CHARGE_DATE": "2012-10-23",
+            "DISPOSITION_DATE": "2013-06-20",
+            "THE_FINE_": "0",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "0",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Suspended Sentence",
+            "INVESTIGATION_": "9325534",
+            "ORGANIZATION_NAME": "2121724 Ontario Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Tiny, ON",
+            "CITY_DEFENCE": "Belwood, ON",
+            "VB_NUMBER": "B37566",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA104500 9325534",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Tiny, Township",
+            "INFORMATION_NUMBER": "12-750",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2012-09-17",
+            "TO_OFFENCE_DATE": "2012-10-19",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "0",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "39:08.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B37566",
+            "Umbrella": "ICF Homes",
+            "Umbrella ID": "12543454",
+            "VB_NAME": "2121724 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37815",
+            "MEMBERNAME": "John Billingsley",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37566",
+            "Umbrella": "ICF Homes",
+            "Umbrella ID": "12543454",
+            "VB_NAME": "2121724 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37566",
+            "MEMBERNAME": "2121724 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

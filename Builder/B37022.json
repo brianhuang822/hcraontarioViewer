@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37022",
+            "Umbrella": "Karmann Homes",
+            "Umbrella ID": "12181743",
+            "VB_NAME": "Karmann Homes 2006 Ltd.",
+            "OPERATINGNAME": "Karmann Homes",
+            "CITY": "AJAX",
+            "HCRA_INITIALLICENSEDATE": "2006-08-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-08-29 04:15:06.000 +0000",
+            "Expiry Date": "2022-08-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2991 Rangeline Rd.",
+            "TELEPHONE": "416-315-6172",
+            "FAX": "905/426-5021",
+            "WEBSITEURL": null,
+            "EMAIL": "chriskarkas@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "326861",
+            "TO": "Chris Karkas",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-315-6172"
+        },
+        {
+            "TOUNIQUENUMBER": "326861",
+            "TO": "Chris Karkas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-315-6172"
+        },
+        {
+            "TOUNIQUENUMBER": "326861",
+            "TO": "Chris Karkas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-315-6172"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37022",
+            "Umbrella": "Karmann Homes",
+            "Umbrella ID": "12181743",
+            "VB_NAME": "Karmann Homes 2006 Ltd.",
+            "OPERATINGNAME": "Karmann Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23748",
+            "MEMBERNAME": "622530 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Karmann Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37022",
+            "Umbrella": "Karmann Homes",
+            "Umbrella ID": "12181743",
+            "VB_NAME": "Karmann Homes 2006 Ltd.",
+            "OPERATINGNAME": "Karmann Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37022",
+            "MEMBERNAME": "Karmann Homes 2006 Ltd.",
+            "MEMBEROPERATINGNAME": "Karmann Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

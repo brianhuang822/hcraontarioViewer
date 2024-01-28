@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38101",
+            "Umbrella": "Northern Heritage Homes",
+            "Umbrella ID": "12210733",
+            "VB_NAME": "Northern Heritage Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "HANMER",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2008-03-04 03:16:14.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5429 Deschene Rd.",
+            "TELEPHONE": "705-969-8882",
+            "FAX": "705-969-6062",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "313002",
+            "TO": "Frank Godmer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-688-5901"
+        },
+        {
+            "TOUNIQUENUMBER": "313002",
+            "TO": "Frank Godmer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-688-5901"
+        },
+        {
+            "TOUNIQUENUMBER": "313002",
+            "TO": "Frank Godmer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-688-5901"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38101",
+            "Umbrella": "Northern Heritage Homes",
+            "Umbrella ID": "12210733",
+            "VB_NAME": "Northern Heritage Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B31426",
+            "MEMBERNAME": "Frank Roland Godmer",
+            "MEMBEROPERATINGNAME": "Northern Heritage Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38101",
+            "Umbrella": "Northern Heritage Homes",
+            "Umbrella ID": "12210733",
+            "VB_NAME": "Northern Heritage Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B38101",
+            "MEMBERNAME": "Northern Heritage Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B38101",
+            "Umbrella": "Northern Heritage Homes",
+            "Umbrella ID": "12210733",
+            "VB_NAME": "Northern Heritage Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B36900",
+            "MEMBERNAME": "Northern Heritage Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

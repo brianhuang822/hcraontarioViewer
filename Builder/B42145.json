@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42145",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Valley Homes Realty Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "CARLETON PLACE",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2012-10-15 21:39:27.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "156 Townline Rd W",
+            "TELEPHONE": "613/451-5385",
+            "FAX": "613/257-7154",
+            "WEBSITEURL": "valleyhomes.info",
+            "EMAIL": "valleyhomes@excite.com",
+            "ACCOUNTNUMBER": "B42145",
+            "Total Outstanding Amount": 508.5,
+            "TAB": 0,
+            "BREACH": 508.5,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12048717",
+            "TO": "Brian Allen Rintoul",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-257-7581"
+        },
+        {
+            "TOUNIQUENUMBER": "12048717",
+            "TO": "Brian Allen Rintoul",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-257-7581"
+        },
+        {
+            "TOUNIQUENUMBER": "12048717",
+            "TO": "Brian Allen Rintoul",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-257-7581"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA107922",
+            "CHARGE_AGAINST": "Valley Homes Realty Ltd",
+            "CHARGE_DATE": "2013-05-13",
+            "DISPOSITION_DATE": "2013-10-15",
+            "THE_FINE_": "0",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "0",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Suspended Sentence",
+            "INVESTIGATION_": "9325752",
+            "ORGANIZATION_NAME": "Valley Homes Realty Ltd. ",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Smiths Falls, ON",
+            "CITY_DEFENCE": "Carleton Place, ON",
+            "VB_NUMBER": "B42145",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": null,
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA107922 9325752",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Smiths Falls, Separated Town",
+            "INFORMATION_NUMBER": "999 13130163",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "FROM_OFFENCE_DATE": "2012-05-16",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "0",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B42145",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Valley Homes Realty Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

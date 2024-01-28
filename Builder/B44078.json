@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44078",
+            "Umbrella": "Wiebe Group",
+            "Umbrella ID": "12542143",
+            "VB_NAME": "John Wiebe",
+            "OPERATINGNAME": null,
+            "CITY": "Tecumseh",
+            "HCRA_INITIALLICENSEDATE": "2014-11-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-25 14:53:20.000 +0000",
+            "Expiry Date": "2024-11-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "125 Hayes Avenue",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "Johnwiebech@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 12,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 12,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100123572",
+            "TO": "John Wiebe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-982-7996"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44078",
+            "Umbrella": "Wiebe Group",
+            "Umbrella ID": "12542143",
+            "VB_NAME": "John Wiebe",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42200",
+            "MEMBERNAME": "John Wiebe and Aaron Wiebe",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44078",
+            "Umbrella": "Wiebe Group",
+            "Umbrella ID": "12542143",
+            "VB_NAME": "John Wiebe",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44078",
+            "MEMBERNAME": "John Wiebe",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

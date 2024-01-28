@@ -1,0 +1,65 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Mitchell Lofts",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "41 Beech Ave.",
+            "TELEPHONE": "416/839-4628",
+            "FAX": "416/698-9068",
+            "WEBSITEURL": "www.mitchell-lofts.com",
+            "EMAIL": "mitchell@mloft.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Metcalfe Mews Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22693",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Printers Row Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28288",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lowther Mews Developments Ltd.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8697",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "GLEN MANOR",
+            "Account Number": "B22693",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "15 Glen Manor Dr.",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-08-24"
+        }
+    ]
+}

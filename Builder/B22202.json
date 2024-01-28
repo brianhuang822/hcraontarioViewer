@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22202",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Forway Holdings Limited",
+            "OPERATINGNAME": "Jennark Homes",
+            "CITY": "Fergus",
+            "HCRA_INITIALLICENSEDATE": "1992-07-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-08-02 14:27:07.000 +0000",
+            "Expiry Date": "2023-07-22",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "101 St. Andrew Street West",
+            "TELEPHONE": "519-993-3530",
+            "FAX": null,
+            "WEBSITEURL": "https://www.jennarkhomes.com",
+            "EMAIL": "jen@jennarkhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 35,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 35,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12300923",
+            "TO": "Jennifer Mochrie",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-993-3530"
+        },
+        {
+            "TOUNIQUENUMBER": "12300923",
+            "TO": "Jennifer Mochrie",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-993-3530"
+        },
+        {
+            "TOUNIQUENUMBER": "12300923",
+            "TO": "Jennifer Mochrie",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-993-3530"
+        },
+        {
+            "TOUNIQUENUMBER": "12304589",
+            "TO": "Clark McDaniel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-836-6402"
+        },
+        {
+            "TOUNIQUENUMBER": "12304589",
+            "TO": "Clark McDaniel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-836-6402"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22202",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Forway Holdings Limited",
+            "OPERATINGNAME": "Jennark Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Creekside Terrace",
+            "Project Status": null,
+            "Location": "FERGUS",
+            "Address": "367 Garafraxa St. E.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

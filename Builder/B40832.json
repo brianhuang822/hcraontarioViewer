@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40832",
+            "Umbrella": "Ashdale Estates",
+            "Umbrella ID": "12541512",
+            "VB_NAME": "Van Berkel Custom Contracting Limited",
+            "OPERATINGNAME": null,
+            "CITY": "PHELPSTON",
+            "HCRA_INITIALLICENSEDATE": "2010-10-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-10-19 13:00:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10 Apto Court",
+            "TELEPHONE": "705/737-7666",
+            "FAX": "705-436-2181",
+            "WEBSITEURL": " ",
+            "EMAIL": "vanberkelcc@hotmail.com",
+            "ACCOUNTNUMBER": "B40832",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 58663.52,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 58663.52
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12026506",
+            "TO": "Anthony Van Berkel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-737-7666"
+        },
+        {
+            "TOUNIQUENUMBER": "12026506",
+            "TO": "Anthony Van Berkel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-737-7666"
+        },
+        {
+            "TOUNIQUENUMBER": "12026506",
+            "TO": "Anthony Van Berkel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-737-7666"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40832",
+            "Umbrella": "Ashdale Estates",
+            "Umbrella ID": "12541512",
+            "VB_NAME": "Van Berkel Custom Contracting Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43737",
+            "MEMBERNAME": "Ashdale Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40832",
+            "Umbrella": "Ashdale Estates",
+            "Umbrella ID": "12541512",
+            "VB_NAME": "Van Berkel Custom Contracting Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40832",
+            "MEMBERNAME": "Van Berkel Custom Contracting Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23675",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Effort Trust Company",
+            "OPERATINGNAME": "Effort Trust",
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "1994-05-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-05-13 15:02:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "240 Main St. E.",
+            "TELEPHONE": "905-528-8956",
+            "FAX": "905-528-8182",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "324922",
+            "TO": "Gerald Asa",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336296",
+            "TO": "Arthur Weisz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-528-8956"
+        },
+        {
+            "TOUNIQUENUMBER": "336296",
+            "TO": "Arthur Weisz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-528-8956"
+        },
+        {
+            "TOUNIQUENUMBER": "336308",
+            "TO": "Thomas Weisz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-528-8956"
+        },
+        {
+            "TOUNIQUENUMBER": "336308",
+            "TO": "Thomas Weisz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-528-8956"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23675",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Effort Trust Company",
+            "OPERATINGNAME": "Effort Trust",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "ORCHARDVIEW VILLAGE CONDO",
+            "Project Status": "Completed",
+            "Location": "GRIMSBY",
+            "Address": "165 Main Street East",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-07-28"
+        }
+    ],
+    "builderConditions": []
+}

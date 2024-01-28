@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34789",
+            "Umbrella": "Hyde Park in Leaside",
+            "Umbrella ID": "12142518",
+            "VB_NAME": "Leaside Eglinton Holdings Inc.",
+            "OPERATINGNAME": "Hydepark in Leaside",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2004-08-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-08-04 12:32:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3655 Keele St.",
+            "TELEPHONE": "416-638-6300",
+            "FAX": "416-638-0569",
+            "WEBSITEURL": null,
+            "EMAIL": "jimf@zentil.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12021358",
+            "TO": "Antoinette Benedetto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-919-8530"
+        },
+        {
+            "TOUNIQUENUMBER": "12021358",
+            "TO": "Antoinette Benedetto",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-919-8530"
+        },
+        {
+            "TOUNIQUENUMBER": "12021402",
+            "TO": "Paul Zentil",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-6300"
+        },
+        {
+            "TOUNIQUENUMBER": "12021401",
+            "TO": "Andrew Benedetto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-595-9542"
+        },
+        {
+            "TOUNIQUENUMBER": "12021400",
+            "TO": "Garry Zentil",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-6300"
+        },
+        {
+            "TOUNIQUENUMBER": "12021400",
+            "TO": "Garry Zentil",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-6300"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34789",
+            "Umbrella": "Hyde Park in Leaside",
+            "Umbrella ID": "12142518",
+            "VB_NAME": "Leaside Eglinton Holdings Inc.",
+            "OPERATINGNAME": "Hydepark in Leaside",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34789",
+            "MEMBERNAME": "Leaside Eglinton Holdings Inc.",
+            "MEMBEROPERATINGNAME": "Hydepark in Leaside",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34789",
+            "Umbrella": "Hyde Park in Leaside",
+            "Umbrella ID": "12142518",
+            "VB_NAME": "Leaside Eglinton Holdings Inc.",
+            "OPERATINGNAME": "Hydepark in Leaside",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36478",
+            "MEMBERNAME": "Aerodrome Holdings Inc.",
+            "MEMBEROPERATINGNAME": "Hyde Park Lofts and Flats",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HUDE PARK IN LEASIDE",
+            "Project Status": "Completed",
+            "Location": "EAST YORK",
+            "Address": " 50-80 Aerodrome Cres ",
+            "# of Units": 51,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-03-30"
+        }
+    ],
+    "builderConditions": []
+}

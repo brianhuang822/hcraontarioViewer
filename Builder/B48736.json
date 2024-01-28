@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48736",
+            "Umbrella": "Grandgrace Development",
+            "Umbrella ID": "500002577",
+            "VB_NAME": "Jefferson Properties Limited Partnership",
+            "OPERATINGNAME": null,
+            "CITY": "Concord",
+            "HCRA_INITIALLICENSEDATE": "2021-01-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-19 18:54:00.000 +0000",
+            "Expiry Date": "2024-10-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8000 Jane Street",
+            "TELEPHONE": "647-989-0515",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "james@grandgracedevelopment.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600011783",
+            "TO": "Lichen (James) Xu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-989-0515"
+        },
+        {
+            "TOUNIQUENUMBER": "100675038",
+            "TO": "Fanseay Wang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "857-800-2211"
+        },
+        {
+            "TOUNIQUENUMBER": "100675038",
+            "TO": "Fanseay Wang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "857-800-2211"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48736",
+            "Umbrella": "Grandgrace Development",
+            "Umbrella ID": "500002577",
+            "VB_NAME": "Jefferson Properties Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61682",
+            "MEMBERNAME": "1000162801 Ontario Corp.",
+            "MEMBEROPERATINGNAME": "1000162801 Ontario Corp.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48736",
+            "Umbrella": "Grandgrace Development",
+            "Umbrella ID": "500002577",
+            "VB_NAME": "Jefferson Properties Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48736",
+            "MEMBERNAME": "Jefferson Properties Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Richmond Hill Grace",
+            "Project Status": null,
+            "Location": "RICHMOND HILL",
+            "Address": " 39 Jefferson Side Road ",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Richmond Hill Grace",
+            "Project Status": "In Progress",
+            "Location": "RICHMOND HILL",
+            "Address": " 39 Jefferson Side Road ",
+            "# of Units": 60,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

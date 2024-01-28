@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44600",
+            "Umbrella": "Macdougall Homes and Contracting",
+            "Umbrella ID": "12543332",
+            "VB_NAME": "MacDougall Homes and Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Williamstown",
+            "HCRA_INITIALLICENSEDATE": "2015-07-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-11 21:22:53.000 +0000",
+            "Expiry Date": "2024-07-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 171",
+            "TELEPHONE": "613-528-1345",
+            "FAX": "613-528-1112",
+            "WEBSITEURL": " ",
+            "EMAIL": "stinson108@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "320569",
+            "TO": "Timothy Lawson MacDougall",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-528-1345"
+        },
+        {
+            "TOUNIQUENUMBER": "320569",
+            "TO": "Timothy Lawson MacDougall",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-528-1345"
+        },
+        {
+            "TOUNIQUENUMBER": "320569",
+            "TO": "Timothy Lawson MacDougall",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-528-1345"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44600",
+            "Umbrella": "Macdougall Homes and Contracting",
+            "Umbrella ID": "12543332",
+            "VB_NAME": "MacDougall Homes and Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44600",
+            "MEMBERNAME": "MacDougall Homes and Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44600",
+            "Umbrella": "Macdougall Homes and Contracting",
+            "Umbrella ID": "12543332",
+            "VB_NAME": "MacDougall Homes and Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B1564",
+            "MEMBERNAME": "MacDougall Homes",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

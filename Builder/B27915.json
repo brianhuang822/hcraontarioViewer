@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27915",
+            "Umbrella": "David Beerman Holdings",
+            "Umbrella ID": "12551216",
+            "VB_NAME": "David A. Beerman Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "BARRIE",
+            "HCRA_INITIALLICENSEDATE": "1999-06-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-06-16 12:34:47.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "R.R.3",
+            "TELEPHONE": "(705)739-1178",
+            "FAX": "(705)739-1051",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "302512",
+            "TO": "David Beerman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-321-5981"
+        },
+        {
+            "TOUNIQUENUMBER": "302512",
+            "TO": "David Beerman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-321-5981"
+        },
+        {
+            "TOUNIQUENUMBER": "302512",
+            "TO": "David Beerman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-321-5981"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27915",
+            "Umbrella": "David Beerman Holdings",
+            "Umbrella ID": "12551216",
+            "VB_NAME": "David A. Beerman Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B16210",
+            "MEMBERNAME": "David A Beerman Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27915",
+            "Umbrella": "David Beerman Holdings",
+            "Umbrella ID": "12551216",
+            "VB_NAME": "David A. Beerman Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27915",
+            "MEMBERNAME": "David A. Beerman Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27915",
+            "Umbrella": "David Beerman Holdings",
+            "Umbrella ID": "12551216",
+            "VB_NAME": "David A. Beerman Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22869",
+            "MEMBERNAME": "David A. Beerman Holdings Inc.",
+            "MEMBEROPERATINGNAME": "The Better Builder",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

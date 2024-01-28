@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32764",
+            "Umbrella": "Design Guild",
+            "Umbrella ID": "12540246",
+            "VB_NAME": "Educational Construction Ltd.",
+            "OPERATINGNAME": "Ed-Con-Jaks",
+            "CITY": "BRAMPTON",
+            "HCRA_INITIALLICENSEDATE": "2002-10-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-10-10 12:31:03.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10 Wilkinson Rd., Unit 22",
+            "TELEPHONE": "(905) 450-5575",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "330311",
+            "TO": "Jayson B. Schwarz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-486-2040"
+        },
+        {
+            "TOUNIQUENUMBER": "330311",
+            "TO": "Jayson B. Schwarz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-486-2040"
+        },
+        {
+            "TOUNIQUENUMBER": "11823585",
+            "TO": "Heather Welner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-450-5575"
+        },
+        {
+            "TOUNIQUENUMBER": "11823585",
+            "TO": "Heather Welner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-450-5575"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32764",
+            "Umbrella": "Design Guild",
+            "Umbrella ID": "12540246",
+            "VB_NAME": "Educational Construction Ltd.",
+            "OPERATINGNAME": "Ed-Con-Jaks",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32764",
+            "MEMBERNAME": "Educational Construction Ltd.",
+            "MEMBEROPERATINGNAME": "Ed-Con-Jaks",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32764",
+            "Umbrella": "Design Guild",
+            "Umbrella ID": "12540246",
+            "VB_NAME": "Educational Construction Ltd.",
+            "OPERATINGNAME": "Ed-Con-Jaks",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37177",
+            "MEMBERNAME": "1438229 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Design Guild Properties of Davisville",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

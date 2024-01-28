@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35267",
+            "Umbrella": "Dairy Lane",
+            "Umbrella ID": "12541162",
+            "VB_NAME": "Dairy Lane Heights Inc.",
+            "OPERATINGNAME": "Dairy Lane Heights",
+            "CITY": "HUNTSVILLE",
+            "HCRA_INITIALLICENSEDATE": "2005-07-14",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2008-11-27 23:10:56.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "23 Dairy Lane, Unit #10",
+            "TELEPHONE": "705-788-3842",
+            "FAX": "705-788-3845",
+            "WEBSITEURL": "www.centrestreet.ca",
+            "EMAIL": "ewiebe@centrestreet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12059122",
+            "TO": "Edward Wiebe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-601-6037"
+        },
+        {
+            "TOUNIQUENUMBER": "12059122",
+            "TO": "Edward Wiebe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-601-6037"
+        },
+        {
+            "TOUNIQUENUMBER": "12059122",
+            "TO": "Edward Wiebe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-601-6037"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35267",
+            "Umbrella": "Dairy Lane",
+            "Umbrella ID": "12541162",
+            "VB_NAME": "Dairy Lane Heights Inc.",
+            "OPERATINGNAME": "Dairy Lane Heights",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B35267",
+            "MEMBERNAME": "Dairy Lane Heights Inc.",
+            "MEMBEROPERATINGNAME": "Dairy Lane Heights",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "DAIRY LANE HEIGHTS",
+            "Project Status": "Completed",
+            "Location": "HUNTSVILLE",
+            "Address": "26 Dairy Lane",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-06-11"
+        },
+        {
+            "Condo Project Name": "DAIRY LANE HEIGHTS",
+            "Project Status": "Completed",
+            "Location": "HUNTSVILLE",
+            "Address": " 24 Dairy Lane ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-11-02"
+        }
+    ],
+    "builderConditions": []
+}

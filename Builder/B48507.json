@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48507",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sentry Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "NORTH YORK",
+            "HCRA_INITIALLICENSEDATE": "2020-10-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-10-10 04:15:06.000 +0000",
+            "Expiry Date": "2022-10-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "59 Powell Rd",
+            "TELEPHONE": "416-636-4663",
+            "FAX": null,
+            "WEBSITEURL": "sentryhomes.ca",
+            "EMAIL": "anestico@sentryhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100648552",
+            "TO": "Antonio Nestico",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-928-4882"
+        },
+        {
+            "TOUNIQUENUMBER": "100648552",
+            "TO": "Antonio Nestico",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-928-4882"
+        },
+        {
+            "TOUNIQUENUMBER": "100648552",
+            "TO": "Antonio Nestico",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-928-4882"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48507",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sentry Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

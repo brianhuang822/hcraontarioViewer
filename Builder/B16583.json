@@ -1,0 +1,163 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B16583",
+            "Umbrella": "Longwood Homes",
+            "Umbrella ID": "11962",
+            "VB_NAME": "Longwood Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "GLOUCESTER",
+            "HCRA_INITIALLICENSEDATE": "1988-11-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-10-20 12:32:51.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1010 Polytek St., Unit 5",
+            "TELEPHONE": "(613)746-1300",
+            "FAX": "(613)746-3997",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338132",
+            "TO": "Robert Sanscartier",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "305940",
+            "TO": "Raymond Charlebois",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "305940",
+            "TO": "Raymond Charlebois",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336503",
+            "TO": "Guy Whissel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-746-1300"
+        },
+        {
+            "TOUNIQUENUMBER": "336503",
+            "TO": "Guy Whissel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-746-1300"
+        },
+        {
+            "TOUNIQUENUMBER": "336503",
+            "TO": "Guy Whissel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-746-1300"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B16583",
+            "Umbrella": "Longwood Homes",
+            "Umbrella ID": "11962",
+            "VB_NAME": "Longwood Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42583",
+            "MEMBERNAME": "1180686 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16583",
+            "Umbrella": "Longwood Homes",
+            "Umbrella ID": "11962",
+            "VB_NAME": "Longwood Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28451",
+            "MEMBERNAME": "Longwood Building Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B16583",
+            "Umbrella": "Longwood Homes",
+            "Umbrella ID": "11962",
+            "VB_NAME": "Longwood Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B16583",
+            "MEMBERNAME": "Longwood Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16583",
+            "Umbrella": "Longwood Homes",
+            "Umbrella ID": "11962",
+            "VB_NAME": "Longwood Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41785",
+            "MEMBERNAME": "Sonia By The Rideau Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "PARKRIDGE TERRACE PHASE 2",
+            "Project Status": "Completed",
+            "Location": "GLOUCESTER",
+            "Address": "1400 Wildberry Crt.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-05-02"
+        },
+        {
+            "Condo Project Name": "PARKRIDGE TERRACE PHASE 1",
+            "Project Status": "Completed",
+            "Location": "GLOUCESTER",
+            "Address": "1400 Wildberry Crt.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-11-17"
+        },
+        {
+            "Condo Project Name": "PARKRIDGE TERRACE",
+            "Project Status": "In Progress",
+            "Location": "GLOUCESTER",
+            "Address": "1400 Wildberry Crt.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

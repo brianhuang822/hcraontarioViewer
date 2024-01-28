@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48472",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Firmland (Kingston Road) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2020-10-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-23 04:12:07.000 +0000",
+            "Expiry Date": "2024-10-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3625 Dufferin Street",
+            "TELEPHONE": "416-635-7575",
+            "FAX": "416-630-3095",
+            "WEBSITEURL": "www.firmland.com",
+            "EMAIL": "michoelk@firmland.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11886810",
+            "TO": "Michoel Klugmann",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-7575"
+        },
+        {
+            "TOUNIQUENUMBER": "11886810",
+            "TO": "Michoel Klugmann",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-7575"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48472",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Firmland (Kingston Road) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Perch",
+            "Project Status": "Cancelled",
+            "Location": "SCARBOROUGH",
+            "Address": " 4694&4696 Kingston Road, ",
+            "# of Units": 168,
+            "# of Terminations": 119,
+            "HCRA_CANCELLATIONREASON": "Vendor unable to obtain satisfactory financing",
+            "Last Status Update": "2022-03-21"
+        }
+    ],
+    "builderConditions": []
+}

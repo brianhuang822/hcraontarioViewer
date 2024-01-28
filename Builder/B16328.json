@@ -1,0 +1,178 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B16328",
+            "Umbrella": "Hunt Homes",
+            "Umbrella ID": "12497132",
+            "VB_NAME": "751486 Ontario Inc.",
+            "OPERATINGNAME": "Hunt Homes",
+            "CITY": "WOODSTOCK",
+            "HCRA_INITIALLICENSEDATE": "1989-03-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-04-01 13:00:02.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 20145, 313 Tecumseh St.",
+            "TELEPHONE": "519-539-2262",
+            "FAX": "519-539-0792",
+            "WEBSITEURL": "www.hunthomes.ca",
+            "EMAIL": "steve@hunthomes.ca",
+            "ACCOUNTNUMBER": "B16328",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 54,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 54,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345284",
+            "TO": "Joanne McLaughlin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-873-6060"
+        },
+        {
+            "TOUNIQUENUMBER": "315852",
+            "TO": "Susan Hunt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "315852",
+            "TO": "Susan Hunt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "322412",
+            "TO": "Stuart Owen McLaughlin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "322412",
+            "TO": "Stuart Owen McLaughlin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "322411",
+            "TO": "Stuart Bruce McLaughlin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "322411",
+            "TO": "Stuart Bruce McLaughlin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "322411",
+            "TO": "Stuart Bruce McLaughlin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "315841",
+            "TO": "Harvey Leland Hunt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-536-6565"
+        },
+        {
+            "TOUNIQUENUMBER": "315841",
+            "TO": "Harvey Leland Hunt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-536-6565"
+        },
+        {
+            "TOUNIQUENUMBER": "315841",
+            "TO": "Harvey Leland Hunt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-536-6565"
+        },
+        {
+            "TOUNIQUENUMBER": "11998849",
+            "TO": "Steve Hunt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-539-2262"
+        },
+        {
+            "TOUNIQUENUMBER": "11998849",
+            "TO": "Steve Hunt",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-539-2262"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B16328",
+            "Umbrella": "Hunt Homes",
+            "Umbrella ID": "12497132",
+            "VB_NAME": "751486 Ontario Inc.",
+            "OPERATINGNAME": "Hunt Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B16328",
+            "MEMBERNAME": "751486 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Hunt Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16328",
+            "Umbrella": "Hunt Homes",
+            "Umbrella ID": "12497132",
+            "VB_NAME": "751486 Ontario Inc.",
+            "OPERATINGNAME": "Hunt Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41534",
+            "MEMBERNAME": "Hunt Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Rockwood",
+            "Project Status": "Completed",
+            "Location": "WOODSTOCK",
+            "Address": " 635-669 Southwood Way ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-12-05"
+        },
+        {
+            "Condo Project Name": "ROCKWOOD",
+            "Project Status": "Completed",
+            "Location": "WOODSTOCK",
+            "Address": " 635-669 Southwood Way ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-12-02"
+        }
+    ],
+    "builderConditions": []
+}

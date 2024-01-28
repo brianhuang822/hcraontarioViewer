@@ -1,0 +1,70 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Falls Masonry",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "8049 Tad St.",
+            "TELEPHONE": "905/357-4227",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Falls Masonry Ltd.",
+            "MEMBEROPERATINGNAME": "Pine Meadows Builders",
+            "MEMBERVBNUM": "B25381",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cosimo Dilollo",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B12570",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "DRUMMOND COURT",
+            "Account Number": "B25381",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": " 5595 Drummond Rd ",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-03-25"
+        },
+        {
+            "Condo Project Name": "PINE MEADOWS BUILDERS",
+            "Account Number": "B25381",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": "5070 Drummond Rd.",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-07-11"
+        }
+    ]
+}

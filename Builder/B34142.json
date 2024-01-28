@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34142",
+            "Umbrella": "Castlemen Homes",
+            "Umbrella ID": "12540213",
+            "VB_NAME": "Castlemen Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CAMLACHIE",
+            "HCRA_INITIALLICENSEDATE": "2004-02-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-02-18 14:30:20.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3567 Queen St.",
+            "TELEPHONE": "519-869-4574",
+            "FAX": "519-869-4574",
+            "WEBSITEURL": null,
+            "EMAIL": "rkongas@cogeco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11983647",
+            "TO": "Carl Kongas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-381-3574"
+        },
+        {
+            "TOUNIQUENUMBER": "11983647",
+            "TO": "Carl Kongas",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-381-3574"
+        },
+        {
+            "TOUNIQUENUMBER": "11983647",
+            "TO": "Carl Kongas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-381-3574"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34142",
+            "Umbrella": "Castlemen Homes",
+            "Umbrella ID": "12540213",
+            "VB_NAME": "Castlemen Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34142",
+            "MEMBERNAME": "Castlemen Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34142",
+            "Umbrella": "Castlemen Homes",
+            "Umbrella ID": "12540213",
+            "VB_NAME": "Castlemen Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42282",
+            "MEMBERNAME": "Castlemen Contracting Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34142",
+            "Umbrella": "Castlemen Homes",
+            "Umbrella ID": "12540213",
+            "VB_NAME": "Castlemen Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B62100",
+            "MEMBERNAME": "Bluewater Parkside Developments Inc.",
+            "MEMBEROPERATINGNAME": "Bluewater Parkside Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

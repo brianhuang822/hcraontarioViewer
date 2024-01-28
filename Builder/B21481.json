@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21481",
+            "Umbrella": "Rematex Construction",
+            "Umbrella ID": "12164121",
+            "VB_NAME": "Rejean Lalonde & Madeleine Lalonde",
+            "OPERATINGNAME": "Rematex Enr.",
+            "CITY": "PLANTAGENET",
+            "HCRA_INITIALLICENSEDATE": "1991-03-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-03-03 16:00:43.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3071 Conc. 3",
+            "TELEPHONE": "613/673-1011",
+            "FAX": "613/673-1110",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339446",
+            "TO": "Madeleine Lalonde",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-614-7194"
+        },
+        {
+            "TOUNIQUENUMBER": "339445",
+            "TO": "Rejean Lalonde",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-878-3152"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21481",
+            "Umbrella": "Rematex Construction",
+            "Umbrella ID": "12164121",
+            "VB_NAME": "Rejean Lalonde & Madeleine Lalonde",
+            "OPERATINGNAME": "Rematex Enr.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36685",
+            "MEMBERNAME": "Rematex Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B21481",
+            "Umbrella": "Rematex Construction",
+            "Umbrella ID": "12164121",
+            "VB_NAME": "Rejean Lalonde & Madeleine Lalonde",
+            "OPERATINGNAME": "Rematex Enr.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B21481",
+            "MEMBERNAME": "Rejean Lalonde & Madeleine Lalonde",
+            "MEMBEROPERATINGNAME": "Rematex Enr.",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

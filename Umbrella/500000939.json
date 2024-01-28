@@ -1,0 +1,137 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Polocorp",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 1,
+            "TOTALUNITS": 110,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "379 Queen Street South",
+            "TELEPHONE": "519-745-3249",
+            "FAX": null,
+            "WEBSITEURL": "https://www.polocorpinc.com",
+            "EMAIL": "nicole@polocorpinc.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 110,
+            "SUMM_TOTAL": 110,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Polocorp Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B60750",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Barra On Queen Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45902",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 3,
+            "Total Posessions": 3,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 110,
+            "SUMM_TOTAL": 110,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 107,
+            "Total Posessions": 107,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 110,
+            "SUMM_TOTAL": 110,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 110,
+            "SUMM_TOTAL": 110,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Viva Towns",
+            "Account Number": "B60750",
+            "Project Status": "In Progress",
+            "Location": "KITCHENER",
+            "Address": " 19-41 Mill Street ",
+            "# of Units": 106,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Barra on Queen",
+            "Account Number": "B45902",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 399-411 Queen St. S. And 168-180 Benton St. ",
+            "# of Units": 110,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-07-09"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38349",
+            "Umbrella": "Pars Builders",
+            "Umbrella ID": "12541165",
+            "VB_NAME": "Pars Builders Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2008-06-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-06-04 15:01:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "#1500, 5650 Yonge St.",
+            "TELEPHONE": "416-226-9950",
+            "FAX": "416-226-7336",
+            "WEBSITEURL": "www.parsbuilders.ca",
+            "EMAIL": "esmaeili@parsbuilders.ca",
+            "ACCOUNTNUMBER": "B38349",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 14955,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 14955
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12264317",
+            "TO": "Hamid Hassani",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-237-0933"
+        },
+        {
+            "TOUNIQUENUMBER": "12264317",
+            "TO": "Hamid Hassani",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-237-0933"
+        },
+        {
+            "TOUNIQUENUMBER": "12264316",
+            "TO": "Mohsen Jalalpour",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-237-0933"
+        },
+        {
+            "TOUNIQUENUMBER": "12264316",
+            "TO": "Mohsen Jalalpour",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-237-0933"
+        },
+        {
+            "TOUNIQUENUMBER": "12264315",
+            "TO": "Mohammad Reza Esmaeili",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-962-7070"
+        },
+        {
+            "TOUNIQUENUMBER": "12264315",
+            "TO": "Mohammad Reza Esmaeili",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-962-7070"
+        },
+        {
+            "TOUNIQUENUMBER": "12264315",
+            "TO": "Mohammad Reza Esmaeili",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-962-7070"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA106456",
+            "CHARGE_AGAINST": "Pars Builders Ltd.",
+            "CHARGE_DATE": "2010-03-24",
+            "DISPOSITION_DATE": "2010-08-16",
+            "THE_FINE_": "0",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "0",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Suspended Sentence",
+            "INVESTIGATION_": "9324659",
+            "ORGANIZATION_NAME": "Pars Builders Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Toronto, ON",
+            "CITY_DEFENCE": "Richmond Hill, ON",
+            "VB_NUMBER": "B38349",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA106456 9324659",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Toronto, City",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "FROM_OFFENCE_DATE": "2010-01-13",
+            "TO_OFFENCE_DATE": "2010-03-03",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "0",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "27:43.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B38349",
+            "Umbrella": "Pars Builders",
+            "Umbrella ID": "12541165",
+            "VB_NAME": "Pars Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38349",
+            "MEMBERNAME": "Pars Builders Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38349",
+            "Umbrella": "Pars Builders",
+            "Umbrella ID": "12541165",
+            "VB_NAME": "Pars Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40336",
+            "MEMBERNAME": "Pars Builders Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,141 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62463",
+            "Umbrella": "Fifth Avenue Homes",
+            "Umbrella ID": "12552185",
+            "VB_NAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "OPERATINGNAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "CITY": "Woodbridge",
+            "HCRA_INITIALLICENSEDATE": "2023-08-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-28 13:04:29.000 +0000",
+            "Expiry Date": "2024-08-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "101B Roytec Road",
+            "TELEPHONE": "289-371-0291",
+            "FAX": "905-856-9654",
+            "WEBSITEURL": "http://www.fifthavenuehomes.ca",
+            "EMAIL": "info@fithavenuehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100364552",
+            "TO": "Jonathan Ursini",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-881-3254"
+        },
+        {
+            "TOUNIQUENUMBER": "100364552",
+            "TO": "Jonathan Ursini",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-881-3254"
+        },
+        {
+            "TOUNIQUENUMBER": "100275257",
+            "TO": "Davide Plati",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-500-7724"
+        },
+        {
+            "TOUNIQUENUMBER": "100275257",
+            "TO": "Davide Plati",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-500-7724"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62463",
+            "Umbrella": "Fifth Avenue Homes",
+            "Umbrella ID": "12552185",
+            "VB_NAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "OPERATINGNAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45878",
+            "MEMBERNAME": "Fifth Avenue (King North) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62463",
+            "Umbrella": "Fifth Avenue Homes",
+            "Umbrella ID": "12552185",
+            "VB_NAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "OPERATINGNAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62463",
+            "MEMBERNAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "MEMBEROPERATINGNAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62463",
+            "Umbrella": "Fifth Avenue Homes",
+            "Umbrella ID": "12552185",
+            "VB_NAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "OPERATINGNAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61995",
+            "MEMBERNAME": "Fifth Avenue Homes (King City) Inc.",
+            "MEMBEROPERATINGNAME": "Fifth Avenue Homes (King City) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62463",
+            "Umbrella": "Fifth Avenue Homes",
+            "Umbrella ID": "12552185",
+            "VB_NAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "OPERATINGNAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45369",
+            "MEMBERNAME": "Fifth Avenue Luxury Homes Inc.",
+            "MEMBEROPERATINGNAME": "Fifth Avenue Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62463",
+            "Umbrella": "Fifth Avenue Homes",
+            "Umbrella ID": "12552185",
+            "VB_NAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "OPERATINGNAME": "Fifth Avenue Homes (Woodbridge) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61084",
+            "MEMBERNAME": "Fifth Avenue Homes (King West) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Fifth Avenue Homes, Woodbridge",
+            "Project Status": null,
+            "Location": "WOODBRIDGE",
+            "Address": " 8487 Islington Ave ",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

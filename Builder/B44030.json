@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44030",
+            "Umbrella": "Casa",
+            "Umbrella ID": "12542169",
+            "VB_NAME": "Casa Unique Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2014-12-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-13 20:31:35.000 +0000",
+            "Expiry Date": "2024-12-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4025 Yonge Street",
+            "TELEPHONE": "416-824-3929",
+            "FAX": null,
+            "WEBSITEURL": "www.casauniqueinc.com",
+            "EMAIL": "casaunique@yahoo.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12459725",
+            "TO": "Saman Motahari",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-824-3929"
+        },
+        {
+            "TOUNIQUENUMBER": "12459725",
+            "TO": "Saman Motahari",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-824-3929"
+        },
+        {
+            "TOUNIQUENUMBER": "12459725",
+            "TO": "Saman Motahari",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-824-3929"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44030",
+            "Umbrella": "Casa",
+            "Umbrella ID": "12542169",
+            "VB_NAME": "Casa Unique Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41031",
+            "MEMBERNAME": "Saman Motahari",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44030",
+            "Umbrella": "Casa",
+            "Umbrella ID": "12542169",
+            "VB_NAME": "Casa Unique Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44030",
+            "MEMBERNAME": "Casa Unique Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

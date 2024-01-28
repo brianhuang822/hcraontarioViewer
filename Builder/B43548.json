@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43548",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "375 Lakeshore Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2014-04-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-04-02 12:01:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "77 Bloor Street West",
+            "TELEPHONE": "416/923-1714",
+            "FAX": "416/923-1712",
+            "WEBSITEURL": " ",
+            "EMAIL": "thahn@canahahns.com",
+            "ACCOUNTNUMBER": "B43548",
+            "Total Outstanding Amount": 2518914.14,
+            "TAB": 172303,
+            "BREACH": 2346611.14,
+            "SUMM_FREEHOLD": 18,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 18,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 16,
+            "SUMM_MINOR_AMT": 1293065.42,
+            "SUMM_MAJOR": 7,
+            "SUMM_MAJOR_AMT": 554141.87,
+            "SUMM_TOTAL_CLAIMS": 1847207.29
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100218434",
+            "TO": "Tong Hahn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-923-1714"
+        },
+        {
+            "TOUNIQUENUMBER": "100218434",
+            "TO": "Tong Hahn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-923-1714"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43548",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "375 Lakeshore Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Parklane",
+            "Project Status": null,
+            "Location": "MISSISSAUGA",
+            "Address": "375 Lakeshore Rd. W.",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

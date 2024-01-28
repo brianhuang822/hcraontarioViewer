@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9460",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "John Benczkowski",
+            "OPERATINGNAME": "Sol Arch Builders & Designers",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1988-05-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1989-05-27 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "301 Keewatin Ave.",
+            "TELEPHONE": "416/486-4100",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B9460",
+            "Total Outstanding Amount": 842.02,
+            "TAB": 0,
+            "BREACH": 842.02,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 4967.68,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 4967.68
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "302699",
+            "TO": "Deborah Benczkowski",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-486-4100"
+        },
+        {
+            "TOUNIQUENUMBER": "302700",
+            "TO": "John Benczkowski",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-486-4100"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA107969",
+            "CHARGE_AGAINST": "John Benczkowski",
+            "CHARGE_DATE": "2013-08-02",
+            "DISPOSITION_DATE": "2014-05-12",
+            "THE_FINE_": "5000",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "1250",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9325800",
+            "ORGANIZATION_NAME": "NULL",
+            "PERSON_NAME": "John Benczkowski",
+            "CITY_OFFENCE": "Scarborough, ON",
+            "CITY_DEFENCE": "Toronto, ON",
+            "VB_NUMBER": "B9460",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA107969 9325800",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Toronto, City",
+            "INFORMATION_NUMBER": "999-13-324729",
+            "DEFENDANT_FIRST_NAME": "John",
+            "DEFENDANT_LAST_NAME": "Benczkowski",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "FROM_OFFENCE_DATE": "2012-09-19",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "6250",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B9460",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "John Benczkowski",
+            "OPERATINGNAME": "Sol Arch Builders & Designers",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

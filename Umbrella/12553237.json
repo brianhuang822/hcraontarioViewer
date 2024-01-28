@@ -1,0 +1,82 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Acme Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 20,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "3209 Trailside Drive",
+            "TELEPHONE": "905-330-3989",
+            "FAX": null,
+            "WEBSITEURL": "https://www.acme-homes.ca",
+            "EMAIL": "upandya222@gmail.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 20,
+            "SUMM_TOTAL": 20,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Acme Homes and Development Inc.",
+            "MEMBEROPERATINGNAME": "Acme Homes",
+            "MEMBERVBNUM": "B49022",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "2802013 Ontario Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B49020",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 20,
+            "Total Posessions": 20,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 20,
+            "SUMM_TOTAL": 20,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Franklin Square",
+            "Account Number": "B49020",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": " 721 Franklin Boulevard ",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-02-27"
+        }
+    ]
+}

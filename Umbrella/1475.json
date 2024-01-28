@@ -1,0 +1,167 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "The Daniels Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "20 Queen St. W.",
+            "TELEPHONE": "(416)598-2129",
+            "FAX": null,
+            "WEBSITEURL": "www.danielshomes.com",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Daniels Avenues Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8925",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Daniels Bellair Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8306",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Daniels Annex Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9360",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Daniels Winston Churchill Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9201",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Daniels Covent Garden Corp",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16437",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Daniels Courtyards Ii Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8924",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Daniels Avenues West Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8926",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Daniels Court Yards Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8772",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Daniels Enclave Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8577",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Account Number": "B9201",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "3600 Colonia Dr.",
+            "# of Units": 126,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-10-04"
+        },
+        {
+            "Condo Project Name": "EDENWOOD GATES",
+            "Account Number": "B9360",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "6859 Edenwood Dr.",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-08-09"
+        },
+        {
+            "Condo Project Name": "COURTYARDS 11",
+            "Account Number": "B8924",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1724 The Chase",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-11-18"
+        },
+        {
+            "Condo Project Name": "THE AVENUES",
+            "Account Number": "B8925",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "2275 Cresdit Valley Rd.",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-11-14"
+        },
+        {
+            "Condo Project Name": "THE COURTYARDS 1",
+            "Account Number": "B8772",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1725 The Chase",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-10-12"
+        },
+        {
+            "Condo Project Name": "3420 SOUTH MILLWAY, MISS.",
+            "Account Number": "B8577",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "3420 South Millway",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1987-11-23"
+        },
+        {
+            "Condo Project Name": "BELLAIR CLASSICS",
+            "Account Number": "B8306",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "2205 South Millway",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1987-11-06"
+        }
+    ]
+}

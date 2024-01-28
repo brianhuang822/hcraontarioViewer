@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46794",
+            "Umbrella": "Wilson Corp",
+            "Umbrella ID": "500002369",
+            "VB_NAME": "5053745 Ontario Inc.",
+            "OPERATINGNAME": "Wilson Developments",
+            "CITY": "Mount Forest",
+            "HCRA_INITIALLICENSEDATE": "2018-04-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-18 18:10:00.000 +0000",
+            "Expiry Date": "2024-04-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 7",
+            "TELEPHONE": "519-509-8000",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "service@wilsoncorp.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 93,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 93,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100483003",
+            "TO": "Jessica Brown",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-369-4209"
+        },
+        {
+            "TOUNIQUENUMBER": "100483003",
+            "TO": "Jessica Brown",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-369-4209"
+        },
+        {
+            "TOUNIQUENUMBER": "100483003",
+            "TO": "Jessica Brown",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-369-4209"
+        },
+        {
+            "TOUNIQUENUMBER": "100483004",
+            "TO": "Bradley A. Wilson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-369-4209"
+        },
+        {
+            "TOUNIQUENUMBER": "100483004",
+            "TO": "Bradley A. Wilson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-369-4209"
+        },
+        {
+            "TOUNIQUENUMBER": "100483004",
+            "TO": "Bradley A. Wilson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-369-4209"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46794",
+            "Umbrella": "Wilson Corp",
+            "Umbrella ID": "500002369",
+            "VB_NAME": "5053745 Ontario Inc.",
+            "OPERATINGNAME": "Wilson Developments",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46794",
+            "MEMBERNAME": "5053745 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Wilson Developments",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46794",
+            "Umbrella": "Wilson Corp",
+            "Umbrella ID": "500002369",
+            "VB_NAME": "5053745 Ontario Inc.",
+            "OPERATINGNAME": "Wilson Developments",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62215",
+            "MEMBERNAME": "W.T. Land LP",
+            "MEMBEROPERATINGNAME": "W.T. Land LP",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "440 Wellington",
+            "Project Status": null,
+            "Location": "MOUNT FOREST",
+            "Address": " 440 Wellington St E ",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

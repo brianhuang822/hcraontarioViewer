@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31650",
+            "Umbrella": "Elliot Milliken",
+            "Umbrella ID": "12540503",
+            "VB_NAME": "Elliot Milliken & Esther Krysinsky",
+            "OPERATINGNAME": null,
+            "CITY": "ARNPRIOR",
+            "HCRA_INITIALLICENSEDATE": "2001-07-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-07-20 12:30:34.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "18 Barkley St. RR # 2",
+            "TELEPHONE": "613-623-2015",
+            "FAX": "613-623-7517",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11714911",
+            "TO": "Esther Krysinsky",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "324767",
+            "TO": "Elliott Milliken",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-323-2015"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31650",
+            "Umbrella": "Elliot Milliken",
+            "Umbrella ID": "12540503",
+            "VB_NAME": "Elliot Milliken & Esther Krysinsky",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31650",
+            "MEMBERNAME": "Elliot Milliken & Esther Krysinsky",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31650",
+            "Umbrella": "Elliot Milliken",
+            "Umbrella ID": "12540503",
+            "VB_NAME": "Elliot Milliken & Esther Krysinsky",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23672",
+            "MEMBERNAME": "Elliott Milliken",
+            "MEMBEROPERATINGNAME": "Milliken Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43448",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Mutual (Hunt Club) Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2014-05-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-06 16:37:23.000 +0000",
+            "Expiry Date": "2024-05-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2275 Upper Middle Road East",
+            "TELEPHONE": "905-617-8255",
+            "FAX": "647-933-8873",
+            "WEBSITEURL": "www.huntclubresidences.com",
+            "EMAIL": "adit.k@anbrosfinancial.com",
+            "ACCOUNTNUMBER": "B43448",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 74,
+            "SUMM_TOTAL": 74,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100209419",
+            "TO": "Arun Anand",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-858-2447"
+        },
+        {
+            "TOUNIQUENUMBER": "100209419",
+            "TO": "Arun Anand",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-858-2447"
+        },
+        {
+            "TOUNIQUENUMBER": "100349038",
+            "TO": "Arjun Anand",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-502-9954"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43448",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Mutual (Hunt Club) Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Residences at Hunt Club",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 1350 Kingston Rd. ",
+            "# of Units": 80,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-05-14"
+        }
+    ],
+    "builderConditions": []
+}

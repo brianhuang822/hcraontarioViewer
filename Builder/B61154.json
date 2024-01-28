@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61154",
+            "Umbrella": "Zinc Developments",
+            "Umbrella ID": "500001364",
+            "VB_NAME": "The Webley Residences Ltd",
+            "OPERATINGNAME": "The Webley Residences Ltd",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-04-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-17 19:56:43.000 +0000",
+            "Expiry Date": "2024-04-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "160 Pears Avenue",
+            "TELEPHONE": "416-520-0200",
+            "FAX": null,
+            "WEBSITEURL": "https://www.zincdevlopments.com",
+            "EMAIL": "ken@zincdevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345653",
+            "TO": "Kenneth Zuckerman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "345653",
+            "TO": "Kenneth Zuckerman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "345653",
+            "TO": "Kenneth Zuckerman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-0200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61154",
+            "Umbrella": "Zinc Developments",
+            "Umbrella ID": "500001364",
+            "VB_NAME": "The Webley Residences Ltd",
+            "OPERATINGNAME": "The Webley Residences Ltd",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61154",
+            "MEMBERNAME": "The Webley Residences Ltd",
+            "MEMBEROPERATINGNAME": "The Webley Residences Ltd",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Webley",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 121 Avenue Road ",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

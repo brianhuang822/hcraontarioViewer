@@ -1,0 +1,112 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48748",
+            "Umbrella": "Biddington Homes",
+            "Umbrella ID": "12553112",
+            "VB_NAME": "Biddington Homes Lakeshore Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-01-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-10 14:08:09.000 +0000",
+            "Expiry Date": "2025-01-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1962 Yonge Street",
+            "TELEPHONE": "416-924-2244",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "alash@biddington.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 12,
+            "SUMM_TOTAL": 12,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100387750",
+            "TO": "Ian Bell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-208-7529"
+        },
+        {
+            "TOUNIQUENUMBER": "100189897",
+            "TO": "Arnie Lash",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-924-2244"
+        },
+        {
+            "TOUNIQUENUMBER": "100172907",
+            "TO": "Warren Fireman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-924-2244"
+        },
+        {
+            "TOUNIQUENUMBER": "100126131",
+            "TO": "Norman Glowinsky",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-924-2244"
+        },
+        {
+            "TOUNIQUENUMBER": "100126131",
+            "TO": "Norman Glowinsky",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-924-2244"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48748",
+            "Umbrella": "Biddington Homes",
+            "Umbrella ID": "12553112",
+            "VB_NAME": "Biddington Homes Lakeshore Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48748",
+            "MEMBERNAME": "Biddington Homes Lakeshore Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48748",
+            "Umbrella": "Biddington Homes",
+            "Umbrella ID": "12553112",
+            "VB_NAME": "Biddington Homes Lakeshore Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42230",
+            "MEMBERNAME": "Biddington Homes Oakville Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Harbour Place",
+            "Project Status": "In Progress",
+            "Location": "OAKVILLE",
+            "Address": " 95 Brookfield Rd. ",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33286",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Zulich Construction Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "Greater Sudbury",
+            "HCRA_INITIALLICENSEDATE": "2003-05-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-04 19:01:56.000 +0000",
+            "Expiry Date": "2024-05-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1730 Regent Street",
+            "TELEPHONE": "705-523-1000",
+            "FAX": "705-523-2000",
+            "WEBSITEURL": "www.zulich.com",
+            "EMAIL": "jzulich@zulich.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 57,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 57,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11893360",
+            "TO": "John Zulich",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-523-1000"
+        },
+        {
+            "TOUNIQUENUMBER": "11893360",
+            "TO": "John Zulich",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-523-1000"
+        },
+        {
+            "TOUNIQUENUMBER": "11893360",
+            "TO": "John Zulich",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-523-1000"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33286",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Zulich Construction Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

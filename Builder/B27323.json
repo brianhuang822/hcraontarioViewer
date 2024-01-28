@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27323",
+            "Umbrella": "Hadcon",
+            "Umbrella ID": "11488",
+            "VB_NAME": "Hadcon Design and Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "1998-04-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-19 18:41:23.000 +0000",
+            "Expiry Date": "2024-06-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "83 Woodville Avenue",
+            "TELEPHONE": "416-421-9374",
+            "FAX": "416-461-9270",
+            "WEBSITEURL": " ",
+            "EMAIL": "nick_hatzis@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 13,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 13,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "314690",
+            "TO": "Nick Hatziantoniou",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-858-5124"
+        },
+        {
+            "TOUNIQUENUMBER": "314690",
+            "TO": "Nick Hatziantoniou",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-858-5124"
+        },
+        {
+            "TOUNIQUENUMBER": "314690",
+            "TO": "Nick Hatziantoniou",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-858-5124"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27323",
+            "Umbrella": "Hadcon",
+            "Umbrella ID": "11488",
+            "VB_NAME": "Hadcon Design and Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27323",
+            "MEMBERNAME": "Hadcon Design and Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27323",
+            "Umbrella": "Hadcon",
+            "Umbrella ID": "11488",
+            "VB_NAME": "Hadcon Design and Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B9283",
+            "MEMBERNAME": "Hadcon Design & Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

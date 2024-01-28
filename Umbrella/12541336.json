@@ -1,0 +1,133 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "AHK Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 3,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "2985 Drew Road",
+            "TELEPHONE": "905-696-0723",
+            "FAX": "905-696-0721",
+            "WEBSITEURL": "www.akhrenovations.com",
+            "EMAIL": "pal@ahkcon.com",
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Neka Developers Inc.",
+            "MEMBEROPERATINGNAME": "Neka Developers Inc.",
+            "MEMBERVBNUM": "B61868",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Lotus North Bay General Partner I Inc. in its capacity as General Partner of Rhombi North Bay Development I LP",
+            "MEMBEROPERATINGNAME": "Lu Vesta Homes",
+            "MEMBERVBNUM": "B48899",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "980544 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43663",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2636937 Ontario Ltd. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47564",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "6551980 Canada Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B39910",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 1,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 1,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 2,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 2,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "North Bay Condos",
+            "Account Number": "B48899",
+            "Project Status": "Cancelled",
+            "Location": "NORTH BAY",
+            "Address": " 730 Lakeshore Drive ",
+            "# of Units": 70,
+            "# of Terminations": 9,
+            "HCRA_CANCELLATIONREASON": "Vendor unable to obtain satisfactory financing",
+            "Last Status Update": "2023-01-03"
+        },
+        {
+            "Condo Project Name": "345 Bronson",
+            "Account Number": "B39910",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "345 Bronson Ave.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-06-24"
+        }
+    ]
+}

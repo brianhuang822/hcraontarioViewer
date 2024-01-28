@@ -1,0 +1,110 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Textbook Student Suites",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "51-A Caldari Rd.,Ste. 1M",
+            "TELEPHONE": "416/477-7744",
+            "FAX": null,
+            "WEBSITEURL": "textbooksuites.com",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Scollard Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44013",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Textbook (774 Bronson Avenue) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45190",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Textbook (256 Rideau Street) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45824",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Textbook Ross Park Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44530",
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "MEMBERNAME": "McMurray Street Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43382",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Boathaus Phase 2",
+            "Account Number": "B44013",
+            "Project Status": "Cancelled",
+            "Location": "WHITBY",
+            "Address": "1606-1614 Charles St., E.",
+            "# of Units": 136,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Ross Park",
+            "Account Number": "B44530",
+            "Project Status": "Cancelled",
+            "Location": "LONDON",
+            "Address": "1234 -1246 Richmond St.",
+            "# of Units": 219,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Boathaus",
+            "Account Number": "B44013",
+            "Project Status": "Cancelled",
+            "Location": "WHITBY",
+            "Address": "1606-1610 Charles St., E.",
+            "# of Units": 96,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Residences On McMurray",
+            "Account Number": "B43382",
+            "Project Status": "Cancelled",
+            "Location": "BRACEBRIDGE",
+            "Address": "28 McMurray St.",
+            "# of Units": 78,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61970",
+            "Umbrella": "Bella Vistq",
+            "Umbrella ID": "500002105",
+            "VB_NAME": "781 Erie Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LaSalle",
+            "HCRA_INITIALLICENSEDATE": "2023-03-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-08 19:11:15.000 +0000",
+            "Expiry Date": "2024-03-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1700 Sprucewood Avenue",
+            "TELEPHONE": "519-819-4122",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "rsaccucci@4cprojectmanagement.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600013639",
+            "TO": "Frank Amante",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-791-3341"
+        },
+        {
+            "TOUNIQUENUMBER": "600013639",
+            "TO": "Frank Amante",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-791-3341"
+        },
+        {
+            "TOUNIQUENUMBER": "600013638",
+            "TO": "Edwin Cope",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "100346392",
+            "TO": "Randy Saccucci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-819-4122"
+        },
+        {
+            "TOUNIQUENUMBER": "100346392",
+            "TO": "Randy Saccucci",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-819-4122"
+        },
+        {
+            "TOUNIQUENUMBER": "100346392",
+            "TO": "Randy Saccucci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-819-4122"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61970",
+            "Umbrella": "Bella Vistq",
+            "Umbrella ID": "500002105",
+            "VB_NAME": "781 Erie Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45078",
+            "MEMBERNAME": "Saccucci Construction Management Inc.",
+            "MEMBEROPERATINGNAME": "4C Project Management",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61970",
+            "Umbrella": "Bella Vistq",
+            "Umbrella ID": "500002105",
+            "VB_NAME": "781 Erie Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61970",
+            "MEMBERNAME": "781 Erie Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "781 Erie Condos",
+            "Project Status": "In Progress",
+            "Location": "WINDSOR",
+            "Address": " 781 Erie St., E. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

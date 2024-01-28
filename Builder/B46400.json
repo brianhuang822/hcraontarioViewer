@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46400",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Alexandria Construction Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "Orleans",
+            "HCRA_INITIALLICENSEDATE": "2017-09-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-23 13:36:44.000 +0000",
+            "Expiry Date": "2024-09-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "105 Daglan Crescent",
+            "TELEPHONE": "613-263-4710",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "george@alexandriaconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100449348",
+            "TO": "George Tadros",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-263-4710"
+        },
+        {
+            "TOUNIQUENUMBER": "100449348",
+            "TO": "George Tadros",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-263-4710"
+        },
+        {
+            "TOUNIQUENUMBER": "100449348",
+            "TO": "George Tadros",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-263-4710"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46400",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Alexandria Construction Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

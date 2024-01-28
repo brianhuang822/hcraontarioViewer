@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37893",
+            "Umbrella": "DMN Enterprises",
+            "Umbrella ID": "12542675",
+            "VB_NAME": "La Villa Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2007-07-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-07-10 12:00:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1885  Wilson Ave., Ste. 206",
+            "TELEPHONE": "416/746-2588",
+            "FAX": "416/746-2088",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B37893",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 3297.73,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3297.73
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11699039",
+            "TO": "Gerardo Damiano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-6166"
+        },
+        {
+            "TOUNIQUENUMBER": "11699039",
+            "TO": "Gerardo Damiano",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-6166"
+        },
+        {
+            "TOUNIQUENUMBER": "11699039",
+            "TO": "Gerardo Damiano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-6166"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37893",
+            "Umbrella": "DMN Enterprises",
+            "Umbrella ID": "12542675",
+            "VB_NAME": "La Villa Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31422",
+            "MEMBERNAME": "Goldstar Park Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37893",
+            "Umbrella": "DMN Enterprises",
+            "Umbrella ID": "12542675",
+            "VB_NAME": "La Villa Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44292",
+            "MEMBERNAME": "DMN Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37893",
+            "Umbrella": "DMN Enterprises",
+            "Umbrella ID": "12542675",
+            "VB_NAME": "La Villa Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37893",
+            "MEMBERNAME": "La Villa Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

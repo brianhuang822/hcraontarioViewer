@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43033",
+            "Umbrella": "Algonquin Group",
+            "Umbrella ID": "12552833",
+            "VB_NAME": "2362889 Ontario Ltd.",
+            "OPERATINGNAME": "Algonquin Custom Homes",
+            "CITY": "Huntsville",
+            "HCRA_INITIALLICENSEDATE": "2013-08-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-14 20:18:47.000 +0000",
+            "Expiry Date": "2024-11-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "12 Ertler Lane",
+            "TELEPHONE": "416-727-6690",
+            "FAX": "1-705-789-7239",
+            "WEBSITEURL": "https://algonquincustomhomes.ca",
+            "EMAIL": "walter@algonquincustomhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100177397",
+            "TO": "Walter Grys",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-727-6690"
+        },
+        {
+            "TOUNIQUENUMBER": "100177397",
+            "TO": "Walter Grys",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-727-6690"
+        },
+        {
+            "TOUNIQUENUMBER": "100177397",
+            "TO": "Walter Grys",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-727-6690"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43033",
+            "Umbrella": "Algonquin Group",
+            "Umbrella ID": "12552833",
+            "VB_NAME": "2362889 Ontario Ltd.",
+            "OPERATINGNAME": "Algonquin Custom Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47805",
+            "MEMBERNAME": "Ertler Lane Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43033",
+            "Umbrella": "Algonquin Group",
+            "Umbrella ID": "12552833",
+            "VB_NAME": "2362889 Ontario Ltd.",
+            "OPERATINGNAME": "Algonquin Custom Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43033",
+            "MEMBERNAME": "2362889 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Algonquin Custom Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

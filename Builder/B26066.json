@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26066",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Piazza Woodbridge Residences Inc.",
+            "OPERATINGNAME": "Piazza Woodbridge",
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "1997-04-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-04-05 12:30:48.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "111 Creditstone Rd.",
+            "TELEPHONE": "(905)669-4133",
+            "FAX": "(905)669-2049",
+            "WEBSITEURL": null,
+            "EMAIL": "gtiberini@arggroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340687",
+            "TO": "Vittorio Dezen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-0701"
+        },
+        {
+            "TOUNIQUENUMBER": "340687",
+            "TO": "Vittorio Dezen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-0701"
+        },
+        {
+            "TOUNIQUENUMBER": "333747",
+            "TO": "Galliano Tiberini",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-4133"
+        },
+        {
+            "TOUNIQUENUMBER": "333747",
+            "TO": "Galliano Tiberini",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-4133"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26066",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Piazza Woodbridge Residences Inc.",
+            "OPERATINGNAME": "Piazza Woodbridge",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "LA PIAZZA",
+            "Project Status": "Completed",
+            "Location": "WOODBRIDGE",
+            "Address": "53 Woodbridge Avenue",
+            "# of Units": 105,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-07-16"
+        }
+    ],
+    "builderConditions": []
+}

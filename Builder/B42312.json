@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42312",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Universal Building Technologies Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2012-08-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-08-23 12:00:27.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "175 Dolomite Dr.",
+            "TELEPHONE": "416/650-0999",
+            "FAX": "416/650-0998",
+            "WEBSITEURL": "ubuildtech.com",
+            "EMAIL": "universalbuilding@bellnet.ca",
+            "ACCOUNTNUMBER": "B42312",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 9147.11,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 9147.11
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12435768",
+            "TO": "Mikhail Mostovoy",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-650-0999"
+        },
+        {
+            "TOUNIQUENUMBER": "12435768",
+            "TO": "Mikhail Mostovoy",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-650-0999"
+        },
+        {
+            "TOUNIQUENUMBER": "12435768",
+            "TO": "Mikhail Mostovoy",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-650-0999"
+        },
+        {
+            "TOUNIQUENUMBER": "12435769",
+            "TO": "Vladimir Arenshtam",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-854-0974"
+        },
+        {
+            "TOUNIQUENUMBER": "12435769",
+            "TO": "Vladimir Arenshtam",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-854-0974"
+        },
+        {
+            "TOUNIQUENUMBER": "12435769",
+            "TO": "Vladimir Arenshtam",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-854-0974"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42312",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Universal Building Technologies Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

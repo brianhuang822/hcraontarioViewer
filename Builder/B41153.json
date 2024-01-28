@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41153",
+            "Umbrella": "Lynbury Homes",
+            "Umbrella ID": "500000432",
+            "VB_NAME": "Lynbury Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Concord",
+            "HCRA_INITIALLICENSEDATE": "2011-03-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-13 23:26:17.000 +0000",
+            "Expiry Date": "2024-03-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "56 Romina Drive",
+            "TELEPHONE": "416-817-9501",
+            "FAX": "905-669-9597",
+            "WEBSITEURL": " ",
+            "EMAIL": "tonycalvano@somerlyn.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344314",
+            "TO": "Antonio (Tony) Calvano",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-817-9501"
+        },
+        {
+            "TOUNIQUENUMBER": "344314",
+            "TO": "Antonio (Tony) Calvano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-817-9501"
+        },
+        {
+            "TOUNIQUENUMBER": "344314",
+            "TO": "Antonio (Tony) Calvano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-817-9501"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41153",
+            "Umbrella": "Lynbury Homes",
+            "Umbrella ID": "500000432",
+            "VB_NAME": "Lynbury Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41153",
+            "MEMBERNAME": "Lynbury Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41153",
+            "Umbrella": "Lynbury Homes",
+            "Umbrella ID": "500000432",
+            "VB_NAME": "Lynbury Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60288",
+            "MEMBERNAME": "NJS Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

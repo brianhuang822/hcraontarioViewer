@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33737",
+            "Umbrella": "Baron Construction",
+            "Umbrella ID": "12540608",
+            "VB_NAME": "1568208 Ontario Inc.",
+            "OPERATINGNAME": "Baron Construction",
+            "CITY": "NIAGARA FALLS",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2003-12-18 04:49:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8149 Beaverton Blvd.",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "335549",
+            "TO": "Bernardo Visca",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-357-4539"
+        },
+        {
+            "TOUNIQUENUMBER": "335549",
+            "TO": "Bernardo Visca",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-357-4539"
+        },
+        {
+            "TOUNIQUENUMBER": "335549",
+            "TO": "Bernardo Visca",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-357-4539"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33737",
+            "Umbrella": "Baron Construction",
+            "Umbrella ID": "12540608",
+            "VB_NAME": "1568208 Ontario Inc.",
+            "OPERATINGNAME": "Baron Construction",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B16348",
+            "MEMBERNAME": "774345 Ontario Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B33737",
+            "Umbrella": "Baron Construction",
+            "Umbrella ID": "12540608",
+            "VB_NAME": "1568208 Ontario Inc.",
+            "OPERATINGNAME": "Baron Construction",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B33737",
+            "MEMBERNAME": "1568208 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Baron Construction",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

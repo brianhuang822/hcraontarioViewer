@@ -1,0 +1,152 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B13673",
+            "Umbrella": "McCann Construction",
+            "Umbrella ID": "12492249",
+            "VB_NAME": "McCann Construction Inc.",
+            "OPERATINGNAME": "McCann Construction",
+            "CITY": "STRATFORD",
+            "HCRA_INITIALLICENSEDATE": "1985-02-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-02-20 13:00:46.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 100, R.R. 5",
+            "TELEPHONE": "519-271-0353",
+            "FAX": "519-271-5742",
+            "WEBSITEURL": "www.mccannconstruction.com",
+            "EMAIL": "mmccann@quadro.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 2,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "301033",
+            "TO": "Matthew McCann",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-0353"
+        },
+        {
+            "TOUNIQUENUMBER": "301033",
+            "TO": "Matthew McCann",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-0353"
+        },
+        {
+            "TOUNIQUENUMBER": "301033",
+            "TO": "Matthew McCann",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-0353"
+        },
+        {
+            "TOUNIQUENUMBER": "321967",
+            "TO": "Gary D. McCann",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-0353"
+        },
+        {
+            "TOUNIQUENUMBER": "321967",
+            "TO": "Gary D. McCann",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-0353"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B13673",
+            "Umbrella": "McCann Construction",
+            "Umbrella ID": "12492249",
+            "VB_NAME": "McCann Construction Inc.",
+            "OPERATINGNAME": "McCann Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41448",
+            "MEMBERNAME": "478057 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B13673",
+            "Umbrella": "McCann Construction",
+            "Umbrella ID": "12492249",
+            "VB_NAME": "McCann Construction Inc.",
+            "OPERATINGNAME": "McCann Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B13673",
+            "MEMBERNAME": "McCann Construction Inc.",
+            "MEMBEROPERATINGNAME": "McCann Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "West Village",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": "50 Galt Rd.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-07-06"
+        },
+        {
+            "Condo Project Name": "West Village",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": "50 Galt Rd.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-11-01"
+        },
+        {
+            "Condo Project Name": "Mc Carroll Place",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": " 589&591 Mornington St. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-05-16"
+        },
+        {
+            "Condo Project Name": "NATHAN COURT",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": " 480 Douglas St. ",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-05-26"
+        },
+        {
+            "Condo Project Name": "NATHAN COURT",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": " 480 Douglas St. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-11-28"
+        }
+    ],
+    "builderConditions": []
+}

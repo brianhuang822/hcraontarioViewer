@@ -1,0 +1,105 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37522",
+            "Umbrella": "180 University",
+            "Umbrella ID": "12537838",
+            "VB_NAME": "180 University Residential Limited Partnership",
+            "OPERATINGNAME": "Living Shangri-La Toronto",
+            "CITY": "VANCOUVER",
+            "HCRA_INITIALLICENSEDATE": "2007-04-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-04-19 13:00:20.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1067 West Cordova St., 6th Floor",
+            "TELEPHONE": "604-685-8986",
+            "FAX": "604-893-1708",
+            "WEBSITEURL": "www.living180university.com",
+            "EMAIL": "lucia@westbankcorp.com",
+            "ACCOUNTNUMBER": "B37522",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 12,
+            "SUMM_TOTAL": 12,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 32755.65,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 32755.65
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12213672",
+            "TO": "Ben Yeung",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-688-4885"
+        },
+        {
+            "TOUNIQUENUMBER": "12213672",
+            "TO": "Ben Yeung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-688-4885"
+        },
+        {
+            "TOUNIQUENUMBER": "12213671",
+            "TO": "Ian Gillespie",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-685-8986"
+        },
+        {
+            "TOUNIQUENUMBER": "12213671",
+            "TO": "Ian Gillespie",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-685-8986"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37522",
+            "Umbrella": "180 University",
+            "Umbrella ID": "12537838",
+            "VB_NAME": "180 University Residential Limited Partnership",
+            "OPERATINGNAME": "Living Shangri-La Toronto",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37522",
+            "MEMBERNAME": "180 University Residential Limited Partnership",
+            "MEMBEROPERATINGNAME": "Living Shangri-La Toronto",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37522",
+            "Umbrella": "180 University",
+            "Umbrella ID": "12537838",
+            "VB_NAME": "180 University Residential Limited Partnership",
+            "OPERATINGNAME": "Living Shangri-La Toronto",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38810",
+            "MEMBERNAME": "180 University Management Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Living Shangri-La, Toronto",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "180 University Ave.",
+            "# of Units": 392,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-08-20"
+        }
+    ],
+    "builderConditions": []
+}

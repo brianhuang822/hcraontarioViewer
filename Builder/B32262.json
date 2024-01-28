@@ -1,0 +1,193 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32262",
+            "Umbrella": "Premium Building Group",
+            "Umbrella ID": "11808577",
+            "VB_NAME": "1473941 Ontario Limited",
+            "OPERATINGNAME": "Premium Building Group",
+            "CITY": "St. Catharines",
+            "HCRA_INITIALLICENSEDATE": "2002-04-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-12 17:24:48.000 +0000",
+            "Expiry Date": "2024-04-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "275 Fourth Avenue",
+            "TELEPHONE": "905-988-1085",
+            "FAX": "905-687-7105",
+            "WEBSITEURL": "pbggroup.ca",
+            "EMAIL": "anthony@pbggroup.ca",
+            "ACCOUNTNUMBER": "B32262",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 175,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 175,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11777003",
+            "TO": "Anthony Continelli (Jr.)",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-988-1085"
+        },
+        {
+            "TOUNIQUENUMBER": "11777003",
+            "TO": "Anthony Continelli (Jr.)",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-988-1085"
+        },
+        {
+            "TOUNIQUENUMBER": "11777003",
+            "TO": "Anthony Continelli (Jr.)",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-988-1085"
+        },
+        {
+            "TOUNIQUENUMBER": "344750",
+            "TO": "Anthony (Tony) Continelli (Sr.)",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-3580"
+        },
+        {
+            "TOUNIQUENUMBER": "344750",
+            "TO": "Anthony (Tony) Continelli (Sr.)",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-3580"
+        },
+        {
+            "TOUNIQUENUMBER": "344750",
+            "TO": "Anthony (Tony) Continelli (Sr.)",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-3580"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32262",
+            "Umbrella": "Premium Building Group",
+            "Umbrella ID": "11808577",
+            "VB_NAME": "1473941 Ontario Limited",
+            "OPERATINGNAME": "Premium Building Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32262",
+            "MEMBERNAME": "1473941 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Premium Building Group",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B32262",
+            "Umbrella": "Premium Building Group",
+            "Umbrella ID": "11808577",
+            "VB_NAME": "1473941 Ontario Limited",
+            "OPERATINGNAME": "Premium Building Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32350",
+            "MEMBERNAME": "Trillium Building Group Ltd.",
+            "MEMBEROPERATINGNAME": "Monaco Building Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32262",
+            "Umbrella": "Premium Building Group",
+            "Umbrella ID": "11808577",
+            "VB_NAME": "1473941 Ontario Limited",
+            "OPERATINGNAME": "Premium Building Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36950",
+            "MEMBERNAME": "Trillium Building Group Ltd.",
+            "MEMBEROPERATINGNAME": "Trillium Building Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32262",
+            "Umbrella": "Premium Building Group",
+            "Umbrella ID": "11808577",
+            "VB_NAME": "1473941 Ontario Limited",
+            "OPERATINGNAME": "Premium Building Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28107",
+            "MEMBERNAME": "1264246 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Monaco Building Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Up On Niagara",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": "409 Niagara St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-12-08"
+        },
+        {
+            "Condo Project Name": "Up On Niagara",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": "409 Niagara St.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-06-01"
+        },
+        {
+            "Condo Project Name": "Up On Niagara",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": " 409 Niagara St ",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-07-10"
+        },
+        {
+            "Condo Project Name": "Woodfield Lane",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": " 165 Glendale Ave ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-10-25"
+        },
+        {
+            "Condo Project Name": "COBBLESTONE GATES ON SAWMILL",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": " 31 Sawmill Rd. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-09-05"
+        },
+        {
+            "Condo Project Name": "COBBLESTONE GATES ON SAWMILL",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": " 31 Sawmill Rd. ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-05-10"
+        }
+    ],
+    "builderConditions": []
+}

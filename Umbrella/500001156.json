@@ -1,0 +1,70 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Janik Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "1020 Lawrence Avenue West",
+            "TELEPHONE": "416-519-5562",
+            "FAX": null,
+            "WEBSITEURL": "https://www.janikgroup.ca",
+            "EMAIL": "stefanie@janikgroup.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "2521311 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46726",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "2816544 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2816544 Ontario Inc.",
+            "MEMBERVBNUM": "B60945",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "35 Plains Road",
+            "Account Number": "B60945",
+            "Project Status": "In Progress",
+            "Location": "BURLINGTON",
+            "Address": " 35 Plains Road East ",
+            "# of Units": 72,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Towns of Thornbury",
+            "Account Number": "B46726",
+            "Project Status": "In Progress",
+            "Location": "THORNBURY",
+            "Address": " 10 Louisa Street ",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

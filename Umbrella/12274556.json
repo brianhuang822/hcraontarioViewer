@@ -1,0 +1,76 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Wegg Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 11765.42,
+            "ADDRESS": "170 McLaughlin Road",
+            "TELEPHONE": "705-340-5428",
+            "FAX": "705-340-5422",
+            "WEBSITEURL": null,
+            "EMAIL": "ecmilley@nexicom.net",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 11765.42,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 11765.42
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "1587265 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38443",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Dan Wegg",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27670",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Daniel James Wegg",
+            "MEMBEROPERATINGNAME": "Wegg Homes",
+            "MEMBERVBNUM": "B31598",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2011",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 3,
+            "Dollers paid in Claims (Minor)": 11765.42,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 11765.42,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 11765.42,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 11765.42,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": []
+}

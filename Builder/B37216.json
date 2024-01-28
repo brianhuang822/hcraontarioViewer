@@ -1,0 +1,122 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37216",
+            "Umbrella": "Dick Masse Homes",
+            "Umbrella ID": "12197404",
+            "VB_NAME": "1699330 Ontario Limited",
+            "OPERATINGNAME": "Masse Homes 2007",
+            "CITY": "THORNDALE",
+            "HCRA_INITIALLICENSEDATE": "2006-11-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-11-24 16:01:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. BOX 158",
+            "TELEPHONE": "519-461-0138",
+            "FAX": "519-461-1726",
+            "WEBSITEURL": "www.dickmassehomes.ca",
+            "EMAIL": "dick@dickmassehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "321635",
+            "TO": "Richard (Dick) Alphonse (Sr.) Masse",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-236-7290"
+        },
+        {
+            "TOUNIQUENUMBER": "12250140",
+            "TO": "Maarit Masse",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-284-4331"
+        },
+        {
+            "TOUNIQUENUMBER": "321636",
+            "TO": "Judith Yvonne Masse",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-461-0138"
+        },
+        {
+            "TOUNIQUENUMBER": "12193952",
+            "TO": "Richard Paul (Jr.) Masse",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-461-0138"
+        },
+        {
+            "TOUNIQUENUMBER": "12193952",
+            "TO": "Richard Paul (Jr.) Masse",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-461-0138"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37216",
+            "Umbrella": "Dick Masse Homes",
+            "Umbrella ID": "12197404",
+            "VB_NAME": "1699330 Ontario Limited",
+            "OPERATINGNAME": "Masse Homes 2007",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B13860",
+            "MEMBERNAME": "Dick Masse Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B37216",
+            "Umbrella": "Dick Masse Homes",
+            "Umbrella ID": "12197404",
+            "VB_NAME": "1699330 Ontario Limited",
+            "OPERATINGNAME": "Masse Homes 2007",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37216",
+            "MEMBERNAME": "1699330 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Masse Homes 2007",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Neighborhood",
+            "Project Status": "Completed",
+            "Location": "DORCHESTER",
+            "Address": " 10 Foxhollow Dr Ss 3 ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-03-26"
+        },
+        {
+            "Condo Project Name": "The Neighborhood",
+            "Project Status": "Completed",
+            "Location": "DORCHESTER",
+            "Address": " 10 Foxhollow Dr Ss 3 ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-02-20"
+        }
+    ],
+    "builderConditions": []
+}

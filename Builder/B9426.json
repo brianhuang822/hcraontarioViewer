@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9426",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Rivergate Developments Ltd.,",
+            "OPERATINGNAME": null,
+            "CITY": "NOBLETON",
+            "HCRA_INITIALLICENSEDATE": "1988-06-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1992-06-17 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O.Box 212",
+            "TELEPHONE": "(416)939-7127",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304369",
+            "TO": "Harold F. Brown",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "328795",
+            "TO": "Maurizio Romanin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "328795",
+            "TO": "Maurizio Romanin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "328795",
+            "TO": "Maurizio Romanin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "328799",
+            "TO": "Richard Paul Romanin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "328799",
+            "TO": "Richard Paul Romanin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9426",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Rivergate Developments Ltd.,",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "QUEEN ST. CONDO",
+            "Project Status": "Completed",
+            "Location": "BOLTON",
+            "Address": "95 Queen St. N.",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-12-14"
+        }
+    ],
+    "builderConditions": []
+}

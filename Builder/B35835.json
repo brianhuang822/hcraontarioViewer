@@ -1,0 +1,116 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35835",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Stone Crest Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2005-10-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-12-22 20:10:07.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3209 Tilbury Lane",
+            "TELEPHONE": "(519) 657-2611",
+            "FAX": null,
+            "WEBSITEURL": "www.stonecrestlondon.ca",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B35835",
+            "Total Outstanding Amount": 1706.21,
+            "TAB": 1706.21,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12089917",
+            "TO": "Daniel Pliskow",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-657-2611"
+        },
+        {
+            "TOUNIQUENUMBER": "12089917",
+            "TO": "Daniel Pliskow",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-657-2611"
+        },
+        {
+            "TOUNIQUENUMBER": "12089917",
+            "TO": "Daniel Pliskow",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-657-2611"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35835",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Stone Crest Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Stone Crest Meadows",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "Beaverbrook Ave.",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Stone Crest Meadows",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 2089 Beaverbrook Ave ",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-10-21"
+        },
+        {
+            "Condo Project Name": "Stone Crest Meadows",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 2089 Beaverbrook Ave ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-03-18"
+        },
+        {
+            "Condo Project Name": "Stone Crest Meadows",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 2089 Beaverbrook Ave ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-04-17"
+        }
+    ],
+    "builderConditions": []
+}

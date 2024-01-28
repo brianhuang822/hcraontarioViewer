@@ -1,0 +1,126 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43900",
+            "Umbrella": "Brownstones on Lawrence",
+            "Umbrella ID": "12545989",
+            "VB_NAME": "BROWNSTONES ON ST. CLAIR INC.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2014-10-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-10-16 13:00:03.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "95 Barber Greene, Ste. 302",
+            "TELEPHONE": "416/449-6350",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "dgodfrey@yorkwoodhomes.com",
+            "ACCOUNTNUMBER": "B43900",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 23,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 23,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 4,
+            "SUMM_MINOR_AMT": 19890.93,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 19890.93
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "313198",
+            "TO": "Randy Goodman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-670-8804"
+        },
+        {
+            "TOUNIQUENUMBER": "313198",
+            "TO": "Randy Goodman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-670-8804"
+        },
+        {
+            "TOUNIQUENUMBER": "313198",
+            "TO": "Randy Goodman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-670-8804"
+        },
+        {
+            "TOUNIQUENUMBER": "100248226",
+            "TO": "David Godfrey",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-529-6722"
+        },
+        {
+            "TOUNIQUENUMBER": "100248226",
+            "TO": "David Godfrey",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-529-6722"
+        },
+        {
+            "TOUNIQUENUMBER": "100248226",
+            "TO": "David Godfrey",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-529-6722"
+        },
+        {
+            "TOUNIQUENUMBER": "312987",
+            "TO": "Norman Godfrey",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-6350"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43900",
+            "Umbrella": "Brownstones on Lawrence",
+            "Umbrella ID": "12545989",
+            "VB_NAME": "BROWNSTONES ON ST. CLAIR INC.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45979",
+            "MEMBERNAME": "Brownstones on Lawrence Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43900",
+            "Umbrella": "Brownstones on Lawrence",
+            "Umbrella ID": "12545989",
+            "VB_NAME": "BROWNSTONES ON ST. CLAIR INC.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43900",
+            "MEMBERNAME": "BROWNSTONES ON ST. CLAIR INC.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Brownstones On St. Clair",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "3765 St. Clair Ave. E.",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,251 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B16562",
+            "Umbrella": "Legend Creek Homes",
+            "Umbrella ID": "12002670",
+            "VB_NAME": "Legend Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "OAKVILLE",
+            "HCRA_INITIALLICENSEDATE": "1988-10-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-10-21 12:00:31.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "482 South Service Rd., Ste. 105",
+            "TELEPHONE": "905-849-1234",
+            "FAX": "905-849-3456",
+            "WEBSITEURL": "www.legendhomes.net",
+            "EMAIL": "ronbawks@legendhomes.net",
+            "ACCOUNTNUMBER": "B16562",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 39740,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 39740
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "301310",
+            "TO": "Edmund (Ed) Aquila",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-849-1234"
+        },
+        {
+            "TOUNIQUENUMBER": "301310",
+            "TO": "Edmund (Ed) Aquila",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-849-1234"
+        },
+        {
+            "TOUNIQUENUMBER": "343916",
+            "TO": "John Barroso",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-9153"
+        },
+        {
+            "TOUNIQUENUMBER": "343916",
+            "TO": "John Barroso",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-9153"
+        },
+        {
+            "TOUNIQUENUMBER": "302327",
+            "TO": "Ronald (Ron) Bawks",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-9152"
+        },
+        {
+            "TOUNIQUENUMBER": "302327",
+            "TO": "Ronald (Ron) Bawks",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-9152"
+        },
+        {
+            "TOUNIQUENUMBER": "302327",
+            "TO": "Ronald (Ron) Bawks",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-9152"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108093",
+            "CHARGE_AGAINST": "Legend Homes Inc.",
+            "CHARGE_DATE": "NULL",
+            "DISPOSITION_DATE": "2014-07-08",
+            "THE_FINE_": "2000",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "500",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9325624",
+            "ORGANIZATION_NAME": "Legend Homes Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Mississauga, ON",
+            "CITY_DEFENCE": "Oakville, ON",
+            "VB_NUMBER": "B16562",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108093 9325624",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Mississauga, City",
+            "INFORMATION_NUMBER": "3161 999 14000 349",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2011-09-07",
+            "TO_OFFENCE_DATE": "2014-01-07",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "2500",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B16562",
+            "Umbrella": "Legend Creek Homes",
+            "Umbrella ID": "12002670",
+            "VB_NAME": "Legend Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28384",
+            "MEMBERNAME": "1324130 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Legend Creek Developments",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16562",
+            "Umbrella": "Legend Creek Homes",
+            "Umbrella ID": "12002670",
+            "VB_NAME": "Legend Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31195",
+            "MEMBERNAME": "Legend Creek Homes (Ravines) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16562",
+            "Umbrella": "Legend Creek Homes",
+            "Umbrella ID": "12002670",
+            "VB_NAME": "Legend Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31490",
+            "MEMBERNAME": "1415475 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Legend Creek Homes ( Brownstones)",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16562",
+            "Umbrella": "Legend Creek Homes",
+            "Umbrella ID": "12002670",
+            "VB_NAME": "Legend Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38834",
+            "MEMBERNAME": "Legend Creek Homes (Upper Middle) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16562",
+            "Umbrella": "Legend Creek Homes",
+            "Umbrella ID": "12002670",
+            "VB_NAME": "Legend Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36621",
+            "MEMBERNAME": "Legend Creek Homes (Parkview) Ltd",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16562",
+            "Umbrella": "Legend Creek Homes",
+            "Umbrella ID": "12002670",
+            "VB_NAME": "Legend Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34146",
+            "MEMBERNAME": "Legend Creek Homes (Terrace) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16562",
+            "Umbrella": "Legend Creek Homes",
+            "Umbrella ID": "12002670",
+            "VB_NAME": "Legend Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34105",
+            "MEMBERNAME": "Legend Creek Homes (River Gate) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16562",
+            "Umbrella": "Legend Creek Homes",
+            "Umbrella ID": "12002670",
+            "VB_NAME": "Legend Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38144",
+            "MEMBERNAME": "Legend Homes (Coventry) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16562",
+            "Umbrella": "Legend Creek Homes",
+            "Umbrella ID": "12002670",
+            "VB_NAME": "Legend Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B16562",
+            "MEMBERNAME": "Legend Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16562",
+            "Umbrella": "Legend Creek Homes",
+            "Umbrella ID": "12002670",
+            "VB_NAME": "Legend Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35063",
+            "MEMBERNAME": "Legend Creek Homes (Bronte Creek) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

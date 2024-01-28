@@ -1,0 +1,139 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B17715",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Acorn Development Corporation",
+            "OPERATINGNAME": "Acorn Homes",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "1989-04-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-15 16:20:10.000 +0000",
+            "Expiry Date": "2024-08-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3500 Pharmacy Avenue Unit 1",
+            "TELEPHONE": "416-499-4900",
+            "FAX": "416-499-2423",
+            "WEBSITEURL": "http://acorndevelopments.com",
+            "EMAIL": "lmater@acorncorp.ca",
+            "ACCOUNTNUMBER": "B17715",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 585,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 585,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "323220",
+            "TO": "Paul Minz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-9000"
+        },
+        {
+            "TOUNIQUENUMBER": "323220",
+            "TO": "Paul Minz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-9000"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B17715",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Acorn Development Corporation",
+            "OPERATINGNAME": "Acorn Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Oak Knoll",
+            "Project Status": null,
+            "Location": "RICHMOND HILL",
+            "Address": "  Yonge And Bloomington ",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Sincerely, Acorn",
+            "Project Status": null,
+            "Location": "WHITBY",
+            "Address": " 665 Taunton Road ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "WESTBROOK GATE",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "255 Shaftesbury Ave.",
+            "# of Units": 67,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-07-28"
+        },
+        {
+            "Condo Project Name": "PEPPERHILL EAST TOWNHOME",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "190 Harding Blvd. W.",
+            "# of Units": 110,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-04-09"
+        },
+        {
+            "Condo Project Name": "PEPPERHILL WEST TOWNHOME",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "190 Harding Blvd. West",
+            "# of Units": 97,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-05-12"
+        },
+        {
+            "Condo Project Name": "SUMMERLIN",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "2 Mary Gapper Cres.",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-11-26"
+        },
+        {
+            "Condo Project Name": "WILSHIRE GATE",
+            "Project Status": "Completed",
+            "Location": "VAUGHAN",
+            "Address": "Beverly Glen Blvd",
+            "# of Units": 60,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1992-09-29"
+        }
+    ],
+    "builderConditions": []
+}

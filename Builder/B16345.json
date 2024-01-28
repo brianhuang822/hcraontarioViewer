@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B16345",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Coventry Park Of Niagara Ltd",
+            "OPERATINGNAME": null,
+            "CITY": "NIAGARA FALLS",
+            "HCRA_INITIALLICENSEDATE": "1976-01-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1990-01-21 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4673 Ontario Ave",
+            "TELEPHONE": "(416)357-0660",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "317755",
+            "TO": "Jakob D. Klassen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "314803",
+            "TO": "Paul R. Heath",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B16345",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Coventry Park Of Niagara Ltd",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": "6910 Kalar Rd.",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-03-16"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": "8136-41 Coventry Rd.",
+            "# of Units": 102,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-03-16"
+        }
+    ],
+    "builderConditions": []
+}

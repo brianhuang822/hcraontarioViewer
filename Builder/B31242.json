@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31242",
+            "Umbrella": "Northstone Homes",
+            "Umbrella ID": "12542410",
+            "VB_NAME": "Pathdale Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2001-06-04 22:57:20.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9251Yonge St.",
+            "TELEPHONE": "(416) 803-9980",
+            "FAX": "(416) 438-4611",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341851",
+            "TO": "Sam Gurrieri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-832-5725"
+        },
+        {
+            "TOUNIQUENUMBER": "341851",
+            "TO": "Sam Gurrieri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-832-5725"
+        },
+        {
+            "TOUNIQUENUMBER": "341851",
+            "TO": "Sam Gurrieri",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-832-5725"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31242",
+            "Umbrella": "Northstone Homes",
+            "Umbrella ID": "12542410",
+            "VB_NAME": "Pathdale Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B28585",
+            "MEMBERNAME": "Trilogy Homes & Renovations Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31242",
+            "Umbrella": "Northstone Homes",
+            "Umbrella ID": "12542410",
+            "VB_NAME": "Pathdale Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B25621",
+            "MEMBERNAME": "Trilogy Homes & Renovations Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31242",
+            "Umbrella": "Northstone Homes",
+            "Umbrella ID": "12542410",
+            "VB_NAME": "Pathdale Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B31242",
+            "MEMBERNAME": "Pathdale Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B31242",
+            "Umbrella": "Northstone Homes",
+            "Umbrella ID": "12542410",
+            "VB_NAME": "Pathdale Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B44175",
+            "MEMBERNAME": "Northstone Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38550",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "ASHLAR Construction LTD.",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2008-03-31",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2017-04-18 02:46:39.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "22 Huntview Private",
+            "TELEPHONE": "613-680-4663",
+            "FAX": "613-680-3547",
+            "WEBSITEURL": "www.ashlarhomes.ca",
+            "EMAIL": "stefan@ashlarhomes.ca",
+            "ACCOUNTNUMBER": "B38550",
+            "Total Outstanding Amount": 5827.3,
+            "TAB": 0,
+            "BREACH": 5827.3,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 59256.2,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 59256.2
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12278737",
+            "TO": "Stefan Hamed",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-680-4663"
+        },
+        {
+            "TOUNIQUENUMBER": "12278737",
+            "TO": "Stefan Hamed",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-680-4663"
+        },
+        {
+            "TOUNIQUENUMBER": "12278737",
+            "TO": "Stefan Hamed",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-680-4663"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38550",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "ASHLAR Construction LTD.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

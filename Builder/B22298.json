@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22298",
+            "Umbrella": "Les Habitations Robco",
+            "Umbrella ID": "12540605",
+            "VB_NAME": "Les Habitations Robco Ltee",
+            "OPERATINGNAME": null,
+            "CITY": "ROCKLAND",
+            "HCRA_INITIALLICENSEDATE": "1992-06-30",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1996-07-02 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2587 Cercle Des Cotes",
+            "TELEPHONE": "(613)446-4261",
+            "FAX": "(613)446-1116",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "301757",
+            "TO": "Colette Cleroux",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-446-4261"
+        },
+        {
+            "TOUNIQUENUMBER": "301752",
+            "TO": "Robert Cleroux",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-446-4261"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22298",
+            "Umbrella": "Les Habitations Robco",
+            "Umbrella ID": "12540605",
+            "VB_NAME": "Les Habitations Robco Ltee",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26558",
+            "MEMBERNAME": "Les Habitations Robco Ltee.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22298",
+            "Umbrella": "Les Habitations Robco",
+            "Umbrella ID": "12540605",
+            "VB_NAME": "Les Habitations Robco Ltee",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33746",
+            "MEMBERNAME": "Les Habitations Robco Ltee.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22298",
+            "Umbrella": "Les Habitations Robco",
+            "Umbrella ID": "12540605",
+            "VB_NAME": "Les Habitations Robco Ltee",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22298",
+            "MEMBERNAME": "Les Habitations Robco Ltee",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

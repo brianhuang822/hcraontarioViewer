@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46334",
+            "Umbrella": "Prica",
+            "Umbrella ID": "12547286",
+            "VB_NAME": "PGCM One Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Waterloo",
+            "HCRA_INITIALLICENSEDATE": "2017-10-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-10-17 04:15:28.000 +0000",
+            "Expiry Date": "2022-10-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "156 Columbia Street West",
+            "TELEPHONE": "519-340-0171",
+            "FAX": "519/886-1164",
+            "WEBSITEURL": " ",
+            "EMAIL": "Bmota@pricaglobal.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100327975",
+            "TO": "Ankica Prica",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-880-1224"
+        },
+        {
+            "TOUNIQUENUMBER": "100327974",
+            "TO": "Zeljko Prica",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-746-0095"
+        },
+        {
+            "TOUNIQUENUMBER": "100327974",
+            "TO": "Zeljko Prica",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-746-0095"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46334",
+            "Umbrella": "Prica",
+            "Umbrella ID": "12547286",
+            "VB_NAME": "PGCM One Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46332",
+            "MEMBERNAME": "Condos2Own Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46334",
+            "Umbrella": "Prica",
+            "Umbrella ID": "12547286",
+            "VB_NAME": "PGCM One Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46334",
+            "MEMBERNAME": "PGCM One Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

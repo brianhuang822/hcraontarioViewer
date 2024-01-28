@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36504",
+            "Umbrella": "Triumph Developments",
+            "Umbrella ID": "12507160",
+            "VB_NAME": "1217856 Ontario Ltd.",
+            "OPERATINGNAME": "Roncesvalles Lofts",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2006-04-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-04-20 15:01:42.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1 Connie St.",
+            "TELEPHONE": "416-534-8877",
+            "FAX": "416-534-8863",
+            "WEBSITEURL": "www.triumphinc.ca",
+            "EMAIL": "info@triumphinc.ca",
+            "ACCOUNTNUMBER": "B36504",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12143201",
+            "TO": "Mario Ribeiro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-534-8877"
+        },
+        {
+            "TOUNIQUENUMBER": "12143201",
+            "TO": "Mario Ribeiro",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-534-8877"
+        },
+        {
+            "TOUNIQUENUMBER": "12143201",
+            "TO": "Mario Ribeiro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-534-8877"
+        },
+        {
+            "TOUNIQUENUMBER": "12143203",
+            "TO": "Francisco Ribeiro",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-534-8877"
+        },
+        {
+            "TOUNIQUENUMBER": "12143203",
+            "TO": "Francisco Ribeiro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-534-8877"
+        },
+        {
+            "TOUNIQUENUMBER": "12143203",
+            "TO": "Francisco Ribeiro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-534-8877"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36504",
+            "Umbrella": "Triumph Developments",
+            "Umbrella ID": "12507160",
+            "VB_NAME": "1217856 Ontario Ltd.",
+            "OPERATINGNAME": "Roncesvalles Lofts",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36504",
+            "MEMBERNAME": "1217856 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Roncesvalles Lofts",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36504",
+            "Umbrella": "Triumph Developments",
+            "Umbrella ID": "12507160",
+            "VB_NAME": "1217856 Ontario Ltd.",
+            "OPERATINGNAME": "Roncesvalles Lofts",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41640",
+            "MEMBERNAME": "1858793 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Roncesvalles Lofts",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "25 Ritchie Ave.",
+            "# of Units": 51,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-01-14"
+        }
+    ],
+    "builderConditions": []
+}

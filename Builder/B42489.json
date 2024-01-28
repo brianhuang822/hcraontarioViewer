@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42489",
+            "Umbrella": "Renda Homes",
+            "Umbrella ID": "12540861",
+            "VB_NAME": "Renda Electric Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Niagara On The Lake",
+            "HCRA_INITIALLICENSEDATE": "2013-03-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-17 15:36:12.000 +0000",
+            "Expiry Date": "2024-11-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1401 Concession 6 Road",
+            "TELEPHONE": "905-688-8467",
+            "FAX": "905-356-4871",
+            "WEBSITEURL": " ",
+            "EMAIL": "356renda@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "328051",
+            "TO": "Frank Renda",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-8467"
+        },
+        {
+            "TOUNIQUENUMBER": "328051",
+            "TO": "Frank Renda",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-8467"
+        },
+        {
+            "TOUNIQUENUMBER": "328051",
+            "TO": "Frank Renda",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-8467"
+        },
+        {
+            "TOUNIQUENUMBER": "328052",
+            "TO": "Peggy Renda",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-8467"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42489",
+            "Umbrella": "Renda Homes",
+            "Umbrella ID": "12540861",
+            "VB_NAME": "Renda Electric Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42489",
+            "MEMBERNAME": "Renda Electric Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42489",
+            "Umbrella": "Renda Homes",
+            "Umbrella ID": "12540861",
+            "VB_NAME": "Renda Electric Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48011",
+            "MEMBERNAME": "2685235 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42489",
+            "Umbrella": "Renda Homes",
+            "Umbrella ID": "12540861",
+            "VB_NAME": "Renda Electric Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B16670",
+            "MEMBERNAME": "Renda Electric Ltd.",
+            "MEMBEROPERATINGNAME": "Welcome Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

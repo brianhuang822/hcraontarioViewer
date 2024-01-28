@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41618",
+            "Umbrella": "Quadcam Development Group",
+            "Umbrella ID": "12541433",
+            "VB_NAME": "Vista Parc Limited",
+            "OPERATINGNAME": null,
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2011-10-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-10-21 13:00:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "77 Woodstream Blvd.",
+            "TELEPHONE": "905/850-8883",
+            "FAX": "905/265-8105",
+            "WEBSITEURL": "www.vistaparc.ca",
+            "EMAIL": "jemac@quadcam.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 122,
+            "SUMM_TOTAL": 122,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12157573",
+            "TO": "Filippo Campione",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-8883"
+        },
+        {
+            "TOUNIQUENUMBER": "12157573",
+            "TO": "Filippo Campione",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-8883"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41618",
+            "Umbrella": "Quadcam Development Group",
+            "Umbrella ID": "12541433",
+            "VB_NAME": "Vista Parc Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41618",
+            "MEMBERNAME": "Vista Parc Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41618",
+            "Umbrella": "Quadcam Development Group",
+            "Umbrella ID": "12541433",
+            "VB_NAME": "Vista Parc Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46254",
+            "MEMBERNAME": "East 3220 Residences Inc., as general partner of and on behalf of East 3220 Residences Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41618",
+            "Umbrella": "Quadcam Development Group",
+            "Umbrella ID": "12541433",
+            "VB_NAME": "Vista Parc Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48698",
+            "MEMBERNAME": "The Westmount Boutique Residences Inc. as general partner of and on behalf of The Westmount Boutique Residences Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41618",
+            "Umbrella": "Quadcam Development Group",
+            "Umbrella ID": "12541433",
+            "VB_NAME": "Vista Parc Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43621",
+            "MEMBERNAME": "2800 Keele Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Vista Parc",
+            "Project Status": "Completed",
+            "Location": "WOODBRIDGE",
+            "Address": "4700 Highway 7",
+            "# of Units": 122,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-01-21"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,65 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Terry Kaufman Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": 16384.89,
+            "OUTSTANDINGAMTTAB": 0,
+            "BREACH": 16384.89,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "31B Industrial St.",
+            "TELEPHONE": "416/744-3236",
+            "FAX": "416/744-9875",
+            "WEBSITEURL": " ",
+            "EMAIL": "tkaufman@rogers-blackberry.net",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "1497601 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Westgate Village",
+            "MEMBERVBNUM": "B32933",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "995347 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Josh Construction",
+            "MEMBERVBNUM": "B28413",
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "MEMBERNAME": "573521 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Josh Developments",
+            "MEMBERVBNUM": "B9087",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "WESTGATE VILLAGE",
+            "Account Number": "B32933",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 1530 Weston Rd. ",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-11-23"
+        }
+    ]
+}

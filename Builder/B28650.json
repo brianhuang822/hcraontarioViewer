@@ -1,0 +1,152 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28650",
+            "Umbrella": "Taro Homes",
+            "Umbrella ID": "12327",
+            "VB_NAME": "1340303 Ontario Inc.",
+            "OPERATINGNAME": "Maracay Taro Homes",
+            "CITY": "ST. CATHARINES",
+            "HCRA_INITIALLICENSEDATE": "1999-12-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-12-18 13:31:23.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "c/o Maracay Taro Homes",
+            "TELEPHONE": "(905)688-4555",
+            "FAX": "(905)684-7801",
+            "WEBSITEURL": null,
+            "EMAIL": "canopy@idirect.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345543",
+            "TO": "Ken Gonyou",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "345542",
+            "TO": "Leslie Phillips",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "345542",
+            "TO": "Leslie Phillips",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "311564",
+            "TO": "Douglas Fowler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-4555"
+        },
+        {
+            "TOUNIQUENUMBER": "311564",
+            "TO": "Douglas Fowler",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-4555"
+        },
+        {
+            "TOUNIQUENUMBER": "311564",
+            "TO": "Douglas Fowler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-4555"
+        },
+        {
+            "TOUNIQUENUMBER": "335995",
+            "TO": "Donald J. Ward",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-646-2060"
+        },
+        {
+            "TOUNIQUENUMBER": "335995",
+            "TO": "Donald J. Ward",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-646-2060"
+        },
+        {
+            "TOUNIQUENUMBER": "335995",
+            "TO": "Donald J. Ward",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-646-2060"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28650",
+            "Umbrella": "Taro Homes",
+            "Umbrella ID": "12327",
+            "VB_NAME": "1340303 Ontario Inc.",
+            "OPERATINGNAME": "Maracay Taro Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28654",
+            "MEMBERNAME": "Victoria Shores Developments Inc.",
+            "MEMBEROPERATINGNAME": "Victoria Shores",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28650",
+            "Umbrella": "Taro Homes",
+            "Umbrella ID": "12327",
+            "VB_NAME": "1340303 Ontario Inc.",
+            "OPERATINGNAME": "Maracay Taro Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28650",
+            "MEMBERNAME": "1340303 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Maracay Taro Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28650",
+            "Umbrella": "Taro Homes",
+            "Umbrella ID": "12327",
+            "VB_NAME": "1340303 Ontario Inc.",
+            "OPERATINGNAME": "Maracay Taro Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22130",
+            "MEMBERNAME": "Ladson Properties Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "VICTORY WALK CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": "  Sculler's Way ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-12-19"
+        }
+    ],
+    "builderConditions": []
+}

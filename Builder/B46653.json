@@ -1,0 +1,153 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46653",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Altona) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Pickering",
+            "HCRA_INITIALLICENSEDATE": "2017-12-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-12-24 04:15:16.000 +0000",
+            "Expiry Date": "2021-12-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1295 Wharf Street, Unit 9",
+            "TELEPHONE": "905-420-1500",
+            "FAX": "905-420-1600",
+            "WEBSITEURL": "www.marshallhomes.ca",
+            "EMAIL": "michelle@marshallhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 27,
+            "SUMM_TOTAL": 27,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "300749",
+            "TO": "James Alexander Aird",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-598-2129"
+        },
+        {
+            "TOUNIQUENUMBER": "300749",
+            "TO": "James Alexander Aird",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-598-2129"
+        },
+        {
+            "TOUNIQUENUMBER": "338504",
+            "TO": "Craig Marshall",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-420-1500"
+        },
+        {
+            "TOUNIQUENUMBER": "338504",
+            "TO": "Craig Marshall",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-420-1500"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46653",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Altona) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22943",
+            "MEMBERNAME": "Marshall Homes Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46653",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Altona) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60453",
+            "MEMBERNAME": "Marshall Homes (Cobourg) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46653",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Altona) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33385",
+            "MEMBERNAME": "Marshall Homes (Village) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46653",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Altona) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46653",
+            "MEMBERNAME": "Marshall Homes (Altona) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46653",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Altona) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44749",
+            "MEMBERNAME": "Marshall Homes (Centre Point) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46653",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Altona) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36141",
+            "MEMBERNAME": "Port 32 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Altona Towns",
+            "Project Status": "Completed",
+            "Location": "PICKERING",
+            "Address": " 1956 Altona Rd. ",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-06-24"
+        }
+    ],
+    "builderConditions": []
+}

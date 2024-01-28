@@ -1,0 +1,131 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Darcel Developers",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "3625 Dufferin St., Ste. 105",
+            "TELEPHONE": "(416)638-3111",
+            "FAX": "(416)638-9973",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Rosapac Devs. Inc. & Fayette Devs. Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B4896",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "St. Vincent Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31266",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dexfield Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8766",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "TOWNHOMES ON THE PARK PHASE II",
+            "Account Number": "B4896",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "200 Cresthaven Rd.",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-02-18"
+        },
+        {
+            "Condo Project Name": "TOWNHOMES ON THE PARK PHASE I",
+            "Account Number": "B4896",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "200 Cresthaven Rd.",
+            "# of Units": 66,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-05-25"
+        },
+        {
+            "Condo Project Name": "SHIRLEY PLACE",
+            "Account Number": "B8766",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "1 TO 10 Shirley Place",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-11-05"
+        },
+        {
+            "Condo Project Name": null,
+            "Account Number": "B4896",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "Orchard Place",
+            "# of Units": 110,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1981-10-01"
+        },
+        {
+            "Condo Project Name": null,
+            "Account Number": "B4896",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "Orchard Pl",
+            "# of Units": 0,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1981-10-01"
+        },
+        {
+            "Condo Project Name": null,
+            "Account Number": "B4896",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "2 Margate Cres.",
+            "# of Units": 168,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1979-04-20"
+        },
+        {
+            "Condo Project Name": null,
+            "Account Number": "B4896",
+            "Project Status": "Completed",
+            "Location": "BRAMALEA",
+            "Address": "Parkview Crt.",
+            "# of Units": 98,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1977-10-15"
+        }
+    ]
+}

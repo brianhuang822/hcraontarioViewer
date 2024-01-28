@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44318",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Citywide Construction Management Ltd.",
+            "OPERATINGNAME": "Halcyon Homes",
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2015-05-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-09 14:19:34.000 +0000",
+            "Expiry Date": "2024-05-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "148 Fullarton Street",
+            "TELEPHONE": "519-933-2226",
+            "FAX": "519-649-2010",
+            "WEBSITEURL": "www.halcyonbuilt.com",
+            "EMAIL": "andrew@halcyonbuilt.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 22,
+            "SUMM_CONDO": 1,
+            "SUMM_TOTAL": 23,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008036",
+            "TO": "Andrew Dawe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-933-2226"
+        },
+        {
+            "TOUNIQUENUMBER": "600008036",
+            "TO": "Andrew Dawe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-933-2226"
+        },
+        {
+            "TOUNIQUENUMBER": "600008037",
+            "TO": "Nicholas Trevail",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-824-3192"
+        },
+        {
+            "TOUNIQUENUMBER": "100289867",
+            "TO": "Matthew Dawe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-859-0454"
+        },
+        {
+            "TOUNIQUENUMBER": "100289867",
+            "TO": "Matthew Dawe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-859-0454"
+        },
+        {
+            "TOUNIQUENUMBER": "100289867",
+            "TO": "Matthew Dawe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-859-0454"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44318",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Citywide Construction Management Ltd.",
+            "OPERATINGNAME": "Halcyon Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "North Forest Village",
+            "Project Status": "In Progress",
+            "Location": "AYLMER",
+            "Address": " 85 Forest Street ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

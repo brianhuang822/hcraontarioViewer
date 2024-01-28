@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44113",
+            "Umbrella": "Castle Manor Homes",
+            "Umbrella ID": "12363210",
+            "VB_NAME": "Rainbow Heights Estates Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "VAUGHAN",
+            "HCRA_INITIALLICENSEDATE": "2015-05-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-05-06 12:01:02.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "166 Gentile Cir.",
+            "TELEPHONE": "905/605-5655",
+            "FAX": "905/605-6755",
+            "WEBSITEURL": "www.castlemanorhomes.ca",
+            "EMAIL": "tony@castlemanorhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12339649",
+            "TO": "Antonio Gentile",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-605-5655"
+        },
+        {
+            "TOUNIQUENUMBER": "12339649",
+            "TO": "Antonio Gentile",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-605-5655"
+        },
+        {
+            "TOUNIQUENUMBER": "12339649",
+            "TO": "Antonio Gentile",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-605-5655"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44113",
+            "Umbrella": "Castle Manor Homes",
+            "Umbrella ID": "12363210",
+            "VB_NAME": "Rainbow Heights Estates Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48993",
+            "MEMBERNAME": "Rainbow Heights Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44113",
+            "Umbrella": "Castle Manor Homes",
+            "Umbrella ID": "12363210",
+            "VB_NAME": "Rainbow Heights Estates Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39414",
+            "MEMBERNAME": "Castle Manor Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44113",
+            "Umbrella": "Castle Manor Homes",
+            "Umbrella ID": "12363210",
+            "VB_NAME": "Rainbow Heights Estates Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39502",
+            "MEMBERNAME": "The Ravines of Rainbow Creek Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44113",
+            "Umbrella": "Castle Manor Homes",
+            "Umbrella ID": "12363210",
+            "VB_NAME": "Rainbow Heights Estates Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44113",
+            "MEMBERNAME": "Rainbow Heights Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

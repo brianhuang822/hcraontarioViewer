@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48845",
+            "Umbrella": "M.E.C",
+            "Umbrella ID": "12553082",
+            "VB_NAME": "Eggleston Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "St. Thomas",
+            "HCRA_INITIALLICENSEDATE": "2021-01-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-30 21:44:13.000 +0000",
+            "Expiry Date": "2025-01-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "13 Croatia Court",
+            "TELEPHONE": "519-495-0670",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "markeggleston@hotmail.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100676198",
+            "TO": "Cole Eggleston",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "100676198",
+            "TO": "Cole Eggleston",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "100676195",
+            "TO": "Donna Slizewski",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-0670"
+        },
+        {
+            "TOUNIQUENUMBER": "100676195",
+            "TO": "Donna Slizewski",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-0670"
+        },
+        {
+            "TOUNIQUENUMBER": "344026",
+            "TO": "Mark Eggleston",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-637-0897"
+        },
+        {
+            "TOUNIQUENUMBER": "344026",
+            "TO": "Mark Eggleston",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-637-0897"
+        },
+        {
+            "TOUNIQUENUMBER": "344026",
+            "TO": "Mark Eggleston",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-637-0897"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48845",
+            "Umbrella": "M.E.C",
+            "Umbrella ID": "12553082",
+            "VB_NAME": "Eggleston Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27550",
+            "MEMBERNAME": "Mark Eggleston",
+            "MEMBEROPERATINGNAME": "Mark Eggleston Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48845",
+            "Umbrella": "M.E.C",
+            "Umbrella ID": "12553082",
+            "VB_NAME": "Eggleston Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48845",
+            "MEMBERNAME": "Eggleston Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35732",
+            "Umbrella": "Ashgrove Estates",
+            "Umbrella ID": "12540039",
+            "VB_NAME": "Ashgrove Estates Inc.",
+            "OPERATINGNAME": "The Glens",
+            "CITY": "MARKHAM",
+            "HCRA_INITIALLICENSEDATE": "2005-08-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-09-10 21:40:44.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "130 Denison St., Unit B",
+            "TELEPHONE": "(905) 940-8345",
+            "FAX": "(905) 940-1913",
+            "WEBSITEURL": null,
+            "EMAIL": "sam@geistproperties.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12084177",
+            "TO": "Jon Kulas Geist",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-551-0098"
+        },
+        {
+            "TOUNIQUENUMBER": "12084176",
+            "TO": "Samantha Mercado",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-940-8345 ext 2"
+        },
+        {
+            "TOUNIQUENUMBER": "12084176",
+            "TO": "Samantha Mercado",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-940-8345 ext 2"
+        },
+        {
+            "TOUNIQUENUMBER": "11862890",
+            "TO": "Geoffrey Steinberg",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-622-7000"
+        },
+        {
+            "TOUNIQUENUMBER": "11862890",
+            "TO": "Geoffrey Steinberg",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-622-7000"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35732",
+            "Umbrella": "Ashgrove Estates",
+            "Umbrella ID": "12540039",
+            "VB_NAME": "Ashgrove Estates Inc.",
+            "OPERATINGNAME": "The Glens",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33040",
+            "MEMBERNAME": "Diplomat Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35732",
+            "Umbrella": "Ashgrove Estates",
+            "Umbrella ID": "12540039",
+            "VB_NAME": "Ashgrove Estates Inc.",
+            "OPERATINGNAME": "The Glens",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35732",
+            "MEMBERNAME": "Ashgrove Estates Inc.",
+            "MEMBEROPERATINGNAME": "The Glens",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

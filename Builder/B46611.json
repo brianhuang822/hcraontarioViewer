@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46611",
+            "Umbrella": "Nirvana Homes",
+            "Umbrella ID": "12547615",
+            "VB_NAME": "The Brealey Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "BRAMPTON",
+            "HCRA_INITIALLICENSEDATE": "2018-02-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-02-17 04:15:14.000 +0000",
+            "Expiry Date": "2022-02-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5 Brisdale Dr., Unit 201",
+            "TELEPHONE": "416-456-2021",
+            "FAX": "705-775-2100",
+            "WEBSITEURL": "http://Nirvana.ca",
+            "EMAIL": "rubal@nirvanahomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 14,
+            "SUMM_TOTAL": 14,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100307924",
+            "TO": "Rubal Kundra",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-775-2100"
+        },
+        {
+            "TOUNIQUENUMBER": "100307924",
+            "TO": "Rubal Kundra",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-775-2100"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46611",
+            "Umbrella": "Nirvana Homes",
+            "Umbrella ID": "12547615",
+            "VB_NAME": "The Brealey Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46611",
+            "MEMBERNAME": "The Brealey Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46611",
+            "Umbrella": "Nirvana Homes",
+            "Umbrella ID": "12547615",
+            "VB_NAME": "The Brealey Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44581",
+            "MEMBERNAME": "Nirvana Homes Peterborough Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46611",
+            "Umbrella": "Nirvana Homes",
+            "Umbrella ID": "12547615",
+            "VB_NAME": "The Brealey Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47815",
+            "MEMBERNAME": "Rubal Kundra",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Brealey Homes",
+            "Project Status": "In Progress",
+            "Location": "PETERBOROUGH",
+            "Address": " 540 Brealey Drive ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

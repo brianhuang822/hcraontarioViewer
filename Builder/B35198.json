@@ -1,0 +1,121 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35198",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Spadina Bloor Developments Limited",
+            "OPERATINGNAME": "736 Spadina Avenue- The Mosaic",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2005-03-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-03-31 23:35:45.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "64 Merton St.",
+            "TELEPHONE": "416-481-7002",
+            "FAX": "416-481-7003",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1600,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1600
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12048143",
+            "TO": "David Green",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-544-4824"
+        },
+        {
+            "TOUNIQUENUMBER": "12048143",
+            "TO": "David Green",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-544-4824"
+        },
+        {
+            "TOUNIQUENUMBER": "12048137",
+            "TO": "Earl Gorman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-322-0733"
+        },
+        {
+            "TOUNIQUENUMBER": "12048137",
+            "TO": "Earl Gorman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-322-0733"
+        },
+        {
+            "TOUNIQUENUMBER": "313606",
+            "TO": "Abraham J. Green",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313606",
+            "TO": "Abraham J. Green",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "340692",
+            "TO": "George Grossman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-2900"
+        },
+        {
+            "TOUNIQUENUMBER": "340692",
+            "TO": "George Grossman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-2900"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35198",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Spadina Bloor Developments Limited",
+            "OPERATINGNAME": "736 Spadina Avenue- The Mosaic",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE MOSAIC",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "736 Spadina Ave.",
+            "# of Units": 218,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-06-26"
+        }
+    ],
+    "builderConditions": []
+}

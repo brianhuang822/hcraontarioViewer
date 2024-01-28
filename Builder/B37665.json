@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37665",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Silver Homes Limited",
+            "OPERATINGNAME": "Bridgeview Place",
+            "CITY": "SAULT STE MARIE",
+            "HCRA_INITIALLICENSEDATE": "2007-05-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-05-24 15:00:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "452 Albert St. E.",
+            "TELEPHONE": "705-949-4085",
+            "FAX": "705-949-4525",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "327215",
+            "TO": "Sam Pringle",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "327215",
+            "TO": "Sam Pringle",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "327215",
+            "TO": "Sam Pringle",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "321521",
+            "TO": "Reg Martin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-949-4085"
+        },
+        {
+            "TOUNIQUENUMBER": "321521",
+            "TO": "Reg Martin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-949-4085"
+        },
+        {
+            "TOUNIQUENUMBER": "321521",
+            "TO": "Reg Martin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-949-4085"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37665",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Silver Homes Limited",
+            "OPERATINGNAME": "Bridgeview Place",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Bridgeview Place",
+            "Project Status": "Completed",
+            "Location": "SAULT STE MARIE",
+            "Address": "719 Bay St.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-01-18"
+        }
+    ],
+    "builderConditions": []
+}

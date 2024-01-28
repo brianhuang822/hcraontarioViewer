@@ -1,0 +1,123 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41245",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2279667 Ontario Inc.",
+            "OPERATINGNAME": "New Amherst Homes",
+            "CITY": "Cobourg",
+            "HCRA_INITIALLICENSEDATE": "2023-09-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-07 20:01:15.000 +0000",
+            "Expiry Date": "2024-09-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "950 New Amherst Boulevard",
+            "TELEPHONE": "905-372-1406",
+            "FAX": "905-372-7186",
+            "WEBSITEURL": "https://www.newamhersthomes.com",
+            "EMAIL": "elissa@planmaster.ca",
+            "ACCOUNTNUMBER": "B41245",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 194,
+            "SUMM_CONDO": 7,
+            "SUMM_TOTAL": 201,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12399912",
+            "TO": "Max LeMarchant",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-376-2695"
+        },
+        {
+            "TOUNIQUENUMBER": "12399912",
+            "TO": "Max LeMarchant",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-376-2695"
+        },
+        {
+            "TOUNIQUENUMBER": "12399912",
+            "TO": "Max LeMarchant",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-376-2695"
+        },
+        {
+            "TOUNIQUENUMBER": "100602823",
+            "TO": "Elissa Mountney",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-372-1406"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41245",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2279667 Ontario Inc.",
+            "OPERATINGNAME": "New Amherst Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "New Amherst",
+            "Project Status": null,
+            "Location": "COBOURG",
+            "Address": " 950 New Amherst Blvd. ",
+            "# of Units": 82,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "New Amherst",
+            "Project Status": null,
+            "Location": "COBOURG",
+            "Address": "   ",
+            "# of Units": 55,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "New Amherst",
+            "Project Status": "In Progress",
+            "Location": "COBOURG",
+            "Address": " 842, 844, 846, 848, 850 Joan Chalovich Way ",
+            "# of Units": 61,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "New Amherst",
+            "Project Status": "In Progress",
+            "Location": "COBOURG",
+            "Address": " 950 New Amherst Blvd. ",
+            "# of Units": 108,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

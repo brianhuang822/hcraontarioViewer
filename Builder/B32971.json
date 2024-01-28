@@ -1,0 +1,138 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32971",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Prominent Homes Inc.",
+            "OPERATINGNAME": "Prominent Homes",
+            "CITY": "Simcoe",
+            "HCRA_INITIALLICENSEDATE": "2002-11-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-26 16:49:50.000 +0000",
+            "Expiry Date": "2024-11-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "363 Ireland Road",
+            "TELEPHONE": "519-426-9186",
+            "FAX": "519-426-4618",
+            "WEBSITEURL": "www.prominenthomesont.com",
+            "EMAIL": "nettie@phomes.ca",
+            "ACCOUNTNUMBER": "B32971",
+            "Total Outstanding Amount": 307.89,
+            "TAB": 307.89,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 152,
+            "SUMM_CONDO": 26,
+            "SUMM_TOTAL": 178,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600013457",
+            "TO": "Rikki-Lee Bunting",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-426-9186"
+        },
+        {
+            "TOUNIQUENUMBER": "600013457",
+            "TO": "Rikki-Lee Bunting",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-426-9186"
+        },
+        {
+            "TOUNIQUENUMBER": "11853308",
+            "TO": "Brian Douglas Bunting",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-426-9186"
+        },
+        {
+            "TOUNIQUENUMBER": "12263044",
+            "TO": "Nettie Culver",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-426-9186"
+        },
+        {
+            "TOUNIQUENUMBER": "11853309",
+            "TO": "Debra Louise Bunting",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-426-9186"
+        },
+        {
+            "TOUNIQUENUMBER": "11853309",
+            "TO": "Debra Louise Bunting",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-426-9186"
+        },
+        {
+            "TOUNIQUENUMBER": "11853309",
+            "TO": "Debra Louise Bunting",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-426-9186"
+        },
+        {
+            "TOUNIQUENUMBER": "12263046",
+            "TO": "Samuel Bunting",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-426-9186"
+        },
+        {
+            "TOUNIQUENUMBER": "12263046",
+            "TO": "Samuel Bunting",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-426-9186"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32971",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Prominent Homes Inc.",
+            "OPERATINGNAME": "Prominent Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Fairway Estates(Norfolk Condo Corp.No.24)",
+            "Project Status": null,
+            "Location": "NORFOLK",
+            "Address": "89 St. Michael's St.",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Eden Hill Condominiums",
+            "Project Status": "Completed",
+            "Location": "WATERFORD",
+            "Address": " 1-26 Winterberry Lane ",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-11-05"
+        }
+    ],
+    "builderConditions": []
+}

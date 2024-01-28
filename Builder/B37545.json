@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37545",
+            "Umbrella": "Fedco Construction Group",
+            "Umbrella ID": "12045",
+            "VB_NAME": "Mansoura Development Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2007-05-08",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2023-08-11 04:00:00.000 +0000",
+            "Expiry Date": "2022-05-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "111 Gordon Baker Rd. Ste. 510",
+            "TELEPHONE": "416-499-4544",
+            "FAX": "416-499-4535",
+            "WEBSITEURL": "www.mansouradevelopment.com",
+            "EMAIL": "mansouradevelopment@bellnet.ca",
+            "ACCOUNTNUMBER": "B37545",
+            "Total Outstanding Amount": 239111.35,
+            "TAB": 0,
+            "BREACH": 239111.35,
+            "SUMM_FREEHOLD": 62,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 62,
+            "SUMM_CC": 7,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 5799.6,
+            "SUMM_MAJOR": 2,
+            "SUMM_MAJOR_AMT": 233011,
+            "SUMM_TOTAL_CLAIMS": 238810.6
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "310710",
+            "TO": "Edmund Farrage",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-499-4899"
+        },
+        {
+            "TOUNIQUENUMBER": "310710",
+            "TO": "Edmund Farrage",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-499-4899"
+        },
+        {
+            "TOUNIQUENUMBER": "310710",
+            "TO": "Edmund Farrage",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-499-4899"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37545",
+            "Umbrella": "Fedco Construction Group",
+            "Umbrella ID": "12045",
+            "VB_NAME": "Mansoura Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B27752",
+            "MEMBERNAME": "Fedco Construction Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37545",
+            "Umbrella": "Fedco Construction Group",
+            "Umbrella ID": "12045",
+            "VB_NAME": "Mansoura Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B37545",
+            "MEMBERNAME": "Mansoura Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B37545",
+            "Umbrella": "Fedco Construction Group",
+            "Umbrella ID": "12045",
+            "VB_NAME": "Mansoura Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B21515",
+            "MEMBERNAME": "Edmond Farrage",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Parkhill Towns",
+            "Project Status": null,
+            "Location": "BARRIE",
+            "Address": " 199 Ardagh Rd. ",
+            "# of Units": 47,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

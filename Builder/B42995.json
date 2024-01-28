@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42995",
+            "Umbrella": "Uncle Sam's Home",
+            "Umbrella ID": "12543161",
+            "VB_NAME": "Massoud Hanna, Michel Maatouk, Antonios Maatouk",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2013-08-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-08-03 12:00:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "124 Clarendon Ave.",
+            "TELEPHONE": "613/261-2233",
+            "FAX": "613/746-2454",
+            "WEBSITEURL": " ",
+            "EMAIL": "priderock@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100176066",
+            "TO": "Antonios Maatouk",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-261-4466"
+        },
+        {
+            "TOUNIQUENUMBER": "100176063",
+            "TO": "Michel Maatouk",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-261-3366"
+        },
+        {
+            "TOUNIQUENUMBER": "100176056",
+            "TO": "Massoud (Sam) Hanna",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-261-2233"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42995",
+            "Umbrella": "Uncle Sam's Home",
+            "Umbrella ID": "12543161",
+            "VB_NAME": "Massoud Hanna, Michel Maatouk, Antonios Maatouk",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42995",
+            "MEMBERNAME": "Massoud Hanna, Michel Maatouk, Antonios Maatouk",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42995",
+            "Umbrella": "Uncle Sam's Home",
+            "Umbrella ID": "12543161",
+            "VB_NAME": "Massoud Hanna, Michel Maatouk, Antonios Maatouk",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44523",
+            "MEMBERNAME": "Massoud Sam Hanna",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

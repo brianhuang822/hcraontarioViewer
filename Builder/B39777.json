@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39777",
+            "Umbrella": "Theberge Homes",
+            "Umbrella ID": "12391293",
+            "VB_NAME": "Theberge Developments (Westboro) Limited",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2009-10-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-10-20 13:00:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1600 Laperriere Ave., Unit 205",
+            "TELEPHONE": "613/421-1515",
+            "FAX": "613/695-1944",
+            "WEBSITEURL": "www.thebergehomes.com",
+            "EMAIL": "joeytheberge@thebergehomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12338191",
+            "TO": "Joey Theberge",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-851-7748"
+        },
+        {
+            "TOUNIQUENUMBER": "12338191",
+            "TO": "Joey Theberge",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-851-7748"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39777",
+            "Umbrella": "Theberge Homes",
+            "Umbrella ID": "12391293",
+            "VB_NAME": "Theberge Developments (Westboro) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39777",
+            "MEMBERNAME": "Theberge Developments (Westboro) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39777",
+            "Umbrella": "Theberge Homes",
+            "Umbrella ID": "12391293",
+            "VB_NAME": "Theberge Developments (Westboro) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40641",
+            "MEMBERNAME": "Westwood Hills Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39777",
+            "Umbrella": "Theberge Homes",
+            "Umbrella ID": "12391293",
+            "VB_NAME": "Theberge Developments (Westboro) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39404",
+            "MEMBERNAME": "Theberge Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Westboro",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "1433 Wellington St. West",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-05-18"
+        }
+    ],
+    "builderConditions": []
+}

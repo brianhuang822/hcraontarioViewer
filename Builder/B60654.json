@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60654",
+            "Umbrella": "Ramcon",
+            "Umbrella ID": "500000848",
+            "VB_NAME": "2535724 Ontario Inc.",
+            "OPERATINGNAME": "2535724 Ontario Inc.",
+            "CITY": "Stouffville",
+            "HCRA_INITIALLICENSEDATE": "2021-11-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-30 05:00:00.000 +0000",
+            "Expiry Date": "2024-12-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5 Fortecon Drive",
+            "TELEPHONE": "905-773-0507",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "sandra@ramcon.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 6,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100293277",
+            "TO": "Robert Marzilli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-457-0544"
+        },
+        {
+            "TOUNIQUENUMBER": "100293277",
+            "TO": "Robert Marzilli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-457-0544"
+        },
+        {
+            "TOUNIQUENUMBER": "100293277",
+            "TO": "Robert Marzilli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-457-0544"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60654",
+            "Umbrella": "Ramcon",
+            "Umbrella ID": "500000848",
+            "VB_NAME": "2535724 Ontario Inc.",
+            "OPERATINGNAME": "2535724 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60654",
+            "MEMBERNAME": "2535724 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2535724 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The 11 on Charles",
+            "Project Status": "In Progress",
+            "Location": "NEWMARKET",
+            "Address": " 55 and 59 Charles Street ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47106",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kalovida Canada Inc.",
+            "OPERATINGNAME": "Rafik Salib",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2018-10-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-25 14:17:03.000 +0000",
+            "Expiry Date": "2024-10-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "24 Mercer Street",
+            "TELEPHONE": "416-598-1024",
+            "FAX": "416-593-1024",
+            "WEBSITEURL": "www.kalovida.ca",
+            "EMAIL": "rafik.salib@kalovida.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100509478",
+            "TO": "Khaled El-Toukhy",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "chancellor@must.edu.eg"
+        },
+        {
+            "TOUNIQUENUMBER": "100509468",
+            "TO": "Rafik Salib",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-598-1024"
+        },
+        {
+            "TOUNIQUENUMBER": "100509468",
+            "TO": "Rafik Salib",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-598-1024"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47106",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kalovida Canada Inc.",
+            "OPERATINGNAME": "Rafik Salib",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Bungalow On Mercer",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 24-26 Mercer St. ",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

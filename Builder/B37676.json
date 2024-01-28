@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37676",
+            "Umbrella": "Trican Homes",
+            "Umbrella ID": "12541723",
+            "VB_NAME": "Trican Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "SCARBOROUGH",
+            "HCRA_INITIALLICENSEDATE": "2007-05-11",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "2007-10-24 21:56:08.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "919 Ellesmere Rd., Ste. 201",
+            "TELEPHONE": "416-785-0899",
+            "FAX": "416-785-6128",
+            "WEBSITEURL": null,
+            "EMAIL": "rabdool@tricanconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12220616",
+            "TO": "Rick Abdool",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-836-7600"
+        },
+        {
+            "TOUNIQUENUMBER": "12220616",
+            "TO": "Rick Abdool",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-836-7600"
+        },
+        {
+            "TOUNIQUENUMBER": "12220616",
+            "TO": "Rick Abdool",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-836-7600"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37676",
+            "Umbrella": "Trican Homes",
+            "Umbrella ID": "12541723",
+            "VB_NAME": "Trican Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B43793",
+            "MEMBERNAME": "Trican Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37676",
+            "Umbrella": "Trican Homes",
+            "Umbrella ID": "12541723",
+            "VB_NAME": "Trican Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B37676",
+            "MEMBERNAME": "Trican Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

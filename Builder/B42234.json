@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42234",
+            "Umbrella": "Oligo Properties",
+            "Umbrella ID": "12229160",
+            "VB_NAME": "OCS Holdings Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Embrun",
+            "HCRA_INITIALLICENSEDATE": "2012-09-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-23 19:05:56.000 +0000",
+            "Expiry Date": "2024-09-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "996 St-Augustin Road",
+            "TELEPHONE": "613-443-3575",
+            "FAX": null,
+            "WEBSITEURL": "www.oligogroup.com",
+            "EMAIL": "accounting@oligogroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 5,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12215063",
+            "TO": "Eric Brisson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-443-3575"
+        },
+        {
+            "TOUNIQUENUMBER": "12215063",
+            "TO": "Eric Brisson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-443-3575"
+        },
+        {
+            "TOUNIQUENUMBER": "12215063",
+            "TO": "Eric Brisson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-443-3575"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42234",
+            "Umbrella": "Oligo Properties",
+            "Umbrella ID": "12229160",
+            "VB_NAME": "OCS Holdings Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37558",
+            "MEMBERNAME": "Oligo Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42234",
+            "Umbrella": "Oligo Properties",
+            "Umbrella ID": "12229160",
+            "VB_NAME": "OCS Holdings Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42234",
+            "MEMBERNAME": "OCS Holdings Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Loux Landing",
+            "Project Status": "Completed",
+            "Location": "RUSSELL",
+            "Address": "476 Church St.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-11-06"
+        }
+    ],
+    "builderConditions": []
+}

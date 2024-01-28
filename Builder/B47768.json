@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47768",
+            "Umbrella": "The TVM Group",
+            "Umbrella ID": "12552295",
+            "VB_NAME": "TVM 195 Hunter Street East Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2019-08-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-18 14:16:31.000 +0000",
+            "Expiry Date": "2024-08-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "801 Eglinton Avenue West",
+            "TELEPHONE": "416-256-4394",
+            "FAX": "416-781-0776",
+            "WEBSITEURL": "www.tvm.ca",
+            "EMAIL": "asofer@tvm.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100286308",
+            "TO": "Tammy Sofer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-4394"
+        },
+        {
+            "TOUNIQUENUMBER": "100286307",
+            "TO": "Amit Sofer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-4394"
+        },
+        {
+            "TOUNIQUENUMBER": "100286307",
+            "TO": "Amit Sofer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-4394"
+        },
+        {
+            "TOUNIQUENUMBER": "100286307",
+            "TO": "Amit Sofer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-4394"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47768",
+            "Umbrella": "The TVM Group",
+            "Umbrella ID": "12552295",
+            "VB_NAME": "TVM 195 Hunter Street East Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47768",
+            "MEMBERNAME": "TVM 195 Hunter Street East Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47768",
+            "Umbrella": "The TVM Group",
+            "Umbrella ID": "12552295",
+            "VB_NAME": "TVM 195 Hunter Street East Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61340",
+            "MEMBERNAME": "Metrosuite Inc.",
+            "MEMBEROPERATINGNAME": "Metrosuite Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47768",
+            "Umbrella": "The TVM Group",
+            "Umbrella ID": "12552295",
+            "VB_NAME": "TVM 195 Hunter Street East Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44300",
+            "MEMBERNAME": "TVM Cobourg Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "East City Condos",
+            "Project Status": "In Progress",
+            "Location": "PETERBOROUGH",
+            "Address": " 195 Hunter Street East ",
+            "# of Units": 93,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

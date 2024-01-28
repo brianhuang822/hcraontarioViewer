@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24186",
+            "Umbrella": "Royal Brook Homes",
+            "Umbrella ID": "11373",
+            "VB_NAME": "Cynthia Lynn Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "BRADFORD",
+            "HCRA_INITIALLICENSEDATE": "1994-07-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2002-07-05 12:33:32.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "239 Holland St. W.",
+            "TELEPHONE": "(905)853-5955",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "333915",
+            "TO": "John Tomasone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-775-4545"
+        },
+        {
+            "TOUNIQUENUMBER": "333915",
+            "TO": "John Tomasone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-775-4545"
+        },
+        {
+            "TOUNIQUENUMBER": "333915",
+            "TO": "John Tomasone",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-775-4545"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24186",
+            "Umbrella": "Royal Brook Homes",
+            "Umbrella ID": "11373",
+            "VB_NAME": "Cynthia Lynn Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24186",
+            "MEMBERNAME": "Cynthia Lynn Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B24186",
+            "Umbrella": "Royal Brook Homes",
+            "Umbrella ID": "11373",
+            "VB_NAME": "Cynthia Lynn Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28023",
+            "MEMBERNAME": "Royal Brook Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

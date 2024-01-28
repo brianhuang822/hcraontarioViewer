@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B6447",
+            "Umbrella": "Brancato Construction",
+            "Umbrella ID": "12541764",
+            "VB_NAME": "Brancato Construction Co.Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "PICKERING",
+            "HCRA_INITIALLICENSEDATE": "1979-04-06",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "1992-06-30 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "519 Oakwood Dr.",
+            "TELEPHONE": "(416)282-5556",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "303969",
+            "TO": "Mavro Jim Brancato",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "303971",
+            "TO": "Rose Brancato",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-237-5546"
+        },
+        {
+            "TOUNIQUENUMBER": "303968",
+            "TO": "Jim Brancato",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-237-5546"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B6447",
+            "Umbrella": "Brancato Construction",
+            "Umbrella ID": "12541764",
+            "VB_NAME": "Brancato Construction Co.Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B24733",
+            "MEMBERNAME": "Brancato Construction Co. Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B6447",
+            "Umbrella": "Brancato Construction",
+            "Umbrella ID": "12541764",
+            "VB_NAME": "Brancato Construction Co.Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B6447",
+            "MEMBERNAME": "Brancato Construction Co.Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,76 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Sherk Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "P.O. Box 697",
+            "TELEPHONE": "7055276000",
+            "FAX": "705/527-0828",
+            "WEBSITEURL": " ",
+            "EMAIL": "sherkgroup@yahoo.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Don Sherk Construction Limited.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31845",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Don Sherk Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B10332",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sherk Farms Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37360",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Account Number": "B10332",
+            "Project Status": "Completed",
+            "Location": "WASAGA BEACH",
+            "Address": "88 Fairway Cres.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-07-12"
+        },
+        {
+            "Condo Project Name": "2 BECK BLVD., UNIT #2,PENETANG",
+            "Account Number": "B10332",
+            "Project Status": "Completed",
+            "Location": "PENETANGUISHENE",
+            "Address": "2 Beck Blvd., Unit 2",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-06-04"
+        }
+    ]
+}

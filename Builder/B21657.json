@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21657",
+            "Umbrella": "Stone Forest Homes",
+            "Umbrella ID": "12518891",
+            "VB_NAME": "C.T.X. Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1991-11-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-11-30 16:03:50.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 8118",
+            "TELEPHONE": "519/494-1132",
+            "FAX": "519-435-1546",
+            "WEBSITEURL": "www.ctxhomes.com",
+            "EMAIL": "jjmathewsctx@rogers.com",
+            "ACCOUNTNUMBER": "B21657",
+            "Total Outstanding Amount": 0.01,
+            "TAB": 0,
+            "BREACH": 0.01,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338852",
+            "TO": "John Mathews",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-615-1167"
+        },
+        {
+            "TOUNIQUENUMBER": "338852",
+            "TO": "John Mathews",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-615-1167"
+        },
+        {
+            "TOUNIQUENUMBER": "338852",
+            "TO": "John Mathews",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-615-1167"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21657",
+            "Umbrella": "Stone Forest Homes",
+            "Umbrella ID": "12518891",
+            "VB_NAME": "C.T.X. Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39361",
+            "MEMBERNAME": "Spruce Crossing Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B21657",
+            "Umbrella": "Stone Forest Homes",
+            "Umbrella ID": "12518891",
+            "VB_NAME": "C.T.X. Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41766",
+            "MEMBERNAME": "C.T.X. Homes (2011) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B21657",
+            "Umbrella": "Stone Forest Homes",
+            "Umbrella ID": "12518891",
+            "VB_NAME": "C.T.X. Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B21657",
+            "MEMBERNAME": "C.T.X. Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "FOREST GROVE",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 900 Doon Village Rd ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-07-13"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46457",
+            "Umbrella": "Gemstone Group",
+            "Umbrella ID": "12546928",
+            "VB_NAME": "Gemstone Construction Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2017-08-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-19 19:01:48.000 +0000",
+            "Expiry Date": "2024-08-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "252 Argyle Avenue",
+            "TELEPHONE": "613-248-8999",
+            "FAX": "613-739-5736",
+            "WEBSITEURL": "www.gemstonecorporation.com",
+            "EMAIL": "neil@gemstonecorporation.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100280948",
+            "TO": "Joshua Zaret",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-248-8999"
+        },
+        {
+            "TOUNIQUENUMBER": "100280948",
+            "TO": "Joshua Zaret",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-248-8999"
+        },
+        {
+            "TOUNIQUENUMBER": "12242510",
+            "TO": "Neil Zaret",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-248-8999"
+        },
+        {
+            "TOUNIQUENUMBER": "12242510",
+            "TO": "Neil Zaret",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-248-8999"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46457",
+            "Umbrella": "Gemstone Group",
+            "Umbrella ID": "12546928",
+            "VB_NAME": "Gemstone Construction Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46457",
+            "MEMBERNAME": "Gemstone Construction Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46457",
+            "Umbrella": "Gemstone Group",
+            "Umbrella ID": "12546928",
+            "VB_NAME": "Gemstone Construction Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38041",
+            "MEMBERNAME": "Gemstone Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

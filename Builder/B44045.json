@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44045",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Harbour Heights Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Ohsweken",
+            "HCRA_INITIALLICENSEDATE": "2015-05-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-21 14:28:04.000 +0000",
+            "Expiry Date": "2024-05-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2298 Chiefswood Road",
+            "TELEPHONE": "519-770-8442",
+            "FAX": "519-756-3114",
+            "WEBSITEURL": "www.harbourheights.ca",
+            "EMAIL": "mark7bennett@gmail.com",
+            "ACCOUNTNUMBER": "B44045",
+            "Total Outstanding Amount": 522360.08,
+            "TAB": 0,
+            "BREACH": 522360.08,
+            "SUMM_FREEHOLD": 34,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 34,
+            "SUMM_CC": 12,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 84711.76,
+            "SUMM_MAJOR": 7,
+            "SUMM_MAJOR_AMT": 547817.14,
+            "SUMM_TOTAL_CLAIMS": 632528.9
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100260833",
+            "TO": "Diane Bomberry",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-7771"
+        },
+        {
+            "TOUNIQUENUMBER": "100260833",
+            "TO": "Diane Bomberry",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-7771"
+        },
+        {
+            "TOUNIQUENUMBER": "100260833",
+            "TO": "Diane Bomberry",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-7771"
+        },
+        {
+            "TOUNIQUENUMBER": "11707855",
+            "TO": "Mark Bennett",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-770-8442"
+        },
+        {
+            "TOUNIQUENUMBER": "11707855",
+            "TO": "Mark Bennett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-770-8442"
+        },
+        {
+            "TOUNIQUENUMBER": "11707855",
+            "TO": "Mark Bennett",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-770-8442"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44045",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Harbour Heights Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Harbour Heights",
+            "Project Status": null,
+            "Location": "PORT DOVER",
+            "Address": "1 Old Hamilton Rd.",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

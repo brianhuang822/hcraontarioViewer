@@ -1,0 +1,132 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27246",
+            "Umbrella": "Stratum Realty Development",
+            "Umbrella ID": "12539802",
+            "VB_NAME": "The Stratum Realty Development Corporation",
+            "OPERATINGNAME": "Waterford Place",
+            "CITY": "BARRIE",
+            "HCRA_INITIALLICENSEDATE": "1998-05-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2002-08-09 12:33:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2 Toronto St.",
+            "TELEPHONE": "(705) 721-5678",
+            "FAX": "(705) 721-5518",
+            "WEBSITEURL": "www.thestratumgroup.com",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343658",
+            "TO": "Kenneth (Ken) Michaud",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-718-8478"
+        },
+        {
+            "TOUNIQUENUMBER": "343658",
+            "TO": "Kenneth (Ken) Michaud",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-718-8478"
+        },
+        {
+            "TOUNIQUENUMBER": "343658",
+            "TO": "Kenneth (Ken) Michaud",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-718-8478"
+        },
+        {
+            "TOUNIQUENUMBER": "330371",
+            "TO": "David Scott",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-936-4435"
+        },
+        {
+            "TOUNIQUENUMBER": "330371",
+            "TO": "David Scott",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-936-4435"
+        },
+        {
+            "TOUNIQUENUMBER": "330371",
+            "TO": "David Scott",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-936-4435"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27246",
+            "Umbrella": "Stratum Realty Development",
+            "Umbrella ID": "12539802",
+            "VB_NAME": "The Stratum Realty Development Corporation",
+            "OPERATINGNAME": "Waterford Place",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27246",
+            "MEMBERNAME": "The Stratum Realty Development Corporation",
+            "MEMBEROPERATINGNAME": "Waterford Place",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27246",
+            "Umbrella": "Stratum Realty Development",
+            "Umbrella ID": "12539802",
+            "VB_NAME": "The Stratum Realty Development Corporation",
+            "OPERATINGNAME": "Waterford Place",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B9536",
+            "MEMBERNAME": "Lakepoint Development (Burlington) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27246",
+            "Umbrella": "Stratum Realty Development",
+            "Umbrella ID": "12539802",
+            "VB_NAME": "The Stratum Realty Development Corporation",
+            "OPERATINGNAME": "Waterford Place",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27890",
+            "MEMBERNAME": "Grand Shores Realty Development Corporation",
+            "MEMBEROPERATINGNAME": "Grand Harbour",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B27246",
+            "Umbrella": "Stratum Realty Development",
+            "Umbrella ID": "12539802",
+            "VB_NAME": "The Stratum Realty Development Corporation",
+            "OPERATINGNAME": "Waterford Place",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27756",
+            "MEMBERNAME": "Victoria Harbour Development Corporation",
+            "MEMBEROPERATINGNAME": "Victoria Shores",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

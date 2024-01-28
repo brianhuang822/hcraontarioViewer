@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28308",
+            "Umbrella": "Bitonti Algoma Investments",
+            "Umbrella ID": "11774",
+            "VB_NAME": "John Bitonti Holdings Inc.",
+            "OPERATINGNAME": "John Bitonti Holdings Inc.",
+            "CITY": "Sault Ste. Marie",
+            "HCRA_INITIALLICENSEDATE": "1999-06-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-05 16:07:33.000 +0000",
+            "Expiry Date": "2024-06-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10 Bitonti Crescent",
+            "TELEPHONE": "705-256-2537",
+            "FAX": "705-949-8947",
+            "WEBSITEURL": " ",
+            "EMAIL": "dino@stefanizzi.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "303239",
+            "TO": "John Bitonti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-256-2537"
+        },
+        {
+            "TOUNIQUENUMBER": "303239",
+            "TO": "John Bitonti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-256-2537"
+        },
+        {
+            "TOUNIQUENUMBER": "303239",
+            "TO": "John Bitonti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-256-2537"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28308",
+            "Umbrella": "Bitonti Algoma Investments",
+            "Umbrella ID": "11774",
+            "VB_NAME": "John Bitonti Holdings Inc.",
+            "OPERATINGNAME": "John Bitonti Holdings Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28308",
+            "MEMBERNAME": "John Bitonti Holdings Inc.",
+            "MEMBEROPERATINGNAME": "John Bitonti Holdings Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B28308",
+            "Umbrella": "Bitonti Algoma Investments",
+            "Umbrella ID": "11774",
+            "VB_NAME": "John Bitonti Holdings Inc.",
+            "OPERATINGNAME": "John Bitonti Holdings Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B2682",
+            "MEMBERNAME": "Bitonti (algoma) Investments Ltd.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

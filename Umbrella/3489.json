@@ -1,0 +1,822 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Starlane Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 3065,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "8600 Dufferin Street",
+            "TELEPHONE": "416-736-8854",
+            "FAX": "905-660-7650",
+            "WEBSITEURL": "www.starlanehomes.com",
+            "EMAIL": "annaritar@starlanehomes.com",
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Balcar Solars Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41108",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Golden Run Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26161",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Satin Ridge Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32987",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Buckingham Gate Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40646",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Abbeygrove Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22637",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Regatta Lanes Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34271",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Skystar Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24575",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bronlea Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26605",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Alderberry Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22912",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Spinnaker Glade Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30745",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Brastadtler Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24646",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "El Camino Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35330",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Coral Acres Properties Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31964",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Carahills Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24411",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Coral Gables Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23524",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Trinirock Group Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27152",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Vantree Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24753",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Barquentine Estates Inc.",
+            "MEMBEROPERATINGNAME": "Barquentine Estates Inc.",
+            "MEMBERVBNUM": "B47696",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Tropical Lush Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41110",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Glory Hill Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26417",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Zembra Garden Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43463",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Woodstar Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27150",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Castamere Heights Estate Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45531",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Silkstone Manor Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31723",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Penngrove Point Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41383",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Turnberry Woods Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32988",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Trenhome Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28771",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "South Starfield Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33736",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Arcadan Estates Inc.",
+            "MEMBEROPERATINGNAME": "Starlane Home Corporation",
+            "MEMBERVBNUM": "B34270",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Hybrid Hill Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25710",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Star  III Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26774",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Russet Ridge Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32989",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Hollyfair Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32049",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Fiano Crest Builders Corp.",
+            "MEMBEROPERATINGNAME": "Fiano Crest Builders Corp.",
+            "MEMBERVBNUM": "B61288",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Astra-Globe Properties Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32037",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eminence Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26160",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Andrew Glen Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26865",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Monte Rosa Meadows Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45532",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stillcrest Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22553",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Star Haven Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28067",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Longford Heights Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27151",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Foxcotte Village Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47841",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kingslea Gardens Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26773",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Autumn Star Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26866",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bojana Woods Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38731",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Abbiadori Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34833",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eastham Harbour Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42843",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Phantom Hills Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26175",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Peargate Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22636",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eaglerow Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22901",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Foxtail Grove Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27153",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Junestar Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31413",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Overlay Community Homes Inc.",
+            "MEMBEROPERATINGNAME": "Overlay Community Homes Inc.",
+            "MEMBERVBNUM": "B46952",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Mustang Lane Home Corp",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36494",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cascade Point Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27235",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ciprano Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36664",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Fieldport Properties Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32028",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Foxstar Group Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28565",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Tahini Building Group Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43462",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Felstead Property Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37367",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Matese Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36493",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Tinor Development Corp.",
+            "MEMBEROPERATINGNAME": "Tinor Development Corp.",
+            "MEMBERVBNUM": "B41382",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "C 93 North Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38457",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Desert Fox Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34830",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Appleton Lane Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26122",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Frosinate Homes Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36665",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Aburka Glen Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41783",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Desert Star Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27395",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Barrister Brook Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28772",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lincoln Field Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41109",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Grenoble Heights Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48496",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dollygarden Properties Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31965",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sesvenna Mews Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45530",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dalston Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34836",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lazica Investment Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B61825",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Vispania Home Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41381",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Moderno Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26772",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Abbeymill Meadows Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31414",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Longbridge Building Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40647",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kristall Peak Estates Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40649",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ponziane Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36886",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Diamond Run Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26174",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Arenella Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42844",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lipari Home Corp",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36491",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ballystar Homes Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46830",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Brassica Village Estates Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28773",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ivypointe Cove Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30742",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 814,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 814,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 286,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 286,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 425,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 425,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 364,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 364,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 216,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 216,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 517,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 517,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 227,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 227,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 79,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 79,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 416,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 416,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 248,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 248,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 285,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 285,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2024",
+            "Freehold Posessions": 2,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 2,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 3065,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3065,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": []
+}

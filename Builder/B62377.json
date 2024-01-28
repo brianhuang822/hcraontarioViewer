@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62377",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Jones Realty Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Amherstburg",
+            "HCRA_INITIALLICENSEDATE": "2023-07-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-22 14:47:22.000 +0000",
+            "Expiry Date": "2024-07-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3171 Middle Side Road",
+            "TELEPHONE": "519-796-0271",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "terry.jones@jonesgroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600014951",
+            "TO": "Vince Rosati",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "Vincejr.rosati@rosatigroup.com"
+        },
+        {
+            "TOUNIQUENUMBER": "600014950",
+            "TO": "Lisa Jones",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600013814",
+            "TO": "Terry Jones",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-796-0271"
+        },
+        {
+            "TOUNIQUENUMBER": "600013814",
+            "TO": "Terry Jones",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-796-0271"
+        },
+        {
+            "TOUNIQUENUMBER": "600013814",
+            "TO": "Terry Jones",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-796-0271"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62377",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Jones Realty Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

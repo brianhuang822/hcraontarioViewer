@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46758",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Howland Green (Bronte West) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2018-06-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-25 17:10:52.000 +0000",
+            "Expiry Date": "2024-06-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "200 Cachet Woods Court",
+            "TELEPHONE": "905-927-9757",
+            "FAX": "905-887-7450",
+            "WEBSITEURL": "www.howlandgreen.com",
+            "EMAIL": "lucy@howlandgreen.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 132,
+            "SUMM_TOTAL": 132,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340945",
+            "TO": "David (Dave) De Sylva",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-927-9757"
+        },
+        {
+            "TOUNIQUENUMBER": "340945",
+            "TO": "David (Dave) De Sylva",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-927-9757"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46758",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Howland Green (Bronte West) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Bronte West",
+            "Project Status": "Completed",
+            "Location": "MILTON",
+            "Address": " 830 Megson Terrace ",
+            "# of Units": 132,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-12-13"
+        }
+    ],
+    "builderConditions": []
+}

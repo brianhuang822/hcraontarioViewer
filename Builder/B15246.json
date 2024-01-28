@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B15246",
+            "Umbrella": "Turner Homes",
+            "Umbrella ID": "500002025",
+            "VB_NAME": "Wayne Turner & Sons Construction Limited",
+            "OPERATINGNAME": "Turner Homes",
+            "CITY": "Strathroy",
+            "HCRA_INITIALLICENSEDATE": "1988-04-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-26 18:29:39.000 +0000",
+            "Expiry Date": "2024-04-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8086 Scotchmere Drive",
+            "TELEPHONE": "519-521-2101",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "turnerhomes33@gmail.com",
+            "ACCOUNTNUMBER": "B15246",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 67,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 67,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 15100,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 15100
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100425121",
+            "TO": "Michael Kennedy",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-521-2101"
+        },
+        {
+            "TOUNIQUENUMBER": "100425121",
+            "TO": "Michael Kennedy",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-521-2101"
+        },
+        {
+            "TOUNIQUENUMBER": "100425121",
+            "TO": "Michael Kennedy",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-521-2101"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B15246",
+            "Umbrella": "Turner Homes",
+            "Umbrella ID": "500002025",
+            "VB_NAME": "Wayne Turner & Sons Construction Limited",
+            "OPERATINGNAME": "Turner Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B15246",
+            "MEMBERNAME": "Wayne Turner & Sons Construction Limited",
+            "MEMBEROPERATINGNAME": "Turner Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B15246",
+            "Umbrella": "Turner Homes",
+            "Umbrella ID": "500002025",
+            "VB_NAME": "Wayne Turner & Sons Construction Limited",
+            "OPERATINGNAME": "Turner Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61805",
+            "MEMBERNAME": "Magnolia Home Builders Inc.",
+            "MEMBEROPERATINGNAME": "Magnolia Home Builders Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

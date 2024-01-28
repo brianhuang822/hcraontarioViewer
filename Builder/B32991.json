@@ -1,0 +1,145 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32991",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Featherstone Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "MARKHAM",
+            "HCRA_INITIALLICENSEDATE": "2003-04-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-04-29 23:42:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7725 Birchmount Rd., Unit 40",
+            "TELEPHONE": "905-940-9555 ext. 222",
+            "FAX": "905-480-9555",
+            "WEBSITEURL": "www.featherstonehomes.ca",
+            "EMAIL": "info@featherstonehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11864104",
+            "TO": "Jahanzeb Razzak Ladha",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-201-8707"
+        },
+        {
+            "TOUNIQUENUMBER": "11864102",
+            "TO": "Anisa Ladha",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-471-6132"
+        },
+        {
+            "TOUNIQUENUMBER": "11864102",
+            "TO": "Anisa Ladha",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-471-6132"
+        },
+        {
+            "TOUNIQUENUMBER": "11864106",
+            "TO": "Vazir Ali Khan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-479-4893"
+        },
+        {
+            "TOUNIQUENUMBER": "11864105",
+            "TO": "Mohammad Siddique Batavia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-421-9880"
+        },
+        {
+            "TOUNIQUENUMBER": "11864103",
+            "TO": "Munir Ladha",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "9221-584-7680"
+        },
+        {
+            "TOUNIQUENUMBER": "11864103",
+            "TO": "Munir Ladha",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "9221-584-7680"
+        },
+        {
+            "TOUNIQUENUMBER": "11864101",
+            "TO": "Abdur-Razzak Ladha",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-940-9555"
+        },
+        {
+            "TOUNIQUENUMBER": "11864101",
+            "TO": "Abdur-Razzak Ladha",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-940-9555"
+        },
+        {
+            "TOUNIQUENUMBER": "344903",
+            "TO": "Sandro Soscia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-218-3600"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32991",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Featherstone Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "FEATHERSTONE HOMES LTD.",
+            "Project Status": null,
+            "Location": "MARKHAM",
+            "Address": "2810 Dennison St.",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "TULIP GARDEN LUXURY CONDOS",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "2860 Denison St./2352 Middlefield Rd.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-02-17"
+        }
+    ],
+    "builderConditions": []
+}

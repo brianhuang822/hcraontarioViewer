@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47955",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2504639 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2020-02-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-02 15:56:25.000 +0000",
+            "Expiry Date": "2025-02-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "251 Consumers Road",
+            "TELEPHONE": "905-881-4401",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "eric.guo@unexusgroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100382010",
+            "TO": "Lei Guo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-499-1633"
+        },
+        {
+            "TOUNIQUENUMBER": "100382010",
+            "TO": "Lei Guo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-499-1633"
+        },
+        {
+            "TOUNIQUENUMBER": "100598215",
+            "TO": "Cheng Ming",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-881-4401"
+        },
+        {
+            "TOUNIQUENUMBER": "100598215",
+            "TO": "Cheng Ming",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-881-4401"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47955",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2504639 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Borough",
+            "Project Status": "In Progress",
+            "Location": "SCARBOROUGH",
+            "Address": " 2180 Lawrence Ave. E. ",
+            "# of Units": 384,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

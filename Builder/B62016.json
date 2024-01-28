@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62016",
+            "Umbrella": "Thomas Young Builders",
+            "Umbrella ID": "500002114",
+            "VB_NAME": "TYB Enterprises Inc.",
+            "OPERATINGNAME": "TYB Enterprises Inc.",
+            "CITY": "Echo Bay",
+            "HCRA_INITIALLICENSEDATE": "2023-03-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-23 17:01:34.000 +0000",
+            "Expiry Date": "2025-03-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "110 Margaret Street",
+            "TELEPHONE": "705-987-3664",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "s_young2@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "337482",
+            "TO": "Christopher Young",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-541-8172"
+        },
+        {
+            "TOUNIQUENUMBER": "100283514",
+            "TO": "Spencer Young",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-987-3664"
+        },
+        {
+            "TOUNIQUENUMBER": "100283514",
+            "TO": "Spencer Young",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-987-3664"
+        },
+        {
+            "TOUNIQUENUMBER": "100283514",
+            "TO": "Spencer Young",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-987-3664"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62016",
+            "Umbrella": "Thomas Young Builders",
+            "Umbrella ID": "500002114",
+            "VB_NAME": "TYB Enterprises Inc.",
+            "OPERATINGNAME": "TYB Enterprises Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62016",
+            "MEMBERNAME": "TYB Enterprises Inc.",
+            "MEMBEROPERATINGNAME": "TYB Enterprises Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62016",
+            "Umbrella": "Thomas Young Builders",
+            "Umbrella ID": "500002114",
+            "VB_NAME": "TYB Enterprises Inc.",
+            "OPERATINGNAME": "TYB Enterprises Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B2689",
+            "MEMBERNAME": "Thomas Young Builders Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

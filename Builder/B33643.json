@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33643",
+            "Umbrella": "Barton Chase Construction",
+            "Umbrella ID": "12540231",
+            "VB_NAME": "1379933 Ontario Limited",
+            "OPERATINGNAME": "Bart Chase Construction",
+            "CITY": "Wasaga Beach",
+            "HCRA_INITIALLICENSEDATE": "2003-07-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-07-24 12:32:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4 Jalna Crt.",
+            "TELEPHONE": "705-361-1443",
+            "FAX": "705-361-3892",
+            "WEBSITEURL": null,
+            "EMAIL": "chase@simcoe.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11925480",
+            "TO": "Barton Chase",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-361-1443"
+        },
+        {
+            "TOUNIQUENUMBER": "11925480",
+            "TO": "Barton Chase",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-361-1443"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33643",
+            "Umbrella": "Barton Chase Construction",
+            "Umbrella ID": "12540231",
+            "VB_NAME": "1379933 Ontario Limited",
+            "OPERATINGNAME": "Bart Chase Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33643",
+            "MEMBERNAME": "1379933 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Bart Chase Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33643",
+            "Umbrella": "Barton Chase Construction",
+            "Umbrella ID": "12540231",
+            "VB_NAME": "1379933 Ontario Limited",
+            "OPERATINGNAME": "Bart Chase Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36472",
+            "MEMBERNAME": "Chase Custom Homes & Renovations Ltd.",
+            "MEMBEROPERATINGNAME": "Bart Chase Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

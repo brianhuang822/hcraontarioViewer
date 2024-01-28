@@ -1,0 +1,185 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22306",
+            "Umbrella": "LeBlanc & Haynes Enterprises",
+            "Umbrella ID": "11046",
+            "VB_NAME": "970354 Ontario Limited",
+            "OPERATINGNAME": "Oxford Court",
+            "CITY": "COBOURG",
+            "HCRA_INITIALLICENSEDATE": "1992-07-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1999-01-05 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 216",
+            "TELEPHONE": "(905)373-0697",
+            "FAX": "(905)373-4653",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "319213",
+            "TO": "Al Leblanc",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-376-0663"
+        },
+        {
+            "TOUNIQUENUMBER": "319213",
+            "TO": "Al Leblanc",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-376-0663"
+        },
+        {
+            "TOUNIQUENUMBER": "302086",
+            "TO": "Gordon Ewart",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-372-0381"
+        },
+        {
+            "TOUNIQUENUMBER": "302086",
+            "TO": "Gordon Ewart",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-372-0381"
+        },
+        {
+            "TOUNIQUENUMBER": "302085",
+            "TO": "Brian Christie",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-623-1666"
+        },
+        {
+            "TOUNIQUENUMBER": "302085",
+            "TO": "Brian Christie",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-623-1666"
+        },
+        {
+            "TOUNIQUENUMBER": "314759",
+            "TO": "Robert Haynes",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-530-5531"
+        },
+        {
+            "TOUNIQUENUMBER": "314759",
+            "TO": "Robert Haynes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-530-5531"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22306",
+            "Umbrella": "LeBlanc & Haynes Enterprises",
+            "Umbrella ID": "11046",
+            "VB_NAME": "970354 Ontario Limited",
+            "OPERATINGNAME": "Oxford Court",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22306",
+            "MEMBERNAME": "970354 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Oxford Court",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22306",
+            "Umbrella": "LeBlanc & Haynes Enterprises",
+            "Umbrella ID": "11046",
+            "VB_NAME": "970354 Ontario Limited",
+            "OPERATINGNAME": "Oxford Court",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33250",
+            "MEMBERNAME": "2020910 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B22306",
+            "Umbrella": "LeBlanc & Haynes Enterprises",
+            "Umbrella ID": "11046",
+            "VB_NAME": "970354 Ontario Limited",
+            "OPERATINGNAME": "Oxford Court",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26818",
+            "MEMBERNAME": "1035416 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "OXFORD COURT",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "245 Elgin St. W.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-02-01"
+        },
+        {
+            "Condo Project Name": "OXFORD COURT",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "245 Elgin Street West",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-11-03"
+        },
+        {
+            "Condo Project Name": "OXFORD COURT",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "245 Elgin Street",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-04-28"
+        },
+        {
+            "Condo Project Name": "OXFORD COURT",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "245 Elgin St.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-12-03"
+        },
+        {
+            "Condo Project Name": "OXFORD COURT",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "245 Elgin Street West",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-04-05"
+        }
+    ],
+    "builderConditions": []
+}

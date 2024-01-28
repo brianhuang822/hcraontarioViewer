@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61314",
+            "Umbrella": "Brock View Group",
+            "Umbrella ID": "12551744",
+            "VB_NAME": "Brock View Cottages Inc.",
+            "OPERATINGNAME": "Brock View Cottages Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-06-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-01 15:01:10.000 +0000",
+            "Expiry Date": "2024-06-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "27 Chicora Avenue",
+            "TELEPHONE": "416-702-7021",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "david@braveinvestment.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100615975",
+            "TO": "David Roff",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-702-7021"
+        },
+        {
+            "TOUNIQUENUMBER": "100615975",
+            "TO": "David Roff",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-702-7021"
+        },
+        {
+            "TOUNIQUENUMBER": "100614936",
+            "TO": "Bryan Keenan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-257-0046"
+        },
+        {
+            "TOUNIQUENUMBER": "100614936",
+            "TO": "Bryan Keenan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-257-0046"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61314",
+            "Umbrella": "Brock View Group",
+            "Umbrella ID": "12551744",
+            "VB_NAME": "Brock View Cottages Inc.",
+            "OPERATINGNAME": "Brock View Cottages Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48113",
+            "MEMBERNAME": "Brock View Building Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61314",
+            "Umbrella": "Brock View Group",
+            "Umbrella ID": "12551744",
+            "VB_NAME": "Brock View Cottages Inc.",
+            "OPERATINGNAME": "Brock View Cottages Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61314",
+            "MEMBERNAME": "Brock View Cottages Inc.",
+            "MEMBEROPERATINGNAME": "Brock View Cottages Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61314",
+            "Umbrella": "Brock View Group",
+            "Umbrella ID": "12551744",
+            "VB_NAME": "Brock View Cottages Inc.",
+            "OPERATINGNAME": "Brock View Cottages Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48187",
+            "MEMBERNAME": "Brock View Homes Inc. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

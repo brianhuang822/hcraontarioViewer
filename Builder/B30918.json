@@ -1,0 +1,198 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B30918",
+            "Umbrella": "Pretis Canada",
+            "Umbrella ID": "12200450",
+            "VB_NAME": "Savic Homes Ltd.",
+            "OPERATINGNAME": "Savic Homes",
+            "CITY": "KITCHENER",
+            "HCRA_INITIALLICENSEDATE": "2000-08-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:05:20.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "26 Idle Ridge Crt.",
+            "TELEPHONE": "519-893-9358",
+            "FAX": "519-893-9358",
+            "WEBSITEURL": "savichomes.com",
+            "EMAIL": "bob@savichomes.com",
+            "ACCOUNTNUMBER": "B30918",
+            "Total Outstanding Amount": 4984.85,
+            "TAB": 0,
+            "BREACH": 4984.85,
+            "SUMM_FREEHOLD": 14,
+            "SUMM_CONDO": 117,
+            "SUMM_TOTAL": 131,
+            "SUMM_CC": 16,
+            "SUMM_MINOR": 12,
+            "SUMM_MINOR_AMT": 228538.64,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 228538.64
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100301559",
+            "TO": "Nemanja (Nemo) Savic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-998-0464"
+        },
+        {
+            "TOUNIQUENUMBER": "344094",
+            "TO": "Blagoje Savic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-893-9358"
+        },
+        {
+            "TOUNIQUENUMBER": "344094",
+            "TO": "Blagoje Savic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-893-9358"
+        },
+        {
+            "TOUNIQUENUMBER": "344094",
+            "TO": "Blagoje Savic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-893-9358"
+        },
+        {
+            "TOUNIQUENUMBER": "344156",
+            "TO": "Krista Savic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-893-9358"
+        },
+        {
+            "TOUNIQUENUMBER": "344156",
+            "TO": "Krista Savic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-893-9358"
+        },
+        {
+            "TOUNIQUENUMBER": "344156",
+            "TO": "Krista Savic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-893-9358"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B30918",
+            "Umbrella": "Pretis Canada",
+            "Umbrella ID": "12200450",
+            "VB_NAME": "Savic Homes Ltd.",
+            "OPERATINGNAME": "Savic Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30918",
+            "MEMBERNAME": "Savic Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Savic Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B30918",
+            "Umbrella": "Pretis Canada",
+            "Umbrella ID": "12200450",
+            "VB_NAME": "Savic Homes Ltd.",
+            "OPERATINGNAME": "Savic Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37211",
+            "MEMBERNAME": "Pretis Canada Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B30918",
+            "Umbrella": "Pretis Canada",
+            "Umbrella ID": "12200450",
+            "VB_NAME": "Savic Homes Ltd.",
+            "OPERATINGNAME": "Savic Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41042",
+            "MEMBERNAME": "Pretis Canada Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Avalon Urban Towns",
+            "Project Status": null,
+            "Location": "KITCHENER",
+            "Address": " 1430 Highland Rd. W. ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Avalon",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "  1430, 1424,1402 Highland Rd. W. ",
+            "# of Units": 52,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-01-22"
+        },
+        {
+            "Condo Project Name": "Avalon",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "  1430, 1424,1402 Highland Rd. W. ",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-06-28"
+        },
+        {
+            "Condo Project Name": "Avalon",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "  1430, 1424,1402 Highland Rd. W. ",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-10-27"
+        },
+        {
+            "Condo Project Name": "Garden Ridge Townhomes",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "55 Mooregate Cres.",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-12-17"
+        },
+        {
+            "Condo Project Name": "Garden Ridge Townhomes",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "55 Mooregate Cres.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-04-15"
+        },
+        {
+            "Condo Project Name": "Bleamsville Gardens II",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "975 Strasburg Rd.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-12-15"
+        }
+    ],
+    "builderConditions": []
+}

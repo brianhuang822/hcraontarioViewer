@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60841",
+            "Umbrella": "DAND Developments",
+            "Umbrella ID": "500001038",
+            "VB_NAME": "2823251 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Orillia",
+            "HCRA_INITIALLICENSEDATE": "2021-12-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-18 16:17:36.000 +0000",
+            "Expiry Date": "2024-12-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "366 Tallwood Drive",
+            "TELEPHONE": "416-276-2805",
+            "FAX": null,
+            "WEBSITEURL": "https://www.dandconstruction.ca",
+            "EMAIL": "davidchalmers@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600009203",
+            "TO": "Helen Cauchi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-323-4559"
+        },
+        {
+            "TOUNIQUENUMBER": "600009203",
+            "TO": "Helen Cauchi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-323-4559"
+        },
+        {
+            "TOUNIQUENUMBER": "100340126",
+            "TO": "David Chalmers",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-276-2805"
+        },
+        {
+            "TOUNIQUENUMBER": "100340126",
+            "TO": "David Chalmers",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-276-2805"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60841",
+            "Umbrella": "DAND Developments",
+            "Umbrella ID": "500001038",
+            "VB_NAME": "2823251 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60841",
+            "MEMBERNAME": "2823251 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60841",
+            "Umbrella": "DAND Developments",
+            "Umbrella ID": "500001038",
+            "VB_NAME": "2823251 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45012",
+            "MEMBERNAME": "DAND Construction and Consulting Services Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

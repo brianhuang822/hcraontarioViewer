@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60776",
+            "Umbrella": "Wyview Group",
+            "Umbrella ID": "500000627",
+            "VB_NAME": "2725599 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2021-11-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-25 15:04:38.000 +0000",
+            "Expiry Date": "2024-11-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "625 Cochrane Drive",
+            "TELEPHONE": "905-604-8077",
+            "FAX": "905-604-5077",
+            "WEBSITEURL": "http://www.wyviewgroup.com",
+            "EMAIL": "eric@wyviewgroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100687186",
+            "TO": "Minghui Zhao",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        },
+        {
+            "TOUNIQUENUMBER": "100687186",
+            "TO": "Minghui Zhao",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        },
+        {
+            "TOUNIQUENUMBER": "100290657",
+            "TO": "Weixiang Wang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        },
+        {
+            "TOUNIQUENUMBER": "100290657",
+            "TO": "Weixiang Wang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        },
+        {
+            "TOUNIQUENUMBER": "100683596",
+            "TO": "Eric Zou",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60776",
+            "Umbrella": "Wyview Group",
+            "Umbrella ID": "500000627",
+            "VB_NAME": "2725599 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60776",
+            "MEMBERNAME": "2725599 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60776",
+            "Umbrella": "Wyview Group",
+            "Umbrella ID": "500000627",
+            "VB_NAME": "2725599 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44354",
+            "MEMBERNAME": "2426483 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B60776",
+            "Umbrella": "Wyview Group",
+            "Umbrella ID": "500000627",
+            "VB_NAME": "2725599 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B49002",
+            "MEMBERNAME": "2577336 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Forestville Villages Phase 1 Townhouse",
+            "Project Status": null,
+            "Location": "WHITCHURCH-STOUFFVILLE",
+            "Address": " 11776 Highway 48 ",
+            "# of Units": 97,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

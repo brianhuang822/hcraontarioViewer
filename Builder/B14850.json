@@ -1,0 +1,105 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B14850",
+            "Umbrella": "Mildon Construction",
+            "Umbrella ID": "12540352",
+            "VB_NAME": "Mildon Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Mount Brydges",
+            "HCRA_INITIALLICENSEDATE": "1983-06-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-29 15:33:14.000 +0000",
+            "Expiry Date": "2024-08-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "22429 Troops Road",
+            "TELEPHONE": "519-872-7700",
+            "FAX": null,
+            "WEBSITEURL": "http://www.mildonhomes.ca",
+            "EMAIL": "mildonhomes@gmail.com",
+            "ACCOUNTNUMBER": "B14850",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 43,
+            "SUMM_CONDO": 1,
+            "SUMM_TOTAL": 44,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 12057.13,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 12057.13
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332857",
+            "TO": "Donald A. Sutherland",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-872-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "332857",
+            "TO": "Donald A. Sutherland",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-872-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "332857",
+            "TO": "Donald A. Sutherland",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-872-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "12448677",
+            "TO": "Emil Pattyn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-868-2440"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B14850",
+            "Umbrella": "Mildon Construction",
+            "Umbrella ID": "12540352",
+            "VB_NAME": "Mildon Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B14850",
+            "MEMBERNAME": "Mildon Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B14850",
+            "Umbrella": "Mildon Construction",
+            "Umbrella ID": "12540352",
+            "VB_NAME": "Mildon Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43390",
+            "MEMBERNAME": "Mildon Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Southgrove Meadows",
+            "Project Status": null,
+            "Location": "STRATHROY",
+            "Address": " 159 Collins Way ",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

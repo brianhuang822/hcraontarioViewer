@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25718",
+            "Umbrella": "Builder Direct Buy",
+            "Umbrella ID": "12538859",
+            "VB_NAME": "Bildex Corp.",
+            "OPERATINGNAME": "Greenwood Homes",
+            "CITY": "Leamington",
+            "HCRA_INITIALLICENSEDATE": "1996-08-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-28 21:44:34.000 +0000",
+            "Expiry Date": "2024-10-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "28 Fraser Road",
+            "TELEPHONE": "519-322-1115",
+            "FAX": "519/322-2100",
+            "WEBSITEURL": "www.greenwoodhomes.ca",
+            "EMAIL": "info@greenwoodhomes.ca",
+            "ACCOUNTNUMBER": "B25718",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 82,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 82,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12104570",
+            "TO": "Renee O'Neil",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-796-7616"
+        },
+        {
+            "TOUNIQUENUMBER": "100532127",
+            "TO": "Jake O'Neil",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-818-0695"
+        },
+        {
+            "TOUNIQUENUMBER": "341988",
+            "TO": "Angelo Labate",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-322-1115"
+        },
+        {
+            "TOUNIQUENUMBER": "341988",
+            "TO": "Angelo Labate",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-322-1115"
+        },
+        {
+            "TOUNIQUENUMBER": "341988",
+            "TO": "Angelo Labate",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-322-1115"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25718",
+            "Umbrella": "Builder Direct Buy",
+            "Umbrella ID": "12538859",
+            "VB_NAME": "Bildex Corp.",
+            "OPERATINGNAME": "Greenwood Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34241",
+            "MEMBERNAME": "Nautica Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Nautica Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25718",
+            "Umbrella": "Builder Direct Buy",
+            "Umbrella ID": "12538859",
+            "VB_NAME": "Bildex Corp.",
+            "OPERATINGNAME": "Greenwood Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25718",
+            "MEMBERNAME": "Bildex Corp.",
+            "MEMBEROPERATINGNAME": "Greenwood Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

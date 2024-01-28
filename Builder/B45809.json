@@ -1,0 +1,161 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45809",
+            "Umbrella": "Amico Housing",
+            "Umbrella ID": "11252",
+            "VB_NAME": "Amico 42 Mill Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Oldcastle",
+            "HCRA_INITIALLICENSEDATE": "2017-02-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-31 21:30:57.000 +0000",
+            "Expiry Date": "2025-02-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2199 Blackacre Drive",
+            "TELEPHONE": "519-737-1577",
+            "FAX": "519-737-1929",
+            "WEBSITEURL": "www.amicoaffiliates.com",
+            "EMAIL": "jeff.bolton@amico.build",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 62,
+            "SUMM_TOTAL": 62,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342212",
+            "TO": "Dominic Amicone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-737-1577"
+        },
+        {
+            "TOUNIQUENUMBER": "342212",
+            "TO": "Dominic Amicone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-737-1577"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45809",
+            "Umbrella": "Amico Housing",
+            "Umbrella ID": "11252",
+            "VB_NAME": "Amico 42 Mill Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60333",
+            "MEMBERNAME": "Boblo South Development Inc.",
+            "MEMBEROPERATINGNAME": "Boblo South Development Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45809",
+            "Umbrella": "Amico Housing",
+            "Umbrella ID": "11252",
+            "VB_NAME": "Amico 42 Mill Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36155",
+            "MEMBERNAME": "Harbourview Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45809",
+            "Umbrella": "Amico Housing",
+            "Umbrella ID": "11252",
+            "VB_NAME": "Amico 42 Mill Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25931",
+            "MEMBERNAME": "Amico Design Build Inc.",
+            "MEMBEROPERATINGNAME": "Amico Design Build Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45809",
+            "Umbrella": "Amico Housing",
+            "Umbrella ID": "11252",
+            "VB_NAME": "Amico 42 Mill Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45809",
+            "MEMBERNAME": "Amico 42 Mill Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45809",
+            "Umbrella": "Amico Housing",
+            "Umbrella ID": "11252",
+            "VB_NAME": "Amico 42 Mill Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60238",
+            "MEMBERNAME": "MM Realty Partners Georgetown Dev. GP Inc. as General Partner of and on behalf of MM Realty Partners Georgetown Project LP",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45809",
+            "Umbrella": "Amico Housing",
+            "Umbrella ID": "11252",
+            "VB_NAME": "Amico 42 Mill Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27948",
+            "MEMBERNAME": "1298455 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45809",
+            "Umbrella": "Amico Housing",
+            "Umbrella ID": "11252",
+            "VB_NAME": "Amico 42 Mill Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27949",
+            "MEMBERNAME": "Island Cove Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "42 Mill Street Condominium - Phase 1",
+            "Project Status": "In Progress",
+            "Location": "GEORGETOWN",
+            "Address": " 42 Mill St. ",
+            "# of Units": 78,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "The Mill Landing",
+            "Project Status": "In Progress",
+            "Location": "GEORGETOWN",
+            "Address": " 42 Mill St. ",
+            "# of Units": 130,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

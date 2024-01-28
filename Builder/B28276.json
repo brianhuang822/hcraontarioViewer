@@ -1,0 +1,82 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28276",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Jim Westra Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "THAMESVILLE",
+            "HCRA_INITIALLICENSEDATE": "1999-09-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2002-09-04 12:33:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "29147 Jane Rd., R.R.5",
+            "TELEPHONE": "(519)692-9398",
+            "FAX": "(519)692-5481",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344983",
+            "TO": "Jim Westra",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-692-9393"
+        },
+        {
+            "TOUNIQUENUMBER": "344983",
+            "TO": "Jim Westra",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-692-9393"
+        },
+        {
+            "TOUNIQUENUMBER": "344984",
+            "TO": "Jane Westra",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-692-9398"
+        },
+        {
+            "TOUNIQUENUMBER": "344984",
+            "TO": "Jane Westra",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-692-9398"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28276",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Jim Westra Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

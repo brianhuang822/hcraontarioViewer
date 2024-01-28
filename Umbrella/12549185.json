@@ -1,0 +1,88 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Gillam Urban Constructors",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 10952.9,
+            "ADDRESS": "36 Northline Road",
+            "TELEPHONE": "416-486-6776",
+            "FAX": null,
+            "WEBSITEURL": "gillamgroup.com",
+            "EMAIL": "mgillam@gillamgroup.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 10952.9,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 10952.9
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "East Sovereign GP Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47063",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2446162 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47032",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Gillam Urban Constructors Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46651",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Gillam Communities Inc.",
+            "MEMBEROPERATINGNAME": "Gillam Communities Inc.",
+            "MEMBERVBNUM": "B62107",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Gillam Communities 8188 Yonge Street LP",
+            "MEMBEROPERATINGNAME": "Gillam Communities 8188 Yonge Street LP",
+            "MEMBERVBNUM": "B60886",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 3,
+            "Dollers paid in Claims (Minor)": 10952.9,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 10952.9,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 10952.9,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 10952.9,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": []
+}

@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B13808",
+            "Umbrella": "Civiero Construction",
+            "Umbrella ID": "12540478",
+            "VB_NAME": "Civiero Construction Co.Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "ROCKWOOD",
+            "HCRA_INITIALLICENSEDATE": "1986-04-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1993-04-06 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "R.R.# 1",
+            "TELEPHONE": "(519)856-9138",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "306334",
+            "TO": "Gino Civiero",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "306334",
+            "TO": "Gino Civiero",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "306334",
+            "TO": "Gino Civiero",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B13808",
+            "Umbrella": "Civiero Construction",
+            "Umbrella ID": "12540478",
+            "VB_NAME": "Civiero Construction Co.Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11363",
+            "MEMBERNAME": "Civiero Const.Co.Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B13808",
+            "Umbrella": "Civiero Construction",
+            "Umbrella ID": "12540478",
+            "VB_NAME": "Civiero Construction Co.Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B13808",
+            "MEMBERNAME": "Civiero Construction Co.Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B13808",
+            "Umbrella": "Civiero Construction",
+            "Umbrella ID": "12540478",
+            "VB_NAME": "Civiero Construction Co.Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28463",
+            "MEMBERNAME": "Civiero Construction Company Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "In Progress",
+            "Location": "ROCKWOOD",
+            "Address": "Inkerman St.",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

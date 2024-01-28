@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45666",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Ridge At Byron Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2017-02-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-28 18:16:15.000 +0000",
+            "Expiry Date": "2025-02-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1710 Ironwood Road",
+            "TELEPHONE": "519-601-6999",
+            "FAX": "226-663-8945",
+            "WEBSITEURL": "www.theridgeatbyron.ca",
+            "EMAIL": "dennis@theridgeatbyron.ca",
+            "ACCOUNTNUMBER": "B45666",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 39,
+            "SUMM_CONDO": 2,
+            "SUMM_TOTAL": 41,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "307742",
+            "TO": "Dennis Martin Dalton",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-808-4411"
+        },
+        {
+            "TOUNIQUENUMBER": "307742",
+            "TO": "Dennis Martin Dalton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-808-4411"
+        },
+        {
+            "TOUNIQUENUMBER": "100384317",
+            "TO": "Michael Way",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-636-0565"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45666",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Ridge At Byron Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Ridge At Byron",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "   ",
+            "# of Units": 44,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

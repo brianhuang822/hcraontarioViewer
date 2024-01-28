@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48542",
+            "Umbrella": "Melcast",
+            "Umbrella ID": "12552447",
+            "VB_NAME": "BELCASA Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Windsor",
+            "HCRA_INITIALLICENSEDATE": "2020-09-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-27 20:51:45.000 +0000",
+            "Expiry Date": "2024-09-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Bello Vista Plaza",
+            "TELEPHONE": "519-791-2695",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "belcasainc@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008981",
+            "TO": "Michael Quaggiotto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008982",
+            "TO": "Michael Castagna",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008983",
+            "TO": "Marco Tontodonati Tontodonati",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "100622688",
+            "TO": "Vincent Castagna",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-791-2695"
+        },
+        {
+            "TOUNIQUENUMBER": "100622688",
+            "TO": "Vincent Castagna",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-791-2695"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48542",
+            "Umbrella": "Melcast",
+            "Umbrella ID": "12552447",
+            "VB_NAME": "BELCASA Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48152",
+            "MEMBERNAME": "MelCast Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48542",
+            "Umbrella": "Melcast",
+            "Umbrella ID": "12552447",
+            "VB_NAME": "BELCASA Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60184",
+            "MEMBERNAME": "2813888 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2813888 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48542",
+            "Umbrella": "Melcast",
+            "Umbrella ID": "12552447",
+            "VB_NAME": "BELCASA Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48542",
+            "MEMBERNAME": "BELCASA Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

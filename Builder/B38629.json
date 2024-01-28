@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38629",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Harbourvista Inc.",
+            "OPERATINGNAME": "Eleven Bay Street",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2008-06-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-06-26 12:00:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "70 Rosehill Ave., Unit 803",
+            "TELEPHONE": "416-960-9696",
+            "FAX": "416-960-1100",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B38629",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12282517",
+            "TO": "Eleanor Godfrey",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-960-9696"
+        },
+        {
+            "TOUNIQUENUMBER": "12282517",
+            "TO": "Eleanor Godfrey",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-960-9696"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38629",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Harbourvista Inc.",
+            "OPERATINGNAME": "Eleven Bay Street",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Eleven Bay Street",
+            "Project Status": "Completed",
+            "Location": "THORNBURY",
+            "Address": "11 Bay Street",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-12-30"
+        }
+    ],
+    "builderConditions": []
+}

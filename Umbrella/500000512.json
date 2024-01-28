@@ -1,0 +1,149 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Kingdom Canada",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 555,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "3389 Steeles Avenue East",
+            "TELEPHONE": "416-502-2345",
+            "FAX": "416-497-8989",
+            "WEBSITEURL": "http://www.kingdomcanada.com",
+            "EMAIL": "jason.yang@kingdomcanada.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 555,
+            "SUMM_TOTAL": 555,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "2690622 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B60838",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Kingdom North York Project Limited Partnership",
+            "MEMBEROPERATINGNAME": "Kingdom North York Project Limited Partnership",
+            "MEMBERVBNUM": "B60340",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Kingdom Scarborough Project Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47445",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Kingdom Markham Project Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B60785",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 516,
+            "Total Posessions": 516,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 555,
+            "SUMM_TOTAL": 555,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2024",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 39,
+            "Total Posessions": 39,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 555,
+            "SUMM_TOTAL": 555,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Highmount By Kingdom",
+            "Account Number": "B60785",
+            "Project Status": "In Progress",
+            "Location": "MARKHAM",
+            "Address": " 4077-4104 Hwy7 E & Birchmount Rd ",
+            "# of Units": 355,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Lawrence Hill",
+            "Account Number": "B60340",
+            "Project Status": "In Progress",
+            "Location": "NORTH YORK",
+            "Address": " 65,67, 69, 71, 73, 75 Curlew Drive ",
+            "# of Units": 222,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "K Square",
+            "Account Number": "B47445",
+            "Project Status": "In Progress",
+            "Location": "SCARBOROUGH",
+            "Address": " 2035 Kennedy Rd. ",
+            "# of Units": 287,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "K Square",
+            "Account Number": "B47445",
+            "Project Status": "In Progress",
+            "Location": "SCARBOROUGH",
+            "Address": " 2035 Kennedy Rd. ",
+            "# of Units": 371,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35701",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Monarch EQ Development Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2005-06-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-05-03 17:23:36.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "66 Wellington Street West",
+            "TELEPHONE": "416-637-1225",
+            "FAX": "647/347-7658",
+            "WEBSITEURL": "http://mattamyhomes.com",
+            "EMAIL": "renee.medeiros@mattamycorp.com ",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 15,
+            "SUMM_TOTAL": 15,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35701",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Monarch EQ Development Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Encore at Equinox",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "50 Town Centre Crt.",
+            "# of Units": 403,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-12-04"
+        },
+        {
+            "Condo Project Name": "EQ2",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "60 Town Centre Crt.",
+            "# of Units": 300,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-12-24"
+        },
+        {
+            "Condo Project Name": "EQ1 CONDOMINIUMS AT EQUINOX",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "70 Town Centre Crt.",
+            "# of Units": 336,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-11-18"
+        }
+    ],
+    "builderConditions": []
+}

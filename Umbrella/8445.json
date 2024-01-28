@@ -1,0 +1,239 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Law Development Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "8000 Jane St., Suite 201, Building B",
+            "TELEPHONE": "905-669-1118",
+            "FAX": "905-669-1119",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Law Cranberry Development Limited",
+            "MEMBEROPERATINGNAME": "Cranberry Resort",
+            "MEMBERVBNUM": "B23238",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Law Development Group (Thornhill) Limited",
+            "MEMBEROPERATINGNAME": "Central Park On Yonge",
+            "MEMBERVBNUM": "B23889",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Law Development Group (Mount Albert) Limited",
+            "MEMBEROPERATINGNAME": "Avalon",
+            "MEMBERVBNUM": "B25648",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Law Development Group (Georgetown No.3) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26680",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Law Development Group (Mount Albert) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21963",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Law Development Group (Cornell) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26203",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Law Development Group (GA) Limited",
+            "MEMBEROPERATINGNAME": "Kingsglen",
+            "MEMBERVBNUM": "B23414",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Law Development Group (RH) Limited",
+            "MEMBEROPERATINGNAME": "Bridlepath On Bayview",
+            "MEMBERVBNUM": "B24985",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Law Development Group (Woodbridge) Limited",
+            "MEMBEROPERATINGNAME": "Kingsbridge",
+            "MEMBERVBNUM": "B24038",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Law Development Group Georgetown (No.2) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21544",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "THE 8TH FAIRWAY",
+            "Account Number": "B23238",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "  Greenbriar/Westwind ",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-04-07"
+        },
+        {
+            "Condo Project Name": "THE 7TH FAIRWAY PROJECT",
+            "Account Number": "B23238",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "  Westwind Dr ",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-04-07"
+        },
+        {
+            "Condo Project Name": "CRANBERRY YACHT CLUB PHASE III",
+            "Account Number": "B23238",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "Cranberry Surf",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-12-30"
+        },
+        {
+            "Condo Project Name": "CORNELL MEWS",
+            "Account Number": "B26203",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "Cornell Park Ave",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-07-15"
+        },
+        {
+            "Condo Project Name": "CRANBERRY YACHT CLUB PHASE II",
+            "Account Number": "B23238",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "19 Keith Ave.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-04-12"
+        },
+        {
+            "Condo Project Name": "LINKS II",
+            "Account Number": "B23238",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "Ellen Ln. & Barker Blvd.",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-07-24"
+        },
+        {
+            "Condo Project Name": "CRANBERRY YACHT CLUB",
+            "Account Number": "B23238",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "Cranberry Quay",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-07-08"
+        },
+        {
+            "Condo Project Name": "CENTRAL PARK ON YONGE",
+            "Account Number": "B23889",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "7378/7398 Yonge Street",
+            "# of Units": 107,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-01-08"
+        },
+        {
+            "Condo Project Name": "THE LINKS",
+            "Account Number": "B23238",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "Barker Blvd.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-04-19"
+        },
+        {
+            "Condo Project Name": "CENTRAL PARK ON YONGE",
+            "Account Number": "B23889",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "18 Clark Ave. W.",
+            "# of Units": 195,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-03-13"
+        },
+        {
+            "Condo Project Name": "CRANBERRY TRAIL",
+            "Account Number": "B23238",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "1 Barker Blvd.",
+            "# of Units": 33,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-02-02"
+        },
+        {
+            "Condo Project Name": "KINGSGLEN",
+            "Account Number": "B23414",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "1240 Westview Terrace",
+            "# of Units": 99,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-12-22"
+        },
+        {
+            "Condo Project Name": "CRANBERRY RESORT",
+            "Account Number": "B23238",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "Cranberry Trail Hwy 26",
+            "# of Units": 44,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-09-19"
+        }
+    ]
+}

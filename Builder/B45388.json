@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45388",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Gyaltsan Property Management Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2017-05-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-31 22:10:09.000 +0000",
+            "Expiry Date": "2024-05-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "211 Queens Quay West",
+            "TELEPHONE": "416-203-8866",
+            "FAX": "905-446-0434",
+            "WEBSITEURL": "www.gyaltsanproperty.com",
+            "EMAIL": "tenzin@gyaltsanproperty.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 40,
+            "SUMM_TOTAL": 40,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100365187",
+            "TO": "Ngawang Gyaltsan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-203-8866"
+        },
+        {
+            "TOUNIQUENUMBER": "100365187",
+            "TO": "Ngawang Gyaltsan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-203-8866"
+        },
+        {
+            "TOUNIQUENUMBER": "100365187",
+            "TO": "Ngawang Gyaltsan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-203-8866"
+        },
+        {
+            "TOUNIQUENUMBER": "100365188",
+            "TO": "Tenzin Gyaltsan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-261-6997"
+        },
+        {
+            "TOUNIQUENUMBER": "100365188",
+            "TO": "Tenzin Gyaltsan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-261-6997"
+        },
+        {
+            "TOUNIQUENUMBER": "100365190",
+            "TO": "Jigme Gyaltsan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-686-4012"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45388",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Gyaltsan Property Management Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Newcastle Centre",
+            "Project Status": "Completed",
+            "Location": "NEWCASTLE",
+            "Address": " 109 King Ave. E. ",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-05-05"
+        }
+    ],
+    "builderConditions": []
+}

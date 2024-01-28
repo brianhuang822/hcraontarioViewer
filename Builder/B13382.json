@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B13382",
+            "Umbrella": "Jackson Homes",
+            "Umbrella ID": "12542615",
+            "VB_NAME": "A.J. Jackson Developments Limited",
+            "OPERATINGNAME": null,
+            "CITY": "St. Pauls Station",
+            "HCRA_INITIALLICENSEDATE": "1979-09-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-31 14:47:01.000 +0000",
+            "Expiry Date": "2024-09-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3330 Road 119",
+            "TELEPHONE": "519-271-1104",
+            "FAX": "519-271-3163",
+            "WEBSITEURL": "www.jacksonhomes.ca",
+            "EMAIL": "alexinn@quadro.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "316346",
+            "TO": "Alexander Jackson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-1104"
+        },
+        {
+            "TOUNIQUENUMBER": "316346",
+            "TO": "Alexander Jackson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-1104"
+        },
+        {
+            "TOUNIQUENUMBER": "316346",
+            "TO": "Alexander Jackson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-1104"
+        },
+        {
+            "TOUNIQUENUMBER": "12429711",
+            "TO": "Julie Jackson Van Nes",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-1104"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B13382",
+            "Umbrella": "Jackson Homes",
+            "Umbrella ID": "12542615",
+            "VB_NAME": "A.J. Jackson Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B13382",
+            "MEMBERNAME": "A.J. Jackson Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B13382",
+            "Umbrella": "Jackson Homes",
+            "Umbrella ID": "12542615",
+            "VB_NAME": "A.J. Jackson Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44334",
+            "MEMBERNAME": "J.E. Jackson Realty Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28660",
+            "Umbrella": "Apple Group",
+            "Umbrella ID": "12251252",
+            "VB_NAME": "Apple Group Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2000-03-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-21 18:11:08.000 +0000",
+            "Expiry Date": "2024-03-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "401 Magnetic Drive",
+            "TELEPHONE": "416-730-1830",
+            "FAX": "416-730-9578",
+            "WEBSITEURL": null,
+            "EMAIL": "accounting@applegroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345551",
+            "TO": "Derek (Dariusz) Nedza",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-730-1830"
+        },
+        {
+            "TOUNIQUENUMBER": "345551",
+            "TO": "Derek (Dariusz) Nedza",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-730-1830"
+        },
+        {
+            "TOUNIQUENUMBER": "345551",
+            "TO": "Derek (Dariusz) Nedza",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-730-1830"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28660",
+            "Umbrella": "Apple Group",
+            "Umbrella ID": "12251252",
+            "VB_NAME": "Apple Group Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38087",
+            "MEMBERNAME": "Apple Group Developments (King Street) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28660",
+            "Umbrella": "Apple Group",
+            "Umbrella ID": "12251252",
+            "VB_NAME": "Apple Group Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28660",
+            "MEMBERNAME": "Apple Group Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B28660",
+            "Umbrella": "Apple Group",
+            "Umbrella ID": "12251252",
+            "VB_NAME": "Apple Group Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38086",
+            "MEMBERNAME": "Apple Group Developments (Grafton Avenue) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

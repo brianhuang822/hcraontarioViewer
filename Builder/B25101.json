@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25101",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Tech Home Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "MARKHAM",
+            "HCRA_INITIALLICENSEDATE": "2022-11-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-27 21:39:53.000 +0000",
+            "Expiry Date": "2024-11-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "130 Konrad Cres., Unit 18",
+            "TELEPHONE": "905-479-9013",
+            "FAX": "905-479-3097",
+            "WEBSITEURL": "www.techhomeltd.com",
+            "EMAIL": "info@techhomeltd.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 31,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 31,
+            "SUMM_CC": 5,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 3352,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3352
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341156",
+            "TO": "Liebgart Haas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-479-9013"
+        },
+        {
+            "TOUNIQUENUMBER": "341156",
+            "TO": "Liebgart Haas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-479-9013"
+        },
+        {
+            "TOUNIQUENUMBER": "341157",
+            "TO": "Juan Torres",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-479-9013"
+        },
+        {
+            "TOUNIQUENUMBER": "341157",
+            "TO": "Juan Torres",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-479-9013"
+        },
+        {
+            "TOUNIQUENUMBER": "314108",
+            "TO": "Fred Haas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-479-9013"
+        },
+        {
+            "TOUNIQUENUMBER": "314108",
+            "TO": "Fred Haas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-479-9013"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25101",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Tech Home Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,70 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "CDCL Developments",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "649 Scottsdale Dr., Ste. 500",
+            "TELEPHONE": "5198249400",
+            "FAX": "5198249090",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "255 Richmond Street East Inc.",
+            "MEMBEROPERATINGNAME": "Space",
+            "MEMBERVBNUM": "B30563",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bloorpark Developments Inc.",
+            "MEMBEROPERATINGNAME": "The Kingsway Condominiums",
+            "MEMBERVBNUM": "B32696",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "KINGSWAY",
+            "Account Number": "B32696",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": " 2855 Bloor St. W. ",
+            "# of Units": 135,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-09-13"
+        },
+        {
+            "Condo Project Name": "SPACE",
+            "Account Number": "B30563",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 255 Richmond St E ",
+            "# of Units": 228,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-09-15"
+        }
+    ]
+}

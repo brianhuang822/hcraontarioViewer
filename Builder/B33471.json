@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33471",
+            "Umbrella": "Vandenberg Brothers",
+            "Umbrella ID": "12540651",
+            "VB_NAME": "Vandenberg Brothers Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LUCAN",
+            "HCRA_INITIALLICENSEDATE": "2003-05-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-05-30 12:31:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "33415 Coursey Line, R.R.1",
+            "TELEPHONE": "519-859-4940",
+            "FAX": "519-227-0182",
+            "WEBSITEURL": null,
+            "EMAIL": "marius@vendenbergbrothers.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340072",
+            "TO": "Marius Vandenberg",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-227-0442"
+        },
+        {
+            "TOUNIQUENUMBER": "340072",
+            "TO": "Marius Vandenberg",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-227-0442"
+        },
+        {
+            "TOUNIQUENUMBER": "11911611",
+            "TO": "Monica Vandenberg",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11911611",
+            "TO": "Monica Vandenberg",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33471",
+            "Umbrella": "Vandenberg Brothers",
+            "Umbrella ID": "12540651",
+            "VB_NAME": "Vandenberg Brothers Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24446",
+            "MEMBERNAME": "Vandenberg Brothers Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33471",
+            "Umbrella": "Vandenberg Brothers",
+            "Umbrella ID": "12540651",
+            "VB_NAME": "Vandenberg Brothers Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33471",
+            "MEMBERNAME": "Vandenberg Brothers Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

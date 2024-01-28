@@ -1,0 +1,155 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "R.J. Nicol Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "1976-12-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1993-12-16 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1755 Courtwood Cres.",
+            "TELEPHONE": "613-225-9041",
+            "FAX": "613-225-3592",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "324879",
+            "TO": "John P. O'Connor",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "324879",
+            "TO": "John P. O'Connor",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312932",
+            "TO": "Patricia M. Nicol",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312932",
+            "TO": "Patricia M. Nicol",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312932",
+            "TO": "Patricia M. Nicol",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "318523",
+            "TO": "Raymond J. Lacroix",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "318523",
+            "TO": "Raymond J. Lacroix",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "324587",
+            "TO": "Robert J. Nicol",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "324587",
+            "TO": "Robert J. Nicol",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "324587",
+            "TO": "Robert J. Nicol",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "R.J. Nicol Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "ALTA VISTA COURT",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "1440 Heron Road",
+            "# of Units": 83,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-04-22"
+        },
+        {
+            "Condo Project Name": "WOODFIELD DR.",
+            "Project Status": "Completed",
+            "Location": "NEPEAN",
+            "Address": "211 Woodfield Dr.",
+            "# of Units": 69,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1985-02-07"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "NEPEAN",
+            "Address": "Dalehurst Dr.",
+            "# of Units": 37,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1983-06-22"
+        }
+    ],
+    "builderConditions": []
+}

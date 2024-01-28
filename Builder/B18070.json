@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B18070",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Lakeside Condominiums Southampton Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "SOUTHAMPTON",
+            "HCRA_INITIALLICENSEDATE": "1990-02-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1991-06-17 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "383 McNabb Street_____box 1077",
+            "TELEPHONE": "(519)797-5858",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "327413",
+            "TO": "Earl Putnam",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "317622",
+            "TO": "Montgomery King",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "334305",
+            "TO": "Pasquale Trunzo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-425-2500"
+        },
+        {
+            "TOUNIQUENUMBER": "334305",
+            "TO": "Pasquale Trunzo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-425-2500"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B18070",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Lakeside Condominiums Southampton Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "NOT KNOWN",
+            "Project Status": "Completed",
+            "Location": "SOUTHAMPTON",
+            "Address": "383 McNabb St.",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-10-10"
+        }
+    ],
+    "builderConditions": []
+}

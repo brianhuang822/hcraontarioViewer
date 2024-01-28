@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26065",
+            "Umbrella": "Lexis-Bayview Developments",
+            "Umbrella ID": "11158",
+            "VB_NAME": "1203383 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "1997-05-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-17 21:12:36.000 +0000",
+            "Expiry Date": "2024-05-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "255 Duncan Mill Road",
+            "TELEPHONE": "416-449-7501",
+            "FAX": "416-449-7336",
+            "WEBSITEURL": null,
+            "EMAIL": "Lbdwarren@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342407",
+            "TO": "Warren Li",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-7501"
+        },
+        {
+            "TOUNIQUENUMBER": "342407",
+            "TO": "Warren Li",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-7501"
+        },
+        {
+            "TOUNIQUENUMBER": "342407",
+            "TO": "Warren Li",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-7501"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26065",
+            "Umbrella": "Lexis-Bayview Developments",
+            "Umbrella ID": "11158",
+            "VB_NAME": "1203383 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B22266",
+            "MEMBERNAME": "959906 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Bayview-Mulock Gardens",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26065",
+            "Umbrella": "Lexis-Bayview Developments",
+            "Umbrella ID": "11158",
+            "VB_NAME": "1203383 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26011",
+            "MEMBERNAME": "Farrita Enterprises Inc.",
+            "MEMBEROPERATINGNAME": "Sunway Court in Markham",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26065",
+            "Umbrella": "Lexis-Bayview Developments",
+            "Umbrella ID": "11158",
+            "VB_NAME": "1203383 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26065",
+            "MEMBERNAME": "1203383 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27316",
+            "Umbrella": "Ravenda Homes",
+            "Umbrella ID": "12539881",
+            "VB_NAME": "Ravenda Homes Ltd.",
+            "OPERATINGNAME": "Ravenda Homes Ltd",
+            "CITY": "Welland",
+            "HCRA_INITIALLICENSEDATE": "1998-04-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-03 15:38:41.000 +0000",
+            "Expiry Date": "2024-04-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "916 Niagara Street",
+            "TELEPHONE": "905-735-6091",
+            "FAX": "905-892-9465",
+            "WEBSITEURL": "www.ravendahomes.com",
+            "EMAIL": "jravenda@cogeco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "327724",
+            "TO": "John Peter Ravenda",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-0010"
+        },
+        {
+            "TOUNIQUENUMBER": "327724",
+            "TO": "John Peter Ravenda",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-0010"
+        },
+        {
+            "TOUNIQUENUMBER": "327724",
+            "TO": "John Peter Ravenda",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-0010"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27316",
+            "Umbrella": "Ravenda Homes",
+            "Umbrella ID": "12539881",
+            "VB_NAME": "Ravenda Homes Ltd.",
+            "OPERATINGNAME": "Ravenda Homes Ltd",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27316",
+            "MEMBERNAME": "Ravenda Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Ravenda Homes Ltd",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27316",
+            "Umbrella": "Ravenda Homes",
+            "Umbrella ID": "12539881",
+            "VB_NAME": "Ravenda Homes Ltd.",
+            "OPERATINGNAME": "Ravenda Homes Ltd",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B12683",
+            "MEMBERNAME": "Ravenda & Ravenda Const.Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27316",
+            "Umbrella": "Ravenda Homes",
+            "Umbrella ID": "12539881",
+            "VB_NAME": "Ravenda Homes Ltd.",
+            "OPERATINGNAME": "Ravenda Homes Ltd",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B18508",
+            "MEMBERNAME": "Ravenda & Ravenda Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

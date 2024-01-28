@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21652",
+            "Umbrella": "Medway Homes",
+            "Umbrella ID": "10385",
+            "VB_NAME": "Medway Homes Inc.",
+            "OPERATINGNAME": "Medway Homes Inc.",
+            "CITY": "Grand Bend",
+            "HCRA_INITIALLICENSEDATE": "1991-12-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-21 20:28:23.000 +0000",
+            "Expiry Date": "2024-12-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "70477 Mollard Line",
+            "TELEPHONE": "519-238-5253",
+            "FAX": "1-519-850-7132",
+            "WEBSITEURL": "www.medwayhomes.ca",
+            "EMAIL": "accounting@medwayhomes.ca",
+            "ACCOUNTNUMBER": "B21652",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 121,
+            "SUMM_CONDO": 3,
+            "SUMM_TOTAL": 124,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338847",
+            "TO": "Paul Pittao",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-238-5253"
+        },
+        {
+            "TOUNIQUENUMBER": "338847",
+            "TO": "Paul Pittao",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-238-5253"
+        },
+        {
+            "TOUNIQUENUMBER": "338847",
+            "TO": "Paul Pittao",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-238-5253"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21652",
+            "Umbrella": "Medway Homes",
+            "Umbrella ID": "10385",
+            "VB_NAME": "Medway Homes Inc.",
+            "OPERATINGNAME": "Medway Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B21652",
+            "MEMBERNAME": "Medway Homes Inc.",
+            "MEMBEROPERATINGNAME": "Medway Homes Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B21652",
+            "Umbrella": "Medway Homes",
+            "Umbrella ID": "10385",
+            "VB_NAME": "Medway Homes Inc.",
+            "OPERATINGNAME": "Medway Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26936",
+            "MEMBERNAME": "M. Pittao Investments Inc.",
+            "MEMBEROPERATINGNAME": "Pittao Estate Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "South of Main Beach Town Villas",
+            "Project Status": null,
+            "Location": "GRAND BEND",
+            "Address": " 2-10 Coastal Crescent ",
+            "# of Units": 72,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Harbourside Condominiums",
+            "Project Status": null,
+            "Location": "LAMBTON",
+            "Address": " 56 Sunrise Ln. ",
+            "# of Units": 37,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

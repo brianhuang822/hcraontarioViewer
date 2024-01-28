@@ -1,0 +1,104 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46819",
+            "Umbrella": "Andon Fine Homes",
+            "Umbrella ID": "11474",
+            "VB_NAME": "2210287 Ontario Inc.",
+            "OPERATINGNAME": "Andon Fine Homes",
+            "CITY": "Thornhill",
+            "HCRA_INITIALLICENSEDATE": "2018-03-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-23 14:28:52.000 +0000",
+            "Expiry Date": "2024-03-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "370 Steeles Avenue West Suite 103",
+            "TELEPHONE": "416-431-3111",
+            "FAX": "905-764-2518",
+            "WEBSITEURL": "www.andon.ca",
+            "EMAIL": "alan@andon.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 17,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 17,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342670",
+            "TO": "Alan Newton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-431-3111"
+        },
+        {
+            "TOUNIQUENUMBER": "342670",
+            "TO": "Alan Newton",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-431-3111"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46819",
+            "Umbrella": "Andon Fine Homes",
+            "Umbrella ID": "11474",
+            "VB_NAME": "2210287 Ontario Inc.",
+            "OPERATINGNAME": "Andon Fine Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26311",
+            "MEMBERNAME": "976372 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46819",
+            "Umbrella": "Andon Fine Homes",
+            "Umbrella ID": "11474",
+            "VB_NAME": "2210287 Ontario Inc.",
+            "OPERATINGNAME": "Andon Fine Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28104",
+            "MEMBERNAME": "1312562 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46819",
+            "Umbrella": "Andon Fine Homes",
+            "Umbrella ID": "11474",
+            "VB_NAME": "2210287 Ontario Inc.",
+            "OPERATINGNAME": "Andon Fine Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46819",
+            "MEMBERNAME": "2210287 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Andon Fine Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46819",
+            "Umbrella": "Andon Fine Homes",
+            "Umbrella ID": "11474",
+            "VB_NAME": "2210287 Ontario Inc.",
+            "OPERATINGNAME": "Andon Fine Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33587",
+            "MEMBERNAME": "1246840 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

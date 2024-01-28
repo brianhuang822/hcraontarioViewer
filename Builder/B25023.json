@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25023",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Newport Properties Limited",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1995-08-21",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2001-12-13 04:09:39.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "46 Hummingbird Cres.",
+            "TELEPHONE": "(519)668-0881",
+            "FAX": "(519)668-0883",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341043",
+            "TO": "Tarik Shousher",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-1125"
+        },
+        {
+            "TOUNIQUENUMBER": "341043",
+            "TO": "Tarik Shousher",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-1125"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25023",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Newport Properties Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WOODGREEN GATE - PHASE III",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "750 Osgoode Dr.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-02-17"
+        },
+        {
+            "Condo Project Name": "WOODGREEN GATE - PHASE II",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "750 Osgoode Dr.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-12-24"
+        },
+        {
+            "Condo Project Name": "WOODGREEN GATE",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "750 Osgoode Drive",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-03-21"
+        }
+    ],
+    "builderConditions": []
+}

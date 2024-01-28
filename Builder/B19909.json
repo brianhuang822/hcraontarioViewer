@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B19909",
+            "Umbrella": "Croft Builders",
+            "Umbrella ID": "12289059",
+            "VB_NAME": "Croft Builders (Shelburne) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MULMUR",
+            "HCRA_INITIALLICENSEDATE": "1990-05-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-05-05 15:01:08.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "836421 4th Line E.",
+            "TELEPHONE": "705/720-0074",
+            "FAX": null,
+            "WEBSITEURL": "croftbuilders.com",
+            "EMAIL": "ken@croftbuilders.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11786906",
+            "TO": "Martha Jackson Pagel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-925-1355"
+        },
+        {
+            "TOUNIQUENUMBER": "325377",
+            "TO": "Kenneth (Ken) Pagel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-720-0074"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B19909",
+            "Umbrella": "Croft Builders",
+            "Umbrella ID": "12289059",
+            "VB_NAME": "Croft Builders (Shelburne) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B19909",
+            "MEMBERNAME": "Croft Builders (Shelburne) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B19909",
+            "Umbrella": "Croft Builders",
+            "Umbrella ID": "12289059",
+            "VB_NAME": "Croft Builders (Shelburne) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38559",
+            "MEMBERNAME": "Croft Builders (Orangeville) Inc.",
+            "MEMBEROPERATINGNAME": "Croft Builders",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

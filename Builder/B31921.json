@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31921",
+            "Umbrella": "Langendoen Custom Bldg.",
+            "Umbrella ID": "12540180",
+            "VB_NAME": "Robert, Matthew, & Stephen Langendoen",
+            "OPERATINGNAME": null,
+            "CITY": "CLINTON",
+            "HCRA_INITIALLICENSEDATE": "2002-01-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-01-23 13:31:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 1850, 120 Osbourne St.",
+            "TELEPHONE": "(519)482-9166",
+            "FAX": "(519)482-8888",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11742437",
+            "TO": "Stephen R. Langendoen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-525-7236"
+        },
+        {
+            "TOUNIQUENUMBER": "11742436",
+            "TO": "Matthew I. Langendoen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-482-9166"
+        },
+        {
+            "TOUNIQUENUMBER": "318847",
+            "TO": "Robert (Bob) George Langendoen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-482-9166"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31921",
+            "Umbrella": "Langendoen Custom Bldg.",
+            "Umbrella ID": "12540180",
+            "VB_NAME": "Robert, Matthew, & Stephen Langendoen",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31921",
+            "MEMBERNAME": "Robert, Matthew, & Stephen Langendoen",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31921",
+            "Umbrella": "Langendoen Custom Bldg.",
+            "Umbrella ID": "12540180",
+            "VB_NAME": "Robert, Matthew, & Stephen Langendoen",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34984",
+            "MEMBERNAME": "Langendoen Custom Building Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60772",
+            "Umbrella": "Athenium Estates",
+            "Umbrella ID": "500000945",
+            "VB_NAME": "12330172 Canada Corporation",
+            "OPERATINGNAME": "Athenium Estates",
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2022-02-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-11 20:50:35.000 +0000",
+            "Expiry Date": "2025-02-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1730 St. Laurent Boulevard",
+            "TELEPHONE": "438-989-6445",
+            "FAX": "613-237-9181",
+            "WEBSITEURL": null,
+            "EMAIL": "nicholas@kmlawfirm.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600007476",
+            "TO": "Nicholas Katsepontes",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "438-989-6445"
+        },
+        {
+            "TOUNIQUENUMBER": "600007476",
+            "TO": "Nicholas Katsepontes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "438-989-6445"
+        },
+        {
+            "TOUNIQUENUMBER": "600007476",
+            "TO": "Nicholas Katsepontes",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "438-989-6445"
+        },
+        {
+            "TOUNIQUENUMBER": "100684908",
+            "TO": "Nicola Rabay",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-561-2533"
+        },
+        {
+            "TOUNIQUENUMBER": "100684908",
+            "TO": "Nicola Rabay",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-561-2533"
+        },
+        {
+            "TOUNIQUENUMBER": "100684908",
+            "TO": "Nicola Rabay",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-561-2533"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60772",
+            "Umbrella": "Athenium Estates",
+            "Umbrella ID": "500000945",
+            "VB_NAME": "12330172 Canada Corporation",
+            "OPERATINGNAME": "Athenium Estates",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48927",
+            "MEMBERNAME": "NJD Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60772",
+            "Umbrella": "Athenium Estates",
+            "Umbrella ID": "500000945",
+            "VB_NAME": "12330172 Canada Corporation",
+            "OPERATINGNAME": "Athenium Estates",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60772",
+            "MEMBERNAME": "12330172 Canada Corporation",
+            "MEMBEROPERATINGNAME": "Athenium Estates",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,142 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48586",
+            "Umbrella": "Carmel Homes",
+            "Umbrella ID": "12261456",
+            "VB_NAME": "2738852 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Guelph",
+            "HCRA_INITIALLICENSEDATE": "2020-10-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-06 15:24:39.000 +0000",
+            "Expiry Date": "2024-10-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "681 Wellington Street West",
+            "TELEPHONE": "519-836-4084",
+            "FAX": "519-836-1037",
+            "WEBSITEURL": " ",
+            "EMAIL": "paulmehrab@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 17,
+            "SUMM_TOTAL": 17,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341981",
+            "TO": "Bahauddin Paul Mehrabkhani",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-836-4084"
+        },
+        {
+            "TOUNIQUENUMBER": "341981",
+            "TO": "Bahauddin Paul Mehrabkhani",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-836-4084"
+        },
+        {
+            "TOUNIQUENUMBER": "341981",
+            "TO": "Bahauddin Paul Mehrabkhani",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-836-4084"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48586",
+            "Umbrella": "Carmel Homes",
+            "Umbrella ID": "12261456",
+            "VB_NAME": "2738852 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41668",
+            "MEMBERNAME": "2086042 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48586",
+            "Umbrella": "Carmel Homes",
+            "Umbrella ID": "12261456",
+            "VB_NAME": "2738852 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38209",
+            "MEMBERNAME": "2124378 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48586",
+            "Umbrella": "Carmel Homes",
+            "Umbrella ID": "12261456",
+            "VB_NAME": "2738852 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25707",
+            "MEMBERNAME": "1226942 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Carmel Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48586",
+            "Umbrella": "Carmel Homes",
+            "Umbrella ID": "12261456",
+            "VB_NAME": "2738852 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48586",
+            "MEMBERNAME": "2738852 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Featherstone",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": " 714 Willow Rd. ",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Featherstone",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": " 714 Willow Rd. ",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Featherstone",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": " 714 Willow Rd. ",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

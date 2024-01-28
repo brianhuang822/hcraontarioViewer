@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B49055",
+            "Umbrella": "Venetian Homes",
+            "Umbrella ID": "12542188",
+            "VB_NAME": "300 Atkinson Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-05-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-19 20:18:23.000 +0000",
+            "Expiry Date": "2024-05-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "220 Duncan Mill Road",
+            "TELEPHONE": "416-444-8780",
+            "FAX": "416-444-9870",
+            "WEBSITEURL": "http://aryacorp.ca",
+            "EMAIL": "mabhary@aryacorp.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600006737",
+            "TO": "Faramarz Fallah",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-451-4792"
+        },
+        {
+            "TOUNIQUENUMBER": "600006738",
+            "TO": "Foroud Fallah",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-343-4390"
+        },
+        {
+            "TOUNIQUENUMBER": "600006738",
+            "TO": "Foroud Fallah",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-343-4390"
+        },
+        {
+            "TOUNIQUENUMBER": "100324735",
+            "TO": "Kamran Sabouri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-728-0176"
+        },
+        {
+            "TOUNIQUENUMBER": "11996156",
+            "TO": "Mohammad Abhary",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-444-8780"
+        },
+        {
+            "TOUNIQUENUMBER": "11996156",
+            "TO": "Mohammad Abhary",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-444-8780"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B49055",
+            "Umbrella": "Venetian Homes",
+            "Umbrella ID": "12542188",
+            "VB_NAME": "300 Atkinson Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48976",
+            "MEMBERNAME": "2452595 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B49055",
+            "Umbrella": "Venetian Homes",
+            "Umbrella ID": "12542188",
+            "VB_NAME": "300 Atkinson Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36897",
+            "MEMBERNAME": "Venetian Development Group Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B49055",
+            "Umbrella": "Venetian Homes",
+            "Umbrella ID": "12542188",
+            "VB_NAME": "300 Atkinson Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B49055",
+            "MEMBERNAME": "300 Atkinson Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Rosepark Towns",
+            "Project Status": "In Progress",
+            "Location": "VAUGHAN",
+            "Address": " 300 Atkinson Avenue ",
+            "# of Units": 106,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

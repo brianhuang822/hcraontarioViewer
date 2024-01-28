@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48151",
+            "Umbrella": "SBH-WBE",
+            "Umbrella ID": "12551581",
+            "VB_NAME": "Wellington Bay Estates Limited",
+            "OPERATINGNAME": "WB Homes",
+            "CITY": "Welland",
+            "HCRA_INITIALLICENSEDATE": "2023-08-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-01 00:17:41.000 +0000",
+            "Expiry Date": "2024-08-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "12 Darte Drive",
+            "TELEPHONE": "289-213-6654",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "wbestate2023@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 25,
+            "SUMM_TOTAL": 26,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341588",
+            "TO": "Darcel Berkhout",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-213-6654"
+        },
+        {
+            "TOUNIQUENUMBER": "341588",
+            "TO": "Darcel Berkhout",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-213-6654"
+        },
+        {
+            "TOUNIQUENUMBER": "11974904",
+            "TO": "Conrad Guziewicz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-838-3824"
+        },
+        {
+            "TOUNIQUENUMBER": "11974904",
+            "TO": "Conrad Guziewicz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-838-3824"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48151",
+            "Umbrella": "SBH-WBE",
+            "Umbrella ID": "12551581",
+            "VB_NAME": "Wellington Bay Estates Limited",
+            "OPERATINGNAME": "WB Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34064",
+            "MEMBERNAME": "Sandbank Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48151",
+            "Umbrella": "SBH-WBE",
+            "Umbrella ID": "12551581",
+            "VB_NAME": "Wellington Bay Estates Limited",
+            "OPERATINGNAME": "WB Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48151",
+            "MEMBERNAME": "Wellington Bay Estates Limited",
+            "MEMBEROPERATINGNAME": "WB Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Abbot Lane Towns",
+            "Project Status": null,
+            "Location": "PICTON",
+            "Address": "  Abbot Lane ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Dayton Court Towns",
+            "Project Status": "In Progress",
+            "Location": "PICTON",
+            "Address": "  Block 43 On Plan 47M13 ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

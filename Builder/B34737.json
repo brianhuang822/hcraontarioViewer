@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34737",
+            "Umbrella": "Spence Construction & Renovations",
+            "Umbrella ID": "12545410",
+            "VB_NAME": "Spence Construction & Renovations Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "WATERFORD",
+            "HCRA_INITIALLICENSEDATE": "2004-07-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-07-22 15:01:14.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7 Simon Crt.",
+            "TELEPHONE": "519-443-0222",
+            "FAX": "519-443-0236",
+            "WEBSITEURL": null,
+            "EMAIL": "davidspence@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12018340",
+            "TO": "David William Spence",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-427-9665"
+        },
+        {
+            "TOUNIQUENUMBER": "12018340",
+            "TO": "David William Spence",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-427-9665"
+        },
+        {
+            "TOUNIQUENUMBER": "12018340",
+            "TO": "David William Spence",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-427-9665"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34737",
+            "Umbrella": "Spence Construction & Renovations",
+            "Umbrella ID": "12545410",
+            "VB_NAME": "Spence Construction & Renovations Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34737",
+            "MEMBERNAME": "Spence Construction & Renovations Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34737",
+            "Umbrella": "Spence Construction & Renovations",
+            "Umbrella ID": "12545410",
+            "VB_NAME": "Spence Construction & Renovations Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44795",
+            "MEMBERNAME": "Spence Construction & Renovations Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

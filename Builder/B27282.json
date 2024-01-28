@@ -1,0 +1,136 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27282",
+            "Umbrella": "The Hi-Rise Group",
+            "Umbrella ID": "10068",
+            "VB_NAME": "Spencer's Landing Inc.",
+            "OPERATINGNAME": "Spencer's Landing",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1998-05-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2002-05-28 12:34:30.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "25 Imperial St., Ste. 200",
+            "TELEPHONE": "(416)484-1230",
+            "FAX": "(416)484-9899",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "337011",
+            "TO": "Domenic Molinaro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-634-1128"
+        },
+        {
+            "TOUNIQUENUMBER": "337011",
+            "TO": "Domenic Molinaro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-634-1128"
+        },
+        {
+            "TOUNIQUENUMBER": "313651",
+            "TO": "Warren Green",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-484-1230"
+        },
+        {
+            "TOUNIQUENUMBER": "313651",
+            "TO": "Warren Green",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-484-1230"
+        },
+        {
+            "TOUNIQUENUMBER": "321351",
+            "TO": "Shawn Marr",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-484-1230"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27282",
+            "Umbrella": "The Hi-Rise Group",
+            "Umbrella ID": "10068",
+            "VB_NAME": "Spencer's Landing Inc.",
+            "OPERATINGNAME": "Spencer's Landing",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27278",
+            "MEMBERNAME": "Hi-Rise Structures Inc. & Fineway Properties Ltd.",
+            "MEMBEROPERATINGNAME": "The Jordan Residential Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27282",
+            "Umbrella": "The Hi-Rise Group",
+            "Umbrella ID": "10068",
+            "VB_NAME": "Spencer's Landing Inc.",
+            "OPERATINGNAME": "Spencer's Landing",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27277",
+            "MEMBERNAME": "Hi-Rise Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27282",
+            "Umbrella": "The Hi-Rise Group",
+            "Umbrella ID": "10068",
+            "VB_NAME": "Spencer's Landing Inc.",
+            "OPERATINGNAME": "Spencer's Landing",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44513",
+            "MEMBERNAME": "Spice Danforth Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27282",
+            "Umbrella": "The Hi-Rise Group",
+            "Umbrella ID": "10068",
+            "VB_NAME": "Spencer's Landing Inc.",
+            "OPERATINGNAME": "Spencer's Landing",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27282",
+            "MEMBERNAME": "Spencer's Landing Inc.",
+            "MEMBEROPERATINGNAME": "Spencer's Landing",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "SPENCER'S LANDING",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "442 Maple Ave.",
+            "# of Units": 125,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-10-22"
+        }
+    ],
+    "builderConditions": []
+}

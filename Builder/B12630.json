@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B12630",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Beachview Residences Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "ST. CATHARINES",
+            "HCRA_INITIALLICENSEDATE": "1976-01-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1987-11-10 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "333 Lake Street",
+            "TELEPHONE": "(416)934-2571",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "324332",
+            "TO": "R. Neal",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "317430",
+            "TO": "T. Kennedy",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B12630",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Beachview Residences Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "GENEVA ST. CONDO",
+            "Project Status": "Completed",
+            "Location": "ST CATHARINES",
+            "Address": "701 Geneva St",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1987-08-24"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "In Progress",
+            "Location": "ST. CATHARINES",
+            "Address": "Geneva St.",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

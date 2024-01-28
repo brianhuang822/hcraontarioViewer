@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23956",
+            "Umbrella": "Bucci Homes",
+            "Umbrella ID": "11637784",
+            "VB_NAME": "Bucci Homes Inc.",
+            "OPERATINGNAME": "Bucci Homes",
+            "CITY": "Hamilton",
+            "HCRA_INITIALLICENSEDATE": "1994-05-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-07 18:15:35.000 +0000",
+            "Expiry Date": "2024-05-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "427 Montmorency Court",
+            "TELEPHONE": "905-560-9566",
+            "FAX": "905-538-1884",
+            "WEBSITEURL": "www.buccihomes.com",
+            "EMAIL": "ray.bucci@buccihomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 54,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 54,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304578",
+            "TO": "Ray Bucci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-719-7626"
+        },
+        {
+            "TOUNIQUENUMBER": "304578",
+            "TO": "Ray Bucci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-719-7626"
+        },
+        {
+            "TOUNIQUENUMBER": "304578",
+            "TO": "Ray Bucci",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-719-7626"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23956",
+            "Umbrella": "Bucci Homes",
+            "Umbrella ID": "11637784",
+            "VB_NAME": "Bucci Homes Inc.",
+            "OPERATINGNAME": "Bucci Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45956",
+            "MEMBERNAME": "Hallawest Developments (Milton) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B23956",
+            "Umbrella": "Bucci Homes",
+            "Umbrella ID": "11637784",
+            "VB_NAME": "Bucci Homes Inc.",
+            "OPERATINGNAME": "Bucci Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35771",
+            "MEMBERNAME": "Hallawest Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B23956",
+            "Umbrella": "Bucci Homes",
+            "Umbrella ID": "11637784",
+            "VB_NAME": "Bucci Homes Inc.",
+            "OPERATINGNAME": "Bucci Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B23956",
+            "MEMBERNAME": "Bucci Homes Inc.",
+            "MEMBEROPERATINGNAME": "Bucci Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Bliss By The Lake Grimsby",
+            "Project Status": null,
+            "Location": "GRIMSBY",
+            "Address": "376 Lake St.",
+            "# of Units": 57,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

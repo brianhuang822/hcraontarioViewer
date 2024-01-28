@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B14411",
+            "Umbrella": "Dorr-Ann Builders",
+            "Umbrella ID": "12539771",
+            "VB_NAME": "Don Ann Builders Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "FOREST",
+            "HCRA_INITIALLICENSEDATE": "1977-01-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1986-05-06 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Box 535",
+            "TELEPHONE": "(519)786-2222",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "322244",
+            "TO": "Donald C. McGregor",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-786-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "322248",
+            "TO": "Margaret McGregor",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B14411",
+            "Umbrella": "Dorr-Ann Builders",
+            "Umbrella ID": "12539771",
+            "VB_NAME": "Don Ann Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31750",
+            "MEMBERNAME": "Don-Ann Builders Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B14411",
+            "Umbrella": "Dorr-Ann Builders",
+            "Umbrella ID": "12539771",
+            "VB_NAME": "Don Ann Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B14411",
+            "MEMBERNAME": "Don Ann Builders Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B14411",
+            "Umbrella": "Dorr-Ann Builders",
+            "Umbrella ID": "12539771",
+            "VB_NAME": "Don Ann Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B21148",
+            "MEMBERNAME": "Don-Ann Builders Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

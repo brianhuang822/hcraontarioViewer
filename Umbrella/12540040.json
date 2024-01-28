@@ -1,0 +1,100 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Riverdance Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "4747 Pleasant Pl., Ste. 100",
+            "TELEPHONE": "519/252-1017",
+            "FAX": "519/252-1018",
+            "WEBSITEURL": " ",
+            "EMAIL": "jmt@wintru.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Real Ranch's Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36876",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Riverdance Inc.",
+            "MEMBEROPERATINGNAME": "Riverdance Marina Condominiums",
+            "MEMBERVBNUM": "B25801",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Village Grove Corporation",
+            "MEMBEROPERATINGNAME": "Village Grove",
+            "MEMBERVBNUM": "B32683",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Village Grove Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36068",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Village Grove Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36398",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Village Grove Corporation",
+            "MEMBEROPERATINGNAME": "Village Grove",
+            "MEMBERVBNUM": "B23076",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cantelon East Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35714",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Village Grove Gardens",
+            "Account Number": "B36398",
+            "Project Status": "Completed",
+            "Location": "TECUMSEH",
+            "Address": "325 Village Grove Dr.",
+            "# of Units": 41,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-11-28"
+        },
+        {
+            "Condo Project Name": "VILLAGE GROVE",
+            "Account Number": "B23076",
+            "Project Status": "Completed",
+            "Location": "ST. CLAIR BEACH",
+            "Address": "397 Tuscany Cres.",
+            "# of Units": 41,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-11-25"
+        }
+    ]
+}

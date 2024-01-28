@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42347",
+            "Umbrella": "Titan Contracting Homes",
+            "Umbrella ID": "12540856",
+            "VB_NAME": "TCI Titan Contracting Incorporated",
+            "OPERATINGNAME": null,
+            "CITY": "Windsor",
+            "HCRA_INITIALLICENSEDATE": "2013-01-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-06 16:37:57.000 +0000",
+            "Expiry Date": "2024-06-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2489 Seminole Street",
+            "TELEPHONE": "519-977-1125",
+            "FAX": "5199770352",
+            "WEBSITEURL": "www.tciwindsor.com",
+            "EMAIL": "accounting1@tciwindsor.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 9931.67,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 9931.67
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11690553",
+            "TO": "Arturo Ussoletti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-977-1125"
+        },
+        {
+            "TOUNIQUENUMBER": "11690553",
+            "TO": "Arturo Ussoletti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-977-1125"
+        },
+        {
+            "TOUNIQUENUMBER": "11690553",
+            "TO": "Arturo Ussoletti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-977-1125"
+        },
+        {
+            "TOUNIQUENUMBER": "11732998",
+            "TO": "Celina Ussoletti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-977-1125"
+        },
+        {
+            "TOUNIQUENUMBER": "11732998",
+            "TO": "Celina Ussoletti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-977-1125"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42347",
+            "Umbrella": "Titan Contracting Homes",
+            "Umbrella ID": "12540856",
+            "VB_NAME": "TCI Titan Contracting Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31128",
+            "MEMBERNAME": "Titan Contracting (Windsor) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B42347",
+            "Umbrella": "Titan Contracting Homes",
+            "Umbrella ID": "12540856",
+            "VB_NAME": "TCI Titan Contracting Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42347",
+            "MEMBERNAME": "TCI Titan Contracting Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

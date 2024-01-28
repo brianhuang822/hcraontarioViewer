@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61667",
+            "Umbrella": "Inspiration Point Developments",
+            "Umbrella ID": "500002307",
+            "VB_NAME": "Inspiration Point Towns Inc.",
+            "OPERATINGNAME": "Inspiration Point Towns Inc.",
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2023-05-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-24 12:59:09.000 +0000",
+            "Expiry Date": "2024-05-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4020A Sladeview Crescent",
+            "TELEPHONE": "905-607-9600",
+            "FAX": "905-607-7757",
+            "WEBSITEURL": "https://trisectconstruction.com/",
+            "EMAIL": "tbutkovic@trisectconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342074",
+            "TO": "Tom Butkovic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-607-9600"
+        },
+        {
+            "TOUNIQUENUMBER": "342074",
+            "TO": "Tom Butkovic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-607-9600"
+        },
+        {
+            "TOUNIQUENUMBER": "342074",
+            "TO": "Tom Butkovic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-607-9600"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61667",
+            "Umbrella": "Inspiration Point Developments",
+            "Umbrella ID": "500002307",
+            "VB_NAME": "Inspiration Point Towns Inc.",
+            "OPERATINGNAME": "Inspiration Point Towns Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61667",
+            "MEMBERNAME": "Inspiration Point Towns Inc.",
+            "MEMBEROPERATINGNAME": "Inspiration Point Towns Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61667",
+            "Umbrella": "Inspiration Point Developments",
+            "Umbrella ID": "500002307",
+            "VB_NAME": "Inspiration Point Towns Inc.",
+            "OPERATINGNAME": "Inspiration Point Towns Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61536",
+            "MEMBERNAME": "Inspiration Point Residences Inc.",
+            "MEMBEROPERATINGNAME": "Inspiration Point Residences Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Inspiration Point Towns",
+            "Project Status": "In Progress",
+            "Location": "GRIMSBY",
+            "Address": " 15 Lake Street ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43418",
+            "Umbrella": "Robinson Carpentry",
+            "Umbrella ID": "12544085",
+            "VB_NAME": "Nicholas Eric W. Robinson & Meagan C. Robinson",
+            "OPERATINGNAME": null,
+            "CITY": "CARRYINGPLACE",
+            "HCRA_INITIALLICENSEDATE": "2014-01-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-01-25 14:01:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "20858 Loyalist Pkwy.",
+            "TELEPHONE": "613/921-8443",
+            "FAX": null,
+            "WEBSITEURL": "www.robinsoncarpentry.ca",
+            "EMAIL": "n.robinsoncarpentry@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100207207",
+            "TO": "Meagan Robinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-243-3322"
+        },
+        {
+            "TOUNIQUENUMBER": "100207206",
+            "TO": "Nicholas Robinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-921-8443"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43418",
+            "Umbrella": "Robinson Carpentry",
+            "Umbrella ID": "12544085",
+            "VB_NAME": "Nicholas Eric W. Robinson & Meagan C. Robinson",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45002",
+            "MEMBERNAME": "Robinson Carpentry Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43418",
+            "Umbrella": "Robinson Carpentry",
+            "Umbrella ID": "12544085",
+            "VB_NAME": "Nicholas Eric W. Robinson & Meagan C. Robinson",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43418",
+            "MEMBERNAME": "Nicholas Eric W. Robinson & Meagan C. Robinson",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60184",
+            "Umbrella": "Melcast",
+            "Umbrella ID": "12552447",
+            "VB_NAME": "2813888 Ontario Inc.",
+            "OPERATINGNAME": "2813888 Ontario Inc.",
+            "CITY": "Kingsville",
+            "HCRA_INITIALLICENSEDATE": "2021-06-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-08 17:50:37.000 +0000",
+            "Expiry Date": "2024-06-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO BOX 152",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "jmelo@melollp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600007268",
+            "TO": "Kelly Melo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-564-2168"
+        },
+        {
+            "TOUNIQUENUMBER": "100622689",
+            "TO": "Jason Melo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-564-2168"
+        },
+        {
+            "TOUNIQUENUMBER": "100622689",
+            "TO": "Jason Melo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-564-2168"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60184",
+            "Umbrella": "Melcast",
+            "Umbrella ID": "12552447",
+            "VB_NAME": "2813888 Ontario Inc.",
+            "OPERATINGNAME": "2813888 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48542",
+            "MEMBERNAME": "BELCASA Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60184",
+            "Umbrella": "Melcast",
+            "Umbrella ID": "12552447",
+            "VB_NAME": "2813888 Ontario Inc.",
+            "OPERATINGNAME": "2813888 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60184",
+            "MEMBERNAME": "2813888 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2813888 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60184",
+            "Umbrella": "Melcast",
+            "Umbrella ID": "12552447",
+            "VB_NAME": "2813888 Ontario Inc.",
+            "OPERATINGNAME": "2813888 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48152",
+            "MEMBERNAME": "MelCast Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

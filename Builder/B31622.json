@@ -1,0 +1,122 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31622",
+            "Umbrella": "Thornwood Homes",
+            "Umbrella ID": "8415",
+            "VB_NAME": "1441813 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "OAKVILLE",
+            "HCRA_INITIALLICENSEDATE": "2002-10-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-10-02 12:30:46.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2400 Wyecroft Rd., Unit 6",
+            "TELEPHONE": "905-469-4455",
+            "FAX": "905-469-4170",
+            "WEBSITEURL": null,
+            "EMAIL": "thornwood@thornwoodhomes.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "319277",
+            "TO": "Stuart R. Scott",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-847-4414"
+        },
+        {
+            "TOUNIQUENUMBER": "319277",
+            "TO": "Stuart R. Scott",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-847-4414"
+        },
+        {
+            "TOUNIQUENUMBER": "11707796",
+            "TO": "Manuel Botelho",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-288-0295"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31622",
+            "Umbrella": "Thornwood Homes",
+            "Umbrella ID": "8415",
+            "VB_NAME": "1441813 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24580",
+            "MEMBERNAME": "967686 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31622",
+            "Umbrella": "Thornwood Homes",
+            "Umbrella ID": "8415",
+            "VB_NAME": "1441813 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24215",
+            "MEMBERNAME": "1008338 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31622",
+            "Umbrella": "Thornwood Homes",
+            "Umbrella ID": "8415",
+            "VB_NAME": "1441813 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24213",
+            "MEMBERNAME": "Lincoln Meadows Investments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31622",
+            "Umbrella": "Thornwood Homes",
+            "Umbrella ID": "8415",
+            "VB_NAME": "1441813 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31622",
+            "MEMBERNAME": "1441813 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "SHERWOOD ON THE GREEN",
+            "Project Status": null,
+            "Location": "BURLINGTON",
+            "Address": "5080 Fairview St.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

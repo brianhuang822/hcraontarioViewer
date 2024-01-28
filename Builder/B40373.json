@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40373",
+            "Umbrella": "Everett Country Homes",
+            "Umbrella ID": "12541164",
+            "VB_NAME": "Everett Country Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "NEW LOWELL",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2010-05-08 01:28:07.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5830 Sunnidale -Tosorontio Townline, R.R. 2,",
+            "TELEPHONE": "705-424-2688",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "313361",
+            "TO": "Zenon Kuchar",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-733-4380 -705-424-26"
+        },
+        {
+            "TOUNIQUENUMBER": "313361",
+            "TO": "Zenon Kuchar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-733-4380 -705-424-26"
+        },
+        {
+            "TOUNIQUENUMBER": "313361",
+            "TO": "Zenon Kuchar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-733-4380 -705-424-26"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40373",
+            "Umbrella": "Everett Country Homes",
+            "Umbrella ID": "12541164",
+            "VB_NAME": "Everett Country Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B22874",
+            "MEMBERNAME": "Everett Country Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40373",
+            "Umbrella": "Everett Country Homes",
+            "Umbrella ID": "12541164",
+            "VB_NAME": "Everett Country Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B40373",
+            "MEMBERNAME": "Everett Country Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

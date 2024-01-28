@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48960",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "ViloHam Trades Inc.",
+            "OPERATINGNAME": "Highbridge Construction",
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2021-01-25",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "2023-03-07 15:03:32.000 +0000",
+            "Expiry Date": "2023-01-26",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "2555 Blackwell Street",
+            "TELEPHONE": "613-518-6563",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "pat@highbridgeconstruction.com",
+            "ACCOUNTNUMBER": "B48960",
+            "Total Outstanding Amount": 138397.85,
+            "TAB": 0,
+            "BREACH": 138397.85,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 120000,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 120000
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100294482",
+            "TO": "Patrick Violette",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-262-3513"
+        },
+        {
+            "TOUNIQUENUMBER": "100294482",
+            "TO": "Patrick Violette",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-262-3513"
+        },
+        {
+            "TOUNIQUENUMBER": "100294482",
+            "TO": "Patrick Violette",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-262-3513"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48960",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "ViloHam Trades Inc.",
+            "OPERATINGNAME": "Highbridge Construction",
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37450",
+            "Umbrella": "Nicholson Builders",
+            "Umbrella ID": "12544441",
+            "VB_NAME": "Nicholson Builders Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Parkhill",
+            "HCRA_INITIALLICENSEDATE": "2007-03-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-30 04:00:00.000 +0000",
+            "Expiry Date": "2024-03-31",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 754",
+            "TELEPHONE": "519-294-0016",
+            "FAX": "519-294-0979",
+            "WEBSITEURL": "https://nicholsonbuilding.ca",
+            "EMAIL": "Nicholson.builders@outlook.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 58,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 58,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12022095",
+            "TO": "Joseph Rodney Nicholson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-294-0016"
+        },
+        {
+            "TOUNIQUENUMBER": "12022095",
+            "TO": "Joseph Rodney Nicholson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-294-0016"
+        },
+        {
+            "TOUNIQUENUMBER": "12022095",
+            "TO": "Joseph Rodney Nicholson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-294-0016"
+        },
+        {
+            "TOUNIQUENUMBER": "12022096",
+            "TO": "Laura Nicholson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-294-0016"
+        },
+        {
+            "TOUNIQUENUMBER": "12022096",
+            "TO": "Laura Nicholson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-294-0016"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37450",
+            "Umbrella": "Nicholson Builders",
+            "Umbrella ID": "12544441",
+            "VB_NAME": "Nicholson Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34795",
+            "MEMBERNAME": "Rodney Joseph Nicholson",
+            "MEMBEROPERATINGNAME": "Nicholson Building & Renovating",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37450",
+            "Umbrella": "Nicholson Builders",
+            "Umbrella ID": "12544441",
+            "VB_NAME": "Nicholson Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37450",
+            "MEMBERNAME": "Nicholson Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

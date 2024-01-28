@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48539",
+            "Umbrella": "Build Up Development Co.",
+            "Umbrella ID": "500002574",
+            "VB_NAME": "Build Up Real Development Co Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2020-10-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-12 16:51:55.000 +0000",
+            "Expiry Date": "2024-10-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1101 Queen Street West",
+            "TELEPHONE": "416-722-3431",
+            "FAX": null,
+            "WEBSITEURL": "http://www.buildupdevco.com",
+            "EMAIL": "priscilla@buildupdevco.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100580202",
+            "TO": "Priscilla Facey Castaneda",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-722-3431"
+        },
+        {
+            "TOUNIQUENUMBER": "100580202",
+            "TO": "Priscilla Facey Castaneda",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-722-3431"
+        },
+        {
+            "TOUNIQUENUMBER": "100651870",
+            "TO": "Dudley Brown",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-716-1226"
+        },
+        {
+            "TOUNIQUENUMBER": "100651870",
+            "TO": "Dudley Brown",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-716-1226"
+        },
+        {
+            "TOUNIQUENUMBER": "100651873",
+            "TO": "Mary J. Thompson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-716-1226"
+        },
+        {
+            "TOUNIQUENUMBER": "100651873",
+            "TO": "Mary J. Thompson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-716-1226"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48539",
+            "Umbrella": "Build Up Development Co.",
+            "Umbrella ID": "500002574",
+            "VB_NAME": "Build Up Real Development Co Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48539",
+            "MEMBERNAME": "Build Up Real Development Co Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48539",
+            "Umbrella": "Build Up Development Co.",
+            "Umbrella ID": "500002574",
+            "VB_NAME": "Build Up Real Development Co Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62528",
+            "MEMBERNAME": "Build Up Oshawa LP",
+            "MEMBEROPERATINGNAME": "Build Up Oshawa LP",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Boho Condominiums",
+            "Project Status": "In Progress",
+            "Location": "NIAGARA FALLS",
+            "Address": " 6546 McLeod Rd. ",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

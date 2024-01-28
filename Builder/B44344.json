@@ -1,0 +1,176 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44344",
+            "Umbrella": "Murchmount Homes",
+            "Umbrella ID": "12547223",
+            "VB_NAME": "1769638 Ontario Limited",
+            "OPERATINGNAME": "Murchmount Homes",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2015-03-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-24 14:58:05.000 +0000",
+            "Expiry Date": "2024-03-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "36 York Ridge Road",
+            "TELEPHONE": "416-671-7609",
+            "FAX": "905/944-9492",
+            "WEBSITEURL": "www.murchmount.com",
+            "EMAIL": "mchung@murchmount.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12405725",
+            "TO": "Michael Chung",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-671-7609"
+        },
+        {
+            "TOUNIQUENUMBER": "12405725",
+            "TO": "Michael Chung",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-671-7609"
+        },
+        {
+            "TOUNIQUENUMBER": "12405725",
+            "TO": "Michael Chung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-671-7609"
+        },
+        {
+            "TOUNIQUENUMBER": "100289872",
+            "TO": "Jeremy Chung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-944-9490"
+        },
+        {
+            "TOUNIQUENUMBER": "100289872",
+            "TO": "Jeremy Chung",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-944-9490"
+        },
+        {
+            "TOUNIQUENUMBER": "12302034",
+            "TO": "Francesco (Frank) Murdocca",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-456-1424"
+        },
+        {
+            "TOUNIQUENUMBER": "12302034",
+            "TO": "Francesco (Frank) Murdocca",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-456-1424"
+        },
+        {
+            "TOUNIQUENUMBER": "12302034",
+            "TO": "Francesco (Frank) Murdocca",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-456-1424"
+        },
+        {
+            "TOUNIQUENUMBER": "12494986",
+            "TO": "Gino Murdocca",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-456-1424"
+        },
+        {
+            "TOUNIQUENUMBER": "12494986",
+            "TO": "Gino Murdocca",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-456-1424"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108823",
+            "CHARGE_AGAINST": "1769638 Ontario Limited operating as Murchmount Ho",
+            "CHARGE_DATE": "2016-11-28",
+            "DISPOSITION_DATE": "2017-03-13",
+            "THE_FINE_": "5000",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "1250",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9327048",
+            "ORGANIZATION_NAME": "1769638 Ontario Limited operating as Murchmount Homes Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Toronto, ON",
+            "CITY_DEFENCE": "Markham, ON",
+            "VB_NUMBER": "B44344",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108823 9327048",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Toronto, City",
+            "INFORMATION_NUMBER": "4863 999 16 340200",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2015-12-30",
+            "TO_OFFENCE_DATE": "2016-11-25",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "6250",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B44344",
+            "Umbrella": "Murchmount Homes",
+            "Umbrella ID": "12547223",
+            "VB_NAME": "1769638 Ontario Limited",
+            "OPERATINGNAME": "Murchmount Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B7147",
+            "MEMBERNAME": "Berkfife Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44344",
+            "Umbrella": "Murchmount Homes",
+            "Umbrella ID": "12547223",
+            "VB_NAME": "1769638 Ontario Limited",
+            "OPERATINGNAME": "Murchmount Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44344",
+            "MEMBERNAME": "1769638 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Murchmount Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

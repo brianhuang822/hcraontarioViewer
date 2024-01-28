@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37780",
+            "Umbrella": "K. MacDonald Construction",
+            "Umbrella ID": "12229162",
+            "VB_NAME": "KCM Contracting Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Carp",
+            "HCRA_INITIALLICENSEDATE": "2007-06-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-06-08 04:15:06.000 +0000",
+            "Expiry Date": "2022-06-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "213 Cedar Pond Road",
+            "TELEPHONE": "613-769-5552",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "kmac@magma.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "320537",
+            "TO": "Kevin MacDonald",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-769-5552"
+        },
+        {
+            "TOUNIQUENUMBER": "320537",
+            "TO": "Kevin MacDonald",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-769-5552"
+        },
+        {
+            "TOUNIQUENUMBER": "320537",
+            "TO": "Kevin MacDonald",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-769-5552"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37780",
+            "Umbrella": "K. MacDonald Construction",
+            "Umbrella ID": "12229162",
+            "VB_NAME": "KCM Contracting Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37780",
+            "MEMBERNAME": "KCM Contracting Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37780",
+            "Umbrella": "K. MacDonald Construction",
+            "Umbrella ID": "12229162",
+            "VB_NAME": "KCM Contracting Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B1571",
+            "MEMBERNAME": "Kevin MacDonald",
+            "MEMBEROPERATINGNAME": "K. MacDonald Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

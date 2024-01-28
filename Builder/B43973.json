@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43973",
+            "Umbrella": "Van Kessel Contracting",
+            "Umbrella ID": "12542314",
+            "VB_NAME": "Van Kessel Contracting Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Sunderland",
+            "HCRA_INITIALLICENSEDATE": "2014-12-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-20 20:25:57.000 +0000",
+            "Expiry Date": "2024-12-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "12805 Lakeridge Road",
+            "TELEPHONE": "705-357-2642",
+            "FAX": null,
+            "WEBSITEURL": "vankesselmasonry.ca",
+            "EMAIL": "vankessel@andrewswireless.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100142817",
+            "TO": "Chris Van Kessel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-357-2642"
+        },
+        {
+            "TOUNIQUENUMBER": "100142817",
+            "TO": "Chris Van Kessel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-357-2642"
+        },
+        {
+            "TOUNIQUENUMBER": "100142817",
+            "TO": "Chris Van Kessel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-357-2642"
+        },
+        {
+            "TOUNIQUENUMBER": "100142816",
+            "TO": "Lori Van kessel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-357-2642"
+        },
+        {
+            "TOUNIQUENUMBER": "100142816",
+            "TO": "Lori Van kessel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-357-2642"
+        },
+        {
+            "TOUNIQUENUMBER": "100142816",
+            "TO": "Lori Van kessel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-357-2642"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43973",
+            "Umbrella": "Van Kessel Contracting",
+            "Umbrella ID": "12542314",
+            "VB_NAME": "Van Kessel Contracting Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43973",
+            "MEMBERNAME": "Van Kessel Contracting Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43973",
+            "Umbrella": "Van Kessel Contracting",
+            "Umbrella ID": "12542314",
+            "VB_NAME": "Van Kessel Contracting Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42475",
+            "MEMBERNAME": "Chris & Lori Van Kessel",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

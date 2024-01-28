@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31865",
+            "Umbrella": "E-Landmark",
+            "Umbrella ID": "12540944",
+            "VB_NAME": "E-Landmark Corporation",
+            "OPERATINGNAME": "Landmark Corporation",
+            "CITY": "Victoria",
+            "HCRA_INITIALLICENSEDATE": "2002-02-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-07-05 12:32:27.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 37009",
+            "TELEPHONE": "250.391.9100",
+            "FAX": "905-468-0119",
+            "WEBSITEURL": "www.landmarkcorp.ca",
+            "EMAIL": "dfisher@landmarkcorp.ca",
+            "ACCOUNTNUMBER": "B31865",
+            "Total Outstanding Amount": 12270.75,
+            "TAB": 0,
+            "BREACH": 12270.75,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11738337",
+            "TO": "Daniel W. Fisher",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "205-391-9100"
+        },
+        {
+            "TOUNIQUENUMBER": "11738337",
+            "TO": "Daniel W. Fisher",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "205-391-9100"
+        },
+        {
+            "TOUNIQUENUMBER": "11738337",
+            "TO": "Daniel W. Fisher",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "205-391-9100"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31865",
+            "Umbrella": "E-Landmark",
+            "Umbrella ID": "12540944",
+            "VB_NAME": "E-Landmark Corporation",
+            "OPERATINGNAME": "Landmark Corporation",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31865",
+            "MEMBERNAME": "E-Landmark Corporation",
+            "MEMBEROPERATINGNAME": "Landmark Corporation",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE MEWS",
+            "Project Status": "Completed",
+            "Location": "NIAGARA ON THE LAKE",
+            "Address": " 450 Nassau St. ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-11-22"
+        },
+        {
+            "Condo Project Name": "THE MEWS",
+            "Project Status": "Completed",
+            "Location": "NIAGARA ON THE LAKE",
+            "Address": " 450 Nassau St. ",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-03-24"
+        }
+    ],
+    "builderConditions": []
+}

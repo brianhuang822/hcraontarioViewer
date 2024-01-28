@@ -1,0 +1,161 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Arten Development Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 4,
+            "TOTALUNITS": 15,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 20924.98,
+            "ADDRESS": "2162 Major Mackenzie Dr.",
+            "TELEPHONE": "905/737-0125",
+            "FAX": "905/737-5703",
+            "WEBSITEURL": "www.artengroup.com",
+            "EMAIL": "dean@artengroup.com",
+            "SUMM_FREEHOLD": 15,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 15,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 20924.98,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 20924.98
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Manors On Hunt & Lucas Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41646",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rosehill Suites Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32635",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Manors On Hunt & Lucas Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42657",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1400679 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31047",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Manors On Benson & Hall Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37881",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Weston On The Humber Inc.",
+            "MEMBEROPERATINGNAME": "Riverside",
+            "MEMBERVBNUM": "B32788",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 1,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 1,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 15,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 15,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 20924.98,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 20924.98,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 14,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 14,
+            "Chargeable Conciliation": 2,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 15,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 15,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 20924.98,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 20924.98,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 1,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 1,
+            "Chargeable Conciliation": 2,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 20924.98,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 20924.98,
+            "SUMM_FREEHOLD": 15,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 15,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 20924.98,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 20924.98,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "RIVERSIDE CONDO",
+            "Account Number": "B32788",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "2464 Weston Rd.",
+            "# of Units": 162,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-08-02"
+        },
+        {
+            "Condo Project Name": "ROSEHILL SUITES",
+            "Account Number": "B32635",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": " 35 Hunt Ave ",
+            "# of Units": 33,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-07-29"
+        }
+    ]
+}

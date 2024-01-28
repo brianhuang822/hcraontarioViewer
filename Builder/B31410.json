@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31410",
+            "Umbrella": "Tatra Valley Homes",
+            "Umbrella ID": "12539754",
+            "VB_NAME": "Tatra Valley Homes Inc.",
+            "OPERATINGNAME": "Tatra Valley Homes",
+            "CITY": "Oshawa",
+            "HCRA_INITIALLICENSEDATE": "2001-06-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-17 20:54:58.000 +0000",
+            "Expiry Date": "2024-06-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "27-1300 King Street East",
+            "TELEPHONE": "905-263-2333",
+            "FAX": "905-263-4027",
+            "WEBSITEURL": " ",
+            "EMAIL": "tatravalleyhomes@gmail.com",
+            "ACCOUNTNUMBER": "B31410",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 65,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 65,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344669",
+            "TO": "Stanislaw (Stan) Majerczyk",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-263-2333"
+        },
+        {
+            "TOUNIQUENUMBER": "344669",
+            "TO": "Stanislaw (Stan) Majerczyk",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-263-2333"
+        },
+        {
+            "TOUNIQUENUMBER": "344669",
+            "TO": "Stanislaw (Stan) Majerczyk",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-263-2333"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31410",
+            "Umbrella": "Tatra Valley Homes",
+            "Umbrella ID": "12539754",
+            "VB_NAME": "Tatra Valley Homes Inc.",
+            "OPERATINGNAME": "Tatra Valley Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28058",
+            "MEMBERNAME": "Stanislaw Majerczyk",
+            "MEMBEROPERATINGNAME": "Tatra Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31410",
+            "Umbrella": "Tatra Valley Homes",
+            "Umbrella ID": "12539754",
+            "VB_NAME": "Tatra Valley Homes Inc.",
+            "OPERATINGNAME": "Tatra Valley Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31410",
+            "MEMBERNAME": "Tatra Valley Homes Inc.",
+            "MEMBEROPERATINGNAME": "Tatra Valley Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

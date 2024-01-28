@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39426",
+            "Umbrella": "Ironwood Homes",
+            "Umbrella ID": "12541137",
+            "VB_NAME": "Ironwood Homes Incorporated",
+            "OPERATINGNAME": null,
+            "CITY": "KITCHENER",
+            "HCRA_INITIALLICENSEDATE": "2009-02-19",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "2009-10-27 01:48:30.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "18 Charleston Pl.",
+            "TELEPHONE": "519-342-4185",
+            "FAX": "519-896-7541",
+            "WEBSITEURL": null,
+            "EMAIL": "info@ironwoodhomes.ca",
+            "ACCOUNTNUMBER": "B39426",
+            "Total Outstanding Amount": 3162.77,
+            "TAB": 0,
+            "BREACH": 3162.77,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1407.24,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1407.24
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12186902",
+            "TO": "Francis R. Meyer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "GRAMPAMEYER@ROGERS.COM"
+        },
+        {
+            "TOUNIQUENUMBER": "12186898",
+            "TO": "Carlos A. Leal",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-342-4186"
+        },
+        {
+            "TOUNIQUENUMBER": "12186898",
+            "TO": "Carlos A. Leal",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-342-4186"
+        },
+        {
+            "TOUNIQUENUMBER": "12186898",
+            "TO": "Carlos A. Leal",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-342-4186"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA101995",
+            "CHARGE_AGAINST": "Ironwood Homes Incorporated",
+            "CHARGE_DATE": "2010-01-18",
+            "DISPOSITION_DATE": "2011-02-03",
+            "THE_FINE_": "8000",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "2000",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9324750",
+            "ORGANIZATION_NAME": "Ironwood Homes Incorporated",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Puslinch, ON",
+            "CITY_DEFENCE": "Kitchener, ON",
+            "VB_NUMBER": "B39426",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA101995 9324750",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Puslinch, Township",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2009-04-23",
+            "TO_OFFENCE_DATE": "2010-01-15",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "10000",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "13:43.0",
+            "PROBATION_ORDER": "N",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B39426",
+            "Umbrella": "Ironwood Homes",
+            "Umbrella ID": "12541137",
+            "VB_NAME": "Ironwood Homes Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B39426",
+            "MEMBERNAME": "Ironwood Homes Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B39426",
+            "Umbrella": "Ironwood Homes",
+            "Umbrella ID": "12541137",
+            "VB_NAME": "Ironwood Homes Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B37119",
+            "MEMBERNAME": "Ironwood Homes Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

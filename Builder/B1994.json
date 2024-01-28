@@ -1,0 +1,82 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1994",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Yvon Champoux Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Notre-Dame-Du-Nord",
+            "HCRA_INITIALLICENSEDATE": "1986-10-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-27 13:43:26.000 +0000",
+            "Expiry Date": "2024-11-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "40 Ontario Street",
+            "TELEPHONE": "819-723-2253",
+            "FAX": "819-723-2474",
+            "WEBSITEURL": null,
+            "EMAIL": "phil@maisonschampoux.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 14,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 14,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600005831",
+            "TO": "Jean-Fran\u00e7ois Champoux",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "819-723-2253"
+        },
+        {
+            "TOUNIQUENUMBER": "600005831",
+            "TO": "Jean-Fran\u00e7ois Champoux",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "819-723-2253"
+        },
+        {
+            "TOUNIQUENUMBER": "309740",
+            "TO": "Philippe Duguay",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "819-723-2253"
+        },
+        {
+            "TOUNIQUENUMBER": "309740",
+            "TO": "Philippe Duguay",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "819-723-2253"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1994",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Yvon Champoux Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

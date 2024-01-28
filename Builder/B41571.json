@@ -1,0 +1,126 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41571",
+            "Umbrella": "Zen Homes",
+            "Umbrella ID": "12508691",
+            "VB_NAME": "303 Kingston Ltd.",
+            "OPERATINGNAME": "Zen Homes",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2011-10-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-10-28 12:01:22.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "60 Haslett Ave., Unit C101",
+            "TELEPHONE": "905/604-8700",
+            "FAX": "905/604-8701",
+            "WEBSITEURL": "www.zenhomesinc.com",
+            "EMAIL": "kktang@zenhomesinc.com",
+            "ACCOUNTNUMBER": "B41571",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 50,
+            "SUMM_TOTAL": 50,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 3350,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3350
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12459691",
+            "TO": "Lian Gan Liang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8700"
+        },
+        {
+            "TOUNIQUENUMBER": "12459691",
+            "TO": "Lian Gan Liang",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8700"
+        },
+        {
+            "TOUNIQUENUMBER": "12459692",
+            "TO": "Xiao Min Liang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8700"
+        },
+        {
+            "TOUNIQUENUMBER": "12459692",
+            "TO": "Xiao Min Liang",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8700"
+        },
+        {
+            "TOUNIQUENUMBER": "12459692",
+            "TO": "Xiao Min Liang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8700"
+        },
+        {
+            "TOUNIQUENUMBER": "12459690",
+            "TO": "Kwok Kwong Tang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8700"
+        },
+        {
+            "TOUNIQUENUMBER": "12459690",
+            "TO": "Kwok Kwong Tang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8700"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41571",
+            "Umbrella": "Zen Homes",
+            "Umbrella ID": "12508691",
+            "VB_NAME": "303 Kingston Ltd.",
+            "OPERATINGNAME": "Zen Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41571",
+            "MEMBERNAME": "303 Kingston Ltd.",
+            "MEMBEROPERATINGNAME": "Zen Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41571",
+            "Umbrella": "Zen Homes",
+            "Umbrella ID": "12508691",
+            "VB_NAME": "303 Kingston Ltd.",
+            "OPERATINGNAME": "Zen Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41030",
+            "MEMBERNAME": "Degrassi Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Beach Club Lofts",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "60 Haslett Ave.",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-19"
+        }
+    ],
+    "builderConditions": []
+}

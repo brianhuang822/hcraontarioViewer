@@ -1,0 +1,120 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32001",
+            "Umbrella": "DeNoble Homes",
+            "Umbrella ID": "11759715",
+            "VB_NAME": "Stelar Properties Ltd.",
+            "OPERATINGNAME": "DeNoble Homes",
+            "CITY": "WHITBY",
+            "HCRA_INITIALLICENSEDATE": "2001-12-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-12-21 16:00:40.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "600 Euclid St., Unit # 5",
+            "TELEPHONE": "905-444-9668",
+            "FAX": "905-444-9789",
+            "WEBSITEURL": "www.denoblehomes.com",
+            "EMAIL": "info@denoblehomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11752765",
+            "TO": "Larry Dunphy",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-444-9668"
+        },
+        {
+            "TOUNIQUENUMBER": "11752765",
+            "TO": "Larry Dunphy",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-444-9668"
+        },
+        {
+            "TOUNIQUENUMBER": "11752765",
+            "TO": "Larry Dunphy",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-444-9668"
+        },
+        {
+            "TOUNIQUENUMBER": "302546",
+            "TO": "Steve DeNoble",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-444-9668"
+        },
+        {
+            "TOUNIQUENUMBER": "302546",
+            "TO": "Steve DeNoble",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-444-9668"
+        },
+        {
+            "TOUNIQUENUMBER": "302546",
+            "TO": "Steve DeNoble",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-444-9668"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32001",
+            "Umbrella": "DeNoble Homes",
+            "Umbrella ID": "11759715",
+            "VB_NAME": "Stelar Properties Ltd.",
+            "OPERATINGNAME": "DeNoble Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22308",
+            "MEMBERNAME": "784534 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "DeNoble Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B32001",
+            "Umbrella": "DeNoble Homes",
+            "Umbrella ID": "11759715",
+            "VB_NAME": "Stelar Properties Ltd.",
+            "OPERATINGNAME": "DeNoble Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60274",
+            "MEMBERNAME": "The Inverlynn Estate Ltd.",
+            "MEMBEROPERATINGNAME": "The Inverlynn Estate Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B32001",
+            "Umbrella": "DeNoble Homes",
+            "Umbrella ID": "11759715",
+            "VB_NAME": "Stelar Properties Ltd.",
+            "OPERATINGNAME": "DeNoble Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32001",
+            "MEMBERNAME": "Stelar Properties Ltd.",
+            "MEMBEROPERATINGNAME": "DeNoble Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

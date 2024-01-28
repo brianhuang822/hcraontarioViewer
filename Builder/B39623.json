@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39623",
+            "Umbrella": "Zeina Custom Homes",
+            "Umbrella ID": "12545295",
+            "VB_NAME": "1376412 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Ancaster",
+            "HCRA_INITIALLICENSEDATE": "2009-12-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-31 14:21:56.000 +0000",
+            "Expiry Date": "2024-12-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "27 Legend Court",
+            "TELEPHONE": "905-921-0020",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "info@zeinahomes.ca",
+            "ACCOUNTNUMBER": "B39623",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 87,
+            "SUMM_CONDO": 2,
+            "SUMM_TOTAL": 89,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12353452",
+            "TO": "Ali Alaichi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-921-0020"
+        },
+        {
+            "TOUNIQUENUMBER": "12353452",
+            "TO": "Ali Alaichi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-921-0020"
+        },
+        {
+            "TOUNIQUENUMBER": "12353452",
+            "TO": "Ali Alaichi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-921-0020"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39623",
+            "Umbrella": "Zeina Custom Homes",
+            "Umbrella ID": "12545295",
+            "VB_NAME": "1376412 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61484",
+            "MEMBERNAME": "1000124200 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "1000124200 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39623",
+            "Umbrella": "Zeina Custom Homes",
+            "Umbrella ID": "12545295",
+            "VB_NAME": "1376412 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39623",
+            "MEMBERNAME": "1376412 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Alayche Towns",
+            "Project Status": "In Progress",
+            "Location": "WELLAND",
+            "Address": " 144A Thorold Rd. ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Summerside Mews",
+            "Project Status": "In Progress",
+            "Location": "FONTHILL",
+            "Address": " 19-39 Wellspring Way ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,128 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42567",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1559586 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2013-03-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-03-23 12:00:50.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3660 Midland Ave., Ste. 200",
+            "TELEPHONE": "416/293-9588",
+            "FAX": "416/298-8800",
+            "WEBSITEURL": "www.oskargroup.com",
+            "EMAIL": "ppong@oskargroup.com",
+            "ACCOUNTNUMBER": "B42567",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 16,
+            "SUMM_TOTAL": 16,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100152601",
+            "TO": "Mei-Jung Yu",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-293-9588"
+        },
+        {
+            "TOUNIQUENUMBER": "100152597",
+            "TO": "Chia-Chun Hung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-293-9588"
+        },
+        {
+            "TOUNIQUENUMBER": "100152597",
+            "TO": "Chia-Chun Hung",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-293-9588"
+        },
+        {
+            "TOUNIQUENUMBER": "100157846",
+            "TO": "Mark Sokolowski",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-293-9588"
+        },
+        {
+            "TOUNIQUENUMBER": "100152596",
+            "TO": "Shao-En Hung",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-293-9588"
+        },
+        {
+            "TOUNIQUENUMBER": "100152596",
+            "TO": "Shao-En Hung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-293-9588"
+        },
+        {
+            "TOUNIQUENUMBER": "100152591",
+            "TO": "Pancy Pong",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-293-9588"
+        },
+        {
+            "TOUNIQUENUMBER": "100152599",
+            "TO": "Ting-Yen Hung",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-293-9588"
+        },
+        {
+            "TOUNIQUENUMBER": "100152600",
+            "TO": "Shih-Ho Hong",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-293-9588"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42567",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1559586 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Le Sedici Villette",
+            "Project Status": "Completed",
+            "Location": "VAUGHAN",
+            "Address": "10060 Keele St.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-05-21"
+        }
+    ],
+    "builderConditions": []
+}

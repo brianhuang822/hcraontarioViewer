@@ -1,0 +1,120 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40426",
+            "Umbrella": "Huntington Property Group",
+            "Umbrella ID": "12550405",
+            "VB_NAME": "Orville Station Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2010-05-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-06-01 04:15:12.000 +0000",
+            "Expiry Date": "2022-06-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1306 Wellington St. W., Ste 200",
+            "TELEPHONE": "613/592-1818",
+            "FAX": "613/592-7580",
+            "WEBSITEURL": "www.huntingtonproperties.ca",
+            "EMAIL": "awhitten@huntingtonproperties.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 4,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12299958",
+            "TO": "W. Alan Whitten",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-592-1818"
+        },
+        {
+            "TOUNIQUENUMBER": "12299958",
+            "TO": "W. Alan Whitten",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-592-1818"
+        },
+        {
+            "TOUNIQUENUMBER": "12299941",
+            "TO": "John R. Hambleton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40426",
+            "Umbrella": "Huntington Property Group",
+            "Umbrella ID": "12550405",
+            "VB_NAME": "Orville Station Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38850",
+            "MEMBERNAME": "Orville Station Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40426",
+            "Umbrella": "Huntington Property Group",
+            "Umbrella ID": "12550405",
+            "VB_NAME": "Orville Station Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47666",
+            "MEMBERNAME": "Highcroft Churchill Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40426",
+            "Umbrella": "Huntington Property Group",
+            "Umbrella ID": "12550405",
+            "VB_NAME": "Orville Station Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40426",
+            "MEMBERNAME": "Orville Station Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Orville Station",
+            "Project Status": "Completed",
+            "Location": "STITTSVILLE",
+            "Address": "20 - 46 Meach Prvt.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-03-04"
+        },
+        {
+            "Condo Project Name": "Orville Station",
+            "Project Status": "Completed",
+            "Location": "STITTSVILLE",
+            "Address": "50 - 60 Meach Prvt.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-07-19"
+        }
+    ],
+    "builderConditions": []
+}

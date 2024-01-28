@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39006",
+            "Umbrella": "Lesic Designs",
+            "Umbrella ID": "12540251",
+            "VB_NAME": "D. Lesic Designs Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Kitchener",
+            "HCRA_INITIALLICENSEDATE": "2008-07-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-13 17:44:56.000 +0000",
+            "Expiry Date": "2024-07-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "320 Edgewater Crescent",
+            "TELEPHONE": "519-496-9229",
+            "FAX": "519-748-9229",
+            "WEBSITEURL": "https://www.dlesic.com",
+            "EMAIL": "donny@dlesic.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 11,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 11,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12239181",
+            "TO": "Donny Lesic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-496-9229"
+        },
+        {
+            "TOUNIQUENUMBER": "12239181",
+            "TO": "Donny Lesic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-496-9229"
+        },
+        {
+            "TOUNIQUENUMBER": "12239181",
+            "TO": "Donny Lesic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-496-9229"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39006",
+            "Umbrella": "Lesic Designs",
+            "Umbrella ID": "12540251",
+            "VB_NAME": "D. Lesic Designs Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39006",
+            "MEMBERNAME": "D. Lesic Designs Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39006",
+            "Umbrella": "Lesic Designs",
+            "Umbrella ID": "12540251",
+            "VB_NAME": "D. Lesic Designs Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38004",
+            "MEMBERNAME": "Donny Lesic",
+            "MEMBEROPERATINGNAME": "D. Lesic Designs",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": null,
+            "Location": "KITCHENER",
+            "Address": "258 Edgewater Cres., Unit 15",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

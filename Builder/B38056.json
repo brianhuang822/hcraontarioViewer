@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38056",
+            "Umbrella": "Paul Krotz Construction",
+            "Umbrella ID": "12541000",
+            "VB_NAME": "Paul Krotz Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "NEW HAMBURG",
+            "HCRA_INITIALLICENSEDATE": "2007-09-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-09-13 15:00:23.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "27 Ingold Ave.",
+            "TELEPHONE": "519-662-9488",
+            "FAX": "519-662-6004",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "318250",
+            "TO": "Paul Krotz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-662-9488"
+        },
+        {
+            "TOUNIQUENUMBER": "318250",
+            "TO": "Paul Krotz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-662-9488"
+        },
+        {
+            "TOUNIQUENUMBER": "318250",
+            "TO": "Paul Krotz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-662-9488"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38056",
+            "Umbrella": "Paul Krotz Construction",
+            "Umbrella ID": "12541000",
+            "VB_NAME": "Paul Krotz Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B13672",
+            "MEMBERNAME": "Paul Krotz Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B38056",
+            "Umbrella": "Paul Krotz Construction",
+            "Umbrella ID": "12541000",
+            "VB_NAME": "Paul Krotz Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38056",
+            "MEMBERNAME": "Paul Krotz Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

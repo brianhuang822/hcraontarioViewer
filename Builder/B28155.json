@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28155",
+            "Umbrella": "Charles Clement",
+            "Umbrella ID": "11580",
+            "VB_NAME": "Gestion Charles Clement Ltd.",
+            "OPERATINGNAME": "Gestion Charles Clement",
+            "CITY": "HAWKESBURY",
+            "HCRA_INITIALLICENSEDATE": "1999-11-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-11-10 13:30:37.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "335A Dufferin St.",
+            "TELEPHONE": "(613)632-2060",
+            "FAX": "(613)632-2215",
+            "WEBSITEURL": "www.chclementconstruction.ca",
+            "EMAIL": "cclement@chclementconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343913",
+            "TO": "Charles Henri Clement",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-2060"
+        },
+        {
+            "TOUNIQUENUMBER": "343913",
+            "TO": "Charles Henri Clement",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-2060"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28155",
+            "Umbrella": "Charles Clement",
+            "Umbrella ID": "11580",
+            "VB_NAME": "Gestion Charles Clement Ltd.",
+            "OPERATINGNAME": "Gestion Charles Clement",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28155",
+            "MEMBERNAME": "Gestion Charles Clement Ltd.",
+            "MEMBEROPERATINGNAME": "Gestion Charles Clement",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28155",
+            "Umbrella": "Charles Clement",
+            "Umbrella ID": "11580",
+            "VB_NAME": "Gestion Charles Clement Ltd.",
+            "OPERATINGNAME": "Gestion Charles Clement",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27427",
+            "MEMBERNAME": "Charles Clement",
+            "MEMBEROPERATINGNAME": "Clement Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28155",
+            "Umbrella": "Charles Clement",
+            "Umbrella ID": "11580",
+            "VB_NAME": "Gestion Charles Clement Ltd.",
+            "OPERATINGNAME": "Gestion Charles Clement",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31813",
+            "MEMBERNAME": "C. H. Clement Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

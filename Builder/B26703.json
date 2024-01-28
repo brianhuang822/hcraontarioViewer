@@ -1,0 +1,84 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26703",
+            "Umbrella": "Johnson Developments",
+            "Umbrella ID": "11977795",
+            "VB_NAME": "Ronald Johnson",
+            "OPERATINGNAME": "Johnson Construction",
+            "CITY": "NEW DUNDEE",
+            "HCRA_INITIALLICENSEDATE": "1997-08-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-08-02 12:30:55.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "145 Casselholme Cres., Box 88",
+            "TELEPHONE": "(519)696-2873",
+            "FAX": "(519)696-2220",
+            "WEBSITEURL": null,
+            "EMAIL": "johnson@healthy.waterloo.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "316743",
+            "TO": "Ronald Johnson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 696-2873"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26703",
+            "Umbrella": "Johnson Developments",
+            "Umbrella ID": "11977795",
+            "VB_NAME": "Ronald Johnson",
+            "OPERATINGNAME": "Johnson Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33927",
+            "MEMBERNAME": "Johnson Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26703",
+            "Umbrella": "Johnson Developments",
+            "Umbrella ID": "11977795",
+            "VB_NAME": "Ronald Johnson",
+            "OPERATINGNAME": "Johnson Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26703",
+            "MEMBERNAME": "Ronald Johnson",
+            "MEMBEROPERATINGNAME": "Johnson Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "MANSION SQUARE",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 28 Mansion St ",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-11-12"
+        }
+    ],
+    "builderConditions": []
+}

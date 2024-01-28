@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35806",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Marquis Developments London Inc.",
+            "OPERATINGNAME": "Marquis Developments London",
+            "CITY": "Arva",
+            "HCRA_INITIALLICENSEDATE": "2005-07-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-31 19:19:02.000 +0000",
+            "Expiry Date": "2024-07-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "21578 Richmond Street",
+            "TELEPHONE": "519-601-4992",
+            "FAX": "519-601-5992",
+            "WEBSITEURL": "www.marquisdevelopments.com",
+            "EMAIL": "office@marquisdevelopments.com",
+            "ACCOUNTNUMBER": "B35806",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 121,
+            "SUMM_CONDO": 33,
+            "SUMM_TOTAL": 154,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100347432",
+            "TO": "Marcia Rigutto",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-601-4992"
+        },
+        {
+            "TOUNIQUENUMBER": "12088630",
+            "TO": "Shaun Swift",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-601-4992"
+        },
+        {
+            "TOUNIQUENUMBER": "12088630",
+            "TO": "Shaun Swift",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-601-4992"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35806",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Marquis Developments London Inc.",
+            "OPERATINGNAME": "Marquis Developments London",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Sherwood Condos",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": " 203 Wychwood Park ",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Clear Skies",
+            "Project Status": null,
+            "Location": "ILDERTON",
+            "Address": " 93 Stonefield Lane ",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

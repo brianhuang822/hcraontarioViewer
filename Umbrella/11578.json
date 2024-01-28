@@ -1,0 +1,59 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Feeley Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "4597 Kingston Road, Suite 209",
+            "TELEPHONE": "416-284-9304",
+            "FAX": "416-284-9305",
+            "WEBSITEURL": "https://www.Feeleygroup.com",
+            "EMAIL": "brian@feeleygroup.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Gorled Developments Limited",
+            "MEMBEROPERATINGNAME": "Gorled Developments Limited",
+            "MEMBERVBNUM": "B6425",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Gwillimbury Investments Limited",
+            "MEMBEROPERATINGNAME": "Gwillimbury Investments Limited",
+            "MEMBERVBNUM": "B8684",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "MASON WOODS",
+            "Account Number": "B8684",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "6 Mason Road",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-06-27"
+        }
+    ]
+}

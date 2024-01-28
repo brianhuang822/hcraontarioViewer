@@ -1,0 +1,114 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48975",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Grove Inc.",
+            "OPERATINGNAME": "The Grove Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-06-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-06-30 05:00:14.000 +0000",
+            "Expiry Date": "2023-06-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "998 Eglinton Avenue West",
+            "TELEPHONE": "416-452-5582",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "debbie.macdonald@5nine.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600011228",
+            "TO": "Joshua Wiseman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-731-7070"
+        },
+        {
+            "TOUNIQUENUMBER": "11716326",
+            "TO": "Issie Wiseman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "305-216-7440"
+        },
+        {
+            "TOUNIQUENUMBER": "11716326",
+            "TO": "Issie Wiseman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "305-216-7440"
+        },
+        {
+            "TOUNIQUENUMBER": "11716326",
+            "TO": "Issie Wiseman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "305-216-7440"
+        },
+        {
+            "TOUNIQUENUMBER": "330130",
+            "TO": "Martin (Marty) Schmerz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-822-5569"
+        },
+        {
+            "TOUNIQUENUMBER": "330130",
+            "TO": "Martin (Marty) Schmerz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-822-5569"
+        },
+        {
+            "TOUNIQUENUMBER": "330130",
+            "TO": "Martin (Marty) Schmerz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-822-5569"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48975",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Grove Inc.",
+            "OPERATINGNAME": "The Grove Inc.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Grove Condos in Leslieville",
+            "Project Status": "Cancelled",
+            "Location": "TORONTO",
+            "Address": " 90 Pape Ave. ",
+            "# of Units": 28,
+            "# of Terminations": 18,
+            "HCRA_CANCELLATIONREASON": "Vendor unable to obtain satisfactory financing;Zoning/Site Plan approvals not obtained;Sales threshold not met",
+            "Last Status Update": "2022-08-26"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43111",
+            "Umbrella": "Morley Hoppner",
+            "Umbrella ID": "12539671",
+            "VB_NAME": "Morley Hoppner Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2013-09-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-17 05:10:15.000 +0000",
+            "Expiry Date": "2024-09-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1818 Bradley Side Road",
+            "TELEPHONE": "613-831-5490",
+            "FAX": "613-831-0067",
+            "WEBSITEURL": "www.morleyhoppner.com",
+            "EMAIL": "kdowns@morleyhoppner.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12250053",
+            "TO": "Brian Morley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-5490"
+        },
+        {
+            "TOUNIQUENUMBER": "12250053",
+            "TO": "Brian Morley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-5490"
+        },
+        {
+            "TOUNIQUENUMBER": "12250046",
+            "TO": "Ken Hoppner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-5490"
+        },
+        {
+            "TOUNIQUENUMBER": "12250046",
+            "TO": "Ken Hoppner",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-5490"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43111",
+            "Umbrella": "Morley Hoppner",
+            "Umbrella ID": "12539671",
+            "VB_NAME": "Morley Hoppner Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43111",
+            "MEMBERNAME": "Morley Hoppner Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43111",
+            "Umbrella": "Morley Hoppner",
+            "Umbrella ID": "12539671",
+            "VB_NAME": "Morley Hoppner Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43112",
+            "MEMBERNAME": "2 The Parkway Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43111",
+            "Umbrella": "Morley Hoppner",
+            "Umbrella ID": "12539671",
+            "VB_NAME": "Morley Hoppner Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38146",
+            "MEMBERNAME": "Morley Hoppner Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

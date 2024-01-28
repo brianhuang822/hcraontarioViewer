@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43103",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2375901 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "2013-10-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-10-24 13:00:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5508 Freshwater Dr.",
+            "TELEPHONE": "289/997-7381",
+            "FAX": null,
+            "WEBSITEURL": "www.seasonscondos.ca",
+            "EMAIL": "frankb.ninco@gmail.com",
+            "ACCOUNTNUMBER": "B43103",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 41,
+            "SUMM_TOTAL": 41,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100181799",
+            "TO": "Ehab Roman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-990-8408"
+        },
+        {
+            "TOUNIQUENUMBER": "100181799",
+            "TO": "Ehab Roman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-990-8408"
+        },
+        {
+            "TOUNIQUENUMBER": "100181799",
+            "TO": "Ehab Roman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-990-8408"
+        },
+        {
+            "TOUNIQUENUMBER": "11686709",
+            "TO": "Franco Bragagnolo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-961-0370"
+        },
+        {
+            "TOUNIQUENUMBER": "11686709",
+            "TO": "Franco Bragagnolo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-961-0370"
+        },
+        {
+            "TOUNIQUENUMBER": "11686709",
+            "TO": "Franco Bragagnolo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-961-0370"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43103",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2375901 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Seasons Condominiums",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "34 Plains Rd. E.",
+            "# of Units": 41,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-06-01"
+        }
+    ],
+    "builderConditions": []
+}

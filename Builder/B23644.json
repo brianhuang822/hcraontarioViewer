@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23644",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "829972 Ontario Ltd.",
+            "OPERATINGNAME": "Wellesley Lane",
+            "CITY": "INNERKIP",
+            "HCRA_INITIALLICENSEDATE": "1994-02-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1998-02-25 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "66 Young St., P.O. Box 296",
+            "TELEPHONE": "(519)469-3657",
+            "FAX": "(519)469-8697",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "309465",
+            "TO": "John Ross McLean",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-537-6838"
+        },
+        {
+            "TOUNIQUENUMBER": "324375",
+            "TO": "William Wayne Mawhiney",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-688-0206"
+        },
+        {
+            "TOUNIQUENUMBER": "320190",
+            "TO": "Ray Allen Losee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-535-2548"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23644",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "829972 Ontario Ltd.",
+            "OPERATINGNAME": "Wellesley Lane",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WELLESLEY LANE",
+            "Project Status": "Completed",
+            "Location": "WOODSTOCK",
+            "Address": "46 Conestoga Rd.",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-06-20"
+        }
+    ],
+    "builderConditions": []
+}

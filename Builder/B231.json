@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B231",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bernard Sanscartier Construction Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Rockland",
+            "HCRA_INITIALLICENSEDATE": "1977-07-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-07-08 05:00:50.000 +0000",
+            "Expiry Date": "2023-07-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2695 Laurier Street",
+            "TELEPHONE": "613-446-6539",
+            "FAX": "613-446-7219",
+            "WEBSITEURL": "www.sanscartierconstruction.com",
+            "EMAIL": "Bernard@bscl.ca",
+            "ACCOUNTNUMBER": "B231",
+            "Total Outstanding Amount": 50863.03,
+            "TAB": 0,
+            "BREACH": 50863.03,
+            "SUMM_FREEHOLD": 143,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 143,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 1,
+            "SUMM_MAJOR_AMT": 43491.25,
+            "SUMM_TOTAL_CLAIMS": 43491.25
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329739",
+            "TO": "Bernard Sanscartier",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-446-6539"
+        },
+        {
+            "TOUNIQUENUMBER": "329739",
+            "TO": "Bernard Sanscartier",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-446-6539"
+        },
+        {
+            "TOUNIQUENUMBER": "329739",
+            "TO": "Bernard Sanscartier",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-446-6539"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B231",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bernard Sanscartier Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

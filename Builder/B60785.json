@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60785",
+            "Umbrella": "Kingdom Canada",
+            "Umbrella ID": "500000512",
+            "VB_NAME": "Kingdom Markham Project Limited Partnership",
+            "OPERATINGNAME": null,
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2021-12-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-04 19:50:16.000 +0000",
+            "Expiry Date": "2024-12-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3389 Steeles Avenue East",
+            "TELEPHONE": "416-502-2345",
+            "FAX": "416-497-8989",
+            "WEBSITEURL": "http://www.kingdomcanada.com",
+            "EMAIL": "jason.yang@kingdomcanada.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100551413",
+            "TO": "Huaijun Chen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-502-2345"
+        },
+        {
+            "TOUNIQUENUMBER": "100551413",
+            "TO": "Huaijun Chen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-502-2345"
+        },
+        {
+            "TOUNIQUENUMBER": "600007673",
+            "TO": "Kun Jiao",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-961-6789"
+        },
+        {
+            "TOUNIQUENUMBER": "600007673",
+            "TO": "Kun Jiao",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-961-6789"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60785",
+            "Umbrella": "Kingdom Canada",
+            "Umbrella ID": "500000512",
+            "VB_NAME": "Kingdom Markham Project Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47445",
+            "MEMBERNAME": "Kingdom Scarborough Project Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60785",
+            "Umbrella": "Kingdom Canada",
+            "Umbrella ID": "500000512",
+            "VB_NAME": "Kingdom Markham Project Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60838",
+            "MEMBERNAME": "2690622 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60785",
+            "Umbrella": "Kingdom Canada",
+            "Umbrella ID": "500000512",
+            "VB_NAME": "Kingdom Markham Project Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60785",
+            "MEMBERNAME": "Kingdom Markham Project Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60785",
+            "Umbrella": "Kingdom Canada",
+            "Umbrella ID": "500000512",
+            "VB_NAME": "Kingdom Markham Project Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60340",
+            "MEMBERNAME": "Kingdom North York Project Limited Partnership",
+            "MEMBEROPERATINGNAME": "Kingdom North York Project Limited Partnership",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Highmount By Kingdom",
+            "Project Status": "In Progress",
+            "Location": "MARKHAM",
+            "Address": " 4077-4104 Hwy7 E & Birchmount Rd ",
+            "# of Units": 355,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48048",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2658718 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Oldcastle",
+            "HCRA_INITIALLICENSEDATE": "2020-06-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-12 19:21:31.000 +0000",
+            "Expiry Date": "2024-06-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2504 Binder Crescent",
+            "TELEPHONE": "519-737-1292",
+            "FAX": "519-737-7007",
+            "WEBSITEURL": " ",
+            "EMAIL": "dpetretta@petcon.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 189,
+            "SUMM_TOTAL": 189,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12521908",
+            "TO": "Scott D'Amore",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-966-0855"
+        },
+        {
+            "TOUNIQUENUMBER": "12521908",
+            "TO": "Scott D'Amore",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-966-0855"
+        },
+        {
+            "TOUNIQUENUMBER": "308598",
+            "TO": "Michael Touma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-818-7108"
+        },
+        {
+            "TOUNIQUENUMBER": "308598",
+            "TO": "Michael Touma",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-818-7108"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48048",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2658718 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Crossings at Heritage 2.0",
+            "Project Status": "Completed",
+            "Location": "LASALLE",
+            "Address": " 2550 Sandwich West Parkway ",
+            "# of Units": 148,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-11-06"
+        },
+        {
+            "Condo Project Name": "The Crossings at Heritage",
+            "Project Status": "Completed",
+            "Location": "LASALLE",
+            "Address": " 4578 Huron Church Line Road ",
+            "# of Units": 63,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-02-02"
+        }
+    ],
+    "builderConditions": []
+}

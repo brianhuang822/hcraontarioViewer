@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41218",
+            "Umbrella": "Lakeside Cove",
+            "Umbrella ID": "12549692",
+            "VB_NAME": "Marandola Contracting Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Barrie",
+            "HCRA_INITIALLICENSEDATE": "2011-04-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-05 18:30:04.000 +0000",
+            "Expiry Date": "2024-04-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "122 Commerce Park Drive",
+            "TELEPHONE": "705-309-3476",
+            "FAX": "705/726-7750",
+            "WEBSITEURL": null,
+            "EMAIL": "admin@marandolacontracting.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11779213",
+            "TO": "Michael Marandola",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-309-3476"
+        },
+        {
+            "TOUNIQUENUMBER": "11779213",
+            "TO": "Michael Marandola",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-309-3476"
+        },
+        {
+            "TOUNIQUENUMBER": "11779213",
+            "TO": "Michael Marandola",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-309-3476"
+        },
+        {
+            "TOUNIQUENUMBER": "11803357",
+            "TO": "Heather Marandola",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-309-3476"
+        },
+        {
+            "TOUNIQUENUMBER": "11803357",
+            "TO": "Heather Marandola",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-309-3476"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41218",
+            "Umbrella": "Lakeside Cove",
+            "Umbrella ID": "12549692",
+            "VB_NAME": "Marandola Contracting Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47489",
+            "MEMBERNAME": "2642093 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41218",
+            "Umbrella": "Lakeside Cove",
+            "Umbrella ID": "12549692",
+            "VB_NAME": "Marandola Contracting Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41218",
+            "MEMBERNAME": "Marandola Contracting Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

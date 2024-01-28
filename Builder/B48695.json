@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48695",
+            "Umbrella": "Oxford Developments",
+            "Umbrella ID": "12553042",
+            "VB_NAME": "Oxford Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Sharon",
+            "HCRA_INITIALLICENSEDATE": "2021-01-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-11 19:48:09.000 +0000",
+            "Expiry Date": "2025-01-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2 Farr Avenue",
+            "TELEPHONE": "905-836-9306",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "office@oxforddevelopments.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 2,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332760",
+            "TO": "Mohinder Sud",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-836-9306"
+        },
+        {
+            "TOUNIQUENUMBER": "332760",
+            "TO": "Mohinder Sud",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-836-9306"
+        },
+        {
+            "TOUNIQUENUMBER": "332760",
+            "TO": "Mohinder Sud",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-836-9306"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48695",
+            "Umbrella": "Oxford Developments",
+            "Umbrella ID": "12553042",
+            "VB_NAME": "Oxford Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B20533",
+            "MEMBERNAME": "711371 Ontario Corp.",
+            "MEMBEROPERATINGNAME": "Oxford Developments",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48695",
+            "Umbrella": "Oxford Developments",
+            "Umbrella ID": "12553042",
+            "VB_NAME": "Oxford Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48695",
+            "MEMBERNAME": "Oxford Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Wyldwood Trail",
+            "Project Status": null,
+            "Location": "UXBRIDGE",
+            "Address": " 216 & 226 Brock St East ",
+            "# of Units": 60,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

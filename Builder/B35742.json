@@ -1,0 +1,121 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35742",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Brownlee Land Development Inc.",
+            "OPERATINGNAME": "BLD Homes",
+            "CITY": "Perth",
+            "HCRA_INITIALLICENSEDATE": "2005-07-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-28 15:03:56.000 +0000",
+            "Expiry Date": "2024-07-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "48 Wilson Street West",
+            "TELEPHONE": "613-222-7962",
+            "FAX": "613-267-7668",
+            "WEBSITEURL": "http://BLDHOMES.CA",
+            "EMAIL": "info@bldhomes.ca",
+            "ACCOUNTNUMBER": "B35742",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 58,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 58,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600009233",
+            "TO": "Shane Brownlee",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-797-2776"
+        },
+        {
+            "TOUNIQUENUMBER": "600009233",
+            "TO": "Shane Brownlee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-797-2776"
+        },
+        {
+            "TOUNIQUENUMBER": "12066834",
+            "TO": "Brent Brownlee",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-797-2776"
+        },
+        {
+            "TOUNIQUENUMBER": "12066834",
+            "TO": "Brent Brownlee",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-797-2776"
+        },
+        {
+            "TOUNIQUENUMBER": "12066834",
+            "TO": "Brent Brownlee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-797-2776"
+        },
+        {
+            "TOUNIQUENUMBER": "12066832",
+            "TO": "Avis Brownlee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-267-4921"
+        },
+        {
+            "TOUNIQUENUMBER": "12066832",
+            "TO": "Avis Brownlee",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-267-4921"
+        },
+        {
+            "TOUNIQUENUMBER": "12066832",
+            "TO": "Avis Brownlee",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-267-4921"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35742",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Brownlee Land Development Inc.",
+            "OPERATINGNAME": "BLD Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE TWEEDSMUIR CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "PERTH",
+            "Address": "22 Welland St",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-02-15"
+        }
+    ],
+    "builderConditions": []
+}

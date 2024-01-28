@@ -1,0 +1,164 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B2025",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "783422 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Callander",
+            "HCRA_INITIALLICENSEDATE": "1987-07-27",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2009-08-12 19:51:25.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "767 Callander Bay Drive",
+            "TELEPHONE": "(705)752-2072",
+            "FAX": "(705)752-4842",
+            "WEBSITEURL": null,
+            "EMAIL": "baywood-homes@onlink.net",
+            "ACCOUNTNUMBER": "B2025",
+            "Total Outstanding Amount": 12162.23,
+            "TAB": 0,
+            "BREACH": 12162.23,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 900,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 900
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "307287",
+            "TO": "Gloria Crewson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "307287",
+            "TO": "Gloria Crewson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "300606",
+            "TO": "Roger Acton",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-840-5500"
+        },
+        {
+            "TOUNIQUENUMBER": "300606",
+            "TO": "Roger Acton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-840-5500"
+        },
+        {
+            "TOUNIQUENUMBER": "300606",
+            "TO": "Roger Acton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-840-5500"
+        },
+        {
+            "TOUNIQUENUMBER": "326820",
+            "TO": "Robert H Point",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-752-2954"
+        },
+        {
+            "TOUNIQUENUMBER": "326820",
+            "TO": "Robert H Point",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-752-2954"
+        },
+        {
+            "TOUNIQUENUMBER": "307285",
+            "TO": "Carl Crewson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "307285",
+            "TO": "Carl Crewson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "307285",
+            "TO": "Carl Crewson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA101668",
+            "CHARGE_AGAINST": "783422 Ontario Inc. (Baywood Homes)",
+            "CHARGE_DATE": "2009-09-21",
+            "DISPOSITION_DATE": "2010-08-06",
+            "THE_FINE_": "7500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "1875",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9324600",
+            "ORGANIZATION_NAME": "783422 Ontario Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Rutherglen, ON",
+            "CITY_DEFENCE": "Callander, ON",
+            "VB_NUMBER": "B2025",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA101668 9324600",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Bonfield, Township",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2008-09-04",
+            "TO_OFFENCE_DATE": "2009-09-14",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "9375",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "49:24.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B2025",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "783422 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

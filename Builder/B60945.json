@@ -1,0 +1,112 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60945",
+            "Umbrella": "Janik Group",
+            "Umbrella ID": "500001156",
+            "VB_NAME": "2816544 Ontario Inc.",
+            "OPERATINGNAME": "2816544 Ontario Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-02-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-21 19:23:45.000 +0000",
+            "Expiry Date": "2024-02-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1020 Lawrence Avenue West",
+            "TELEPHONE": "416-519-5562",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "stefanie@janikgroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600009683",
+            "TO": "Jose Cruz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-409-2127"
+        },
+        {
+            "TOUNIQUENUMBER": "600009683",
+            "TO": "Jose Cruz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-409-2127"
+        },
+        {
+            "TOUNIQUENUMBER": "339435",
+            "TO": "Nicklaus Sampogna",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-519-5562"
+        },
+        {
+            "TOUNIQUENUMBER": "339435",
+            "TO": "Nicklaus Sampogna",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-519-5562"
+        },
+        {
+            "TOUNIQUENUMBER": "339435",
+            "TO": "Nicklaus Sampogna",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-519-5562"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60945",
+            "Umbrella": "Janik Group",
+            "Umbrella ID": "500001156",
+            "VB_NAME": "2816544 Ontario Inc.",
+            "OPERATINGNAME": "2816544 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60945",
+            "MEMBERNAME": "2816544 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2816544 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60945",
+            "Umbrella": "Janik Group",
+            "Umbrella ID": "500001156",
+            "VB_NAME": "2816544 Ontario Inc.",
+            "OPERATINGNAME": "2816544 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46726",
+            "MEMBERNAME": "2521311 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "35 Plains Road",
+            "Project Status": "In Progress",
+            "Location": "BURLINGTON",
+            "Address": " 35 Plains Road East ",
+            "# of Units": 72,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

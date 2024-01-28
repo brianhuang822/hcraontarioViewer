@@ -1,0 +1,137 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40780",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni (Westlake) Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2010-09-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-09-11 13:00:25.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "177 Fort York Blvd.",
+            "TELEPHONE": "416/260-8200",
+            "FAX": "416/260-8240",
+            "WEBSITEURL": "www.onni.com",
+            "EMAIL": "rnazerali@onni.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12396802",
+            "TO": "Rossano De Cotiis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7711"
+        },
+        {
+            "TOUNIQUENUMBER": "12396802",
+            "TO": "Rossano De Cotiis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7711"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40780",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni (Westlake) Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40244",
+            "MEMBERNAME": "Garrison Yards Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40780",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni (Westlake) Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40276",
+            "MEMBERNAME": "Onni Contracting (Ontario) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40780",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni (Westlake) Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40780",
+            "MEMBERNAME": "Onni (Westlake) Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40780",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni (Westlake) Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42368",
+            "MEMBERNAME": "Onni (Encore) Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40780",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni (Westlake) Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41260",
+            "MEMBERNAME": "The Yards Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Westlake Tower Three",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "2212 Lake Shore Blvd. W.",
+            "# of Units": 428,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-10-13"
+        },
+        {
+            "Condo Project Name": "Westlake Tower Two",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "2200 Lake Shore Blvd. W.",
+            "# of Units": 434,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-07-21"
+        }
+    ],
+    "builderConditions": []
+}

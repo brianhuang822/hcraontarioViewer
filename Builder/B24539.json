@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24539",
+            "Umbrella": "Matthew Sapera Fine Homes",
+            "Umbrella ID": "12539927",
+            "VB_NAME": "M. Sapera Construction Limited.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1994-11-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-11-29 13:33:54.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2 St. Clair Ave. E., Ste. 800",
+            "TELEPHONE": "(416)975-5510",
+            "FAX": "(416)513-0348",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340359",
+            "TO": "Matthew P. Sapera",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-975-5510"
+        },
+        {
+            "TOUNIQUENUMBER": "340359",
+            "TO": "Matthew P. Sapera",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-975-5510"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24539",
+            "Umbrella": "Matthew Sapera Fine Homes",
+            "Umbrella ID": "12539927",
+            "VB_NAME": "M. Sapera Construction Limited.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32755",
+            "MEMBERNAME": "M. Sapera Construction Limited",
+            "MEMBEROPERATINGNAME": "Matthew Sapera Fine Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B24539",
+            "Umbrella": "Matthew Sapera Fine Homes",
+            "Umbrella ID": "12539927",
+            "VB_NAME": "M. Sapera Construction Limited.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48371",
+            "MEMBERNAME": "138 Dunvegan Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B24539",
+            "Umbrella": "Matthew Sapera Fine Homes",
+            "Umbrella ID": "12539927",
+            "VB_NAME": "M. Sapera Construction Limited.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24539",
+            "MEMBERNAME": "M. Sapera Construction Limited.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

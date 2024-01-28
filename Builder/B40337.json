@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40337",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Candor Home Builders Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "ORLEANS",
+            "HCRA_INITIALLICENSEDATE": "2010-05-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-08-12 00:22:26.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1803 St. Joseph Blvd., Suite 104",
+            "TELEPHONE": "613 835 9595",
+            "FAX": "613-835-9590",
+            "WEBSITEURL": "candorhomes.ca",
+            "EMAIL": "candor@magma.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12401672",
+            "TO": "James Locke",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-835-9595"
+        },
+        {
+            "TOUNIQUENUMBER": "12401672",
+            "TO": "James Locke",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-835-9595"
+        },
+        {
+            "TOUNIQUENUMBER": "12401672",
+            "TO": "James Locke",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-835-9595"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40337",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Candor Home Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "1238 Marenger",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-09-02"
+        },
+        {
+            "Condo Project Name": "TBA",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "1230 Marenger",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-08-06"
+        }
+    ],
+    "builderConditions": []
+}

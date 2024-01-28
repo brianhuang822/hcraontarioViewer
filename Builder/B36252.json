@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36252",
+            "Umbrella": "York by York Developments",
+            "Umbrella ID": "12140627",
+            "VB_NAME": "York by York Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "GRIMSBY",
+            "HCRA_INITIALLICENSEDATE": "2023-05-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-02 17:55:06.000 +0000",
+            "Expiry Date": "2024-05-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 265",
+            "TELEPHONE": "905-928-3273",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "lyork@cogeco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345391",
+            "TO": "Lori York",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-928-3273"
+        },
+        {
+            "TOUNIQUENUMBER": "345391",
+            "TO": "Lori York",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-928-3273"
+        },
+        {
+            "TOUNIQUENUMBER": "345391",
+            "TO": "Lori York",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-928-3273"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36252",
+            "Umbrella": "York by York Developments",
+            "Umbrella ID": "12140627",
+            "VB_NAME": "York by York Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28528",
+            "MEMBERNAME": "Yormar Holdings Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36252",
+            "Umbrella": "York by York Developments",
+            "Umbrella ID": "12140627",
+            "VB_NAME": "York by York Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36252",
+            "MEMBERNAME": "York by York Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

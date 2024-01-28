@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39125",
+            "Umbrella": "Light House Development Group",
+            "Umbrella ID": "12476401",
+            "VB_NAME": "11 Christie Street Inc.",
+            "OPERATINGNAME": "11 Christie Street",
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2009-09-29",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2011-10-06 01:51:59.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "80 Carlauren Rd., Ste. 23",
+            "TELEPHONE": "905-265-2612",
+            "FAX": "647-439-4899",
+            "WEBSITEURL": null,
+            "EMAIL": "sordilaw@hotmail.com",
+            "ACCOUNTNUMBER": "B39125",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 11,
+            "SUMM_MINOR_AMT": 739592.05,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 739592.05
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12179379",
+            "TO": "Sandro Sordi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-4223"
+        },
+        {
+            "TOUNIQUENUMBER": "12179379",
+            "TO": "Sandro Sordi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-4223"
+        },
+        {
+            "TOUNIQUENUMBER": "12179379",
+            "TO": "Sandro Sordi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-4223"
+        },
+        {
+            "TOUNIQUENUMBER": "12179464",
+            "TO": "Anna Maria Sordi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-799-2099"
+        },
+        {
+            "TOUNIQUENUMBER": "12179463",
+            "TO": "Violanta Sordi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-244-5057"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39125",
+            "Umbrella": "Light House Development Group",
+            "Umbrella ID": "12476401",
+            "VB_NAME": "11 Christie Street Inc.",
+            "OPERATINGNAME": "11 Christie Street",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B39125",
+            "MEMBERNAME": "11 Christie Street Inc.",
+            "MEMBEROPERATINGNAME": "11 Christie Street",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B39125",
+            "Umbrella": "Light House Development Group",
+            "Umbrella ID": "12476401",
+            "VB_NAME": "11 Christie Street Inc.",
+            "OPERATINGNAME": "11 Christie Street",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B37905",
+            "MEMBERNAME": "Westport Beach Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B39125",
+            "Umbrella": "Light House Development Group",
+            "Umbrella ID": "12476401",
+            "VB_NAME": "11 Christie Street Inc.",
+            "OPERATINGNAME": "11 Christie Street",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B35151",
+            "MEMBERNAME": "11 Christie Street Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "11 Christie",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "11 Christie St",
+            "# of Units": 61,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-11-01"
+        }
+    ],
+    "builderConditions": []
+}

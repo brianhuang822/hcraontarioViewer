@@ -1,0 +1,137 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11893",
+            "Umbrella": "Lambton Homes",
+            "Umbrella ID": "1494",
+            "VB_NAME": "Geofman Properties Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "BURLINGTON",
+            "HCRA_INITIALLICENSEDATE": "1986-03-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1989-09-10 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "35-3455 Harvester Rd.",
+            "TELEPHONE": "(416)639-7941",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "310050",
+            "TO": "Michael G. Edgecombe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "324485",
+            "TO": "Donald Newman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11893",
+            "Umbrella": "Lambton Homes",
+            "Umbrella ID": "1494",
+            "VB_NAME": "Geofman Properties Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11653",
+            "MEMBERNAME": "Geofcott Development Limited.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B11893",
+            "Umbrella": "Lambton Homes",
+            "Umbrella ID": "1494",
+            "VB_NAME": "Geofman Properties Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11893",
+            "MEMBERNAME": "Geofman Properties Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B11893",
+            "Umbrella": "Lambton Homes",
+            "Umbrella ID": "1494",
+            "VB_NAME": "Geofman Properties Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B4750",
+            "MEMBERNAME": "Geofcott Properties (1977) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B11893",
+            "Umbrella": "Lambton Homes",
+            "Umbrella ID": "1494",
+            "VB_NAME": "Geofman Properties Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B16880",
+            "MEMBERNAME": "Royaledge Industries Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B11893",
+            "Umbrella": "Lambton Homes",
+            "Umbrella ID": "1494",
+            "VB_NAME": "Geofman Properties Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11856",
+            "MEMBERNAME": "Geofcott Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "1072 WALDEN CIR., MISSISSAUGA",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1072 Walden Cir.",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-03-02"
+        },
+        {
+            "Condo Project Name": "WALDEN SPINNEY",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1010 Waledn Cir.",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-03-02"
+        }
+    ],
+    "builderConditions": []
+}

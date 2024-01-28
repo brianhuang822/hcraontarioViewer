@@ -1,0 +1,137 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1778",
+            "Umbrella": "Les Entreprises Normand Ravary",
+            "Umbrella ID": "12540199",
+            "VB_NAME": "Les Entreprises Normand Ravary Limitee",
+            "OPERATINGNAME": null,
+            "CITY": "HAWKESBURY",
+            "HCRA_INITIALLICENSEDATE": "1988-10-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-10-21 12:30:28.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "593 Main East Local A",
+            "TELEPHONE": "(613)632-5931",
+            "FAX": "(613)632-5513",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "327716",
+            "TO": "Normand Ravary",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-8097"
+        },
+        {
+            "TOUNIQUENUMBER": "327716",
+            "TO": "Normand Ravary",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-8097"
+        },
+        {
+            "TOUNIQUENUMBER": "327716",
+            "TO": "Normand Ravary",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-8097"
+        },
+        {
+            "TOUNIQUENUMBER": "327716",
+            "TO": "Normand Ravary",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-8097"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1778",
+            "Umbrella": "Les Entreprises Normand Ravary",
+            "Umbrella ID": "12540199",
+            "VB_NAME": "Les Entreprises Normand Ravary Limitee",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B1778",
+            "MEMBERNAME": "Les Entreprises Normand Ravary Limitee",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B1778",
+            "Umbrella": "Les Entreprises Normand Ravary",
+            "Umbrella ID": "12540199",
+            "VB_NAME": "Les Entreprises Normand Ravary Limitee",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35643",
+            "MEMBERNAME": "Les Entreprises Normand Ravary Limitee",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B1778",
+            "Umbrella": "Les Entreprises Normand Ravary",
+            "Umbrella ID": "12540199",
+            "VB_NAME": "Les Entreprises Normand Ravary Limitee",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41829",
+            "MEMBERNAME": "Les Entreprises Normand Ravary Limitee",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "\"LE RIVERAIN\"",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "78-88 Race St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-07-03"
+        },
+        {
+            "Condo Project Name": "\"LE NORMANDIN\" PHASE II",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "661/669 Spence Avenue",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-04-10"
+        },
+        {
+            "Condo Project Name": "LES ENT. NORMAND RAVARY LTEE.",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "683,693 Spence Avenue",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-07-18"
+        }
+    ],
+    "builderConditions": []
+}

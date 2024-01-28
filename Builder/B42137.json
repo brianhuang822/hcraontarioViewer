@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42137",
+            "Umbrella": "Romano Contracting",
+            "Umbrella ID": "12540207",
+            "VB_NAME": "Bill Romano Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Thunder Bay",
+            "HCRA_INITIALLICENSEDATE": "2012-06-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-06 20:59:34.000 +0000",
+            "Expiry Date": "2024-06-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1117 Mahogany Place",
+            "TELEPHONE": "807-624-7899",
+            "FAX": "807-285-2603",
+            "WEBSITEURL": " ",
+            "EMAIL": "kathbill@shaw.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 13,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 13,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343965",
+            "TO": "William (Bill) Russell Romano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-624-7899"
+        },
+        {
+            "TOUNIQUENUMBER": "343965",
+            "TO": "William (Bill) Russell Romano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-624-7899"
+        },
+        {
+            "TOUNIQUENUMBER": "343965",
+            "TO": "William (Bill) Russell Romano",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-624-7899"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42137",
+            "Umbrella": "Romano Contracting",
+            "Umbrella ID": "12540207",
+            "VB_NAME": "Bill Romano Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27459",
+            "MEMBERNAME": "Dysievick Romano Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42137",
+            "Umbrella": "Romano Contracting",
+            "Umbrella ID": "12540207",
+            "VB_NAME": "Bill Romano Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42137",
+            "MEMBERNAME": "Bill Romano Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

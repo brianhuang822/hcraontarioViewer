@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43071",
+            "Umbrella": "Ko Sing Design Build",
+            "Umbrella ID": "12539407",
+            "VB_NAME": "2377986 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2013-07-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-26 04:00:00.000 +0000",
+            "Expiry Date": "2024-07-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9735 Warden Avenue",
+            "TELEPHONE": "416-818-0488",
+            "FAX": null,
+            "WEBSITEURL": "www.kosing.ca",
+            "EMAIL": "kosing@me.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 11,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 11,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12400616",
+            "TO": "Stephen Ko",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-818-0488"
+        },
+        {
+            "TOUNIQUENUMBER": "12400616",
+            "TO": "Stephen Ko",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-818-0488"
+        },
+        {
+            "TOUNIQUENUMBER": "12400616",
+            "TO": "Stephen Ko",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-818-0488"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43071",
+            "Umbrella": "Ko Sing Design Build",
+            "Umbrella ID": "12539407",
+            "VB_NAME": "2377986 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42092",
+            "MEMBERNAME": "2258832 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43071",
+            "Umbrella": "Ko Sing Design Build",
+            "Umbrella ID": "12539407",
+            "VB_NAME": "2377986 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43071",
+            "MEMBERNAME": "2377986 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

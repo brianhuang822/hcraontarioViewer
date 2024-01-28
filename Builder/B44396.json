@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44396",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Metropole Developments Inc.",
+            "OPERATINGNAME": "Metropole Developments Inc",
+            "CITY": "Richmond Hill",
+            "HCRA_INITIALLICENSEDATE": "2015-06-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-08 19:18:17.000 +0000",
+            "Expiry Date": "2024-06-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1595 16th Avenue",
+            "TELEPHONE": "647-476-7212",
+            "FAX": null,
+            "WEBSITEURL": "http://www.metropolegroup.ca",
+            "EMAIL": "info@metropolegroup.ca",
+            "ACCOUNTNUMBER": "B44396",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 8755,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 8755
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600005327",
+            "TO": "Sahar Ameri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-968-7222"
+        },
+        {
+            "TOUNIQUENUMBER": "100296207",
+            "TO": "Parisima Fotouhi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-778-7224"
+        },
+        {
+            "TOUNIQUENUMBER": "100296207",
+            "TO": "Parisima Fotouhi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-778-7224"
+        },
+        {
+            "TOUNIQUENUMBER": "100296206",
+            "TO": "Tondar Tajrobehkar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-476-7212"
+        },
+        {
+            "TOUNIQUENUMBER": "100296208",
+            "TO": "Abbas Aameri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-476-7212"
+        },
+        {
+            "TOUNIQUENUMBER": "100296208",
+            "TO": "Abbas Aameri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-476-7212"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44396",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Metropole Developments Inc.",
+            "OPERATINGNAME": "Metropole Developments Inc",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Harris Gate",
+            "Project Status": null,
+            "Location": "RICHMOND HILL",
+            "Address": " 40 - 60 Harris Avenue ",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

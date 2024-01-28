@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45021",
+            "Umbrella": "Sterling Group",
+            "Umbrella ID": "12550417",
+            "VB_NAME": "Sterling Homes (Blue Mountain) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "2016-01-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-01-16 14:00:39.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "20 Rivermede Rd., Ste. 204",
+            "TELEPHONE": "905/669-8399",
+            "FAX": "289/597-8377",
+            "WEBSITEURL": "www.sterlinggroupcorp.com",
+            "EMAIL": "pfederico@sterlinggroupcorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 9,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 9,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "311173",
+            "TO": "Dominic Fiorini",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-746-2005"
+        },
+        {
+            "TOUNIQUENUMBER": "311175",
+            "TO": "Joseph Fiorini",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-565-5660"
+        },
+        {
+            "TOUNIQUENUMBER": "343090",
+            "TO": "Paul Federico",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-910-1446"
+        },
+        {
+            "TOUNIQUENUMBER": "343090",
+            "TO": "Paul Federico",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-910-1446"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45021",
+            "Umbrella": "Sterling Group",
+            "Umbrella ID": "12550417",
+            "VB_NAME": "Sterling Homes (Blue Mountain) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45021",
+            "MEMBERNAME": "Sterling Homes (Blue Mountain) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45021",
+            "Umbrella": "Sterling Group",
+            "Umbrella ID": "12550417",
+            "VB_NAME": "Sterling Homes (Blue Mountain) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47774",
+            "MEMBERNAME": "Sterling Homes (Westbury Rd) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45021",
+            "Umbrella": "Sterling Group",
+            "Umbrella ID": "12550417",
+            "VB_NAME": "Sterling Homes (Blue Mountain) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48985",
+            "MEMBERNAME": "Sterling Homes (Weston Rd) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45021",
+            "Umbrella": "Sterling Group",
+            "Umbrella ID": "12550417",
+            "VB_NAME": "Sterling Homes (Blue Mountain) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48551",
+            "MEMBERNAME": "ORILLIA (144 ELGIN ST.) VENTURES INC.",
+            "MEMBEROPERATINGNAME": "ORILLIA (144 ELGIN ST.) VENTURES INC.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Blue Horizon",
+            "Project Status": null,
+            "Location": "BLUE MOUNTAINS",
+            "Address": "277 Jozo Weiber",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

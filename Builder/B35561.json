@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35561",
+            "Umbrella": "Tega Homes",
+            "Umbrella ID": "12218425",
+            "VB_NAME": "4042841 Canada Inc.",
+            "OPERATINGNAME": "Tega Homes",
+            "CITY": "KANATA",
+            "HCRA_INITIALLICENSEDATE": "2005-06-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-06-02 12:00:08.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "800 Petra Private",
+            "TELEPHONE": "613/851-0352",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "spyrotega@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 6500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 6500
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12075859",
+            "TO": "Spyridon Dimitrakopoulos",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-851-0352"
+        },
+        {
+            "TOUNIQUENUMBER": "12075859",
+            "TO": "Spyridon Dimitrakopoulos",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-851-0352"
+        },
+        {
+            "TOUNIQUENUMBER": "12075859",
+            "TO": "Spyridon Dimitrakopoulos",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-851-0352"
+        },
+        {
+            "TOUNIQUENUMBER": "12075860",
+            "TO": "Kim Morris",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35561",
+            "Umbrella": "Tega Homes",
+            "Umbrella ID": "12218425",
+            "VB_NAME": "4042841 Canada Inc.",
+            "OPERATINGNAME": "Tega Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42703",
+            "MEMBERNAME": "Tega Developments (Rhombus) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35561",
+            "Umbrella": "Tega Homes",
+            "Umbrella ID": "12218425",
+            "VB_NAME": "4042841 Canada Inc.",
+            "OPERATINGNAME": "Tega Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37561",
+            "MEMBERNAME": "Tega Developments Inc.",
+            "MEMBEROPERATINGNAME": "Tega Developments",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35561",
+            "Umbrella": "Tega Homes",
+            "Umbrella ID": "12218425",
+            "VB_NAME": "4042841 Canada Inc.",
+            "OPERATINGNAME": "Tega Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35561",
+            "MEMBERNAME": "4042841 Canada Inc.",
+            "MEMBEROPERATINGNAME": "Tega Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TAVANI WESTBORO",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "680-690 Churchill Ave.",
+            "# of Units": 33,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-10-12"
+        },
+        {
+            "Condo Project Name": "TEGA HOMES",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 711 Churchill Ave N ",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-11-02"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60876",
+            "Umbrella": "RT Construction",
+            "Umbrella ID": "500001155",
+            "VB_NAME": "Rob Thompson Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Elizabethtown",
+            "HCRA_INITIALLICENSEDATE": "2022-02-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-02-17 13:43:58.000 +0000",
+            "Expiry Date": "2024-02-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "419 Fernbank Road",
+            "TELEPHONE": "613-258-0088",
+            "FAX": "613-691-1230",
+            "WEBSITEURL": "http://robthompson.ca/construction",
+            "EMAIL": "construction@robthompson.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336483",
+            "TO": "Robert Thompson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-223-6624"
+        },
+        {
+            "TOUNIQUENUMBER": "336483",
+            "TO": "Robert Thompson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-223-6624"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60876",
+            "Umbrella": "RT Construction",
+            "Umbrella ID": "500001155",
+            "VB_NAME": "Rob Thompson Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42000",
+            "MEMBERNAME": "Sweetwater Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60876",
+            "Umbrella": "RT Construction",
+            "Umbrella ID": "500001155",
+            "VB_NAME": "Rob Thompson Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60876",
+            "MEMBERNAME": "Rob Thompson Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

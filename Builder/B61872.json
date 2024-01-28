@@ -1,0 +1,141 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61872",
+            "Umbrella": "Curated Properties",
+            "Umbrella ID": "12539047",
+            "VB_NAME": "Temple Avenue Partners Inc.",
+            "OPERATINGNAME": "Temple Avenue Partners Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2023-02-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-14 16:46:03.000 +0000",
+            "Expiry Date": "2025-02-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "32 Sudbury Street",
+            "TELEPHONE": "416-214-0303",
+            "FAX": null,
+            "WEBSITEURL": "https://curatedproperties.com",
+            "EMAIL": "service@curatedproperties.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "324988",
+            "TO": "Adam Ochshorn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-617-0939"
+        },
+        {
+            "TOUNIQUENUMBER": "324988",
+            "TO": "Adam Ochshorn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-617-0939"
+        },
+        {
+            "TOUNIQUENUMBER": "310129",
+            "TO": "Gary Eisen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-579-4629"
+        },
+        {
+            "TOUNIQUENUMBER": "310129",
+            "TO": "Gary Eisen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-579-4629"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61872",
+            "Umbrella": "Curated Properties",
+            "Umbrella ID": "12539047",
+            "VB_NAME": "Temple Avenue Partners Inc.",
+            "OPERATINGNAME": "Temple Avenue Partners Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40076",
+            "MEMBERNAME": "Annex Loft Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B61872",
+            "Umbrella": "Curated Properties",
+            "Umbrella ID": "12539047",
+            "VB_NAME": "Temple Avenue Partners Inc.",
+            "OPERATINGNAME": "Temple Avenue Partners Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41857",
+            "MEMBERNAME": "850 Richmond Street Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B61872",
+            "Umbrella": "Curated Properties",
+            "Umbrella ID": "12539047",
+            "VB_NAME": "Temple Avenue Partners Inc.",
+            "OPERATINGNAME": "Temple Avenue Partners Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61043",
+            "MEMBERNAME": "109 Erskine Inc.",
+            "MEMBEROPERATINGNAME": "109 Erskine Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61872",
+            "Umbrella": "Curated Properties",
+            "Umbrella ID": "12539047",
+            "VB_NAME": "Temple Avenue Partners Inc.",
+            "OPERATINGNAME": "Temple Avenue Partners Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61872",
+            "MEMBERNAME": "Temple Avenue Partners Inc.",
+            "MEMBEROPERATINGNAME": "Temple Avenue Partners Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61872",
+            "Umbrella": "Curated Properties",
+            "Umbrella ID": "12539047",
+            "VB_NAME": "Temple Avenue Partners Inc.",
+            "OPERATINGNAME": "Temple Avenue Partners Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44808",
+            "MEMBERNAME": "Curated Cabin Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Temple",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 8 Temple Ave. ",
+            "# of Units": 246,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

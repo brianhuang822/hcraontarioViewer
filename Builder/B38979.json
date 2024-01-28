@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38979",
+            "Umbrella": "Forestwood Homes",
+            "Umbrella ID": "12384653",
+            "VB_NAME": "1766041 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "OLD OAKVILLE",
+            "HCRA_INITIALLICENSEDATE": "2008-08-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-08-06 12:00:32.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 52040, 338 Lakeshore Rd. E.",
+            "TELEPHONE": "416-819-7400",
+            "FAX": "289-837-1661",
+            "WEBSITEURL": "www.forestwoodhomes.ca",
+            "EMAIL": "randy@forestwoodhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12299698",
+            "TO": "Randall Scarrow",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-819-7400"
+        },
+        {
+            "TOUNIQUENUMBER": "12299698",
+            "TO": "Randall Scarrow",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-819-7400"
+        },
+        {
+            "TOUNIQUENUMBER": "12299695",
+            "TO": "Petronilla Dell'Anno-Scarrow",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-819-7400"
+        },
+        {
+            "TOUNIQUENUMBER": "12299695",
+            "TO": "Petronilla Dell'Anno-Scarrow",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-819-7400"
+        },
+        {
+            "TOUNIQUENUMBER": "12299695",
+            "TO": "Petronilla Dell'Anno-Scarrow",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-819-7400"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38979",
+            "Umbrella": "Forestwood Homes",
+            "Umbrella ID": "12384653",
+            "VB_NAME": "1766041 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39002",
+            "MEMBERNAME": "1767903 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38979",
+            "Umbrella": "Forestwood Homes",
+            "Umbrella ID": "12384653",
+            "VB_NAME": "1766041 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44697",
+            "MEMBERNAME": "2476599 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Forestwood Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B38979",
+            "Umbrella": "Forestwood Homes",
+            "Umbrella ID": "12384653",
+            "VB_NAME": "1766041 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38979",
+            "MEMBERNAME": "1766041 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

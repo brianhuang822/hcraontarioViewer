@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60806",
+            "Umbrella": "Pinestone",
+            "Umbrella ID": "500001174",
+            "VB_NAME": "Pinestone Construction Inc.",
+            "OPERATINGNAME": "Pinestone Construction Inc.",
+            "CITY": "Arthur",
+            "HCRA_INITIALLICENSEDATE": "2022-02-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-05 15:51:33.000 +0000",
+            "Expiry Date": "2025-02-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7210 Sixteenth Line",
+            "TELEPHONE": "519-897-9878",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "admin@pinestoneconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 27,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 27,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008726",
+            "TO": "Shayne DeBoer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-994-0798"
+        },
+        {
+            "TOUNIQUENUMBER": "600008726",
+            "TO": "Shayne DeBoer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-994-0798"
+        },
+        {
+            "TOUNIQUENUMBER": "600008726",
+            "TO": "Shayne DeBoer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-994-0798"
+        },
+        {
+            "TOUNIQUENUMBER": "12096001",
+            "TO": "Arnold DeBoer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        },
+        {
+            "TOUNIQUENUMBER": "12096001",
+            "TO": "Arnold DeBoer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60806",
+            "Umbrella": "Pinestone",
+            "Umbrella ID": "500001174",
+            "VB_NAME": "Pinestone Construction Inc.",
+            "OPERATINGNAME": "Pinestone Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35923",
+            "MEMBERNAME": "Pinestone Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60806",
+            "Umbrella": "Pinestone",
+            "Umbrella ID": "500001174",
+            "VB_NAME": "Pinestone Construction Inc.",
+            "OPERATINGNAME": "Pinestone Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60806",
+            "MEMBERNAME": "Pinestone Construction Inc.",
+            "MEMBEROPERATINGNAME": "Pinestone Construction Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

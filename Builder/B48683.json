@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48683",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "739-787 Conlin Road Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2020-10-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-09 00:40:53.000 +0000",
+            "Expiry Date": "2024-10-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "55 St. Clair Avenue West",
+            "TELEPHONE": "416-461-6100",
+            "FAX": "416-461-2743",
+            "WEBSITEURL": null,
+            "EMAIL": "lhum@stafford.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 65,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 65,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "313090",
+            "TO": "Gary Goldman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-461-6100"
+        },
+        {
+            "TOUNIQUENUMBER": "313090",
+            "TO": "Gary Goldman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-461-6100"
+        },
+        {
+            "TOUNIQUENUMBER": "100276768",
+            "TO": "Peter Politis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-227-2220"
+        },
+        {
+            "TOUNIQUENUMBER": "100276768",
+            "TO": "Peter Politis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-227-2220"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48683",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "739-787 Conlin Road Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Greenhill",
+            "Project Status": null,
+            "Location": "OSHAWA",
+            "Address": " 739 Conlin Road ",
+            "# of Units": 115,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

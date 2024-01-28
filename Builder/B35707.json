@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35707",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sonoma Homes Inc.",
+            "OPERATINGNAME": "Sonoma Homes",
+            "CITY": "Mount Hope",
+            "HCRA_INITIALLICENSEDATE": "2005-06-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-07 20:18:04.000 +0000",
+            "Expiry Date": "2024-06-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 100",
+            "TELEPHONE": "905-538-2617",
+            "FAX": "905-538-2717",
+            "WEBSITEURL": "www.sonomahomes.ca",
+            "EMAIL": "info@sonomahomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 154,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 154,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11995451",
+            "TO": "Michael Chiaravalle",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-538-2617"
+        },
+        {
+            "TOUNIQUENUMBER": "11995451",
+            "TO": "Michael Chiaravalle",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-538-2617"
+        },
+        {
+            "TOUNIQUENUMBER": "11995451",
+            "TO": "Michael Chiaravalle",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-538-2617"
+        },
+        {
+            "TOUNIQUENUMBER": "100306401",
+            "TO": "Angela Chiaravalle",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-538-2617"
+        },
+        {
+            "TOUNIQUENUMBER": "100306402",
+            "TO": "Rita Chiaravalle",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-538-2617"
+        },
+        {
+            "TOUNIQUENUMBER": "12083143",
+            "TO": "Carmen Chiaravalle",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-538-2617"
+        },
+        {
+            "TOUNIQUENUMBER": "12083143",
+            "TO": "Carmen Chiaravalle",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-538-2617"
+        },
+        {
+            "TOUNIQUENUMBER": "12083143",
+            "TO": "Carmen Chiaravalle",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-538-2617"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35707",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sonoma Homes Inc.",
+            "OPERATINGNAME": "Sonoma Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Highlands of Mount Hope",
+            "Project Status": "In Progress",
+            "Location": "HAMILTON",
+            "Address": "  Homestead Drive ",
+            "# of Units": 67,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Style Town Collection",
+            "Project Status": null,
+            "Location": "HAMILTON",
+            "Address": "1155 West. 5th St.",
+            "# of Units": 139,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

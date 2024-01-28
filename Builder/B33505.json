@@ -1,0 +1,152 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33505",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Habitat For Humanity Peterborough & Kawartha Region",
+            "OPERATINGNAME": null,
+            "CITY": "Peterborough",
+            "HCRA_INITIALLICENSEDATE": "2003-05-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-06 12:21:54.000 +0000",
+            "Expiry Date": "2024-05-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "300 Milroy Street",
+            "TELEPHONE": "705-874-0201",
+            "FAX": "705-750-0621",
+            "WEBSITEURL": "www.habitatpeterborough.ca",
+            "EMAIL": "susan@habitatpkr.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 18,
+            "SUMM_CONDO": 41,
+            "SUMM_TOTAL": 59,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600014493",
+            "TO": "Sandy Woodhouse",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600010668",
+            "TO": "Robert Carter",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-302-7510"
+        },
+        {
+            "TOUNIQUENUMBER": "600010669",
+            "TO": "Hope Lee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-772-8400"
+        },
+        {
+            "TOUNIQUENUMBER": "600008554",
+            "TO": "Fred Bennett",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-933-8829"
+        },
+        {
+            "TOUNIQUENUMBER": "600008556",
+            "TO": "Sandy Thomas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-431-9083"
+        },
+        {
+            "TOUNIQUENUMBER": "600008553",
+            "TO": "Robert Swaffield",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "swaffield@xplornet.ca"
+        },
+        {
+            "TOUNIQUENUMBER": "600008555",
+            "TO": "Linda Mitchelson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-773-9916"
+        },
+        {
+            "TOUNIQUENUMBER": "600008552",
+            "TO": "Jill Bennett-Balaka",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-312-7673"
+        },
+        {
+            "TOUNIQUENUMBER": "600008558",
+            "TO": "Fay Martin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-457-6912"
+        },
+        {
+            "TOUNIQUENUMBER": "600008551",
+            "TO": "Stephanie Gates",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-742-3418"
+        },
+        {
+            "TOUNIQUENUMBER": "600008557",
+            "TO": "Cindy Windover",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-875-7507"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33505",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Habitat For Humanity Peterborough & Kawartha Region",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "33 Leahy's Lane Habitat For Humanity Condos",
+            "Project Status": "Completed",
+            "Location": "PETERBOROUGH",
+            "Address": " 33 Leahy's Lane ",
+            "# of Units": 41,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-06-17"
+        },
+        {
+            "Condo Project Name": "21 Leahy's Lane",
+            "Project Status": "In Progress",
+            "Location": "PETERBOROUGH",
+            "Address": " 21 Leahy's Lane ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

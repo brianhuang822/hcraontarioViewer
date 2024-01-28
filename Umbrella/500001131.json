@@ -1,0 +1,106 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Brooklyn Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "3410 South Service Road",
+            "TELEPHONE": "289-812-7234",
+            "FAX": "289-812-7232",
+            "WEBSITEURL": "https://www.brooklynconstruction.ca",
+            "EMAIL": "marcie@brooklyncontract.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Park and McClung Limited",
+            "MEMBEROPERATINGNAME": "Park and McClung Limited",
+            "MEMBERVBNUM": "B61002",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "The Ambrose Condos Inc.",
+            "MEMBEROPERATINGNAME": "The Ambrose Condos Inc.",
+            "MEMBERVBNUM": "B60261",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Woodland Country Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B61136",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "86 James St. Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B61280",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Thorburn-Crossing M.D. Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B61118",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Brooklyn Contracting Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48456",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "James St. M.D. Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B61123",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Brooklyn Construction Ltd.",
+            "MEMBEROPERATINGNAME": "Brooklyn Construction Ltd.",
+            "MEMBERVBNUM": "B60523",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "88 James",
+            "Account Number": "B61280",
+            "Project Status": "In Progress",
+            "Location": "ST. CATHARINES",
+            "Address": " 88 James Street ",
+            "# of Units": 276,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "The Ambrose Condos",
+            "Account Number": "B60261",
+            "Project Status": "In Progress",
+            "Location": "BRANTFORD",
+            "Address": " 575 Conklin Road ",
+            "# of Units": 198,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45505",
+            "Umbrella": "Cornerstone Homes",
+            "Umbrella ID": "12545015",
+            "VB_NAME": "Cornerstone Homes (Niagara) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Welland",
+            "HCRA_INITIALLICENSEDATE": "2016-08-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-11 21:42:33.000 +0000",
+            "Expiry Date": "2024-08-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "510 Doan's Ridge Road",
+            "TELEPHONE": "905-351-2624",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "bkanger@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 28,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 28,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12249775",
+            "TO": "Brandon Anger",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-351-2624"
+        },
+        {
+            "TOUNIQUENUMBER": "12249775",
+            "TO": "Brandon Anger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-351-2624"
+        },
+        {
+            "TOUNIQUENUMBER": "12249775",
+            "TO": "Brandon Anger",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-351-2624"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45505",
+            "Umbrella": "Cornerstone Homes",
+            "Umbrella ID": "12545015",
+            "VB_NAME": "Cornerstone Homes (Niagara) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45505",
+            "MEMBERNAME": "Cornerstone Homes (Niagara) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45505",
+            "Umbrella": "Cornerstone Homes",
+            "Umbrella ID": "12545015",
+            "VB_NAME": "Cornerstone Homes (Niagara) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38140",
+            "MEMBERNAME": "Brandon Anger",
+            "MEMBEROPERATINGNAME": "Cornerstone Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

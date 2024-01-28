@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1635",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Oxford Construction Ltd.",
+            "OPERATINGNAME": "Oxford Construction",
+            "CITY": "KEMPTVILLE",
+            "HCRA_INITIALLICENSEDATE": "1985-04-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-03-16 15:00:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 307",
+            "TELEPHONE": "(613)258-2046",
+            "FAX": "(613)258-0198",
+            "WEBSITEURL": null,
+            "EMAIL": "nik.wellstein@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336350",
+            "TO": "Nikolaus Wellstein",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613- 258-2046"
+        },
+        {
+            "TOUNIQUENUMBER": "336350",
+            "TO": "Nikolaus Wellstein",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613- 258-2046"
+        },
+        {
+            "TOUNIQUENUMBER": "336350",
+            "TO": "Nikolaus Wellstein",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613- 258-2046"
+        },
+        {
+            "TOUNIQUENUMBER": "336349",
+            "TO": "Carolyn Wellstein",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336349",
+            "TO": "Carolyn Wellstein",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336349",
+            "TO": "Carolyn Wellstein",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1635",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Oxford Construction Ltd.",
+            "OPERATINGNAME": "Oxford Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Lofts of Market Row",
+            "Project Status": "Completed",
+            "Location": "KEMPTVILLE",
+            "Address": " 125 Prescott St. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-06-12"
+        }
+    ],
+    "builderConditions": []
+}

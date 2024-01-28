@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32924",
+            "Umbrella": "Fieldtree Homes",
+            "Umbrella ID": "11886901",
+            "VB_NAME": "Fieldtree Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MERLIN",
+            "HCRA_INITIALLICENSEDATE": "2003-03-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-03-04 13:31:34.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9 Campbell St.",
+            "TELEPHONE": "(519) 689-4598",
+            "FAX": "(519) 689-7763",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11783477",
+            "TO": "Bernie (Bernard) Veldboom",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 689-4598"
+        },
+        {
+            "TOUNIQUENUMBER": "11783477",
+            "TO": "Bernie (Bernard) Veldboom",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 689-4598"
+        },
+        {
+            "TOUNIQUENUMBER": "11783477",
+            "TO": "Bernie (Bernard) Veldboom",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 689-4598"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32924",
+            "Umbrella": "Fieldtree Homes",
+            "Umbrella ID": "11886901",
+            "VB_NAME": "Fieldtree Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32374",
+            "MEMBERNAME": "Bernie Veldboom",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32924",
+            "Umbrella": "Fieldtree Homes",
+            "Umbrella ID": "11886901",
+            "VB_NAME": "Fieldtree Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32924",
+            "MEMBERNAME": "Fieldtree Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

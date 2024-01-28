@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60425",
+            "Umbrella": "VCL The Landing",
+            "Umbrella ID": "500000571",
+            "VB_NAME": "The Landing (Brantford) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Brantford",
+            "HCRA_INITIALLICENSEDATE": "2021-10-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-19 19:02:57.000 +0000",
+            "Expiry Date": "2024-10-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "340 Henry Street",
+            "TELEPHONE": "519-757-0310",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "mleschuk@lwadev.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 74,
+            "SUMM_TOTAL": 74,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "335456",
+            "TO": "Peter Vicano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-759-4120"
+        },
+        {
+            "TOUNIQUENUMBER": "335456",
+            "TO": "Peter Vicano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-759-4120"
+        },
+        {
+            "TOUNIQUENUMBER": "12187053",
+            "TO": "Paul Raffaele Vicano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-209-5529"
+        },
+        {
+            "TOUNIQUENUMBER": "600006924",
+            "TO": "Michael Leschuk",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-757-0310"
+        },
+        {
+            "TOUNIQUENUMBER": "600006924",
+            "TO": "Michael Leschuk",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-757-0310"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60425",
+            "Umbrella": "VCL The Landing",
+            "Umbrella ID": "500000571",
+            "VB_NAME": "The Landing (Brantford) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60425",
+            "MEMBERNAME": "The Landing (Brantford) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Landing Condominiums",
+            "Project Status": "In Progress",
+            "Location": "BRANTFORD",
+            "Address": " 34 Norman Street ",
+            "# of Units": 82,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

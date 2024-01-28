@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40440",
+            "Umbrella": "Ashbury Victoria Homes",
+            "Umbrella ID": "12539746",
+            "VB_NAME": "Northhaven Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "2010-05-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-05-26 12:00:27.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "171 Maplecrete Rd.",
+            "TELEPHONE": "905-695-0116",
+            "FAX": "905-660-7992",
+            "WEBSITEURL": " ",
+            "EMAIL": "lata@ashburyvictoria.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12406577",
+            "TO": "Sistino Naccarato",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-0890"
+        },
+        {
+            "TOUNIQUENUMBER": "12406577",
+            "TO": "Sistino Naccarato",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-0890"
+        },
+        {
+            "TOUNIQUENUMBER": "12406577",
+            "TO": "Sistino Naccarato",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-0890"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40440",
+            "Umbrella": "Ashbury Victoria Homes",
+            "Umbrella ID": "12539746",
+            "VB_NAME": "Northhaven Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42221",
+            "MEMBERNAME": "Ashbury Victoria Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40440",
+            "Umbrella": "Ashbury Victoria Homes",
+            "Umbrella ID": "12539746",
+            "VB_NAME": "Northhaven Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40440",
+            "MEMBERNAME": "Northhaven Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

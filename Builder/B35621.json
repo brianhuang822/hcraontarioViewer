@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35621",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "6176666 Canada Ltee.",
+            "OPERATINGNAME": "Ecocite On The Canal",
+            "CITY": "Montreal",
+            "HCRA_INITIALLICENSEDATE": "2005-10-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-08-18 01:39:20.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "c/o Christopher Sweetnam-Holmes",
+            "TELEPHONE": null,
+            "FAX": "514-523-0436",
+            "WEBSITEURL": "www.ecocite.ca",
+            "EMAIL": "cholmes@ecocite.ca",
+            "ACCOUNTNUMBER": "B35621",
+            "Total Outstanding Amount": 2670.3,
+            "TAB": 0,
+            "BREACH": 2670.3,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 1,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 4,
+            "SUMM_MINOR_AMT": 54217.5,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 54217.5
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12079052",
+            "TO": "Christopher Sweetnam-Holmes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-737-0076"
+        },
+        {
+            "TOUNIQUENUMBER": "12079052",
+            "TO": "Christopher Sweetnam-Holmes",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-737-0076"
+        },
+        {
+            "TOUNIQUENUMBER": "12079053",
+            "TO": "Cheryl Gladu",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-524-0191"
+        },
+        {
+            "TOUNIQUENUMBER": "12079053",
+            "TO": "Cheryl Gladu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-524-0191"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35621",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "6176666 Canada Ltee.",
+            "OPERATINGNAME": "Ecocite On The Canal",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "ECoCite on the Canal",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "1014 Bank St.",
+            "# of Units": 25,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-07-04"
+        }
+    ],
+    "builderConditions": []
+}

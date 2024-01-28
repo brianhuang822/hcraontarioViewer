@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48794",
+            "Umbrella": "Goldstar Homes",
+            "Umbrella ID": "500001890",
+            "VB_NAME": "CedarArch Construction Inc.",
+            "OPERATINGNAME": "CedarArch Construction",
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2021-01-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-05 18:41:57.000 +0000",
+            "Expiry Date": "2025-01-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "92 Stroud Crescent",
+            "TELEPHONE": "226-700-2692",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "hadi_moghrabi@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100595308",
+            "TO": "Hadi Elmoghrabi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-700-2692"
+        },
+        {
+            "TOUNIQUENUMBER": "100595308",
+            "TO": "Hadi Elmoghrabi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-700-2692"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48794",
+            "Umbrella": "Goldstar Homes",
+            "Umbrella ID": "500001890",
+            "VB_NAME": "CedarArch Construction Inc.",
+            "OPERATINGNAME": "CedarArch Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61537",
+            "MEMBERNAME": "Goldstar Homes Development Inc.",
+            "MEMBEROPERATINGNAME": "Goldstar Homes Development Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48794",
+            "Umbrella": "Goldstar Homes",
+            "Umbrella ID": "500001890",
+            "VB_NAME": "CedarArch Construction Inc.",
+            "OPERATINGNAME": "CedarArch Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48794",
+            "MEMBERNAME": "CedarArch Construction Inc.",
+            "MEMBEROPERATINGNAME": "CedarArch Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

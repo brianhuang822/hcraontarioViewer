@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37700",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Montebello I GP Inc.",
+            "OPERATINGNAME": "Montebello Homes",
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "2007-07-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-07-05 12:00:45.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "577 Edgeley Blvd., Unit  7",
+            "TELEPHONE": "905-738-1399",
+            "FAX": "905-738-6991",
+            "WEBSITEURL": "www.montebellohomes.ca",
+            "EMAIL": "rick@montebellohomes.ca",
+            "ACCOUNTNUMBER": "B37700",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 11,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 11,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 30258.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 30258.26
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12221579",
+            "TO": "Geraldine Elizabeth Miller",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-257-2134"
+        },
+        {
+            "TOUNIQUENUMBER": "12221579",
+            "TO": "Geraldine Elizabeth Miller",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-257-2134"
+        },
+        {
+            "TOUNIQUENUMBER": "12221579",
+            "TO": "Geraldine Elizabeth Miller",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-257-2134"
+        },
+        {
+            "TOUNIQUENUMBER": "12221576",
+            "TO": "Richard John Martellacci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-738-1399"
+        },
+        {
+            "TOUNIQUENUMBER": "12221576",
+            "TO": "Richard John Martellacci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-738-1399"
+        },
+        {
+            "TOUNIQUENUMBER": "12221576",
+            "TO": "Richard John Martellacci",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-738-1399"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37700",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Montebello I GP Inc.",
+            "OPERATINGNAME": "Montebello Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Georgian Gate",
+            "Project Status": null,
+            "Location": "BARRIE",
+            "Address": "175 Stanley St.",
+            "# of Units": 62,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

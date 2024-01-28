@@ -1,0 +1,100 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Valley Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 1,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "6 Horizon Court",
+            "TELEPHONE": null,
+            "FAX": "905-479-9151",
+            "WEBSITEURL": "www.valleyhomescanada.com",
+            "EMAIL": "iiqbal@valleyhomescanada.com",
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Cosmos Custom Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44250",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cosmos Custom Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46203",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Pivotal Fine Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Pivotal Fine Homes Ltd.",
+            "MEMBERVBNUM": "B60324",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Empiral Homes (Burlington) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46132",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Valley Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41708",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Pivotal Communities Inc.",
+            "MEMBEROPERATINGNAME": "Pivotal Communities Inc.",
+            "MEMBERVBNUM": "B60323",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Empiral Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46090",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 1,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 1,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": []
+}

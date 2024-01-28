@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40206",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kurt Kulakowsky & Marie Lafontaine",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2010-03-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-03-10 16:01:08.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "81 Fourth Ave.",
+            "TELEPHONE": "613-232-0934",
+            "FAX": "613-232-0417",
+            "WEBSITEURL": null,
+            "EMAIL": "kulakowsky@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12394952",
+            "TO": "Kurt Kulakowsky",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-762-5141"
+        },
+        {
+            "TOUNIQUENUMBER": "12394943",
+            "TO": "Marie Lafontaine",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-992-3164"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40206",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kurt Kulakowsky & Marie Lafontaine",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "81 Fourth Ave. Condominiums",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "81 Fourth Ave.",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-12-16"
+        }
+    ],
+    "builderConditions": []
+}

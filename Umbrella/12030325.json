@@ -1,0 +1,76 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Kevcor Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 224216.13,
+            "ADDRESS": "99 Wheeler Ave",
+            "TELEPHONE": "(519)872-5509",
+            "FAX": "(519)268-7450",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 224216.13,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 224216.13
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "1225777 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B39914",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1225777 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Kevcor Homes",
+            "MEMBERVBNUM": "B34905",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1225777 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Kevcor Homes",
+            "MEMBERVBNUM": "B26546",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 2,
+            "Dollers paid in Claims (Minor)": 224216.13,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 224216.13,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 224216.13,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 224216.13,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": []
+}

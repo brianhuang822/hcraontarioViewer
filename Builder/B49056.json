@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B49056",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ikore (Ellesmere) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2021-03-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-11 21:20:42.000 +0000",
+            "Expiry Date": "2024-03-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "101 Westcreek Drive",
+            "TELEPHONE": "416-617-1909",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "rob@ikore.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341166",
+            "TO": "Luigi Iacobelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-677-2553"
+        },
+        {
+            "TOUNIQUENUMBER": "341166",
+            "TO": "Luigi Iacobelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-677-2553"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B49056",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ikore (Ellesmere) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Elle Condominium",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 1350 Ellesmere Road ",
+            "# of Units": 250,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

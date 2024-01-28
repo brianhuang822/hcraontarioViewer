@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44985",
+            "Umbrella": "Norbrook Homes",
+            "Umbrella ID": "12543958",
+            "VB_NAME": "Norbrook Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Woodbridge",
+            "HCRA_INITIALLICENSEDATE": "2015-11-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-24 15:16:44.000 +0000",
+            "Expiry Date": "2024-11-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "63 Coles Avenue",
+            "TELEPHONE": "416-930-2264",
+            "FAX": "905-851-1198",
+            "WEBSITEURL": null,
+            "EMAIL": "nickbasciano@hotmail.com",
+            "ACCOUNTNUMBER": "B44985",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 16,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 16,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 50450,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 50450
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12326874",
+            "TO": "Nicola (Nick) Basciano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-7533"
+        },
+        {
+            "TOUNIQUENUMBER": "12326874",
+            "TO": "Nicola (Nick) Basciano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-7533"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44985",
+            "Umbrella": "Norbrook Homes",
+            "Umbrella ID": "12543958",
+            "VB_NAME": "Norbrook Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39326",
+            "MEMBERNAME": "Iconix Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44985",
+            "Umbrella": "Norbrook Homes",
+            "Umbrella ID": "12543958",
+            "VB_NAME": "Norbrook Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44985",
+            "MEMBERNAME": "Norbrook Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38655",
+            "Umbrella": "Neilas Group",
+            "Umbrella ID": "12300108",
+            "VB_NAME": "Neilas (1249 Queen E) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2008-06-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-06-25 12:00:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "200 Adelaide St., W., Ste. 401",
+            "TELEPHONE": "416-506-1435",
+            "FAX": "416-865-3399",
+            "WEBSITEURL": null,
+            "EMAIL": "john@neilas.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12215118",
+            "TO": "Dimitrios Neilas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-506-1435"
+        },
+        {
+            "TOUNIQUENUMBER": "12215118",
+            "TO": "Dimitrios Neilas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-506-1435"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38655",
+            "Umbrella": "Neilas Group",
+            "Umbrella ID": "12300108",
+            "VB_NAME": "Neilas (1249 Queen E) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37557",
+            "MEMBERNAME": "799 College Street Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38655",
+            "Umbrella": "Neilas Group",
+            "Umbrella ID": "12300108",
+            "VB_NAME": "Neilas (1249 Queen E) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38655",
+            "MEMBERNAME": "Neilas (1249 Queen E) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38655",
+            "Umbrella": "Neilas Group",
+            "Umbrella ID": "12300108",
+            "VB_NAME": "Neilas (1249 Queen E) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41019",
+            "MEMBERNAME": "54 Shepherd Road Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42915",
+            "Umbrella": "Casa Moderna Construction",
+            "Umbrella ID": "12500593",
+            "VB_NAME": "Casa Moderna Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Vanier",
+            "HCRA_INITIALLICENSEDATE": "2013-06-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-06-15 16:31:16.000 +0000",
+            "Expiry Date": "2023-06-15",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "165 Longpre Street",
+            "TELEPHONE": "613-720-2939",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "gfarahpl@yahoo.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12350374",
+            "TO": "George Farah",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-2939"
+        },
+        {
+            "TOUNIQUENUMBER": "12350374",
+            "TO": "George Farah",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-2939"
+        },
+        {
+            "TOUNIQUENUMBER": "12350374",
+            "TO": "George Farah",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-2939"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42915",
+            "Umbrella": "Casa Moderna Construction",
+            "Umbrella ID": "12500593",
+            "VB_NAME": "Casa Moderna Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41478",
+            "MEMBERNAME": "George Farah",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42915",
+            "Umbrella": "Casa Moderna Construction",
+            "Umbrella ID": "12500593",
+            "VB_NAME": "Casa Moderna Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42915",
+            "MEMBERNAME": "Casa Moderna Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42915",
+            "Umbrella": "Casa Moderna Construction",
+            "Umbrella ID": "12500593",
+            "VB_NAME": "Casa Moderna Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39559",
+            "MEMBERNAME": "George Farah and Claudia Issid",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

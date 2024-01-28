@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41865",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2217439 Ontario Inc.",
+            "OPERATINGNAME": "Grand Palace",
+            "CITY": "THORNHILL",
+            "HCRA_INITIALLICENSEDATE": "2012-04-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:18:16.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "50 Minthorn Blvd., Ste. 201",
+            "TELEPHONE": "905/597-0200",
+            "FAX": "905/597-9362",
+            "WEBSITEURL": " ",
+            "EMAIL": "corrado@guizzetti.com",
+            "ACCOUNTNUMBER": "B41865",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 517,
+            "SUMM_TOTAL": 517,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 30400,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 30400
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12522901",
+            "TO": "Albert Gasparro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "12522901",
+            "TO": "Albert Gasparro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "12479660",
+            "TO": "Stefano Guizzetti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "12479660",
+            "TO": "Stefano Guizzetti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41865",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2217439 Ontario Inc.",
+            "OPERATINGNAME": "Grand Palace",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Grand Palace",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": " 9618 Yonge St. ",
+            "# of Units": 188,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-08-02"
+        },
+        {
+            "Condo Project Name": "Grand Palace",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "9612 Yonge St.",
+            "# of Units": 331,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-10-28"
+        }
+    ],
+    "builderConditions": []
+}

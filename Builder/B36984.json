@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36984",
+            "Umbrella": "Timmerman Timberworks",
+            "Umbrella ID": "12540924",
+            "VB_NAME": "Timmerman Timberworks Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MANSFIELD",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2007-01-26 20:53:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "12 Mountain View Rd., R.R. #1",
+            "TELEPHONE": "705-721-8916",
+            "FAX": "705-721-8254",
+            "WEBSITEURL": null,
+            "EMAIL": "mike@timmerman.on.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11986230",
+            "TO": "Michael Krans",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-721-8916"
+        },
+        {
+            "TOUNIQUENUMBER": "11986230",
+            "TO": "Michael Krans",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-721-8916"
+        },
+        {
+            "TOUNIQUENUMBER": "11986230",
+            "TO": "Michael Krans",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-721-8916"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36984",
+            "Umbrella": "Timmerman Timberworks",
+            "Umbrella ID": "12540924",
+            "VB_NAME": "Timmerman Timberworks Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B38030",
+            "MEMBERNAME": "Timmerman Timberworks Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36984",
+            "Umbrella": "Timmerman Timberworks",
+            "Umbrella ID": "12540924",
+            "VB_NAME": "Timmerman Timberworks Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B36984",
+            "MEMBERNAME": "Timmerman Timberworks Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B36984",
+            "Umbrella": "Timmerman Timberworks",
+            "Umbrella ID": "12540924",
+            "VB_NAME": "Timmerman Timberworks Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B34182",
+            "MEMBERNAME": "Timmerman Timberworks Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,137 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40321",
+            "Umbrella": "Gallivan",
+            "Umbrella ID": "12406120",
+            "VB_NAME": "Gallivan Developments Inc.",
+            "OPERATINGNAME": "Gallivan Developments Inc.",
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2010-03-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-24 15:01:56.000 +0000",
+            "Expiry Date": "2025-03-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "35 Auriga Drive",
+            "TELEPHONE": "613-727-0222",
+            "FAX": "1-888-981-1768",
+            "WEBSITEURL": "www.gallivandevelopments.com",
+            "EMAIL": "accounting@gallivandevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339673",
+            "TO": "Thomas Paul Gallivan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-727-0222"
+        },
+        {
+            "TOUNIQUENUMBER": "339673",
+            "TO": "Thomas Paul Gallivan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-727-0222"
+        },
+        {
+            "TOUNIQUENUMBER": "339673",
+            "TO": "Thomas Paul Gallivan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-727-0222"
+        },
+        {
+            "TOUNIQUENUMBER": "100290061",
+            "TO": "Huabing Liang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-727-0222"
+        },
+        {
+            "TOUNIQUENUMBER": "100290061",
+            "TO": "Huabing Liang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-727-0222"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40321",
+            "Umbrella": "Gallivan",
+            "Umbrella ID": "12406120",
+            "VB_NAME": "Gallivan Developments Inc.",
+            "OPERATINGNAME": "Gallivan Developments Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40321",
+            "MEMBERNAME": "Gallivan Developments Inc.",
+            "MEMBEROPERATINGNAME": "Gallivan Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40321",
+            "Umbrella": "Gallivan",
+            "Umbrella ID": "12406120",
+            "VB_NAME": "Gallivan Developments Inc.",
+            "OPERATINGNAME": "Gallivan Developments Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35297",
+            "MEMBERNAME": "Gallivan Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40321",
+            "Umbrella": "Gallivan",
+            "Umbrella ID": "12406120",
+            "VB_NAME": "Gallivan Developments Inc.",
+            "OPERATINGNAME": "Gallivan Developments Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B21967",
+            "MEMBERNAME": "Gallivan Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40321",
+            "Umbrella": "Gallivan",
+            "Umbrella ID": "12406120",
+            "VB_NAME": "Gallivan Developments Inc.",
+            "OPERATINGNAME": "Gallivan Developments Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27942",
+            "MEMBERNAME": "Gallivan Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40321",
+            "Umbrella": "Gallivan",
+            "Umbrella ID": "12406120",
+            "VB_NAME": "Gallivan Developments Inc.",
+            "OPERATINGNAME": "Gallivan Developments Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40475",
+            "MEMBERNAME": "2235330 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

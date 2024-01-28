@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34788",
+            "Umbrella": "Royden Homes",
+            "Umbrella ID": "12200430",
+            "VB_NAME": "John Robert Royle",
+            "OPERATINGNAME": null,
+            "CITY": "KINGSTON",
+            "HCRA_INITIALLICENSEDATE": "2004-08-25",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2020-10-10 01:54:28.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "427 Princess St., Unit 180",
+            "TELEPHONE": "613/888-2510",
+            "FAX": "613/766-8540",
+            "WEBSITEURL": "southeastern-cm.com",
+            "EMAIL": "tom@southeastern-cm.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329220",
+            "TO": "John Robert Royle",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-966-8350"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34788",
+            "Umbrella": "Royden Homes",
+            "Umbrella ID": "12200430",
+            "VB_NAME": "John Robert Royle",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B37069",
+            "MEMBERNAME": "Michael Dennis O'Connor & John Robert Royle",
+            "MEMBEROPERATINGNAME": "Royden Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34788",
+            "Umbrella": "Royden Homes",
+            "Umbrella ID": "12200430",
+            "VB_NAME": "John Robert Royle",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B34788",
+            "MEMBERNAME": "John Robert Royle",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

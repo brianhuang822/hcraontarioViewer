@@ -1,0 +1,146 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41402",
+            "Umbrella": "Mizrahi Design Build",
+            "Umbrella ID": "12487135",
+            "VB_NAME": "133 Hazelton Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2011-09-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-09-07 12:01:18.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "125 Hazelton Ave.",
+            "TELEPHONE": "416-487-9863",
+            "FAX": "416-864-1201",
+            "WEBSITEURL": "www.133hazelton.com",
+            "EMAIL": "sam@mizrahicorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 35,
+            "SUMM_TOTAL": 35,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12215527",
+            "TO": "Sam Mizrahi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-818-5288"
+        },
+        {
+            "TOUNIQUENUMBER": "12215527",
+            "TO": "Sam Mizrahi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-818-5288"
+        },
+        {
+            "TOUNIQUENUMBER": "12215527",
+            "TO": "Sam Mizrahi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-818-5288"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41402",
+            "Umbrella": "Mizrahi Design Build",
+            "Umbrella ID": "12487135",
+            "VB_NAME": "133 Hazelton Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41402",
+            "MEMBERNAME": "133 Hazelton Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41402",
+            "Umbrella": "Mizrahi Design Build",
+            "Umbrella ID": "12487135",
+            "VB_NAME": "133 Hazelton Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45585",
+            "MEMBERNAME": "Mizrahi Development Group (The One) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41402",
+            "Umbrella": "Mizrahi Design Build",
+            "Umbrella ID": "12487135",
+            "VB_NAME": "133 Hazelton Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44647",
+            "MEMBERNAME": "Mizrahi (128 Hazelton) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41402",
+            "Umbrella": "Mizrahi Design Build",
+            "Umbrella ID": "12487135",
+            "VB_NAME": "133 Hazelton Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45584",
+            "MEMBERNAME": "Mizrahi Development Group (1451 Wellington) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41402",
+            "Umbrella": "Mizrahi Design Build",
+            "Umbrella ID": "12487135",
+            "VB_NAME": "133 Hazelton Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37568",
+            "MEMBERNAME": "Mizrahi Inc.",
+            "MEMBEROPERATINGNAME": "Mizrahi Design/Build",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41402",
+            "Umbrella": "Mizrahi Design Build",
+            "Umbrella ID": "12487135",
+            "VB_NAME": "133 Hazelton Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42130",
+            "MEMBERNAME": "One8One Davenport Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "133 Hazelton Residences",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 133 Hazelton Ave. ",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-03-11"
+        }
+    ],
+    "builderConditions": []
+}

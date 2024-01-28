@@ -1,0 +1,157 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61585",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "Originate (Bathurst & Richmond) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-09-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-28 14:59:19.000 +0000",
+            "Expiry Date": "2024-09-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2 St. Clair Avenue East",
+            "TELEPHONE": "416-849-2894",
+            "FAX": null,
+            "WEBSITEURL": "https://originate.build",
+            "EMAIL": "info@originate.build",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12521215",
+            "TO": "Andrew Lepper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-648-8089"
+        },
+        {
+            "TOUNIQUENUMBER": "12521215",
+            "TO": "Andrew Lepper",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-648-8089"
+        },
+        {
+            "TOUNIQUENUMBER": "100299644",
+            "TO": "Jeffrey Kimel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-996-0836"
+        },
+        {
+            "TOUNIQUENUMBER": "100299644",
+            "TO": "Jeffrey Kimel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-996-0836"
+        },
+        {
+            "TOUNIQUENUMBER": "12502231",
+            "TO": "Darryl Firsten",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-880-7310"
+        },
+        {
+            "TOUNIQUENUMBER": "12502231",
+            "TO": "Darryl Firsten",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-880-7310"
+        },
+        {
+            "TOUNIQUENUMBER": "100492793",
+            "TO": "Adam Sheffer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-222-3116"
+        },
+        {
+            "TOUNIQUENUMBER": "100492793",
+            "TO": "Adam Sheffer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-222-3116"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61585",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "Originate (Bathurst & Richmond) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62620",
+            "MEMBERNAME": "Yonge and Rosehill Inc.",
+            "MEMBEROPERATINGNAME": "Yonge and Rosehill Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61585",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "Originate (Bathurst & Richmond) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46878",
+            "MEMBERNAME": "Originate Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61585",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "Originate (Bathurst & Richmond) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61585",
+            "MEMBERNAME": "Originate (Bathurst & Richmond) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61585",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "Originate (Bathurst & Richmond) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60628",
+            "MEMBERNAME": "699 Sheppard East Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Reside Condos",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 627 Richmond St West ",
+            "# of Units": 216,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

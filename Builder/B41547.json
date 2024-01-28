@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41547",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Aspen Ridge Homes (Richmond II) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "2011-09-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-04-02 04:15:24.000 +0000",
+            "Expiry Date": "2021-04-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "29 Floral Pkwy.",
+            "TELEPHONE": "905/669-9292",
+            "FAX": "905/669-9297",
+            "WEBSITEURL": "www.aspenridgehomes.com",
+            "EMAIL": "info@aspenridgehomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 411,
+            "SUMM_TOTAL": 411,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12432439",
+            "TO": "Andrew Phillips",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-982-3189"
+        },
+        {
+            "TOUNIQUENUMBER": "100467487",
+            "TO": "Freddy De Gasperis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-9292"
+        },
+        {
+            "TOUNIQUENUMBER": "100467487",
+            "TO": "Freddy De Gasperis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-9292"
+        },
+        {
+            "TOUNIQUENUMBER": "302632",
+            "TO": "Andrew De Gasperis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-9292"
+        },
+        {
+            "TOUNIQUENUMBER": "302632",
+            "TO": "Andrew De Gasperis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-9292"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41547",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Aspen Ridge Homes (Richmond II) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Studio 2",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "30 Nelson St.",
+            "# of Units": 411,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-02-08"
+        }
+    ],
+    "builderConditions": []
+}

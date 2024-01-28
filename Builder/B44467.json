@@ -1,0 +1,112 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44467",
+            "Umbrella": "S & A Developments",
+            "Umbrella ID": "12542831",
+            "VB_NAME": "Phantom Developments Teagarden Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2015-04-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-31 17:45:17.000 +0000",
+            "Expiry Date": "2024-05-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "207 Weston Road",
+            "TELEPHONE": "416-762-4314",
+            "FAX": "416-762-1736",
+            "WEBSITEURL": " ",
+            "EMAIL": "maria@sa-dev.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332618",
+            "TO": "Jay Strasser",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-4314"
+        },
+        {
+            "TOUNIQUENUMBER": "12429962",
+            "TO": "Henry Strasser",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-7177"
+        },
+        {
+            "TOUNIQUENUMBER": "332614",
+            "TO": "Alexander Strasser",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-4314"
+        },
+        {
+            "TOUNIQUENUMBER": "332614",
+            "TO": "Alexander Strasser",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-4314"
+        },
+        {
+            "TOUNIQUENUMBER": "100299370",
+            "TO": "Ronald Strasser",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-4314"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44467",
+            "Umbrella": "S & A Developments",
+            "Umbrella ID": "12542831",
+            "VB_NAME": "Phantom Developments Teagarden Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40724",
+            "MEMBERNAME": "Phantom Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44467",
+            "Umbrella": "S & A Developments",
+            "Umbrella ID": "12542831",
+            "VB_NAME": "Phantom Developments Teagarden Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44467",
+            "MEMBERNAME": "Phantom Developments Teagarden Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Teagarden Condominiums",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 2 Teagarden Crt. ",
+            "# of Units": 128,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

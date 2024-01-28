@@ -1,0 +1,151 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37611",
+            "Umbrella": "Greg Brown Construction",
+            "Umbrella ID": "12544918",
+            "VB_NAME": "1429665 Ontario Ltd.",
+            "OPERATINGNAME": "Greg Brown Construction",
+            "CITY": "HALIBURTON",
+            "HCRA_INITIALLICENSEDATE": "2008-01-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-01-04 16:00:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1030 Amaleen Dr.",
+            "TELEPHONE": "705-457-3470",
+            "FAX": "705-457-3900",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338811",
+            "TO": "Gregory Brown",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-457-3470"
+        },
+        {
+            "TOUNIQUENUMBER": "338811",
+            "TO": "Gregory Brown",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-457-3470"
+        },
+        {
+            "TOUNIQUENUMBER": "338811",
+            "TO": "Gregory Brown",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-457-3470"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108625",
+            "CHARGE_AGAINST": "1429665 Ontario Ltd.",
+            "CHARGE_DATE": "2016-01-12",
+            "DISPOSITION_DATE": "2016-09-15",
+            "THE_FINE_": "2500",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "625",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326556",
+            "ORGANIZATION_NAME": "1429665 Ontario Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Minden, ON",
+            "CITY_DEFENCE": "Haliburton, ON",
+            "VB_NUMBER": "B37611",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108625 9326556",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Minden Hills, Township",
+            "INFORMATION_NUMBER": "999-16-010135",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "FROM_OFFENCE_DATE": "2014-09-07",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "3125",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B37611",
+            "Umbrella": "Greg Brown Construction",
+            "Umbrella ID": "12544918",
+            "VB_NAME": "1429665 Ontario Ltd.",
+            "OPERATINGNAME": "Greg Brown Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37611",
+            "MEMBERNAME": "1429665 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Greg Brown Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37611",
+            "Umbrella": "Greg Brown Construction",
+            "Umbrella ID": "12544918",
+            "VB_NAME": "1429665 Ontario Ltd.",
+            "OPERATINGNAME": "Greg Brown Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40812",
+            "MEMBERNAME": "1429665 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B37611",
+            "Umbrella": "Greg Brown Construction",
+            "Umbrella ID": "12544918",
+            "VB_NAME": "1429665 Ontario Ltd.",
+            "OPERATINGNAME": "Greg Brown Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B21579",
+            "MEMBERNAME": "713783 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Greg Brown Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37611",
+            "Umbrella": "Greg Brown Construction",
+            "Umbrella ID": "12544918",
+            "VB_NAME": "1429665 Ontario Ltd.",
+            "OPERATINGNAME": "Greg Brown Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45225",
+            "MEMBERNAME": "1429665 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Greg Brown Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

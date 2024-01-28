@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B18325",
+            "Umbrella": "Langendoen Homes",
+            "Umbrella ID": "11375",
+            "VB_NAME": "Langendoen Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Jordan",
+            "HCRA_INITIALLICENSEDATE": "1989-09-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-09-26 05:00:21.000 +0000",
+            "Expiry Date": "2023-09-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 8",
+            "TELEPHONE": "905-687-0501",
+            "FAX": "905-562-3465",
+            "WEBSITEURL": "www.langendoenhomes.ca",
+            "EMAIL": "andrelangendoen@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 13,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 13,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "318838",
+            "TO": "Andre Langendoen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-687-0501"
+        },
+        {
+            "TOUNIQUENUMBER": "318838",
+            "TO": "Andre Langendoen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-687-0501"
+        },
+        {
+            "TOUNIQUENUMBER": "318838",
+            "TO": "Andre Langendoen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-687-0501"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B18325",
+            "Umbrella": "Langendoen Homes",
+            "Umbrella ID": "11375",
+            "VB_NAME": "Langendoen Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28020",
+            "MEMBERNAME": "Langendoen Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B18325",
+            "Umbrella": "Langendoen Homes",
+            "Umbrella ID": "11375",
+            "VB_NAME": "Langendoen Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B18325",
+            "MEMBERNAME": "Langendoen Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B18325",
+            "Umbrella": "Langendoen Homes",
+            "Umbrella ID": "11375",
+            "VB_NAME": "Langendoen Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38781",
+            "MEMBERNAME": "1760018 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Meadowcreek Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

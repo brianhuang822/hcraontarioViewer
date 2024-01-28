@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28607",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Dan Valentini Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Stoney Creek",
+            "HCRA_INITIALLICENSEDATE": "2000-02-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-09 13:41:54.000 +0000",
+            "Expiry Date": "2025-02-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "48 Dolman Street",
+            "TELEPHONE": "905-541-2505",
+            "FAX": "905-573-7534",
+            "WEBSITEURL": "www.rockviewheights.com",
+            "EMAIL": "adjvalentini@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "334681",
+            "TO": "Daniel (Dan) Valentini",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-541-2505"
+        },
+        {
+            "TOUNIQUENUMBER": "334681",
+            "TO": "Daniel (Dan) Valentini",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-541-2505"
+        },
+        {
+            "TOUNIQUENUMBER": "334681",
+            "TO": "Daniel (Dan) Valentini",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-541-2505"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28607",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Dan Valentini Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "ROCKVIEW HEIGHTS",
+            "Project Status": null,
+            "Location": "HAMILTON",
+            "Address": "1328 Upper Sherman Ave.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "JULIANA COURT",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": "1385 Upper Wentworth St.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-02-19"
+        }
+    ],
+    "builderConditions": []
+}

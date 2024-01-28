@@ -1,0 +1,160 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61061",
+            "Umbrella": "Highmark Homes",
+            "Umbrella ID": "12366051",
+            "VB_NAME": "Highmark (Pickering) Inc.",
+            "OPERATINGNAME": "Highmark (Pickering) Inc.",
+            "CITY": "Concord",
+            "HCRA_INITIALLICENSEDATE": "2022-04-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-11 18:14:50.000 +0000",
+            "Expiry Date": "2024-04-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9000 Keele Street",
+            "TELEPHONE": "905-760-2631",
+            "FAX": "905-760-1301",
+            "WEBSITEURL": "http://www.highmarkhomes.ca",
+            "EMAIL": "joseph@highmarkhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344161",
+            "TO": "Filippo Lucchese",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-760-2631"
+        },
+        {
+            "TOUNIQUENUMBER": "344161",
+            "TO": "Filippo Lucchese",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-760-2631"
+        },
+        {
+            "TOUNIQUENUMBER": "12253725",
+            "TO": "Robert Bucci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-3020"
+        },
+        {
+            "TOUNIQUENUMBER": "12110768",
+            "TO": "Giuseppe (Joseph) Messina",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-760-2631"
+        },
+        {
+            "TOUNIQUENUMBER": "12110768",
+            "TO": "Giuseppe (Joseph) Messina",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-760-2631"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61061",
+            "Umbrella": "Highmark Homes",
+            "Umbrella ID": "12366051",
+            "VB_NAME": "Highmark (Pickering) Inc.",
+            "OPERATINGNAME": "Highmark (Pickering) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40036",
+            "MEMBERNAME": "Highmark (Orchards) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61061",
+            "Umbrella": "Highmark Homes",
+            "Umbrella ID": "12366051",
+            "VB_NAME": "Highmark (Pickering) Inc.",
+            "OPERATINGNAME": "Highmark (Pickering) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36096",
+            "MEMBERNAME": "2080650 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Highmark Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61061",
+            "Umbrella": "Highmark Homes",
+            "Umbrella ID": "12366051",
+            "VB_NAME": "Highmark (Pickering) Inc.",
+            "OPERATINGNAME": "Highmark (Pickering) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35896",
+            "MEMBERNAME": "2075568 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Highmark Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61061",
+            "Umbrella": "Highmark Homes",
+            "Umbrella ID": "12366051",
+            "VB_NAME": "Highmark (Pickering) Inc.",
+            "OPERATINGNAME": "Highmark (Pickering) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38229",
+            "MEMBERNAME": "The Highmark Group Incorporated",
+            "MEMBEROPERATINGNAME": "Highmark Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61061",
+            "Umbrella": "Highmark Homes",
+            "Umbrella ID": "12366051",
+            "VB_NAME": "Highmark (Pickering) Inc.",
+            "OPERATINGNAME": "Highmark (Pickering) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61061",
+            "MEMBERNAME": "Highmark (Pickering) Inc.",
+            "MEMBEROPERATINGNAME": "Highmark (Pickering) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61061",
+            "Umbrella": "Highmark Homes",
+            "Umbrella ID": "12366051",
+            "VB_NAME": "Highmark (Pickering) Inc.",
+            "OPERATINGNAME": "Highmark (Pickering) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42848",
+            "MEMBERNAME": "Whitby (Brock and Rossland) Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Highmark",
+            "Project Status": "In Progress",
+            "Location": "PICKERING",
+            "Address": " 1640 Kingston Road ",
+            "# of Units": 346,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

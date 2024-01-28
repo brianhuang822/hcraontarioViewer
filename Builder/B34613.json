@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34613",
+            "Umbrella": "El-Pine Homes",
+            "Umbrella ID": "12540439",
+            "VB_NAME": "Les Terrasses Amelie Inc.",
+            "OPERATINGNAME": "Les Terrasses Amelie",
+            "CITY": "KANATA",
+            "HCRA_INITIALLICENSEDATE": "2004-07-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-07-10 15:01:32.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "300 March Rd., Ste. 300",
+            "TELEPHONE": "613-591-9090",
+            "FAX": "613-591-9095",
+            "WEBSITEURL": "groupelepine-ottawa.com",
+            "EMAIL": "sales@groupelepine-ottawa.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343921",
+            "TO": "Francis Lepine",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-591-9090"
+        },
+        {
+            "TOUNIQUENUMBER": "343921",
+            "TO": "Francis Lepine",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-591-9090"
+        },
+        {
+            "TOUNIQUENUMBER": "343921",
+            "TO": "Francis Lepine",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-591-9090"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34613",
+            "Umbrella": "El-Pine Homes",
+            "Umbrella ID": "12540439",
+            "VB_NAME": "Les Terrasses Amelie Inc.",
+            "OPERATINGNAME": "Les Terrasses Amelie",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27435",
+            "MEMBERNAME": "El-Pine Homes Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34613",
+            "Umbrella": "El-Pine Homes",
+            "Umbrella ID": "12540439",
+            "VB_NAME": "Les Terrasses Amelie Inc.",
+            "OPERATINGNAME": "Les Terrasses Amelie",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34392",
+            "MEMBERNAME": "Les Terrasses Amelie Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B34613",
+            "Umbrella": "El-Pine Homes",
+            "Umbrella ID": "12540439",
+            "VB_NAME": "Les Terrasses Amelie Inc.",
+            "OPERATINGNAME": "Les Terrasses Amelie",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34613",
+            "MEMBERNAME": "Les Terrasses Amelie Inc.",
+            "MEMBEROPERATINGNAME": "Les Terrasses Amelie",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "LES TERRASES AMELLE",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "369 North River Rd.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-08-31"
+        }
+    ],
+    "builderConditions": []
+}

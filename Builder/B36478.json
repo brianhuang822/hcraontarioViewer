@@ -1,0 +1,133 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36478",
+            "Umbrella": "Hyde Park in Leaside",
+            "Umbrella ID": "12142518",
+            "VB_NAME": "Aerodrome Holdings Inc.",
+            "OPERATINGNAME": "Hyde Park Lofts and Flats",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2006-03-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-03-11 15:00:51.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3655 Keele St.",
+            "TELEPHONE": "416-638-6300",
+            "FAX": "416-630-0569",
+            "WEBSITEURL": null,
+            "EMAIL": "ant.ben@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12021358",
+            "TO": "Antoinette Benedetto",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-919-8530"
+        },
+        {
+            "TOUNIQUENUMBER": "12021358",
+            "TO": "Antoinette Benedetto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-919-8530"
+        },
+        {
+            "TOUNIQUENUMBER": "12021358",
+            "TO": "Antoinette Benedetto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-919-8530"
+        },
+        {
+            "TOUNIQUENUMBER": "12021402",
+            "TO": "Paul Zentil",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-6300"
+        },
+        {
+            "TOUNIQUENUMBER": "12021401",
+            "TO": "Andrew Benedetto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-595-9542"
+        },
+        {
+            "TOUNIQUENUMBER": "337676",
+            "TO": "Joe Zentil",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-6300"
+        },
+        {
+            "TOUNIQUENUMBER": "12021400",
+            "TO": "Garry Zentil",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-6300"
+        },
+        {
+            "TOUNIQUENUMBER": "12021400",
+            "TO": "Garry Zentil",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-6300"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36478",
+            "Umbrella": "Hyde Park in Leaside",
+            "Umbrella ID": "12142518",
+            "VB_NAME": "Aerodrome Holdings Inc.",
+            "OPERATINGNAME": "Hyde Park Lofts and Flats",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34789",
+            "MEMBERNAME": "Leaside Eglinton Holdings Inc.",
+            "MEMBEROPERATINGNAME": "Hydepark in Leaside",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36478",
+            "Umbrella": "Hyde Park in Leaside",
+            "Umbrella ID": "12142518",
+            "VB_NAME": "Aerodrome Holdings Inc.",
+            "OPERATINGNAME": "Hyde Park Lofts and Flats",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36478",
+            "MEMBERNAME": "Aerodrome Holdings Inc.",
+            "MEMBEROPERATINGNAME": "Hyde Park Lofts and Flats",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HYDE PARK LOFTS AND FLATS",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 120-132 Aerodrome Cres. ",
+            "# of Units": 45,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-12-13"
+        }
+    ],
+    "builderConditions": []
+}

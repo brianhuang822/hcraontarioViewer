@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36700",
+            "Umbrella": "Stinson Builders",
+            "Umbrella ID": "12156984",
+            "VB_NAME": "Stinson Builders Ltd.",
+            "OPERATINGNAME": "Stinson Builders Ltd.",
+            "CITY": "Belleville",
+            "HCRA_INITIALLICENSEDATE": "2006-05-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-20 17:19:03.000 +0000",
+            "Expiry Date": "2024-05-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "360 County Road 3",
+            "TELEPHONE": "613-962-6626",
+            "FAX": "613-962-0902",
+            "WEBSITEURL": "www.stinsonbuilders.com",
+            "EMAIL": "brad@stinsonbuilders.com",
+            "ACCOUNTNUMBER": "B36700",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 54,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 54,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100581327",
+            "TO": "Christina Tomin Stinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-849-3367"
+        },
+        {
+            "TOUNIQUENUMBER": "332495",
+            "TO": "Barbara Stinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12005049",
+            "TO": "Bradley P. Stinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-962-6626"
+        },
+        {
+            "TOUNIQUENUMBER": "12005049",
+            "TO": "Bradley P. Stinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-962-6626"
+        },
+        {
+            "TOUNIQUENUMBER": "12005049",
+            "TO": "Bradley P. Stinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-962-6626"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36700",
+            "Umbrella": "Stinson Builders",
+            "Umbrella ID": "12156984",
+            "VB_NAME": "Stinson Builders Ltd.",
+            "OPERATINGNAME": "Stinson Builders Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B3253",
+            "MEMBERNAME": "Paul A. Stinson Builder Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36700",
+            "Umbrella": "Stinson Builders",
+            "Umbrella ID": "12156984",
+            "VB_NAME": "Stinson Builders Ltd.",
+            "OPERATINGNAME": "Stinson Builders Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36700",
+            "MEMBERNAME": "Stinson Builders Ltd.",
+            "MEMBEROPERATINGNAME": "Stinson Builders Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

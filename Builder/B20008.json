@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B20008",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "R. B. Investments Limited",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1990-09-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1993-09-08 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "77 Carlton St., Ste. 1002",
+            "TELEPHONE": "(416)971-6828",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304267",
+            "TO": "Charles Rupert Bronsdon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-8700"
+        },
+        {
+            "TOUNIQUENUMBER": "304267",
+            "TO": "Charles Rupert Bronsdon",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-8700"
+        },
+        {
+            "TOUNIQUENUMBER": "304267",
+            "TO": "Charles Rupert Bronsdon",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-8700"
+        },
+        {
+            "TOUNIQUENUMBER": "327625",
+            "TO": "A.M. Ramsay",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B20008",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "R. B. Investments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "R.R.# 3 Box 3421",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-10-28"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "R.R.#3, Box 3421",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-05-31"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "R.R.#3, Box 3421",
+            "# of Units": 49,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-05-10"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "R.R.#3,box 3421",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-03-19"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "R.R.#3, Box 3421",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-02-08"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "R.R.#3, Box 3421",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-11-06"
+        }
+    ],
+    "builderConditions": []
+}

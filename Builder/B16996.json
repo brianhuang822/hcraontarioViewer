@@ -1,0 +1,151 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B16996",
+            "Umbrella": "Caraco Development",
+            "Umbrella ID": "1465",
+            "VB_NAME": "Cataraqui Valley Condos Inc",
+            "OPERATINGNAME": null,
+            "CITY": "KINGSTON",
+            "HCRA_INITIALLICENSEDATE": "1989-04-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1991-06-17 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "234 Concession St., Ste. 202",
+            "TELEPHONE": "(613)546-6277",
+            "FAX": null,
+            "WEBSITEURL": "www.leeuwarden2000.com",
+            "EMAIL": "411forus@home.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "303366",
+            "TO": "Charles J.M. Blommestyn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "303370",
+            "TO": "Robert Blommestyn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-542-8400"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B16996",
+            "Umbrella": "Caraco Development",
+            "Umbrella ID": "1465",
+            "VB_NAME": "Cataraqui Valley Condos Inc",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B16996",
+            "MEMBERNAME": "Cataraqui Valley Condos Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16996",
+            "Umbrella": "Caraco Development",
+            "Umbrella ID": "1465",
+            "VB_NAME": "Cataraqui Valley Condos Inc",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B19543",
+            "MEMBERNAME": "792132 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Sutton Mill Developments",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16996",
+            "Umbrella": "Caraco Development",
+            "Umbrella ID": "1465",
+            "VB_NAME": "Cataraqui Valley Condos Inc",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B3423",
+            "MEMBERNAME": "Westgate Homes Corporation Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16996",
+            "Umbrella": "Caraco Development",
+            "Umbrella ID": "1465",
+            "VB_NAME": "Cataraqui Valley Condos Inc",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22366",
+            "MEMBERNAME": "Caraco Development Corporation",
+            "MEMBEROPERATINGNAME": "CaraCo Development Corporation",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B16996",
+            "Umbrella": "Caraco Development",
+            "Umbrella ID": "1465",
+            "VB_NAME": "Cataraqui Valley Condos Inc",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B3325",
+            "MEMBERNAME": "C.J.M. Blommestyn Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16996",
+            "Umbrella": "Caraco Development",
+            "Umbrella ID": "1465",
+            "VB_NAME": "Cataraqui Valley Condos Inc",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28672",
+            "MEMBERNAME": "Anglin Bay Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16996",
+            "Umbrella": "Caraco Development",
+            "Umbrella ID": "1465",
+            "VB_NAME": "Cataraqui Valley Condos Inc",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45355",
+            "MEMBERNAME": "Stone & South Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "CATARAQUI VALLEY CONDO",
+            "Project Status": "Completed",
+            "Location": "KINGSTON",
+            "Address": "745 Davis Dr.",
+            "# of Units": 52,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-12-28"
+        }
+    ],
+    "builderConditions": []
+}

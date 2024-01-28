@@ -1,0 +1,82 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "O'Dette Builders",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 95,
+            "ADDRESS": "157 King St. E.",
+            "TELEPHONE": "6135469002",
+            "FAX": "6135469002",
+            "WEBSITEURL": " ",
+            "EMAIL": "bodette1@cogeco.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 95,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 95
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "638973 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "O'Dette Builders",
+            "MEMBERVBNUM": "B24129",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Brian O'Dette",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B3330",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Brian O'Dette",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B3234",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "638973 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B3584",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2011",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 95,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 95,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 95,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 95,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": []
+}

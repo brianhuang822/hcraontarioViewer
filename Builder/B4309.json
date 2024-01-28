@@ -1,0 +1,109 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B4309",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Mason Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "ETOBICOKE",
+            "HCRA_INITIALLICENSEDATE": "1977-02-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1991-03-22 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "59 Beaver Bend Cres.",
+            "TELEPHONE": "(416)622-1002",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "321619",
+            "TO": "Robert Mason",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "321605",
+            "TO": "Gordon Mason",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-640-6777"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B4309",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Mason Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "Church & Elm St.",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1981-10-01"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "88 Church St.",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1979-11-02"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "Hwy.7.Welling St.",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1978-10-12"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "OSHAWA",
+            "Address": "960 Glen St",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1978-08-01"
+        }
+    ],
+    "builderConditions": []
+}

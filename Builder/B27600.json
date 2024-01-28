@@ -1,0 +1,120 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27600",
+            "Umbrella": "Wastell Builders",
+            "Umbrella ID": "10650",
+            "VB_NAME": "Wastell Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "1998-08-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-27 18:31:08.000 +0000",
+            "Expiry Date": "2024-08-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1895 Blue Heron Drive",
+            "TELEPHONE": "519-850-0020",
+            "FAX": "519-850-0010",
+            "WEBSITEURL": "wastell.ca",
+            "EMAIL": "doug@wastell.ca",
+            "ACCOUNTNUMBER": "B27600",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 240,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 240,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100451832",
+            "TO": "Susan Wastell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-850-0020"
+        },
+        {
+            "TOUNIQUENUMBER": "100184757",
+            "TO": "Douglas Wastell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-850-0020"
+        },
+        {
+            "TOUNIQUENUMBER": "100184757",
+            "TO": "Douglas Wastell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-850-0020"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27600",
+            "Umbrella": "Wastell Builders",
+            "Umbrella ID": "10650",
+            "VB_NAME": "Wastell Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26734",
+            "MEMBERNAME": "Wastell Builders (London) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27600",
+            "Umbrella": "Wastell Builders",
+            "Umbrella ID": "10650",
+            "VB_NAME": "Wastell Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27600",
+            "MEMBERNAME": "Wastell Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27600",
+            "Umbrella": "Wastell Builders",
+            "Umbrella ID": "10650",
+            "VB_NAME": "Wastell Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B14741",
+            "MEMBERNAME": "Wastell Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Willow",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": " 310 Callaway Road ",
+            "# of Units": 53,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Montage",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": " 435 Callaway Rd. ",
+            "# of Units": 94,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

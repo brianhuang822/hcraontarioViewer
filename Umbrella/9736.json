@@ -1,0 +1,59 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Dacon Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "837 Princess St., Ste. 402",
+            "TELEPHONE": "(613) 389-6761",
+            "FAX": "(613)389-9778",
+            "WEBSITEURL": "www.dacon.on.ca",
+            "EMAIL": "enquiries@dacon.on.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Dacon Corporation Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B3031",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dacon Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27030",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Account Number": "B3031",
+            "Project Status": "Completed",
+            "Location": "KINGSTON",
+            "Address": "115 Wright Cr.",
+            "# of Units": 80,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1978-01-01"
+        }
+    ]
+}

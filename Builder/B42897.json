@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42897",
+            "Umbrella": "Stanton Renaissance",
+            "Umbrella ID": "12541586",
+            "VB_NAME": "Terrasan 327 Royal York Rd. Limited",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2013-08-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-08-15 12:01:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "93 Skyway Ave., Ste. 210",
+            "TELEPHONE": "416/201-8400",
+            "FAX": "416/201-9073",
+            "WEBSITEURL": "www.stantonrenaissance.com",
+            "EMAIL": "louie@stantonrenaissance.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11876578",
+            "TO": "Luigi Santaguida",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-201-8400"
+        },
+        {
+            "TOUNIQUENUMBER": "11876578",
+            "TO": "Luigi Santaguida",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-201-8400"
+        },
+        {
+            "TOUNIQUENUMBER": "100170494",
+            "TO": "Marylou Santaguida",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-201-8400"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42897",
+            "Umbrella": "Stanton Renaissance",
+            "Umbrella ID": "12541586",
+            "VB_NAME": "Terrasan 327 Royal York Rd. Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42897",
+            "MEMBERNAME": "Terrasan 327 Royal York Rd. Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42897",
+            "Umbrella": "Stanton Renaissance",
+            "Umbrella ID": "12541586",
+            "VB_NAME": "Terrasan 327 Royal York Rd. Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43755",
+            "MEMBERNAME": "2203284 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42897",
+            "Umbrella": "Stanton Renaissance",
+            "Umbrella ID": "12541586",
+            "VB_NAME": "Terrasan 327 Royal York Rd. Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33098",
+            "MEMBERNAME": "Chateau Fine Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "On The Go Mimico",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": "327 Royal York Rd.",
+            "# of Units": 242,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

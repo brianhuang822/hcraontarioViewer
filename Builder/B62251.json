@@ -1,0 +1,104 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62251",
+            "Umbrella": "Umbrella Development",
+            "Umbrella ID": "12551815",
+            "VB_NAME": "DC & F Development Corp.",
+            "OPERATINGNAME": "DC& F Development Corp.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2023-11-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-29 14:23:59.000 +0000",
+            "Expiry Date": "2024-11-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "111 Gordon Baker Road",
+            "TELEPHONE": "647-313-8033",
+            "FAX": null,
+            "WEBSITEURL": "https://www.dcfcorp.com",
+            "EMAIL": "mike@dcfcorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100569429",
+            "TO": "Laith (Mike) Saleh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-946-5446"
+        },
+        {
+            "TOUNIQUENUMBER": "100569429",
+            "TO": "Laith (Mike) Saleh",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-946-5446"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62251",
+            "Umbrella": "Umbrella Development",
+            "Umbrella ID": "12551815",
+            "VB_NAME": "DC & F Development Corp.",
+            "OPERATINGNAME": "DC& F Development Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B24313",
+            "MEMBERNAME": "Bartolo Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62251",
+            "Umbrella": "Umbrella Development",
+            "Umbrella ID": "12551815",
+            "VB_NAME": "DC & F Development Corp.",
+            "OPERATINGNAME": "DC& F Development Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62209",
+            "MEMBERNAME": "Lynn Danforth Ave Developments Inc.",
+            "MEMBEROPERATINGNAME": "Lynn Danforth Ave Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62251",
+            "Umbrella": "Umbrella Development",
+            "Umbrella ID": "12551815",
+            "VB_NAME": "DC & F Development Corp.",
+            "OPERATINGNAME": "DC& F Development Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47671",
+            "MEMBERNAME": "DC& F Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62251",
+            "Umbrella": "Umbrella Development",
+            "Umbrella ID": "12551815",
+            "VB_NAME": "DC & F Development Corp.",
+            "OPERATINGNAME": "DC& F Development Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62251",
+            "MEMBERNAME": "DC & F Development Corp.",
+            "MEMBEROPERATINGNAME": "DC& F Development Corp.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,160 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B19067",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Multi-Area Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Stoney Creek",
+            "HCRA_INITIALLICENSEDATE": "1989-12-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-02 17:23:40.000 +0000",
+            "Expiry Date": "2024-11-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "301 Fruitland Road",
+            "TELEPHONE": "905-664-2623",
+            "FAX": "905-662-8401",
+            "WEBSITEURL": "www.multi-area.com",
+            "EMAIL": "david@multi-area.com",
+            "ACCOUNTNUMBER": "B19067",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1080,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1080,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11978985",
+            "TO": "Deanne De Santis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-664-2623"
+        },
+        {
+            "TOUNIQUENUMBER": "308581",
+            "TO": "Aldo De Santis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-664-2623"
+        },
+        {
+            "TOUNIQUENUMBER": "308581",
+            "TO": "Aldo De Santis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-664-2623"
+        },
+        {
+            "TOUNIQUENUMBER": "11978979",
+            "TO": "Danielle De Santis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-664-2623"
+        },
+        {
+            "TOUNIQUENUMBER": "12038718",
+            "TO": "David De Santis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-664-2623"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B19067",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Multi-Area Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Laguna Village at Summit Park",
+            "Project Status": null,
+            "Location": "HAMILTON",
+            "Address": " 315 Dalgleish Trail ",
+            "# of Units": 216,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "EVERGREENS OF GRIMSBY",
+            "Project Status": "Completed",
+            "Location": "GRIMSBY",
+            "Address": " 163 Livingston Ave. ",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-04-01"
+        },
+        {
+            "Condo Project Name": "SOUTHWOOD ON THE PARK",
+            "Project Status": "Completed",
+            "Location": "STONEY CREEK",
+            "Address": "171 Highbury Dr.",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-10-15"
+        },
+        {
+            "Condo Project Name": "SOUTHWOOD ON THE PARK",
+            "Project Status": "Completed",
+            "Location": "STONEY CREEK",
+            "Address": "174 Highbury Dr.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-03-30"
+        },
+        {
+            "Condo Project Name": "TREETOPS",
+            "Project Status": "Completed",
+            "Location": "STONEY CREEK",
+            "Address": "Corner Of Greenhollow & Highland",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-05-22"
+        },
+        {
+            "Condo Project Name": "TREETOPS",
+            "Project Status": "Completed",
+            "Location": "STONEY CREEK",
+            "Address": "346 Highland Road West",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-01-23"
+        },
+        {
+            "Condo Project Name": "VICTORIAN VILLAGE OF STONEY CR",
+            "Project Status": "Completed",
+            "Location": "STONEY CREEK",
+            "Address": "502 Barton St.",
+            "# of Units": 52,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1992-02-12"
+        }
+    ],
+    "builderConditions": []
+}

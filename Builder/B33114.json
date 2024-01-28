@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33114",
+            "Umbrella": "McDonald Group",
+            "Umbrella ID": "12553074",
+            "VB_NAME": "2003603 Ontario Corporation",
+            "OPERATINGNAME": "McDonald Homes",
+            "CITY": "Brighton",
+            "HCRA_INITIALLICENSEDATE": "2003-03-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-22 17:45:19.000 +0000",
+            "Expiry Date": "2024-03-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "668 Hansen Road",
+            "TELEPHONE": "613-475-5555",
+            "FAX": "613-475-5955",
+            "WEBSITEURL": "www.mcdonaldhomes.ca",
+            "EMAIL": "david@mcdonaldhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 538,
+            "SUMM_CONDO": 5,
+            "SUMM_TOTAL": 543,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11876654",
+            "TO": "David McDonald",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-847-0207"
+        },
+        {
+            "TOUNIQUENUMBER": "11876654",
+            "TO": "David McDonald",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-847-0207"
+        },
+        {
+            "TOUNIQUENUMBER": "11876654",
+            "TO": "David McDonald",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-847-0207"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33114",
+            "Umbrella": "McDonald Group",
+            "Umbrella ID": "12553074",
+            "VB_NAME": "2003603 Ontario Corporation",
+            "OPERATINGNAME": "McDonald Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48591",
+            "MEMBERNAME": "2750450 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Providence Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B33114",
+            "Umbrella": "McDonald Group",
+            "Umbrella ID": "12553074",
+            "VB_NAME": "2003603 Ontario Corporation",
+            "OPERATINGNAME": "McDonald Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33114",
+            "MEMBERNAME": "2003603 Ontario Corporation",
+            "MEMBEROPERATINGNAME": "McDonald Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Towns on Arthur",
+            "Project Status": "Completed",
+            "Location": "COLBORNE",
+            "Address": " 15 Arthur St. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-12-08"
+        }
+    ],
+    "builderConditions": []
+}

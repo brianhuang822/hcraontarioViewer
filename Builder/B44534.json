@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44534",
+            "Umbrella": "Maramel Homes",
+            "Umbrella ID": "12552962",
+            "VB_NAME": "Tupelo Investments Limited",
+            "OPERATINGNAME": "Maramel Homes",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2015-06-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-07 20:01:40.000 +0000",
+            "Expiry Date": "2024-06-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "200 Ronson Drive",
+            "TELEPHONE": "416-243-9019",
+            "FAX": "416-243-7192",
+            "WEBSITEURL": " ",
+            "EMAIL": "mmelchior@coram.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 24,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 24,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100308375",
+            "TO": "Albert Melchior",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-243-3434"
+        },
+        {
+            "TOUNIQUENUMBER": "339163",
+            "TO": "Matthew Melchior",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-243-9019"
+        },
+        {
+            "TOUNIQUENUMBER": "339163",
+            "TO": "Matthew Melchior",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-243-9019"
+        },
+        {
+            "TOUNIQUENUMBER": "339163",
+            "TO": "Matthew Melchior",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-243-9019"
+        },
+        {
+            "TOUNIQUENUMBER": "342337",
+            "TO": "Randall J. Melchior",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-243-9019"
+        },
+        {
+            "TOUNIQUENUMBER": "342337",
+            "TO": "Randall J. Melchior",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-243-9019"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44534",
+            "Umbrella": "Maramel Homes",
+            "Umbrella ID": "12552962",
+            "VB_NAME": "Tupelo Investments Limited",
+            "OPERATINGNAME": "Maramel Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44534",
+            "MEMBERNAME": "Tupelo Investments Limited",
+            "MEMBEROPERATINGNAME": "Maramel Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44534",
+            "Umbrella": "Maramel Homes",
+            "Umbrella ID": "12552962",
+            "VB_NAME": "Tupelo Investments Limited",
+            "OPERATINGNAME": "Maramel Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48831",
+            "MEMBERNAME": "Scone Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "MOD Townes",
+            "Project Status": null,
+            "Location": "MISSISSAUGA",
+            "Address": "Blanefield Road",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

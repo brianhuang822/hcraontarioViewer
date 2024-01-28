@@ -1,0 +1,165 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37213",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Distler Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Parry Sound",
+            "HCRA_INITIALLICENSEDATE": "2007-01-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2024-01-03 06:00:03.000 +0000",
+            "Expiry Date": "2024-01-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 8",
+            "TELEPHONE": "705-346-0338",
+            "FAX": "705-771-9330",
+            "WEBSITEURL": null,
+            "EMAIL": "alex@distlerconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 13,
+            "SUMM_CONDO": 25,
+            "SUMM_TOTAL": 38,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008617",
+            "TO": "Chantelle Distler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-346-0846"
+        },
+        {
+            "TOUNIQUENUMBER": "600008617",
+            "TO": "Chantelle Distler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-346-0846"
+        },
+        {
+            "TOUNIQUENUMBER": "600008617",
+            "TO": "Chantelle Distler",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-346-0846"
+        },
+        {
+            "TOUNIQUENUMBER": "12193597",
+            "TO": "Angelika Distler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-346-0928"
+        },
+        {
+            "TOUNIQUENUMBER": "12193597",
+            "TO": "Angelika Distler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-346-0928"
+        },
+        {
+            "TOUNIQUENUMBER": "12193596",
+            "TO": "Fritz Distler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-346-0927"
+        },
+        {
+            "TOUNIQUENUMBER": "12193596",
+            "TO": "Fritz Distler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-346-0927"
+        },
+        {
+            "TOUNIQUENUMBER": "12193598",
+            "TO": "Alexander Distler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-346-0338"
+        },
+        {
+            "TOUNIQUENUMBER": "12193598",
+            "TO": "Alexander Distler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-346-0338"
+        },
+        {
+            "TOUNIQUENUMBER": "12193598",
+            "TO": "Alexander Distler",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-346-0338"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37213",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Distler Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Silver Birch Condominiums",
+            "Project Status": "Completed",
+            "Location": "PARRY SOUND, UNORG CENTRE",
+            "Address": "20D Silver Birch Crt.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-07-02"
+        },
+        {
+            "Condo Project Name": "Silver Birch Condominiums",
+            "Project Status": "Completed",
+            "Location": "PARRY SOUND",
+            "Address": "20C Silver Birch Court",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-07-18"
+        },
+        {
+            "Condo Project Name": "Silver Birch Condominiums",
+            "Project Status": "Completed",
+            "Location": "PARRY SOUND",
+            "Address": "20B Silver Birch Court",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-07-09"
+        },
+        {
+            "Condo Project Name": "Silver Birch Condominiums",
+            "Project Status": "Completed",
+            "Location": "PARRY SOUND",
+            "Address": "20A Silver Birch Court",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-07-12"
+        }
+    ],
+    "builderConditions": []
+}

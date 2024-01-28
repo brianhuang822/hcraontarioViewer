@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45536",
+            "Umbrella": "RSJ Construction",
+            "Umbrella ID": "12545075",
+            "VB_NAME": "RSJ Construction Ltd.",
+            "OPERATINGNAME": "RSJ Construction Ltd.",
+            "CITY": "Mitchell",
+            "HCRA_INITIALLICENSEDATE": "2016-08-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-28 18:46:16.000 +0000",
+            "Expiry Date": "2024-08-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "74 Kenton Street",
+            "TELEPHONE": "519-301-1368",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "rsjconstruction@outlook.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 21,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 21,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1350,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1350
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100311757",
+            "TO": "Robert Scott Jarmuth",
+            "Relationship Type": "Officer",
+            "STATUS": "Inactive",
+            "PDO_CONTACT_INFO": "519-301-1368"
+        },
+        {
+            "TOUNIQUENUMBER": "100311757",
+            "TO": "Robert Scott Jarmuth",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-301-1368"
+        },
+        {
+            "TOUNIQUENUMBER": "100311757",
+            "TO": "Robert Scott Jarmuth",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-301-1368"
+        },
+        {
+            "TOUNIQUENUMBER": "12255199",
+            "TO": "Mirella Bilotta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-301-1368"
+        },
+        {
+            "TOUNIQUENUMBER": "12255199",
+            "TO": "Mirella Bilotta",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-301-1368"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45536",
+            "Umbrella": "RSJ Construction",
+            "Umbrella ID": "12545075",
+            "VB_NAME": "RSJ Construction Ltd.",
+            "OPERATINGNAME": "RSJ Construction Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45536",
+            "MEMBERNAME": "RSJ Construction Ltd.",
+            "MEMBEROPERATINGNAME": "RSJ Construction Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45536",
+            "Umbrella": "RSJ Construction",
+            "Umbrella ID": "12545075",
+            "VB_NAME": "RSJ Construction Ltd.",
+            "OPERATINGNAME": "RSJ Construction Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44615",
+            "MEMBERNAME": "Robert Scott Jarmuth",
+            "MEMBEROPERATINGNAME": "RSJ Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,112 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46695",
+            "Umbrella": "A&E Group",
+            "Umbrella ID": "12548017",
+            "VB_NAME": "2381414 Ontario Inc.",
+            "OPERATINGNAME": "Miami Developments",
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "2018-05-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:19:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1615 North Routledge Pk., Unit 11",
+            "TELEPHONE": "519/432-3333",
+            "FAX": "519/668-2808",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 20,
+            "SUMM_TOTAL": 20,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100474184",
+            "TO": "Milad Bosta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-282-1272"
+        },
+        {
+            "TOUNIQUENUMBER": "100474184",
+            "TO": "Milad Bosta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-282-1272"
+        },
+        {
+            "TOUNIQUENUMBER": "100474184",
+            "TO": "Milad Bosta",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-282-1272"
+        },
+        {
+            "TOUNIQUENUMBER": "100423368",
+            "TO": "Amir Shenouda",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-432-3333"
+        },
+        {
+            "TOUNIQUENUMBER": "100423368",
+            "TO": "Amir Shenouda",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-432-3333"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46695",
+            "Umbrella": "A&E Group",
+            "Umbrella ID": "12548017",
+            "VB_NAME": "2381414 Ontario Inc.",
+            "OPERATINGNAME": "Miami Developments",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46695",
+            "MEMBERNAME": "2381414 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Miami Developments",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46695",
+            "Umbrella": "A&E Group",
+            "Umbrella ID": "12548017",
+            "VB_NAME": "2381414 Ontario Inc.",
+            "OPERATINGNAME": "Miami Developments",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46057",
+            "MEMBERNAME": "2184440 Ontario Limited",
+            "MEMBEROPERATINGNAME": "S.E.M Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Lucan Woods",
+            "Project Status": "Completed",
+            "Location": "LUCAN",
+            "Address": " 263 Butler St ",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-01-07"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34354",
+            "Umbrella": "Seguin Construction",
+            "Umbrella ID": "12539996",
+            "VB_NAME": "1599662 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MIDHURST",
+            "HCRA_INITIALLICENSEDATE": "2004-04-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-04-23 13:30:55.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "59 BELMONT CRES",
+            "TELEPHONE": "(705) 715-4668",
+            "FAX": "(705) 722-4472",
+            "WEBSITEURL": null,
+            "EMAIL": "pseguinhomes@hotmail.com",
+            "ACCOUNTNUMBER": "B34354",
+            "Total Outstanding Amount": 6787.38,
+            "TAB": 0,
+            "BREACH": 6787.38,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341515",
+            "TO": "\u007f\u007fPaul Seguin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705- 715-4668"
+        },
+        {
+            "TOUNIQUENUMBER": "341515",
+            "TO": "\u007f\u007fPaul Seguin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705- 715-4668"
+        },
+        {
+            "TOUNIQUENUMBER": "11997424",
+            "TO": "Anthony Spies",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705- 715-4668"
+        },
+        {
+            "TOUNIQUENUMBER": "11997424",
+            "TO": "Anthony Spies",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705- 715-4668"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34354",
+            "Umbrella": "Seguin Construction",
+            "Umbrella ID": "12539996",
+            "VB_NAME": "1599662 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31786",
+            "MEMBERNAME": "1469464 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34354",
+            "Umbrella": "Seguin Construction",
+            "Umbrella ID": "12539996",
+            "VB_NAME": "1599662 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26474",
+            "MEMBERNAME": "P. Seguin Construction Ltd.",
+            "MEMBEROPERATINGNAME": "Seguin Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34354",
+            "Umbrella": "Seguin Construction",
+            "Umbrella ID": "12539996",
+            "VB_NAME": "1599662 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34354",
+            "MEMBERNAME": "1599662 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

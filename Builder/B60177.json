@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60177",
+            "Umbrella": "Slate Asset Management",
+            "Umbrella ID": "500000272",
+            "VB_NAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "OPERATINGNAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-05-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-19 18:49:58.000 +0000",
+            "Expiry Date": "2024-05-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "121 King Street West",
+            "TELEPHONE": "416-644-4264",
+            "FAX": "416-947-9366",
+            "WEBSITEURL": "http://slateam.com",
+            "EMAIL": "info@slateam.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100529119",
+            "TO": "Brandon Donnelly",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-583-1773"
+        },
+        {
+            "TOUNIQUENUMBER": "100529118",
+            "TO": "Lucas Manuel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-644-4264"
+        },
+        {
+            "TOUNIQUENUMBER": "100529116",
+            "TO": "Lisa Rowe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-644-4264"
+        },
+        {
+            "TOUNIQUENUMBER": "100529116",
+            "TO": "Lisa Rowe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-644-4264"
+        },
+        {
+            "TOUNIQUENUMBER": "100529115",
+            "TO": "Ramsey Ali",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-644-4264"
+        },
+        {
+            "TOUNIQUENUMBER": "100529115",
+            "TO": "Ramsey Ali",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-644-4264"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60177",
+            "Umbrella": "Slate Asset Management",
+            "Umbrella ID": "500000272",
+            "VB_NAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "OPERATINGNAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61287",
+            "MEMBERNAME": "Corktown GP Inc. as general partner of and on behalf of Corktown L.P.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60177",
+            "Umbrella": "Slate Asset Management",
+            "Umbrella ID": "500000272",
+            "VB_NAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "OPERATINGNAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47274",
+            "MEMBERNAME": "2720 Dundas Junction GP Inc. in its capacity as general partner of and on behalf of 2720 Dundas Junction L.P.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60177",
+            "Umbrella": "Slate Asset Management",
+            "Umbrella ID": "500000272",
+            "VB_NAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "OPERATINGNAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60177",
+            "MEMBERNAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "MEMBEROPERATINGNAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "One Delisle",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 1 Delisle Ave ",
+            "# of Units": 371,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

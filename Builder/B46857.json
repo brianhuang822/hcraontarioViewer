@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46857",
+            "Umbrella": "Livewell Homes Developments",
+            "Umbrella ID": "12548924",
+            "VB_NAME": "2609410 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2018-08-30",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-08-31 04:15:19.000 +0000",
+            "Expiry Date": "2021-08-31",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8 Akron Rd.",
+            "TELEPHONE": "416/252-0305",
+            "FAX": "416/243-2000",
+            "WEBSITEURL": "www.willowridgeofridgeway.com",
+            "EMAIL": "mmarch@marchlaw.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 17,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 17,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 6440.15,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 6440.15
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100122394",
+            "TO": "Matthew Della Valle",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-945-8199"
+        },
+        {
+            "TOUNIQUENUMBER": "100122394",
+            "TO": "Matthew Della Valle",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-945-8199"
+        },
+        {
+            "TOUNIQUENUMBER": "100122394",
+            "TO": "Matthew Della Valle",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-945-8199"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46857",
+            "Umbrella": "Livewell Homes Developments",
+            "Umbrella ID": "12548924",
+            "VB_NAME": "2609410 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46857",
+            "MEMBERNAME": "2609410 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46857",
+            "Umbrella": "Livewell Homes Developments",
+            "Umbrella ID": "12548924",
+            "VB_NAME": "2609410 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42182",
+            "MEMBERNAME": "2185859 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Nufusion Partners",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

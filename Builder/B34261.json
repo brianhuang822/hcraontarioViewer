@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34261",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bolt Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2004-03-29",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2011-07-11 20:25:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "25 Wingold Ave. 2nd floor",
+            "TELEPHONE": "416-534-5251",
+            "FAX": "416-534-8679",
+            "WEBSITEURL": null,
+            "EMAIL": "andrewternan@boltdevelopments.com",
+            "ACCOUNTNUMBER": "B34261",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 189638.68,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 189638.68
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11992788",
+            "TO": "Andrew Ternan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-534-5251"
+        },
+        {
+            "TOUNIQUENUMBER": "11992788",
+            "TO": "Andrew Ternan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-534-5251"
+        },
+        {
+            "TOUNIQUENUMBER": "11992788",
+            "TO": "Andrew Ternan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-534-5251"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA109131",
+            "CHARGE_AGAINST": "Bolt Developments Inc.",
+            "CHARGE_DATE": "2017-08-21",
+            "DISPOSITION_DATE": "2018-06-01",
+            "THE_FINE_": "NULL",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "NULL",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Suspended Sentence",
+            "INVESTIGATION_": "9327074",
+            "ORGANIZATION_NAME": "Bolt Developments Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Aurora, ON",
+            "CITY_DEFENCE": "Toronto, ON",
+            "VB_NUMBER": "B34261",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA109131 9327074",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Aurora, Town",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "FROM_OFFENCE_DATE": "2015-10-19",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "0",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B34261",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bolt Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

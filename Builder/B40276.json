@@ -1,0 +1,175 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40276",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni Contracting (Ontario) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Vancouver",
+            "HCRA_INITIALLICENSEDATE": "2010-03-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-06-02 13:30:29.000 +0000",
+            "Expiry Date": "2022-03-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "200-1010 Seymour Street",
+            "TELEPHONE": "604-602-7711",
+            "FAX": "416/260-8240",
+            "WEBSITEURL": "www.onni.com",
+            "EMAIL": "ajoblin@onni.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 1794,
+            "SUMM_TOTAL": 1794,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 28642.76,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 28642.76
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12396802",
+            "TO": "Rossano De Cotiis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7711"
+        },
+        {
+            "TOUNIQUENUMBER": "12396802",
+            "TO": "Rossano De Cotiis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7711"
+        },
+        {
+            "TOUNIQUENUMBER": "12398485",
+            "TO": "Morris De Cotiis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7711"
+        },
+        {
+            "TOUNIQUENUMBER": "12398485",
+            "TO": "Morris De Cotiis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7711"
+        },
+        {
+            "TOUNIQUENUMBER": "12398489",
+            "TO": "Giulio De Cotiis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7711"
+        },
+        {
+            "TOUNIQUENUMBER": "12398489",
+            "TO": "Giulio De Cotiis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7711"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40276",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni Contracting (Ontario) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40244",
+            "MEMBERNAME": "Garrison Yards Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40276",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni Contracting (Ontario) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40276",
+            "MEMBERNAME": "Onni Contracting (Ontario) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40276",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni Contracting (Ontario) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40780",
+            "MEMBERNAME": "Onni (Westlake) Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40276",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni Contracting (Ontario) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41260",
+            "MEMBERNAME": "The Yards Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40276",
+            "Umbrella": "Onni Group",
+            "Umbrella ID": "12406135",
+            "VB_NAME": "Onni Contracting (Ontario) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42368",
+            "MEMBERNAME": "Onni (Encore) Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Westlake Tower One",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "2220 Lake Shore Blvd. W.",
+            "# of Units": 490,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-04-21"
+        },
+        {
+            "Condo Project Name": "The Yards",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "20 Bruyeres Mews",
+            "# of Units": 410,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-03-05"
+        },
+        {
+            "Condo Project Name": "Garrison at the Yards",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "169 Fort York Blvd.",
+            "# of Units": 248,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-05-10"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38257",
+            "Umbrella": "Hinan Group",
+            "Umbrella ID": "12540333",
+            "VB_NAME": "The Hinan Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "FONTHILL",
+            "HCRA_INITIALLICENSEDATE": "2008-01-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-01-30 16:00:45.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 173, 1501 Pelham St",
+            "TELEPHONE": "905-684-9964",
+            "FAX": "905-684-1097",
+            "WEBSITEURL": "trhinan.com",
+            "EMAIL": "mail@trhinan.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "315262",
+            "TO": "Patti Hinan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-684-9964"
+        },
+        {
+            "TOUNIQUENUMBER": "315262",
+            "TO": "Patti Hinan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-684-9964"
+        },
+        {
+            "TOUNIQUENUMBER": "315263",
+            "TO": "Terry Hinan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-2299"
+        },
+        {
+            "TOUNIQUENUMBER": "315263",
+            "TO": "Terry Hinan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-2299"
+        },
+        {
+            "TOUNIQUENUMBER": "315263",
+            "TO": "Terry Hinan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-2299"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38257",
+            "Umbrella": "Hinan Group",
+            "Umbrella ID": "12540333",
+            "VB_NAME": "The Hinan Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42308",
+            "MEMBERNAME": "The Hinan Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B38257",
+            "Umbrella": "Hinan Group",
+            "Umbrella ID": "12540333",
+            "VB_NAME": "The Hinan Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38257",
+            "MEMBERNAME": "The Hinan Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

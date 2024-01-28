@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31075",
+            "Umbrella": "Homeworks",
+            "Umbrella ID": "11671584",
+            "VB_NAME": "1378705 Ontario Inc.",
+            "OPERATINGNAME": "Home Works",
+            "CITY": "Casselman",
+            "HCRA_INITIALLICENSEDATE": "2000-09-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-09-27 15:00:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "713 Brebeuf St",
+            "TELEPHONE": "613/764-1596",
+            "FAX": "705-897-3394",
+            "WEBSITEURL": null,
+            "EMAIL": "homeworks137705@sympatical.ca",
+            "ACCOUNTNUMBER": "B31075",
+            "Total Outstanding Amount": 1636.48,
+            "TAB": 0,
+            "BREACH": 1636.48,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329571",
+            "TO": "Allan Gaudette",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-969-7457"
+        },
+        {
+            "TOUNIQUENUMBER": "329571",
+            "TO": "Allan Gaudette",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-969-7457"
+        },
+        {
+            "TOUNIQUENUMBER": "329571",
+            "TO": "Allan Gaudette",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-969-7457"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA103709",
+            "CHARGE_AGAINST": "1378705 Ontario Inc.",
+            "CHARGE_DATE": "2008-11-07",
+            "DISPOSITION_DATE": "2009-04-14",
+            "THE_FINE_": "500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "110",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9324090",
+            "ORGANIZATION_NAME": "1378705 Ontario Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Valley East, ON",
+            "CITY_DEFENCE": "Val Caron, ON",
+            "VB_NUMBER": "B31075",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA103709 9324090",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Greater Sudbury, City",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2008-06-11",
+            "TO_OFFENCE_DATE": "2008-11-07",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "610",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "16:10.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B31075",
+            "Umbrella": "Homeworks",
+            "Umbrella ID": "11671584",
+            "VB_NAME": "1378705 Ontario Inc.",
+            "OPERATINGNAME": "Home Works",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31075",
+            "MEMBERNAME": "1378705 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Home Works",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31075",
+            "Umbrella": "Homeworks",
+            "Umbrella ID": "11671584",
+            "VB_NAME": "1378705 Ontario Inc.",
+            "OPERATINGNAME": "Home Works",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23855",
+            "MEMBERNAME": "Allan Gaudette",
+            "MEMBEROPERATINGNAME": "Homeworks Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

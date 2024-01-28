@@ -1,0 +1,139 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Sunny Communities",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 195,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "25 Brodie Drive",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 195,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 195,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Sunny Communities (Grand Ridge Estates) Inc.",
+            "MEMBEROPERATINGNAME": "Sunny Communities (Grand Ridge Estates) Inc.",
+            "MEMBERVBNUM": "B62064",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Sunny Communities (Elgin Mills) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B62340",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Sunny Communities (Riverlea) Inc.",
+            "MEMBEROPERATINGNAME": "Sunny Communities (Riverlea) Inc.",
+            "MEMBERVBNUM": "B60901",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Sunny Communities Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47876",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "66 Main St Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B60577",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Sunny Communities (Markham Gold) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45165",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 123,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 123,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 195,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 195,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 72,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 72,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 195,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 195,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "The Townmanors of Brownsville",
+            "Account Number": "B60577",
+            "Project Status": "In Progress",
+            "Location": "SCHOMBERG",
+            "Address": " 66 Main St. ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Markham Gold",
+            "Account Number": "B45165",
+            "Project Status": null,
+            "Location": "MARKHAM",
+            "Address": "5899 Major Mackenzie Dr., E. & 9900 Markham Rd.",
+            "# of Units": 195,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ]
+}

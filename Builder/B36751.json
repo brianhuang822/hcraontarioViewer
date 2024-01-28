@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36751",
+            "Umbrella": "Redberry Homes",
+            "Umbrella ID": "12178492",
+            "VB_NAME": "Redberry Homes Incorporated",
+            "OPERATINGNAME": "Redberry Homes",
+            "CITY": "Bolton",
+            "HCRA_INITIALLICENSEDATE": "2006-08-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-29 15:59:55.000 +0000",
+            "Expiry Date": "2024-08-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2 Holland Drive",
+            "TELEPHONE": "905-951-2222",
+            "FAX": "905-951-8555",
+            "WEBSITEURL": "www.redberryhomes.com",
+            "EMAIL": "mario@redberryhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12156427",
+            "TO": "Antonio DeRose",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-951-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "12156427",
+            "TO": "Antonio DeRose",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-951-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "12156427",
+            "TO": "Antonio DeRose",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-951-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "12156425",
+            "TO": "Mario DeRose",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-951-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "12156425",
+            "TO": "Mario DeRose",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-951-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "12156425",
+            "TO": "Mario DeRose",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-951-2222"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36751",
+            "Umbrella": "Redberry Homes",
+            "Umbrella ID": "12178492",
+            "VB_NAME": "Redberry Homes Incorporated",
+            "OPERATINGNAME": "Redberry Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36751",
+            "MEMBERNAME": "Redberry Homes Incorporated",
+            "MEMBEROPERATINGNAME": "Redberry Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B36751",
+            "Umbrella": "Redberry Homes",
+            "Umbrella ID": "12178492",
+            "VB_NAME": "Redberry Homes Incorporated",
+            "OPERATINGNAME": "Redberry Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36750",
+            "MEMBERNAME": "Willow Terrace Estates Inc.",
+            "MEMBEROPERATINGNAME": "Redberry Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

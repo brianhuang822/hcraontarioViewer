@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36363",
+            "Umbrella": "Praztek Construction",
+            "Umbrella ID": "12351908",
+            "VB_NAME": "Pierre  L.  Beaucage",
+            "OPERATINGNAME": null,
+            "CITY": "TIMMINS",
+            "HCRA_INITIALLICENSEDATE": "2006-03-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-03-18 13:00:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1080 Goldmine Rd.",
+            "TELEPHONE": "705/268-8167",
+            "FAX": "705-268-8165",
+            "WEBSITEURL": "www.praztek.com",
+            "EMAIL": "praztek@persona.ca",
+            "ACCOUNTNUMBER": "B36363",
+            "Total Outstanding Amount": 71549.23,
+            "TAB": 0,
+            "BREACH": 71549.23,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 2,
+            "SUMM_MAJOR_AMT": 149645.44,
+            "SUMM_TOTAL_CLAIMS": 149645.44
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12134970",
+            "TO": "Pierre Beaucage",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-264-7729"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36363",
+            "Umbrella": "Praztek Construction",
+            "Umbrella ID": "12351908",
+            "VB_NAME": "Pierre  L.  Beaucage",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36363",
+            "MEMBERNAME": "Pierre  L.  Beaucage",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36363",
+            "Umbrella": "Praztek Construction",
+            "Umbrella ID": "12351908",
+            "VB_NAME": "Pierre  L.  Beaucage",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37382",
+            "MEMBERNAME": "2124140 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Praztek Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

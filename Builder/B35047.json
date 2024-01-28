@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35047",
+            "Umbrella": "Brian Shane Construction",
+            "Umbrella ID": "12136847",
+            "VB_NAME": "Brian Shane Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Russell",
+            "HCRA_INITIALLICENSEDATE": "2004-11-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-27 13:54:10.000 +0000",
+            "Expiry Date": "2024-11-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "715 Hamilton Road",
+            "TELEPHONE": "613-327-5770",
+            "FAX": null,
+            "WEBSITEURL": "brianshaneconstruction.com",
+            "EMAIL": "catharinashane@gmail.com",
+            "ACCOUNTNUMBER": "B35047",
+            "Total Outstanding Amount": 11742.29,
+            "TAB": 0,
+            "BREACH": 11742.29,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 10040.43,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 10040.43
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304009",
+            "TO": "Brian Shane",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-680-1034"
+        },
+        {
+            "TOUNIQUENUMBER": "304009",
+            "TO": "Brian Shane",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-680-1034"
+        },
+        {
+            "TOUNIQUENUMBER": "304009",
+            "TO": "Brian Shane",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-680-1034"
+        },
+        {
+            "TOUNIQUENUMBER": "12039172",
+            "TO": "Catharina Shane",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-327-5770"
+        },
+        {
+            "TOUNIQUENUMBER": "12039172",
+            "TO": "Catharina Shane",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-327-5770"
+        },
+        {
+            "TOUNIQUENUMBER": "12039172",
+            "TO": "Catharina Shane",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-327-5770"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35047",
+            "Umbrella": "Brian Shane Construction",
+            "Umbrella ID": "12136847",
+            "VB_NAME": "Brian Shane Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35047",
+            "MEMBERNAME": "Brian Shane Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B35047",
+            "Umbrella": "Brian Shane Construction",
+            "Umbrella ID": "12136847",
+            "VB_NAME": "Brian Shane Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B22343",
+            "MEMBERNAME": "Brian Shane",
+            "MEMBEROPERATINGNAME": "Brian Shane Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

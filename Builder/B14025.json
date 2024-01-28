@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B14025",
+            "Umbrella": "Logan Contracting",
+            "Umbrella ID": "12539998",
+            "VB_NAME": "Logan Contracting Limited.,",
+            "OPERATINGNAME": null,
+            "CITY": "STRATFORD",
+            "HCRA_INITIALLICENSEDATE": "1987-06-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1989-06-03 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O.Box 700, Hwy #19 n",
+            "TELEPHONE": "(519)271-8800",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "312019",
+            "TO": "Gerald G. Gaffney",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312018",
+            "TO": "Donald A. Gaffney",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "315459",
+            "TO": "Gerald F. Holland",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312020",
+            "TO": "Oliver J. Gaffney",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-0274"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B14025",
+            "Umbrella": "Logan Contracting",
+            "Umbrella ID": "12539998",
+            "VB_NAME": "Logan Contracting Limited.,",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B14025",
+            "MEMBERNAME": "Logan Contracting Limited.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B14025",
+            "Umbrella": "Logan Contracting",
+            "Umbrella ID": "12539998",
+            "VB_NAME": "Logan Contracting Limited.,",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27346",
+            "MEMBERNAME": "Guthrie Development Corporation",
+            "MEMBEROPERATINGNAME": "The Guthrie",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B14025",
+            "Umbrella": "Logan Contracting",
+            "Umbrella ID": "12539998",
+            "VB_NAME": "Logan Contracting Limited.,",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27337",
+            "MEMBERNAME": "Logan Contracting Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

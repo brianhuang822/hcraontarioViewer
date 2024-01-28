@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40215",
+            "Umbrella": "Steven Abboud and Sharon Abboud",
+            "Umbrella ID": "12541187",
+            "VB_NAME": "Steven Michael Abboud and Sharon Ann Abboud",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2010-02-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-02-09 16:01:46.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "110 Concord St. S.",
+            "TELEPHONE": "613-230-213",
+            "FAX": "613-230-2131",
+            "WEBSITEURL": null,
+            "EMAIL": "stevenabboud@rogers.com",
+            "ACCOUNTNUMBER": "B40215",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 3011,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3011
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12141081",
+            "TO": "Steven M. Abboud",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-230-2131"
+        },
+        {
+            "TOUNIQUENUMBER": "12141082",
+            "TO": "Sharon Abboud",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-230-2131"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40215",
+            "Umbrella": "Steven Abboud and Sharon Abboud",
+            "Umbrella ID": "12541187",
+            "VB_NAME": "Steven Michael Abboud and Sharon Ann Abboud",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36453",
+            "MEMBERNAME": "Steven Abboud and Sharon Abboud",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40215",
+            "Umbrella": "Steven Abboud and Sharon Abboud",
+            "Umbrella ID": "12541187",
+            "VB_NAME": "Steven Michael Abboud and Sharon Ann Abboud",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40215",
+            "MEMBERNAME": "Steven Michael Abboud and Sharon Ann Abboud",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,170 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B388",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Perez Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "1978-07-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1996-05-01 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "45 O'Connor Street, 19th Fl.",
+            "TELEPHONE": "(613)563-7200",
+            "FAX": "(613)563-1145",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "326184",
+            "TO": "Jose-Luis Perez",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "303351",
+            "TO": "Vincent Blesa",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "303351",
+            "TO": "Vincent Blesa",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313148",
+            "TO": "Jose Luis Gomez",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313148",
+            "TO": "Jose Luis Gomez",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B388",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Perez Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "DURHAM",
+            "Project Status": "Completed",
+            "Location": "WHITBY",
+            "Address": "*",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-06-21"
+        },
+        {
+            "Condo Project Name": "BUILDING 1",
+            "Project Status": "Completed",
+            "Location": "ORLEANS",
+            "Address": "325 Centrum Blvd.",
+            "# of Units": 64,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-06-11"
+        },
+        {
+            "Condo Project Name": "BUILDING 2",
+            "Project Status": "Completed",
+            "Location": "ORLEANS",
+            "Address": "345 Centrum Blvd.",
+            "# of Units": 64,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-09-27"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "Box11153,stn.h",
+            "# of Units": 60,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-05-30"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "Buckingham Lane",
+            "# of Units": 74,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-03-01"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "KANATA",
+            "Address": "Bujold Crt.",
+            "# of Units": 58,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1983-12-31"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "GLOUCESTER",
+            "Address": "Mary Jane Cres.",
+            "# of Units": 94,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1983-11-18"
+        },
+        {
+            "Condo Project Name": "160 GEORGE ST., OTTAWA",
+            "Project Status": "In Progress",
+            "Location": "OTTAWA",
+            "Address": "160 George St.",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

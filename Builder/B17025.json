@@ -1,0 +1,279 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B17025",
+            "Umbrella": "Geertsma Homes",
+            "Umbrella ID": "3453",
+            "VB_NAME": "Geertsma Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Belleville",
+            "HCRA_INITIALLICENSEDATE": "1989-08-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-20 13:12:47.000 +0000",
+            "Expiry Date": "2024-08-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "406 Maitland Drive",
+            "TELEPHONE": "613-966-8420",
+            "FAX": "613-966-3392",
+            "WEBSITEURL": "www.geertsma.com",
+            "EMAIL": "christy@geertsma.com",
+            "ACCOUNTNUMBER": "B17025",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 501,
+            "SUMM_CONDO": 77,
+            "SUMM_TOTAL": 578,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "312396",
+            "TO": "Andy Geertsma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-966-8420"
+        },
+        {
+            "TOUNIQUENUMBER": "312397",
+            "TO": "Christy Geertsma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-966-8420"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B17025",
+            "Umbrella": "Geertsma Homes",
+            "Umbrella ID": "3453",
+            "VB_NAME": "Geertsma Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B17025",
+            "MEMBERNAME": "Geertsma Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Riverstone",
+            "Project Status": null,
+            "Location": "BELLEVILLE",
+            "Address": "  Riverstone Way and Farnham Road ",
+            "# of Units": 84,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Balsam Court Condominiums",
+            "Project Status": "In Progress",
+            "Location": "BELLEVILLE",
+            "Address": " 650 Sidney Street ",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Northgate Condominiums",
+            "Project Status": "In Progress",
+            "Location": "BELLEVILLE",
+            "Address": " 99 Cloverleaf Drive ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Augusta Glen Condominium",
+            "Project Status": "Completed",
+            "Location": "KINGSTON",
+            "Address": "740 Augusta Dr.",
+            "# of Units": 41,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-01-04"
+        },
+        {
+            "Condo Project Name": "Hanover Place Condominiums",
+            "Project Status": "Completed",
+            "Location": "BELLEVILLE",
+            "Address": "24 & 26 Hanover Crt.",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-01-07"
+        },
+        {
+            "Condo Project Name": "WESTVIEW VILLAGE - 2",
+            "Project Status": "Completed",
+            "Location": "PETERBOROUGH",
+            "Address": "3-11 Hickory  Crt.",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-11-29"
+        },
+        {
+            "Condo Project Name": "Eastgate Condominiums",
+            "Project Status": "Completed",
+            "Location": "BELLEVILLE",
+            "Address": "194 Haig Rd.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-08-19"
+        },
+        {
+            "Condo Project Name": "Hanover Place Condominiums",
+            "Project Status": "Completed",
+            "Location": "BELLEVILLE",
+            "Address": "24 & 26 Hanover Crt.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-07-05"
+        },
+        {
+            "Condo Project Name": "WESTVIEW VILLAGE - 2",
+            "Project Status": "Completed",
+            "Location": "PETERBOROUGH",
+            "Address": "2-10 Aspen Crt.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-09-20"
+        },
+        {
+            "Condo Project Name": "WESTVIEW VILLAGE",
+            "Project Status": "Completed",
+            "Location": "PETERBOROUGH",
+            "Address": "Village Cres.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-03-16"
+        },
+        {
+            "Condo Project Name": "Eastgate Condominiums",
+            "Project Status": "Completed",
+            "Location": "BELLEVILLE",
+            "Address": "194 Haig Rd.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-07-07"
+        },
+        {
+            "Condo Project Name": "WESTVIEW VILLAGE",
+            "Project Status": "Completed",
+            "Location": "PETERBOROUGH",
+            "Address": "Village Cres.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-03-03"
+        },
+        {
+            "Condo Project Name": "WESTVIEW VILLAGE",
+            "Project Status": "Completed",
+            "Location": "PETERBOROUGH",
+            "Address": "Village Cres.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-09-14"
+        },
+        {
+            "Condo Project Name": "Eastgate Condominiums",
+            "Project Status": "Completed",
+            "Location": "BELLEVILLE",
+            "Address": " 194 Haig Rd. ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-06-30"
+        },
+        {
+            "Condo Project Name": "Eastgate Condominiums",
+            "Project Status": "Completed",
+            "Location": "BELLEVILLE",
+            "Address": " 194 Haig Rd. ",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-10-21"
+        },
+        {
+            "Condo Project Name": "Eastgate Condominiums",
+            "Project Status": "Completed",
+            "Location": "BELLEVILLE",
+            "Address": " 194 Haig Rd. ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-01-21"
+        },
+        {
+            "Condo Project Name": "\"KINGS COURT CONDOMINIUMS\"",
+            "Project Status": "Completed",
+            "Location": "BELLEVILLE",
+            "Address": " 15 Heartwood Dr. ",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-11-17"
+        },
+        {
+            "Condo Project Name": "LIONSgate II PHASE II",
+            "Project Status": "Completed",
+            "Location": "BELLEVILLE",
+            "Address": " 35 Heartwood Dr. ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-02-13"
+        },
+        {
+            "Condo Project Name": "LIONSgate II Condominiums",
+            "Project Status": "Completed",
+            "Location": "BELLEVILLE",
+            "Address": "35 Heartwood Dr.",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-06-11"
+        },
+        {
+            "Condo Project Name": "LIONSGATE CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "BELLEVILLE",
+            "Address": "25 Heartwood Dr.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-09-05"
+        },
+        {
+            "Condo Project Name": "THE WESTWIND PICTON PHASE II",
+            "Project Status": "Completed",
+            "Location": "PICTON",
+            "Address": "8 Talbot St.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-08-30"
+        }
+    ],
+    "builderConditions": []
+}

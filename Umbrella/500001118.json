@@ -1,0 +1,70 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Neatt Communities",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": null,
+            "TOTALUNITS": null,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": null,
+            "ADDRESS": "775 Main Street East",
+            "TELEPHONE": "416-990-4927",
+            "FAX": null,
+            "WEBSITEURL": "https://neattcommunities.com",
+            "EMAIL": "mike@neattcommunities.com",
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Neatt Communities (Nipissing) Inc.",
+            "MEMBEROPERATINGNAME": "Neatt Communities (Nipissing) Inc.",
+            "MEMBERVBNUM": "B60950",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Neatt Communities Inc.",
+            "MEMBEROPERATINGNAME": "Neatt Communities Inc.",
+            "MEMBERVBNUM": "B60790",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Stationside Phase 2",
+            "Account Number": "B60950",
+            "Project Status": null,
+            "Location": "MILTON",
+            "Address": " 135 & 145 Nipissing Rd. ",
+            "# of Units": 345,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Stationside",
+            "Account Number": "B60950",
+            "Project Status": null,
+            "Location": "MILTON",
+            "Address": " 135 & 145 Nipissing Road ",
+            "# of Units": 268,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ]
+}

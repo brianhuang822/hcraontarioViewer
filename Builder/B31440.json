@@ -1,0 +1,122 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31440",
+            "Umbrella": "Sapphire Homes",
+            "Umbrella ID": "12544536",
+            "VB_NAME": "Sapphire Homes of Niagara Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "ST. CATHARINES",
+            "HCRA_INITIALLICENSEDATE": "2001-04-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-04-11 12:00:21.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "200 Woodside Dr.",
+            "TELEPHONE": "905-685-8589",
+            "FAX": "905-685-6865",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343086",
+            "TO": "John Russell Bufalino",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-360-0247"
+        },
+        {
+            "TOUNIQUENUMBER": "343086",
+            "TO": "John Russell Bufalino",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-360-0247"
+        },
+        {
+            "TOUNIQUENUMBER": "343086",
+            "TO": "John Russell Bufalino",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-360-0247"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31440",
+            "Umbrella": "Sapphire Homes",
+            "Umbrella ID": "12544536",
+            "VB_NAME": "Sapphire Homes of Niagara Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45948",
+            "MEMBERNAME": "2109075 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31440",
+            "Umbrella": "Sapphire Homes",
+            "Umbrella ID": "12544536",
+            "VB_NAME": "Sapphire Homes of Niagara Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45211",
+            "MEMBERNAME": "Sapphire Construction of Niagara Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31440",
+            "Umbrella": "Sapphire Homes",
+            "Umbrella ID": "12544536",
+            "VB_NAME": "Sapphire Homes of Niagara Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31440",
+            "MEMBERNAME": "Sapphire Homes of Niagara Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31440",
+            "Umbrella": "Sapphire Homes",
+            "Umbrella ID": "12544536",
+            "VB_NAME": "Sapphire Homes of Niagara Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B61125",
+            "MEMBERNAME": "Bufalino And Hummel Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Sapphire Estates",
+            "Project Status": "Completed",
+            "Location": "ST CATHARINES",
+            "Address": "1 Emerald Common",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-10-19"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33319",
+            "Umbrella": "Park View Home",
+            "Umbrella ID": "11908409",
+            "VB_NAME": "1503893 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "North Gower",
+            "HCRA_INITIALLICENSEDATE": "2003-05-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-12 20:33:05.000 +0000",
+            "Expiry Date": "2024-06-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6750 Fourth Line Road",
+            "TELEPHONE": "613-489-3838",
+            "FAX": "613-489-3169",
+            "WEBSITEURL": "www.parkviewhomes.info",
+            "EMAIL": "joanne@parkviewhomes.info",
+            "ACCOUNTNUMBER": "B33319",
+            "Total Outstanding Amount": 17745.4,
+            "TAB": 10566.44,
+            "BREACH": 7178.96,
+            "SUMM_FREEHOLD": 643,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 643,
+            "SUMM_CC": 12,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 6138.49,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 6138.49
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11777136",
+            "TO": "Andrew Cinnamon",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-489-0120"
+        },
+        {
+            "TOUNIQUENUMBER": "11777136",
+            "TO": "Andrew Cinnamon",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-489-0120"
+        },
+        {
+            "TOUNIQUENUMBER": "11777136",
+            "TO": "Andrew Cinnamon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-489-0120"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33319",
+            "Umbrella": "Park View Home",
+            "Umbrella ID": "11908409",
+            "VB_NAME": "1503893 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32279",
+            "MEMBERNAME": "1168768 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "ABC Plumbing",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33319",
+            "Umbrella": "Park View Home",
+            "Umbrella ID": "11908409",
+            "VB_NAME": "1503893 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41492",
+            "MEMBERNAME": "2261604 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33319",
+            "Umbrella": "Park View Home",
+            "Umbrella ID": "11908409",
+            "VB_NAME": "1503893 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33319",
+            "MEMBERNAME": "1503893 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

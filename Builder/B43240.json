@@ -1,0 +1,141 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43240",
+            "Umbrella": "Ottawa General Contractors",
+            "Umbrella ID": "12547318",
+            "VB_NAME": "Ottawa General Contractors Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2013-10-30",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-10-11 00:47:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1886 Merivale Rd., Ste. 200",
+            "TELEPHONE": "613/225-9991",
+            "FAX": "18668486082",
+            "WEBSITEURL": "www.ottawageneralcontractors.com",
+            "EMAIL": "fatima@ottawageneralcontractors.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100197801",
+            "TO": "Brent Kelly",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "100398987",
+            "TO": "James Walker",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-225-9991"
+        },
+        {
+            "TOUNIQUENUMBER": "100191821",
+            "TO": "Mohamad Abbas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-225-9991"
+        },
+        {
+            "TOUNIQUENUMBER": "100191821",
+            "TO": "Mohamad Abbas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-225-9991"
+        },
+        {
+            "TOUNIQUENUMBER": "100191821",
+            "TO": "Mohamad Abbas",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-225-9991"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108661",
+            "CHARGE_AGAINST": "Ottawa General Contractors Ltd.",
+            "CHARGE_DATE": "2016-02-29",
+            "DISPOSITION_DATE": "2016-07-13",
+            "THE_FINE_": "2500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "625",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326682",
+            "ORGANIZATION_NAME": "Ottawa General Contractors Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Wendover, ON",
+            "CITY_DEFENCE": "Ottawa, ON",
+            "VB_NUMBER": "B43240",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108661 9326682",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Alfred and Plantagenet, Township                  ",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2014-12-11",
+            "TO_OFFENCE_DATE": "2016-03-01",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "3125",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B43240",
+            "Umbrella": "Ottawa General Contractors",
+            "Umbrella ID": "12547318",
+            "VB_NAME": "Ottawa General Contractors Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46582",
+            "MEMBERNAME": "OGC Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43240",
+            "Umbrella": "Ottawa General Contractors",
+            "Umbrella ID": "12547318",
+            "VB_NAME": "Ottawa General Contractors Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43240",
+            "MEMBERNAME": "Ottawa General Contractors Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35567",
+            "Umbrella": "Bob Davis Building Contractor",
+            "Umbrella ID": "12541223",
+            "VB_NAME": "Bob Davis Building Contractor Limited",
+            "OPERATINGNAME": null,
+            "CITY": "UXBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2005-07-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-07-19 15:00:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9450 Durham Rd. 1, PO Box 141",
+            "TELEPHONE": "(905)852-6324",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344846",
+            "TO": "Robert Davis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-852-6324"
+        },
+        {
+            "TOUNIQUENUMBER": "344846",
+            "TO": "Robert Davis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-852-6324"
+        },
+        {
+            "TOUNIQUENUMBER": "344846",
+            "TO": "Robert Davis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-852-6324"
+        },
+        {
+            "TOUNIQUENUMBER": "12076429",
+            "TO": "Jean Davis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-852-6324"
+        },
+        {
+            "TOUNIQUENUMBER": "12076429",
+            "TO": "Jean Davis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-852-6324"
+        },
+        {
+            "TOUNIQUENUMBER": "12076429",
+            "TO": "Jean Davis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-852-6324"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35567",
+            "Umbrella": "Bob Davis Building Contractor",
+            "Umbrella ID": "12541223",
+            "VB_NAME": "Bob Davis Building Contractor Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35567",
+            "MEMBERNAME": "Bob Davis Building Contractor Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35567",
+            "Umbrella": "Bob Davis Building Contractor",
+            "Umbrella ID": "12541223",
+            "VB_NAME": "Bob Davis Building Contractor Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28189",
+            "MEMBERNAME": "1331242 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

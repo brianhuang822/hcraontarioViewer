@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B3954",
+            "Umbrella": "Coachlamp Homes",
+            "Umbrella ID": "12539791",
+            "VB_NAME": "Coachlamp Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "BOBCAYGEON",
+            "HCRA_INITIALLICENSEDATE": "1981-04-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-04-17 15:11:43.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 308",
+            "TELEPHONE": "(705)738-5000",
+            "FAX": "(705)738-5404",
+            "WEBSITEURL": null,
+            "EMAIL": "coachlamp@i-zoom.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "325537",
+            "TO": "Paul Douglas Pankhurst",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-738-0005"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B3954",
+            "Umbrella": "Coachlamp Homes",
+            "Umbrella ID": "12539791",
+            "VB_NAME": "Coachlamp Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B4230",
+            "MEMBERNAME": "Bobcaygeon Heights Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B3954",
+            "Umbrella": "Coachlamp Homes",
+            "Umbrella ID": "12539791",
+            "VB_NAME": "Coachlamp Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B3954",
+            "MEMBERNAME": "Coachlamp Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "BOBCAYGEON",
+            "Address": "1 Sherwood St.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-12-09"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "BOBCAYGEON",
+            "Address": "1 Sherwood St.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-12-09"
+        }
+    ],
+    "builderConditions": []
+}

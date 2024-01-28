@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39459",
+            "Umbrella": "RND Construction",
+            "Umbrella ID": "11985431",
+            "VB_NAME": "RND Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2009-02-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-11 13:03:50.000 +0000",
+            "Expiry Date": "2025-02-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "675 Industrial Avenue",
+            "TELEPHONE": "613-523-8598",
+            "FAX": "613-523-1354",
+            "WEBSITEURL": "www.rndconstruction.ca",
+            "EMAIL": "roy@rndconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 31,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 31,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11977698",
+            "TO": "Diane Alice Gagnon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-523-8598"
+        },
+        {
+            "TOUNIQUENUMBER": "324242",
+            "TO": "Kamal Nandram",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-523-8598"
+        },
+        {
+            "TOUNIQUENUMBER": "324242",
+            "TO": "Kamal Nandram",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-523-8598"
+        },
+        {
+            "TOUNIQUENUMBER": "324242",
+            "TO": "Kamal Nandram",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-523-8598"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39459",
+            "Umbrella": "RND Construction",
+            "Umbrella ID": "11985431",
+            "VB_NAME": "RND Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39459",
+            "MEMBERNAME": "RND Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39459",
+            "Umbrella": "RND Construction",
+            "Umbrella ID": "11985431",
+            "VB_NAME": "RND Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B21984",
+            "MEMBERNAME": "895547 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "RND Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39459",
+            "Umbrella": "RND Construction",
+            "Umbrella ID": "11985431",
+            "VB_NAME": "RND Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34103",
+            "MEMBERNAME": "RND Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

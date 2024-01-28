@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36070",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Alai Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2005-11-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-12-01 18:28:40.000 +0000",
+            "Expiry Date": "2023-11-08",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "18 Alai Circle",
+            "TELEPHONE": "416-917-1250",
+            "FAX": "905-477-0582",
+            "WEBSITEURL": " ",
+            "EMAIL": "alawnlai@softwaregazette.com",
+            "ACCOUNTNUMBER": "B36070",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12108932",
+            "TO": "Alawn Lai",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-917-1250"
+        },
+        {
+            "TOUNIQUENUMBER": "12108932",
+            "TO": "Alawn Lai",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-917-1250"
+        },
+        {
+            "TOUNIQUENUMBER": "12108932",
+            "TO": "Alawn Lai",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-917-1250"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36070",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Alai Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Alai Garden",
+            "Project Status": null,
+            "Location": "MARKHAM",
+            "Address": " 7713 Kennedy Rd. ",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

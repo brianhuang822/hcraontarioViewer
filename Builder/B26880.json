@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26880",
+            "Umbrella": "5 King West",
+            "Umbrella ID": "12540899",
+            "VB_NAME": "5 King West Inc.",
+            "OPERATINGNAME": "5 King West",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1998-04-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2002-10-17 00:29:48.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5 King St. W.",
+            "TELEPHONE": "(416)363-7399",
+            "FAX": "(416)363-7254",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329707",
+            "TO": "Harry Stinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-389-1022"
+        },
+        {
+            "TOUNIQUENUMBER": "329707",
+            "TO": "Harry Stinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-389-1022"
+        },
+        {
+            "TOUNIQUENUMBER": "329707",
+            "TO": "Harry Stinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-389-1022"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26880",
+            "Umbrella": "5 King West",
+            "Umbrella ID": "12540899",
+            "VB_NAME": "5 King West Inc.",
+            "OPERATINGNAME": "5 King West",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32087",
+            "MEMBERNAME": "High Park Lofts Ltd.",
+            "MEMBEROPERATINGNAME": "High Park Lofts",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B26880",
+            "Umbrella": "5 King West",
+            "Umbrella ID": "12540899",
+            "VB_NAME": "5 King West Inc.",
+            "OPERATINGNAME": "5 King West",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26880",
+            "MEMBERNAME": "5 King West Inc.",
+            "MEMBEROPERATINGNAME": "5 King West",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

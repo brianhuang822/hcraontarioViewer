@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B17727",
+            "Umbrella": "Wendorf Group of Companies",
+            "Umbrella ID": "12541861",
+            "VB_NAME": "510758 Ontario Limited",
+            "OPERATINGNAME": "Wendorf Construction",
+            "CITY": "WAHNAPITAE",
+            "HCRA_INITIALLICENSEDATE": "1989-04-20",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2000-02-02 22:42:25.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "350 Bayview Crt., Box 40",
+            "TELEPHONE": "(705)694-5122",
+            "FAX": "(705)694-3227",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336376",
+            "TO": "Frank Wendorf",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-691-3978"
+        },
+        {
+            "TOUNIQUENUMBER": "336376",
+            "TO": "Frank Wendorf",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-691-3978"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B17727",
+            "Umbrella": "Wendorf Group of Companies",
+            "Umbrella ID": "12541861",
+            "VB_NAME": "510758 Ontario Limited",
+            "OPERATINGNAME": "Wendorf Construction",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B2381",
+            "MEMBERNAME": "Frank Wendorf",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B17727",
+            "Umbrella": "Wendorf Group of Companies",
+            "Umbrella ID": "12541861",
+            "VB_NAME": "510758 Ontario Limited",
+            "OPERATINGNAME": "Wendorf Construction",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B17727",
+            "MEMBERNAME": "510758 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Wendorf Construction",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B17727",
+            "Umbrella": "Wendorf Group of Companies",
+            "Umbrella ID": "12541861",
+            "VB_NAME": "510758 Ontario Limited",
+            "OPERATINGNAME": "Wendorf Construction",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B36401",
+            "MEMBERNAME": "2169289 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed with Conditions"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62250",
+            "Umbrella": "Nortterra",
+            "Umbrella ID": "500002338",
+            "VB_NAME": "Nortterra Meaford II Inc.",
+            "OPERATINGNAME": "Nortterra Meaford II Inc.",
+            "CITY": "Bala",
+            "HCRA_INITIALLICENSEDATE": "2023-06-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-06 12:28:55.000 +0000",
+            "Expiry Date": "2024-06-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3785 Muskoka District Road 169",
+            "TELEPHONE": "705-446-5507",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "info@nortterra.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100554448",
+            "TO": "Stephen MacDonald",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-706-3622"
+        },
+        {
+            "TOUNIQUENUMBER": "100554448",
+            "TO": "Stephen MacDonald",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-706-3622"
+        },
+        {
+            "TOUNIQUENUMBER": "600010332",
+            "TO": "Zach Woloschuk",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-446-5507"
+        },
+        {
+            "TOUNIQUENUMBER": "600010332",
+            "TO": "Zach Woloschuk",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-446-5507"
+        },
+        {
+            "TOUNIQUENUMBER": "600010332",
+            "TO": "Zach Woloschuk",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-446-5507"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62250",
+            "Umbrella": "Nortterra",
+            "Umbrella ID": "500002338",
+            "VB_NAME": "Nortterra Meaford II Inc.",
+            "OPERATINGNAME": "Nortterra Meaford II Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62250",
+            "MEMBERNAME": "Nortterra Meaford II Inc.",
+            "MEMBEROPERATINGNAME": "Nortterra Meaford II Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62250",
+            "Umbrella": "Nortterra",
+            "Umbrella ID": "500002338",
+            "VB_NAME": "Nortterra Meaford II Inc.",
+            "OPERATINGNAME": "Nortterra Meaford II Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61253",
+            "MEMBERNAME": "Nortterra Development Group Inc.",
+            "MEMBEROPERATINGNAME": "Nortterra Development Group Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

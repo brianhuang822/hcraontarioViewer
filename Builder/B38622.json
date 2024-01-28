@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38622",
+            "Umbrella": "Ecuabuilder",
+            "Umbrella ID": "12541172",
+            "VB_NAME": "Ecuabuilder Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2008-06-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-06-27 15:01:26.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "153 St. Clarens Ave.",
+            "TELEPHONE": "416-536-4294",
+            "FAX": "416-533-8466",
+            "WEBSITEURL": null,
+            "EMAIL": "ecuabuilder@aol.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "334644",
+            "TO": "Maria Pillajo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-536-4294"
+        },
+        {
+            "TOUNIQUENUMBER": "334644",
+            "TO": "Maria Pillajo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-536-4294"
+        },
+        {
+            "TOUNIQUENUMBER": "344967",
+            "TO": "Luis Calle",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-533-8466"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38622",
+            "Umbrella": "Ecuabuilder",
+            "Umbrella ID": "12541172",
+            "VB_NAME": "Ecuabuilder Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38622",
+            "MEMBERNAME": "Ecuabuilder Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38622",
+            "Umbrella": "Ecuabuilder",
+            "Umbrella ID": "12541172",
+            "VB_NAME": "Ecuabuilder Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40596",
+            "MEMBERNAME": "Ecuabuilder Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38622",
+            "Umbrella": "Ecuabuilder",
+            "Umbrella ID": "12541172",
+            "VB_NAME": "Ecuabuilder Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37091",
+            "MEMBERNAME": "Ecuabuilder Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38622",
+            "Umbrella": "Ecuabuilder",
+            "Umbrella ID": "12541172",
+            "VB_NAME": "Ecuabuilder Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28271",
+            "MEMBERNAME": "1184131 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Ecuarenovations",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B20680",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Cochren Bros. Limited",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "1991-03-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1997-12-23 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "390 Lake Ave. N.",
+            "TELEPHONE": "(905)561-0635",
+            "FAX": "(905)561-2971",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "306549",
+            "TO": "John Cochren",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-3204"
+        },
+        {
+            "TOUNIQUENUMBER": "306549",
+            "TO": "John Cochren",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-3204"
+        },
+        {
+            "TOUNIQUENUMBER": "306549",
+            "TO": "John Cochren",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-3204"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B20680",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Cochren Bros. Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WES-LI GARDENS",
+            "Project Status": "Completed",
+            "Location": "SMITHVILLE",
+            "Address": "6 Garden Avenue",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-08-08"
+        },
+        {
+            "Condo Project Name": "WES-LI GARDENS",
+            "Project Status": "Completed",
+            "Location": "SMITHVILLE",
+            "Address": "Garden Ave.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-02-07"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34627",
+            "Umbrella": "Bob Pollard Construction",
+            "Umbrella ID": "12015258",
+            "VB_NAME": "Bob Pollard Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "WESTPORT",
+            "HCRA_INITIALLICENSEDATE": "2004-06-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-06-30 12:00:31.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 83 R.R. 1",
+            "TELEPHONE": "613-273-6474",
+            "FAX": "613-273-6099",
+            "WEBSITEURL": null,
+            "EMAIL": "bpollard@kingston.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11767716",
+            "TO": "Catherine Pollard",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11767716",
+            "TO": "Catherine Pollard",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11767716",
+            "TO": "Catherine Pollard",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11763360",
+            "TO": "Bob (Robert) Pollard",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-273-6474"
+        },
+        {
+            "TOUNIQUENUMBER": "11763360",
+            "TO": "Bob (Robert) Pollard",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-273-6474"
+        },
+        {
+            "TOUNIQUENUMBER": "11763360",
+            "TO": "Bob (Robert) Pollard",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-273-6474"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34627",
+            "Umbrella": "Bob Pollard Construction",
+            "Umbrella ID": "12015258",
+            "VB_NAME": "Bob Pollard Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34627",
+            "MEMBERNAME": "Bob Pollard Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34627",
+            "Umbrella": "Bob Pollard Construction",
+            "Umbrella ID": "12015258",
+            "VB_NAME": "Bob Pollard Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32131",
+            "MEMBERNAME": "Bob Pollard",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

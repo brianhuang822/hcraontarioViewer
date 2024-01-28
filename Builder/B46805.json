@@ -1,0 +1,152 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46805",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "1475649 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "OAKVILLE",
+            "HCRA_INITIALLICENSEDATE": "2018-02-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-02-22 14:00:41.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "447 Kerr St.",
+            "TELEPHONE": "905/339-0223",
+            "FAX": "905/844-5277",
+            "WEBSITEURL": "dqi.ca",
+            "EMAIL": "scott@dqi.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 7,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344403",
+            "TO": "Jonathan Sprawson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-0223"
+        },
+        {
+            "TOUNIQUENUMBER": "344403",
+            "TO": "Jonathan Sprawson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-0223"
+        },
+        {
+            "TOUNIQUENUMBER": "344403",
+            "TO": "Jonathan Sprawson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-0223"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46805",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "1475649 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38361",
+            "MEMBERNAME": "1475649 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Millpond Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46805",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "1475649 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37895",
+            "MEMBERNAME": "1578443 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46805",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "1475649 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27880",
+            "MEMBERNAME": "D.Q.I. Design Quorum Incorporated",
+            "MEMBEROPERATINGNAME": "D.Q.I.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46805",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "1475649 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46805",
+            "MEMBERNAME": "1475649 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Millpond Homes",
+            "Project Status": "Completed",
+            "Location": "THORNBURY",
+            "Address": "59 King St. E.",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-12-04"
+        },
+        {
+            "Condo Project Name": "Millpond Homes",
+            "Project Status": "Completed",
+            "Location": "THORNBURY",
+            "Address": "59 King St. E.",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-27"
+        },
+        {
+            "Condo Project Name": "Millpond Homes",
+            "Project Status": "Completed",
+            "Location": "THORNBURY",
+            "Address": "59 King St. E.",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-12-04"
+        },
+        {
+            "Condo Project Name": "Millpond Homes",
+            "Project Status": "Completed",
+            "Location": "THORNBURY",
+            "Address": "63 King St., E.",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-01-31"
+        }
+    ],
+    "builderConditions": []
+}

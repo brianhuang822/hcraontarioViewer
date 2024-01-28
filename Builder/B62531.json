@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62531",
+            "Umbrella": "John Gerard Homes",
+            "Umbrella ID": "500002456",
+            "VB_NAME": "1000342159 Ontario Inc.",
+            "OPERATINGNAME": "1000342159 Ontario Inc.",
+            "CITY": "Manotick",
+            "HCRA_INITIALLICENSEDATE": "2023-09-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-19 15:36:06.000 +0000",
+            "Expiry Date": "2024-09-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6016 Knights Drive",
+            "TELEPHONE": "613-298-1167",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "johncrandlemire@me.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "307232",
+            "TO": "John Crandlemire",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-0494"
+        },
+        {
+            "TOUNIQUENUMBER": "307232",
+            "TO": "John Crandlemire",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-0494"
+        },
+        {
+            "TOUNIQUENUMBER": "307232",
+            "TO": "John Crandlemire",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-0494"
+        },
+        {
+            "TOUNIQUENUMBER": "319109",
+            "TO": "Gerard Lavimodiere",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-0733"
+        },
+        {
+            "TOUNIQUENUMBER": "319109",
+            "TO": "Gerard Lavimodiere",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-0733"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62531",
+            "Umbrella": "John Gerard Homes",
+            "Umbrella ID": "500002456",
+            "VB_NAME": "1000342159 Ontario Inc.",
+            "OPERATINGNAME": "1000342159 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B18444",
+            "MEMBERNAME": "862820 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "John Gerard Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62531",
+            "Umbrella": "John Gerard Homes",
+            "Umbrella ID": "500002456",
+            "VB_NAME": "1000342159 Ontario Inc.",
+            "OPERATINGNAME": "1000342159 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62531",
+            "MEMBERNAME": "1000342159 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "1000342159 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62531",
+            "Umbrella": "John Gerard Homes",
+            "Umbrella ID": "500002456",
+            "VB_NAME": "1000342159 Ontario Inc.",
+            "OPERATINGNAME": "1000342159 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62349",
+            "MEMBERNAME": "1000017283 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Gerard and Sons Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

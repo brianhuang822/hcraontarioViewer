@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44928",
+            "Umbrella": "Van-Del Contracting",
+            "Umbrella ID": "12544255",
+            "VB_NAME": "VanDel Construction Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Bloomingdale",
+            "HCRA_INITIALLICENSEDATE": "2016-01-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-09 19:53:06.000 +0000",
+            "Expiry Date": "2025-01-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "835 Sawmill Road",
+            "TELEPHONE": "519-743-4133",
+            "FAX": "519-743-4132",
+            "WEBSITEURL": "https://www.vandel.ca",
+            "EMAIL": "michael@vandel.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100624195",
+            "TO": "Jeffrey Almond",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-743-4133"
+        },
+        {
+            "TOUNIQUENUMBER": "100624195",
+            "TO": "Jeffrey Almond",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-743-4133"
+        },
+        {
+            "TOUNIQUENUMBER": "100624194",
+            "TO": "David Kittel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-743-4133"
+        },
+        {
+            "TOUNIQUENUMBER": "100624194",
+            "TO": "David Kittel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-743-4133"
+        },
+        {
+            "TOUNIQUENUMBER": "100624193",
+            "TO": "Michael Harris",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-743-4133"
+        },
+        {
+            "TOUNIQUENUMBER": "100624193",
+            "TO": "Michael Harris",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-743-4133"
+        },
+        {
+            "TOUNIQUENUMBER": "12526796",
+            "TO": "Donald Stevanus",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-743-4133"
+        },
+        {
+            "TOUNIQUENUMBER": "12526796",
+            "TO": "Donald Stevanus",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-743-4133"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44928",
+            "Umbrella": "Van-Del Contracting",
+            "Umbrella ID": "12544255",
+            "VB_NAME": "VanDel Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60809",
+            "MEMBERNAME": "WalterRidge Development Corp.",
+            "MEMBEROPERATINGNAME": "WalterRidge Development Corp.",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44928",
+            "Umbrella": "Van-Del Contracting",
+            "Umbrella ID": "12544255",
+            "VB_NAME": "VanDel Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44928",
+            "MEMBERNAME": "VanDel Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44928",
+            "Umbrella": "Van-Del Contracting",
+            "Umbrella ID": "12544255",
+            "VB_NAME": "VanDel Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41933",
+            "MEMBERNAME": "Van-Del Contracting Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

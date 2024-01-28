@@ -1,0 +1,154 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41390",
+            "Umbrella": "Gareene Homes/VHL Developments",
+            "Umbrella ID": "11728976",
+            "VB_NAME": "V.H.L. Developments (2150) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2011-08-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-16 20:07:42.000 +0000",
+            "Expiry Date": "2024-08-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "200 Yorkland Boulevard",
+            "TELEPHONE": null,
+            "FAX": "416-391-4967",
+            "WEBSITEURL": "www.vhldevelopments.com",
+            "EMAIL": "puran@vhldevelopments.com",
+            "ACCOUNTNUMBER": "B41390",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 561,
+            "SUMM_TOTAL": 561,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 4910.72,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 4910.72
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "318950",
+            "TO": "Varoujan Lapoyan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-4870"
+        },
+        {
+            "TOUNIQUENUMBER": "318950",
+            "TO": "Varoujan Lapoyan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-4870"
+        },
+        {
+            "TOUNIQUENUMBER": "318950",
+            "TO": "Varoujan Lapoyan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-4870"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41390",
+            "Umbrella": "Gareene Homes/VHL Developments",
+            "Umbrella ID": "11728976",
+            "VB_NAME": "V.H.L. Developments (2150) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27045",
+            "MEMBERNAME": "V.H.L. Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41390",
+            "Umbrella": "Gareene Homes/VHL Developments",
+            "Umbrella ID": "11728976",
+            "VB_NAME": "V.H.L. Developments (2150) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41390",
+            "MEMBERNAME": "V.H.L. Developments (2150) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41390",
+            "Umbrella": "Gareene Homes/VHL Developments",
+            "Umbrella ID": "11728976",
+            "VB_NAME": "V.H.L. Developments (2150) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36318",
+            "MEMBERNAME": "V.H.L. Developments (Markham Place) Inc.",
+            "MEMBEROPERATINGNAME": "Markham Place",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41390",
+            "Umbrella": "Gareene Homes/VHL Developments",
+            "Umbrella ID": "11728976",
+            "VB_NAME": "V.H.L. Developments (2150) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B21525",
+            "MEMBERNAME": "Gareene Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41390",
+            "Umbrella": "Gareene Homes/VHL Developments",
+            "Umbrella ID": "11728976",
+            "VB_NAME": "V.H.L. Developments (2150) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42275",
+            "MEMBERNAME": "V.H.L. Developments (Bluffs) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "2150 Condos, Phase 3",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 2152 Lawrence Ave. E. ",
+            "# of Units": 132,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-07-27"
+        },
+        {
+            "Condo Project Name": "2150 Condos, Phase 2",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": " 2150 Lawrence Ave., E. ",
+            "# of Units": 204,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-04-17"
+        },
+        {
+            "Condo Project Name": "2150",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "1328 Birchmount Rd.",
+            "# of Units": 228,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-01-13"
+        }
+    ],
+    "builderConditions": []
+}

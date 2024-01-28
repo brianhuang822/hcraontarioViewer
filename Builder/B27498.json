@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27498",
+            "Umbrella": "Brenner Construction",
+            "Umbrella ID": "1255",
+            "VB_NAME": "606815 Ontario Limited",
+            "OPERATINGNAME": "Brenner Homes",
+            "CITY": "SHARON",
+            "HCRA_INITIALLICENSEDATE": "1998-06-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-06-17 12:00:44.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "112 Jennifer Cres.",
+            "TELEPHONE": "(905)478-2058",
+            "FAX": "(905)478-8304",
+            "WEBSITEURL": " ",
+            "EMAIL": "brennerhomes@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344013",
+            "TO": "Janet Brenner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "344013",
+            "TO": "Janet Brenner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "344013",
+            "TO": "Janet Brenner",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "304108",
+            "TO": "Arvey Brenner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-478-2058"
+        },
+        {
+            "TOUNIQUENUMBER": "304108",
+            "TO": "Arvey Brenner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-478-2058"
+        },
+        {
+            "TOUNIQUENUMBER": "304108",
+            "TO": "Arvey Brenner",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-478-2058"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27498",
+            "Umbrella": "Brenner Construction",
+            "Umbrella ID": "1255",
+            "VB_NAME": "606815 Ontario Limited",
+            "OPERATINGNAME": "Brenner Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27498",
+            "MEMBERNAME": "606815 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Brenner Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27498",
+            "Umbrella": "Brenner Construction",
+            "Umbrella ID": "1255",
+            "VB_NAME": "606815 Ontario Limited",
+            "OPERATINGNAME": "Brenner Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B5817",
+            "MEMBERNAME": "Brenner Construction",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

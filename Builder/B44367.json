@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44367",
+            "Umbrella": "Wilkinson Group of Companies",
+            "Umbrella ID": "12543436",
+            "VB_NAME": "Wilkinson Construction Services Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2015-09-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-31 22:10:14.000 +0000",
+            "Expiry Date": "2024-12-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "37 Polson Street",
+            "TELEPHONE": "416-449-4441",
+            "FAX": "416-449-4442",
+            "WEBSITEURL": "http://www.wilkinsonconstruction.ca",
+            "EMAIL": "andrew@wilkinsonconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12310509",
+            "TO": "John Wilkinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4441"
+        },
+        {
+            "TOUNIQUENUMBER": "12310509",
+            "TO": "John Wilkinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4441"
+        },
+        {
+            "TOUNIQUENUMBER": "12310509",
+            "TO": "John Wilkinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4441"
+        },
+        {
+            "TOUNIQUENUMBER": "100198945",
+            "TO": "Jeff Wilkinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4441"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44367",
+            "Umbrella": "Wilkinson Group of Companies",
+            "Umbrella ID": "12543436",
+            "VB_NAME": "Wilkinson Construction Services Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44367",
+            "MEMBERNAME": "Wilkinson Construction Services Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44367",
+            "Umbrella": "Wilkinson Group of Companies",
+            "Umbrella ID": "12543436",
+            "VB_NAME": "Wilkinson Construction Services Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61927",
+            "MEMBERNAME": "Wilkinson Broadview Inc.",
+            "MEMBEROPERATINGNAME": "Wilkinson Broadview Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44367",
+            "Umbrella": "Wilkinson Group of Companies",
+            "Umbrella ID": "12543436",
+            "VB_NAME": "Wilkinson Construction Services Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39122",
+            "MEMBERNAME": "Wilkinson Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44367",
+            "Umbrella": "Wilkinson Group of Companies",
+            "Umbrella ID": "12543436",
+            "VB_NAME": "Wilkinson Construction Services Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61715",
+            "MEMBERNAME": "Wilkinson Manderley Inc.",
+            "MEMBEROPERATINGNAME": "Wilkinson Manderley Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "NOTTINGHILL",
+            "Project Status": null,
+            "Location": "CAMBRIDGE",
+            "Address": " 825-875 Main Street ",
+            "# of Units": 96,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

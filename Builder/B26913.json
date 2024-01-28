@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26913",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "AMC Real Estate Management & Services Corporation",
+            "OPERATINGNAME": "Elite Homes",
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "1997-12-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-24 19:27:49.000 +0000",
+            "Expiry Date": "2024-12-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5273 Drenkelly Court",
+            "TELEPHONE": "905-812-1533",
+            "FAX": "905-812-4998",
+            "WEBSITEURL": " ",
+            "EMAIL": "anteros@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338051",
+            "TO": "Antonio Maggio",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-812-1533"
+        },
+        {
+            "TOUNIQUENUMBER": "338051",
+            "TO": "Antonio Maggio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-812-1533"
+        },
+        {
+            "TOUNIQUENUMBER": "338051",
+            "TO": "Antonio Maggio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-812-1533"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26913",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "AMC Real Estate Management & Services Corporation",
+            "OPERATINGNAME": "Elite Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WALKER'S POINT",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "476 Walker'S Line",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-08-14"
+        },
+        {
+            "Condo Project Name": "WALKER'S POINT",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "476 Walker'S Line",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-08-19"
+        }
+    ],
+    "builderConditions": []
+}

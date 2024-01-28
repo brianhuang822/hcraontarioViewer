@@ -1,0 +1,154 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34548",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Country View Pointe Inc.",
+            "OPERATINGNAME": "Spring Pointe",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2004-08-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-09-16 02:26:14.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Blaney McMurtry",
+            "TELEPHONE": "416/593-2986",
+            "FAX": "416/593-5437",
+            "WEBSITEURL": "www.pointeofview.com",
+            "EMAIL": "tevans@blaney.com",
+            "ACCOUNTNUMBER": "B34548",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 32,
+            "SUMM_MINOR_AMT": 195484.98,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 195484.98
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11964361",
+            "TO": "David E. Grossman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "403-252-9953"
+        },
+        {
+            "TOUNIQUENUMBER": "11822733",
+            "TO": "Randy Klapstein",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "403-571-8400"
+        },
+        {
+            "TOUNIQUENUMBER": "11822733",
+            "TO": "Randy Klapstein",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "403-571-8400"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34548",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Country View Pointe Inc.",
+            "OPERATINGNAME": "Spring Pointe",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32763",
+            "MEMBERNAME": "Pointe of View Developments Inc.",
+            "MEMBEROPERATINGNAME": "Pointe of View",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34548",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Country View Pointe Inc.",
+            "OPERATINGNAME": "Spring Pointe",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38032",
+            "MEMBERNAME": "Pointe of View Developments (Stonecreek Pointe) In",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34548",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Country View Pointe Inc.",
+            "OPERATINGNAME": "Spring Pointe",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38031",
+            "MEMBERNAME": "Seaway Pointe Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34548",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Country View Pointe Inc.",
+            "OPERATINGNAME": "Spring Pointe",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34548",
+            "MEMBERNAME": "Country View Pointe Inc.",
+            "MEMBEROPERATINGNAME": "Spring Pointe",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34548",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Country View Pointe Inc.",
+            "OPERATINGNAME": "Spring Pointe",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33957",
+            "MEMBERNAME": "Woodside Pointe Developments Inc.",
+            "MEMBEROPERATINGNAME": "Pointe of View",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "2000 Spring Pointe",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "6 Dayspring Circle",
+            "# of Units": 58,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-11-24"
+        },
+        {
+            "Condo Project Name": "1000 Spring Pointe",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "8 Dayspring Circle",
+            "# of Units": 88,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-06-21"
+        },
+        {
+            "Condo Project Name": "3000 Spring Pointe",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "4 Dayspring Circle",
+            "# of Units": 51,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-02-26"
+        }
+    ],
+    "builderConditions": []
+}

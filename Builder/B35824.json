@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35824",
+            "Umbrella": "Rhythm Design Build",
+            "Umbrella ID": "12541227",
+            "VB_NAME": "Rhythm Design Build Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2005-09-28 19:37:34.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6013 Yonge St., Ste. 209",
+            "TELEPHONE": "416-225-7234",
+            "FAX": "416-225-9032",
+            "WEBSITEURL": null,
+            "EMAIL": "Khonsar@yahoo.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12089060",
+            "TO": "Seyed Hossein Khonsari Nejad",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-225-7234"
+        },
+        {
+            "TOUNIQUENUMBER": "12089060",
+            "TO": "Seyed Hossein Khonsari Nejad",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-225-7234"
+        },
+        {
+            "TOUNIQUENUMBER": "12089060",
+            "TO": "Seyed Hossein Khonsari Nejad",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-225-7234"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35824",
+            "Umbrella": "Rhythm Design Build",
+            "Umbrella ID": "12541227",
+            "VB_NAME": "Rhythm Design Build Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B35825",
+            "MEMBERNAME": "Seyed Hossein Khousari Nejad",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B35824",
+            "Umbrella": "Rhythm Design Build",
+            "Umbrella ID": "12541227",
+            "VB_NAME": "Rhythm Design Build Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B35824",
+            "MEMBERNAME": "Rhythm Design Build Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

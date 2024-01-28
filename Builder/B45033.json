@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45033",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kalexia Developments Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "Richmond Hill",
+            "HCRA_INITIALLICENSEDATE": "2016-02-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-13 16:03:46.000 +0000",
+            "Expiry Date": "2023-02-20",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "30 West Beaver Creek Road",
+            "TELEPHONE": "905-604-5009",
+            "FAX": null,
+            "WEBSITEURL": "www.kalexia.ca",
+            "EMAIL": "info@kalexia.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 31,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 31,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100455988",
+            "TO": "Shang Ma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-613-1201"
+        },
+        {
+            "TOUNIQUENUMBER": "100343159",
+            "TO": "Qin Xu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-297-8885"
+        },
+        {
+            "TOUNIQUENUMBER": "100343159",
+            "TO": "Qin Xu",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-297-8885"
+        },
+        {
+            "TOUNIQUENUMBER": "100343159",
+            "TO": "Qin Xu",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-297-8885"
+        },
+        {
+            "TOUNIQUENUMBER": "100343843",
+            "TO": "Kai Xu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-5009"
+        },
+        {
+            "TOUNIQUENUMBER": "100343843",
+            "TO": "Kai Xu",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-5009"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45033",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kalexia Developments Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Bayview Valley",
+            "Project Status": "Cancelled",
+            "Location": "RICHMOND HILL",
+            "Address": "850 Elgin Mills Rd. E.",
+            "# of Units": 41,
+            "# of Terminations": 33,
+            "HCRA_CANCELLATIONREASON": "Other",
+            "Last Status Update": "2021-12-31"
+        }
+    ],
+    "builderConditions": []
+}

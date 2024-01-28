@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60401",
+            "Umbrella": "LIOCORR Holdings",
+            "Umbrella ID": "500001910",
+            "VB_NAME": "MILR-CORR Construction Inc.",
+            "OPERATINGNAME": "MILR-CORR Construction Inc.",
+            "CITY": "Kitchener",
+            "HCRA_INITIALLICENSEDATE": "2022-11-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-11-04 19:31:12.000 +0000",
+            "Expiry Date": "2023-11-05",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "399 Breithaupt Street",
+            "TELEPHONE": "519-573-4734",
+            "FAX": null,
+            "WEBSITEURL": "https://www.milrcorr.com",
+            "EMAIL": "michael@strongfoam.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100638015",
+            "TO": "Karanjeet Singh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-781-4650"
+        },
+        {
+            "TOUNIQUENUMBER": "100352729",
+            "TO": "Edgar Miguel Correia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-573-4734"
+        },
+        {
+            "TOUNIQUENUMBER": "100352729",
+            "TO": "Edgar Miguel Correia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-573-4734"
+        },
+        {
+            "TOUNIQUENUMBER": "100352729",
+            "TO": "Edgar Miguel Correia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-573-4734"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60401",
+            "Umbrella": "LIOCORR Holdings",
+            "Umbrella ID": "500001910",
+            "VB_NAME": "MILR-CORR Construction Inc.",
+            "OPERATINGNAME": "MILR-CORR Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45148",
+            "MEMBERNAME": "Everleigh Homes Inc.",
+            "MEMBEROPERATINGNAME": "Everleigh Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60401",
+            "Umbrella": "LIOCORR Holdings",
+            "Umbrella ID": "500001910",
+            "VB_NAME": "MILR-CORR Construction Inc.",
+            "OPERATINGNAME": "MILR-CORR Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60401",
+            "MEMBERNAME": "MILR-CORR Construction Inc.",
+            "MEMBEROPERATINGNAME": "MILR-CORR Construction Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

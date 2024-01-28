@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43262",
+            "Umbrella": "merlin",
+            "Umbrella ID": "12539684",
+            "VB_NAME": "2239579 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "NORTH YORK",
+            "HCRA_INITIALLICENSEDATE": "2013-10-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-10-17 12:00:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "77 Cassandra Blvd.",
+            "TELEPHONE": "416/421-6618",
+            "FAX": "416/421-9386",
+            "WEBSITEURL": "www.merlinfamilyhomes.com",
+            "EMAIL": "mike@merlinfamilyhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342787",
+            "TO": "Michael A. Donaldson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-421-6618"
+        },
+        {
+            "TOUNIQUENUMBER": "342787",
+            "TO": "Michael A. Donaldson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-421-6618"
+        },
+        {
+            "TOUNIQUENUMBER": "342787",
+            "TO": "Michael A. Donaldson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-421-6618"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43262",
+            "Umbrella": "merlin",
+            "Umbrella ID": "12539684",
+            "VB_NAME": "2239579 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26385",
+            "MEMBERNAME": "1227093 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Goldstein Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43262",
+            "Umbrella": "merlin",
+            "Umbrella ID": "12539684",
+            "VB_NAME": "2239579 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43262",
+            "MEMBERNAME": "2239579 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43262",
+            "Umbrella": "merlin",
+            "Umbrella ID": "12539684",
+            "VB_NAME": "2239579 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37960",
+            "MEMBERNAME": "Merlin Restoration Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43262",
+            "Umbrella": "merlin",
+            "Umbrella ID": "12539684",
+            "VB_NAME": "2239579 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30425",
+            "MEMBERNAME": "Merlin Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

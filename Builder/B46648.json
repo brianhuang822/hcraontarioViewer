@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46648",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "7603860 Canada Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Pickering",
+            "HCRA_INITIALLICENSEDATE": "2019-01-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-03 17:48:06.000 +0000",
+            "Expiry Date": "2025-01-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1465 Pickering Parkway",
+            "TELEPHONE": "514-624-5373",
+            "FAX": null,
+            "WEBSITEURL": "www.stonepay.com",
+            "EMAIL": "info@stonepay.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100471696",
+            "TO": "Minoo Samimi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-624-5373"
+        },
+        {
+            "TOUNIQUENUMBER": "100471696",
+            "TO": "Minoo Samimi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-624-5373"
+        },
+        {
+            "TOUNIQUENUMBER": "100468969",
+            "TO": "Sal Stone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-624-5373"
+        },
+        {
+            "TOUNIQUENUMBER": "100471692",
+            "TO": "Sam Stone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-624-5373"
+        },
+        {
+            "TOUNIQUENUMBER": "100471692",
+            "TO": "Sam Stone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-624-5373"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46648",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "7603860 Canada Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "DeerView Heights",
+            "Project Status": "In Progress",
+            "Location": "PICKERING",
+            "Address": " 1655 Palmer's Sawmill Rd. Intersection Four Seasons Ln. ",
+            "# of Units": 137,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

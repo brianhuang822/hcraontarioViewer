@@ -1,0 +1,112 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43181",
+            "Umbrella": "John Voortman & Associates & 1631076 ONT.",
+            "Umbrella ID": "12540053",
+            "VB_NAME": "John Voortman & Associates Ltd. & 1631076 Ontario",
+            "OPERATINGNAME": null,
+            "CITY": "ANCASTER",
+            "HCRA_INITIALLICENSEDATE": "2013-10-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-11-01 13:00:16.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "218 Carluke Rd., W.",
+            "TELEPHONE": "905/648-4757",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "joelvo@shaw.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12150179",
+            "TO": "Ellie Voortman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-648-4757"
+        },
+        {
+            "TOUNIQUENUMBER": "12150179",
+            "TO": "Ellie Voortman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-648-4757"
+        },
+        {
+            "TOUNIQUENUMBER": "265027",
+            "TO": "John Voortman Sr.",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-648-4757"
+        },
+        {
+            "TOUNIQUENUMBER": "265027",
+            "TO": "John Voortman Sr.",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-648-4757"
+        },
+        {
+            "TOUNIQUENUMBER": "265027",
+            "TO": "John Voortman Sr.",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-648-4757"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43181",
+            "Umbrella": "John Voortman & Associates & 1631076 ONT.",
+            "Umbrella ID": "12540053",
+            "VB_NAME": "John Voortman & Associates Ltd. & 1631076 Ontario",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43181",
+            "MEMBERNAME": "John Voortman & Associates Ltd. & 1631076 Ontario",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43181",
+            "Umbrella": "John Voortman & Associates & 1631076 ONT.",
+            "Umbrella ID": "12540053",
+            "VB_NAME": "John Voortman & Associates Ltd. & 1631076 Ontario",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36643",
+            "MEMBERNAME": "1631076 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Stone Cove Estates",
+            "Project Status": "Completed",
+            "Location": "HAGERSVILLE",
+            "Address": "68A Main St.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-08-01"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41904",
+            "Umbrella": "Waverly Homes",
+            "Umbrella ID": "12534108",
+            "VB_NAME": "2315719 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "2012-04-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:17:27.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3126 Innisdale Rd.",
+            "TELEPHONE": "519/913-0714",
+            "FAX": "519/913-1679",
+            "WEBSITEURL": "www.waverlyhomes.ca",
+            "EMAIL": "admin@waverlyhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 38,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 38,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12529462",
+            "TO": "Gergis Zarabi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12526917",
+            "TO": "Farag Farag",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-875-2290"
+        },
+        {
+            "TOUNIQUENUMBER": "12529460",
+            "TO": "Ezz Beshara",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12529466",
+            "TO": "Ashraf Botros",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-723-3534"
+        },
+        {
+            "TOUNIQUENUMBER": "12525154",
+            "TO": "Yasser Yanni",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-501-1244"
+        },
+        {
+            "TOUNIQUENUMBER": "12525154",
+            "TO": "Yasser Yanni",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-501-1244"
+        },
+        {
+            "TOUNIQUENUMBER": "12525154",
+            "TO": "Yasser Yanni",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-501-1244"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41904",
+            "Umbrella": "Waverly Homes",
+            "Umbrella ID": "12534108",
+            "VB_NAME": "2315719 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27794",
+            "MEMBERNAME": "1307823 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Waverly Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41904",
+            "Umbrella": "Waverly Homes",
+            "Umbrella ID": "12534108",
+            "VB_NAME": "2315719 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44781",
+            "MEMBERNAME": "Eldorado Homes (London) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41904",
+            "Umbrella": "Waverly Homes",
+            "Umbrella ID": "12534108",
+            "VB_NAME": "2315719 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41904",
+            "MEMBERNAME": "2315719 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

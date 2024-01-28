@@ -1,0 +1,105 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Intrawest",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "220 Jozo Weider Blvd.",
+            "TELEPHONE": "18886962583",
+            "FAX": "705/443-5541",
+            "WEBSITEURL": " ",
+            "EMAIL": "dpiggott@intrawest.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "6066291 Canada Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33472",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rivergrass Phase 2 Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33275",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "TH Phase 2 Limited Partnership",
+            "MEMBEROPERATINGNAME": "Trillium House",
+            "MEMBERVBNUM": "B34569",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "TH Phase I Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34091",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Mosaic Phase I Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35353",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rivergrass Phase 3 Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33988",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "TRILLIUM HOUSE",
+            "Account Number": "B34091",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": " 220 Gord Canning Dr. ",
+            "# of Units": 121,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-02-24"
+        },
+        {
+            "Condo Project Name": "TRILLIUM HOUSE",
+            "Account Number": "B34569",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "220 Mountain Dr.",
+            "# of Units": 103,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-02-24"
+        },
+        {
+            "Condo Project Name": "TBD",
+            "Account Number": "B33472",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": " 170 Jozo Weider Blvd. ",
+            "# of Units": 54,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-02-24"
+        }
+    ]
+}

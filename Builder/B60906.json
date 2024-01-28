@@ -1,0 +1,161 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60906",
+            "Umbrella": "Lakewood Developments",
+            "Umbrella ID": "12543301",
+            "VB_NAME": "Circa 21 Development Corp.",
+            "OPERATINGNAME": "Circa 21 Development Corp.",
+            "CITY": "Oldcastle",
+            "HCRA_INITIALLICENSEDATE": "2022-02-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-19 21:54:02.000 +0000",
+            "Expiry Date": "2025-02-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2504 Binder Crescent",
+            "TELEPHONE": "519-737-1292",
+            "FAX": "519-737-7007",
+            "WEBSITEURL": "https://www.petcon.net",
+            "EMAIL": "jlot@petcon.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008931",
+            "TO": "Jonathon Lot",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-737-1292"
+        },
+        {
+            "TOUNIQUENUMBER": "600009792",
+            "TO": "John Lot",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-737-6671"
+        },
+        {
+            "TOUNIQUENUMBER": "600009792",
+            "TO": "John Lot",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-737-6671"
+        },
+        {
+            "TOUNIQUENUMBER": "12029683",
+            "TO": "Davide Petretta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-737-1292"
+        },
+        {
+            "TOUNIQUENUMBER": "12029683",
+            "TO": "Davide Petretta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-737-1292"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60906",
+            "Umbrella": "Lakewood Developments",
+            "Umbrella ID": "12543301",
+            "VB_NAME": "Circa 21 Development Corp.",
+            "OPERATINGNAME": "Circa 21 Development Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44646",
+            "MEMBERNAME": "Petretta Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60906",
+            "Umbrella": "Lakewood Developments",
+            "Umbrella ID": "12543301",
+            "VB_NAME": "Circa 21 Development Corp.",
+            "OPERATINGNAME": "Circa 21 Development Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60906",
+            "MEMBERNAME": "Circa 21 Development Corp.",
+            "MEMBEROPERATINGNAME": "Circa 21 Development Corp.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60906",
+            "Umbrella": "Lakewood Developments",
+            "Umbrella ID": "12543301",
+            "VB_NAME": "Circa 21 Development Corp.",
+            "OPERATINGNAME": "Circa 21 Development Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60214",
+            "MEMBERNAME": "Sunnyside Realty Development Inc.",
+            "MEMBEROPERATINGNAME": "Sunnyside Realty Development Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60906",
+            "Umbrella": "Lakewood Developments",
+            "Umbrella ID": "12543301",
+            "VB_NAME": "Circa 21 Development Corp.",
+            "OPERATINGNAME": "Circa 21 Development Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47135",
+            "MEMBERNAME": "2593430 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B60906",
+            "Umbrella": "Lakewood Developments",
+            "Umbrella ID": "12543301",
+            "VB_NAME": "Circa 21 Development Corp.",
+            "OPERATINGNAME": "Circa 21 Development Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60054",
+            "MEMBERNAME": "Stella Luxe Development Corporation",
+            "MEMBEROPERATINGNAME": "Stella Luxe Development Corporation",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B60906",
+            "Umbrella": "Lakewood Developments",
+            "Umbrella ID": "12543301",
+            "VB_NAME": "Circa 21 Development Corp.",
+            "OPERATINGNAME": "Circa 21 Development Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34919",
+            "MEMBERNAME": "Petretta Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B60906",
+            "Umbrella": "Lakewood Developments",
+            "Umbrella ID": "12543301",
+            "VB_NAME": "Circa 21 Development Corp.",
+            "OPERATINGNAME": "Circa 21 Development Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34918",
+            "MEMBERNAME": "Lakewood Development Inc.",
+            "MEMBEROPERATINGNAME": "Lakewood Condominiums",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44592",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kings Custom Homes Incorporated",
+            "OPERATINGNAME": null,
+            "CITY": "OMEMEE",
+            "HCRA_INITIALLICENSEDATE": "2015-12-07",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "2018-03-29 00:31:36.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "114 Emily Park Road,",
+            "TELEPHONE": "647/891-1787",
+            "FAX": "647/498-1098",
+            "WEBSITEURL": "kingscustomhomes.ca",
+            "EMAIL": "cory@kingscustomhomes.ca",
+            "ACCOUNTNUMBER": "B44592",
+            "Total Outstanding Amount": 1383574.18,
+            "TAB": 0,
+            "BREACH": 1383574.18,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 26,
+            "SUMM_MINOR_AMT": 1199500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1199500
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100310625",
+            "TO": "Cory Savary",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-891-1787"
+        },
+        {
+            "TOUNIQUENUMBER": "100310625",
+            "TO": "Cory Savary",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-891-1787"
+        },
+        {
+            "TOUNIQUENUMBER": "100310625",
+            "TO": "Cory Savary",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-891-1787"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108851",
+            "CHARGE_AGAINST": "Kings Custom Homes Inc.",
+            "CHARGE_DATE": "2017-01-30",
+            "DISPOSITION_DATE": "2018-10-25",
+            "THE_FINE_": "30650",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "7662.5",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9327109",
+            "ORGANIZATION_NAME": "Kings Custom Homes Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Dummer, ON",
+            "CITY_DEFENCE": "Omemee, ON",
+            "VB_NUMBER": "B44592",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108851 9327109",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Douro-Dummer, Township",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2017-01-27",
+            "TO_OFFENCE_DATE": "2017-01-30",
+            "RESULT_FROM_TRIAL": "Yes",
+            "TOTAL_FINE_AMOUNT": "38312.5",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "Y",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B44592",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kings Custom Homes Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39760",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Inverness Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Nepean",
+            "HCRA_INITIALLICENSEDATE": "2009-08-31",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-11 14:45:07.000 +0000",
+            "Expiry Date": "2024-09-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "38 Auriga Drive",
+            "TELEPHONE": "613-720-5452",
+            "FAX": "1-613-838-4751",
+            "WEBSITEURL": "www.invernesshomes.ca",
+            "EMAIL": "kyle@invernesshomes.ca",
+            "ACCOUNTNUMBER": "B39760",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 37,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 37,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12360700",
+            "TO": "Kyle MacHutchon",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-9111"
+        },
+        {
+            "TOUNIQUENUMBER": "12360700",
+            "TO": "Kyle MacHutchon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-9111"
+        },
+        {
+            "TOUNIQUENUMBER": "12360700",
+            "TO": "Kyle MacHutchon",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-9111"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA107901",
+            "CHARGE_AGAINST": "Inverness Homes Inc.",
+            "CHARGE_DATE": "2013-03-13",
+            "DISPOSITION_DATE": "2014-03-27",
+            "THE_FINE_": "2500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "625",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9325598",
+            "ORGANIZATION_NAME": "Inverness Homes Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Ashton, ON",
+            "CITY_DEFENCE": "Nepean, ON",
+            "VB_NUMBER": "B39760",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA107901 9325598",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Ottawa, City",
+            "INFORMATION_NUMBER": "999-13-6079",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2011-08-05",
+            "TO_OFFENCE_DATE": "2013-03-13",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "3125",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "00:29.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B39760",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Inverness Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

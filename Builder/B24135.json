@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24135",
+            "Umbrella": "Golfi Electric & Sons",
+            "Umbrella ID": "12540107",
+            "VB_NAME": "Golfi Electric & Sons Limited",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "1994-06-30",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-07-01 15:00:59.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "77 Solomon Cres.",
+            "TELEPHONE": "(905)383-8526",
+            "FAX": "905-383-8526",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "333855",
+            "TO": "Arlene Golfi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313127",
+            "TO": "Angelo Golfi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24135",
+            "Umbrella": "Golfi Electric & Sons",
+            "Umbrella ID": "12540107",
+            "VB_NAME": "Golfi Electric & Sons Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11973",
+            "MEMBERNAME": "Golfi Electric & Sons Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B24135",
+            "Umbrella": "Golfi Electric & Sons",
+            "Umbrella ID": "12540107",
+            "VB_NAME": "Golfi Electric & Sons Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24135",
+            "MEMBERNAME": "Golfi Electric & Sons Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

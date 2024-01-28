@@ -1,0 +1,123 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B17391",
+            "Umbrella": "Marcel Degagne Carpentry",
+            "Umbrella ID": "12540183",
+            "VB_NAME": "Invest Home Builders Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CORBEIL",
+            "HCRA_INITIALLICENSEDATE": "1989-02-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1998-03-03 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O Box 446",
+            "TELEPHONE": "(705)752-4117",
+            "FAX": "(705)752-3151",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "308281",
+            "TO": "Marcel Degagne",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-752-4117"
+        },
+        {
+            "TOUNIQUENUMBER": "308281",
+            "TO": "Marcel Degagne",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-752-4117"
+        },
+        {
+            "TOUNIQUENUMBER": "308281",
+            "TO": "Marcel Degagne",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-752-4117"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B17391",
+            "Umbrella": "Marcel Degagne Carpentry",
+            "Umbrella ID": "12540183",
+            "VB_NAME": "Invest Home Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37196",
+            "MEMBERNAME": "Marcel Joseph Degagne",
+            "MEMBEROPERATINGNAME": "Marcel Degagne Carpentry",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B17391",
+            "Umbrella": "Marcel Degagne Carpentry",
+            "Umbrella ID": "12540183",
+            "VB_NAME": "Invest Home Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39386",
+            "MEMBERNAME": "1761877 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Degagne Carpentry",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B17391",
+            "Umbrella": "Marcel Degagne Carpentry",
+            "Umbrella ID": "12540183",
+            "VB_NAME": "Invest Home Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B61615",
+            "MEMBERNAME": "2776671 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Degagne & Lefebvre Building Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B17391",
+            "Umbrella": "Marcel Degagne Carpentry",
+            "Umbrella ID": "12540183",
+            "VB_NAME": "Invest Home Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28111",
+            "MEMBERNAME": "Invest Home Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B17391",
+            "Umbrella": "Marcel Degagne Carpentry",
+            "Umbrella ID": "12540183",
+            "VB_NAME": "Invest Home Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17391",
+            "MEMBERNAME": "Invest Home Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

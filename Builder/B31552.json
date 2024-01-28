@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31552",
+            "Umbrella": "BW Conn Homes",
+            "Umbrella ID": "11730114",
+            "VB_NAME": "BW Conn Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Ingersoll",
+            "HCRA_INITIALLICENSEDATE": "2001-07-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-19 17:28:23.000 +0000",
+            "Expiry Date": "2024-07-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "58 Clark Road East",
+            "TELEPHONE": "519-537-0685",
+            "FAX": null,
+            "WEBSITEURL": "https://www.bwconnhomes.com",
+            "EMAIL": "brian@bwconnhomesltd.com",
+            "ACCOUNTNUMBER": "B31552",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 123,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 123,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "308461",
+            "TO": "Brian Conn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-536-3405"
+        },
+        {
+            "TOUNIQUENUMBER": "308461",
+            "TO": "Brian Conn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-536-3405"
+        },
+        {
+            "TOUNIQUENUMBER": "308461",
+            "TO": "Brian Conn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-536-3405"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31552",
+            "Umbrella": "BW Conn Homes",
+            "Umbrella ID": "11730114",
+            "VB_NAME": "BW Conn Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B22610",
+            "MEMBERNAME": "Brian Conn",
+            "MEMBEROPERATINGNAME": "Bw Conn Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31552",
+            "Umbrella": "BW Conn Homes",
+            "Umbrella ID": "11730114",
+            "VB_NAME": "BW Conn Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31552",
+            "MEMBERNAME": "BW Conn Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "On Eleven King at East",
+            "Project Status": null,
+            "Location": "INGERSOLL",
+            "Address": "111 King St., E.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

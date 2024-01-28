@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60467",
+            "Umbrella": "WP Development",
+            "Umbrella ID": "500000319",
+            "VB_NAME": "WP Developments Inc.",
+            "OPERATINGNAME": "WP Development",
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2021-08-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-08-14 04:15:43.000 +0000",
+            "Expiry Date": "2022-08-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7181 Woodbine Avenue",
+            "TELEPHONE": "905-475-8611",
+            "FAX": null,
+            "WEBSITEURL": "http://wpdevelopment.ca",
+            "EMAIL": "rtang@wealthpower-group.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100516894",
+            "TO": "Jie Wang",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-300-8089"
+        },
+        {
+            "TOUNIQUENUMBER": "100516894",
+            "TO": "Jie Wang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-300-8089"
+        },
+        {
+            "TOUNIQUENUMBER": "100516894",
+            "TO": "Jie Wang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-300-8089"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60467",
+            "Umbrella": "WP Development",
+            "Umbrella ID": "500000319",
+            "VB_NAME": "WP Developments Inc.",
+            "OPERATINGNAME": "WP Development",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60237",
+            "MEMBERNAME": "1005 Dundas Street Inc.",
+            "MEMBEROPERATINGNAME": "1005 Dundas Street Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60467",
+            "Umbrella": "WP Development",
+            "Umbrella ID": "500000319",
+            "VB_NAME": "WP Developments Inc.",
+            "OPERATINGNAME": "WP Development",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60467",
+            "MEMBERNAME": "WP Developments Inc.",
+            "MEMBEROPERATINGNAME": "WP Development",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

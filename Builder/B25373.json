@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25373",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Windsor Arms Development Corporation",
+            "OPERATINGNAME": "Windsor Arms",
+            "CITY": "WILLOWDALE",
+            "HCRA_INITIALLICENSEDATE": "1996-05-02",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2003-09-16 22:31:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5 Fairview Mall Dr., Ste. 416",
+            "TELEPHONE": "(416)492-3000",
+            "FAX": "(416)492-9042",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341532",
+            "TO": "Stanley Grossman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-867-8033"
+        },
+        {
+            "TOUNIQUENUMBER": "341532",
+            "TO": "Stanley Grossman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-867-8033"
+        },
+        {
+            "TOUNIQUENUMBER": "341531",
+            "TO": "George Friedmann",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-485-4884"
+        },
+        {
+            "TOUNIQUENUMBER": "341531",
+            "TO": "George Friedmann",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-485-4884"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25373",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Windsor Arms Development Corporation",
+            "OPERATINGNAME": "Windsor Arms",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WINDSOR ARMS DEVELOPMENT",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "18 St. Thomas Street",
+            "# of Units": 25,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-05-28"
+        }
+    ],
+    "builderConditions": []
+}

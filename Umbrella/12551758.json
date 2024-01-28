@@ -1,0 +1,99 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "M5V Developments",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 54,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "10504 Islington Avenue",
+            "TELEPHONE": "416-986-5800",
+            "FAX": null,
+            "WEBSITEURL": "m5vinc.com",
+            "EMAIL": "sherard@m5vinc.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 54,
+            "SUMM_TOTAL": 54,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "M5V The Niagara Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47769",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "M5V The Niagara 2 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48228",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "M5V The Niagara 111 Inc.",
+            "MEMBEROPERATINGNAME": "M5V The Niagara 111 Inc.",
+            "MEMBERVBNUM": "B62021",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 54,
+            "Total Posessions": 54,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 54,
+            "SUMM_TOTAL": 54,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "The Niagara",
+            "Account Number": "B47769",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": " 6063 &6091 Mcleod Rd. ",
+            "# of Units": 54,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-08-11"
+        },
+        {
+            "Condo Project Name": "The Niagara II",
+            "Account Number": "B48228",
+            "Project Status": "In Progress",
+            "Location": "NIAGARA FALLS",
+            "Address": "  6622 And 6600 McLeod Road ",
+            "# of Units": 60,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

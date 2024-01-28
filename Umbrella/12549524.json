@@ -1,0 +1,144 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Rankin Construction",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 49,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "20 Corporate Park",
+            "TELEPHONE": "905-684-1111",
+            "FAX": "905-684-2260",
+            "WEBSITEURL": "www.rankinconstruction.ca",
+            "EMAIL": "jfrank@rankinconstruction.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 49,
+            "SUMM_TOTAL": 49,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "The Locks Inc.",
+            "MEMBEROPERATINGNAME": "The Locks Inc.",
+            "MEMBERVBNUM": "B62068",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Royal Port Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47058",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "SouthPort Condos Inc. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48057",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Rankin Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47027",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "The Waterway Inc.",
+            "MEMBEROPERATINGNAME": "The Waterway Inc.",
+            "MEMBERVBNUM": "B60358",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 37,
+            "Total Posessions": 37,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 49,
+            "SUMM_TOTAL": 49,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 12,
+            "Total Posessions": 12,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 49,
+            "SUMM_TOTAL": 49,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Royal Port",
+            "Account Number": "B47058",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": " 57 Lakeport Rd ",
+            "# of Units": 49,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-12-21"
+        },
+        {
+            "Condo Project Name": "SouthPort Condos",
+            "Account Number": "B48057",
+            "Project Status": "In Progress",
+            "Location": "PORT COLBORNE",
+            "Address": " 118 West St. ",
+            "# of Units": 74,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "The Waterway Condominiums",
+            "Account Number": "B60358",
+            "Project Status": "In Progress",
+            "Location": "WELLAND",
+            "Address": " 119 Lincoln St. ",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

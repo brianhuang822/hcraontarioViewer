@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38163",
+            "Umbrella": "Delco Homes",
+            "Umbrella ID": "12305934",
+            "VB_NAME": "Delco Homes Inc.",
+            "OPERATINGNAME": "Cherrywood Homes",
+            "CITY": "Richmond Hill",
+            "HCRA_INITIALLICENSEDATE": "2008-04-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-04 04:00:00.000 +0000",
+            "Expiry Date": "2024-07-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "100 York Boulevard",
+            "TELEPHONE": "905-709-3200",
+            "FAX": "905-709-5800",
+            "WEBSITEURL": " ",
+            "EMAIL": "admin@delcoinc.com",
+            "ACCOUNTNUMBER": "B38163",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 10000,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 10000
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100582731",
+            "TO": "William Egi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-709-3200"
+        },
+        {
+            "TOUNIQUENUMBER": "100582731",
+            "TO": "William Egi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-709-3200"
+        },
+        {
+            "TOUNIQUENUMBER": "100685918",
+            "TO": "Christiana Egi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38163",
+            "Umbrella": "Delco Homes",
+            "Umbrella ID": "12305934",
+            "VB_NAME": "Delco Homes Inc.",
+            "OPERATINGNAME": "Cherrywood Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38163",
+            "MEMBERNAME": "Delco Homes Inc.",
+            "MEMBEROPERATINGNAME": "Cherrywood Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B38163",
+            "Umbrella": "Delco Homes",
+            "Umbrella ID": "12305934",
+            "VB_NAME": "Delco Homes Inc.",
+            "OPERATINGNAME": "Cherrywood Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38703",
+            "MEMBERNAME": "Glengrove on the Park (Stouffville) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Village Creek",
+            "Project Status": null,
+            "Location": "PICKERING",
+            "Address": "671-673 Kingston Rd.",
+            "# of Units": 31,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

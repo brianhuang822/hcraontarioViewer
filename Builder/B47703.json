@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47703",
+            "Umbrella": "LLTD",
+            "Umbrella ID": "500001350",
+            "VB_NAME": "Black River Homes Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "Otttawa",
+            "HCRA_INITIALLICENSEDATE": "2019-06-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-27 19:41:09.000 +0000",
+            "Expiry Date": "2024-06-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "430 Hazeldean Road",
+            "TELEPHONE": "613-404-7476",
+            "FAX": null,
+            "WEBSITEURL": "http://www.blackriverhomes.com",
+            "EMAIL": "sean@seanthebroker.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1500
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100570430",
+            "TO": "Sean McRae",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-795-4663"
+        },
+        {
+            "TOUNIQUENUMBER": "100570430",
+            "TO": "Sean McRae",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-795-4663"
+        },
+        {
+            "TOUNIQUENUMBER": "100570350",
+            "TO": "Phuong Vu",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-404-7476"
+        },
+        {
+            "TOUNIQUENUMBER": "100570350",
+            "TO": "Phuong Vu",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-404-7476"
+        },
+        {
+            "TOUNIQUENUMBER": "100570350",
+            "TO": "Phuong Vu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-404-7476"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47703",
+            "Umbrella": "LLTD",
+            "Umbrella ID": "500001350",
+            "VB_NAME": "Black River Homes Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47703",
+            "MEMBERNAME": "Black River Homes Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47703",
+            "Umbrella": "LLTD",
+            "Umbrella ID": "500001350",
+            "VB_NAME": "Black River Homes Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61228",
+            "MEMBERNAME": "13561836 Canada Inc.",
+            "MEMBEROPERATINGNAME": "13561836 Canada Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43967",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2311888 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Beamsville",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2015-11-17 22:12:26.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4593 Lincoln Ave.",
+            "TELEPHONE": "9055630999",
+            "FAX": "9055630093",
+            "WEBSITEURL": " ",
+            "EMAIL": "fred@pridehomes.ca",
+            "ACCOUNTNUMBER": "B43967",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 476478.71,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 476478.71
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11630862",
+            "TO": "Cindy Hendriks",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 563-5675"
+        },
+        {
+            "TOUNIQUENUMBER": "11630862",
+            "TO": "Cindy Hendriks",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 563-5675"
+        },
+        {
+            "TOUNIQUENUMBER": "316738",
+            "TO": "Ferdinand Hendriks",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-4008"
+        },
+        {
+            "TOUNIQUENUMBER": "316738",
+            "TO": "Ferdinand Hendriks",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-4008"
+        },
+        {
+            "TOUNIQUENUMBER": "316738",
+            "TO": "Ferdinand Hendriks",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-4008"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108284",
+            "CHARGE_AGAINST": "2311888 Ontario Inc.",
+            "CHARGE_DATE": "2014-09-02",
+            "DISPOSITION_DATE": "2015-10-08",
+            "THE_FINE_": "2500",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "625",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326300",
+            "ORGANIZATION_NAME": "2311888 Ontario Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Niagara-on-the-Lake, ON",
+            "CITY_DEFENCE": "Beamsville, ON",
+            "VB_NUMBER": "B43967",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": null,
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108284 9326300",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Niagara-on-the-Lake, Town",
+            "INFORMATION_NUMBER": "999-14-3891",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "FROM_OFFENCE_DATE": "2012-01-26",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "3125",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B43967",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2311888 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

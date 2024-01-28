@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B7147",
+            "Umbrella": "Murchmount Homes",
+            "Umbrella ID": "12547223",
+            "VB_NAME": "Berkfife Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "1981-07-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-25 20:44:03.000 +0000",
+            "Expiry Date": "2024-08-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "36 York Ridge Road",
+            "TELEPHONE": "416-671-7609",
+            "FAX": "905-944-9492",
+            "WEBSITEURL": "www.berkfife.com",
+            "EMAIL": "mchung@murchmount.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12405725",
+            "TO": "Michael Chung",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-671-7609"
+        },
+        {
+            "TOUNIQUENUMBER": "12405725",
+            "TO": "Michael Chung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-671-7609"
+        },
+        {
+            "TOUNIQUENUMBER": "12405725",
+            "TO": "Michael Chung",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-671-7609"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B7147",
+            "Umbrella": "Murchmount Homes",
+            "Umbrella ID": "12547223",
+            "VB_NAME": "Berkfife Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44344",
+            "MEMBERNAME": "1769638 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Murchmount Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B7147",
+            "Umbrella": "Murchmount Homes",
+            "Umbrella ID": "12547223",
+            "VB_NAME": "Berkfife Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B7147",
+            "MEMBERNAME": "Berkfife Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BAUHINIA COURT ON KENNEDY",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "2351 Kennedy Rd.",
+            "# of Units": 78,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-02-22"
+        }
+    ],
+    "builderConditions": []
+}

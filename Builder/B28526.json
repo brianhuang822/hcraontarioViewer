@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28526",
+            "Umbrella": "Ridanio Homes",
+            "Umbrella ID": "12539929",
+            "VB_NAME": "Ridanio Homes Ltd.",
+            "OPERATINGNAME": "Ridanio Homes",
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "1999-11-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-11-10 06:00:02.000 +0000",
+            "Expiry Date": "2023-11-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "31 Cobblestone Road",
+            "TELEPHONE": "519-495-9237",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "ridaniohomes@gmail.com",
+            "ACCOUNTNUMBER": "B28526",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 27,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 27,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1296.19,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1296.19
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332875",
+            "TO": "Jose (Joe) Teves",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-9237"
+        },
+        {
+            "TOUNIQUENUMBER": "332875",
+            "TO": "Jose (Joe) Teves",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-9237"
+        },
+        {
+            "TOUNIQUENUMBER": "332875",
+            "TO": "Jose (Joe) Teves",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-9237"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28526",
+            "Umbrella": "Ridanio Homes",
+            "Umbrella ID": "12539929",
+            "VB_NAME": "Ridanio Homes Ltd.",
+            "OPERATINGNAME": "Ridanio Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28526",
+            "MEMBERNAME": "Ridanio Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Ridanio Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28526",
+            "Umbrella": "Ridanio Homes",
+            "Umbrella ID": "12539929",
+            "VB_NAME": "Ridanio Homes Ltd.",
+            "OPERATINGNAME": "Ridanio Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24056",
+            "MEMBERNAME": "Jose Teves",
+            "MEMBEROPERATINGNAME": "Ridanio Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

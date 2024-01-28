@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33364",
+            "Umbrella": "Yves Vincent",
+            "Umbrella ID": "12539854",
+            "VB_NAME": "Vincent Construction 2002 Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Plantagenet",
+            "HCRA_INITIALLICENSEDATE": "2003-05-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-14 18:10:26.000 +0000",
+            "Expiry Date": "2024-05-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "839 Old Highway 17",
+            "TELEPHONE": "613-673-2252",
+            "FAX": "613-673-5467",
+            "WEBSITEURL": " ",
+            "EMAIL": "yvesvincent@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 58,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 58,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "314129",
+            "TO": "Yves Vincent",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-0994"
+        },
+        {
+            "TOUNIQUENUMBER": "314129",
+            "TO": "Yves Vincent",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-0994"
+        },
+        {
+            "TOUNIQUENUMBER": "314129",
+            "TO": "Yves Vincent",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-0994"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33364",
+            "Umbrella": "Yves Vincent",
+            "Umbrella ID": "12539854",
+            "VB_NAME": "Vincent Construction 2002 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B22949",
+            "MEMBERNAME": "Yves Vincent",
+            "MEMBEROPERATINGNAME": "Vincent Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33364",
+            "Umbrella": "Yves Vincent",
+            "Umbrella ID": "12539854",
+            "VB_NAME": "Vincent Construction 2002 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33364",
+            "MEMBERNAME": "Vincent Construction 2002 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

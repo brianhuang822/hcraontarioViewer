@@ -1,0 +1,135 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B19559",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "872483 Ontario Limited",
+            "OPERATINGNAME": "Thompson Bros. Construction",
+            "CITY": "Alliston",
+            "HCRA_INITIALLICENSEDATE": "1990-02-27",
+            "LICENCE_STATUS": "Licensed with Conditions",
+            "HCRA_LICENSERENEWEDON": "2023-03-14 20:05:38.000 +0000",
+            "Expiry Date": "2024-02-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5751 7th Concession Road",
+            "TELEPHONE": "705-435-4738",
+            "FAX": "705-435-4521",
+            "WEBSITEURL": " ",
+            "EMAIL": "thompsonbrothersconstruction@gmail.com",
+            "ACCOUNTNUMBER": "B19559",
+            "Total Outstanding Amount": 64048.25,
+            "TAB": 0,
+            "BREACH": 64048.25,
+            "SUMM_FREEHOLD": 23,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 23,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 119045.61,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 119045.61
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "333626",
+            "TO": "Arthur T. Thompson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-4738"
+        },
+        {
+            "TOUNIQUENUMBER": "333626",
+            "TO": "Arthur T. Thompson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-4738"
+        },
+        {
+            "TOUNIQUENUMBER": "333626",
+            "TO": "Arthur T. Thompson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-4738"
+        },
+        {
+            "TOUNIQUENUMBER": "344463",
+            "TO": "Donald Gordon Thompson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-9055"
+        },
+        {
+            "TOUNIQUENUMBER": "344463",
+            "TO": "Donald Gordon Thompson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-9055"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B19559",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "872483 Ontario Limited",
+            "OPERATINGNAME": "Thompson Bros. Construction",
+            "LICENCE_STATUS": "Licensed with Conditions",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "872483 ONTARIO LIMITED",
+            "Project Status": "Completed",
+            "Location": "ALLISTON",
+            "Address": "47-59 Riverley Lane.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-10-18"
+        },
+        {
+            "Condo Project Name": "ALLISTON MEADOWS",
+            "Project Status": "Completed",
+            "Location": "ALLISTON",
+            "Address": "31-46 Riverley Ln.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-01-16"
+        },
+        {
+            "Condo Project Name": "ALLISTON MEADOWS",
+            "Project Status": "Completed",
+            "Location": "ALLISTON",
+            "Address": "Box 1359",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-02-11"
+        },
+        {
+            "Condo Project Name": "*",
+            "Project Status": "In Progress",
+            "Location": "ALLISTON",
+            "Address": "Riverley Lane",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": [
+        {
+            "HCRA_DESCRIPTION": "You agree to provide geotechnical reports, at your own cost, from a geotechnical engineer verifying bearing capacity of the underlying soil for the proposed homes.",
+            "HCRA_EFFECTIVEDATE": null
+        }
+    ]
+}

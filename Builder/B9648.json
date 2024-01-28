@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9648",
+            "Umbrella": "Stefcon Homes",
+            "Umbrella ID": "11636655",
+            "VB_NAME": "Stefcon Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "ETOBICOKE",
+            "HCRA_INITIALLICENSEDATE": "1988-08-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-08-18 12:37:30.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "22 Ashley Pk. Rd.",
+            "TELEPHONE": "(416)234-5556",
+            "FAX": "(416)234-1559",
+            "WEBSITEURL": null,
+            "EMAIL": "stefconhomes@home.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "326607",
+            "TO": "Andrew Pilacinski",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-234-5556"
+        },
+        {
+            "TOUNIQUENUMBER": "326607",
+            "TO": "Andrew Pilacinski",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-234-5556"
+        },
+        {
+            "TOUNIQUENUMBER": "326607",
+            "TO": "Andrew Pilacinski",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-234-5556"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9648",
+            "Umbrella": "Stefcon Homes",
+            "Umbrella ID": "11636655",
+            "VB_NAME": "Stefcon Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B9648",
+            "MEMBERNAME": "Stefcon Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B9648",
+            "Umbrella": "Stefcon Homes",
+            "Umbrella ID": "11636655",
+            "VB_NAME": "Stefcon Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30478",
+            "MEMBERNAME": "1107982 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Stefcon Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "VALECREST ESTATES",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "1291 Royal York Road",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-03-02"
+        }
+    ],
+    "builderConditions": []
+}

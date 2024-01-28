@@ -1,0 +1,133 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B20533",
+            "Umbrella": "Oxford Developments",
+            "Umbrella ID": "12553042",
+            "VB_NAME": "711371 Ontario Corp.",
+            "OPERATINGNAME": "Oxford Developments",
+            "CITY": "Sharon",
+            "HCRA_INITIALLICENSEDATE": "1989-08-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-27 22:13:34.000 +0000",
+            "Expiry Date": "2024-04-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2 Farr Avenue",
+            "TELEPHONE": "905-836-9306",
+            "FAX": "905-836-8308",
+            "WEBSITEURL": "www.oxforddevelopments.ca",
+            "EMAIL": "office@oxforddevelopments.ca",
+            "ACCOUNTNUMBER": "B20533",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 16,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 16,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100207213",
+            "TO": "Lynn Boston",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-713-5350"
+        },
+        {
+            "TOUNIQUENUMBER": "100207214",
+            "TO": "Angela Meyer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-657-9184"
+        },
+        {
+            "TOUNIQUENUMBER": "100207214",
+            "TO": "Angela Meyer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-657-9184"
+        },
+        {
+            "TOUNIQUENUMBER": "332760",
+            "TO": "Mohinder Sud",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-836-9306"
+        },
+        {
+            "TOUNIQUENUMBER": "332760",
+            "TO": "Mohinder Sud",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-836-9306"
+        },
+        {
+            "TOUNIQUENUMBER": "332760",
+            "TO": "Mohinder Sud",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-836-9306"
+        },
+        {
+            "TOUNIQUENUMBER": "332757",
+            "TO": "David Sud",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-836-9306"
+        },
+        {
+            "TOUNIQUENUMBER": "332761",
+            "TO": "Raj Paul Sud",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-836-9306"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B20533",
+            "Umbrella": "Oxford Developments",
+            "Umbrella ID": "12553042",
+            "VB_NAME": "711371 Ontario Corp.",
+            "OPERATINGNAME": "Oxford Developments",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B20533",
+            "MEMBERNAME": "711371 Ontario Corp.",
+            "MEMBEROPERATINGNAME": "Oxford Developments",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B20533",
+            "Umbrella": "Oxford Developments",
+            "Umbrella ID": "12553042",
+            "VB_NAME": "711371 Ontario Corp.",
+            "OPERATINGNAME": "Oxford Developments",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48695",
+            "MEMBERNAME": "Oxford Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Eagle Square",
+            "Project Status": null,
+            "Location": "NEWMARKET",
+            "Address": " 260 Eagle St. ",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

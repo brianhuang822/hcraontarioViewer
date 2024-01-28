@@ -1,0 +1,152 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46747",
+            "Umbrella": "Guizzetti",
+            "Umbrella ID": "12532078",
+            "VB_NAME": "G Group 5220 Yonge Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2021-05-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-05 16:29:16.000 +0000",
+            "Expiry Date": "2024-05-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10 Kingsbridge Garden",
+            "TELEPHONE": "905-597-0200",
+            "FAX": null,
+            "WEBSITEURL": "ggroupdevelopment.com",
+            "EMAIL": "jlau@ggroupdevelopment.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12522901",
+            "TO": "Albert Gasparro",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "12522901",
+            "TO": "Albert Gasparro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "12522901",
+            "TO": "Albert Gasparro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "330345",
+            "TO": "Jack Scivoletto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "330345",
+            "TO": "Jack Scivoletto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "330345",
+            "TO": "Jack Scivoletto",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "12479660",
+            "TO": "Stefano Guizzetti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "12479660",
+            "TO": "Stefano Guizzetti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "12479660",
+            "TO": "Stefano Guizzetti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46747",
+            "Umbrella": "Guizzetti",
+            "Umbrella ID": "12532078",
+            "VB_NAME": "G Group 5220 Yonge Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47985",
+            "MEMBERNAME": "The Borough Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46747",
+            "Umbrella": "Guizzetti",
+            "Umbrella ID": "12532078",
+            "VB_NAME": "G Group 5220 Yonge Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41315",
+            "MEMBERNAME": "Grand Genesis Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46747",
+            "Umbrella": "Guizzetti",
+            "Umbrella ID": "12532078",
+            "VB_NAME": "G Group 5220 Yonge Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46747",
+            "MEMBERNAME": "G Group 5220 Yonge Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Ellie Condominiums",
+            "Project Status": "In Progress",
+            "Location": "NORTH YORK",
+            "Address": " 15 Ellerslie Avenue ",
+            "# of Units": 301,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

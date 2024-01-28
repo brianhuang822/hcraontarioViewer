@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41444",
+            "Umbrella": "Karisma",
+            "Umbrella ID": "12490411",
+            "VB_NAME": "Karisma Build Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Fonthill",
+            "HCRA_INITIALLICENSEDATE": "2011-07-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-01 12:38:12.000 +0000",
+            "Expiry Date": "2024-07-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6 Bacon Lane",
+            "TELEPHONE": "905-892-0123",
+            "FAX": "905/714-0017",
+            "WEBSITEURL": "www.karismahomes.com",
+            "EMAIL": "info@karismahomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 37,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 37,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12445597",
+            "TO": "Fernando Fraraccio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-0123"
+        },
+        {
+            "TOUNIQUENUMBER": "12445597",
+            "TO": "Fernando Fraraccio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-0123"
+        },
+        {
+            "TOUNIQUENUMBER": "12445597",
+            "TO": "Fernando Fraraccio",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-0123"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41444",
+            "Umbrella": "Karisma",
+            "Umbrella ID": "12490411",
+            "VB_NAME": "Karisma Build Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B12465",
+            "MEMBERNAME": "Fernando Homes Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41444",
+            "Umbrella": "Karisma",
+            "Umbrella ID": "12490411",
+            "VB_NAME": "Karisma Build Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41444",
+            "MEMBERNAME": "Karisma Build Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

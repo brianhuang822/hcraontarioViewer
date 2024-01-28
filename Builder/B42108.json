@@ -1,0 +1,169 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42108",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "1321 Gerrard Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2012-07-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-07-11 12:01:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "344 Bloor St. W., Ste. 508",
+            "TELEPHONE": "416/961-0051",
+            "FAX": "416/961-0053",
+            "WEBSITEURL": " ",
+            "EMAIL": "gpopper@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 31,
+            "SUMM_TOTAL": 31,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12188988",
+            "TO": "Justin Aykler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-413-1300"
+        },
+        {
+            "TOUNIQUENUMBER": "12188988",
+            "TO": "Justin Aykler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-413-1300"
+        },
+        {
+            "TOUNIQUENUMBER": "343337",
+            "TO": "William A. Aykler",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-413-1300"
+        },
+        {
+            "TOUNIQUENUMBER": "343781",
+            "TO": "George Popper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-573-7603"
+        },
+        {
+            "TOUNIQUENUMBER": "343781",
+            "TO": "George Popper",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-573-7603"
+        },
+        {
+            "TOUNIQUENUMBER": "343781",
+            "TO": "George Popper",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-573-7603"
+        },
+        {
+            "TOUNIQUENUMBER": "304363",
+            "TO": "Leslie Aykler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-413-1300"
+        },
+        {
+            "TOUNIQUENUMBER": "304363",
+            "TO": "Leslie Aykler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-413-1300"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42108",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "1321 Gerrard Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45499",
+            "MEMBERNAME": "14 Dewhurst Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42108",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "1321 Gerrard Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46163",
+            "MEMBERNAME": "Grid (Logan) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42108",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "1321 Gerrard Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42108",
+            "MEMBERNAME": "1321 Gerrard Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42108",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "1321 Gerrard Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37887",
+            "MEMBERNAME": "Urban Fabric Development (Colgate) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42108",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "1321 Gerrard Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46664",
+            "MEMBERNAME": "Grid (Dupont) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "East Village Leslieville",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 1321 Gerrard St., E. ",
+            "# of Units": 31,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-05-30"
+        }
+    ],
+    "builderConditions": []
+}

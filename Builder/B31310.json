@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31310",
+            "Umbrella": "Liberty Home Group",
+            "Umbrella ID": "12021287",
+            "VB_NAME": "Liberty Home Group Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "2001-02-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-02-22 16:00:37.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "160 Applewood Cres., Unit # 15",
+            "TELEPHONE": null,
+            "FAX": "(905)761-6001",
+            "WEBSITEURL": "libertyhomegroup.com",
+            "EMAIL": "vince@libertyhomegroup.com",
+            "ACCOUNTNUMBER": "B31310",
+            "Total Outstanding Amount": 25459.21,
+            "TAB": 0,
+            "BREACH": 25459.21,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 17316.15,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 17316.15
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11692298",
+            "TO": "Vincent Carlini",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-760-7776"
+        },
+        {
+            "TOUNIQUENUMBER": "11692298",
+            "TO": "Vincent Carlini",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-760-7776"
+        },
+        {
+            "TOUNIQUENUMBER": "11692298",
+            "TO": "Vincent Carlini",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-760-7776"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31310",
+            "Umbrella": "Liberty Home Group",
+            "Umbrella ID": "12021287",
+            "VB_NAME": "Liberty Home Group Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33600",
+            "MEMBERNAME": "1565192 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31310",
+            "Umbrella": "Liberty Home Group",
+            "Umbrella ID": "12021287",
+            "VB_NAME": "Liberty Home Group Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31310",
+            "MEMBERNAME": "Liberty Home Group Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44518",
+            "Umbrella": "Aya Group",
+            "Umbrella ID": "12543318",
+            "VB_NAME": "Aya Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "2015-07-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-08-14 12:00:55.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "883 Parkland Ave",
+            "TELEPHONE": "647/993-0164",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "ayman.mandouh@yahoo.com",
+            "ACCOUNTNUMBER": "B44518",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 133586.02,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 133586.02
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100303821",
+            "TO": "Fayrouz Farag",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-990-9009"
+        },
+        {
+            "TOUNIQUENUMBER": "100303820",
+            "TO": "Amr Ibrahim",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-242-4206"
+        },
+        {
+            "TOUNIQUENUMBER": "100303819",
+            "TO": "Ayman Elmandouh",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-993-0164"
+        },
+        {
+            "TOUNIQUENUMBER": "100303819",
+            "TO": "Ayman Elmandouh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-993-0164"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44518",
+            "Umbrella": "Aya Group",
+            "Umbrella ID": "12543318",
+            "VB_NAME": "Aya Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44518",
+            "MEMBERNAME": "Aya Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44518",
+            "Umbrella": "Aya Group",
+            "Umbrella ID": "12543318",
+            "VB_NAME": "Aya Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44565",
+            "MEMBERNAME": "Ayman Elmandouh",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44518",
+            "Umbrella": "Aya Group",
+            "Umbrella ID": "12543318",
+            "VB_NAME": "Aya Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44566",
+            "MEMBERNAME": "Fayrouz Farag",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28397",
+            "Umbrella": "Jason Martins & Manuel Pires",
+            "Umbrella ID": "12540095",
+            "VB_NAME": "1341634 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1999-09-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-09-11 12:34:16.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "24 Grove Ave.",
+            "TELEPHONE": "(416)537-3330",
+            "FAX": "(416)538-4464",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345158",
+            "TO": "Manuel Tome Pires",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-573-8674"
+        },
+        {
+            "TOUNIQUENUMBER": "345158",
+            "TO": "Manuel Tome Pires",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-573-8674"
+        },
+        {
+            "TOUNIQUENUMBER": "345158",
+            "TO": "Manuel Tome Pires",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-573-8674"
+        },
+        {
+            "TOUNIQUENUMBER": "345156",
+            "TO": "Jason Martins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647- 280-5664"
+        },
+        {
+            "TOUNIQUENUMBER": "345156",
+            "TO": "Jason Martins",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647- 280-5664"
+        },
+        {
+            "TOUNIQUENUMBER": "345156",
+            "TO": "Jason Martins",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647- 280-5664"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28397",
+            "Umbrella": "Jason Martins & Manuel Pires",
+            "Umbrella ID": "12540095",
+            "VB_NAME": "1341634 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32060",
+            "MEMBERNAME": "1341634 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28397",
+            "Umbrella": "Jason Martins & Manuel Pires",
+            "Umbrella ID": "12540095",
+            "VB_NAME": "1341634 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28397",
+            "MEMBERNAME": "1341634 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

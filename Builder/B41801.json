@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41801",
+            "Umbrella": "Mazenga Building Group",
+            "Umbrella ID": "12541598",
+            "VB_NAME": "Mazenga Building Group Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2012-02-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-03 14:33:44.000 +0000",
+            "Expiry Date": "2024-02-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "90 Tycos Drive",
+            "TELEPHONE": "416-483-4105",
+            "FAX": null,
+            "WEBSITEURL": "www.mazenga.com",
+            "EMAIL": "info@mazenga.com",
+            "ACCOUNTNUMBER": "B41801",
+            "Total Outstanding Amount": 11469.88,
+            "TAB": 11469.88,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 13,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 13,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12518832",
+            "TO": "Corey Hawtin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-966-2673"
+        },
+        {
+            "TOUNIQUENUMBER": "12518832",
+            "TO": "Corey Hawtin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-966-2673"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "9327571-CHG-001",
+            "CHARGE_AGAINST": "Mazenga Building Group Ltd.",
+            "CHARGE_DATE": "2019-08-06",
+            "DISPOSITION_DATE": "2022-03-31",
+            "THE_FINE_": "6250",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": null,
+            "CHARGE_CREATE_DATE": null,
+            "DISPOSITION_TYPE": null,
+            "INVESTIGATION_": "9327571",
+            "ORGANIZATION_NAME": null,
+            "PERSON_NAME": null,
+            "CITY_OFFENCE": "Toronto",
+            "CITY_DEFENCE": "Toronto",
+            "VB_NUMBER": "B41801",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": null,
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": null,
+            "INFORMATION_NUMBER": null,
+            "DEFENDANT_FIRST_NAME": null,
+            "DEFENDANT_LAST_NAME": null,
+            "CONVICTION_DESCRIPTION": null,
+            "FROM_OFFENCE_DATE": null,
+            "TO_OFFENCE_DATE": null,
+            "RESULT_FROM_TRIAL": "Convicted Fine",
+            "TOTAL_FINE_AMOUNT": "6250",
+            "FINE_AMOUNT_ON_APPEAL": null,
+            "CHARGE_TIME": null,
+            "PROBATION_ORDER": null,
+            "PROBATION_TERM": null,
+            "UNDER_APPEAL": null,
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B41801",
+            "Umbrella": "Mazenga Building Group",
+            "Umbrella ID": "12541598",
+            "VB_NAME": "Mazenga Building Group Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41801",
+            "MEMBERNAME": "Mazenga Building Group Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

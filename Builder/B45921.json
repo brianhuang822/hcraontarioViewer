@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45921",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2317511 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2017-04-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-24 19:39:39.000 +0000",
+            "Expiry Date": "2024-04-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "345 Lakeshore Road East",
+            "TELEPHONE": "905-582-0520",
+            "FAX": "905-582-4468",
+            "WEBSITEURL": null,
+            "EMAIL": "tim@altrahomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100263120",
+            "TO": "Malvinder Singh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-582-0520"
+        },
+        {
+            "TOUNIQUENUMBER": "100263120",
+            "TO": "Malvinder Singh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-582-0520"
+        },
+        {
+            "TOUNIQUENUMBER": "100263116",
+            "TO": "Timothy Le Bas de Plumetot",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-533-8016"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45921",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2317511 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Insignia",
+            "Project Status": "Cancelled",
+            "Location": "OAKVILLE",
+            "Address": " 70 Old Mill Rd. ",
+            "# of Units": 29,
+            "# of Terminations": 2,
+            "HCRA_CANCELLATIONREASON": "Zoning/Site Plan approvals not obtained;Other",
+            "Last Status Update": "2020-11-23"
+        }
+    ],
+    "builderConditions": []
+}

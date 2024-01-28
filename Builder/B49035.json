@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B49035",
+            "Umbrella": "Symel",
+            "Umbrella ID": "500000286",
+            "VB_NAME": "Symel Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-01-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-12 16:11:41.000 +0000",
+            "Expiry Date": "2025-01-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "23 Woodcliff Place",
+            "TELEPHONE": "416-990-7803",
+            "FAX": null,
+            "WEBSITEURL": "https://www.symelgroup.com",
+            "EMAIL": "konstantine.simionopoulos@symelgroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100288826",
+            "TO": "Konstantine Simionopoulos",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-990-7803"
+        },
+        {
+            "TOUNIQUENUMBER": "100288826",
+            "TO": "Konstantine Simionopoulos",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-990-7803"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B49035",
+            "Umbrella": "Symel",
+            "Umbrella ID": "500000286",
+            "VB_NAME": "Symel Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60216",
+            "MEMBERNAME": "Profile (HT) Inc.",
+            "MEMBEROPERATINGNAME": "Profile (HT) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B49035",
+            "Umbrella": "Symel",
+            "Umbrella ID": "500000286",
+            "VB_NAME": "Symel Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B49035",
+            "MEMBERNAME": "Symel Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

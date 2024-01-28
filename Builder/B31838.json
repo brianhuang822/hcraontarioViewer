@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31838",
+            "Umbrella": "Parklane Homes",
+            "Umbrella ID": "12540018",
+            "VB_NAME": "Parklane Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "ORILLIA",
+            "HCRA_INITIALLICENSEDATE": "2001-09-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-09-14 12:30:53.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4263 Forest Wood Drive",
+            "TELEPHONE": "705-326-8884",
+            "FAX": "705-327-2088",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11629978",
+            "TO": "Kimberley Pica",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705- 327-1456"
+        },
+        {
+            "TOUNIQUENUMBER": "11629978",
+            "TO": "Kimberley Pica",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705- 327-1456"
+        },
+        {
+            "TOUNIQUENUMBER": "11629977",
+            "TO": "David Pica",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-327-1456"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31838",
+            "Umbrella": "Parklane Homes",
+            "Umbrella ID": "12540018",
+            "VB_NAME": "Parklane Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30462",
+            "MEMBERNAME": "Parklane Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Parklane Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31838",
+            "Umbrella": "Parklane Homes",
+            "Umbrella ID": "12540018",
+            "VB_NAME": "Parklane Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31838",
+            "MEMBERNAME": "Parklane Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

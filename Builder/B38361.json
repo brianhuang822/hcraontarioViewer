@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38361",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "1475649 Ontario Limited",
+            "OPERATINGNAME": "Millpond Homes",
+            "CITY": "OAKVILLE",
+            "HCRA_INITIALLICENSEDATE": "2008-04-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-04-22 15:00:49.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1276 Cornwall Rd. Unit B",
+            "TELEPHONE": "905-339-0223",
+            "FAX": "905-844-5277",
+            "WEBSITEURL": "www.dqi.ca",
+            "EMAIL": "jonathan@dqi.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344403",
+            "TO": "Jonathan Sprawson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-0223"
+        },
+        {
+            "TOUNIQUENUMBER": "344403",
+            "TO": "Jonathan Sprawson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-0223"
+        },
+        {
+            "TOUNIQUENUMBER": "344403",
+            "TO": "Jonathan Sprawson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-0223"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38361",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "1475649 Ontario Limited",
+            "OPERATINGNAME": "Millpond Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46805",
+            "MEMBERNAME": "1475649 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38361",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "1475649 Ontario Limited",
+            "OPERATINGNAME": "Millpond Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38361",
+            "MEMBERNAME": "1475649 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Millpond Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38361",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "1475649 Ontario Limited",
+            "OPERATINGNAME": "Millpond Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37895",
+            "MEMBERNAME": "1578443 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38361",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "1475649 Ontario Limited",
+            "OPERATINGNAME": "Millpond Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27880",
+            "MEMBERNAME": "D.Q.I. Design Quorum Incorporated",
+            "MEMBEROPERATINGNAME": "D.Q.I.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

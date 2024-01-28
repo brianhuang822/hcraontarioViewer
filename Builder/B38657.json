@@ -1,0 +1,121 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38657",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "One Sherway T3 Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2008-04-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-04-23 12:00:35.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4711 Yonge St., Ste. 1400",
+            "TELEPHONE": "416-491-2222",
+            "FAX": "416-491-3155",
+            "WEBSITEURL": "www.greatgulfhomes.com",
+            "EMAIL": "mkaram@menkes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 221,
+            "SUMM_TOTAL": 221,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338713",
+            "TO": "Seymour Joffe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-1340"
+        },
+        {
+            "TOUNIQUENUMBER": "338713",
+            "TO": "Seymour Joffe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-1340"
+        },
+        {
+            "TOUNIQUENUMBER": "328950",
+            "TO": "Harry Rosenbaum",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-1340"
+        },
+        {
+            "TOUNIQUENUMBER": "328950",
+            "TO": "Harry Rosenbaum",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-1340"
+        },
+        {
+            "TOUNIQUENUMBER": "322762",
+            "TO": "Steven Menkes",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-491-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "322762",
+            "TO": "Steven Menkes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-491-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "322749",
+            "TO": "Alan Menkes",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-491-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "322749",
+            "TO": "Alan Menkes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-491-2222"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38657",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "One Sherway T3 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "One Sherway Tower Three",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "215 Sherway Gardens Drive",
+            "# of Units": 323,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-02-18"
+        }
+    ],
+    "builderConditions": []
+}

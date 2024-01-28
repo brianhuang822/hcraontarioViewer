@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43492",
+            "Umbrella": "Villa Nova Homes",
+            "Umbrella ID": "12541260",
+            "VB_NAME": "Villanova Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Carp",
+            "HCRA_INITIALLICENSEDATE": "2014-04-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-22 20:47:25.000 +0000",
+            "Expiry Date": "2024-04-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "204 Cedar Pond Road",
+            "TELEPHONE": "613-831-4300",
+            "FAX": "613-831-7420",
+            "WEBSITEURL": null,
+            "EMAIL": "lore.hervato@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11670785",
+            "TO": "Paolo Hervato",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-4300"
+        },
+        {
+            "TOUNIQUENUMBER": "11670785",
+            "TO": "Paolo Hervato",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-4300"
+        },
+        {
+            "TOUNIQUENUMBER": "11670785",
+            "TO": "Paolo Hervato",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-4300"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43492",
+            "Umbrella": "Villa Nova Homes",
+            "Umbrella ID": "12541260",
+            "VB_NAME": "Villanova Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31147",
+            "MEMBERNAME": "Villa Nova Homes 2000 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43492",
+            "Umbrella": "Villa Nova Homes",
+            "Umbrella ID": "12541260",
+            "VB_NAME": "Villanova Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43492",
+            "MEMBERNAME": "Villanova Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

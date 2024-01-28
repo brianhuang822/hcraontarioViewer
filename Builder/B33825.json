@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33825",
+            "Umbrella": "Paul Keenan & Floyd Hunt",
+            "Umbrella ID": "12540703",
+            "VB_NAME": "Paul Tom Keenan & Floyd Hunt",
+            "OPERATINGNAME": null,
+            "CITY": "Loretto",
+            "HCRA_INITIALLICENSEDATE": "2004-02-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-02-28 13:31:21.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "R.R.1",
+            "TELEPHONE": "905-729-2005",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11647977",
+            "TO": "Paul Keenan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 729-2005"
+        },
+        {
+            "TOUNIQUENUMBER": "338312",
+            "TO": "Floyd W. Hunt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-733-0282"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33825",
+            "Umbrella": "Paul Keenan & Floyd Hunt",
+            "Umbrella ID": "12540703",
+            "VB_NAME": "Paul Tom Keenan & Floyd Hunt",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33825",
+            "MEMBERNAME": "Paul Tom Keenan & Floyd Hunt",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33825",
+            "Umbrella": "Paul Keenan & Floyd Hunt",
+            "Umbrella ID": "12540703",
+            "VB_NAME": "Paul Tom Keenan & Floyd Hunt",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30791",
+            "MEMBERNAME": "Paul Keenan & Floyd Hunt",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

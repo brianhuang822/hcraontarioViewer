@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44019",
+            "Umbrella": "SLV HOMES",
+            "Umbrella ID": "12542087",
+            "VB_NAME": "2430808 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Sudbury",
+            "HCRA_INITIALLICENSEDATE": "2014-10-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-28 20:57:40.000 +0000",
+            "Expiry Date": "2024-10-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "715 Lorne Street",
+            "TELEPHONE": "705-673-3133",
+            "FAX": "705-673-3137",
+            "WEBSITEURL": "www.slvhomes.ca",
+            "EMAIL": "accounting@slvhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 64,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 64,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12530809",
+            "TO": "Louie Zagordo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-673-3133"
+        },
+        {
+            "TOUNIQUENUMBER": "12530809",
+            "TO": "Louie Zagordo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-673-3133"
+        },
+        {
+            "TOUNIQUENUMBER": "12530809",
+            "TO": "Louie Zagordo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-673-3133"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44019",
+            "Umbrella": "SLV HOMES",
+            "Umbrella ID": "12542087",
+            "VB_NAME": "2430808 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44019",
+            "MEMBERNAME": "2430808 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,157 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34266",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1131600 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Cobourg",
+            "HCRA_INITIALLICENSEDATE": "2004-04-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-04-02 05:00:34.000 +0000",
+            "Expiry Date": "2023-04-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "39 Queen Street",
+            "TELEPHONE": "905-372-9780",
+            "FAX": "905-372-2718",
+            "WEBSITEURL": " ",
+            "EMAIL": "info@castleheadhomes.com",
+            "ACCOUNTNUMBER": "B34266",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11993435",
+            "TO": "Ann Kerr",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-372-9780"
+        },
+        {
+            "TOUNIQUENUMBER": "11993435",
+            "TO": "Ann Kerr",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-372-9780"
+        },
+        {
+            "TOUNIQUENUMBER": "11993435",
+            "TO": "Ann Kerr",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-372-9780"
+        },
+        {
+            "TOUNIQUENUMBER": "11993432",
+            "TO": "William Kerr",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-372-9780"
+        },
+        {
+            "TOUNIQUENUMBER": "11993432",
+            "TO": "William Kerr",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-372-9780"
+        },
+        {
+            "TOUNIQUENUMBER": "11993432",
+            "TO": "William Kerr",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-372-9780"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34266",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1131600 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "774 Ontario St.",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-04-17"
+        },
+        {
+            "Condo Project Name": "DUNBAR GARDENS",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "300 D'Arcy St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-07-10"
+        },
+        {
+            "Condo Project Name": "DUNBAR GARDENS",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "300 D'Arcy St",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-04-27"
+        },
+        {
+            "Condo Project Name": "DUNBAR GARDENS",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "300 D'Arcy St.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-06-21"
+        },
+        {
+            "Condo Project Name": "DUNBAR GARDENS",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "300 D'Arcy St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-12-06"
+        },
+        {
+            "Condo Project Name": "ARGYLL TERRACE",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "121-131 University Ave",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-10-04"
+        }
+    ],
+    "builderConditions": []
+}

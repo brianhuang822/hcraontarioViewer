@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B14890",
+            "Umbrella": "ECO Homes",
+            "Umbrella ID": "12434585",
+            "VB_NAME": "The Hampton Group Inc.",
+            "OPERATINGNAME": "The Hampton Group Inc.",
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "1984-03-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-09 21:14:20.000 +0000",
+            "Expiry Date": "2024-04-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1255 Commissioners Road West",
+            "TELEPHONE": "519-471-3662",
+            "FAX": "519-471-9557",
+            "WEBSITEURL": " ",
+            "EMAIL": "sharon.williams@hamptongroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "333349",
+            "TO": "Jennifer Watson Tennant",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-471-3662"
+        },
+        {
+            "TOUNIQUENUMBER": "333346",
+            "TO": "David Dron Tennant",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-471-3662"
+        },
+        {
+            "TOUNIQUENUMBER": "333346",
+            "TO": "David Dron Tennant",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-471-3662"
+        },
+        {
+            "TOUNIQUENUMBER": "12417746",
+            "TO": "Alexander David Tennant",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-471-3662"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B14890",
+            "Umbrella": "ECO Homes",
+            "Umbrella ID": "12434585",
+            "VB_NAME": "The Hampton Group Inc.",
+            "OPERATINGNAME": "The Hampton Group Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B14890",
+            "MEMBERNAME": "The Hampton Group Inc.",
+            "MEMBEROPERATINGNAME": "The Hampton Group Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B14890",
+            "Umbrella": "ECO Homes",
+            "Umbrella ID": "12434585",
+            "VB_NAME": "The Hampton Group Inc.",
+            "OPERATINGNAME": "The Hampton Group Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45513",
+            "MEMBERNAME": "USH (Kensington-Woodbridge) Inc.",
+            "MEMBEROPERATINGNAME": "USH",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "SCOTT'S GATE",
+            "Project Status": "Completed",
+            "Location": "STRATHROY",
+            "Address": "375 Scott St.",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-12-10"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "INGERSOLL",
+            "Address": "275 George St.",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-05-09"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,132 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47281",
+            "Umbrella": "Adstruct",
+            "Umbrella ID": "12539148",
+            "VB_NAME": "Hub Ltd.",
+            "OPERATINGNAME": "Hub Development Group",
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2018-12-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-13 20:10:05.000 +0000",
+            "Expiry Date": "2024-12-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "128 Sheppard Avenue West",
+            "TELEPHONE": "416-225-6555",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "farhad@adstruct.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100530000",
+            "TO": "Jawad Hussain Zade",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-225-6555"
+        },
+        {
+            "TOUNIQUENUMBER": "100530000",
+            "TO": "Jawad Hussain Zade",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-225-6555"
+        },
+        {
+            "TOUNIQUENUMBER": "100530000",
+            "TO": "Jawad Hussain Zade",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-225-6555"
+        },
+        {
+            "TOUNIQUENUMBER": "100120197",
+            "TO": "Farhad Vatandoost",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-953-0977"
+        },
+        {
+            "TOUNIQUENUMBER": "100120197",
+            "TO": "Farhad Vatandoost",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-953-0977"
+        },
+        {
+            "TOUNIQUENUMBER": "100120197",
+            "TO": "Farhad Vatandoost",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-953-0977"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47281",
+            "Umbrella": "Adstruct",
+            "Umbrella ID": "12539148",
+            "VB_NAME": "Hub Ltd.",
+            "OPERATINGNAME": "Hub Development Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42157",
+            "MEMBERNAME": "Farhad Vatandoost and Sara Sharifian Attar",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B47281",
+            "Umbrella": "Adstruct",
+            "Umbrella ID": "12539148",
+            "VB_NAME": "Hub Ltd.",
+            "OPERATINGNAME": "Hub Development Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42658",
+            "MEMBERNAME": "Adstruct Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47281",
+            "Umbrella": "Adstruct",
+            "Umbrella ID": "12539148",
+            "VB_NAME": "Hub Ltd.",
+            "OPERATINGNAME": "Hub Development Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47281",
+            "MEMBERNAME": "Hub Ltd.",
+            "MEMBEROPERATINGNAME": "Hub Development Group",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47281",
+            "Umbrella": "Adstruct",
+            "Umbrella ID": "12539148",
+            "VB_NAME": "Hub Ltd.",
+            "OPERATINGNAME": "Hub Development Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43126",
+            "MEMBERNAME": "Hub Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41409",
+            "Umbrella": "DeMarco Construction",
+            "Umbrella ID": "12523536",
+            "VB_NAME": "DeMarco Construction Limited",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2011-12-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-05-08 04:15:19.000 +0000",
+            "Expiry Date": "2021-05-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "195 Menten Place, Unit 103",
+            "TELEPHONE": "613/829-2777",
+            "FAX": "613/829-0778",
+            "WEBSITEURL": "www.demarcoconstruction.ca",
+            "EMAIL": "demarco@demarcoconstruction.ca",
+            "ACCOUNTNUMBER": "B41409",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 12,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 12,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 6000,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 6000
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12486990",
+            "TO": "Tom DeMarco",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-829-2777"
+        },
+        {
+            "TOUNIQUENUMBER": "12486990",
+            "TO": "Tom DeMarco",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-829-2777"
+        },
+        {
+            "TOUNIQUENUMBER": "12486990",
+            "TO": "Tom DeMarco",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-829-2777"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41409",
+            "Umbrella": "DeMarco Construction",
+            "Umbrella ID": "12523536",
+            "VB_NAME": "DeMarco Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41409",
+            "MEMBERNAME": "DeMarco Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41409",
+            "Umbrella": "DeMarco Construction",
+            "Umbrella ID": "12523536",
+            "VB_NAME": "DeMarco Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41707",
+            "MEMBERNAME": "Tom DeMarco",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35846",
+            "Umbrella": "Premiere Construction Group",
+            "Umbrella ID": "12543858",
+            "VB_NAME": "Premiere Construction Ltd.",
+            "OPERATINGNAME": "Premiere Construction Ltd.",
+            "CITY": "Orleans",
+            "HCRA_INITIALLICENSEDATE": "2005-09-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-29 16:27:37.000 +0000",
+            "Expiry Date": "2024-09-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3009 St-Joseph Boulevard",
+            "TELEPHONE": "343-880-4431",
+            "FAX": "343-880-4473",
+            "WEBSITEURL": "www.premiereconstruction.ca",
+            "EMAIL": "denis.marchand@premiereconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12090421",
+            "TO": "Denis Marchand",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-875-0553"
+        },
+        {
+            "TOUNIQUENUMBER": "12090421",
+            "TO": "Denis Marchand",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-875-0553"
+        },
+        {
+            "TOUNIQUENUMBER": "12090421",
+            "TO": "Denis Marchand",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-875-0553"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35846",
+            "Umbrella": "Premiere Construction Group",
+            "Umbrella ID": "12543858",
+            "VB_NAME": "Premiere Construction Ltd.",
+            "OPERATINGNAME": "Premiere Construction Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35846",
+            "MEMBERNAME": "Premiere Construction Ltd.",
+            "MEMBEROPERATINGNAME": "Premiere Construction Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B35846",
+            "Umbrella": "Premiere Construction Group",
+            "Umbrella ID": "12543858",
+            "VB_NAME": "Premiere Construction Ltd.",
+            "OPERATINGNAME": "Premiere Construction Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35899",
+            "MEMBERNAME": "D. & A. Marchand Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

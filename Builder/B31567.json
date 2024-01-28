@@ -1,0 +1,155 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31567",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Cosmopolitan Ltd.",
+            "OPERATINGNAME": "The Cosmopolitan",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2001-10-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-03-10 13:30:48.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "150 King Street W., Ste. 2108",
+            "TELEPHONE": "416-368-2565",
+            "FAX": "416-368-2572",
+            "WEBSITEURL": "www.skylinecosmopolitan.com",
+            "EMAIL": "rossl@skylineinvestments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11709763",
+            "TO": "Hana Blutrich",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-227-9100"
+        },
+        {
+            "TOUNIQUENUMBER": "11709763",
+            "TO": "Hana Blutrich",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-227-9100"
+        },
+        {
+            "TOUNIQUENUMBER": "11709764",
+            "TO": "Janire Shmuelevitz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11709764",
+            "TO": "Janire Shmuelevitz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11709762",
+            "TO": "Gil Blutrich",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-368-2565"
+        },
+        {
+            "TOUNIQUENUMBER": "11709762",
+            "TO": "Gil Blutrich",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-368-2565"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31567",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Cosmopolitan Ltd.",
+            "OPERATINGNAME": "The Cosmopolitan",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48636",
+            "MEMBERNAME": "Skyline Edge Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31567",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Cosmopolitan Ltd.",
+            "OPERATINGNAME": "The Cosmopolitan",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41579",
+            "MEMBERNAME": "Skyline Executive Acquisitions Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31567",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Cosmopolitan Ltd.",
+            "OPERATINGNAME": "The Cosmopolitan",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43810",
+            "MEMBERNAME": "Skyline Esplanade Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31567",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Cosmopolitan Ltd.",
+            "OPERATINGNAME": "The Cosmopolitan",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47871",
+            "MEMBERNAME": "Skyline Valley Lodge Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31567",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Cosmopolitan Ltd.",
+            "OPERATINGNAME": "The Cosmopolitan",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31567",
+            "MEMBERNAME": "Skyline Cosmopolitan Ltd.",
+            "MEMBEROPERATINGNAME": "The Cosmopolitan",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE SKYLINE COSMOPOLITAN",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 8 Colborne St ",
+            "# of Units": 97,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-06-07"
+        }
+    ],
+    "builderConditions": []
+}

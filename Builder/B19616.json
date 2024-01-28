@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B19616",
+            "Umbrella": "C.H. O'Dette Construction",
+            "Umbrella ID": "12539879",
+            "VB_NAME": "C.H. O'Dette Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Elginburg",
+            "HCRA_INITIALLICENSEDATE": "1990-03-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-03-16 04:15:11.000 +0000",
+            "Expiry Date": "2022-03-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1028 Mulberry Lane",
+            "TELEPHONE": "613-376-9841",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "codetteinv@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "324888",
+            "TO": "Craig O'Dette",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-376-9841"
+        },
+        {
+            "TOUNIQUENUMBER": "324888",
+            "TO": "Craig O'Dette",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-376-9841"
+        },
+        {
+            "TOUNIQUENUMBER": "324888",
+            "TO": "Craig O'Dette",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-376-9841"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B19616",
+            "Umbrella": "C.H. O'Dette Construction",
+            "Umbrella ID": "12539879",
+            "VB_NAME": "C.H. O'Dette Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B19616",
+            "MEMBERNAME": "C.H. O'Dette Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B19616",
+            "Umbrella": "C.H. O'Dette Construction",
+            "Umbrella ID": "12539879",
+            "VB_NAME": "C.H. O'Dette Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B3107",
+            "MEMBERNAME": "C.H. O'Dette Const. Co. Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

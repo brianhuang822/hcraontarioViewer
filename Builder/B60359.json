@@ -1,0 +1,118 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60359",
+            "Umbrella": "Pine Glen",
+            "Umbrella ID": "12547355",
+            "VB_NAME": "Pine Glen Colborne Inc.",
+            "OPERATINGNAME": "Pine Glen Colborne Inc.",
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2021-07-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2024-01-09 16:19:46.000 +0000",
+            "Expiry Date": "2023-07-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2345 Wyecroft Road",
+            "TELEPHONE": "905-827-1117",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "eddie@pineglen.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 26,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 26,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12139254",
+            "TO": "Justin Pellicciotta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-697-1527"
+        },
+        {
+            "TOUNIQUENUMBER": "12139254",
+            "TO": "Justin Pellicciotta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-697-1527"
+        },
+        {
+            "TOUNIQUENUMBER": "12478888",
+            "TO": "Eddie Jurinic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-827-1117"
+        },
+        {
+            "TOUNIQUENUMBER": "12478888",
+            "TO": "Eddie Jurinic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-827-1117"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60359",
+            "Umbrella": "Pine Glen",
+            "Umbrella ID": "12547355",
+            "VB_NAME": "Pine Glen Colborne Inc.",
+            "OPERATINGNAME": "Pine Glen Colborne Inc.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60359",
+            "MEMBERNAME": "Pine Glen Colborne Inc.",
+            "MEMBEROPERATINGNAME": "Pine Glen Colborne Inc.",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B60359",
+            "Umbrella": "Pine Glen",
+            "Umbrella ID": "12547355",
+            "VB_NAME": "Pine Glen Colborne Inc.",
+            "OPERATINGNAME": "Pine Glen Colborne Inc.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60348",
+            "MEMBERNAME": "Pine Glen Homes Inc.",
+            "MEMBEROPERATINGNAME": "Pine Glen Homes Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60359",
+            "Umbrella": "Pine Glen",
+            "Umbrella ID": "12547355",
+            "VB_NAME": "Pine Glen Colborne Inc.",
+            "OPERATINGNAME": "Pine Glen Colborne Inc.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41308",
+            "MEMBERNAME": "Pine Glen Developments Inc.",
+            "MEMBEROPERATINGNAME": "Pine Glen Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60359",
+            "Umbrella": "Pine Glen",
+            "Umbrella ID": "12547355",
+            "VB_NAME": "Pine Glen Colborne Inc.",
+            "OPERATINGNAME": "Pine Glen Colborne Inc.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47647",
+            "MEMBERNAME": "Pine Glen Thorold Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

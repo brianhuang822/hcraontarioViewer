@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B13826",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sloot Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Arkell",
+            "HCRA_INITIALLICENSEDATE": "1986-06-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-12 15:50:05.000 +0000",
+            "Expiry Date": "2024-07-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "599 Arkell Road",
+            "TELEPHONE": "519-836-6142",
+            "FAX": "519-836-9095",
+            "WEBSITEURL": "www.slootconstruction.com",
+            "EMAIL": "admin@slootconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 56,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 56,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "331432",
+            "TO": "John Sloot",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-836-6142"
+        },
+        {
+            "TOUNIQUENUMBER": "331432",
+            "TO": "John Sloot",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-836-6142"
+        },
+        {
+            "TOUNIQUENUMBER": "331432",
+            "TO": "John Sloot",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-836-6142"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B13826",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sloot Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Green Valley Estates",
+            "Project Status": null,
+            "Location": "GUELPH",
+            "Address": "15 Yarl Place",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Fox Run Manors/Fox Run Estates II",
+            "Project Status": null,
+            "Location": "PUSLINCH",
+            "Address": "Timberwalk Drive And Brooklyn Lane",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

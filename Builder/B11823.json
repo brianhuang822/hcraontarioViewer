@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11823",
+            "Umbrella": "T & M Fergus Developments",
+            "Umbrella ID": "12541222",
+            "VB_NAME": "T.& M. Fergus Developments Ltd.",
+            "OPERATINGNAME": "Studio Homes",
+            "CITY": "BRANTFORD",
+            "HCRA_INITIALLICENSEDATE": "1985-11-22",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "1996-10-03 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "79 Ludlow Crescent",
+            "TELEPHONE": "(519)753-1811",
+            "FAX": "(519)753-1811",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "310921",
+            "TO": "Michele Fergus",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-753-1811"
+        },
+        {
+            "TOUNIQUENUMBER": "310922",
+            "TO": "Tim Fergus",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-753-1811"
+        },
+        {
+            "TOUNIQUENUMBER": "328443",
+            "TO": "Samuel (Sam) Rizzo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11823",
+            "Umbrella": "T & M Fergus Developments",
+            "Umbrella ID": "12541222",
+            "VB_NAME": "T.& M. Fergus Developments Ltd.",
+            "OPERATINGNAME": "Studio Homes",
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B11823",
+            "MEMBERNAME": "T.& M. Fergus Developments Ltd.",
+            "MEMBEROPERATINGNAME": "Studio Homes",
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

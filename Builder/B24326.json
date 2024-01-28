@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24326",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Headon Place Developments Inc.",
+            "OPERATINGNAME": "Headon Place",
+            "CITY": "BURLINGTON",
+            "HCRA_INITIALLICENSEDATE": "1994-11-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-11-03 13:35:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "678 Guelph Line, Unit 4A",
+            "TELEPHONE": "(905)333-3332",
+            "FAX": "(905)632-0974",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "337525",
+            "TO": "Brendan Chiu",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "337525",
+            "TO": "Brendan Chiu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "337525",
+            "TO": "Brendan Chiu",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "337526",
+            "TO": "Katherine Chiu",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "337526",
+            "TO": "Katherine Chiu",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "337526",
+            "TO": "Katherine Chiu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24326",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Headon Place Developments Inc.",
+            "OPERATINGNAME": "Headon Place",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HEADON PLACE",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "2355 Headon Road",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-12-18"
+        },
+        {
+            "Condo Project Name": "HEADON PLACE",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "2355-2357 Headon Road",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-02-24"
+        },
+        {
+            "Condo Project Name": "HEADON PLACE",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "2355-2357 Headon Road",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-08-29"
+        }
+    ],
+    "builderConditions": []
+}

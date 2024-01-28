@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22308",
+            "Umbrella": "DeNoble Homes",
+            "Umbrella ID": "11759715",
+            "VB_NAME": "784534 Ontario Inc.",
+            "OPERATINGNAME": "DeNoble Homes",
+            "CITY": "Whitby",
+            "HCRA_INITIALLICENSEDATE": "1992-10-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-06 20:03:07.000 +0000",
+            "Expiry Date": "2024-10-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1300 Giffard St",
+            "TELEPHONE": "905-444-9668",
+            "FAX": "905-444-9789",
+            "WEBSITEURL": "https://denoblehomes.com/",
+            "EMAIL": "info@denoblehomes.com",
+            "ACCOUNTNUMBER": "B22308",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 57,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 57,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "302546",
+            "TO": "Steve DeNoble",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-444-9668"
+        },
+        {
+            "TOUNIQUENUMBER": "302546",
+            "TO": "Steve DeNoble",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-444-9668"
+        },
+        {
+            "TOUNIQUENUMBER": "302546",
+            "TO": "Steve DeNoble",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-444-9668"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22308",
+            "Umbrella": "DeNoble Homes",
+            "Umbrella ID": "11759715",
+            "VB_NAME": "784534 Ontario Inc.",
+            "OPERATINGNAME": "DeNoble Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32001",
+            "MEMBERNAME": "Stelar Properties Ltd.",
+            "MEMBEROPERATINGNAME": "DeNoble Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22308",
+            "Umbrella": "DeNoble Homes",
+            "Umbrella ID": "11759715",
+            "VB_NAME": "784534 Ontario Inc.",
+            "OPERATINGNAME": "DeNoble Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B22308",
+            "MEMBERNAME": "784534 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "DeNoble Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B22308",
+            "Umbrella": "DeNoble Homes",
+            "Umbrella ID": "11759715",
+            "VB_NAME": "784534 Ontario Inc.",
+            "OPERATINGNAME": "DeNoble Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60274",
+            "MEMBERNAME": "The Inverlynn Estate Ltd.",
+            "MEMBEROPERATINGNAME": "The Inverlynn Estate Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

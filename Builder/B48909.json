@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48909",
+            "Umbrella": "ERTH Homes",
+            "Umbrella ID": "12553185",
+            "VB_NAME": "ERTH Home Builders Inc. ",
+            "OPERATINGNAME": null,
+            "CITY": "BOLTON",
+            "HCRA_INITIALLICENSEDATE": "2021-01-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-01-22 04:15:41.000 +0000",
+            "Expiry Date": "2022-01-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "55 Goodfellow Crescent",
+            "TELEPHONE": "416/526-3909",
+            "FAX": null,
+            "WEBSITEURL": "www.erth.com",
+            "EMAIL": "a@erth.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100682624",
+            "TO": "Andrew Guido",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-526-3909"
+        },
+        {
+            "TOUNIQUENUMBER": "100682848",
+            "TO": "Abid Iqbal",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-700-2017"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48909",
+            "Umbrella": "ERTH Homes",
+            "Umbrella ID": "12553185",
+            "VB_NAME": "ERTH Home Builders Inc. ",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48909",
+            "MEMBERNAME": "ERTH Home Builders Inc. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48909",
+            "Umbrella": "ERTH Homes",
+            "Umbrella ID": "12553185",
+            "VB_NAME": "ERTH Home Builders Inc. ",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B49000",
+            "MEMBERNAME": "72 Montrose Inc. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

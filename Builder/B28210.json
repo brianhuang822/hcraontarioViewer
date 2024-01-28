@@ -1,0 +1,211 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28210",
+            "Umbrella": "Pol Quality Homes",
+            "Umbrella ID": "12539943",
+            "VB_NAME": "Pol Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Mitchell",
+            "HCRA_INITIALLICENSEDATE": "1999-05-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-09 18:06:03.000 +0000",
+            "Expiry Date": "2024-05-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "139 Herbert Street",
+            "TELEPHONE": "519-348-5005",
+            "FAX": "519-393-5205",
+            "WEBSITEURL": " ",
+            "EMAIL": "office@polqualityhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 75,
+            "SUMM_CONDO": 97,
+            "SUMM_TOTAL": 172,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100121365",
+            "TO": "Richard Pol",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-348-5005"
+        },
+        {
+            "TOUNIQUENUMBER": "100121365",
+            "TO": "Richard Pol",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-348-5005"
+        },
+        {
+            "TOUNIQUENUMBER": "100121365",
+            "TO": "Richard Pol",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-348-5005"
+        },
+        {
+            "TOUNIQUENUMBER": "12231147",
+            "TO": "Daryl Pol",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-272-6896"
+        },
+        {
+            "TOUNIQUENUMBER": "12231147",
+            "TO": "Daryl Pol",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-272-6896"
+        },
+        {
+            "TOUNIQUENUMBER": "12231147",
+            "TO": "Daryl Pol",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-272-6896"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28210",
+            "Umbrella": "Pol Quality Homes",
+            "Umbrella ID": "12539943",
+            "VB_NAME": "Pol Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B19994",
+            "MEMBERNAME": "715343 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Pol Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28210",
+            "Umbrella": "Pol Quality Homes",
+            "Umbrella ID": "12539943",
+            "VB_NAME": "Pol Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26751",
+            "MEMBERNAME": "James W. Pol",
+            "MEMBEROPERATINGNAME": "Pol Quality Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28210",
+            "Umbrella": "Pol Quality Homes",
+            "Umbrella ID": "12539943",
+            "VB_NAME": "Pol Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28210",
+            "MEMBERNAME": "Pol Quality Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Creekside Condominiums",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": " 379 Romeo Street ",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-07-06"
+        },
+        {
+            "Condo Project Name": "Creekside Condominiums",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": " 379 Romeo Street ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-01-27"
+        },
+        {
+            "Condo Project Name": "North Haven Condominiums",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": " 3192 Vivian Line 37 (Formerly 3194 Vivian Line 37 ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-02-28"
+        },
+        {
+            "Condo Project Name": "North Haven Condominiums",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": " 3194 Vivian Line 37 ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-07-12"
+        },
+        {
+            "Condo Project Name": "North Haven Condominiums",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": " 3205 Vivian Line 37 ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-05-14"
+        },
+        {
+            "Condo Project Name": "North Haven Condominiums",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": "3199 &3205 Vivian Line 37",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-09-24"
+        },
+        {
+            "Condo Project Name": "West Gore Condos",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": "589 West Gore St.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-07-11"
+        },
+        {
+            "Condo Project Name": "West Gore Condos",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": "589 West Gore St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-01-04"
+        },
+        {
+            "Condo Project Name": "Borden Street Condos",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": "Borden St.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-10-19"
+        }
+    ],
+    "builderConditions": []
+}

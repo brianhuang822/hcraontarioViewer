@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48281",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1817955 Ontario Ltd.",
+            "OPERATINGNAME": "Hill Build",
+            "CITY": "Port Elgin",
+            "HCRA_INITIALLICENSEDATE": "2021-01-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-11 17:42:35.000 +0000",
+            "Expiry Date": "2025-01-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1020 Goderich Street",
+            "TELEPHONE": "519-832-3330",
+            "FAX": null,
+            "WEBSITEURL": "www.hillbuild.com",
+            "EMAIL": "ahill@hillbuild.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100281444",
+            "TO": "Andrew Hill",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-389-4846"
+        },
+        {
+            "TOUNIQUENUMBER": "100281444",
+            "TO": "Andrew Hill",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-389-4846"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48281",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1817955 Ontario Ltd.",
+            "OPERATINGNAME": "Hill Build",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Powerlink Residences",
+            "Project Status": "In Progress",
+            "Location": "PORT ELGIN",
+            "Address": " 1020 Goderich St. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

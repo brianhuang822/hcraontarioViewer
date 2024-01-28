@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39862",
+            "Umbrella": "Hazelton Homes",
+            "Umbrella ID": "12540621",
+            "VB_NAME": "Hazelton Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2009-09-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-09-11 12:00:44.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "54 Franklin Ave.",
+            "TELEPHONE": "416-440-1206",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "hazeltonhomes@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "321435",
+            "TO": "Vito Tamma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-440-1206"
+        },
+        {
+            "TOUNIQUENUMBER": "321435",
+            "TO": "Vito Tamma",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-440-1206"
+        },
+        {
+            "TOUNIQUENUMBER": "321435",
+            "TO": "Vito Tamma",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-440-1206"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39862",
+            "Umbrella": "Hazelton Homes",
+            "Umbrella ID": "12540621",
+            "VB_NAME": "Hazelton Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25038",
+            "MEMBERNAME": "V. P. Tamma Investments Limited",
+            "MEMBEROPERATINGNAME": "Tamma Const Co",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39862",
+            "Umbrella": "Hazelton Homes",
+            "Umbrella ID": "12540621",
+            "VB_NAME": "Hazelton Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33197",
+            "MEMBERNAME": "Hazelton Homes Inc.",
+            "MEMBEROPERATINGNAME": "Hazelton Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39862",
+            "Umbrella": "Hazelton Homes",
+            "Umbrella ID": "12540621",
+            "VB_NAME": "Hazelton Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39862",
+            "MEMBERNAME": "Hazelton Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31690",
+            "Umbrella": "Porter",
+            "Umbrella ID": "12547058",
+            "VB_NAME": "Penelope Belanger",
+            "OPERATINGNAME": "Gentry Homes",
+            "CITY": "Odessa",
+            "HCRA_INITIALLICENSEDATE": "2001-08-13",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2019-11-09 01:03:14.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5918 Hwy 2 Loyalist TP RR1",
+            "TELEPHONE": "613-634-8882",
+            "FAX": "613/507-8842",
+            "WEBSITEURL": " ",
+            "EMAIL": "jpdevelopment@bell.net",
+            "ACCOUNTNUMBER": "B31690",
+            "Total Outstanding Amount": 134223.31,
+            "TAB": 0,
+            "BREACH": 134223.31,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 6,
+            "SUMM_MINOR_AMT": 322335.14,
+            "SUMM_MAJOR": 4,
+            "SUMM_MAJOR_AMT": 35183.31,
+            "SUMM_TOTAL_CLAIMS": 357518.45
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11718755",
+            "TO": "Penelope Belanger",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-561-1340"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31690",
+            "Umbrella": "Porter",
+            "Umbrella ID": "12547058",
+            "VB_NAME": "Penelope Belanger",
+            "OPERATINGNAME": "Gentry Homes",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B31690",
+            "MEMBERNAME": "Penelope Belanger",
+            "MEMBEROPERATINGNAME": "Gentry Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B31690",
+            "Umbrella": "Porter",
+            "Umbrella ID": "12547058",
+            "VB_NAME": "Penelope Belanger",
+            "OPERATINGNAME": "Gentry Homes",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B45562",
+            "MEMBERNAME": "J.P. Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

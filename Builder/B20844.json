@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B20844",
+            "Umbrella": "Manryk Construction",
+            "Umbrella ID": "12540423",
+            "VB_NAME": "Manryk Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "THUNDER BAY",
+            "HCRA_INITIALLICENSEDATE": "1991-03-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1995-03-16 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2340 Sandpiper Dr., Site 9, Comp.70, R.R.#2",
+            "TELEPHONE": "(807)473-4518",
+            "FAX": "(807)473-3607",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "321081",
+            "TO": "John William Manryk",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-767-0061"
+        },
+        {
+            "TOUNIQUENUMBER": "321081",
+            "TO": "John William Manryk",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-767-0061"
+        },
+        {
+            "TOUNIQUENUMBER": "321081",
+            "TO": "John William Manryk",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-767-0061"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B20844",
+            "Umbrella": "Manryk Construction",
+            "Umbrella ID": "12540423",
+            "VB_NAME": "Manryk Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26338",
+            "MEMBERNAME": "Manryk Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B20844",
+            "Umbrella": "Manryk Construction",
+            "Umbrella ID": "12540423",
+            "VB_NAME": "Manryk Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B20844",
+            "MEMBERNAME": "Manryk Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -5,6 +5,7 @@ import time
 
 BASE_URL = "https://obd.hcraontario.ca/api/"
 
+api_calls_made = 0
 def read_json(file_path):
     """Reads and returns JSON data from a file."""
     try:
@@ -33,8 +34,10 @@ def file_exists_and_not_empty(file_path):
 
 def fetch_api_data(api, account_number):
     """Fetches data from the API for a given endpoint and account number."""
+    global api_calls_made
     try:
         response = requests.get(f"{BASE_URL}{api}?id={account_number}")
+        api_calls_made += 1
         return response.json()
     except requests.RequestException as e:
         print(f"Error fetching data from API {api} for account {account_number}: {e}")
@@ -89,14 +92,19 @@ def make_api_calls(account_number, license_status):
 
 def main():
     """Main function to initiate API calls."""
+    global api_calls_made
     try:
         builders = read_json("builders.json")
         if builders:
+            api_calls_made = 0
             for item in builders:
                 account_number = item["ACCOUNTNUMBER"]
                 license_status = item["LICENSESTATUS"]
                 print(f"Requesting data for account {account_number}")
                 make_api_calls(account_number, license_status)
+            if api_calls_made == 0:
+                print("Download completed")
+                exit(0)
     except KeyboardInterrupt:
         print("Process interrupted by user.")
 

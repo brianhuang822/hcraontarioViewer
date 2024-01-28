@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32665",
+            "Umbrella": "Holland Homes Hampton",
+            "Umbrella ID": "12542834",
+            "VB_NAME": "Seattle Group Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "OSHAWA",
+            "HCRA_INITIALLICENSEDATE": "2002-10-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-11-01 16:00:55.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "289 Oshawa Blvd. N.",
+            "TELEPHONE": "(905) 213-6664",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11813825",
+            "TO": "Ryan K. Holland",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-419-2723"
+        },
+        {
+            "TOUNIQUENUMBER": "11813825",
+            "TO": "Ryan K. Holland",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-419-2723"
+        },
+        {
+            "TOUNIQUENUMBER": "11813825",
+            "TO": "Ryan K. Holland",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-419-2723"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32665",
+            "Umbrella": "Holland Homes Hampton",
+            "Umbrella ID": "12542834",
+            "VB_NAME": "Seattle Group Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32665",
+            "MEMBERNAME": "Seattle Group Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32665",
+            "Umbrella": "Holland Homes Hampton",
+            "Umbrella ID": "12542834",
+            "VB_NAME": "Seattle Group Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44335",
+            "MEMBERNAME": "Holland Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

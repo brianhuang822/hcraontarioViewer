@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B19731",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Elgin Manor Development Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "STRATFORD",
+            "HCRA_INITIALLICENSEDATE": "1990-03-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1994-04-22 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "150 St. Patrick St.",
+            "TELEPHONE": "(519)273-7297",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "328209",
+            "TO": "Matthew J. Richards",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "328209",
+            "TO": "Matthew J. Richards",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "328209",
+            "TO": "Matthew J. Richards",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "323470",
+            "TO": "Henry G. Monteith",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "323470",
+            "TO": "Henry G. Monteith",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "323470",
+            "TO": "Henry G. Monteith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B19731",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Elgin Manor Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "ELGIN MANOR PHASE II",
+            "Project Status": "Completed",
+            "Location": "PORT ELGIN",
+            "Address": "834-874 Vitoria St. North",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1992-07-21"
+        },
+        {
+            "Condo Project Name": "ELGIN MANOR PHASE I",
+            "Project Status": "Completed",
+            "Location": "PORT ELGIN",
+            "Address": "834-874 Victoria St. N.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-05-31"
+        }
+    ],
+    "builderConditions": []
+}

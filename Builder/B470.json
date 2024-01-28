@@ -1,0 +1,154 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B470",
+            "Umbrella": "Edmond St. Amour Contracting (2000)",
+            "Umbrella ID": "11763385",
+            "VB_NAME": "Edmond St. Amour Contracting (1987) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "GLOUCESTER",
+            "HCRA_INITIALLICENSEDATE": "1979-06-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-08-22 12:31:08.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1819 Elmridge Dr.",
+            "TELEPHONE": "(613)749-7624",
+            "FAX": "(613)749-4221",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332110",
+            "TO": "Edmond St. Amour",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-731-7428"
+        },
+        {
+            "TOUNIQUENUMBER": "332110",
+            "TO": "Edmond St. Amour",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-731-7428"
+        },
+        {
+            "TOUNIQUENUMBER": "340085",
+            "TO": "Andre St. Amour",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332111",
+            "TO": "Jeffrey St. Amour",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332111",
+            "TO": "Jeffrey St. Amour",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332111",
+            "TO": "Jeffrey St. Amour",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332112",
+            "TO": "Mark St. Amour",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332112",
+            "TO": "Mark St. Amour",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332112",
+            "TO": "Mark St. Amour",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "327544",
+            "TO": "Kenneth Radnoff",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "327544",
+            "TO": "Kenneth Radnoff",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B470",
+            "Umbrella": "Edmond St. Amour Contracting (2000)",
+            "Umbrella ID": "11763385",
+            "VB_NAME": "Edmond St. Amour Contracting (1987) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32032",
+            "MEMBERNAME": "Edmond St. Amour Contracting (2000) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B470",
+            "Umbrella": "Edmond St. Amour Contracting (2000)",
+            "Umbrella ID": "11763385",
+            "VB_NAME": "Edmond St. Amour Contracting (1987) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B470",
+            "MEMBERNAME": "Edmond St. Amour Contracting (1987) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "Carling Ave.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1986-05-23"
+        }
+    ],
+    "builderConditions": []
+}

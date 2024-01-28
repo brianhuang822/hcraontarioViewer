@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34173",
+            "Umbrella": "Paul Brodie Building & Contracting",
+            "Umbrella ID": "12540425",
+            "VB_NAME": "Paul Brodie Building & Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "HUNTSVILLE",
+            "HCRA_INITIALLICENSEDATE": "2004-03-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-03-05 16:00:41.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "504 Lynx Lake Rd., R.R.#2",
+            "TELEPHONE": "(705)787-0360",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "pbrodie@vianet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304253",
+            "TO": "Paul A. Brodie",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705- 787-0360"
+        },
+        {
+            "TOUNIQUENUMBER": "304253",
+            "TO": "Paul A. Brodie",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705- 787-0360"
+        },
+        {
+            "TOUNIQUENUMBER": "304253",
+            "TO": "Paul A. Brodie",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705- 787-0360"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34173",
+            "Umbrella": "Paul Brodie Building & Contracting",
+            "Umbrella ID": "12540425",
+            "VB_NAME": "Paul Brodie Building & Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33044",
+            "MEMBERNAME": "Paul A. Brodie",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34173",
+            "Umbrella": "Paul Brodie Building & Contracting",
+            "Umbrella ID": "12540425",
+            "VB_NAME": "Paul Brodie Building & Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34173",
+            "MEMBERNAME": "Paul Brodie Building & Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34173",
+            "Umbrella": "Paul Brodie Building & Contracting",
+            "Umbrella ID": "12540425",
+            "VB_NAME": "Paul Brodie Building & Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B2024",
+            "MEMBERNAME": "Paul A. Brodie Building & Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

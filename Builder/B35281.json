@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35281",
+            "Umbrella": "Mindale Construction",
+            "Umbrella ID": "12083225",
+            "VB_NAME": "Mindale Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "ORILLIA",
+            "HCRA_INITIALLICENSEDATE": "2005-03-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-03-04 14:30:55.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2590 Uhthoff Line, R.R. 4",
+            "TELEPHONE": "705-325-8814",
+            "FAX": "705-325-9836",
+            "WEBSITEURL": null,
+            "EMAIL": "mindale.construction@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11953248",
+            "TO": "Dale Beers",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-325-8814"
+        },
+        {
+            "TOUNIQUENUMBER": "11953248",
+            "TO": "Dale Beers",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-325-8814"
+        },
+        {
+            "TOUNIQUENUMBER": "11953248",
+            "TO": "Dale Beers",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-325-8814"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35281",
+            "Umbrella": "Mindale Construction",
+            "Umbrella ID": "12083225",
+            "VB_NAME": "Mindale Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33865",
+            "MEMBERNAME": "Dale Beers",
+            "MEMBEROPERATINGNAME": "Mindale Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35281",
+            "Umbrella": "Mindale Construction",
+            "Umbrella ID": "12083225",
+            "VB_NAME": "Mindale Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35281",
+            "MEMBERNAME": "Mindale Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

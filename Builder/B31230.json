@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31230",
+            "Umbrella": "K. Steiner Construction",
+            "Umbrella ID": "12539877",
+            "VB_NAME": "1409407 Ontario Inc.",
+            "OPERATINGNAME": "K. Steiner Const. Co.",
+            "CITY": "Gilford",
+            "HCRA_INITIALLICENSEDATE": "2001-02-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-05 20:00:38.000 +0000",
+            "Expiry Date": "2024-07-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2752 Line 13",
+            "TELEPHONE": "905-955-5521",
+            "FAX": "905-775-3542",
+            "WEBSITEURL": " ",
+            "EMAIL": "K.Steiner@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345301",
+            "TO": "Ken Steiner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-775-4034"
+        },
+        {
+            "TOUNIQUENUMBER": "345301",
+            "TO": "Ken Steiner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-775-4034"
+        },
+        {
+            "TOUNIQUENUMBER": "345301",
+            "TO": "Ken Steiner",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-775-4034"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31230",
+            "Umbrella": "K. Steiner Construction",
+            "Umbrella ID": "12539877",
+            "VB_NAME": "1409407 Ontario Inc.",
+            "OPERATINGNAME": "K. Steiner Const. Co.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28480",
+            "MEMBERNAME": "Ken Steiner",
+            "MEMBEROPERATINGNAME": "K. Steiner Construction Co.",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31230",
+            "Umbrella": "K. Steiner Construction",
+            "Umbrella ID": "12539877",
+            "VB_NAME": "1409407 Ontario Inc.",
+            "OPERATINGNAME": "K. Steiner Const. Co.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31230",
+            "MEMBERNAME": "1409407 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "K. Steiner Const. Co.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

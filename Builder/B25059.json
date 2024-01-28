@@ -1,0 +1,155 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25059",
+            "Umbrella": "DeHaan Homes",
+            "Umbrella ID": "12552901",
+            "VB_NAME": "DeHaan Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Ridgeville",
+            "HCRA_INITIALLICENSEDATE": "1995-08-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-01 21:45:14.000 +0000",
+            "Expiry Date": "2024-08-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 142",
+            "TELEPHONE": "905-892-6518",
+            "FAX": "905-892-8809",
+            "WEBSITEURL": "www.dehaanhomes.ca",
+            "EMAIL": "arie.dehaan@dehaanhomes.ca",
+            "ACCOUNTNUMBER": "B25059",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 131,
+            "SUMM_CONDO": 24,
+            "SUMM_TOTAL": 155,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 156380.27,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 156380.27
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "318875",
+            "TO": "Martha Dehaan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-6391"
+        },
+        {
+            "TOUNIQUENUMBER": "318875",
+            "TO": "Martha Dehaan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-6391"
+        },
+        {
+            "TOUNIQUENUMBER": "341092",
+            "TO": "Arie Dehaan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-6518"
+        },
+        {
+            "TOUNIQUENUMBER": "341092",
+            "TO": "Arie Dehaan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-6518"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25059",
+            "Umbrella": "DeHaan Homes",
+            "Umbrella ID": "12552901",
+            "VB_NAME": "DeHaan Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48651",
+            "MEMBERNAME": "Juri Holdings Inc. and DeHaan Homes",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25059",
+            "Umbrella": "DeHaan Homes",
+            "Umbrella ID": "12552901",
+            "VB_NAME": "DeHaan Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25059",
+            "MEMBERNAME": "DeHaan Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Early Dawn Estates",
+            "Project Status": null,
+            "Location": "LINCOLN",
+            "Address": "3545 Campden Rd.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Canboro Place",
+            "Project Status": null,
+            "Location": "FONTHILL",
+            "Address": " 190 Canboro Road ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Lakeland Landing",
+            "Project Status": null,
+            "Location": "GRIMSBY",
+            "Address": "61 Lake St.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Crossings on the Twenty",
+            "Project Status": "Completed",
+            "Location": "SMITHVILLE",
+            "Address": " 6288 Townline Rd. ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-11-29"
+        },
+        {
+            "Condo Project Name": "MAPLE CREEK LANDING",
+            "Project Status": "Completed",
+            "Location": "DUNNVILLE",
+            "Address": " 1041 Pine St ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-10-12"
+        },
+        {
+            "Condo Project Name": "MAPLE CREEK LANDING",
+            "Project Status": "Completed",
+            "Location": "DUNNVILLE",
+            "Address": " 1041 Pine St. ",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-08-14"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,105 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41632",
+            "Umbrella": "BSAR Group",
+            "Umbrella ID": "12510137",
+            "VB_NAME": "BSAR (Eglinton) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2011-11-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-02-05 14:00:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "36 Toronto St., Ste. 250",
+            "TELEPHONE": "416/368-3400",
+            "FAX": "416/368-3501",
+            "WEBSITEURL": "www.bsargroup.com",
+            "EMAIL": "thershberg@bsargroup.com",
+            "ACCOUNTNUMBER": "B41632",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 91,
+            "SUMM_TOTAL": 91,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 7500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7500
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12407385",
+            "TO": "Tarek Sobhi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-368-3407"
+        },
+        {
+            "TOUNIQUENUMBER": "12407385",
+            "TO": "Tarek Sobhi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-368-3407"
+        },
+        {
+            "TOUNIQUENUMBER": "12407384",
+            "TO": "Tyler Hershberg",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-368-3400"
+        },
+        {
+            "TOUNIQUENUMBER": "12407387",
+            "TO": "Hani Rashid",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-4499"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41632",
+            "Umbrella": "BSAR Group",
+            "Umbrella ID": "12510137",
+            "VB_NAME": "BSAR (Eglinton) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40464",
+            "MEMBERNAME": "BSAR (Beverley) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41632",
+            "Umbrella": "BSAR Group",
+            "Umbrella ID": "12510137",
+            "VB_NAME": "BSAR (Eglinton) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41632",
+            "MEMBERNAME": "BSAR (Eglinton) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Hill Condominiums",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "170 Chiltern Hill Rd.",
+            "# of Units": 91,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-04-03"
+        }
+    ],
+    "builderConditions": []
+}

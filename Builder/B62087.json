@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62087",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "MHR Real Estate Corp.",
+            "OPERATINGNAME": "MHR Real Estate Corp.",
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2023-04-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-12 19:16:48.000 +0000",
+            "Expiry Date": "2024-04-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1617 Shore Road",
+            "TELEPHONE": "519-631-1947",
+            "FAX": "Na",
+            "WEBSITEURL": "https://na",
+            "EMAIL": "mary@mhrdevelopment.org",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600013275",
+            "TO": "Michael Lynch",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-933-8441"
+        },
+        {
+            "TOUNIQUENUMBER": "600013275",
+            "TO": "Michael Lynch",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-933-8441"
+        },
+        {
+            "TOUNIQUENUMBER": "600009875",
+            "TO": "Mary Barton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-631-1947"
+        },
+        {
+            "TOUNIQUENUMBER": "600009875",
+            "TO": "Mary Barton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-631-1947"
+        },
+        {
+            "TOUNIQUENUMBER": "600013986",
+            "TO": "Hunter Barton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "437-213-2907"
+        },
+        {
+            "TOUNIQUENUMBER": "600013986",
+            "TO": "Hunter Barton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "437-213-2907"
+        },
+        {
+            "TOUNIQUENUMBER": "600013987",
+            "TO": "John Barton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600013987",
+            "TO": "John Barton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62087",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "MHR Real Estate Corp.",
+            "OPERATINGNAME": "MHR Real Estate Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

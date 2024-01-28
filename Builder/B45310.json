@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45310",
+            "Umbrella": "Phillip Hazzard",
+            "Umbrella ID": "12544734",
+            "VB_NAME": "Hazzard Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2016-05-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-15 17:03:19.000 +0000",
+            "Expiry Date": "2024-05-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 67048 RPO Sunningdale",
+            "TELEPHONE": "519-200-7327",
+            "FAX": null,
+            "WEBSITEURL": "www.hazzardhomes.ca",
+            "EMAIL": "phillip@hazzardhomes.ca",
+            "ACCOUNTNUMBER": "B45310",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 134,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 134,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12480317",
+            "TO": "Phillip Hazzard",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-268-7891"
+        },
+        {
+            "TOUNIQUENUMBER": "12480317",
+            "TO": "Phillip Hazzard",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-268-7891"
+        },
+        {
+            "TOUNIQUENUMBER": "12480317",
+            "TO": "Phillip Hazzard",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-268-7891"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45310",
+            "Umbrella": "Phillip Hazzard",
+            "Umbrella ID": "12544734",
+            "VB_NAME": "Hazzard Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43868",
+            "MEMBERNAME": "Phillip Hazzard",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45310",
+            "Umbrella": "Phillip Hazzard",
+            "Umbrella ID": "12544734",
+            "VB_NAME": "Hazzard Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45310",
+            "MEMBERNAME": "Hazzard Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

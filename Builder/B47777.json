@@ -1,0 +1,128 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47777",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "DVLP Property Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Brampton",
+            "HCRA_INITIALLICENSEDATE": "2020-02-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-02-09 04:15:05.000 +0000",
+            "Expiry Date": "2022-02-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1 Kawana Road",
+            "TELEPHONE": "416-520-0969",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "ayazadatiya@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100581744",
+            "TO": "Saleem Moosa",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-278-9467"
+        },
+        {
+            "TOUNIQUENUMBER": "100581744",
+            "TO": "Saleem Moosa",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-278-9467"
+        },
+        {
+            "TOUNIQUENUMBER": "100581744",
+            "TO": "Saleem Moosa",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-278-9467"
+        },
+        {
+            "TOUNIQUENUMBER": "100575005",
+            "TO": "Ayaz Adatiya",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-0969"
+        },
+        {
+            "TOUNIQUENUMBER": "100575005",
+            "TO": "Ayaz Adatiya",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-0969"
+        },
+        {
+            "TOUNIQUENUMBER": "100575005",
+            "TO": "Ayaz Adatiya",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-0969"
+        },
+        {
+            "TOUNIQUENUMBER": "100581745",
+            "TO": "Bradley McGill",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-500-5483"
+        },
+        {
+            "TOUNIQUENUMBER": "100581745",
+            "TO": "Bradley McGill",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-500-5483"
+        },
+        {
+            "TOUNIQUENUMBER": "100581745",
+            "TO": "Bradley McGill",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-500-5483"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47777",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "DVLP Property Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Glendor Towns",
+            "Project Status": "Cancelled",
+            "Location": "BURLINGTON",
+            "Address": " 1335-1355 Plains Rd. E. ",
+            "# of Units": 34,
+            "# of Terminations": 28,
+            "HCRA_CANCELLATIONREASON": "Vendor unable to obtain satisfactory financing",
+            "Last Status Update": "2022-06-15"
+        }
+    ],
+    "builderConditions": []
+}

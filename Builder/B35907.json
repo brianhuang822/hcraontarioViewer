@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35907",
+            "Umbrella": "Savan",
+            "Umbrella ID": "12540221",
+            "VB_NAME": "Savan Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2005-07-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-28 20:43:15.000 +0000",
+            "Expiry Date": "2024-07-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "97 Citation Drive",
+            "TELEPHONE": "416-277-1239",
+            "FAX": "416-551-5568",
+            "WEBSITEURL": "www.savan.ca",
+            "EMAIL": "info@savan.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11928449",
+            "TO": "Sahba Nikzadeh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-728-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "11928449",
+            "TO": "Sahba Nikzadeh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-728-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "11928449",
+            "TO": "Sahba Nikzadeh",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-728-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "11928448",
+            "TO": "Farshad Kehtari",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-277-1239"
+        },
+        {
+            "TOUNIQUENUMBER": "11928448",
+            "TO": "Farshad Kehtari",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-277-1239"
+        },
+        {
+            "TOUNIQUENUMBER": "11928448",
+            "TO": "Farshad Kehtari",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-277-1239"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35907",
+            "Umbrella": "Savan",
+            "Umbrella ID": "12540221",
+            "VB_NAME": "Savan Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33667",
+            "MEMBERNAME": "Savan Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35907",
+            "Umbrella": "Savan",
+            "Umbrella ID": "12540221",
+            "VB_NAME": "Savan Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35907",
+            "MEMBERNAME": "Savan Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

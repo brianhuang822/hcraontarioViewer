@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44316",
+            "Umbrella": "51 Coxwell",
+            "Umbrella ID": "12543251",
+            "VB_NAME": "2458031 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2015-07-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-07-07 12:01:32.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1013 Dupont St.",
+            "TELEPHONE": "416/536-2200",
+            "FAX": "416/536-2205",
+            "WEBSITEURL": " ",
+            "EMAIL": "thang.dinh12@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100299842",
+            "TO": "Quoc Tuan Dinh",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-536-2200"
+        },
+        {
+            "TOUNIQUENUMBER": "100299842",
+            "TO": "Quoc Tuan Dinh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-536-2200"
+        },
+        {
+            "TOUNIQUENUMBER": "100299842",
+            "TO": "Quoc Tuan Dinh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-536-2200"
+        },
+        {
+            "TOUNIQUENUMBER": "12278584",
+            "TO": "Duc Thang Dinh",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-414-6624"
+        },
+        {
+            "TOUNIQUENUMBER": "12278584",
+            "TO": "Duc Thang Dinh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-414-6624"
+        },
+        {
+            "TOUNIQUENUMBER": "12278584",
+            "TO": "Duc Thang Dinh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-414-6624"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44316",
+            "Umbrella": "51 Coxwell",
+            "Umbrella ID": "12543251",
+            "VB_NAME": "2458031 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44316",
+            "MEMBERNAME": "2458031 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44316",
+            "Umbrella": "51 Coxwell",
+            "Umbrella ID": "12543251",
+            "VB_NAME": "2458031 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38541",
+            "MEMBERNAME": "Thang Duc Dinh",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

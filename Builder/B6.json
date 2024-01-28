@@ -1,0 +1,166 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B6",
+            "Umbrella": "Garand Homes",
+            "Umbrella ID": "10380",
+            "VB_NAME": "W.L. Interests Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "NEPEAN",
+            "HCRA_INITIALLICENSEDATE": "1976-07-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-05-14 12:33:28.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "49 Loch Isle Rd.",
+            "TELEPHONE": "613-726-0310",
+            "FAX": "613-733-6792",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "322780",
+            "TO": "Pierre Mercier",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "322780",
+            "TO": "Pierre Mercier",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "322780",
+            "TO": "Pierre Mercier",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312181",
+            "TO": "Bernard Garand",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-733-0060"
+        },
+        {
+            "TOUNIQUENUMBER": "312181",
+            "TO": "Bernard Garand",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-733-0060"
+        },
+        {
+            "TOUNIQUENUMBER": "312181",
+            "TO": "Bernard Garand",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-733-0060"
+        },
+        {
+            "TOUNIQUENUMBER": "312181",
+            "TO": "Bernard Garand",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-733-0060"
+        },
+        {
+            "TOUNIQUENUMBER": "312183",
+            "TO": "Gilberte Garand",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312183",
+            "TO": "Gilberte Garand",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312183",
+            "TO": "Gilberte Garand",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312183",
+            "TO": "Gilberte Garand",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B6",
+            "Umbrella": "Garand Homes",
+            "Umbrella ID": "10380",
+            "VB_NAME": "W.L. Interests Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27495",
+            "MEMBERNAME": "Pierre Garand Enterprises Ltd.",
+            "MEMBEROPERATINGNAME": "Garand Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B6",
+            "Umbrella": "Garand Homes",
+            "Umbrella ID": "10380",
+            "VB_NAME": "W.L. Interests Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B170",
+            "MEMBERNAME": "Bernard Garand Enterprises Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B6",
+            "Umbrella": "Garand Homes",
+            "Umbrella ID": "10380",
+            "VB_NAME": "W.L. Interests Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B6",
+            "MEMBERNAME": "W.L. Interests Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BASELINE CONDO",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "2211 Baseline Rd.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1984-08-16"
+        }
+    ],
+    "builderConditions": []
+}

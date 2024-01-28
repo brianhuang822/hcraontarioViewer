@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43727",
+            "Umbrella": "Skywell Homes",
+            "Umbrella ID": "12541737",
+            "VB_NAME": "Skywell Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2014-07-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-07-15 12:00:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "620 Ballycastle Cres.",
+            "TELEPHONE": "613/762-4699",
+            "FAX": "613/422-8682",
+            "WEBSITEURL": "www.skywellhomes.com",
+            "EMAIL": "darren@skywellhomes.com",
+            "ACCOUNTNUMBER": "B43727",
+            "Total Outstanding Amount": 47581.91,
+            "TAB": 0,
+            "BREACH": 47581.91,
+            "SUMM_FREEHOLD": 10,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 10,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 457969.76,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 457969.76
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12317035",
+            "TO": "Darren Kettlewell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-762-4699"
+        },
+        {
+            "TOUNIQUENUMBER": "12317035",
+            "TO": "Darren Kettlewell",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-762-4699"
+        },
+        {
+            "TOUNIQUENUMBER": "12317035",
+            "TO": "Darren Kettlewell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-762-4699"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43727",
+            "Umbrella": "Skywell Homes",
+            "Umbrella ID": "12541737",
+            "VB_NAME": "Skywell Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39296",
+            "MEMBERNAME": "Skywell Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43727",
+            "Umbrella": "Skywell Homes",
+            "Umbrella ID": "12541737",
+            "VB_NAME": "Skywell Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43727",
+            "MEMBERNAME": "Skywell Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28431",
+            "Umbrella": "Cardel Homes",
+            "Umbrella ID": "11633724",
+            "VB_NAME": "Cardel Homes Limited Partnership",
+            "OPERATINGNAME": null,
+            "CITY": "NEPEAN",
+            "HCRA_INITIALLICENSEDATE": "1999-09-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-09-11 13:00:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "301 Moodie Dr., Ste. 100",
+            "TELEPHONE": "613/820-1959",
+            "FAX": "613/820-3191",
+            "WEBSITEURL": "www.cardelhomes.com",
+            "EMAIL": "som.phonhvilay@cardelhomes.com",
+            "ACCOUNTNUMBER": "B28431",
+            "Total Outstanding Amount": 6675.51,
+            "TAB": 6675.51,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 22138.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 22138.84
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12210776",
+            "TO": "Robert Revoy",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "813-612-8001"
+        },
+        {
+            "TOUNIQUENUMBER": "12210776",
+            "TO": "Robert Revoy",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "813-612-8001"
+        },
+        {
+            "TOUNIQUENUMBER": "342311",
+            "TO": "Ryan Ockey",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "403-258-1511"
+        },
+        {
+            "TOUNIQUENUMBER": "342311",
+            "TO": "Ryan Ockey",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "403-258-1511"
+        },
+        {
+            "TOUNIQUENUMBER": "12210775",
+            "TO": "Damon Ockey",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "403-258-1511"
+        },
+        {
+            "TOUNIQUENUMBER": "12210775",
+            "TO": "Damon Ockey",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "403-258-1511"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28431",
+            "Umbrella": "Cardel Homes",
+            "Umbrella ID": "11633724",
+            "VB_NAME": "Cardel Homes Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41877",
+            "MEMBERNAME": "Panmount II Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28431",
+            "Umbrella": "Cardel Homes",
+            "Umbrella ID": "11633724",
+            "VB_NAME": "Cardel Homes Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41793",
+            "MEMBERNAME": "Cardel Panmount I Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28431",
+            "Umbrella": "Cardel Homes",
+            "Umbrella ID": "11633724",
+            "VB_NAME": "Cardel Homes Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41870",
+            "MEMBERNAME": "Cardel Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B28431",
+            "Umbrella": "Cardel Homes",
+            "Umbrella ID": "11633724",
+            "VB_NAME": "Cardel Homes Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28431",
+            "MEMBERNAME": "Cardel Homes Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Panamount Lifestyles Units",
+            "Project Status": "Completed",
+            "Location": "ORLEANS",
+            "Address": "151 Potts Private",
+            "# of Units": 56,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-10-17"
+        }
+    ],
+    "builderConditions": []
+}

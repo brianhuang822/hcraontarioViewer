@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B18760",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Southview Holdings Limited",
+            "OPERATINGNAME": null,
+            "CITY": "BRANCHTON",
+            "HCRA_INITIALLICENSEDATE": "1989-10-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1993-10-26 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "R. R. #2",
+            "TELEPHONE": "(519)740-8960",
+            "FAX": "(519)740-8737",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "315107",
+            "TO": "Hans Hessler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-740-8960"
+        },
+        {
+            "TOUNIQUENUMBER": "315107",
+            "TO": "Hans Hessler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-740-8960"
+        },
+        {
+            "TOUNIQUENUMBER": "315109",
+            "TO": "John Christian Hessler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-740-8960"
+        },
+        {
+            "TOUNIQUENUMBER": "315109",
+            "TO": "John Christian Hessler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-740-8960"
+        },
+        {
+            "TOUNIQUENUMBER": "304599",
+            "TO": "Karl Buck",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-740-8960"
+        },
+        {
+            "TOUNIQUENUMBER": "315110",
+            "TO": "Mary Lou Hessler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-740-8960"
+        },
+        {
+            "TOUNIQUENUMBER": "315110",
+            "TO": "Mary Lou Hessler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-740-8960"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B18760",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Southview Holdings Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "SOUTHVIEW TOWNHOMES CONDO.",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": "310 Christopher Dr.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-12-31"
+        },
+        {
+            "Condo Project Name": "SOUTHVIEW TOWNHOMES CONDO.",
+            "Project Status": "In Progress",
+            "Location": "CAMBRIDGE",
+            "Address": "310 Christopher Dr.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

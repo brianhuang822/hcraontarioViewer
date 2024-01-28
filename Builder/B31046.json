@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31046",
+            "Umbrella": "Cusinato Developments",
+            "Umbrella ID": "12539842",
+            "VB_NAME": "498599 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Sudbury",
+            "HCRA_INITIALLICENSEDATE": "2000-10-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-01 15:03:03.000 +0000",
+            "Expiry Date": "2024-10-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "40 Oberon Street",
+            "TELEPHONE": "705-522-4837",
+            "FAX": "705-585-4437",
+            "WEBSITEURL": null,
+            "EMAIL": "cuz_sub@hotmail.com",
+            "ACCOUNTNUMBER": "B31046",
+            "Total Outstanding Amount": 350163.64,
+            "TAB": 0,
+            "BREACH": 350163.64,
+            "SUMM_FREEHOLD": 18,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 18,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 335893.62,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 335893.62
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "307493",
+            "TO": "Angelo Cusinato",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-897-3829"
+        },
+        {
+            "TOUNIQUENUMBER": "307493",
+            "TO": "Angelo Cusinato",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-897-3829"
+        },
+        {
+            "TOUNIQUENUMBER": "100197052",
+            "TO": "Paolo Cusinato",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-522-4837"
+        },
+        {
+            "TOUNIQUENUMBER": "100197052",
+            "TO": "Paolo Cusinato",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-522-4837"
+        },
+        {
+            "TOUNIQUENUMBER": "100197052",
+            "TO": "Paolo Cusinato",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-522-4837"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31046",
+            "Umbrella": "Cusinato Developments",
+            "Umbrella ID": "12539842",
+            "VB_NAME": "498599 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47736",
+            "MEMBERNAME": "1499469 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Cusinato Developments",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31046",
+            "Umbrella": "Cusinato Developments",
+            "Umbrella ID": "12539842",
+            "VB_NAME": "498599 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B20966",
+            "MEMBERNAME": "498599 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31046",
+            "Umbrella": "Cusinato Developments",
+            "Umbrella ID": "12539842",
+            "VB_NAME": "498599 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31046",
+            "MEMBERNAME": "498599 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

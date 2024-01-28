@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45883",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "G. S. Wark Limited",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "2017-03-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-03-03 14:02:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "370 York Blvd., Ste. 101",
+            "TELEPHONE": "905/529-4717",
+            "FAX": "888/529-0477",
+            "WEBSITEURL": "www.wark.net",
+            "EMAIL": "chris@wark.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 6,
+            "SUMM_MINOR_AMT": 45000,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 45000
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "301966",
+            "TO": "John Wark",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-2431"
+        },
+        {
+            "TOUNIQUENUMBER": "301966",
+            "TO": "John Wark",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-2431"
+        },
+        {
+            "TOUNIQUENUMBER": "100411212",
+            "TO": "Craig Hambly",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-529-4717"
+        },
+        {
+            "TOUNIQUENUMBER": "100411212",
+            "TO": "Craig Hambly",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-529-4717"
+        },
+        {
+            "TOUNIQUENUMBER": "100413327",
+            "TO": "Scott Fearnside",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-2432"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45883",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "G. S. Wark Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

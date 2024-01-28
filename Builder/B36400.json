@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36400",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Cara Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Ancaster",
+            "HCRA_INITIALLICENSEDATE": "2006-03-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-24 04:00:00.000 +0000",
+            "Expiry Date": "2024-03-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "130 Mansfield Drive",
+            "TELEPHONE": "905-981-4778",
+            "FAX": null,
+            "WEBSITEURL": "www.caracustomhomes.com",
+            "EMAIL": "info@caracustomhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 64,
+            "SUMM_CONDO": 71,
+            "SUMM_TOTAL": 135,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12142746",
+            "TO": "Gabriella Carobelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-920-1735"
+        },
+        {
+            "TOUNIQUENUMBER": "12142746",
+            "TO": "Gabriella Carobelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-920-1735"
+        },
+        {
+            "TOUNIQUENUMBER": "12137892",
+            "TO": "Enzo Carobelli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-981-4778"
+        },
+        {
+            "TOUNIQUENUMBER": "12137892",
+            "TO": "Enzo Carobelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-981-4778"
+        },
+        {
+            "TOUNIQUENUMBER": "12137892",
+            "TO": "Enzo Carobelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-981-4778"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36400",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Cara Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Garden Heighs",
+            "Project Status": null,
+            "Location": "BRANTFORD",
+            "Address": " 50 Garden Ave ",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Garden Heights",
+            "Project Status": "In Progress",
+            "Location": "BRANTFORD",
+            "Address": " 720 Grey Street ",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

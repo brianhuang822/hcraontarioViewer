@@ -1,0 +1,139 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11490",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Basingstoke Enterprises Limited",
+            "OPERATINGNAME": "Basingstoke Enterprises Limited",
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "1980-12-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-11 13:45:48.000 +0000",
+            "Expiry Date": "2024-12-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1550 Yorkton Court",
+            "TELEPHONE": "905-637-1777",
+            "FAX": "9056371790",
+            "WEBSITEURL": "https://www.dawnvictoriahomes.com",
+            "EMAIL": "don@dawnvictoriahomes.com",
+            "ACCOUNTNUMBER": "B11490",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 31,
+            "SUMM_CONDO": 11,
+            "SUMM_TOTAL": 42,
+            "SUMM_CC": 5,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 22787.75,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 22787.75
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600012848",
+            "TO": "Daniel Husack",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-483-8726"
+        },
+        {
+            "TOUNIQUENUMBER": "315919",
+            "TO": "Donald Husack",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-637-1777"
+        },
+        {
+            "TOUNIQUENUMBER": "315919",
+            "TO": "Donald Husack",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-637-1777"
+        },
+        {
+            "TOUNIQUENUMBER": "600003196",
+            "TO": "Karyn Husack",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-637-1777"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11490",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Basingstoke Enterprises Limited",
+            "OPERATINGNAME": "Basingstoke Enterprises Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B24881",
+            "MEMBERNAME": "Dawn Victoria Homes (Brantford) Limited",
+            "MEMBEROPERATINGNAME": "Dawn Victoria Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B11490",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Basingstoke Enterprises Limited",
+            "OPERATINGNAME": "Basingstoke Enterprises Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43568",
+            "MEMBERNAME": "Dawn Victoria Homes (Oakville) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B11490",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Basingstoke Enterprises Limited",
+            "OPERATINGNAME": "Basingstoke Enterprises Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B24314",
+            "MEMBERNAME": "Miraletto Holdings Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B11490",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Basingstoke Enterprises Limited",
+            "OPERATINGNAME": "Basingstoke Enterprises Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B11490",
+            "MEMBERNAME": "Basingstoke Enterprises Limited",
+            "MEMBEROPERATINGNAME": "Basingstoke Enterprises Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Uptown",
+            "Project Status": null,
+            "Location": "OAKVILLE",
+            "Address": "2410 Barnboard Hollow",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Central Park Towns",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": " 2362 New Street ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-01-16"
+        }
+    ],
+    "builderConditions": []
+}

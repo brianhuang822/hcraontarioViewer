@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44406",
+            "Umbrella": "Classic Homes (Waterloo)",
+            "Umbrella ID": "12542757",
+            "VB_NAME": "Classic Homes (Waterloo) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "BURKS FALLS",
+            "HCRA_INITIALLICENSEDATE": "2015-03-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-03-27 12:01:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "34 Birch Point Rd.",
+            "TELEPHONE": "705/387-4161",
+            "FAX": null,
+            "WEBSITEURL": "classichomeswaterloo.com",
+            "EMAIL": "dorian@classichomeswaterloo.com",
+            "ACCOUNTNUMBER": "B44406",
+            "Total Outstanding Amount": 199901.7,
+            "TAB": 0,
+            "BREACH": 199901.7,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 217613.36,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 217613.36
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11813811",
+            "TO": "Dorin Plotogea",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-721-2620"
+        },
+        {
+            "TOUNIQUENUMBER": "11813811",
+            "TO": "Dorin Plotogea",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-721-2620"
+        },
+        {
+            "TOUNIQUENUMBER": "11813811",
+            "TO": "Dorin Plotogea",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-721-2620"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44406",
+            "Umbrella": "Classic Homes (Waterloo)",
+            "Umbrella ID": "12542757",
+            "VB_NAME": "Classic Homes (Waterloo) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32664",
+            "MEMBERNAME": "Dorin Plotogea",
+            "MEMBEROPERATINGNAME": "Classic Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44406",
+            "Umbrella": "Classic Homes (Waterloo)",
+            "Umbrella ID": "12542757",
+            "VB_NAME": "Classic Homes (Waterloo) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44406",
+            "MEMBERNAME": "Classic Homes (Waterloo) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

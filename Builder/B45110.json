@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45110",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Wallzcorp Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2016-03-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-21 19:47:30.000 +0000",
+            "Expiry Date": "2024-03-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1 Duncan Mill Road",
+            "TELEPHONE": "416-704-0279",
+            "FAX": null,
+            "WEBSITEURL": "www.wallzcorp.com",
+            "EMAIL": "info@wallzcorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100349081",
+            "TO": "Amir Ahmadi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-704-0279"
+        },
+        {
+            "TOUNIQUENUMBER": "100349081",
+            "TO": "Amir Ahmadi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-704-0279"
+        },
+        {
+            "TOUNIQUENUMBER": "100349081",
+            "TO": "Amir Ahmadi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-704-0279"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45110",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Wallzcorp Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

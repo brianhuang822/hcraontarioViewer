@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B7123",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Granada Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Port Hope",
+            "HCRA_INITIALLICENSEDATE": "1981-08-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-09-05 12:00:23.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "401 Lakeshore Rd.",
+            "TELEPHONE": "905-377-8062",
+            "FAX": "905-377-8841",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B7123",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 15840.79,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 15840.79
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "328026",
+            "TO": "Evelyne Reixach - Porter",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-885-8999"
+        },
+        {
+            "TOUNIQUENUMBER": "328026",
+            "TO": "Evelyne Reixach - Porter",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-885-8999"
+        },
+        {
+            "TOUNIQUENUMBER": "328026",
+            "TO": "Evelyne Reixach - Porter",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-885-8999"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B7123",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Granada Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

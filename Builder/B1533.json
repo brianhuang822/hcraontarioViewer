@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1533",
+            "Umbrella": "M.D. Construction",
+            "Umbrella ID": "12540403",
+            "VB_NAME": "Marcel Henri Desnoyers & Estelle Marie Desnoyers",
+            "OPERATINGNAME": "M.D. Construction Enr.",
+            "CITY": "CURRAN",
+            "HCRA_INITIALLICENSEDATE": "1987-08-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-08-27 12:31:19.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1136 County Rd. 2",
+            "TELEPHONE": "(613)673-5339",
+            "FAX": "(613)673-1664",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11832645",
+            "TO": "Estelle Marie Desnoyers",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613- 673-5339"
+        },
+        {
+            "TOUNIQUENUMBER": "308628",
+            "TO": "Marcel Desnoyers",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-673-5339"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1533",
+            "Umbrella": "M.D. Construction",
+            "Umbrella ID": "12540403",
+            "VB_NAME": "Marcel Henri Desnoyers & Estelle Marie Desnoyers",
+            "OPERATINGNAME": "M.D. Construction Enr.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B1533",
+            "MEMBERNAME": "Marcel Henri Desnoyers & Estelle Marie Desnoyers",
+            "MEMBEROPERATINGNAME": "M.D. Construction Enr.",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B1533",
+            "Umbrella": "M.D. Construction",
+            "Umbrella ID": "12540403",
+            "VB_NAME": "Marcel Henri Desnoyers & Estelle Marie Desnoyers",
+            "OPERATINGNAME": "M.D. Construction Enr.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33516",
+            "MEMBERNAME": "6091156 Canada Inc.",
+            "MEMBEROPERATINGNAME": "M.D. Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

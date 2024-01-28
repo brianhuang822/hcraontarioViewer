@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40371",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Residences Of Springhill Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "VAUGHAN",
+            "HCRA_INITIALLICENSEDATE": "2010-05-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-05-15 12:01:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "420 Millway Dr., 2nd Flr.",
+            "TELEPHONE": "905-761-6244",
+            "FAX": "905-761-6237",
+            "WEBSITEURL": "www.rossbrogroup.com",
+            "EMAIL": "pross@rossbrogroup.com",
+            "ACCOUNTNUMBER": "B40371",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 21,
+            "SUMM_TOTAL": 21,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 7030,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7030
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329069",
+            "TO": "Paul Rossetto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-6244"
+        },
+        {
+            "TOUNIQUENUMBER": "329069",
+            "TO": "Paul Rossetto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-6244"
+        },
+        {
+            "TOUNIQUENUMBER": "329069",
+            "TO": "Paul Rossetto",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-6244"
+        },
+        {
+            "TOUNIQUENUMBER": "329066",
+            "TO": "Fausto Rossetto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-6244"
+        },
+        {
+            "TOUNIQUENUMBER": "329066",
+            "TO": "Fausto Rossetto",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-6244"
+        },
+        {
+            "TOUNIQUENUMBER": "329066",
+            "TO": "Fausto Rossetto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-6244"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40371",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Residences Of Springhill Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Residences Of Springhill",
+            "Project Status": "Completed",
+            "Location": "KING CITY",
+            "Address": "80 Burns Blvd.",
+            "# of Units": 138,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-02-13"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34253",
+            "Umbrella": "King's & Queen's Homes",
+            "Umbrella ID": "12539866",
+            "VB_NAME": "King's & Queen's Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2004-06-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-06-04 12:00:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1938 Avenue Rd.",
+            "TELEPHONE": "416-780-0475",
+            "FAX": "416-780-0155",
+            "WEBSITEURL": " ",
+            "EMAIL": "kingsandqueenshomes@rogers.com",
+            "ACCOUNTNUMBER": "B34253",
+            "Total Outstanding Amount": 243327.67,
+            "TAB": 0,
+            "BREACH": 243327.67,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 7,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 290949.69,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 290949.69
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11643648",
+            "TO": "Sulamif (Sula) Kogan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-780-0475"
+        },
+        {
+            "TOUNIQUENUMBER": "11643648",
+            "TO": "Sulamif (Sula) Kogan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-780-0475"
+        },
+        {
+            "TOUNIQUENUMBER": "11643648",
+            "TO": "Sulamif (Sula) Kogan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-780-0475"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108830",
+            "CHARGE_AGAINST": "King's & Queen's Homes Inc.",
+            "CHARGE_DATE": "2016-12-08",
+            "DISPOSITION_DATE": "2017-06-07",
+            "THE_FINE_": "1500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "375",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326988",
+            "ORGANIZATION_NAME": "King's & Queen's Homes Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Toronto, ON",
+            "CITY_DEFENCE": "Toronto, ON",
+            "VB_NUMBER": "B34253",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108830 9326988",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Toronto, City",
+            "INFORMATION_NUMBER": "999 16 340139",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2015-02-02",
+            "TO_OFFENCE_DATE": "2016-12-06",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "1875",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B34253",
+            "Umbrella": "King's & Queen's Homes",
+            "Umbrella ID": "12539866",
+            "VB_NAME": "King's & Queen's Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34253",
+            "MEMBERNAME": "King's & Queen's Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34253",
+            "Umbrella": "King's & Queen's Homes",
+            "Umbrella ID": "12539866",
+            "VB_NAME": "King's & Queen's Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30689",
+            "MEMBERNAME": "King's & Queen's Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

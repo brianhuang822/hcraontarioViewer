@@ -1,0 +1,147 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38661",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Amexon Property Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2008-05-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-08 13:39:18.000 +0000",
+            "Expiry Date": "2024-05-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1000 Finch Avenue West",
+            "TELEPHONE": "416-467-1893",
+            "FAX": "416-467-1076",
+            "WEBSITEURL": null,
+            "EMAIL": "aevans@amexon.com",
+            "ACCOUNTNUMBER": "B38661",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 447,
+            "SUMM_TOTAL": 447,
+            "SUMM_CC": 7,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1529.47,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1529.47
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12284261",
+            "TO": "David Azouri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-386-1600"
+        },
+        {
+            "TOUNIQUENUMBER": "12284261",
+            "TO": "David Azouri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-386-1600"
+        },
+        {
+            "TOUNIQUENUMBER": "12284261",
+            "TO": "David Azouri",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-386-1600"
+        },
+        {
+            "TOUNIQUENUMBER": "12284259",
+            "TO": "Joseph Azouri",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-5000"
+        },
+        {
+            "TOUNIQUENUMBER": "12284259",
+            "TO": "Joseph Azouri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-5000"
+        },
+        {
+            "TOUNIQUENUMBER": "12284259",
+            "TO": "Joseph Azouri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-5000"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38661",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Amexon Property Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Residences at Central Park - East Tower",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 1206 Sheppard Avenue East ",
+            "# of Units": 393,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "The Residences of U Avenue",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 480-488 University Ave. ",
+            "# of Units": 453,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-04-16"
+        },
+        {
+            "Condo Project Name": "South Beach Condos + Lofts",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "90 Park Lawn Rd.",
+            "# of Units": 313,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-01-16"
+        },
+        {
+            "Condo Project Name": "South Beach Condos + Lofts",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "88 Park Lawn Rd.",
+            "# of Units": 313,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-06-07"
+        },
+        {
+            "Condo Project Name": "The Residences at Central Park",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 1200 Sheppard Avenue East ",
+            "# of Units": 322,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

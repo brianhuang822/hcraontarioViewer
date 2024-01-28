@@ -1,0 +1,160 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B8305",
+            "Umbrella": "Hanson-Needler",
+            "Umbrella ID": "1490",
+            "VB_NAME": "Urban Equities Sherwood Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "1986-08-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1992-01-13 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4230 Sherwoodtowne Blvd.Suite 200",
+            "TELEPHONE": "(416)270-0903",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "324350",
+            "TO": "B. L. Needler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "304718",
+            "TO": "R b Burgess",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "309530",
+            "TO": "E w Dow",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "314437",
+            "TO": "J d Hanson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "314434",
+            "TO": "G e Hanson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "338056",
+            "TO": "John Switzer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-829-1311"
+        },
+        {
+            "TOUNIQUENUMBER": "304691",
+            "TO": "Scott R. Burbidge",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B8305",
+            "Umbrella": "Hanson-Needler",
+            "Umbrella ID": "1490",
+            "VB_NAME": "Urban Equities Sherwood Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17798",
+            "MEMBERNAME": "Kenderry-Esprit Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B8305",
+            "Umbrella": "Hanson-Needler",
+            "Umbrella ID": "1490",
+            "VB_NAME": "Urban Equities Sherwood Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B9150",
+            "MEMBERNAME": "The Hanson-Needler Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B8305",
+            "Umbrella": "Hanson-Needler",
+            "Umbrella ID": "1490",
+            "VB_NAME": "Urban Equities Sherwood Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B20470",
+            "MEMBERNAME": "Hanson-Needler Noblehouse Inc.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B8305",
+            "Umbrella": "Hanson-Needler",
+            "Umbrella ID": "1490",
+            "VB_NAME": "Urban Equities Sherwood Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B8305",
+            "MEMBERNAME": "Urban Equities Sherwood Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE MANSIONS",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "55 Kingsbridge Gdn. Cir.",
+            "# of Units": 332,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-03-28"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4635 Regents Ter.",
+            "# of Units": 91,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1987-12-15"
+        }
+    ],
+    "builderConditions": []
+}

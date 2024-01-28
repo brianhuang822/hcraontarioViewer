@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28235",
+            "Umbrella": "Fernhill Homes",
+            "Umbrella ID": "12540074",
+            "VB_NAME": "974660 Ontario Inc.",
+            "OPERATINGNAME": "Arbour Homes",
+            "CITY": "BROOKLIN",
+            "HCRA_INITIALLICENSEDATE": "1999-06-30",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-07-01 13:31:53.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "581 Columbus Road E",
+            "TELEPHONE": "(905) 655-1059",
+            "FAX": "(905)655-1059",
+            "WEBSITEURL": null,
+            "EMAIL": "aldopulla@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344911",
+            "TO": "Aldo Pulla",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-436-8204"
+        },
+        {
+            "TOUNIQUENUMBER": "344911",
+            "TO": "Aldo Pulla",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-436-8204"
+        },
+        {
+            "TOUNIQUENUMBER": "344911",
+            "TO": "Aldo Pulla",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-436-8204"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28235",
+            "Umbrella": "Fernhill Homes",
+            "Umbrella ID": "12540074",
+            "VB_NAME": "974660 Ontario Inc.",
+            "OPERATINGNAME": "Arbour Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28235",
+            "MEMBERNAME": "974660 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Arbour Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28235",
+            "Umbrella": "Fernhill Homes",
+            "Umbrella ID": "12540074",
+            "VB_NAME": "974660 Ontario Inc.",
+            "OPERATINGNAME": "Arbour Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43235",
+            "MEMBERNAME": "974660 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Fernhill Homes div of 974660 ON INC",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

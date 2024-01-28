@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42407",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bellefield Custom Homes Ltd.",
+            "OPERATINGNAME": "Bellefield Custom Homes Ltd.",
+            "CITY": "Amherstview",
+            "HCRA_INITIALLICENSEDATE": "2012-10-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-17 17:25:21.000 +0000",
+            "Expiry Date": "2024-03-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "207 MacDougall Drive",
+            "TELEPHONE": "613-453-8150",
+            "FAX": "613/453-8150",
+            "WEBSITEURL": "https://bellefieldcustomhomes.com",
+            "EMAIL": "info@bellefieldcustomhomes.com",
+            "ACCOUNTNUMBER": "B42407",
+            "Total Outstanding Amount": 1500,
+            "TAB": 1500,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 32,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 32,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100137672",
+            "TO": "Luke Field",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-453-8150"
+        },
+        {
+            "TOUNIQUENUMBER": "100137672",
+            "TO": "Luke Field",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-453-8150"
+        },
+        {
+            "TOUNIQUENUMBER": "100137672",
+            "TO": "Luke Field",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-453-8150"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42407",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bellefield Custom Homes Ltd.",
+            "OPERATINGNAME": "Bellefield Custom Homes Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": [
+        {
+            "HCRA_DESCRIPTION": "Condition met on April 13, 2023.\n\nBellefield Custom Homes Ltd. must apply to enrol 115 Hineman Street, Kingston and 1251 Carfa Crescent, Kingston with the Tarion Warranty Corporation before April 14, 2023.",
+            "HCRA_EFFECTIVEDATE": "2023-03-17 04:00:00.000 +0000"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B15285",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Drewlo Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "1988-07-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-06 18:17:59.000 +0000",
+            "Expiry Date": "2024-11-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "680 Waterloo Street",
+            "TELEPHONE": "519-472-8200",
+            "FAX": "519-472-8860",
+            "WEBSITEURL": "https://www.drewloholdings.com",
+            "EMAIL": "adrewlo@drewloholdings.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600011948",
+            "TO": "Elizabeth Drewlo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-434-1407"
+        },
+        {
+            "TOUNIQUENUMBER": "309609",
+            "TO": "Allan Richard Drewlo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-472-8200"
+        },
+        {
+            "TOUNIQUENUMBER": "309609",
+            "TO": "Allan Richard Drewlo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-472-8200"
+        },
+        {
+            "TOUNIQUENUMBER": "309609",
+            "TO": "Allan Richard Drewlo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-472-8200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B15285",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Drewlo Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HUNT CLUB GLENN - PHASE IV",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "50 Northumberland Rd.",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-05-07"
+        },
+        {
+            "Condo Project Name": "HUNT CLUB GLEN - PHASE III",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "50 Northumberland Rd.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-09-05"
+        },
+        {
+            "Condo Project Name": "HUNT CLUB GLEN",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "50 Northumberland Rd.",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-12-24"
+        },
+        {
+            "Condo Project Name": "HUNT CLUB GLEN",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "50 Northunberland Rd.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-12-04"
+        },
+        {
+            "Condo Project Name": "COMMISSIONERS RD. CONDO",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1180 Commissioners",
+            "# of Units": 72,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-12-17"
+        }
+    ],
+    "builderConditions": []
+}

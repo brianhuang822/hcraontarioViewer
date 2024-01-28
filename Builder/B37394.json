@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37394",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2025590 Ontario Ltd.",
+            "OPERATINGNAME": "Allen Remley Custom Homes And Renovations",
+            "CITY": "Guelph",
+            "HCRA_INITIALLICENSEDATE": "2007-02-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-24 03:27:29.000 +0000",
+            "Expiry Date": "2024-02-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4458 Sideroad 20 North",
+            "TELEPHONE": "519-994-0011",
+            "FAX": "519-824-6720",
+            "WEBSITEURL": " ",
+            "EMAIL": "allen@remleyhomes.com",
+            "ACCOUNTNUMBER": "B37394",
+            "Total Outstanding Amount": 4514.27,
+            "TAB": 0,
+            "BREACH": 4514.27,
+            "SUMM_FREEHOLD": 24,
+            "SUMM_CONDO": 6,
+            "SUMM_TOTAL": 30,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 9741.09,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 9741.09
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12206537",
+            "TO": "Allen Remley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-994-0011"
+        },
+        {
+            "TOUNIQUENUMBER": "12206537",
+            "TO": "Allen Remley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-994-0011"
+        },
+        {
+            "TOUNIQUENUMBER": "12206537",
+            "TO": "Allen Remley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-994-0011"
+        },
+        {
+            "TOUNIQUENUMBER": "12206538",
+            "TO": "Kathie Remley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-824-4064"
+        },
+        {
+            "TOUNIQUENUMBER": "12206538",
+            "TO": "Kathie Remley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-824-4064"
+        },
+        {
+            "TOUNIQUENUMBER": "12206538",
+            "TO": "Kathie Remley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-824-4064"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37394",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2025590 Ontario Ltd.",
+            "OPERATINGNAME": "Allen Remley Custom Homes And Renovations",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Townes on Shamrock",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": "35 Shamrock St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-01-22"
+        }
+    ],
+    "builderConditions": []
+}

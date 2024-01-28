@@ -1,0 +1,64 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45100",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Canal Lofts Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2016-06-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-06-14 13:00:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1937 Porto Rollo Boulevard, P.O. Box 17057",
+            "TELEPHONE": "613-255-5065",
+            "FAX": "613/230-5282",
+            "WEBSITEURL": "surfacecondos.com",
+            "EMAIL": "info@surfacedevelopments.com",
+            "ACCOUNTNUMBER": "B45100",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 23,
+            "SUMM_TOTAL": 23,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45100",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Canal Lofts Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Canal Lofts",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 47 Havelock St. ",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-03-08"
+        }
+    ],
+    "builderConditions": []
+}

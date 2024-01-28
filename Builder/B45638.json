@@ -1,0 +1,102 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45638",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "33 Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2017-02-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-02-06 20:56:57.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "26 Austin Ave.",
+            "TELEPHONE": "647/838-3731",
+            "FAX": null,
+            "WEBSITEURL": "www.33developments.com",
+            "EMAIL": "mike@33developments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100382659",
+            "TO": "Geoffrey David Moote",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-817-1836"
+        },
+        {
+            "TOUNIQUENUMBER": "100382659",
+            "TO": "Geoffrey David Moote",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-817-1836"
+        },
+        {
+            "TOUNIQUENUMBER": "100382658",
+            "TO": "Michael B. Kuipers",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-838-3731"
+        },
+        {
+            "TOUNIQUENUMBER": "100382658",
+            "TO": "Michael B. Kuipers",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-838-3731"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45638",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "33 Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "1001 Queen East",
+            "Project Status": "Cancelled",
+            "Location": "TORONTO",
+            "Address": "1001 Queen Street East",
+            "# of Units": 16,
+            "# of Terminations": 11,
+            "HCRA_CANCELLATIONREASON": "Zoning/Site Plan approvals not obtained; Vendor unable to obtain satisfactory financing",
+            "Last Status Update": "2019-10-29"
+        }
+    ],
+    "builderConditions": [
+        {
+            "HCRA_DESCRIPTION": "You agree to hire a Building Code Consultant for the\u00a0aforementioned condominium\u00a0project. You must notify Tarion of your chosen Building Code Consultant in writing\u00a0at least 30 days prior\u00a0to the commencement of construction.",
+            "HCRA_EFFECTIVEDATE": null
+        },
+        {
+            "HCRA_DESCRIPTION": "You agree to hire a Fire Consultant for the\u00a0aforementioned condominium\u00a0project. You must notify Tarion of your chosen\u00a0Fire\u00a0Consultant in writing\u00a0at least 30 days prior\u00a0to the commencement of construction.\u00a0",
+            "HCRA_EFFECTIVEDATE": null
+        }
+    ]
+}

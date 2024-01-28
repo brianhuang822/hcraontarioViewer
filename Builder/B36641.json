@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36641",
+            "Umbrella": "Terry Knappett Enterprises",
+            "Umbrella ID": "12541345",
+            "VB_NAME": "Terry Knappett Enterprises Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "SEVERN BRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2006-08-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-08-03 13:31:55.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1911 South Sparrow Lake Rd.",
+            "TELEPHONE": "(705)689-6539",
+            "FAX": "(705)689-2606",
+            "WEBSITEURL": null,
+            "EMAIL": "terryk@muskoka.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11882320",
+            "TO": "Terry John Knappett",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-689-6539"
+        },
+        {
+            "TOUNIQUENUMBER": "11882320",
+            "TO": "Terry John Knappett",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-689-6539"
+        },
+        {
+            "TOUNIQUENUMBER": "11882320",
+            "TO": "Terry John Knappett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-689-6539"
+        },
+        {
+            "TOUNIQUENUMBER": "11882321",
+            "TO": "Sherry Knappett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-689-6539"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36641",
+            "Umbrella": "Terry Knappett Enterprises",
+            "Umbrella ID": "12541345",
+            "VB_NAME": "Terry Knappett Enterprises Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36641",
+            "MEMBERNAME": "Terry Knappett Enterprises Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36641",
+            "Umbrella": "Terry Knappett Enterprises",
+            "Umbrella ID": "12541345",
+            "VB_NAME": "Terry Knappett Enterprises Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43275",
+            "MEMBERNAME": "Terry Knappett Enterprises Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36641",
+            "Umbrella": "Terry Knappett Enterprises",
+            "Umbrella ID": "12541345",
+            "VB_NAME": "Terry Knappett Enterprises Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33182",
+            "MEMBERNAME": "Terry Knappett Enterprises Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

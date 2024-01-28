@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36385",
+            "Umbrella": "Anthony and Janice Cresswell",
+            "Umbrella ID": "12541002",
+            "VB_NAME": "Tony L. Cresswell & Janice Ann Cresswell",
+            "OPERATINGNAME": null,
+            "CITY": "ORO STATION",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2007-06-12 21:58:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5 Indian Road, RR1",
+            "TELEPHONE": "705-487-1748",
+            "FAX": "(705)487-9949",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12136402",
+            "TO": "Janice Ann Cresswell",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-726-2200"
+        },
+        {
+            "TOUNIQUENUMBER": "12136400",
+            "TO": "Anthony Lee Cresswell",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-487-1748"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36385",
+            "Umbrella": "Anthony and Janice Cresswell",
+            "Umbrella ID": "12541002",
+            "VB_NAME": "Tony L. Cresswell & Janice Ann Cresswell",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B36385",
+            "MEMBERNAME": "Tony L. Cresswell & Janice Ann Cresswell",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B36385",
+            "Umbrella": "Anthony and Janice Cresswell",
+            "Umbrella ID": "12541002",
+            "VB_NAME": "Tony L. Cresswell & Janice Ann Cresswell",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B38107",
+            "MEMBERNAME": "Anthony Lee Cresswell & Janice Ann Cresswell",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

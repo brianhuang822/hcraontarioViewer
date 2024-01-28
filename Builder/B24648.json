@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24648",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "782647 Ontario Limited",
+            "OPERATINGNAME": "Delco Homes",
+            "CITY": "WINDSOR",
+            "HCRA_INITIALLICENSEDATE": "1995-02-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-02-07 13:30:38.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3199 Dougall Ave.",
+            "TELEPHONE": "(519)966-8100",
+            "FAX": "(519)972-9444",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340537",
+            "TO": "Mario Mancini",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-966-6606"
+        },
+        {
+            "TOUNIQUENUMBER": "340537",
+            "TO": "Mario Mancini",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-966-6606"
+        },
+        {
+            "TOUNIQUENUMBER": "340537",
+            "TO": "Mario Mancini",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-966-6606"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24648",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "782647 Ontario Limited",
+            "OPERATINGNAME": "Delco Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "REAUME PARK CONDOMINIUM",
+            "Project Status": "Completed",
+            "Location": "WINDSOR",
+            "Address": "4747 Riverside Dr. E.",
+            "# of Units": 33,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-01-20"
+        }
+    ],
+    "builderConditions": []
+}

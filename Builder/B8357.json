@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B8357",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "512729 Ontario Ltd.",
+            "OPERATINGNAME": "The Arbors",
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "1986-09-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1991-12-06 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "166 Woodbridge Ave.,ste. 200",
+            "TELEPHONE": "(416)851-2888",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "314966",
+            "TO": "Nat Hennick",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313491",
+            "TO": "Jack Grant",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-2888"
+        },
+        {
+            "TOUNIQUENUMBER": "324008",
+            "TO": "David Murphy",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312535",
+            "TO": "Jules Gerson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313497",
+            "TO": "Jordan Grant",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-938-9619"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B8357",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "512729 Ontario Ltd.",
+            "OPERATINGNAME": "The Arbors",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "ARBOURS LANE CONDO",
+            "Project Status": "In Progress",
+            "Location": "WOODBRIDGE",
+            "Address": "100 Arbors Ln.",
+            "# of Units": 108,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

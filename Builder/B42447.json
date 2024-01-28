@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42447",
+            "Umbrella": "Urbandale",
+            "Umbrella ID": "11764642",
+            "VB_NAME": "99 Parkdale Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2012-11-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-11-17 13:01:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2193 Arch St.",
+            "TELEPHONE": "613/731-6331",
+            "FAX": "613/731-0619",
+            "WEBSITEURL": "www.urbandale.com",
+            "EMAIL": "rsachs@urbandale.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329499",
+            "TO": "Richard Sachs",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-731-6331"
+        },
+        {
+            "TOUNIQUENUMBER": "329499",
+            "TO": "Richard Sachs",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-731-6331"
+        },
+        {
+            "TOUNIQUENUMBER": "329499",
+            "TO": "Richard Sachs",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-731-6331"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42447",
+            "Umbrella": "Urbandale",
+            "Umbrella ID": "11764642",
+            "VB_NAME": "99 Parkdale Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B10",
+            "MEMBERNAME": "Urbandale Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42447",
+            "Umbrella": "Urbandale",
+            "Umbrella ID": "11764642",
+            "VB_NAME": "99 Parkdale Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B509",
+            "MEMBERNAME": "Urbandale Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42447",
+            "Umbrella": "Urbandale",
+            "Umbrella ID": "11764642",
+            "VB_NAME": "99 Parkdale Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32129",
+            "MEMBERNAME": "Urbandale Riverside Gate Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42447",
+            "Umbrella": "Urbandale",
+            "Umbrella ID": "11764642",
+            "VB_NAME": "99 Parkdale Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42447",
+            "MEMBERNAME": "99 Parkdale Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

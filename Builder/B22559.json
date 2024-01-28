@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22559",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "McGarb Enterprises Inc.",
+            "OPERATINGNAME": "Bates Walk",
+            "CITY": "COLLINGWOOD",
+            "HCRA_INITIALLICENSEDATE": "1993-01-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1997-01-15 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "68a Campbell St.",
+            "TELEPHONE": "(705)445-6811",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "312196",
+            "TO": "Judy Garbutt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-445-6811"
+        },
+        {
+            "TOUNIQUENUMBER": "312196",
+            "TO": "Judy Garbutt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-445-6811"
+        },
+        {
+            "TOUNIQUENUMBER": "307551",
+            "TO": "John McNichol",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "307551",
+            "TO": "John McNichol",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "307550",
+            "TO": "Dagmar McNichol",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "307550",
+            "TO": "Dagmar McNichol",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "312194",
+            "TO": "Brian Garbutt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-445-6811"
+        },
+        {
+            "TOUNIQUENUMBER": "312194",
+            "TO": "Brian Garbutt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-445-6811"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22559",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "McGarb Enterprises Inc.",
+            "OPERATINGNAME": "Bates Walk",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BATES WALK",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "346 Peel St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-02-03"
+        },
+        {
+            "Condo Project Name": "BATES WALK",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "352 Peel St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-10-22"
+        }
+    ],
+    "builderConditions": []
+}

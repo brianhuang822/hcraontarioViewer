@@ -1,0 +1,65 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Whalley Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "5606 Westdel Bourne",
+            "TELEPHONE": "(519)439-0721",
+            "FAX": "(519)652-1549",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Whalley Construction (1992) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21833",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1010960 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Whalley Homes",
+            "MEMBERVBNUM": "B33958",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "1010960 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28219",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "HARMONIA GARDENS",
+            "Account Number": "B21833",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1225 Cheapside Street",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-11-19"
+        }
+    ]
+}

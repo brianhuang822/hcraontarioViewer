@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46672",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1815496 Ontario Limited",
+            "OPERATINGNAME": "The Landing Development Group",
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2018-07-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-29 20:37:22.000 +0000",
+            "Expiry Date": "2024-07-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6625 Kitimat Road",
+            "TELEPHONE": "905-567-9165",
+            "FAX": "905/567-9164",
+            "WEBSITEURL": "www.thelandingatlittlelake.com",
+            "EMAIL": "mohamed@thelandingatlittlelake.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100471223",
+            "TO": "Mohamed Abdelkader",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-567-9165"
+        },
+        {
+            "TOUNIQUENUMBER": "100471223",
+            "TO": "Mohamed Abdelkader",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-567-9165"
+        },
+        {
+            "TOUNIQUENUMBER": "100471223",
+            "TO": "Mohamed Abdelkader",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-567-9165"
+        },
+        {
+            "TOUNIQUENUMBER": "100471886",
+            "TO": "Ian Whittley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-721-6953"
+        },
+        {
+            "TOUNIQUENUMBER": "100471887",
+            "TO": "Robson Knapp",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-721-6535"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46672",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1815496 Ontario Limited",
+            "OPERATINGNAME": "The Landing Development Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Landing at Little Lake",
+            "Project Status": "In Progress",
+            "Location": "BARRIE",
+            "Address": " 10 and 20 Little Lake Dr. ",
+            "# of Units": 137,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

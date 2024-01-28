@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27856",
+            "Umbrella": "Paul Upton Homes",
+            "Umbrella ID": "11057",
+            "VB_NAME": "1277586 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LYNDEN",
+            "HCRA_INITIALLICENSEDATE": "1998-10-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-10-27 13:31:16.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO BOX 48, RR #1, 65 Beverly Glen Dr.",
+            "TELEPHONE": "(905) 730-2959",
+            "FAX": "(519)647-2959",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "334539",
+            "TO": "Paul Upton",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 730-2959"
+        },
+        {
+            "TOUNIQUENUMBER": "334539",
+            "TO": "Paul Upton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 730-2959"
+        },
+        {
+            "TOUNIQUENUMBER": "334539",
+            "TO": "Paul Upton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 730-2959"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27856",
+            "Umbrella": "Paul Upton Homes",
+            "Umbrella ID": "11057",
+            "VB_NAME": "1277586 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27856",
+            "MEMBERNAME": "1277586 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27856",
+            "Umbrella": "Paul Upton Homes",
+            "Umbrella ID": "11057",
+            "VB_NAME": "1277586 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11735",
+            "MEMBERNAME": "Paul Upton",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

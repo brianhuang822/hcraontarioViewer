@@ -1,0 +1,65 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "River Creek Developments",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "3170 Harvester Road",
+            "TELEPHONE": "365-292-0148",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "daisy@nhdg.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Donato Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21827",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Aspire Sturgeon Developments Inc.",
+            "MEMBEROPERATINGNAME": "Aspire Sturgeon Developments Inc.",
+            "MEMBERVBNUM": "B60265",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "River Creek Developments Inc.",
+            "MEMBEROPERATINGNAME": "River Creek Developments Inc.",
+            "MEMBERVBNUM": "B60726",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Sturgeon View Estates",
+            "Account Number": "B60265",
+            "Project Status": null,
+            "Location": "Kawartha Lakes",
+            "Address": " 27 Avalon Drive ",
+            "# of Units": 25,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ]
+}

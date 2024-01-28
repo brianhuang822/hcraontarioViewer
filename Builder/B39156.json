@@ -1,0 +1,114 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39156",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Skyline Real Estate Developments Incorporated",
+            "OPERATINGNAME": null,
+            "CITY": "GUELPH",
+            "HCRA_INITIALLICENSEDATE": "2009-02-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-02-11 16:01:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "70 Fountain St., E.",
+            "TELEPHONE": "519-826-0439",
+            "FAX": "519-836-2320",
+            "WEBSITEURL": "www.skylineonline.ca",
+            "EMAIL": "mcastellan@skylineonline.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12312162",
+            "TO": "Wayne Byrd",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12312160",
+            "TO": "Jason Castellan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-826-0439"
+        },
+        {
+            "TOUNIQUENUMBER": "12312160",
+            "TO": "Jason Castellan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-826-0439"
+        },
+        {
+            "TOUNIQUENUMBER": "12312161",
+            "TO": "R. Jason Ashdown",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12312161",
+            "TO": "R. Jason Ashdown",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12312158",
+            "TO": "Martin Castellan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-826-0439"
+        },
+        {
+            "TOUNIQUENUMBER": "12312158",
+            "TO": "Martin Castellan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-826-0439"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39156",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Skyline Real Estate Developments Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Chantry Place",
+            "Project Status": "Completed",
+            "Location": "SAUGEEN",
+            "Address": "221 Adelaide St.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-10-27"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34912",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Daniel D. Cote Construction Inc.",
+            "OPERATINGNAME": "Daniel D. Cote Construction Inc.",
+            "CITY": "Rockland",
+            "HCRA_INITIALLICENSEDATE": "2004-09-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-11 13:29:15.000 +0000",
+            "Expiry Date": "2024-09-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "814B St. Joseph Street",
+            "TELEPHONE": "613-446-5188",
+            "FAX": "613-446-2204",
+            "WEBSITEURL": "https://www.dcoteconstruction.com",
+            "EMAIL": "danielcote@dcoteconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12028890",
+            "TO": "Daniel D. Cote",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-446-5188"
+        },
+        {
+            "TOUNIQUENUMBER": "12028890",
+            "TO": "Daniel D. Cote",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-446-5188"
+        },
+        {
+            "TOUNIQUENUMBER": "12028890",
+            "TO": "Daniel D. Cote",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-446-5188"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34912",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Daniel D. Cote Construction Inc.",
+            "OPERATINGNAME": "Daniel D. Cote Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

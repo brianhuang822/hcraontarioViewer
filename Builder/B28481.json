@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28481",
+            "Umbrella": "Barry Wade Homes",
+            "Umbrella ID": "12539883",
+            "VB_NAME": "776497 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "DORCHESTER",
+            "HCRA_INITIALLICENSEDATE": "1999-08-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-09-01 12:41:41.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3969 Hamilton Rd.",
+            "TELEPHONE": "(519)268-2995",
+            "FAX": "(519)268-2694",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345303",
+            "TO": "Barry Wade",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-268-2995"
+        },
+        {
+            "TOUNIQUENUMBER": "345303",
+            "TO": "Barry Wade",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-268-2995"
+        },
+        {
+            "TOUNIQUENUMBER": "345303",
+            "TO": "Barry Wade",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-268-2995"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28481",
+            "Umbrella": "Barry Wade Homes",
+            "Umbrella ID": "12539883",
+            "VB_NAME": "776497 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32298",
+            "MEMBERNAME": "776497 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28481",
+            "Umbrella": "Barry Wade Homes",
+            "Umbrella ID": "12539883",
+            "VB_NAME": "776497 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28481",
+            "MEMBERNAME": "776497 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

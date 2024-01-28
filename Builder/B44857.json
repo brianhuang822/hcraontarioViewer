@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44857",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Centralpark Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Concord",
+            "HCRA_INITIALLICENSEDATE": "2021-03-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-05 15:23:04.000 +0000",
+            "Expiry Date": "2024-03-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2499 Rutherford Road",
+            "TELEPHONE": "416-910-1722",
+            "FAX": null,
+            "WEBSITEURL": "centralparkhomes.ca",
+            "EMAIL": "info@centralparkhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100326420",
+            "TO": "Yevgeniy Kim",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-910-1722"
+        },
+        {
+            "TOUNIQUENUMBER": "100326420",
+            "TO": "Yevgeniy Kim",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-910-1722"
+        },
+        {
+            "TOUNIQUENUMBER": "600005264",
+            "TO": "Arkadij Subbotin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-614-2389"
+        },
+        {
+            "TOUNIQUENUMBER": "600005264",
+            "TO": "Arkadij Subbotin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-614-2389"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44857",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Centralpark Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Lake Wilcox Towns",
+            "Project Status": null,
+            "Location": "RICHMOND HILL",
+            "Address": " 12600 Bayview Ave ",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

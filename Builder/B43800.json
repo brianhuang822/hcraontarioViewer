@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43800",
+            "Umbrella": "Melchers Custom Homes",
+            "Umbrella ID": "12541788",
+            "VB_NAME": "Melchers Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Komoka",
+            "HCRA_INITIALLICENSEDATE": "2014-07-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-17 02:20:22.000 +0000",
+            "Expiry Date": "2024-07-31",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "22662 Komoka Road",
+            "TELEPHONE": "519-473-4149",
+            "FAX": "519-473-8371",
+            "WEBSITEURL": "www.melchersconstruction.com",
+            "EMAIL": "chris@melchersconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 212,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 212,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12321410",
+            "TO": "Christopher Theodore Melchers",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-473-4149"
+        },
+        {
+            "TOUNIQUENUMBER": "12321410",
+            "TO": "Christopher Theodore Melchers",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-473-4149"
+        },
+        {
+            "TOUNIQUENUMBER": "12321410",
+            "TO": "Christopher Theodore Melchers",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-473-4149"
+        },
+        {
+            "TOUNIQUENUMBER": "338026",
+            "TO": "Theodore Thomas Melchers",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-473-4149"
+        },
+        {
+            "TOUNIQUENUMBER": "338026",
+            "TO": "Theodore Thomas Melchers",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-473-4149"
+        },
+        {
+            "TOUNIQUENUMBER": "338026",
+            "TO": "Theodore Thomas Melchers",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-473-4149"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43800",
+            "Umbrella": "Melchers Custom Homes",
+            "Umbrella ID": "12541788",
+            "VB_NAME": "Melchers Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26820",
+            "MEMBERNAME": "Melchers Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43800",
+            "Umbrella": "Melchers Custom Homes",
+            "Umbrella ID": "12541788",
+            "VB_NAME": "Melchers Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43800",
+            "MEMBERNAME": "Melchers Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Parkview Heights",
+            "Project Status": null,
+            "Location": "KOMOKA",
+            "Address": "10038 Oxbow Dr.",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36462",
+            "Umbrella": "Hush",
+            "Umbrella ID": "12355730",
+            "VB_NAME": "2091467 Ontario Inc.",
+            "OPERATINGNAME": "Hush Fine Homes",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2006-02-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-02-24 16:00:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "75 International Blvd., Ste. 400",
+            "TELEPHONE": "416/987-6500",
+            "FAX": "416-987-6515",
+            "WEBSITEURL": "hush.ca",
+            "EMAIL": "erin@hush.ca",
+            "ACCOUNTNUMBER": "B36462",
+            "Total Outstanding Amount": 6780,
+            "TAB": 0,
+            "BREACH": 6780,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 40000,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 40000
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11682599",
+            "TO": "Musa F. Suleman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-621-3393"
+        },
+        {
+            "TOUNIQUENUMBER": "11682599",
+            "TO": "Musa F. Suleman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-621-3393"
+        },
+        {
+            "TOUNIQUENUMBER": "100161352",
+            "TO": "Kerri Yarema",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-987-6500"
+        },
+        {
+            "TOUNIQUENUMBER": "11888237",
+            "TO": "Naheel Suleman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-987-6500"
+        },
+        {
+            "TOUNIQUENUMBER": "11888237",
+            "TO": "Naheel Suleman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-987-6500"
+        },
+        {
+            "TOUNIQUENUMBER": "11888237",
+            "TO": "Naheel Suleman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-987-6500"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36462",
+            "Umbrella": "Hush",
+            "Umbrella ID": "12355730",
+            "VB_NAME": "2091467 Ontario Inc.",
+            "OPERATINGNAME": "Hush Fine Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45333",
+            "MEMBERNAME": "2091467 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B36462",
+            "Umbrella": "Hush",
+            "Umbrella ID": "12355730",
+            "VB_NAME": "2091467 Ontario Inc.",
+            "OPERATINGNAME": "Hush Fine Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36462",
+            "MEMBERNAME": "2091467 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Hush Fine Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

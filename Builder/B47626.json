@@ -1,0 +1,104 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47626",
+            "Umbrella": "Ahmed Group",
+            "Umbrella ID": "12550152",
+            "VB_NAME": "Ahmed Holdings Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2019-05-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-18 18:52:20.000 +0000",
+            "Expiry Date": "2024-05-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1024 Dundas Street East",
+            "TELEPHONE": "905-949-0999",
+            "FAX": "905-949-0999",
+            "WEBSITEURL": "https://www.ahmedgroup",
+            "EMAIL": "contact@ahmed.group",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100499347",
+            "TO": "Mohammed Ahmed",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-949-0999"
+        },
+        {
+            "TOUNIQUENUMBER": "100499347",
+            "TO": "Mohammed Ahmed",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-949-0999"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47626",
+            "Umbrella": "Ahmed Group",
+            "Umbrella ID": "12550152",
+            "VB_NAME": "Ahmed Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46987",
+            "MEMBERNAME": "Ahmed Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47626",
+            "Umbrella": "Ahmed Group",
+            "Umbrella ID": "12550152",
+            "VB_NAME": "Ahmed Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47626",
+            "MEMBERNAME": "Ahmed Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47626",
+            "Umbrella": "Ahmed Group",
+            "Umbrella ID": "12550152",
+            "VB_NAME": "Ahmed Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62359",
+            "MEMBERNAME": "Ahmed Group (1000 Dundas St. E.) Inc.",
+            "MEMBEROPERATINGNAME": "Ahmed Group (1000 Dundas St. E.) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47626",
+            "Umbrella": "Ahmed Group",
+            "Umbrella ID": "12550152",
+            "VB_NAME": "Ahmed Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60263",
+            "MEMBERNAME": "Ahmed Group (15 Parish St) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

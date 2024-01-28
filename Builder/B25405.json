@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25405",
+            "Umbrella": "Liovas Homes",
+            "Umbrella ID": "12523773",
+            "VB_NAME": "1078262 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Leamington",
+            "HCRA_INITIALLICENSEDATE": "1996-03-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-02 17:36:05.000 +0000",
+            "Expiry Date": "2025-03-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 121",
+            "TELEPHONE": "519-326-7503",
+            "FAX": "519-326-8254",
+            "WEBSITEURL": "www.liovasgroup.com",
+            "EMAIL": "jiml@liovashomes.com",
+            "ACCOUNTNUMBER": "B25405",
+            "Total Outstanding Amount": 6666.4,
+            "TAB": 6666.4,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 165,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 165,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 13610.69,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 13610.69
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345343",
+            "TO": "Susan Liovas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-326-7503"
+        },
+        {
+            "TOUNIQUENUMBER": "345343",
+            "TO": "Susan Liovas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-326-7503"
+        },
+        {
+            "TOUNIQUENUMBER": "341570",
+            "TO": "Jimmy Liovas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-326-7503"
+        },
+        {
+            "TOUNIQUENUMBER": "341570",
+            "TO": "Jimmy Liovas",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-326-7503"
+        },
+        {
+            "TOUNIQUENUMBER": "341570",
+            "TO": "Jimmy Liovas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-326-7503"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25405",
+            "Umbrella": "Liovas Homes",
+            "Umbrella ID": "12523773",
+            "VB_NAME": "1078262 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41860",
+            "MEMBERNAME": "1775997 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Liovas Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B25405",
+            "Umbrella": "Liovas Homes",
+            "Umbrella ID": "12523773",
+            "VB_NAME": "1078262 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25405",
+            "MEMBERNAME": "1078262 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

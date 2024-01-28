@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B7894",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "514563 Ontario Limited",
+            "OPERATINGNAME": "Hallmark Pl.",
+            "CITY": "BRAMPTON",
+            "HCRA_INITIALLICENSEDATE": "1984-06-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1986-11-16 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Rice Const.",
+            "TELEPHONE": "(416)451-0443",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336914",
+            "TO": "Raymond Wilson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "328163",
+            "TO": "David Rice",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-796-3630"
+        },
+        {
+            "TOUNIQUENUMBER": "328179",
+            "TO": "Roderick (Rod) Rice",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-796-3630"
+        },
+        {
+            "TOUNIQUENUMBER": "328169",
+            "TO": "Jeffrey Rice",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-274-7938"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B7894",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "514563 Ontario Limited",
+            "OPERATINGNAME": "Hallmark Pl.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "CHURCH ST. CONDO",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "58 Church St.",
+            "# of Units": 49,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1986-01-21"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23186",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Joe's Carpentry Inc.",
+            "OPERATINGNAME": "Van Lagen Homes",
+            "CITY": "Norwich",
+            "HCRA_INITIALLICENSEDATE": "1993-07-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-12 16:59:23.000 +0000",
+            "Expiry Date": "2024-07-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5 Stover Street South",
+            "TELEPHONE": "519-863-2613",
+            "FAX": "519-863-3558",
+            "WEBSITEURL": "www.joescarpentry.ca",
+            "EMAIL": "johnvl@joescarpentry.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 21,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 21,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12121784",
+            "TO": "William Van Lagen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-863-6060"
+        },
+        {
+            "TOUNIQUENUMBER": "12121784",
+            "TO": "William Van Lagen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-863-6060"
+        },
+        {
+            "TOUNIQUENUMBER": "12121784",
+            "TO": "William Van Lagen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-863-6060"
+        },
+        {
+            "TOUNIQUENUMBER": "12116912",
+            "TO": "John Van Lagen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-863-2613"
+        },
+        {
+            "TOUNIQUENUMBER": "12116912",
+            "TO": "John Van Lagen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-863-2613"
+        },
+        {
+            "TOUNIQUENUMBER": "12116912",
+            "TO": "John Van Lagen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-863-2613"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23186",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Joe's Carpentry Inc.",
+            "OPERATINGNAME": "Van Lagen Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

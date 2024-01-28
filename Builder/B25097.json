@@ -1,0 +1,343 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25097",
+            "Umbrella": "Grey Forest Homes",
+            "Umbrella ID": "12539912",
+            "VB_NAME": "Grey Forest Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "St. Catharines",
+            "HCRA_INITIALLICENSEDATE": "1995-08-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-11 03:18:14.000 +0000",
+            "Expiry Date": "2024-08-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1 Keefer Road",
+            "TELEPHONE": "905-687-9416",
+            "FAX": "905-938-2420",
+            "WEBSITEURL": "http://www.greyforesthomes.ca",
+            "EMAIL": "leighanne@greyforesthomes.ca",
+            "ACCOUNTNUMBER": "B25097",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 386,
+            "SUMM_CONDO": 74,
+            "SUMM_TOTAL": 460,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329929",
+            "TO": "Rudy Sawatzky",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-935-2428"
+        },
+        {
+            "TOUNIQUENUMBER": "329929",
+            "TO": "Rudy Sawatzky",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-935-2428"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25097",
+            "Umbrella": "Grey Forest Homes",
+            "Umbrella ID": "12539912",
+            "VB_NAME": "Grey Forest Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25097",
+            "MEMBERNAME": "Grey Forest Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B25097",
+            "Umbrella": "Grey Forest Homes",
+            "Umbrella ID": "12539912",
+            "VB_NAME": "Grey Forest Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B20726",
+            "MEMBERNAME": "Grey Forest Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25097",
+            "Umbrella": "Grey Forest Homes",
+            "Umbrella ID": "12539912",
+            "VB_NAME": "Grey Forest Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B23797",
+            "MEMBERNAME": "Victoria Meadows Townhomes Inc.",
+            "MEMBEROPERATINGNAME": "Victoria Meadows",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Tabitha Court",
+            "Project Status": null,
+            "Location": "ST. CATHARINES",
+            "Address": "  Tabitha Court ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Peachtree Landing Condominiums",
+            "Project Status": null,
+            "Location": "NIAGARA ON THE LAKE",
+            "Address": "  Line 1 Rd and Concession 6 Rd. ",
+            "# of Units": 45,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Shore Breeze Townhouses",
+            "Project Status": null,
+            "Location": "RIDGEWAY",
+            "Address": "310 Ridge Rd. S.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Trillium Gardens Condominiums",
+            "Project Status": null,
+            "Location": "ST. CATHARINES",
+            "Address": "42 Parkside Dr.",
+            "# of Units": 53,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Pierport Court",
+            "Project Status": null,
+            "Location": "ST. CATHARINES",
+            "Address": "  Pierport Common ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Cedarbrook Landing",
+            "Project Status": null,
+            "Location": "ST. CATHARINES",
+            "Address": " 525 Niagara St. ",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Elmwood Terrace",
+            "Project Status": null,
+            "Location": "WELLAND",
+            "Address": " 70 Elmwood Ave. ",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Tanbark Heights",
+            "Project Status": null,
+            "Location": "ST. DAVIDS",
+            "Address": "Ridgeview Cres.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Brookwood Terrace",
+            "Project Status": null,
+            "Location": "ST. CATHARINES",
+            "Address": " 603 Welland Ave. ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Heritage Oak Estates",
+            "Project Status": null,
+            "Location": "ST. CATHARINES",
+            "Address": "Lena Common",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Lavender Fields",
+            "Project Status": null,
+            "Location": "PELHAM",
+            "Address": " 162 Port Robinson Road ",
+            "# of Units": 87,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "The Townhomes of Saffron Meadows",
+            "Project Status": null,
+            "Location": "PELHAM",
+            "Address": "Port Robinson Rd.",
+            "# of Units": 51,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Orchard Trail",
+            "Project Status": null,
+            "Location": "VINELAND",
+            "Address": "Culp Rd.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Pinecroft Estates",
+            "Project Status": null,
+            "Location": "NIAGARA FALLS",
+            "Address": "  Tanbark Rd. & Pinecroft Dr. ",
+            "# of Units": 57,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Harvest Creek",
+            "Project Status": null,
+            "Location": "NIAGARA ON THE LAKE",
+            "Address": "  Crimson and Hillside Dr. ",
+            "# of Units": 59,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Lexington Court",
+            "Project Status": "Completed",
+            "Location": "FORT ERIE",
+            "Address": "660 Albert St.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-10-18"
+        },
+        {
+            "Condo Project Name": "Lexington Court",
+            "Project Status": "Completed",
+            "Location": "FORT ERIE",
+            "Address": " 660 Albert St. ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-05-02"
+        },
+        {
+            "Condo Project Name": "Canal Court",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": "495 Linwell Rd.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-12-23"
+        },
+        {
+            "Condo Project Name": "Lexington Court",
+            "Project Status": "Completed",
+            "Location": "FORT ERIE",
+            "Address": " 660 Albert St. ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-01-22"
+        },
+        {
+            "Condo Project Name": "Roseglen Estates",
+            "Project Status": "Completed",
+            "Location": "NIAGARA ON THE LAKE",
+            "Address": "  Loretta Dr. ",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-10-27"
+        },
+        {
+            "Condo Project Name": "41 BROADWAY",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": "41 Broadway",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-06-20"
+        },
+        {
+            "Condo Project Name": "STONEGATE PARK",
+            "Project Status": "Completed",
+            "Location": "NIAGARA ON THE LAKE",
+            "Address": " 92 Loretta Dr. ",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-05-09"
+        },
+        {
+            "Condo Project Name": "VILLAGE ON THE TRAIL",
+            "Project Status": "Completed",
+            "Location": "RIDGEWAY",
+            "Address": " 3730 Disher St ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-01-28"
+        },
+        {
+            "Condo Project Name": "ORCHARD LANE",
+            "Project Status": "Completed",
+            "Location": "NIAGARA ON THE LAKE",
+            "Address": " 21 Loretta Dr. ",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-08-26"
+        },
+        {
+            "Condo Project Name": "WALNUT GROVE",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": "4667 Portage Road",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-11-25"
+        }
+    ],
+    "builderConditions": []
+}

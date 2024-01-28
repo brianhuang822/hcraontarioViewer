@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26988",
+            "Umbrella": "Caraszma Developments",
+            "Umbrella ID": "11882360",
+            "VB_NAME": "Caraszma Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Brantford",
+            "HCRA_INITIALLICENSEDATE": "1998-05-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-11 20:30:18.000 +0000",
+            "Expiry Date": "2024-05-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "178 Oakhill Drive",
+            "TELEPHONE": "519-753-2303",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "szasz@rogers.com",
+            "ACCOUNTNUMBER": "B26988",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "333011",
+            "TO": "Steven Szasz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-753-2303"
+        },
+        {
+            "TOUNIQUENUMBER": "333011",
+            "TO": "Steven Szasz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-753-2303"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26988",
+            "Umbrella": "Caraszma Developments",
+            "Umbrella ID": "11882360",
+            "VB_NAME": "Caraszma Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B11738",
+            "MEMBERNAME": "604279 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Steven J. Szasz Const.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B26988",
+            "Umbrella": "Caraszma Developments",
+            "Umbrella ID": "11882360",
+            "VB_NAME": "Caraszma Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26988",
+            "MEMBERNAME": "Caraszma Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B26988",
+            "Umbrella": "Caraszma Developments",
+            "Umbrella ID": "11882360",
+            "VB_NAME": "Caraszma Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32785",
+            "MEMBERNAME": "1408044 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "PARKWAY CIRCLE",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": " 35 Cobden Crt. ",
+            "# of Units": 33,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-08-23"
+        },
+        {
+            "Condo Project Name": "PARKWAY PLACE",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "385 Park Rd. N.",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-01-25"
+        },
+        {
+            "Condo Project Name": "PARKWAY LANDING",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": " 15 Cobden Court ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-11-15"
+        },
+        {
+            "Condo Project Name": "PARKVIEW PLACE ON SOMERSET",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "110 Somerset Rd.",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-12-14"
+        },
+        {
+            "Condo Project Name": "ROSEDALE ESTATES",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "422 Powerline Rd.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-04-07"
+        }
+    ],
+    "builderConditions": []
+}

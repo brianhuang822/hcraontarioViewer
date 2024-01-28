@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47793",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Evepark London GP Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "St. Jacobs",
+            "HCRA_INITIALLICENSEDATE": "2020-05-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-25 16:45:30.000 +0000",
+            "Expiry Date": "2024-05-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10 Front Street",
+            "TELEPHONE": "519-664-3636",
+            "FAX": null,
+            "WEBSITEURL": "www.evepark.ca",
+            "EMAIL": "dsatnik@s2etech.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 30,
+            "SUMM_TOTAL": 30,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100582738",
+            "TO": "Stephen Pepper",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-318-6317"
+        },
+        {
+            "TOUNIQUENUMBER": "100582738",
+            "TO": "Stephen Pepper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-318-6317"
+        },
+        {
+            "TOUNIQUENUMBER": "100582736",
+            "TO": "Derek Satnik",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-339-0943"
+        },
+        {
+            "TOUNIQUENUMBER": "100582736",
+            "TO": "Derek Satnik",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-339-0943"
+        },
+        {
+            "TOUNIQUENUMBER": "100582737",
+            "TO": "Carlos Fernandez Espinola",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-497-6116"
+        },
+        {
+            "TOUNIQUENUMBER": "100582737",
+            "TO": "Carlos Fernandez Espinola",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-497-6116"
+        },
+        {
+            "TOUNIQUENUMBER": "100582740",
+            "TO": "Milfred Hammerbacher",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-572-0867"
+        },
+        {
+            "TOUNIQUENUMBER": "100582740",
+            "TO": "Milfred Hammerbacher",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-572-0867"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47793",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Evepark London GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Eve Park London",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": " 2062-2112 Lumen Drive ",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Eve Park London",
+            "Project Status": "In Progress",
+            "Location": "LONDON",
+            "Address": " 2062-2112 Lumen Drive ",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

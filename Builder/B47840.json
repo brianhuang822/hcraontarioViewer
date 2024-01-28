@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47840",
+            "Umbrella": "Dimanor Homes",
+            "Umbrella ID": "12550684",
+            "VB_NAME": "Dimanor Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Orillia",
+            "HCRA_INITIALLICENSEDATE": "2019-10-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-06 18:29:39.000 +0000",
+            "Expiry Date": "2024-10-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "25 Hunter Valley Road",
+            "TELEPHONE": "705-326-9000",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "tony@dimanorhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 52,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 52,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100585521",
+            "TO": "Antonio DiNunno",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-326-9000"
+        },
+        {
+            "TOUNIQUENUMBER": "100585521",
+            "TO": "Antonio DiNunno",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-326-9000"
+        },
+        {
+            "TOUNIQUENUMBER": "343645",
+            "TO": "Angelo Orsi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-329-1161"
+        },
+        {
+            "TOUNIQUENUMBER": "343645",
+            "TO": "Angelo Orsi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-329-1161"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47840",
+            "Umbrella": "Dimanor Homes",
+            "Umbrella ID": "12550684",
+            "VB_NAME": "Dimanor Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47840",
+            "MEMBERNAME": "Dimanor Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47840",
+            "Umbrella": "Dimanor Homes",
+            "Umbrella ID": "12550684",
+            "VB_NAME": "Dimanor Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27237",
+            "MEMBERNAME": "Mariposa Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

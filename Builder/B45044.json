@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45044",
+            "Umbrella": "A&T Homes",
+            "Umbrella ID": "12539974",
+            "VB_NAME": "1084466 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Keswick",
+            "HCRA_INITIALLICENSEDATE": "2016-03-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-21 20:46:49.000 +0000",
+            "Expiry Date": "2024-03-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "40 The Queensway South",
+            "TELEPHONE": "905-476-2776",
+            "FAX": "905-535-1095",
+            "WEBSITEURL": " ",
+            "EMAIL": "tony29@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 40,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 40,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "316138",
+            "TO": "Albert Ingoglia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-955-9518"
+        },
+        {
+            "TOUNIQUENUMBER": "100345252",
+            "TO": "Jamie Lee Ingoglia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-251-8678"
+        },
+        {
+            "TOUNIQUENUMBER": "12175871",
+            "TO": "Antonio Ingoglia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-476-2776"
+        },
+        {
+            "TOUNIQUENUMBER": "12175871",
+            "TO": "Antonio Ingoglia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-476-2776"
+        },
+        {
+            "TOUNIQUENUMBER": "12175871",
+            "TO": "Antonio Ingoglia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-476-2776"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45044",
+            "Umbrella": "A&T Homes",
+            "Umbrella ID": "12539974",
+            "VB_NAME": "1084466 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B22612",
+            "MEMBERNAME": "797866 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Alberto & Tony'S Foo",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45044",
+            "Umbrella": "A&T Homes",
+            "Umbrella ID": "12539974",
+            "VB_NAME": "1084466 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25851",
+            "MEMBERNAME": "Albert Ingoglia",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45044",
+            "Umbrella": "A&T Homes",
+            "Umbrella ID": "12539974",
+            "VB_NAME": "1084466 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45044",
+            "MEMBERNAME": "1084466 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Highfield Landing",
+            "Project Status": null,
+            "Location": "SUTTON",
+            "Address": "1-16 Vita Stephanie Crt.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

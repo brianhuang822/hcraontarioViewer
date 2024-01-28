@@ -1,0 +1,128 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B12106",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "712169 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "1987-09-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2024-01-08 19:08:37.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6 Haskins Crt.",
+            "TELEPHONE": "(905)573-0844",
+            "FAX": "(905)573-0844",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "250985",
+            "TO": "Gino Malatesta",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-573-0844"
+        },
+        {
+            "TOUNIQUENUMBER": "250985",
+            "TO": "Gino Malatesta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-573-0844"
+        },
+        {
+            "TOUNIQUENUMBER": "250985",
+            "TO": "Gino Malatesta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-573-0844"
+        },
+        {
+            "TOUNIQUENUMBER": "320913",
+            "TO": "Tony A. Malatesta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "320913",
+            "TO": "Tony A. Malatesta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "320913",
+            "TO": "Tony A. Malatesta",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "320904",
+            "TO": "Antonio Malatesta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "320904",
+            "TO": "Antonio Malatesta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "320904",
+            "TO": "Antonio Malatesta",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B12106",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "712169 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "GAGE HILL CONDO TOWNHOMES",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": "1232 Upper Gage Ave.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-12-12"
+        }
+    ],
+    "builderConditions": []
+}

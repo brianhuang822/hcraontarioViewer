@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41203",
+            "Umbrella": "Greycrest Homes",
+            "Umbrella ID": "12478183",
+            "VB_NAME": "Greycrest Homes (Oshawa) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Woodbridge",
+            "HCRA_INITIALLICENSEDATE": "2011-05-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-19 16:03:36.000 +0000",
+            "Expiry Date": "2024-05-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "61 Sharer Road",
+            "TELEPHONE": "905-264-1709",
+            "FAX": "905-264-8783",
+            "WEBSITEURL": "www.greycresthomes.com",
+            "EMAIL": "accounting@greycresthomes.com",
+            "ACCOUNTNUMBER": "B41203",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 407,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 407,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1410,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1410
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344160",
+            "TO": "Vita Locicero",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-1709"
+        },
+        {
+            "TOUNIQUENUMBER": "344160",
+            "TO": "Vita Locicero",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-1709"
+        },
+        {
+            "TOUNIQUENUMBER": "344160",
+            "TO": "Vita Locicero",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-1709"
+        },
+        {
+            "TOUNIQUENUMBER": "341299",
+            "TO": "Nick Locicero",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-1709"
+        },
+        {
+            "TOUNIQUENUMBER": "341299",
+            "TO": "Nick Locicero",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-1709"
+        },
+        {
+            "TOUNIQUENUMBER": "341299",
+            "TO": "Nick Locicero",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-1709"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41203",
+            "Umbrella": "Greycrest Homes",
+            "Umbrella ID": "12478183",
+            "VB_NAME": "Greycrest Homes (Oshawa) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41203",
+            "MEMBERNAME": "Greycrest Homes (Oshawa) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41203",
+            "Umbrella": "Greycrest Homes",
+            "Umbrella ID": "12478183",
+            "VB_NAME": "Greycrest Homes (Oshawa) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40870",
+            "MEMBERNAME": "Greycrest Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Greycrest Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

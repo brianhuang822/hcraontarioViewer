@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43364",
+            "Umbrella": "Soloe Development",
+            "Umbrella ID": "12542193",
+            "VB_NAME": "Gchiar Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "2013-11-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-02-19 02:32:33.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "95 Wright St.",
+            "TELEPHONE": "416/617-3855",
+            "FAX": "905/883-0431",
+            "WEBSITEURL": " ",
+            "EMAIL": "guidochevy@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 8,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 3150,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3150
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100133004",
+            "TO": "Guido Chiaravalloti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-617-3855"
+        },
+        {
+            "TOUNIQUENUMBER": "100133004",
+            "TO": "Guido Chiaravalloti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-617-3855"
+        },
+        {
+            "TOUNIQUENUMBER": "100133004",
+            "TO": "Guido Chiaravalloti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-617-3855"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43364",
+            "Umbrella": "Soloe Development",
+            "Umbrella ID": "12542193",
+            "VB_NAME": "Gchiar Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42338",
+            "MEMBERNAME": "The BTB Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43364",
+            "Umbrella": "Soloe Development",
+            "Umbrella ID": "12542193",
+            "VB_NAME": "Gchiar Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43364",
+            "MEMBERNAME": "Gchiar Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Gables of Bradford",
+            "Project Status": "Completed",
+            "Location": "BRADFORD",
+            "Address": "128 Barrie St.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-05-24"
+        }
+    ],
+    "builderConditions": []
+}

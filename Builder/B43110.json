@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43110",
+            "Umbrella": "ILM",
+            "Umbrella ID": "12539499",
+            "VB_NAME": "Maison ILM Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "St-Albert",
+            "HCRA_INITIALLICENSEDATE": "2013-09-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-28 15:00:52.000 +0000",
+            "Expiry Date": "2024-09-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "938 Du Castor Road",
+            "TELEPHONE": "613-292-6815",
+            "FAX": null,
+            "WEBSITEURL": "www.maisonilm.ca",
+            "EMAIL": "maisonilm@me.com",
+            "ACCOUNTNUMBER": "B43110",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 13,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 13,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100598106",
+            "TO": "Robin Mainville",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-9362"
+        },
+        {
+            "TOUNIQUENUMBER": "340216",
+            "TO": "Daniel C. Mainville",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-292-6815"
+        },
+        {
+            "TOUNIQUENUMBER": "340216",
+            "TO": "Daniel C. Mainville",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-292-6815"
+        },
+        {
+            "TOUNIQUENUMBER": "340216",
+            "TO": "Daniel C. Mainville",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-292-6815"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43110",
+            "Umbrella": "ILM",
+            "Umbrella ID": "12539499",
+            "VB_NAME": "Maison ILM Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B23126",
+            "MEMBERNAME": "Les Investissements Lanthier-Mainville Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43110",
+            "Umbrella": "ILM",
+            "Umbrella ID": "12539499",
+            "VB_NAME": "Maison ILM Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43110",
+            "MEMBERNAME": "Maison ILM Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

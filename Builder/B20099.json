@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B20099",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "T.J. Connolly Const. Ltd.",
+            "OPERATINGNAME": "A-Con Construction",
+            "CITY": "FONTHILL",
+            "HCRA_INITIALLICENSEDATE": "1990-11-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1995-11-29 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "23 Hurricane Rd.",
+            "TELEPHONE": "(905)892-8848",
+            "FAX": "(905)892-8632",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "306795",
+            "TO": "Theresa Connolly",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "306794",
+            "TO": "Terrence Joseph Connolly",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-892-5366"
+        },
+        {
+            "TOUNIQUENUMBER": "306794",
+            "TO": "Terrence Joseph Connolly",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-892-5366"
+        },
+        {
+            "TOUNIQUENUMBER": "306794",
+            "TO": "Terrence Joseph Connolly",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-892-5366"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B20099",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "T.J. Connolly Const. Ltd.",
+            "OPERATINGNAME": "A-Con Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BIRCHLEY PLACE",
+            "Project Status": "In Progress",
+            "Location": "FONTHILL",
+            "Address": "209 Highway #20 East",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

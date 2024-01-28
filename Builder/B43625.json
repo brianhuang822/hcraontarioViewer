@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43625",
+            "Umbrella": "Draper Construction",
+            "Umbrella ID": "12541514",
+            "VB_NAME": "629995 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Renfrew",
+            "HCRA_INITIALLICENSEDATE": "2014-05-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-05 15:00:46.000 +0000",
+            "Expiry Date": "2024-05-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4420 River Road",
+            "TELEPHONE": "613-432-8648",
+            "FAX": "613-623-8318",
+            "WEBSITEURL": " ",
+            "EMAIL": "medraper@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 26,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 26,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100223681",
+            "TO": "David Draper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-3667"
+        },
+        {
+            "TOUNIQUENUMBER": "100223680",
+            "TO": "Marion Draper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-432-8648"
+        },
+        {
+            "TOUNIQUENUMBER": "309583",
+            "TO": "Eric Roland Draper",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-432-8648"
+        },
+        {
+            "TOUNIQUENUMBER": "309583",
+            "TO": "Eric Roland Draper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-432-8648"
+        },
+        {
+            "TOUNIQUENUMBER": "309583",
+            "TO": "Eric Roland Draper",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-432-8648"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43625",
+            "Umbrella": "Draper Construction",
+            "Umbrella ID": "12541514",
+            "VB_NAME": "629995 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B521",
+            "MEMBERNAME": "Eric Roland Draper",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43625",
+            "Umbrella": "Draper Construction",
+            "Umbrella ID": "12541514",
+            "VB_NAME": "629995 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43625",
+            "MEMBERNAME": "629995 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

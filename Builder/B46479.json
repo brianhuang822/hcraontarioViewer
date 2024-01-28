@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46479",
+            "Umbrella": "JW Engineers",
+            "Umbrella ID": "12546994",
+            "VB_NAME": "JW Engineers Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2017-09-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-15 20:36:02.000 +0000",
+            "Expiry Date": "2024-09-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9 Cottonwood Drive",
+            "TELEPHONE": "416-768-5188",
+            "FAX": null,
+            "WEBSITEURL": "www.jwengineers.ca",
+            "EMAIL": "qinzhenhua@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100363644",
+            "TO": "Jun Wang",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-574-8235"
+        },
+        {
+            "TOUNIQUENUMBER": "100363644",
+            "TO": "Jun Wang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-574-8235"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46479",
+            "Umbrella": "JW Engineers",
+            "Umbrella ID": "12546994",
+            "VB_NAME": "JW Engineers Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46479",
+            "MEMBERNAME": "JW Engineers Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46479",
+            "Umbrella": "JW Engineers",
+            "Umbrella ID": "12546994",
+            "VB_NAME": "JW Engineers Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45321",
+            "MEMBERNAME": "Jun Wang",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

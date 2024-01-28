@@ -1,0 +1,93 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Hanson-Needler",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "4230 Sherwoodtowne Blvd.",
+            "TELEPHONE": "(416)270-0903",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "The Hanson-Needler Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9150",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Urban Equities Sherwood Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8305",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Hanson-Needler Noblehouse Inc.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20470",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kenderry-Esprit Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17798",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "THE MANSIONS",
+            "Account Number": "B9150",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "45 Kingbridge Gdn.Cir.",
+            "# of Units": 358,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-11-23"
+        },
+        {
+            "Condo Project Name": "THE MANSIONS",
+            "Account Number": "B8305",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "55 Kingsbridge Gdn. Cir.",
+            "# of Units": 332,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-03-28"
+        },
+        {
+            "Condo Project Name": null,
+            "Account Number": "B8305",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4635 Regents Ter.",
+            "# of Units": 91,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1987-12-15"
+        }
+    ]
+}

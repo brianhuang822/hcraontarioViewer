@@ -1,0 +1,141 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48609",
+            "Umbrella": "Ambria Residential",
+            "Umbrella ID": "12551619",
+            "VB_NAME": "Ambria (Tapscott) Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2020-10-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-27 21:11:14.000 +0000",
+            "Expiry Date": "2024-10-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "400 Creditstone Road Unit 9",
+            "TELEPHONE": "416-850-8883",
+            "FAX": "416/850-8884",
+            "WEBSITEURL": "http://ambria.ca",
+            "EMAIL": "info@ambria.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100209441",
+            "TO": "Antonio Manocchio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-860-1980"
+        },
+        {
+            "TOUNIQUENUMBER": "100209441",
+            "TO": "Antonio Manocchio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-860-1980"
+        },
+        {
+            "TOUNIQUENUMBER": "11772387",
+            "TO": "Peter D'Ambrosio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-682-5200"
+        },
+        {
+            "TOUNIQUENUMBER": "11772387",
+            "TO": "Peter D'Ambrosio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-682-5200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48609",
+            "Umbrella": "Ambria Residential",
+            "Umbrella ID": "12551619",
+            "VB_NAME": "Ambria (Tapscott) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48609",
+            "MEMBERNAME": "Ambria (Tapscott) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48609",
+            "Umbrella": "Ambria Residential",
+            "Umbrella ID": "12551619",
+            "VB_NAME": "Ambria (Tapscott) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60150",
+            "MEMBERNAME": "Ambria (Mountainview) Limited",
+            "MEMBEROPERATINGNAME": "Ambria (Mountainview) Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48609",
+            "Umbrella": "Ambria Residential",
+            "Umbrella ID": "12551619",
+            "VB_NAME": "Ambria (Tapscott) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46331",
+            "MEMBERNAME": "Ambria (Otonabee) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48609",
+            "Umbrella": "Ambria Residential",
+            "Umbrella ID": "12551619",
+            "VB_NAME": "Ambria (Tapscott) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60317",
+            "MEMBERNAME": "Ambria (Bloomington) Limited",
+            "MEMBEROPERATINGNAME": "Ambria (Bloomington) Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48609",
+            "Umbrella": "Ambria Residential",
+            "Umbrella ID": "12551619",
+            "VB_NAME": "Ambria (Tapscott) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41879",
+            "MEMBERNAME": "Maestro Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Presto Towns",
+            "Project Status": "In Progress",
+            "Location": "SCARBOROUGH",
+            "Address": " 1821-68 Co Tapsott Rd. ",
+            "# of Units": 298,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44973",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kalar Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "NIAGARA FALLS",
+            "HCRA_INITIALLICENSEDATE": "2016-03-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:19:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7000 McLeod Rd., Unit 7A",
+            "TELEPHONE": "289/228-2888",
+            "FAX": "905/357-9976",
+            "WEBSITEURL": "www.panoramacondos.ca",
+            "EMAIL": "j@panoramacondos.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100342228",
+            "TO": "Kai Hung Lee",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-228-2888"
+        },
+        {
+            "TOUNIQUENUMBER": "100342228",
+            "TO": "Kai Hung Lee",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-228-2888"
+        },
+        {
+            "TOUNIQUENUMBER": "100342228",
+            "TO": "Kai Hung Lee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-228-2888"
+        },
+        {
+            "TOUNIQUENUMBER": "100335570",
+            "TO": "Kai Man Lee",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-806-0112"
+        },
+        {
+            "TOUNIQUENUMBER": "100335570",
+            "TO": "Kai Man Lee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-806-0112"
+        },
+        {
+            "TOUNIQUENUMBER": "100335570",
+            "TO": "Kai Man Lee",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-806-0112"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44973",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kalar Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Panorama Condos",
+            "Project Status": "Cancelled",
+            "Location": "NIAGARA FALLS",
+            "Address": "8056 McLeod Rd.",
+            "# of Units": 96,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": "Sales threshold not met",
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

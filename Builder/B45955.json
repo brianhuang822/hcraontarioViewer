@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45955",
+            "Umbrella": "Jeffery Homes",
+            "Umbrella ID": "11757316",
+            "VB_NAME": "Jeffery Homes Limited",
+            "OPERATINGNAME": "Jeffery Homes",
+            "CITY": "Oshawa",
+            "HCRA_INITIALLICENSEDATE": "2017-03-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-26 14:55:41.000 +0000",
+            "Expiry Date": "2024-03-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1200 Airport Boulevard",
+            "TELEPHONE": "905-433-4701",
+            "FAX": "905-433-0089",
+            "WEBSITEURL": "www.Jefferyhomes.com",
+            "EMAIL": "Diane@Jefferyhomes.com",
+            "ACCOUNTNUMBER": "B45955",
+            "Total Outstanding Amount": 78792.04,
+            "TAB": 78792.04,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 155,
+            "SUMM_CONDO": 36,
+            "SUMM_TOTAL": 191,
+            "SUMM_CC": 10,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 5254.76,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 5254.76
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11710063",
+            "TO": "Scott Jeffery",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-433-4701"
+        },
+        {
+            "TOUNIQUENUMBER": "11710063",
+            "TO": "Scott Jeffery",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-433-4701"
+        },
+        {
+            "TOUNIQUENUMBER": "100633243",
+            "TO": "Pamela Jeffery",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-435-3817"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45955",
+            "Umbrella": "Jeffery Homes",
+            "Umbrella ID": "11757316",
+            "VB_NAME": "Jeffery Homes Limited",
+            "OPERATINGNAME": "Jeffery Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33943",
+            "MEMBERNAME": "1000396166 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45955",
+            "Umbrella": "Jeffery Homes",
+            "Umbrella ID": "11757316",
+            "VB_NAME": "Jeffery Homes Limited",
+            "OPERATINGNAME": "Jeffery Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42458",
+            "MEMBERNAME": "1825262 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45955",
+            "Umbrella": "Jeffery Homes",
+            "Umbrella ID": "11757316",
+            "VB_NAME": "Jeffery Homes Limited",
+            "OPERATINGNAME": "Jeffery Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48128",
+            "MEMBERNAME": "2659163 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45955",
+            "Umbrella": "Jeffery Homes",
+            "Umbrella ID": "11757316",
+            "VB_NAME": "Jeffery Homes Limited",
+            "OPERATINGNAME": "Jeffery Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45955",
+            "MEMBERNAME": "Jeffery Homes Limited",
+            "MEMBEROPERATINGNAME": "Jeffery Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45955",
+            "Umbrella": "Jeffery Homes",
+            "Umbrella ID": "11757316",
+            "VB_NAME": "Jeffery Homes Limited",
+            "OPERATINGNAME": "Jeffery Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60616",
+            "MEMBERNAME": "Harmony Rd LP",
+            "MEMBEROPERATINGNAME": "Harmony Rd LP",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "West Scugog Village",
+            "Project Status": null,
+            "Location": "SCUGOG",
+            "Address": " 1622 Scugog Street ",
+            "# of Units": 37,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

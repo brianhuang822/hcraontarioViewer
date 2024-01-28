@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42397",
+            "Umbrella": "Monkhouse Homes",
+            "Umbrella ID": "12538715",
+            "VB_NAME": "Monkhouse Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "LIVELY",
+            "HCRA_INITIALLICENSEDATE": "2012-11-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-11-08 13:01:20.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "132 Black Lake Rd.",
+            "TELEPHONE": "832/774-3578",
+            "FAX": "705/596-2473",
+            "WEBSITEURL": "www.monkhousehomes.com",
+            "EMAIL": "phil@monkhousehomes.com",
+            "ACCOUNTNUMBER": "B42397",
+            "Total Outstanding Amount": 1465.95,
+            "TAB": 0,
+            "BREACH": 1465.95,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 8648.65,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 8648.65
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12243464",
+            "TO": "Philip C. Monkhouse",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "832-774-3764"
+        },
+        {
+            "TOUNIQUENUMBER": "12243464",
+            "TO": "Philip C. Monkhouse",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "832-774-3764"
+        },
+        {
+            "TOUNIQUENUMBER": "12245675",
+            "TO": "Julie Monkhouse",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "832-774-3764"
+        },
+        {
+            "TOUNIQUENUMBER": "12245675",
+            "TO": "Julie Monkhouse",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "832-774-3764"
+        },
+        {
+            "TOUNIQUENUMBER": "12245675",
+            "TO": "Julie Monkhouse",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "832-774-3764"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42397",
+            "Umbrella": "Monkhouse Homes",
+            "Umbrella ID": "12538715",
+            "VB_NAME": "Monkhouse Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38063",
+            "MEMBERNAME": "Philip C. Monkhouse",
+            "MEMBEROPERATINGNAME": "Monkhouse Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42397",
+            "Umbrella": "Monkhouse Homes",
+            "Umbrella ID": "12538715",
+            "VB_NAME": "Monkhouse Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42397",
+            "MEMBERNAME": "Monkhouse Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

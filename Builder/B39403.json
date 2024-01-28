@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39403",
+            "Umbrella": "Standard Homes",
+            "Umbrella ID": "12540290",
+            "VB_NAME": "1583039 Ontario Inc.",
+            "OPERATINGNAME": "Standard Homes",
+            "CITY": "SIMCOE",
+            "HCRA_INITIALLICENSEDATE": "2009-01-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-01-23 14:00:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "31 Mann Ave.",
+            "TELEPHONE": "519-428-1034",
+            "FAX": "519-428-1758",
+            "WEBSITEURL": "www.standard-Homes.ca",
+            "EMAIL": "hbavaghar@standard-homes.ca",
+            "ACCOUNTNUMBER": "B39403",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 16,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 16,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 43125,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 43125
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11959251",
+            "TO": "Habib Bavaghar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-428-1034"
+        },
+        {
+            "TOUNIQUENUMBER": "11959251",
+            "TO": "Habib Bavaghar",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-428-1034"
+        },
+        {
+            "TOUNIQUENUMBER": "11959251",
+            "TO": "Habib Bavaghar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-428-1034"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39403",
+            "Umbrella": "Standard Homes",
+            "Umbrella ID": "12540290",
+            "VB_NAME": "1583039 Ontario Inc.",
+            "OPERATINGNAME": "Standard Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39403",
+            "MEMBERNAME": "1583039 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Standard Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39403",
+            "Umbrella": "Standard Homes",
+            "Umbrella ID": "12540290",
+            "VB_NAME": "1583039 Ontario Inc.",
+            "OPERATINGNAME": "Standard Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33892",
+            "MEMBERNAME": "Habib Bavaghar & Taghi Mahini",
+            "MEMBEROPERATINGNAME": "Standard Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

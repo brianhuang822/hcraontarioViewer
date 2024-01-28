@@ -1,0 +1,140 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37101",
+            "Umbrella": "Siljon",
+            "Umbrella ID": "12406129",
+            "VB_NAME": "Siljon Far Hills Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2006-12-07",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2011-11-22 03:22:53.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "c/o The Fuller Landau Group Inc.",
+            "TELEPHONE": "416/369-3063",
+            "FAX": "416/865-0904",
+            "WEBSITEURL": "www.farhillsofthornbury.com",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B37101",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 4,
+            "SUMM_MINOR_AMT": 115919.16,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 115919.16
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11767712",
+            "TO": "John D'Angelo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-1343"
+        },
+        {
+            "TOUNIQUENUMBER": "11767712",
+            "TO": "John D'Angelo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-1343"
+        },
+        {
+            "TOUNIQUENUMBER": "11767712",
+            "TO": "John D'Angelo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-1343"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37101",
+            "Umbrella": "Siljon",
+            "Umbrella ID": "12406129",
+            "VB_NAME": "Siljon Far Hills Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B31531",
+            "MEMBERNAME": "Siljon Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B37101",
+            "Umbrella": "Siljon",
+            "Umbrella ID": "12406129",
+            "VB_NAME": "Siljon Far Hills Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B28636",
+            "MEMBERNAME": "Siljon Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37101",
+            "Umbrella": "Siljon",
+            "Umbrella ID": "12406129",
+            "VB_NAME": "Siljon Far Hills Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B37101",
+            "MEMBERNAME": "Siljon Far Hills Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Far Hills Club",
+            "Project Status": "Completed",
+            "Location": "THORNBURY",
+            "Address": "25 Beaver St. S., RR 1",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-01-11"
+        },
+        {
+            "Condo Project Name": "Far Hills Townhomes",
+            "Project Status": "Completed",
+            "Location": "THORNBURY",
+            "Address": "30 Beaver St.",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-11-07"
+        },
+        {
+            "Condo Project Name": "Far Hills Club",
+            "Project Status": "Completed",
+            "Location": "THORNBURY",
+            "Address": "30 Beaver St. Meadow Brook Ln.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-03-12"
+        },
+        {
+            "Condo Project Name": "Far Hills Club",
+            "Project Status": "Completed",
+            "Location": "THORNBURY",
+            "Address": "27 Beaver St. S., RR 1",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-03-12"
+        }
+    ],
+    "builderConditions": []
+}

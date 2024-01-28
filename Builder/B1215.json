@@ -1,0 +1,147 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1215",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ravco Dev. Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "HAWKESBURY",
+            "HCRA_INITIALLICENSEDATE": "1986-07-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1992-01-08 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Gilles Gratton",
+            "TELEPHONE": "(613)632-0955",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "303564",
+            "TO": "Guy Bonin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "327717",
+            "TO": "Rita Ravary",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-5931"
+        },
+        {
+            "TOUNIQUENUMBER": "313530",
+            "TO": "Gilles Gratton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "305935",
+            "TO": "Jacques Charlebois",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "327714",
+            "TO": "Jean Guy Ravary",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-5931"
+        },
+        {
+            "TOUNIQUENUMBER": "303565",
+            "TO": "Michel Bonin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1215",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ravco Dev. Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TONIA",
+            "Project Status": "Completed",
+            "Location": "ALEXANDRIA",
+            "Address": "* Tonia St.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-07-02"
+        },
+        {
+            "Condo Project Name": "SPENCE ST.",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "551-581 Spence St.",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-08-17"
+        },
+        {
+            "Condo Project Name": "SPENCE",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "381-81 Spence St.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-04-24"
+        },
+        {
+            "Condo Project Name": "COUNTY RD. CONDO",
+            "Project Status": "Completed",
+            "Location": "PLANTAGENET",
+            "Address": "185 County Rd.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-03-25"
+        },
+        {
+            "Condo Project Name": "SPENCE ST. CONDO",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "Spence St.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1987-03-31"
+        }
+    ],
+    "builderConditions": []
+}

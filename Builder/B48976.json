@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48976",
+            "Umbrella": "Venetian Homes",
+            "Umbrella ID": "12542188",
+            "VB_NAME": "2452595 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-01-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-15 23:02:55.000 +0000",
+            "Expiry Date": "2025-01-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "220 Duncan Mill Road ",
+            "TELEPHONE": "416-444-8780",
+            "FAX": "416-444-9870",
+            "WEBSITEURL": " ",
+            "EMAIL": "mabhary@aryacorp.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 36,
+            "SUMM_TOTAL": 36,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12166821",
+            "TO": "Morris Bonakdar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-477-2500"
+        },
+        {
+            "TOUNIQUENUMBER": "12166821",
+            "TO": "Morris Bonakdar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-477-2500"
+        },
+        {
+            "TOUNIQUENUMBER": "11996156",
+            "TO": "Mohammad Abhary",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-444-8780"
+        },
+        {
+            "TOUNIQUENUMBER": "11996156",
+            "TO": "Mohammad Abhary",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-444-8780"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48976",
+            "Umbrella": "Venetian Homes",
+            "Umbrella ID": "12542188",
+            "VB_NAME": "2452595 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48976",
+            "MEMBERNAME": "2452595 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48976",
+            "Umbrella": "Venetian Homes",
+            "Umbrella ID": "12542188",
+            "VB_NAME": "2452595 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36897",
+            "MEMBERNAME": "Venetian Development Group Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48976",
+            "Umbrella": "Venetian Homes",
+            "Umbrella ID": "12542188",
+            "VB_NAME": "2452595 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B49055",
+            "MEMBERNAME": "300 Atkinson Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Montgomery Meadows",
+            "Project Status": null,
+            "Location": "UXBRIDGE",
+            "Address": " 231 Reach Street ",
+            "# of Units": 62,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,137 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32500",
+            "Umbrella": "Will-O Homes",
+            "Umbrella ID": "12476555",
+            "VB_NAME": "Will-O Homes (2002) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "PETERSBURG",
+            "HCRA_INITIALLICENSEDATE": "2002-07-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-07-03 13:00:07.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "55 Reinhart Pl., P.O. Box 187",
+            "TELEPHONE": "519/214-0163",
+            "FAX": "519/214-0268",
+            "WEBSITEURL": "www.willohomes.com",
+            "EMAIL": "kevin.smith@willohomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "331636",
+            "TO": "William Smith",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-577-6322"
+        },
+        {
+            "TOUNIQUENUMBER": "331636",
+            "TO": "William Smith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-577-6322"
+        },
+        {
+            "TOUNIQUENUMBER": "331582",
+            "TO": "Olga Smith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-502-4610"
+        },
+        {
+            "TOUNIQUENUMBER": "331582",
+            "TO": "Olga Smith",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-502-4610"
+        },
+        {
+            "TOUNIQUENUMBER": "11795799",
+            "TO": "Kevin Smith",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-590-0125"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32500",
+            "Umbrella": "Will-O Homes",
+            "Umbrella ID": "12476555",
+            "VB_NAME": "Will-O Homes (2002) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40319",
+            "MEMBERNAME": "Will-O Homes (H.D.) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32500",
+            "Umbrella": "Will-O Homes",
+            "Umbrella ID": "12476555",
+            "VB_NAME": "Will-O Homes (2002) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41551",
+            "MEMBERNAME": "Will-O Homes (C.S.) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B32500",
+            "Umbrella": "Will-O Homes",
+            "Umbrella ID": "12476555",
+            "VB_NAME": "Will-O Homes (2002) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32500",
+            "MEMBERNAME": "Will-O Homes (2002) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32500",
+            "Umbrella": "Will-O Homes",
+            "Umbrella ID": "12476555",
+            "VB_NAME": "Will-O Homes (2002) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B13739",
+            "MEMBERNAME": "Will-O Homes Limited.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32500",
+            "Umbrella": "Will-O Homes",
+            "Umbrella ID": "12476555",
+            "VB_NAME": "Will-O Homes (2002) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17511",
+            "MEMBERNAME": "Will-O Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

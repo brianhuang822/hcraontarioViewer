@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32047",
+            "Umbrella": "Timberview Construction",
+            "Umbrella ID": "12540892",
+            "VB_NAME": "Corbis Design Build Inc.",
+            "OPERATINGNAME": "Timberview Construction",
+            "CITY": "Georgetown",
+            "HCRA_INITIALLICENSEDATE": "2002-03-01",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2003-09-16 22:45:53.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "APO 10449",
+            "TELEPHONE": "(519) 652-0400",
+            "FAX": "(519) 652-1230",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "305250",
+            "TO": "Daniel Vanderwerff",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 852-0880"
+        },
+        {
+            "TOUNIQUENUMBER": "305250",
+            "TO": "Daniel Vanderwerff",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 852-0880"
+        },
+        {
+            "TOUNIQUENUMBER": "305250",
+            "TO": "Daniel Vanderwerff",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 852-0880"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32047",
+            "Umbrella": "Timberview Construction",
+            "Umbrella ID": "12540892",
+            "VB_NAME": "Corbis Design Build Inc.",
+            "OPERATINGNAME": "Timberview Construction",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B26387",
+            "MEMBERNAME": "1179340 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Timberview Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32047",
+            "Umbrella": "Timberview Construction",
+            "Umbrella ID": "12540892",
+            "VB_NAME": "Corbis Design Build Inc.",
+            "OPERATINGNAME": "Timberview Construction",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B34441",
+            "MEMBERNAME": "Corbis Design Build Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32047",
+            "Umbrella": "Timberview Construction",
+            "Umbrella ID": "12540892",
+            "VB_NAME": "Corbis Design Build Inc.",
+            "OPERATINGNAME": "Timberview Construction",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B32047",
+            "MEMBERNAME": "Corbis Design Build Inc.",
+            "MEMBEROPERATINGNAME": "Timberview Construction",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

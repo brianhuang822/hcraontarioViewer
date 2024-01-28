@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35441",
+            "Umbrella": "Plett Contracting",
+            "Umbrella ID": "12540968",
+            "VB_NAME": "Eddy B. Plett & Erna D. Plett",
+            "OPERATINGNAME": "Plett Contracting",
+            "CITY": "PORT COLBORNE",
+            "HCRA_INITIALLICENSEDATE": "2005-04-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-04-27 12:31:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "11 South Cresc.",
+            "TELEPHONE": "(905)328-7791",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "eplett2@cogeco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12070101",
+            "TO": "Erna D. Plett",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-835-9648"
+        },
+        {
+            "TOUNIQUENUMBER": "12070100",
+            "TO": "Eddy B. Plett",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-835-9648"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35441",
+            "Umbrella": "Plett Contracting",
+            "Umbrella ID": "12540968",
+            "VB_NAME": "Eddy B. Plett & Erna D. Plett",
+            "OPERATINGNAME": "Plett Contracting",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35441",
+            "MEMBERNAME": "Eddy B. Plett & Erna D. Plett",
+            "MEMBEROPERATINGNAME": "Plett Contracting",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35441",
+            "Umbrella": "Plett Contracting",
+            "Umbrella ID": "12540968",
+            "VB_NAME": "Eddy B. Plett & Erna D. Plett",
+            "OPERATINGNAME": "Plett Contracting",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36523",
+            "MEMBERNAME": "Plett Contracting Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

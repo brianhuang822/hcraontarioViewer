@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42055",
+            "Umbrella": "Pier 15 (Portland) Construction",
+            "Umbrella ID": "12541197",
+            "VB_NAME": "Pier 15 (Portland) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "KINGSTON",
+            "HCRA_INITIALLICENSEDATE": "2012-06-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-06-07 12:00:26.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "862 Woodside Dr.",
+            "TELEPHONE": "613/217-1862",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "jimco@kingston.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12062645",
+            "TO": "James Charles Barnett",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-217-1862"
+        },
+        {
+            "TOUNIQUENUMBER": "12062645",
+            "TO": "James Charles Barnett",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-217-1862"
+        },
+        {
+            "TOUNIQUENUMBER": "12062645",
+            "TO": "James Charles Barnett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-217-1862"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42055",
+            "Umbrella": "Pier 15 (Portland) Construction",
+            "Umbrella ID": "12541197",
+            "VB_NAME": "Pier 15 (Portland) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42055",
+            "MEMBERNAME": "Pier 15 (Portland) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42055",
+            "Umbrella": "Pier 15 (Portland) Construction",
+            "Umbrella ID": "12541197",
+            "VB_NAME": "Pier 15 (Portland) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36268",
+            "MEMBERNAME": "Pier 15 (Portland) Inc.",
+            "MEMBEROPERATINGNAME": "Butterworth Modular Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

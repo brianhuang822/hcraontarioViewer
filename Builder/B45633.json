@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45633",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Avenue Lytton Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "WASAGA BEACH",
+            "HCRA_INITIALLICENSEDATE": "2016-10-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-09-14 13:15:38.000 +0000",
+            "Expiry Date": "2020-10-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "26 Frank St.",
+            "TELEPHONE": "416/557-3234",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "jesse@pagedcs.com",
+            "ACCOUNTNUMBER": "B45633",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 6,
+            "SUMM_MINOR_AMT": 150510.28,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 150510.28
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100381087",
+            "TO": "Jesse Alan Page",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-557-3234"
+        },
+        {
+            "TOUNIQUENUMBER": "100381087",
+            "TO": "Jesse Alan Page",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-557-3234"
+        },
+        {
+            "TOUNIQUENUMBER": "100606729",
+            "TO": "Marc Canale",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-248-6206"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45633",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Avenue Lytton Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Lytton Living",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "1238-1240 Avenue Rd.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

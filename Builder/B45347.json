@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45347",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Silvercreek Commercial Builders Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Georgetown",
+            "HCRA_INITIALLICENSEDATE": "2016-06-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-03 16:27:40.000 +0000",
+            "Expiry Date": "2024-06-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "66 Mill Street",
+            "TELEPHONE": "905-877-7194",
+            "FAX": "905-877-1020",
+            "WEBSITEURL": "www.silvercreekcommercial.com",
+            "EMAIL": "neil@silvercreekcommercial.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 22,
+            "SUMM_TOTAL": 22,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "325854",
+            "TO": "Douglas H. Pattison",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-877-7194"
+        },
+        {
+            "TOUNIQUENUMBER": "325854",
+            "TO": "Douglas H. Pattison",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-877-7194"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45347",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Silvercreek Commercial Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Residences of the Hotel McGibbon",
+            "Project Status": "Cancelled",
+            "Location": "GEORGETOWN",
+            "Address": "71 Main St. S.",
+            "# of Units": 125,
+            "# of Terminations": 101,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-12-05"
+        },
+        {
+            "Condo Project Name": "The Carvalo on College",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 871 - 899 College Street ",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

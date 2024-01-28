@@ -1,0 +1,147 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60859",
+            "Umbrella": "Emblem Developments",
+            "Umbrella ID": "12553001",
+            "VB_NAME": "Hamilton II GP Inc.",
+            "OPERATINGNAME": "Hamilton II GP Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-01-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-21 20:53:35.000 +0000",
+            "Expiry Date": "2025-01-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1819 Yonge Street",
+            "TELEPHONE": "613-218-9500",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "kpashootan@emblemdevcorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100564476",
+            "TO": "Kashayar (Kash) Pashootan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-865-8620"
+        },
+        {
+            "TOUNIQUENUMBER": "100564476",
+            "TO": "Kashayar (Kash) Pashootan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-865-8620"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60859",
+            "Umbrella": "Emblem Developments",
+            "Umbrella ID": "12553001",
+            "VB_NAME": "Hamilton II GP Inc.",
+            "OPERATINGNAME": "Hamilton II GP Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48221",
+            "MEMBERNAME": "Mississauga I GP Inc. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60859",
+            "Umbrella": "Emblem Developments",
+            "Umbrella ID": "12553001",
+            "VB_NAME": "Hamilton II GP Inc.",
+            "OPERATINGNAME": "Hamilton II GP Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48787",
+            "MEMBERNAME": "Hamilton I GP Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60859",
+            "Umbrella": "Emblem Developments",
+            "Umbrella ID": "12553001",
+            "VB_NAME": "Hamilton II GP Inc.",
+            "OPERATINGNAME": "Hamilton II GP Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60169",
+            "MEMBERNAME": "Mississauga II GP Inc.",
+            "MEMBEROPERATINGNAME": "Mississauga II GP Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60859",
+            "Umbrella": "Emblem Developments",
+            "Umbrella ID": "12553001",
+            "VB_NAME": "Hamilton II GP Inc.",
+            "OPERATINGNAME": "Hamilton II GP Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60859",
+            "MEMBERNAME": "Hamilton II GP Inc.",
+            "MEMBEROPERATINGNAME": "Hamilton II GP Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60859",
+            "Umbrella": "Emblem Developments",
+            "Umbrella ID": "12553001",
+            "VB_NAME": "Hamilton II GP Inc.",
+            "OPERATINGNAME": "Hamilton II GP Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61493",
+            "MEMBERNAME": "King Street I GP Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Design District",
+            "Project Status": "In Progress",
+            "Location": "HAMILTON",
+            "Address": " 41-51 Wilson Street, 97-117 John Street North ",
+            "# of Units": 297,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "The Design District",
+            "Project Status": "In Progress",
+            "Location": "HAMILTON",
+            "Address": " 41-51 Wilson Street, 97-117 John Street North ",
+            "# of Units": 300,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "The Design District",
+            "Project Status": "In Progress",
+            "Location": "HAMILTON",
+            "Address": " 41-51 Wilson Street, 97-117 John Street North ",
+            "# of Units": 334,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

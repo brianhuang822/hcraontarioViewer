@@ -1,0 +1,82 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Richmark Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": 4146.25,
+            "OUTSTANDINGAMTTAB": 0,
+            "BREACH": 4146.25,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 68161,
+            "ADDRESS": "PO BOX 142",
+            "TELEPHONE": "6132237454",
+            "FAX": "6132537575",
+            "WEBSITEURL": null,
+            "EMAIL": "JC.Buckley@sympatico.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 68161,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 68161
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Joseph Charles Henry Buckley",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19670",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Joseph C. Buckley",
+            "MEMBEROPERATINGNAME": "Richmark Homes",
+            "MEMBERVBNUM": "B24796",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Buckley Masonry Co",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B4372",
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "MEMBERNAME": "Richmark Home Builders Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32784",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 68161,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 68161,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 68161,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 68161,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": []
+}

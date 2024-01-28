@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27849",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Harp Homes Building Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "STONEY CREEK",
+            "HCRA_INITIALLICENSEDATE": "1998-11-30",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "2002-10-24 19:47:22.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "477 Jones Rd. N.",
+            "TELEPHONE": "(905)643-2332",
+            "FAX": "(905)664-4302",
+            "WEBSITEURL": "www.harphomes.com",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344399",
+            "TO": "E. Martin Mazza",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-643-9146"
+        },
+        {
+            "TOUNIQUENUMBER": "344399",
+            "TO": "E. Martin Mazza",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-643-9146"
+        },
+        {
+            "TOUNIQUENUMBER": "11701923",
+            "TO": "Mark Zizzo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-662-6666"
+        },
+        {
+            "TOUNIQUENUMBER": "11701923",
+            "TO": "Mark Zizzo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-662-6666"
+        },
+        {
+            "TOUNIQUENUMBER": "344398",
+            "TO": "Anthony (Tony) Falasca",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-643-2332"
+        },
+        {
+            "TOUNIQUENUMBER": "344398",
+            "TO": "Anthony (Tony) Falasca",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-643-2332"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27849",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Harp Homes Building Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BELLVIEW DELL",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "1173 Bellview Cres.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-07-27"
+        }
+    ],
+    "builderConditions": []
+}

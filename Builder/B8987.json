@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B8987",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Ambassadors One Limited.,",
+            "OPERATINGNAME": null,
+            "CITY": "NORTH YORK",
+            "HCRA_INITIALLICENSEDATE": "1987-04-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1990-06-13 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3650 Victoria Park Ave.Ste.500",
+            "TELEPHONE": "(416)491-2222",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "322760",
+            "TO": "Murray Menkes",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "322762",
+            "TO": "Steven Menkes",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-491-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "322749",
+            "TO": "Alan Menkes",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-491-2222"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B8987",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Ambassadors One Limited.,",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "ALTON TOWER CONDO",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "300 Alton Tower",
+            "# of Units": 252,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-07-18"
+        }
+    ],
+    "builderConditions": []
+}

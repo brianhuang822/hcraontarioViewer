@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33781",
+            "Umbrella": "Stewart Construction",
+            "Umbrella ID": "12540610",
+            "VB_NAME": "Stewart Construction Design & Build Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "2003-09-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-09-24 12:31:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1540 Gloucester Rd.",
+            "TELEPHONE": "519-679-2619",
+            "FAX": "519-679-2619",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344756",
+            "TO": "Gerald Stewart",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-851-3870"
+        },
+        {
+            "TOUNIQUENUMBER": "344756",
+            "TO": "Gerald Stewart",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-851-3870"
+        },
+        {
+            "TOUNIQUENUMBER": "344756",
+            "TO": "Gerald Stewart",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-851-3870"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33781",
+            "Umbrella": "Stewart Construction",
+            "Umbrella ID": "12540610",
+            "VB_NAME": "Stewart Construction Design & Build Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33781",
+            "MEMBERNAME": "Stewart Construction Design & Build Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33781",
+            "Umbrella": "Stewart Construction",
+            "Umbrella ID": "12540610",
+            "VB_NAME": "Stewart Construction Design & Build Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28114",
+            "MEMBERNAME": "Gerald Stewart",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

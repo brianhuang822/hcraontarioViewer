@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31087",
+            "Umbrella": "Kennisis Contracting",
+            "Umbrella ID": "12542476",
+            "VB_NAME": "719068 Ontario Limited",
+            "OPERATINGNAME": "Kennisis Contracting",
+            "CITY": "NAPANEE",
+            "HCRA_INITIALLICENSEDATE": "2001-01-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-01-25 16:01:09.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "385 Ruuths Ln.",
+            "TELEPHONE": "705-754-3336",
+            "FAX": "705-754-3443",
+            "WEBSITEURL": "www.kennisiscontracting.com",
+            "EMAIL": "Cathy@cottagecountryhaliburton.com",
+            "ACCOUNTNUMBER": "B31087",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 952.65,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 952.65
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "318777",
+            "TO": "Vince Lancia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-373-0263"
+        },
+        {
+            "TOUNIQUENUMBER": "318775",
+            "TO": "Catherine Lancia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-754-5554"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31087",
+            "Umbrella": "Kennisis Contracting",
+            "Umbrella ID": "12542476",
+            "VB_NAME": "719068 Ontario Limited",
+            "OPERATINGNAME": "Kennisis Contracting",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B19969",
+            "MEMBERNAME": "Kennisis Carpentry Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31087",
+            "Umbrella": "Kennisis Contracting",
+            "Umbrella ID": "12542476",
+            "VB_NAME": "719068 Ontario Limited",
+            "OPERATINGNAME": "Kennisis Contracting",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43892",
+            "MEMBERNAME": "719068 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31087",
+            "Umbrella": "Kennisis Contracting",
+            "Umbrella ID": "12542476",
+            "VB_NAME": "719068 Ontario Limited",
+            "OPERATINGNAME": "Kennisis Contracting",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31087",
+            "MEMBERNAME": "719068 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Kennisis Contracting",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21522",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ninety-Two King East G.P Limited",
+            "OPERATINGNAME": "King Plaza",
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "1992-06-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1994-06-18 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3040 Palstan Road,suite 201",
+            "TELEPHONE": "(416)273-6757",
+            "FAX": "(416)273-7377",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338740",
+            "TO": "Jack Tse",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-273-6757"
+        },
+        {
+            "TOUNIQUENUMBER": "338740",
+            "TO": "Jack Tse",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-273-6757"
+        },
+        {
+            "TOUNIQUENUMBER": "338740",
+            "TO": "Jack Tse",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-273-6757"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21522",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ninety-Two King East G.P Limited",
+            "OPERATINGNAME": "King Plaza",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "92 KING ST. EAST",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": "92 King Street East",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

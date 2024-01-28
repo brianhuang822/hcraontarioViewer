@@ -1,0 +1,146 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35914",
+            "Umbrella": "Legendary Log Homes",
+            "Umbrella ID": "12541225",
+            "VB_NAME": "Legendary Log Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "BOBCAYGEON",
+            "HCRA_INITIALLICENSEDATE": "2005-11-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-11-04 16:02:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3288 County Rd. 36",
+            "TELEPHONE": "705-738-5116",
+            "FAX": "705/738-5116",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "314875",
+            "TO": "Karen-Lyn Heise",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-738-5116"
+        },
+        {
+            "TOUNIQUENUMBER": "314875",
+            "TO": "Karen-Lyn Heise",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-738-5116"
+        },
+        {
+            "TOUNIQUENUMBER": "314876",
+            "TO": "Leonard Heise",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-738-4264"
+        },
+        {
+            "TOUNIQUENUMBER": "314876",
+            "TO": "Leonard Heise",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-738-4264"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108900",
+            "CHARGE_AGAINST": "1191873 Ontario Inc. operating as Legendary Log Ho",
+            "CHARGE_DATE": "2017-04-25",
+            "DISPOSITION_DATE": "2017-10-18",
+            "THE_FINE_": "3250",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "812.5",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9327141",
+            "ORGANIZATION_NAME": "1191873 Ontario Inc. operating as Legendary Log Homes Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Tory Hill, ON",
+            "CITY_DEFENCE": "Bobcaygeon, ON",
+            "VB_NUMBER": "B35914",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108900 9327141",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Highlands East, Municipality",
+            "INFORMATION_NUMBER": "999 17 010807",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2011-03-21",
+            "TO_OFFENCE_DATE": "2017-04-25",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "4062.5",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B35914",
+            "Umbrella": "Legendary Log Homes",
+            "Umbrella ID": "12541225",
+            "VB_NAME": "Legendary Log Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30980",
+            "MEMBERNAME": "Legendary Log Homes Inc.",
+            "MEMBEROPERATINGNAME": "Legendary Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35914",
+            "Umbrella": "Legendary Log Homes",
+            "Umbrella ID": "12541225",
+            "VB_NAME": "Legendary Log Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35914",
+            "MEMBERNAME": "Legendary Log Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35914",
+            "Umbrella": "Legendary Log Homes",
+            "Umbrella ID": "12541225",
+            "VB_NAME": "Legendary Log Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B4032",
+            "MEMBERNAME": "Legendary Log Homes Inc.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

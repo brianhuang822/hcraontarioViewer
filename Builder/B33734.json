@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33734",
+            "Umbrella": "Kavwell Property Management",
+            "Umbrella ID": "12539930",
+            "VB_NAME": "Kavwell Property Management Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "2003-09-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-11-25 14:00:18.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "775 Upper Wentworth St.",
+            "TELEPHONE": "905-388-1110",
+            "FAX": "905-388-6819",
+            "WEBSITEURL": " ",
+            "EMAIL": "rob-mcdowell@coldwellbanker.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "322144",
+            "TO": "Robert Hadley McDowell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-388-1110"
+        },
+        {
+            "TOUNIQUENUMBER": "322144",
+            "TO": "Robert Hadley McDowell",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-388-1110"
+        },
+        {
+            "TOUNIQUENUMBER": "322144",
+            "TO": "Robert Hadley McDowell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-388-1110"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33734",
+            "Umbrella": "Kavwell Property Management",
+            "Umbrella ID": "12539930",
+            "VB_NAME": "Kavwell Property Management Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11585",
+            "MEMBERNAME": "518368 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Trillium Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33734",
+            "Umbrella": "Kavwell Property Management",
+            "Umbrella ID": "12539930",
+            "VB_NAME": "Kavwell Property Management Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33037",
+            "MEMBERNAME": "Kavwell Property Management Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B33734",
+            "Umbrella": "Kavwell Property Management",
+            "Umbrella ID": "12539930",
+            "VB_NAME": "Kavwell Property Management Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33734",
+            "MEMBERNAME": "Kavwell Property Management Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

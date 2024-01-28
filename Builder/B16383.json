@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B16383",
+            "Umbrella": "Les Fondations Brisson",
+            "Umbrella ID": "12539757",
+            "VB_NAME": "Les Fondations Brisson Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CASSELMAN",
+            "HCRA_INITIALLICENSEDATE": "1988-09-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-09-17 12:36:30.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 981",
+            "TELEPHONE": "(613)443-3428",
+            "FAX": "(613)443-0372",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304202",
+            "TO": "Marc Brisson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-764-1530"
+        },
+        {
+            "TOUNIQUENUMBER": "304202",
+            "TO": "Marc Brisson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-764-1530"
+        },
+        {
+            "TOUNIQUENUMBER": "304202",
+            "TO": "Marc Brisson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-764-1530"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B16383",
+            "Umbrella": "Les Fondations Brisson",
+            "Umbrella ID": "12539757",
+            "VB_NAME": "Les Fondations Brisson Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B16383",
+            "MEMBERNAME": "Les Fondations Brisson Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16383",
+            "Umbrella": "Les Fondations Brisson",
+            "Umbrella ID": "12539757",
+            "VB_NAME": "Les Fondations Brisson Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42361",
+            "MEMBERNAME": "Falcon Home Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B16383",
+            "Umbrella": "Les Fondations Brisson",
+            "Umbrella ID": "12539757",
+            "VB_NAME": "Les Fondations Brisson Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32457",
+            "MEMBERNAME": "Les Fondations Brisson Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

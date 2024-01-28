@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41656",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Beverly Balmoral Development Inc.",
+            "OPERATINGNAME": "Beverly Balmoral Development Inc",
+            "CITY": "Thunder Bay",
+            "HCRA_INITIALLICENSEDATE": "2012-01-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-22 21:14:29.000 +0000",
+            "Expiry Date": "2025-01-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "640 Beverly Street",
+            "TELEPHONE": "807-626-3842",
+            "FAX": "807-344-5400",
+            "WEBSITEURL": "www.terravistacondos.ca",
+            "EMAIL": "ragarwal@tbaytel.net",
+            "ACCOUNTNUMBER": "B41656",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 16,
+            "SUMM_CONDO": 52,
+            "SUMM_TOTAL": 68,
+            "SUMM_CC": 5,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 21113.2,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 21113.2
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338344",
+            "TO": "Sneh Lata Agarwal",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-475-3847"
+        },
+        {
+            "TOUNIQUENUMBER": "338344",
+            "TO": "Sneh Lata Agarwal",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-475-3847"
+        },
+        {
+            "TOUNIQUENUMBER": "328830",
+            "TO": "Salvatore Romeo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-626-4756"
+        },
+        {
+            "TOUNIQUENUMBER": "328830",
+            "TO": "Salvatore Romeo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-626-4756"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41656",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Beverly Balmoral Development Inc.",
+            "OPERATINGNAME": "Beverly Balmoral Development Inc",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Terra Vista",
+            "Project Status": "Completed",
+            "Location": "THUNDER BAY",
+            "Address": " 200 Oasis Ln. ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-02-24"
+        },
+        {
+            "Condo Project Name": "Terra Vista Condominiums",
+            "Project Status": "Completed",
+            "Location": "THUNDER BAY",
+            "Address": "300 Vista Ln.",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-10"
+        }
+    ],
+    "builderConditions": []
+}

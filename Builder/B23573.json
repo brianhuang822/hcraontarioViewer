@@ -1,0 +1,138 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23573",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Pantano Construction Limited",
+            "OPERATINGNAME": null,
+            "CITY": "WATERDOWN",
+            "HCRA_INITIALLICENSEDATE": "1993-11-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-11-19 13:36:36.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "331 Dundas St. E., P.O. Box 819",
+            "TELEPHONE": "(905)689-0186",
+            "FAX": "(905)689-5456",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "324183",
+            "TO": "Nino Naccarato",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-2072"
+        },
+        {
+            "TOUNIQUENUMBER": "324183",
+            "TO": "Nino Naccarato",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-2072"
+        },
+        {
+            "TOUNIQUENUMBER": "324183",
+            "TO": "Nino Naccarato",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-2072"
+        },
+        {
+            "TOUNIQUENUMBER": "324184",
+            "TO": "Ralph(raffaele) Naccarato",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-7855"
+        },
+        {
+            "TOUNIQUENUMBER": "324184",
+            "TO": "Ralph(raffaele) Naccarato",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-7855"
+        },
+        {
+            "TOUNIQUENUMBER": "324184",
+            "TO": "Ralph(raffaele) Naccarato",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-7855"
+        },
+        {
+            "TOUNIQUENUMBER": "324174",
+            "TO": "Anthony Naccarato",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "324174",
+            "TO": "Anthony Naccarato",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "324174",
+            "TO": "Anthony Naccarato",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23573",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Pantano Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "MCGREGOR VILLAGE",
+            "Project Status": "Completed",
+            "Location": "WATERDOWN",
+            "Address": "47 Main St.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-07-13"
+        },
+        {
+            "Condo Project Name": "MCGREGOR VILLAGE",
+            "Project Status": "Completed",
+            "Location": "WATERDOWN",
+            "Address": "47 Main St.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-05-01"
+        }
+    ],
+    "builderConditions": []
+}

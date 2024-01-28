@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47783",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2607305 Ontario Inc.",
+            "OPERATINGNAME": "Urbane Communities",
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2020-04-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-03 13:56:50.000 +0000",
+            "Expiry Date": "2024-04-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5063 North Service Road",
+            "TELEPHONE": "289-812-5949",
+            "FAX": null,
+            "WEBSITEURL": "urbanecommunities.ca",
+            "EMAIL": "fernando@urbanecommunities.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600009991",
+            "TO": "Darryl Budd",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-812-5949"
+        },
+        {
+            "TOUNIQUENUMBER": "600009991",
+            "TO": "Darryl Budd",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-812-5949"
+        },
+        {
+            "TOUNIQUENUMBER": "100581337",
+            "TO": "Fernando Caiella",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-812-5949"
+        },
+        {
+            "TOUNIQUENUMBER": "100581337",
+            "TO": "Fernando Caiella",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-812-5949"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47783",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2607305 Ontario Inc.",
+            "OPERATINGNAME": "Urbane Communities",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Marbella Condominiums",
+            "Project Status": "In Progress",
+            "Location": "NIAGARA FALLS",
+            "Address": " 7549 Kalar Rd. ",
+            "# of Units": 66,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Marbella Condominiums Phase 2",
+            "Project Status": "In Progress",
+            "Location": "NIAGARA FALLS",
+            "Address": " 7549 Kalar Rd. ",
+            "# of Units": 44,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

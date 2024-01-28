@@ -1,0 +1,68 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28289",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Dave Harris & Mike Blanken",
+            "OPERATINGNAME": "Hillcrest Home Improvements",
+            "CITY": "DUNDAS",
+            "HCRA_INITIALLICENSEDATE": "1999-06-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-06-09 12:36:18.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "167 Hillcrest Ave.",
+            "TELEPHONE": "(905)689-6777",
+            "FAX": "(905)689-4320",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345001",
+            "TO": "David Harris",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-6777"
+        },
+        {
+            "TOUNIQUENUMBER": "317928",
+            "TO": "Mike Blanken",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-627-9695"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28289",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Dave Harris & Mike Blanken",
+            "OPERATINGNAME": "Hillcrest Home Improvements",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60985",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Strawberry Fields Residences (Chacon) Inc.",
+            "OPERATINGNAME": "Strawberry Fields Residences (Chacon) Inc.",
+            "CITY": "Brampton",
+            "HCRA_INITIALLICENSEDATE": "2022-03-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-22 18:11:19.000 +0000",
+            "Expiry Date": "2024-03-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "25 Sun Pac Boulevard",
+            "TELEPHONE": "905-789-7800",
+            "FAX": "905-789-7825",
+            "WEBSITEURL": "https://www.chacondevelopments.com",
+            "EMAIL": "info@chacondevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600010004",
+            "TO": "Surinder Chahal",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-349-1430"
+        },
+        {
+            "TOUNIQUENUMBER": "600010004",
+            "TO": "Surinder Chahal",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-349-1430"
+        },
+        {
+            "TOUNIQUENUMBER": "600010004",
+            "TO": "Surinder Chahal",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-349-1430"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60985",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Strawberry Fields Residences (Chacon) Inc.",
+            "OPERATINGNAME": "Strawberry Fields Residences (Chacon) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Strawberry Fields Residences",
+            "Project Status": "In Progress",
+            "Location": "CALEDON",
+            "Address": " 12530 Kennedy Road ",
+            "# of Units": 158,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

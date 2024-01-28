@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B4486",
+            "Umbrella": "Steve Snider Construction",
+            "Umbrella ID": "12251293",
+            "VB_NAME": "583056 Ontario Inc.",
+            "OPERATINGNAME": "Steve Snider Construction",
+            "CITY": "Port Perry",
+            "HCRA_INITIALLICENSEDATE": "1984-04-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-09-19 18:36:57.000 +0000",
+            "Expiry Date": "2023-04-29",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "PO Box 197",
+            "TELEPHONE": "905-260-7678",
+            "FAX": "905-985-8353",
+            "WEBSITEURL": "www.stevesnider.ca",
+            "EMAIL": "marilyn@stevesnider.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "331683",
+            "TO": "Stephen Snider",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-261-0087"
+        },
+        {
+            "TOUNIQUENUMBER": "331683",
+            "TO": "Stephen Snider",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-261-0087"
+        },
+        {
+            "TOUNIQUENUMBER": "331683",
+            "TO": "Stephen Snider",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-261-0087"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B4486",
+            "Umbrella": "Steve Snider Construction",
+            "Umbrella ID": "12251293",
+            "VB_NAME": "583056 Ontario Inc.",
+            "OPERATINGNAME": "Steve Snider Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38034",
+            "MEMBERNAME": "Steve Snider Construction Inc.",
+            "MEMBEROPERATINGNAME": "Steve Snider Construction Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B4486",
+            "Umbrella": "Steve Snider Construction",
+            "Umbrella ID": "12251293",
+            "VB_NAME": "583056 Ontario Inc.",
+            "OPERATINGNAME": "Steve Snider Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B4486",
+            "MEMBERNAME": "583056 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Steve Snider Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

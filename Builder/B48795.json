@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48795",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Picton on the Green Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-01-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-22 17:11:46.000 +0000",
+            "Expiry Date": "2025-01-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "c/o Fred Heller",
+            "TELEPHONE": "416-891-1529",
+            "FAX": null,
+            "WEBSITEURL": "www.vineridgetowns.ca",
+            "EMAIL": "fredheller@flcgroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12310509",
+            "TO": "John Wilkinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4441"
+        },
+        {
+            "TOUNIQUENUMBER": "12518692",
+            "TO": "Frederick Heller",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-891-1529"
+        },
+        {
+            "TOUNIQUENUMBER": "12518692",
+            "TO": "Frederick Heller",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-891-1529"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48795",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Picton on the Green Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "VineRidge Boutique Towns",
+            "Project Status": "In Progress",
+            "Location": "PICTON",
+            "Address": " 27 Inkerman Ave. ",
+            "# of Units": 66,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

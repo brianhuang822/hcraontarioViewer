@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24780",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Aspen Ridge Homes (Markham Gardens) Inc.",
+            "OPERATINGNAME": "Markham Gardens",
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "1995-04-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-11-01 13:36:33.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "29 Floral Pthwy.",
+            "TELEPHONE": "(905)669-9292",
+            "FAX": "(905)669-9297",
+            "WEBSITEURL": "www.aspenridgehomes.com",
+            "EMAIL": "info@aspenridgehomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12421463",
+            "TO": "Eva Spizzirri",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-9292"
+        },
+        {
+            "TOUNIQUENUMBER": "308290",
+            "TO": "Angelo De Gasperis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-907-1600"
+        },
+        {
+            "TOUNIQUENUMBER": "308290",
+            "TO": "Angelo De Gasperis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-907-1600"
+        },
+        {
+            "TOUNIQUENUMBER": "100467487",
+            "TO": "Freddy De Gasperis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-9292"
+        },
+        {
+            "TOUNIQUENUMBER": "100467487",
+            "TO": "Freddy De Gasperis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-9292"
+        },
+        {
+            "TOUNIQUENUMBER": "302632",
+            "TO": "Andrew De Gasperis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-9292"
+        },
+        {
+            "TOUNIQUENUMBER": "302632",
+            "TO": "Andrew De Gasperis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-9292"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24780",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Aspen Ridge Homes (Markham Gardens) Inc.",
+            "OPERATINGNAME": "Markham Gardens",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "ASPEN RIDGE HOMES LTD.",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "19 Rosebank Dr.",
+            "# of Units": 154,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-12-15"
+        },
+        {
+            "Condo Project Name": "ASPEN RIDGE HOMES LTD.",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "28 Rosebank Dr.",
+            "# of Units": 146,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-01-25"
+        },
+        {
+            "Condo Project Name": "MARKHAM GARDENS",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "29 Rosebank Dr.",
+            "# of Units": 150,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-09-18"
+        }
+    ],
+    "builderConditions": []
+}

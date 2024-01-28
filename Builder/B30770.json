@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B30770",
+            "Umbrella": "Thornton Group",
+            "Umbrella ID": "12540548",
+            "VB_NAME": "526165 Ontario Ltd.",
+            "OPERATINGNAME": "Thornton  Group",
+            "CITY": "KEARNEY",
+            "HCRA_INITIALLICENSEDATE": "2000-08-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-08-03 12:37:37.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "154 Rockpoint Rd.",
+            "TELEPHONE": "705-636-5149",
+            "FAX": "705-636-9021",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "333724",
+            "TO": "Wayne Thornton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-789-7803"
+        },
+        {
+            "TOUNIQUENUMBER": "333724",
+            "TO": "Wayne Thornton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-789-7803"
+        },
+        {
+            "TOUNIQUENUMBER": "333724",
+            "TO": "Wayne Thornton",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-789-7803"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B30770",
+            "Umbrella": "Thornton Group",
+            "Umbrella ID": "12540548",
+            "VB_NAME": "526165 Ontario Ltd.",
+            "OPERATINGNAME": "Thornton  Group",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34335",
+            "MEMBERNAME": "Thornton Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B30770",
+            "Umbrella": "Thornton Group",
+            "Umbrella ID": "12540548",
+            "VB_NAME": "526165 Ontario Ltd.",
+            "OPERATINGNAME": "Thornton  Group",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30770",
+            "MEMBERNAME": "526165 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Thornton  Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

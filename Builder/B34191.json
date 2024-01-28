@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34191",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Inspire Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CALEDON",
+            "HCRA_INITIALLICENSEDATE": "2004-03-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-02-09 05:00:35.000 +0000",
+            "Expiry Date": "2020-03-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 204",
+            "TELEPHONE": "416-765-2020",
+            "FAX": "416-765-2020",
+            "WEBSITEURL": " ",
+            "EMAIL": "office@inspirehomes.ca",
+            "ACCOUNTNUMBER": "B34191",
+            "Total Outstanding Amount": 444804.61,
+            "TAB": 0,
+            "BREACH": 444804.61,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 435475.42,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 435475.42
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11986942",
+            "TO": "Louis Orazem",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-765-2020"
+        },
+        {
+            "TOUNIQUENUMBER": "11986942",
+            "TO": "Louis Orazem",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-765-2020"
+        },
+        {
+            "TOUNIQUENUMBER": "11986942",
+            "TO": "Louis Orazem",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-765-2020"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34191",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Inspire Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

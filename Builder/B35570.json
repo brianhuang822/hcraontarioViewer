@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35570",
+            "Umbrella": "Richard Voskamp Contracting",
+            "Umbrella ID": "12080440",
+            "VB_NAME": "Richard Voskamp Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Brighton",
+            "HCRA_INITIALLICENSEDATE": "2005-04-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-25 17:21:33.000 +0000",
+            "Expiry Date": "2024-06-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "16641 Telephone Road",
+            "TELEPHONE": "613-475-2499",
+            "FAX": "613-475-1201",
+            "WEBSITEURL": " ",
+            "EMAIL": "voscon95@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 32,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 32,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12076610",
+            "TO": "Natasha Voskamp",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "natashavoskamp@hotmail.com"
+        },
+        {
+            "TOUNIQUENUMBER": "12076610",
+            "TO": "Natasha Voskamp",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "natashavoskamp@hotmail.com"
+        },
+        {
+            "TOUNIQUENUMBER": "342587",
+            "TO": "Richard Voskamp",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-475-2499"
+        },
+        {
+            "TOUNIQUENUMBER": "342587",
+            "TO": "Richard Voskamp",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-475-2499"
+        },
+        {
+            "TOUNIQUENUMBER": "342587",
+            "TO": "Richard Voskamp",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-475-2499"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35570",
+            "Umbrella": "Richard Voskamp Contracting",
+            "Umbrella ID": "12080440",
+            "VB_NAME": "Richard Voskamp Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26227",
+            "MEMBERNAME": "Richard Voskamp",
+            "MEMBEROPERATINGNAME": "Voskamp Contracting & Carpentry Services",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35570",
+            "Umbrella": "Richard Voskamp Contracting",
+            "Umbrella ID": "12080440",
+            "VB_NAME": "Richard Voskamp Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35570",
+            "MEMBERNAME": "Richard Voskamp Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46408",
+            "Umbrella": "Sullivan",
+            "Umbrella ID": "12546906",
+            "VB_NAME": "M. Sullivan & Son Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Arnprior",
+            "HCRA_INITIALLICENSEDATE": "2017-08-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-27 19:06:44.000 +0000",
+            "Expiry Date": "2024-08-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "236 Madawaska Boulevard",
+            "TELEPHONE": "613-623-6584",
+            "FAX": "613/623-2227",
+            "WEBSITEURL": "www.sullivan.ca",
+            "EMAIL": "mpurdy@sullivan.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100450011",
+            "TO": "John Carkner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-623-9172"
+        },
+        {
+            "TOUNIQUENUMBER": "12266992",
+            "TO": "Jonathon Sullivan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-564-2002"
+        },
+        {
+            "TOUNIQUENUMBER": "100205072",
+            "TO": "Robert Ball",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-217-7871"
+        },
+        {
+            "TOUNIQUENUMBER": "100205072",
+            "TO": "Robert Ball",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-217-7871"
+        },
+        {
+            "TOUNIQUENUMBER": "600009712",
+            "TO": "Matthew Purdy",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-623-6584"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46408",
+            "Umbrella": "Sullivan",
+            "Umbrella ID": "12546906",
+            "VB_NAME": "M. Sullivan & Son Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B21747",
+            "MEMBERNAME": "M. Sullivan & Son Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46408",
+            "Umbrella": "Sullivan",
+            "Umbrella ID": "12546906",
+            "VB_NAME": "M. Sullivan & Son Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46408",
+            "MEMBERNAME": "M. Sullivan & Son Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

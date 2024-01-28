@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45922",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Hillcrest on the Park Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2017-10-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-28 22:29:57.000 +0000",
+            "Expiry Date": "2024-10-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5200 Yonge Street",
+            "TELEPHONE": "416-226-0724",
+            "FAX": "416-226-2837",
+            "WEBSITEURL": "www.hillcrestonthepark.ca",
+            "EMAIL": "info@dorichomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100419147",
+            "TO": "Bijan Ahmadi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-890-4983"
+        },
+        {
+            "TOUNIQUENUMBER": "12065882",
+            "TO": "AliAkbar Ahmadi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-226-0724"
+        },
+        {
+            "TOUNIQUENUMBER": "12065882",
+            "TO": "AliAkbar Ahmadi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-226-0724"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45922",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Hillcrest on the Park Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Hillcrest on the Park",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": " 2966 Bayview Ave. ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

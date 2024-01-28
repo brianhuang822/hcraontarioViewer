@@ -1,0 +1,123 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34102",
+            "Umbrella": "Everwood Building",
+            "Umbrella ID": "12541155",
+            "VB_NAME": "Everwood Building Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2004-02-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-02-04 14:30:31.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "645 Echo Dr.",
+            "TELEPHONE": "613-236-3739",
+            "FAX": "613-236-0778",
+            "WEBSITEURL": null,
+            "EMAIL": "j.naida@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "324227",
+            "TO": "James Thomas Naida",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-236-3739"
+        },
+        {
+            "TOUNIQUENUMBER": "324227",
+            "TO": "James Thomas Naida",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-236-3739"
+        },
+        {
+            "TOUNIQUENUMBER": "11977694",
+            "TO": "Jackie Naida",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-236-3739"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34102",
+            "Umbrella": "Everwood Building",
+            "Umbrella ID": "12541155",
+            "VB_NAME": "Everwood Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22705",
+            "MEMBERNAME": "Woodbridge Bldg. Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B34102",
+            "Umbrella": "Everwood Building",
+            "Umbrella ID": "12541155",
+            "VB_NAME": "Everwood Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34102",
+            "MEMBERNAME": "Everwood Building Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34102",
+            "Umbrella": "Everwood Building",
+            "Umbrella ID": "12541155",
+            "VB_NAME": "Everwood Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40047",
+            "MEMBERNAME": "Everwood Building Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34102",
+            "Umbrella": "Everwood Building",
+            "Umbrella ID": "12541155",
+            "VB_NAME": "Everwood Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B19309",
+            "MEMBERNAME": "Woodbridge Building Group Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34102",
+            "Umbrella": "Everwood Building",
+            "Umbrella ID": "12541155",
+            "VB_NAME": "Everwood Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44456",
+            "MEMBERNAME": "James Thomas Naida",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

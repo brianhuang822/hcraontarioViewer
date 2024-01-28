@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62528",
+            "Umbrella": "Build Up Development Co.",
+            "Umbrella ID": "500002574",
+            "VB_NAME": "Build Up Oshawa LP",
+            "OPERATINGNAME": "Build Up Oshawa LP",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2023-09-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-19 15:40:39.000 +0000",
+            "Expiry Date": "2024-09-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1101 Queen Street West",
+            "TELEPHONE": "416-722-3431",
+            "FAX": null,
+            "WEBSITEURL": "https://www.buildupdevco.com",
+            "EMAIL": "priscilla@BUILDUPDEVCO.COM",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100580202",
+            "TO": "Priscilla Facey Castaneda",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-722-3431"
+        },
+        {
+            "TOUNIQUENUMBER": "100580202",
+            "TO": "Priscilla Facey Castaneda",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-722-3431"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62528",
+            "Umbrella": "Build Up Development Co.",
+            "Umbrella ID": "500002574",
+            "VB_NAME": "Build Up Oshawa LP",
+            "OPERATINGNAME": "Build Up Oshawa LP",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48539",
+            "MEMBERNAME": "Build Up Real Development Co Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62528",
+            "Umbrella": "Build Up Development Co.",
+            "Umbrella ID": "500002574",
+            "VB_NAME": "Build Up Oshawa LP",
+            "OPERATINGNAME": "Build Up Oshawa LP",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62528",
+            "MEMBERNAME": "Build Up Oshawa LP",
+            "MEMBEROPERATINGNAME": "Build Up Oshawa LP",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

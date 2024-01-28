@@ -1,0 +1,146 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47662",
+            "Umbrella": "Altree",
+            "Umbrella ID": "500000221",
+            "VB_NAME": "Zorra Street Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2019-08-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-11 13:28:14.000 +0000",
+            "Expiry Date": "2024-08-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2828 Bathurst Street, Suite 300",
+            "TELEPHONE": "647-715-5711",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "info@altreedev.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 373,
+            "SUMM_TOTAL": 373,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100568583",
+            "TO": "Joey Comeau",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-937-6310"
+        },
+        {
+            "TOUNIQUENUMBER": "100354967",
+            "TO": "Abraham Zev Mandelbaum",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-553-7771"
+        },
+        {
+            "TOUNIQUENUMBER": "100354967",
+            "TO": "Abraham Zev Mandelbaum",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-553-7771"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47662",
+            "Umbrella": "Altree",
+            "Umbrella ID": "500000221",
+            "VB_NAME": "Zorra Street Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61771",
+            "MEMBERNAME": "Hillview Developments Limited",
+            "MEMBEROPERATINGNAME": "Hillview Developments Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47662",
+            "Umbrella": "Altree",
+            "Umbrella ID": "500000221",
+            "VB_NAME": "Zorra Street Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47662",
+            "MEMBERNAME": "Zorra Street Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47662",
+            "Umbrella": "Altree",
+            "Umbrella ID": "500000221",
+            "VB_NAME": "Zorra Street Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60109",
+            "MEMBERNAME": "Highland Trail Developments Limited",
+            "MEMBEROPERATINGNAME": "Highland Trail Developments Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47662",
+            "Umbrella": "Altree",
+            "Umbrella ID": "500000221",
+            "VB_NAME": "Zorra Street Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48188",
+            "MEMBERNAME": "Two Forest Hill Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47662",
+            "Umbrella": "Altree",
+            "Umbrella ID": "500000221",
+            "VB_NAME": "Zorra Street Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61770",
+            "MEMBERNAME": "Cliffside Developments Inc.",
+            "MEMBEROPERATINGNAME": "Cliffside Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47662",
+            "Umbrella": "Altree",
+            "Umbrella ID": "500000221",
+            "VB_NAME": "Zorra Street Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61849",
+            "MEMBERNAME": "Birchcliff Developments Inc.",
+            "MEMBEROPERATINGNAME": "Birchcliff Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Thirty Six Zorra",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 36 Zorra St. ",
+            "# of Units": 459,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

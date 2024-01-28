@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62445",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Brofort Inc.",
+            "OPERATINGNAME": "Brofort Inc.",
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2023-09-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-01 15:07:51.000 +0000",
+            "Expiry Date": "2024-09-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2161 Thurston Drive",
+            "TELEPHONE": "613-746-8580",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "pklugman@brofort.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600015120",
+            "TO": "Renaud Brault",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-746-8580"
+        },
+        {
+            "TOUNIQUENUMBER": "600015120",
+            "TO": "Renaud Brault",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-746-8580"
+        },
+        {
+            "TOUNIQUENUMBER": "600015120",
+            "TO": "Renaud Brault",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-746-8580"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62445",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Brofort Inc.",
+            "OPERATINGNAME": "Brofort Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

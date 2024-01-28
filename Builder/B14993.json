@@ -1,0 +1,82 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B14993",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "John Boot Construction Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Sarnia",
+            "HCRA_INITIALLICENSEDATE": "1985-11-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-15 23:25:38.000 +0000",
+            "Expiry Date": "2025-01-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5720 Telfer Road",
+            "TELEPHONE": "519-542-2200",
+            "FAX": "519-542-2200",
+            "WEBSITEURL": " ",
+            "EMAIL": "johnbootconst@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600009062",
+            "TO": "Betty Boot",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-542-2200"
+        },
+        {
+            "TOUNIQUENUMBER": "303604",
+            "TO": "John Boot",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-542-2200"
+        },
+        {
+            "TOUNIQUENUMBER": "303604",
+            "TO": "John Boot",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-542-2200"
+        },
+        {
+            "TOUNIQUENUMBER": "100544126",
+            "TO": "Jonathan Boot",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-542-2200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B14993",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "John Boot Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26383",
+            "Umbrella": "Perspective Condominiums",
+            "Umbrella ID": "12486748",
+            "VB_NAME": "Aberfoyle Developments Inc.",
+            "OPERATINGNAME": "Town & Country",
+            "CITY": "ETOBICOKE",
+            "HCRA_INITIALLICENSEDATE": "1997-05-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-05-30 12:31:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3250 Bloor St. W., Ste. 118, East Tower",
+            "TELEPHONE": "416-231-1297",
+            "FAX": "416-231-1322",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342761",
+            "TO": "John Pianosi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "342761",
+            "TO": "John Pianosi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26383",
+            "Umbrella": "Perspective Condominiums",
+            "Umbrella ID": "12486748",
+            "VB_NAME": "Aberfoyle Developments Inc.",
+            "OPERATINGNAME": "Town & Country",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41311",
+            "MEMBERNAME": "Perspective Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26383",
+            "Umbrella": "Perspective Condominiums",
+            "Umbrella ID": "12486748",
+            "VB_NAME": "Aberfoyle Developments Inc.",
+            "OPERATINGNAME": "Town & Country",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26383",
+            "MEMBERNAME": "Aberfoyle Developments Inc.",
+            "MEMBEROPERATINGNAME": "Town & Country",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TOWN & COUNTRY",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "2 Aberfoyle Cres.",
+            "# of Units": 116,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-10-18"
+        },
+        {
+            "Condo Project Name": "TOWN & COUNTRY",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "1 Lomond Dr.",
+            "# of Units": 105,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-08-16"
+        }
+    ],
+    "builderConditions": []
+}

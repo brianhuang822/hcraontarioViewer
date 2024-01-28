@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44979",
+            "Umbrella": "Go-To Developments",
+            "Umbrella ID": "12550681",
+            "VB_NAME": "Capital Build Construction Management Corp.",
+            "OPERATINGNAME": "Capital Build",
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2015-11-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-11-20 06:00:08.000 +0000",
+            "Expiry Date": "2023-11-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "357 Edgeley Boulevard",
+            "TELEPHONE": "416-271-4642",
+            "FAX": "905-660-6766",
+            "WEBSITEURL": "https://www.capitalbuild.ca",
+            "EMAIL": "mike@capitalbuild.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100437762",
+            "TO": "Michael James Smith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-271-4642"
+        },
+        {
+            "TOUNIQUENUMBER": "100437762",
+            "TO": "Michael James Smith",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-271-4642"
+        },
+        {
+            "TOUNIQUENUMBER": "100437762",
+            "TO": "Michael James Smith",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-271-4642"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44979",
+            "Umbrella": "Go-To Developments",
+            "Umbrella ID": "12550681",
+            "VB_NAME": "Capital Build Construction Management Corp.",
+            "OPERATINGNAME": "Capital Build",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46621",
+            "MEMBERNAME": "Go-To Niagara Falls Eagle Valley Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44979",
+            "Umbrella": "Go-To Developments",
+            "Umbrella ID": "12550681",
+            "VB_NAME": "Capital Build Construction Management Corp.",
+            "OPERATINGNAME": "Capital Build",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48812",
+            "MEMBERNAME": "Go-To Glendale Avenue Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44979",
+            "Umbrella": "Go-To Developments",
+            "Umbrella ID": "12550681",
+            "VB_NAME": "Capital Build Construction Management Corp.",
+            "OPERATINGNAME": "Capital Build",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47877",
+            "MEMBERNAME": "Go-To Major Mackenzie South Block Inc. & Go-To Major Mackenzie South Block II Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44979",
+            "Umbrella": "Go-To Developments",
+            "Umbrella ID": "12550681",
+            "VB_NAME": "Capital Build Construction Management Corp.",
+            "OPERATINGNAME": "Capital Build",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44979",
+            "MEMBERNAME": "Capital Build Construction Management Corp.",
+            "MEMBEROPERATINGNAME": "Capital Build",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

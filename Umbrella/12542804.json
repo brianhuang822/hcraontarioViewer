@@ -1,0 +1,137 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Fernwood",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 1,
+            "TOTALUNITS": 38,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 13500,
+            "ADDRESS": "5556 5th Line",
+            "TELEPHONE": "519/362-0543",
+            "FAX": null,
+            "WEBSITEURL": "www.fernwoodhomes.ca",
+            "EMAIL": "fernwoodhomes@gmail.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 38,
+            "SUMM_TOTAL": 38,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 13500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 13500
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Fernwood Developments (Ontario) Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31492",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Fernwood Developments (Ontario) Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44126",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 9,
+            "Total Posessions": 9,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 38,
+            "SUMM_TOTAL": 38,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 13500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 13500,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 29,
+            "Total Posessions": 29,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 38,
+            "SUMM_TOTAL": 38,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 13500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 13500,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 13500,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 13500,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 38,
+            "SUMM_TOTAL": 38,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 13500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 13500,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "The Schoolhouse",
+            "Account Number": "B44126",
+            "Project Status": "Completed \u2013 Legal Proceeding",
+            "Location": "BARRIE",
+            "Address": "240-252 Penetanguishine Rd.",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-03-09"
+        },
+        {
+            "Condo Project Name": "The Schoolhouse",
+            "Account Number": "B44126",
+            "Project Status": "Completed",
+            "Location": "BARRIE",
+            "Address": "240, 242 244, 246, 248, 250, 252 Penetanguishene Rd.",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-10-24"
+        }
+    ]
+}

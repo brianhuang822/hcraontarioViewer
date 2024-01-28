@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32604",
+            "Umbrella": "Sherwood Custom Homes",
+            "Umbrella ID": "12540308",
+            "VB_NAME": "Sherwood Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2002-08-14",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2009-03-24 00:30:20.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "498 Eglinton Ave. E.",
+            "TELEPHONE": "(416) 224-1522",
+            "FAX": "(416) 224-1281",
+            "WEBSITEURL": "sherwoodhomes.ca/en",
+            "EMAIL": "vtopham@sherwoodhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11806368",
+            "TO": "Taylor Moore",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-224-1522"
+        },
+        {
+            "TOUNIQUENUMBER": "11806368",
+            "TO": "Taylor Moore",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-224-1522"
+        },
+        {
+            "TOUNIQUENUMBER": "11806368",
+            "TO": "Taylor Moore",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-224-1522"
+        },
+        {
+            "TOUNIQUENUMBER": "11806369",
+            "TO": "Judy Moore",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-224-1522"
+        },
+        {
+            "TOUNIQUENUMBER": "11806369",
+            "TO": "Judy Moore",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-224-1522"
+        },
+        {
+            "TOUNIQUENUMBER": "11806369",
+            "TO": "Judy Moore",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-224-1522"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32604",
+            "Umbrella": "Sherwood Custom Homes",
+            "Umbrella ID": "12540308",
+            "VB_NAME": "Sherwood Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B32604",
+            "MEMBERNAME": "Sherwood Custom Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B32604",
+            "Umbrella": "Sherwood Custom Homes",
+            "Umbrella ID": "12540308",
+            "VB_NAME": "Sherwood Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B39773",
+            "MEMBERNAME": "Sherwood Custom Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

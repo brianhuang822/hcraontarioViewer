@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41979",
+            "Umbrella": "Signature Homes",
+            "Umbrella ID": "12540195",
+            "VB_NAME": "Signature Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Inverary",
+            "HCRA_INITIALLICENSEDATE": "2012-04-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-27 18:24:58.000 +0000",
+            "Expiry Date": "2024-04-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "66 Autumn Ridge Drive",
+            "TELEPHONE": "613-572-3615",
+            "FAX": null,
+            "WEBSITEURL": "www.signaturehome.ca",
+            "EMAIL": "paul@signaturehome.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 23,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 23,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12186387",
+            "TO": "Lorna Ireland",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-329-6620"
+        },
+        {
+            "TOUNIQUENUMBER": "12186387",
+            "TO": "Lorna Ireland",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-329-6620"
+        },
+        {
+            "TOUNIQUENUMBER": "12179729",
+            "TO": "Paul Ireland",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-572-3615"
+        },
+        {
+            "TOUNIQUENUMBER": "12179729",
+            "TO": "Paul Ireland",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-572-3615"
+        },
+        {
+            "TOUNIQUENUMBER": "12179729",
+            "TO": "Paul Ireland",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-572-3615"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41979",
+            "Umbrella": "Signature Homes",
+            "Umbrella ID": "12540195",
+            "VB_NAME": "Signature Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37051",
+            "MEMBERNAME": "Paul Ireland",
+            "MEMBEROPERATINGNAME": "Signature Home",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41979",
+            "Umbrella": "Signature Homes",
+            "Umbrella ID": "12540195",
+            "VB_NAME": "Signature Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41979",
+            "MEMBERNAME": "Signature Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

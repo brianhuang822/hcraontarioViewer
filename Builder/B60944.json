@@ -1,0 +1,120 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60944",
+            "Umbrella": "Riley Construction",
+            "Umbrella ID": "500001184",
+            "VB_NAME": "Riley Construction Inc.",
+            "OPERATINGNAME": "Riley Construction Inc.",
+            "CITY": "Portland",
+            "HCRA_INITIALLICENSEDATE": "2022-02-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-10 22:10:58.000 +0000",
+            "Expiry Date": "2025-02-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4779 Briton Houghton Bay Road",
+            "TELEPHONE": "613-349-9451",
+            "FAX": null,
+            "WEBSITEURL": "https://rileyconstruction.ca",
+            "EMAIL": "rileyconstruction@outlook.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338817",
+            "TO": "John Riley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-272-2114"
+        },
+        {
+            "TOUNIQUENUMBER": "338817",
+            "TO": "John Riley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-272-2114"
+        },
+        {
+            "TOUNIQUENUMBER": "338817",
+            "TO": "John Riley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-272-2114"
+        },
+        {
+            "TOUNIQUENUMBER": "600009742",
+            "TO": "Steven Riley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-349-9459"
+        },
+        {
+            "TOUNIQUENUMBER": "600009742",
+            "TO": "Steven Riley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-349-9459"
+        },
+        {
+            "TOUNIQUENUMBER": "600009742",
+            "TO": "Steven Riley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-349-9459"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60944",
+            "Umbrella": "Riley Construction",
+            "Umbrella ID": "500001184",
+            "VB_NAME": "Riley Construction Inc.",
+            "OPERATINGNAME": "Riley Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60944",
+            "MEMBERNAME": "Riley Construction Inc.",
+            "MEMBEROPERATINGNAME": "Riley Construction Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60944",
+            "Umbrella": "Riley Construction",
+            "Umbrella ID": "500001184",
+            "VB_NAME": "Riley Construction Inc.",
+            "OPERATINGNAME": "Riley Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B21178",
+            "MEMBERNAME": "John Edmond Riley",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B60944",
+            "Umbrella": "Riley Construction",
+            "Umbrella ID": "500001184",
+            "VB_NAME": "Riley Construction Inc.",
+            "OPERATINGNAME": "Riley Construction Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25224",
+            "MEMBERNAME": "John Edmond Riley",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

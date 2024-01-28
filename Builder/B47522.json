@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47522",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Imagine Townhomes GP Inc. on behalf of Imagine Townhomes Limited Partnership",
+            "OPERATINGNAME": null,
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2019-03-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-14 17:17:29.000 +0000",
+            "Expiry Date": "2024-03-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "125 Villarboit Crescent",
+            "TELEPHONE": "905-307-8102",
+            "FAX": "905-307-8103",
+            "WEBSITEURL": "www.empirecommunities.com",
+            "EMAIL": "dgguizzetti@empirecommunities.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 77,
+            "SUMM_CONDO": 38,
+            "SUMM_TOTAL": 115,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "314002",
+            "TO": "Daniel Guizzetti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-307-8102"
+        },
+        {
+            "TOUNIQUENUMBER": "314002",
+            "TO": "Daniel Guizzetti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-307-8102"
+        },
+        {
+            "TOUNIQUENUMBER": "340626",
+            "TO": "Andrew Guizzetti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-307-8102"
+        },
+        {
+            "TOUNIQUENUMBER": "340626",
+            "TO": "Andrew Guizzetti",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-307-8102"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47522",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Imagine Townhomes GP Inc. on behalf of Imagine Townhomes Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Imagine Townhomes Limited Partnership",
+            "Project Status": null,
+            "Location": "NIAGARA FALLS",
+            "Address": " 7913 Kalar Rd. ",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Imagine Townhomes Limited Partnership",
+            "Project Status": null,
+            "Location": "NIAGARA FALLS",
+            "Address": " 8273 Tulip Tree Dr. ",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Imagine Townhomes Limited Partnership",
+            "Project Status": null,
+            "Location": "NIAGARA FALLS",
+            "Address": " 7787 Kalar Rd. ",
+            "# of Units": 41,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

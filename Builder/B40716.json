@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40716",
+            "Umbrella": "Hiku Homes",
+            "Umbrella ID": "12545824",
+            "VB_NAME": "Himmer Business Corporation Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "PORT McNicholl",
+            "HCRA_INITIALLICENSEDATE": "2010-09-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-09-18 12:01:57.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "155 Woodlands Ave",
+            "TELEPHONE": "705/828-0147",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "himmerbusinesscorp@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12429042",
+            "TO": "Helge Himmeroder",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-790-5607"
+        },
+        {
+            "TOUNIQUENUMBER": "12429042",
+            "TO": "Helge Himmeroder",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-790-5607"
+        },
+        {
+            "TOUNIQUENUMBER": "12429042",
+            "TO": "Helge Himmeroder",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-790-5607"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40716",
+            "Umbrella": "Hiku Homes",
+            "Umbrella ID": "12545824",
+            "VB_NAME": "Himmer Business Corporation Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45907",
+            "MEMBERNAME": "Hiku Company Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40716",
+            "Umbrella": "Hiku Homes",
+            "Umbrella ID": "12545824",
+            "VB_NAME": "Himmer Business Corporation Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40716",
+            "MEMBERNAME": "Himmer Business Corporation Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

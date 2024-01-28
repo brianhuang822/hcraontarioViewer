@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44954",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "King David Inc.",
+            "OPERATINGNAME": "King David Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2016-01-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-31 22:10:12.000 +0000",
+            "Expiry Date": "2024-01-06",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "212 King Street West",
+            "TELEPHONE": "416-971-3323",
+            "FAX": null,
+            "WEBSITEURL": "www.catherdraltown.com",
+            "EMAIL": "hughesc@romandale.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008889",
+            "TO": "John Peter Roman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-818-0624"
+        },
+        {
+            "TOUNIQUENUMBER": "600008889",
+            "TO": "John Peter Roman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-818-0624"
+        },
+        {
+            "TOUNIQUENUMBER": "100334527",
+            "TO": "Helen Roman-Barber",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-971-3323"
+        },
+        {
+            "TOUNIQUENUMBER": "100334527",
+            "TO": "Helen Roman-Barber",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-971-3323"
+        },
+        {
+            "TOUNIQUENUMBER": "100335806",
+            "TO": "Diana Beyer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-971-3320"
+        },
+        {
+            "TOUNIQUENUMBER": "100335809",
+            "TO": "Claire Hughes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-971-3323"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44954",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "King David Inc.",
+            "OPERATINGNAME": "King David Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Cathedraltown Courtyards",
+            "Project Status": "In Progress",
+            "Location": "MARKHAM",
+            "Address": " 101 Cathedral High St. ",
+            "# of Units": 103,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28451",
+            "Umbrella": "Longwood Homes",
+            "Umbrella ID": "11962",
+            "VB_NAME": "Longwood Building Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Gloucester",
+            "HCRA_INITIALLICENSEDATE": "1999-08-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-24 16:10:35.000 +0000",
+            "Expiry Date": "2024-08-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1010 Polytek Street",
+            "TELEPHONE": "613-746-1300",
+            "FAX": "613-746-3997",
+            "WEBSITEURL": "https://longwoodbuilders.com",
+            "EMAIL": "a.peralty@longwoodbuilders.com",
+            "ACCOUNTNUMBER": "B28451",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 432,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 432,
+            "SUMM_CC": 21,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 9182.4,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 9182.4
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336503",
+            "TO": "Guy Whissel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-746-1300"
+        },
+        {
+            "TOUNIQUENUMBER": "336503",
+            "TO": "Guy Whissel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-746-1300"
+        },
+        {
+            "TOUNIQUENUMBER": "336503",
+            "TO": "Guy Whissel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-746-1300"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28451",
+            "Umbrella": "Longwood Homes",
+            "Umbrella ID": "11962",
+            "VB_NAME": "Longwood Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28451",
+            "MEMBERNAME": "Longwood Building Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B28451",
+            "Umbrella": "Longwood Homes",
+            "Umbrella ID": "11962",
+            "VB_NAME": "Longwood Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B16583",
+            "MEMBERNAME": "Longwood Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28451",
+            "Umbrella": "Longwood Homes",
+            "Umbrella ID": "11962",
+            "VB_NAME": "Longwood Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42583",
+            "MEMBERNAME": "1180686 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28451",
+            "Umbrella": "Longwood Homes",
+            "Umbrella ID": "11962",
+            "VB_NAME": "Longwood Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41785",
+            "MEMBERNAME": "Sonia By The Rideau Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

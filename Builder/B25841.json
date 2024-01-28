@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25841",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Stoneridge Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "1996-08-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-08 14:31:52.000 +0000",
+            "Expiry Date": "2024-08-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "505 Jarvis Street",
+            "TELEPHONE": "519-474-9280",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "dave.stimac@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342096",
+            "TO": "Ivan Stimac",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-474-9280"
+        },
+        {
+            "TOUNIQUENUMBER": "342096",
+            "TO": "Ivan Stimac",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-474-9280"
+        },
+        {
+            "TOUNIQUENUMBER": "342096",
+            "TO": "Ivan Stimac",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-474-9280"
+        },
+        {
+            "TOUNIQUENUMBER": "342097",
+            "TO": "David Stimac",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-851-9810"
+        },
+        {
+            "TOUNIQUENUMBER": "342097",
+            "TO": "David Stimac",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-851-9810"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25841",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Stoneridge Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "ANITERRE HEIGHTS",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "505 Jarvis St",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

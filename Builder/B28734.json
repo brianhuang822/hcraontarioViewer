@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28734",
+            "Umbrella": "Braebury Homes",
+            "Umbrella ID": "3439",
+            "VB_NAME": "1178477 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "KINGSTON",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2001-08-25 00:58:42.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "916 Princess St.",
+            "TELEPHONE": "(613)546-3400",
+            "FAX": "(613)546-4213",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332048",
+            "TO": "Peter Splinter",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-546-3400"
+        },
+        {
+            "TOUNIQUENUMBER": "332048",
+            "TO": "Peter Splinter",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-546-3400"
+        },
+        {
+            "TOUNIQUENUMBER": "332048",
+            "TO": "Peter Splinter",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-546-3400"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28734",
+            "Umbrella": "Braebury Homes",
+            "Umbrella ID": "3439",
+            "VB_NAME": "1178477 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B3334",
+            "MEMBERNAME": "Braebury Homes Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28734",
+            "Umbrella": "Braebury Homes",
+            "Umbrella ID": "3439",
+            "VB_NAME": "1178477 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B28734",
+            "MEMBERNAME": "1178477 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B28734",
+            "Umbrella": "Braebury Homes",
+            "Umbrella ID": "3439",
+            "VB_NAME": "1178477 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B19250",
+            "MEMBERNAME": "Braebury Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

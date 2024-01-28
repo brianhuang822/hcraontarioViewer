@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24005",
+            "Umbrella": "Neven Custom Homes",
+            "Umbrella ID": "3474",
+            "VB_NAME": "Neven Custom Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Dundas",
+            "HCRA_INITIALLICENSEDATE": "1994-06-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-19 15:39:38.000 +0000",
+            "Expiry Date": "2024-06-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "29 Middletown Road",
+            "TELEPHONE": "905-628-6688",
+            "FAX": "905-627-4530",
+            "WEBSITEURL": "www.nevencustomhomes.com",
+            "EMAIL": "mark@nevencustomhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 21,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 21,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "324457",
+            "TO": "Gary Neven",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-6688"
+        },
+        {
+            "TOUNIQUENUMBER": "324457",
+            "TO": "Gary Neven",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-6688"
+        },
+        {
+            "TOUNIQUENUMBER": "324457",
+            "TO": "Gary Neven",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-6688"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24005",
+            "Umbrella": "Neven Custom Homes",
+            "Umbrella ID": "3474",
+            "VB_NAME": "Neven Custom Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B11043",
+            "MEMBERNAME": "Neven Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B24005",
+            "Umbrella": "Neven Custom Homes",
+            "Umbrella ID": "3474",
+            "VB_NAME": "Neven Custom Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B24005",
+            "MEMBERNAME": "Neven Custom Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

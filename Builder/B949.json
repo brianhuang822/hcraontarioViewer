@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B949",
+            "Umbrella": "Dallas Homes",
+            "Umbrella ID": "12539750",
+            "VB_NAME": "Dallas Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "NEPEAN",
+            "HCRA_INITIALLICENSEDATE": "1984-10-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2002-01-08 22:43:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "14 Queen Ann Cres., P.O. Box 435, R.R. 2",
+            "TELEPHONE": "(613)727-1668",
+            "FAX": "(613)727-3860",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "306824",
+            "TO": "Domenico Costanzo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-825-3510"
+        },
+        {
+            "TOUNIQUENUMBER": "306824",
+            "TO": "Domenico Costanzo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-825-3510"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B949",
+            "Umbrella": "Dallas Homes",
+            "Umbrella ID": "12539750",
+            "VB_NAME": "Dallas Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26839",
+            "MEMBERNAME": "Capital Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B949",
+            "Umbrella": "Dallas Homes",
+            "Umbrella ID": "12539750",
+            "VB_NAME": "Dallas Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B949",
+            "MEMBERNAME": "Dallas Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B949",
+            "Umbrella": "Dallas Homes",
+            "Umbrella ID": "12539750",
+            "VB_NAME": "Dallas Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30548",
+            "MEMBERNAME": "Dallas Homes & Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

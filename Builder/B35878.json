@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35878",
+            "Umbrella": "Grand Manor by Market Lane",
+            "Umbrella ID": "12540928",
+            "VB_NAME": "Grand Manor by Market Lane Inc.",
+            "OPERATINGNAME": "Grand Manor Development Inc.",
+            "CITY": "VAUGHAN",
+            "HCRA_INITIALLICENSEDATE": "2005-10-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-10-15 15:01:33.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "140 Woodbridge Ave., Ste. 201",
+            "TELEPHONE": "905-851-6611",
+            "FAX": "905-851-7868",
+            "WEBSITEURL": null,
+            "EMAIL": "grandmanor@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12092181",
+            "TO": "Antonio (Tony) Pisegna",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-0865"
+        },
+        {
+            "TOUNIQUENUMBER": "12092181",
+            "TO": "Antonio (Tony) Pisegna",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-0865"
+        },
+        {
+            "TOUNIQUENUMBER": "12092181",
+            "TO": "Antonio (Tony) Pisegna",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-0865"
+        },
+        {
+            "TOUNIQUENUMBER": "12092180",
+            "TO": "Rocco Cerone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-2321"
+        },
+        {
+            "TOUNIQUENUMBER": "12092180",
+            "TO": "Rocco Cerone",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-2321"
+        },
+        {
+            "TOUNIQUENUMBER": "12092180",
+            "TO": "Rocco Cerone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-2321"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35878",
+            "Umbrella": "Grand Manor by Market Lane",
+            "Umbrella ID": "12540928",
+            "VB_NAME": "Grand Manor by Market Lane Inc.",
+            "OPERATINGNAME": "Grand Manor Development Inc.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44199",
+            "MEMBERNAME": "Grand Manor by Market Lane Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35878",
+            "Umbrella": "Grand Manor by Market Lane",
+            "Umbrella ID": "12540928",
+            "VB_NAME": "Grand Manor by Market Lane Inc.",
+            "OPERATINGNAME": "Grand Manor Development Inc.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44198",
+            "MEMBERNAME": "Grand Manor Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35878",
+            "Umbrella": "Grand Manor by Market Lane",
+            "Umbrella ID": "12540928",
+            "VB_NAME": "Grand Manor by Market Lane Inc.",
+            "OPERATINGNAME": "Grand Manor Development Inc.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35881",
+            "MEMBERNAME": "Grand Manor Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35878",
+            "Umbrella": "Grand Manor by Market Lane",
+            "Umbrella ID": "12540928",
+            "VB_NAME": "Grand Manor by Market Lane Inc.",
+            "OPERATINGNAME": "Grand Manor Development Inc.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35878",
+            "MEMBERNAME": "Grand Manor by Market Lane Inc.",
+            "MEMBEROPERATINGNAME": "Grand Manor Development Inc.",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Grand Manor",
+            "Project Status": "Completed",
+            "Location": "WOODBRIDGE",
+            "Address": " 160 Woodbridge Ave. ",
+            "# of Units": 56,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-11-22"
+        }
+    ],
+    "builderConditions": []
+}

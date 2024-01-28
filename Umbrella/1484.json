@@ -1,0 +1,796 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Geranium Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 1081,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "3190 Steeles Avenue East",
+            "TELEPHONE": "905-477-1177",
+            "FAX": "905-477-7733",
+            "WEBSITEURL": "www.geraniumhomes.com",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Geranium Homes (Newmarket) Ltd.",
+            "MEMBEROPERATINGNAME": "Newmarket",
+            "MEMBERVBNUM": "B21099",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Building Big Point Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30409",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Hockley) Ltd.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16284",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Kingsdale) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B18676",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Summer Valley (Brampton) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26764",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Windhaven Estates Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8990",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Main St.) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43752",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Churchill Place Building Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26777",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Amibar Building Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23932",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eventel Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34332",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Mississauga) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20318",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Firsthaven Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9573",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bay Heights Building Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25171",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Courtice) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21460",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Peterborough) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19712",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Friday Harbour (West Island) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45797",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "North Talbot Estates Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25173",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Henderson Gardens Aurora Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27352",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bankers Estates Limited.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9305",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Altona Home Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46482",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Perryview Building Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31079",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Harvest Moon Scarborough Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23154",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Barrie) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19501",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Bolton) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17743",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Uptownes) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43115",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Oakland Park RH Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26763",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Prime Lesmill Building Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35001",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Rosebank) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41335",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Pearcroft Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25757",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Island Towns (Friday Harbour) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43709",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Vista Condos Stouffville Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45683",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Woodstock) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41575",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Bloomington Woods) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44144",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Mockingbird Building Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23922",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Brampton) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21619",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Turkey Creek Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25720",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Prime Maple Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25418",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stonebriar Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25407",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Marina Towns (Friday Harbour) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43710",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ardah Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25481",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Cambridge) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B18888",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Mulock Drive) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21707",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Ballantrae) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40781",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Henderson Gardens Aurora Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23933",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Stouffville Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41331",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Cardinal Point) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37832",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Richmond Hill) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22185",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Military Trail Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45759",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Midhurst Valley (Carson) Inc.",
+            "MEMBEROPERATINGNAME": "Midhurst Valley (Carson) Inc.",
+            "MEMBERVBNUM": "B60631",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Midhurst Valley (Residential) Inc.",
+            "MEMBEROPERATINGNAME": "Midhurst Valley (Residential) Inc.",
+            "MEMBERVBNUM": "B61781",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Aurora Heights Building Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22187",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Tovtel Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37571",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Perry Pines Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47322",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Cobourg) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17413",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Mitz Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8115",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Royal Rose Building Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24702",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Lindsay) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20017",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Verandas) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40777",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Port Hope Estates Ltd",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30408",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Windsor By The River Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25715",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Woodview Home Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46481",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Brookwood) Ltd.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16285",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Copperstone) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43118",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Highland Gate Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46299",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Southwood Trails Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26504",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Geranium Homes (Sunhaven Estates Ltd.)",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9471",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 179,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 179,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 86,
+            "Condo Unit Posessions": 3,
+            "Total Posessions": 89,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 92,
+            "Condo Unit Posessions": 21,
+            "Total Posessions": 113,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 42,
+            "Condo Unit Posessions": 53,
+            "Total Posessions": 95,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 56,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 56,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 188,
+            "Condo Unit Posessions": 61,
+            "Total Posessions": 249,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 67,
+            "Condo Unit Posessions": 8,
+            "Total Posessions": 75,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 38,
+            "Condo Unit Posessions": 121,
+            "Total Posessions": 159,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 47,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 47,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 40,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 40,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 148,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 148,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2024",
+            "Freehold Posessions": 10,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 10,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 814,
+            "SUMM_CONDO": 267,
+            "SUMM_TOTAL": 1081,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Friday Harbour",
+            "Account Number": "B45797",
+            "Project Status": null,
+            "Location": "INNISFIL",
+            "Address": "Riva Ave.",
+            "# of Units": 125,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Asprey Towns",
+            "Account Number": "B46482",
+            "Project Status": null,
+            "Location": "PICKERING",
+            "Address": "Altona Rd. And Twyn Rivers Dr.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Vista Condos Stouffville",
+            "Account Number": "B45683",
+            "Project Status": "Completed",
+            "Location": "STOUFFVILLE",
+            "Address": "  Baker Hill Blvd. ",
+            "# of Units": 120,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-06-12"
+        },
+        {
+            "Condo Project Name": "Pace On Main",
+            "Account Number": "B43752",
+            "Project Status": "Completed",
+            "Location": "STOUFFVILLE",
+            "Address": "6235 Main St.",
+            "# of Units": 67,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-03-01"
+        },
+        {
+            "Condo Project Name": "Geranium Homes (Uptownes)",
+            "Account Number": "B43115",
+            "Project Status": "Completed",
+            "Location": "STOUFFVILLE",
+            "Address": "302 John Davis Gate",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-10-13"
+        },
+        {
+            "Condo Project Name": "Geranium Homes (Uptownes)",
+            "Account Number": "B43115",
+            "Project Status": "Completed",
+            "Location": "STOUFFVILLE",
+            "Address": "246 John Davis Gate",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-03-23"
+        },
+        {
+            "Condo Project Name": "Geranium Homes (Uptownes)",
+            "Account Number": "B43115",
+            "Project Status": "Completed",
+            "Location": "STOUFFVILLE",
+            "Address": "148-248 Glad Park Ave.",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-05-28"
+        },
+        {
+            "Condo Project Name": "BIRCHVIEW GARDENS-LORNE PARK",
+            "Account Number": "B35001",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 1155 Birchview Dr ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-10-30"
+        },
+        {
+            "Condo Project Name": "THE CLASSICS OF ROYAL YORK",
+            "Account Number": "B24702",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "173-199 La Rose Ave.",
+            "# of Units": 44,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-01-30"
+        }
+    ]
+}

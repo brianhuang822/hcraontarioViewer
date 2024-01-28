@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41916",
+            "Umbrella": "T & R Brown Construction",
+            "Umbrella ID": "12529403",
+            "VB_NAME": "Rodney Paul Brown & Kathleen Patricia Brown",
+            "OPERATINGNAME": null,
+            "CITY": "LITTLE BRITAIN",
+            "HCRA_INITIALLICENSEDATE": "2012-03-30",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-03-31 12:00:27.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1140 Ramsey Rd.",
+            "TELEPHONE": "705/786-2890",
+            "FAX": "705/786-3534",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12142256",
+            "TO": "Kathleen Brown",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-786-2890"
+        },
+        {
+            "TOUNIQUENUMBER": "304413",
+            "TO": "Rodney Brown",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-786-2890"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41916",
+            "Umbrella": "T & R Brown Construction",
+            "Umbrella ID": "12529403",
+            "VB_NAME": "Rodney Paul Brown & Kathleen Patricia Brown",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B20003",
+            "MEMBERNAME": "T & R Brown Construction Ltd.",
+            "MEMBEROPERATINGNAME": "T & R Masonry and General Contracting",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41916",
+            "Umbrella": "T & R Brown Construction",
+            "Umbrella ID": "12529403",
+            "VB_NAME": "Rodney Paul Brown & Kathleen Patricia Brown",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41916",
+            "MEMBERNAME": "Rodney Paul Brown & Kathleen Patricia Brown",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

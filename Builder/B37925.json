@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37925",
+            "Umbrella": "Serenity Homes",
+            "Umbrella ID": "12539737",
+            "VB_NAME": "Steven Gaggioli Holdings Ltd.",
+            "OPERATINGNAME": "Serenity Homes",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2007-07-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-07-28 13:00:28.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "25 Scarsdale Rd., Unit 7",
+            "TELEPHONE": "416-551-6220",
+            "FAX": "416/551-6776",
+            "WEBSITEURL": "www.serenity-homes.ca",
+            "EMAIL": "steven@serenity-homes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12233645",
+            "TO": "Steven Gaggioli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-560-2560"
+        },
+        {
+            "TOUNIQUENUMBER": "12233645",
+            "TO": "Steven Gaggioli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-560-2560"
+        },
+        {
+            "TOUNIQUENUMBER": "12233645",
+            "TO": "Steven Gaggioli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-560-2560"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37925",
+            "Umbrella": "Serenity Homes",
+            "Umbrella ID": "12539737",
+            "VB_NAME": "Steven Gaggioli Holdings Ltd.",
+            "OPERATINGNAME": "Serenity Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41405",
+            "MEMBERNAME": "Serenity Custom Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37925",
+            "Umbrella": "Serenity Homes",
+            "Umbrella ID": "12539737",
+            "VB_NAME": "Steven Gaggioli Holdings Ltd.",
+            "OPERATINGNAME": "Serenity Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37925",
+            "MEMBERNAME": "Steven Gaggioli Holdings Ltd.",
+            "MEMBEROPERATINGNAME": "Serenity Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

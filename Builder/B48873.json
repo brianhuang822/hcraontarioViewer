@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48873",
+            "Umbrella": "Titanium Development Homes",
+            "Umbrella ID": "12553127",
+            "VB_NAME": "12517698 Canada Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2021-01-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-12 04:19:08.000 +0000",
+            "Expiry Date": "2025-01-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8339 Kennedy Road",
+            "TELEPHONE": "647-417-7278",
+            "FAX": null,
+            "WEBSITEURL": "http://www.titaniumhomes.ca",
+            "EMAIL": "hello@titaniumhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100652590",
+            "TO": "Sichuang Guo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-891-7766"
+        },
+        {
+            "TOUNIQUENUMBER": "100652586",
+            "TO": "Yongzhi Bian",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-417-7278"
+        },
+        {
+            "TOUNIQUENUMBER": "100652591",
+            "TO": "Alexander Chow",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-417-7278"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48873",
+            "Umbrella": "Titanium Development Homes",
+            "Umbrella ID": "12553127",
+            "VB_NAME": "12517698 Canada Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48522",
+            "MEMBERNAME": "Titanium Capital Investments and Consulting Inc.",
+            "MEMBEROPERATINGNAME": "Titanium Development Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48873",
+            "Umbrella": "Titanium Development Homes",
+            "Umbrella ID": "12553127",
+            "VB_NAME": "12517698 Canada Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48873",
+            "MEMBERNAME": "12517698 Canada Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

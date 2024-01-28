@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42017",
+            "Umbrella": "Castlestone Developments",
+            "Umbrella ID": "12540148",
+            "VB_NAME": "Castlestone Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "NEPEAN",
+            "HCRA_INITIALLICENSEDATE": "2012-06-14",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2014-08-12 21:03:35.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "26 Promenade Ave.",
+            "TELEPHONE": "613/866-4141",
+            "FAX": "613/727-0491",
+            "WEBSITEURL": " ",
+            "EMAIL": "info@castlestonedevelopments.com",
+            "ACCOUNTNUMBER": "B42017",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 3535.92,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3535.92
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12380747",
+            "TO": "Paolo Marinelli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-913-3735"
+        },
+        {
+            "TOUNIQUENUMBER": "12380747",
+            "TO": "Paolo Marinelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-913-3735"
+        },
+        {
+            "TOUNIQUENUMBER": "12332946",
+            "TO": "John Falbo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-866-4141"
+        },
+        {
+            "TOUNIQUENUMBER": "12332946",
+            "TO": "John Falbo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-866-4141"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42017",
+            "Umbrella": "Castlestone Developments",
+            "Umbrella ID": "12540148",
+            "VB_NAME": "Castlestone Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B42017",
+            "MEMBERNAME": "Castlestone Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B42017",
+            "Umbrella": "Castlestone Developments",
+            "Umbrella ID": "12540148",
+            "VB_NAME": "Castlestone Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B40058",
+            "MEMBERNAME": "Castlestone Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

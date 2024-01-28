@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37588",
+            "Umbrella": "Somerville Custom Homes",
+            "Umbrella ID": "12540683",
+            "VB_NAME": "1718661 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "2007-05-09",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2013-08-23 00:08:49.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "751 Woodcrest Blvd.",
+            "TELEPHONE": "519/860-4686",
+            "FAX": "1-800-701-2738",
+            "WEBSITEURL": "www.somervillecustomhomes.com",
+            "EMAIL": "info@somervillecustomhomes.com",
+            "ACCOUNTNUMBER": "B37588",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 510,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 510
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12216452",
+            "TO": "Lynne Katharina Mallette",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-860-4686"
+        },
+        {
+            "TOUNIQUENUMBER": "12216452",
+            "TO": "Lynne Katharina Mallette",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-860-4686"
+        },
+        {
+            "TOUNIQUENUMBER": "12216452",
+            "TO": "Lynne Katharina Mallette",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-860-4686"
+        },
+        {
+            "TOUNIQUENUMBER": "12280416",
+            "TO": "Mark Laskey",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-777-3742"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37588",
+            "Umbrella": "Somerville Custom Homes",
+            "Umbrella ID": "12540683",
+            "VB_NAME": "1718661 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B37588",
+            "MEMBERNAME": "1718661 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B37588",
+            "Umbrella": "Somerville Custom Homes",
+            "Umbrella ID": "12540683",
+            "VB_NAME": "1718661 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B43272",
+            "MEMBERNAME": "1718661 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,152 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60797",
+            "Umbrella": "Diamond Kilmer",
+            "Umbrella ID": "500001860",
+            "VB_NAME": "DK Victoria Park Inc.",
+            "OPERATINGNAME": "DK Victoria Park Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-12-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-12 14:58:05.000 +0000",
+            "Expiry Date": "2024-12-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "40 King Street West",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": "https://diamondkilmer.ca/",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100562038",
+            "TO": "Steven Bloom",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-6100"
+        },
+        {
+            "TOUNIQUENUMBER": "100562038",
+            "TO": "Steven Bloom",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-6100"
+        },
+        {
+            "TOUNIQUENUMBER": "100562044",
+            "TO": "Andrew Nairne",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-6100"
+        },
+        {
+            "TOUNIQUENUMBER": "100562034",
+            "TO": "David Harper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-814-3436"
+        },
+        {
+            "TOUNIQUENUMBER": "100562034",
+            "TO": "David Harper",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-814-3436"
+        },
+        {
+            "TOUNIQUENUMBER": "12490063",
+            "TO": "Stephen Diamond",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-324-5442"
+        },
+        {
+            "TOUNIQUENUMBER": "12490063",
+            "TO": "Stephen Diamond",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-324-5442"
+        },
+        {
+            "TOUNIQUENUMBER": "12162769",
+            "TO": "Robert Blazevski",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-324-5442"
+        },
+        {
+            "TOUNIQUENUMBER": "12162769",
+            "TO": "Robert Blazevski",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-324-5442"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60797",
+            "Umbrella": "Diamond Kilmer",
+            "Umbrella ID": "500001860",
+            "VB_NAME": "DK Victoria Park Inc.",
+            "OPERATINGNAME": "DK Victoria Park Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60797",
+            "MEMBERNAME": "DK Victoria Park Inc.",
+            "MEMBEROPERATINGNAME": "DK Victoria Park Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60797",
+            "Umbrella": "Diamond Kilmer",
+            "Umbrella ID": "500001860",
+            "VB_NAME": "DK Victoria Park Inc.",
+            "OPERATINGNAME": "DK Victoria Park Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61708",
+            "MEMBERNAME": "DK Broadview Inc.",
+            "MEMBEROPERATINGNAME": "DK Broadview Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60797",
+            "Umbrella": "Diamond Kilmer",
+            "Umbrella ID": "500001860",
+            "VB_NAME": "DK Victoria Park Inc.",
+            "OPERATINGNAME": "DK Victoria Park Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47458",
+            "MEMBERNAME": "DK St. Clair Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Birchley Park (Block 1)",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 411 Victoria Park Avenue ",
+            "# of Units": 375,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

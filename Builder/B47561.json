@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47561",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Umbria Developers Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Brampton",
+            "HCRA_INITIALLICENSEDATE": "2019-08-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-14 13:39:45.000 +0000",
+            "Expiry Date": "2024-08-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1030 Queen Street West",
+            "TELEPHONE": "905-497-8627",
+            "FAX": null,
+            "WEBSITEURL": "umbriadevelopers.com",
+            "EMAIL": "s.kamal@umbriadevelopers.com",
+            "ACCOUNTNUMBER": "B47561",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 75,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 75,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 26741.56,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 26741.56
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100561265",
+            "TO": "Inam Ul Haq",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-686-7787"
+        },
+        {
+            "TOUNIQUENUMBER": "100560215",
+            "TO": "Syed Kamal Sarwar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-220-9355"
+        },
+        {
+            "TOUNIQUENUMBER": "100560215",
+            "TO": "Syed Kamal Sarwar",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-220-9355"
+        },
+        {
+            "TOUNIQUENUMBER": "100560215",
+            "TO": "Syed Kamal Sarwar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-220-9355"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47561",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Umbria Developers Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Downtown Aura",
+            "Project Status": "In Progress",
+            "Location": "BRAMPTON",
+            "Address": " 12 Henderson Ave. ",
+            "# of Units": 148,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

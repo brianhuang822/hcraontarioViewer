@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37796",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ferncastle (Front Street) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "2007-06-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-08-09 22:43:12.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2220 Hwy. 7 W. Unit 5",
+            "TELEPHONE": "416-667-0447",
+            "FAX": "416-667-8747",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B37796",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 21,
+            "SUMM_TOTAL": 21,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 18163.75,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 18163.75
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343310",
+            "TO": "Alfredo Romano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-837-3338"
+        },
+        {
+            "TOUNIQUENUMBER": "343310",
+            "TO": "Alfredo Romano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-837-3338"
+        },
+        {
+            "TOUNIQUENUMBER": "343310",
+            "TO": "Alfredo Romano",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-837-3338"
+        },
+        {
+            "TOUNIQUENUMBER": "329604",
+            "TO": "Danny Salvatore",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-667-0447"
+        },
+        {
+            "TOUNIQUENUMBER": "329604",
+            "TO": "Danny Salvatore",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-667-0447"
+        },
+        {
+            "TOUNIQUENUMBER": "329604",
+            "TO": "Danny Salvatore",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-667-0447"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37796",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ferncastle (Front Street) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The L Tower",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 1 Front St. E ",
+            "# of Units": 593,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-04-30"
+        }
+    ],
+    "builderConditions": []
+}

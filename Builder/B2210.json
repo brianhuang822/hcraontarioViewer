@@ -1,0 +1,157 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B2210",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Dalron Construction Limited",
+            "OPERATINGNAME": "Dalron Construction Limited",
+            "CITY": "Sudbury",
+            "HCRA_INITIALLICENSEDATE": "1976-08-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-19 16:53:35.000 +0000",
+            "Expiry Date": "2024-05-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "130 Elm Street",
+            "TELEPHONE": "705-560-9770",
+            "FAX": "705-560-9800",
+            "WEBSITEURL": "www.dalron.com",
+            "EMAIL": "atilbury@dalron.com",
+            "ACCOUNTNUMBER": "B2210",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 316,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 316,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 3397.06,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3397.06
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12386436",
+            "TO": "Elaine Bouchard",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-560-9770"
+        },
+        {
+            "TOUNIQUENUMBER": "12488155",
+            "TO": "Kristi Arnold",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-560-9770"
+        },
+        {
+            "TOUNIQUENUMBER": "12488155",
+            "TO": "Kristi Arnold",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-560-9770"
+        },
+        {
+            "TOUNIQUENUMBER": "301446",
+            "TO": "David Arnold",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-560-9770"
+        },
+        {
+            "TOUNIQUENUMBER": "301446",
+            "TO": "David Arnold",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-560-9770"
+        },
+        {
+            "TOUNIQUENUMBER": "301446",
+            "TO": "David Arnold",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-560-9770"
+        },
+        {
+            "TOUNIQUENUMBER": "301453",
+            "TO": "Ronald Arnold",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-560-9770"
+        },
+        {
+            "TOUNIQUENUMBER": "301453",
+            "TO": "Ronald Arnold",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-560-9770"
+        },
+        {
+            "TOUNIQUENUMBER": "301453",
+            "TO": "Ronald Arnold",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-560-9770"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108812",
+            "CHARGE_AGAINST": "Dalron Construction Limited",
+            "CHARGE_DATE": "2016-11-08",
+            "DISPOSITION_DATE": "2017-01-13",
+            "THE_FINE_": "2000",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "500",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326931",
+            "ORGANIZATION_NAME": "Dalron Construction Limited",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Sudbury, ON",
+            "CITY_DEFENCE": "Sudbury, ON",
+            "VB_NUMBER": "B2210",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108812 9326931",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Greater Sudbury, City",
+            "INFORMATION_NUMBER": "16-5709",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2016-09-12",
+            "TO_OFFENCE_DATE": "2016-09-27",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "2500",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B2210",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Dalron Construction Limited",
+            "OPERATINGNAME": "Dalron Construction Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

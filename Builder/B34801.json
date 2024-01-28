@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34801",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "511473 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "North Bay",
+            "HCRA_INITIALLICENSEDATE": "2004-10-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-31 19:19:25.000 +0000",
+            "Expiry Date": "2024-10-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "47 Lakeview Drive",
+            "TELEPHONE": "705-499-1112",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "renzosilveri@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "321592",
+            "TO": "Nicolina Mascioli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-472-7177"
+        },
+        {
+            "TOUNIQUENUMBER": "321592",
+            "TO": "Nicolina Mascioli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-472-7177"
+        },
+        {
+            "TOUNIQUENUMBER": "321592",
+            "TO": "Nicolina Mascioli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-472-7177"
+        },
+        {
+            "TOUNIQUENUMBER": "321590",
+            "TO": "Domenico Mascioli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-499-7179"
+        },
+        {
+            "TOUNIQUENUMBER": "100455954",
+            "TO": "Renzo Silveri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-499-1112"
+        },
+        {
+            "TOUNIQUENUMBER": "100455954",
+            "TO": "Renzo Silveri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-499-1112"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34801",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "511473 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Premier Village By The Lake",
+            "Project Status": null,
+            "Location": "NORTH BAY",
+            "Address": "1134 Premier Rd.",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

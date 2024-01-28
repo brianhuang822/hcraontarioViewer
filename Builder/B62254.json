@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62254",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Enfield Developments Limited",
+            "OPERATINGNAME": "Edenshaw Enfield Developments Limited",
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2023-06-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-14 13:17:15.000 +0000",
+            "Expiry Date": "2024-06-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "129 Lakeshore Road East",
+            "TELEPHONE": "905-990-3500",
+            "FAX": null,
+            "WEBSITEURL": "https://edenshaw.com",
+            "EMAIL": "joe.marchello@edenshaw.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12534133",
+            "TO": "Joe Marchello",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-990-3500"
+        },
+        {
+            "TOUNIQUENUMBER": "269670",
+            "TO": "David McComb",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-990-3500"
+        },
+        {
+            "TOUNIQUENUMBER": "269670",
+            "TO": "David McComb",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-990-3500"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62254",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Enfield Developments Limited",
+            "OPERATINGNAME": "Edenshaw Enfield Developments Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48618",
+            "MEMBERNAME": "Langara Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62254",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Enfield Developments Limited",
+            "OPERATINGNAME": "Edenshaw Enfield Developments Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48190",
+            "MEMBERNAME": "Edenshaw Ann Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62254",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Enfield Developments Limited",
+            "OPERATINGNAME": "Edenshaw Enfield Developments Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62254",
+            "MEMBERNAME": "Edenshaw Enfield Developments Limited",
+            "MEMBEROPERATINGNAME": "Edenshaw Enfield Developments Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62254",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Enfield Developments Limited",
+            "OPERATINGNAME": "Edenshaw Enfield Developments Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47112",
+            "MEMBERNAME": "Edenshaw Park Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62254",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Enfield Developments Limited",
+            "OPERATINGNAME": "Edenshaw Enfield Developments Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60164",
+            "MEMBERNAME": "Edenshaw Fairview Developments Limited",
+            "MEMBEROPERATINGNAME": "Edenshaw Fairview Developments Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Kuro",
+            "Project Status": null,
+            "Location": "MISSISSAUGA",
+            "Address": " 3600 Hurontario Street ",
+            "# of Units": 583,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

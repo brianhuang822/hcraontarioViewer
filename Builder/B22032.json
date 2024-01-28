@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22032",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Edifice Estates Limited",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1994-01-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1999-01-21 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "20 Toronto St., Ste. 1400",
+            "TELEPHONE": "(416)815-8880",
+            "FAX": "(416)815-0122",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "306147",
+            "TO": "Max Hecht",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-908-4364"
+        },
+        {
+            "TOUNIQUENUMBER": "340236",
+            "TO": "Malcolm West",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-322-0666"
+        },
+        {
+            "TOUNIQUENUMBER": "311068",
+            "TO": "Kenneth E. Field",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-8444"
+        },
+        {
+            "TOUNIQUENUMBER": "311068",
+            "TO": "Kenneth E. Field",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-8444"
+        },
+        {
+            "TOUNIQUENUMBER": "311068",
+            "TO": "Kenneth E. Field",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-8444"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22032",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Edifice Estates Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "EDIFICE ESTATES LIMITED",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "2 Cheddington Place(2301 Bayview)",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-01-15"
+        },
+        {
+            "Condo Project Name": "CHEDINGTON MANORS",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1 Cheddington Place (2299 Bayview)",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-12-20"
+        }
+    ],
+    "builderConditions": []
+}

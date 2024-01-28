@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32123",
+            "Umbrella": "Shearer Homes",
+            "Umbrella ID": "12074467",
+            "VB_NAME": "David R. Shearer",
+            "OPERATINGNAME": "David R. Shearer Homes",
+            "CITY": "PEFFERLAW",
+            "HCRA_INITIALLICENSEDATE": "2002-04-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-04-13 12:30:55.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "40 Adelaide St.",
+            "TELEPHONE": "(705)437-1741",
+            "FAX": "(705)437-1741",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11762960",
+            "TO": "David Shearer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-437-1741"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32123",
+            "Umbrella": "Shearer Homes",
+            "Umbrella ID": "12074467",
+            "VB_NAME": "David R. Shearer",
+            "OPERATINGNAME": "David R. Shearer Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32123",
+            "MEMBERNAME": "David R. Shearer",
+            "MEMBEROPERATINGNAME": "David R. Shearer Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32123",
+            "Umbrella": "Shearer Homes",
+            "Umbrella ID": "12074467",
+            "VB_NAME": "David R. Shearer",
+            "OPERATINGNAME": "David R. Shearer Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35412",
+            "MEMBERNAME": "Shearer Homes Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

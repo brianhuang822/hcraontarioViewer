@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33879",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Andiel Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Maple",
+            "HCRA_INITIALLICENSEDATE": "2004-10-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-19 00:09:49.000 +0000",
+            "Expiry Date": "2024-10-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "45 Rodinea Road",
+            "TELEPHONE": "905-660-1663",
+            "FAX": "905-660-1667",
+            "WEBSITEURL": "https://www.eliteconstruction.ca",
+            "EMAIL": "robin@eliteconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "457752",
+            "TO": "Enrico Lisi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-1663"
+        },
+        {
+            "TOUNIQUENUMBER": "457752",
+            "TO": "Enrico Lisi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-1663"
+        },
+        {
+            "TOUNIQUENUMBER": "457752",
+            "TO": "Enrico Lisi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-1663"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33879",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Andiel Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TERRACES ON THE GREEN",
+            "Project Status": "Completed",
+            "Location": "WOODBRIDGE",
+            "Address": " 8201 Islington Ave. ",
+            "# of Units": 149,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-09-08"
+        }
+    ],
+    "builderConditions": []
+}

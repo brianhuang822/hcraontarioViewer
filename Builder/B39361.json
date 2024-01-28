@@ -1,0 +1,150 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39361",
+            "Umbrella": "Stone Forest Homes",
+            "Umbrella ID": "12518891",
+            "VB_NAME": "Spruce Crossing Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2009-03-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2009-03-27 18:42:40.000 +0000",
+            "Expiry Date": "2021-03-28",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "P.O. Box 22052 Wilton",
+            "TELEPHONE": "519-615-1167",
+            "FAX": null,
+            "WEBSITEURL": "www.sprucecrossing.ca",
+            "EMAIL": "jjmathewsctx@outlook.com",
+            "ACCOUNTNUMBER": "B39361",
+            "Total Outstanding Amount": 463812.18,
+            "TAB": 316424.72,
+            "BREACH": 147387.46,
+            "SUMM_FREEHOLD": 14,
+            "SUMM_CONDO": 1,
+            "SUMM_TOTAL": 15,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 180025.45,
+            "SUMM_MAJOR": 1,
+            "SUMM_MAJOR_AMT": 2583,
+            "SUMM_TOTAL_CLAIMS": 182608.45
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338852",
+            "TO": "John Mathews",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-615-1167"
+        },
+        {
+            "TOUNIQUENUMBER": "338852",
+            "TO": "John Mathews",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-615-1167"
+        },
+        {
+            "TOUNIQUENUMBER": "338852",
+            "TO": "John Mathews",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-615-1167"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39361",
+            "Umbrella": "Stone Forest Homes",
+            "Umbrella ID": "12518891",
+            "VB_NAME": "Spruce Crossing Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39361",
+            "MEMBERNAME": "Spruce Crossing Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39361",
+            "Umbrella": "Stone Forest Homes",
+            "Umbrella ID": "12518891",
+            "VB_NAME": "Spruce Crossing Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41766",
+            "MEMBERNAME": "C.T.X. Homes (2011) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B39361",
+            "Umbrella": "Stone Forest Homes",
+            "Umbrella ID": "12518891",
+            "VB_NAME": "Spruce Crossing Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B21657",
+            "MEMBERNAME": "C.T.X. Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Oakridge Common",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "495 Oakridge Dr.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "The Coves",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "57-67 Orchard Street",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-05-18"
+        },
+        {
+            "Condo Project Name": "The Coves",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "65 Orchard St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-10-18"
+        },
+        {
+            "Condo Project Name": "Oakwood Links",
+            "Project Status": "Completed",
+            "Location": "GRAND BEND",
+            "Address": " 30 Oakwood Links Ln. ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-03-20"
+        },
+        {
+            "Condo Project Name": "Oakwood Links",
+            "Project Status": "Completed",
+            "Location": "GRAND BEND",
+            "Address": " 70781 Bluewater Highway ",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-08-15"
+        }
+    ],
+    "builderConditions": []
+}

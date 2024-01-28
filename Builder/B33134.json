@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33134",
+            "Umbrella": "Village Terraces of Halton Hills",
+            "Umbrella ID": "12540322",
+            "VB_NAME": "1153539 Ontario Limited",
+            "OPERATINGNAME": "Village Terraces Of Halton Hills",
+            "CITY": "Halton Hills",
+            "HCRA_INITIALLICENSEDATE": "2003-04-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-04-08 15:00:53.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "18 Mill Pond Drive",
+            "TELEPHONE": "905-877-8963",
+            "FAX": "905-873-9345",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "310982",
+            "TO": "Nicodemo (Nick) Ferraro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-877-8963"
+        },
+        {
+            "TOUNIQUENUMBER": "310982",
+            "TO": "Nicodemo (Nick) Ferraro",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-877-8963"
+        },
+        {
+            "TOUNIQUENUMBER": "310982",
+            "TO": "Nicodemo (Nick) Ferraro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-877-8963"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33134",
+            "Umbrella": "Village Terraces of Halton Hills",
+            "Umbrella ID": "12540322",
+            "VB_NAME": "1153539 Ontario Limited",
+            "OPERATINGNAME": "Village Terraces Of Halton Hills",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40088",
+            "MEMBERNAME": "Falgar Creek Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33134",
+            "Umbrella": "Village Terraces of Halton Hills",
+            "Umbrella ID": "12540322",
+            "VB_NAME": "1153539 Ontario Limited",
+            "OPERATINGNAME": "Village Terraces Of Halton Hills",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33134",
+            "MEMBERNAME": "1153539 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Village Terraces Of Halton Hills",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33134",
+            "Umbrella": "Village Terraces of Halton Hills",
+            "Umbrella ID": "12540322",
+            "VB_NAME": "1153539 Ontario Limited",
+            "OPERATINGNAME": "Village Terraces Of Halton Hills",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40130",
+            "MEMBERNAME": "1153539 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Village Terraces Of Halton Hills",
+            "Project Status": null,
+            "Location": "GEORGETOWN",
+            "Address": "James St.",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

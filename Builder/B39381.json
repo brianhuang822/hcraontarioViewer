@@ -1,0 +1,121 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39381",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ruddington Residences Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2009-01-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-01-06 13:01:06.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "38 Berwick Ave.",
+            "TELEPHONE": "416-487-5122 ext. 223",
+            "FAX": "416-487-5168",
+            "WEBSITEURL": "www.thebrowngroup.net",
+            "EMAIL": "jay@thebrowngroup.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 7,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12288401",
+            "TO": "Jay Brown",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-487-5122"
+        },
+        {
+            "TOUNIQUENUMBER": "12288401",
+            "TO": "Jay Brown",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-487-5122"
+        },
+        {
+            "TOUNIQUENUMBER": "12333971",
+            "TO": "Sam Brown",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4977"
+        },
+        {
+            "TOUNIQUENUMBER": "12333971",
+            "TO": "Sam Brown",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4977"
+        },
+        {
+            "TOUNIQUENUMBER": "12333970",
+            "TO": "Jetta Brown",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4977"
+        },
+        {
+            "TOUNIQUENUMBER": "12333970",
+            "TO": "Jetta Brown",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4977"
+        },
+        {
+            "TOUNIQUENUMBER": "341172",
+            "TO": "Melvin H. Brown",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-487-5122"
+        },
+        {
+            "TOUNIQUENUMBER": "341172",
+            "TO": "Melvin H. Brown",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-487-5122"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39381",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ruddington Residences Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Willow Park at Bayview",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "17 Ruddington Dr.",
+            "# of Units": 75,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-07-05"
+        }
+    ],
+    "builderConditions": []
+}

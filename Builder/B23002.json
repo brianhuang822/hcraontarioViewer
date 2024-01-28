@@ -1,0 +1,157 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23002",
+            "Umbrella": "Spallacci Group",
+            "Umbrella ID": "3483",
+            "VB_NAME": "Spallacci Construction (1986) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "1993-07-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-07-06 12:31:49.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "85 Lancing Dr., Unit Q",
+            "TELEPHONE": "(905)389-6421",
+            "FAX": "(905)389-0820",
+            "WEBSITEURL": "www.spallaccigroup.com",
+            "EMAIL": "info@spallaccigroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339975",
+            "TO": "Vivian Porto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-388-1465"
+        },
+        {
+            "TOUNIQUENUMBER": "340480",
+            "TO": "Diana Scattolon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "331925",
+            "TO": "Anna Maria Spallacci",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-383-5002"
+        },
+        {
+            "TOUNIQUENUMBER": "331925",
+            "TO": "Anna Maria Spallacci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-383-5002"
+        },
+        {
+            "TOUNIQUENUMBER": "331924",
+            "TO": "Adriano Spallacci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-389-6421"
+        },
+        {
+            "TOUNIQUENUMBER": "331926",
+            "TO": "Frank Spallacci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-389-6421"
+        },
+        {
+            "TOUNIQUENUMBER": "331927",
+            "TO": "Loren Spallacci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-389-6421"
+        },
+        {
+            "TOUNIQUENUMBER": "331928",
+            "TO": "Rudi Spallacci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-389-6421"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23002",
+            "Umbrella": "Spallacci Group",
+            "Umbrella ID": "3483",
+            "VB_NAME": "Spallacci Construction (1986) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23002",
+            "MEMBERNAME": "Spallacci Construction (1986) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23002",
+            "Umbrella": "Spallacci Group",
+            "Umbrella ID": "3483",
+            "VB_NAME": "Spallacci Construction (1986) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B10836",
+            "MEMBERNAME": "Spallacci Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23002",
+            "Umbrella": "Spallacci Group",
+            "Umbrella ID": "3483",
+            "VB_NAME": "Spallacci Construction (1986) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48712",
+            "MEMBERNAME": "Wilson St. Ancaster Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B23002",
+            "Umbrella": "Spallacci Group",
+            "Umbrella ID": "3483",
+            "VB_NAME": "Spallacci Construction (1986) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17942",
+            "MEMBERNAME": "Spallacci & Sons Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "AMANDA HEIGHTS",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": "384-390 Limeridge Rd. E.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-08-30"
+        }
+    ],
+    "builderConditions": []
+}

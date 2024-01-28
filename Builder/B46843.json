@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46843",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2548667 Ontario Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Marmora",
+            "HCRA_INITIALLICENSEDATE": "2018-09-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:28:23.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7 Forsyth Street",
+            "TELEPHONE": "604/264-7366",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "anna.su@fairtradeworks.biz",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100466088",
+            "TO": "James Thacker",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-264-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "100466088",
+            "TO": "James Thacker",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-264-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "100466088",
+            "TO": "James Thacker",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-264-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "100466087",
+            "TO": "Jim Perkins",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-264-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "100466087",
+            "TO": "Jim Perkins",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-264-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "100466087",
+            "TO": "Jim Perkins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-264-7366"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46843",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2548667 Ontario Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Pinnacle",
+            "Project Status": "Cancelled",
+            "Location": "BELLEVILLE",
+            "Address": "211 Pinnacle Street",
+            "# of Units": 110,
+            "# of Terminations": 13,
+            "HCRA_CANCELLATIONREASON": "Sales threshold not met",
+            "Last Status Update": "2020-09-09"
+        }
+    ],
+    "builderConditions": []
+}

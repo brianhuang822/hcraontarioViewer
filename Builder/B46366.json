@@ -1,0 +1,132 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46366",
+            "Umbrella": "Cortel Group",
+            "Umbrella ID": "12544898",
+            "VB_NAME": "Trafalgar Heights Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Concord",
+            "HCRA_INITIALLICENSEDATE": "2017-09-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-10 14:25:33.000 +0000",
+            "Expiry Date": "2024-09-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2800 Highway 7 West",
+            "TELEPHONE": "905-695-0800",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "finance@cortelgroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 721,
+            "SUMM_TOTAL": 721,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008938",
+            "TO": "Robert Panchyson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-630-8845"
+        },
+        {
+            "TOUNIQUENUMBER": "12475142",
+            "TO": "Peter Cortellucci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-695-0800"
+        },
+        {
+            "TOUNIQUENUMBER": "12475142",
+            "TO": "Peter Cortellucci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-695-0800"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46366",
+            "Umbrella": "Cortel Group",
+            "Umbrella ID": "12544898",
+            "VB_NAME": "Trafalgar Heights Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41257",
+            "MEMBERNAME": "Royal 7 Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46366",
+            "Umbrella": "Cortel Group",
+            "Umbrella ID": "12544898",
+            "VB_NAME": "Trafalgar Heights Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48390",
+            "MEMBERNAME": "Rutherford Land Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46366",
+            "Umbrella": "Cortel Group",
+            "Umbrella ID": "12544898",
+            "VB_NAME": "Trafalgar Heights Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45297",
+            "MEMBERNAME": "Expo City Management Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46366",
+            "Umbrella": "Cortel Group",
+            "Umbrella ID": "12544898",
+            "VB_NAME": "Trafalgar Heights Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46366",
+            "MEMBERNAME": "Trafalgar Heights Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Oak & Co. - Tower 2",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": " 2481 Taunton Rd. ",
+            "# of Units": 508,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-12-29"
+        },
+        {
+            "Condo Project Name": "Oak & Co.",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": " 297 Oak Walk Drive ",
+            "# of Units": 242,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-12-23"
+        }
+    ],
+    "builderConditions": []
+}

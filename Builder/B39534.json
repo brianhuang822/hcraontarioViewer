@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39534",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Botan Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2009-06-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-06-02 12:00:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "115 Scrivens St.",
+            "TELEPHONE": "613-265-8505",
+            "FAX": "613-822-5411",
+            "WEBSITEURL": "www.botan.ca",
+            "EMAIL": "patrick@botan.ca",
+            "ACCOUNTNUMBER": "B39534",
+            "Total Outstanding Amount": 15856.09,
+            "TAB": 0,
+            "BREACH": 15856.09,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 102096.82,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 102096.82
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12348079",
+            "TO": "Patrick Reardon",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-265-8505"
+        },
+        {
+            "TOUNIQUENUMBER": "12348079",
+            "TO": "Patrick Reardon",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-265-8505"
+        },
+        {
+            "TOUNIQUENUMBER": "12348079",
+            "TO": "Patrick Reardon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-265-8505"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39534",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Botan Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

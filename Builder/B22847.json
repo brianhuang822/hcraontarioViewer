@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22847",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Collier Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "St. Thomas",
+            "HCRA_INITIALLICENSEDATE": "1993-04-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-05 18:28:32.000 +0000",
+            "Expiry Date": "2024-04-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "42372 John Wise Line",
+            "TELEPHONE": "519-633-9642",
+            "FAX": "519-633-6790",
+            "WEBSITEURL": "www.collierhomes.ca",
+            "EMAIL": "info@collierhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 216,
+            "SUMM_CONDO": 2,
+            "SUMM_TOTAL": 218,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "312958",
+            "TO": "Kathryn Collier",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-631-9642"
+        },
+        {
+            "TOUNIQUENUMBER": "312958",
+            "TO": "Kathryn Collier",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-631-9642"
+        },
+        {
+            "TOUNIQUENUMBER": "312958",
+            "TO": "Kathryn Collier",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-631-9642"
+        },
+        {
+            "TOUNIQUENUMBER": "600013926",
+            "TO": "Rick Collier",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "info@collierhomes.ca"
+        },
+        {
+            "TOUNIQUENUMBER": "600013926",
+            "TO": "Rick Collier",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "info@collierhomes.ca"
+        },
+        {
+            "TOUNIQUENUMBER": "600013926",
+            "TO": "Rick Collier",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "info@collierhomes.ca"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22847",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Collier Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Shawside Development",
+            "Project Status": null,
+            "Location": "ST. THOMAS",
+            "Address": " 35 Old Course Rd. ",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

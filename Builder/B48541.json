@@ -1,0 +1,126 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48541",
+            "Umbrella": "ASLL",
+            "Umbrella ID": "12552756",
+            "VB_NAME": "Alpha Capital Management Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2020-11-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-18 21:35:07.000 +0000",
+            "Expiry Date": "2024-11-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1300 Cornwall Road",
+            "TELEPHONE": "416-833-1414",
+            "FAX": null,
+            "WEBSITEURL": "www.alphacapitalmanagement.ca",
+            "EMAIL": "alibrahim@alphacapitalmanagement.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100657828",
+            "TO": "Yahia Mohamed Saeed",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-833-1414"
+        },
+        {
+            "TOUNIQUENUMBER": "100657828",
+            "TO": "Yahia Mohamed Saeed",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-833-1414"
+        },
+        {
+            "TOUNIQUENUMBER": "100657826",
+            "TO": "Abbas Ahmed",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-201-0618"
+        },
+        {
+            "TOUNIQUENUMBER": "100657826",
+            "TO": "Abbas Ahmed",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-201-0618"
+        },
+        {
+            "TOUNIQUENUMBER": "100494998",
+            "TO": "Seher AA Al-Mufty",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-789-8989"
+        },
+        {
+            "TOUNIQUENUMBER": "100485204",
+            "TO": "Ahmed Dagher Mohammed",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-789-8989"
+        },
+        {
+            "TOUNIQUENUMBER": "100485204",
+            "TO": "Ahmed Dagher Mohammed",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-789-8989"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48541",
+            "Umbrella": "ASLL",
+            "Umbrella ID": "12552756",
+            "VB_NAME": "Alpha Capital Management Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46820",
+            "MEMBERNAME": "Dania Projects Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48541",
+            "Umbrella": "ASLL",
+            "Umbrella ID": "12552756",
+            "VB_NAME": "Alpha Capital Management Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48541",
+            "MEMBERNAME": "Alpha Capital Management Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Mewburn Towns",
+            "Project Status": null,
+            "Location": "NIAGARA FALLS",
+            "Address": " 2700 Mewburn Rd. ",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

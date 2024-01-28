@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48398",
+            "Umbrella": "The Umbrella Academy",
+            "Umbrella ID": "12552310",
+            "VB_NAME": "Butler & Lowe Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2020-08-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-31 13:19:43.000 +0000",
+            "Expiry Date": "2024-08-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "190 Donessle Drive",
+            "TELEPHONE": "905-465-5079",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "simon@butlerlowe.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100643592",
+            "TO": "Simon Lowe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-465-5079"
+        },
+        {
+            "TOUNIQUENUMBER": "100643592",
+            "TO": "Simon Lowe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-465-5079"
+        },
+        {
+            "TOUNIQUENUMBER": "100505792",
+            "TO": "Jordan Butler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-564-6637"
+        },
+        {
+            "TOUNIQUENUMBER": "100505792",
+            "TO": "Jordan Butler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-564-6637"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48398",
+            "Umbrella": "The Umbrella Academy",
+            "Umbrella ID": "12552310",
+            "VB_NAME": "Butler & Lowe Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48398",
+            "MEMBERNAME": "Butler & Lowe Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48398",
+            "Umbrella": "The Umbrella Academy",
+            "Umbrella ID": "12552310",
+            "VB_NAME": "Butler & Lowe Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47351",
+            "MEMBERNAME": "J.M. Butler Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

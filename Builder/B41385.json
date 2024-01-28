@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41385",
+            "Umbrella": "All Detail Construction",
+            "Umbrella ID": "12538840",
+            "VB_NAME": "Tim and Tammy Bryson",
+            "OPERATINGNAME": null,
+            "CITY": "THUNDER BAY",
+            "HCRA_INITIALLICENSEDATE": "2011-07-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-07-22 12:00:28.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "135 Millford Rd.",
+            "TELEPHONE": "807-683-1579",
+            "FAX": "807-683-1571",
+            "WEBSITEURL": " ",
+            "EMAIL": "bryfam@tbaytel.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12485950",
+            "TO": "Tammy Bryson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-683-1579"
+        },
+        {
+            "TOUNIQUENUMBER": "12485949",
+            "TO": "Tim Bryson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-683-1579"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41385",
+            "Umbrella": "All Detail Construction",
+            "Umbrella ID": "12538840",
+            "VB_NAME": "Tim and Tammy Bryson",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41385",
+            "MEMBERNAME": "Tim and Tammy Bryson",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41385",
+            "Umbrella": "All Detail Construction",
+            "Umbrella ID": "12538840",
+            "VB_NAME": "Tim and Tammy Bryson",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42498",
+            "MEMBERNAME": "Bryfam Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

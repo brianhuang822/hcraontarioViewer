@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46847",
+            "Umbrella": "Addington Developments",
+            "Umbrella ID": "500002018",
+            "VB_NAME": "Oxford Road Developments 4 Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2018-06-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-27 13:51:53.000 +0000",
+            "Expiry Date": "2024-06-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "271 Sheppard Avenue West",
+            "TELEPHONE": "416-590-9503",
+            "FAX": null,
+            "WEBSITEURL": "https://addington.ca/",
+            "EMAIL": "info@addington.ca",
+            "ACCOUNTNUMBER": "B46847",
+            "Total Outstanding Amount": 61853.45,
+            "TAB": 3449.95,
+            "BREACH": 58403.5,
+            "SUMM_FREEHOLD": 36,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 36,
+            "SUMM_CC": 15,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 158677.97,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 158677.97
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600007449",
+            "TO": "Linpan Li",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-590-9503"
+        },
+        {
+            "TOUNIQUENUMBER": "100449095",
+            "TO": "Zhong (Lawrence) Chen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-590-9503"
+        },
+        {
+            "TOUNIQUENUMBER": "100449095",
+            "TO": "Zhong (Lawrence) Chen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-590-9503"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46847",
+            "Umbrella": "Addington Developments",
+            "Umbrella ID": "500002018",
+            "VB_NAME": "Oxford Road Developments 4 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47788",
+            "MEMBERNAME": "2250310 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46847",
+            "Umbrella": "Addington Developments",
+            "Umbrella ID": "500002018",
+            "VB_NAME": "Oxford Road Developments 4 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46847",
+            "MEMBERNAME": "Oxford Road Developments 4 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

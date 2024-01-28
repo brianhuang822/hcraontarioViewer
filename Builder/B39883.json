@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39883",
+            "Umbrella": "Carter Allen",
+            "Umbrella ID": "12541637",
+            "VB_NAME": "Carter Allen Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "THORNBURY",
+            "HCRA_INITIALLICENSEDATE": "2009-09-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-09-09 15:01:10.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 909",
+            "TELEPHONE": "705-888-3162",
+            "FAX": null,
+            "WEBSITEURL": "www.carterallen.ca",
+            "EMAIL": "scott@carterallen.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12368714",
+            "TO": "Scott Carter",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-888-3162"
+        },
+        {
+            "TOUNIQUENUMBER": "12368714",
+            "TO": "Scott Carter",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-888-3162"
+        },
+        {
+            "TOUNIQUENUMBER": "12368714",
+            "TO": "Scott Carter",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-888-3162"
+        },
+        {
+            "TOUNIQUENUMBER": "12368716",
+            "TO": "Christopher Allen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-441-0475"
+        },
+        {
+            "TOUNIQUENUMBER": "12368716",
+            "TO": "Christopher Allen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-441-0475"
+        },
+        {
+            "TOUNIQUENUMBER": "12368716",
+            "TO": "Christopher Allen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-441-0475"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39883",
+            "Umbrella": "Carter Allen",
+            "Umbrella ID": "12541637",
+            "VB_NAME": "Carter Allen Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39883",
+            "MEMBERNAME": "Carter Allen Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39883",
+            "Umbrella": "Carter Allen",
+            "Umbrella ID": "12541637",
+            "VB_NAME": "Carter Allen Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43561",
+            "MEMBERNAME": "Carter Allen Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

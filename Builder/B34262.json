@@ -1,0 +1,217 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34262",
+            "Umbrella": "Tartan Homes",
+            "Umbrella ID": "12009096",
+            "VB_NAME": "Tartan Crestway Developments Inc.",
+            "OPERATINGNAME": "Java at Havenlea",
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2004-05-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-10-06 14:14:10.000 +0000",
+            "Expiry Date": "2022-05-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "38 Colonnade Road North",
+            "TELEPHONE": null,
+            "FAX": "613-238-1056",
+            "WEBSITEURL": "www.tartanhomes.com",
+            "EMAIL": "info@tartanhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 1,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344533",
+            "TO": "Christopher Taggart",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-2973"
+        },
+        {
+            "TOUNIQUENUMBER": "344533",
+            "TO": "Christopher Taggart",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-2973"
+        },
+        {
+            "TOUNIQUENUMBER": "319206",
+            "TO": "R. Douglas Lazier",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-232-4241"
+        },
+        {
+            "TOUNIQUENUMBER": "12177766",
+            "TO": "Michael Taggart",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-761-7322"
+        },
+        {
+            "TOUNIQUENUMBER": "11682825",
+            "TO": "Scott Parkes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-739-2919"
+        },
+        {
+            "TOUNIQUENUMBER": "340472",
+            "TO": "Lawrence (Larry) Bruce",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-238-2040"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34262",
+            "Umbrella": "Tartan Homes",
+            "Umbrella ID": "12009096",
+            "VB_NAME": "Tartan Crestway Developments Inc.",
+            "OPERATINGNAME": "Java at Havenlea",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25986",
+            "MEMBERNAME": "Tartan Homes Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34262",
+            "Umbrella": "Tartan Homes",
+            "Umbrella ID": "12009096",
+            "VB_NAME": "Tartan Crestway Developments Inc.",
+            "OPERATINGNAME": "Java at Havenlea",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35328",
+            "MEMBERNAME": "Tartan Urban Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34262",
+            "Umbrella": "Tartan Homes",
+            "Umbrella ID": "12009096",
+            "VB_NAME": "Tartan Crestway Developments Inc.",
+            "OPERATINGNAME": "Java at Havenlea",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35844",
+            "MEMBERNAME": "Tartan JTJ Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34262",
+            "Umbrella": "Tartan Homes",
+            "Umbrella ID": "12009096",
+            "VB_NAME": "Tartan Crestway Developments Inc.",
+            "OPERATINGNAME": "Java at Havenlea",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34262",
+            "MEMBERNAME": "Tartan Crestway Developments Inc.",
+            "MEMBEROPERATINGNAME": "Java at Havenlea",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34262",
+            "Umbrella": "Tartan Homes",
+            "Umbrella ID": "12009096",
+            "VB_NAME": "Tartan Crestway Developments Inc.",
+            "OPERATINGNAME": "Java at Havenlea",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36712",
+            "MEMBERNAME": "Tartan FCJ Homes Inc.",
+            "MEMBEROPERATINGNAME": "Java at Findlay Creek",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34262",
+            "Umbrella": "Tartan Homes",
+            "Umbrella ID": "12009096",
+            "VB_NAME": "Tartan Crestway Developments Inc.",
+            "OPERATINGNAME": "Java at Havenlea",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35326",
+            "MEMBERNAME": "Tartan West Urban Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Java at Fraser Fields",
+            "Project Status": "Completed",
+            "Location": "NEPEAN",
+            "Address": "103/105 Fraser Fields Way",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-12-10"
+        },
+        {
+            "Condo Project Name": "Java at Fraser Fields",
+            "Project Status": "Completed",
+            "Location": "NEPEAN",
+            "Address": "4020 Stranherd Dr.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-08-20"
+        },
+        {
+            "Condo Project Name": "JAVA AT HAVENLEA",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "Crestway Drive",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-12-12"
+        },
+        {
+            "Condo Project Name": "JAVA AT HAVENLEA",
+            "Project Status": "Completed",
+            "Location": "NEPEAN",
+            "Address": "155/165/17 Waterbridge Dr.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-07-06"
+        },
+        {
+            "Condo Project Name": "JAVA AT HAVENLEA",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "Crestway",
+            "# of Units": 60,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-03-27"
+        },
+        {
+            "Condo Project Name": "JAVA AT HAVENLEA",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "  Waterbridge Dr./Crestway Dr. ",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-08-12"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,123 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1377",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "G. Dupont General Contractor Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Hawkesbury",
+            "HCRA_INITIALLICENSEDATE": "1987-02-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-08 18:08:38.000 +0000",
+            "Expiry Date": "2024-05-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "C. P. 155",
+            "TELEPHONE": "613-632-8758",
+            "FAX": "613-636-0606",
+            "WEBSITEURL": "gdupontconstruction.com",
+            "EMAIL": "admin@gdupontconstruction.com",
+            "ACCOUNTNUMBER": "B1377",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 55,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 55,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340136",
+            "TO": "Johanne Dupont",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-8758"
+        },
+        {
+            "TOUNIQUENUMBER": "12225437",
+            "TO": "Emilien Dupont",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "306-220-5512"
+        },
+        {
+            "TOUNIQUENUMBER": "12225437",
+            "TO": "Emilien Dupont",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "306-220-5512"
+        },
+        {
+            "TOUNIQUENUMBER": "12225437",
+            "TO": "Emilien Dupont",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "306-220-5512"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1377",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "G. Dupont General Contractor Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Massie Crescent  Condos",
+            "Project Status": "Completed",
+            "Location": "ALEXANDRIA",
+            "Address": "Massie Cres.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-01-24"
+        },
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "132H, 132B, 132C, 132D Higginson St.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-10-10"
+        },
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "Higginson",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-12-13"
+        },
+        {
+            "Condo Project Name": "Dupont Condominium",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "315 Stanley St",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-04-19"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60350",
+            "Umbrella": "Nexus Homes",
+            "Umbrella ID": "500000513",
+            "VB_NAME": "Montelena Development Corporation",
+            "OPERATINGNAME": "Montelena Development Corporation",
+            "CITY": "Hamilton",
+            "HCRA_INITIALLICENSEDATE": "2021-07-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-14 20:20:24.000 +0000",
+            "Expiry Date": "2024-07-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1070 Stone Church Road East",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "lgomez@nexusdevelopments.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 23,
+            "SUMM_TOTAL": 23,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11777189",
+            "TO": "Anthony DiCenzo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-574-3300"
+        },
+        {
+            "TOUNIQUENUMBER": "11777189",
+            "TO": "Anthony DiCenzo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-574-3300"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60350",
+            "Umbrella": "Nexus Homes",
+            "Umbrella ID": "500000513",
+            "VB_NAME": "Montelena Development Corporation",
+            "OPERATINGNAME": "Montelena Development Corporation",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43865",
+            "MEMBERNAME": "Nexus Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60350",
+            "Umbrella": "Nexus Homes",
+            "Umbrella ID": "500000513",
+            "VB_NAME": "Montelena Development Corporation",
+            "OPERATINGNAME": "Montelena Development Corporation",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60350",
+            "MEMBERNAME": "Montelena Development Corporation",
+            "MEMBEROPERATINGNAME": "Montelena Development Corporation",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60350",
+            "Umbrella": "Nexus Homes",
+            "Umbrella ID": "500000513",
+            "VB_NAME": "Montelena Development Corporation",
+            "OPERATINGNAME": "Montelena Development Corporation",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60870",
+            "MEMBERNAME": "Dawson Drive (Collingwood) Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Montelena",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": " 527 Shaver Road And 629 Garner Road West ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-10-18"
+        }
+    ],
+    "builderConditions": []
+}

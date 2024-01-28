@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37243",
+            "Umbrella": "Centreville Homes",
+            "Umbrella ID": "12539745",
+            "VB_NAME": "Centreville Development Corporation",
+            "OPERATINGNAME": "Centreville Homes",
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2007-01-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-01 16:28:12.000 +0000",
+            "Expiry Date": "2024-06-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1500 Creditstone Road",
+            "TELEPHONE": "905-264-1038",
+            "FAX": "905-264-1039",
+            "WEBSITEURL": null,
+            "EMAIL": "cbauco@centrevillehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 18,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 18,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12195311",
+            "TO": "Cesare Bauco",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-892-0077"
+        },
+        {
+            "TOUNIQUENUMBER": "12195311",
+            "TO": "Cesare Bauco",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-892-0077"
+        },
+        {
+            "TOUNIQUENUMBER": "12195311",
+            "TO": "Cesare Bauco",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-892-0077"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37243",
+            "Umbrella": "Centreville Homes",
+            "Umbrella ID": "12539745",
+            "VB_NAME": "Centreville Development Corporation",
+            "OPERATINGNAME": "Centreville Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37243",
+            "MEMBERNAME": "Centreville Development Corporation",
+            "MEMBEROPERATINGNAME": "Centreville Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Centreville Homes (Essa Road) Inc.",
+            "Project Status": null,
+            "Location": "BARRIE",
+            "Address": " 521-525 Essa Road ",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

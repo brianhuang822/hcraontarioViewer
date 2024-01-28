@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B7396",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "B.G. Schickedanz Investments Limited",
+            "OPERATINGNAME": null,
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "1982-10-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-12-22 13:38:33.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7 Directors Crt.",
+            "TELEPHONE": "(905)850-1336Ext.227",
+            "FAX": "(905)850-7312",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "330077",
+            "TO": "Elizabeth Schickedanz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-470-9997"
+        },
+        {
+            "TOUNIQUENUMBER": "330074",
+            "TO": "Bruno Gustav Schickedanz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-695-1953"
+        },
+        {
+            "TOUNIQUENUMBER": "330074",
+            "TO": "Bruno Gustav Schickedanz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-695-1953"
+        },
+        {
+            "TOUNIQUENUMBER": "330074",
+            "TO": "Bruno Gustav Schickedanz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-695-1953"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B7396",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "B.G. Schickedanz Investments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "AILSA MEADOWS PHASE II",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "9 Ailsa Place",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-01-02"
+        },
+        {
+            "Condo Project Name": "SHORES OF MUSKOKA ESTATES",
+            "Project Status": "Completed",
+            "Location": "BRACEBRIDGE",
+            "Address": "212 Ecclestone Drive",
+            "# of Units": 70,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-01-07"
+        },
+        {
+            "Condo Project Name": "SIMCOE SQUARE CONDO",
+            "Project Status": "Completed",
+            "Location": "KESWICK",
+            "Address": "155 Riverglen Dr.",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-10-31"
+        }
+    ],
+    "builderConditions": []
+}

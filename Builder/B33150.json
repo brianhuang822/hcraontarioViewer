@@ -1,0 +1,82 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33150",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Henley Contracting Ltd.",
+            "OPERATINGNAME": "Henley Contracting Ltd.",
+            "CITY": "Oshawa",
+            "HCRA_INITIALLICENSEDATE": "2022-05-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-01 18:18:44.000 +0000",
+            "Expiry Date": "2024-05-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "944 Orchid Court",
+            "TELEPHONE": "905-576-9714",
+            "FAX": "905-576-9714",
+            "WEBSITEURL": "https://henleycontracting.com",
+            "EMAIL": "accounts@henleycontracting.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11880469",
+            "TO": "Michael Henley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-260-0358"
+        },
+        {
+            "TOUNIQUENUMBER": "11880469",
+            "TO": "Michael Henley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-260-0358"
+        },
+        {
+            "TOUNIQUENUMBER": "11880469",
+            "TO": "Michael Henley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-260-0358"
+        },
+        {
+            "TOUNIQUENUMBER": "11880468",
+            "TO": "Karen Henley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-914-0358"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33150",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Henley Contracting Ltd.",
+            "OPERATINGNAME": "Henley Contracting Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

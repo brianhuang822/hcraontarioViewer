@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40062",
+            "Umbrella": "Encore Developments",
+            "Umbrella ID": "12539752",
+            "VB_NAME": "6545009 Canada Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Manotick",
+            "HCRA_INITIALLICENSEDATE": "2009-11-26",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2020-10-10 02:16:40.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "208 Vision Street",
+            "TELEPHONE": "613-794-8277",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "michael@timberville.ca",
+            "ACCOUNTNUMBER": "B40062",
+            "Total Outstanding Amount": 500633.22,
+            "TAB": 0,
+            "BREACH": 500633.22,
+            "SUMM_FREEHOLD": 11,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 11,
+            "SUMM_CC": 10,
+            "SUMM_MINOR": 6,
+            "SUMM_MINOR_AMT": 141849.57,
+            "SUMM_MAJOR": 1,
+            "SUMM_MAJOR_AMT": 300000,
+            "SUMM_TOTAL_CLAIMS": 441849.57
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12168222",
+            "TO": "Michael Ayoub",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-794-8277"
+        },
+        {
+            "TOUNIQUENUMBER": "12168222",
+            "TO": "Michael Ayoub",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-794-8277"
+        },
+        {
+            "TOUNIQUENUMBER": "12168222",
+            "TO": "Michael Ayoub",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-794-8277"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40062",
+            "Umbrella": "Encore Developments",
+            "Umbrella ID": "12539752",
+            "VB_NAME": "6545009 Canada Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B40062",
+            "MEMBERNAME": "6545009 Canada Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B40062",
+            "Umbrella": "Encore Developments",
+            "Umbrella ID": "12539752",
+            "VB_NAME": "6545009 Canada Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B42904",
+            "MEMBERNAME": "8318751 Canada Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

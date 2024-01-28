@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43239",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sydenham Properties Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2013-11-14",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2021-07-16 14:30:01.000 +0000",
+            "Expiry Date": "2021-04-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "805 \u2013 100 Lakeshore Rd E.",
+            "TELEPHONE": "905/338-0610",
+            "FAX": null,
+            "WEBSITEURL": "www.thesydenham.com",
+            "EMAIL": "rpirie@thesydenham.com",
+            "ACCOUNTNUMBER": "B43239",
+            "Total Outstanding Amount": 269079.88,
+            "TAB": 7805.2,
+            "BREACH": 261274.68,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 23,
+            "SUMM_TOTAL": 23,
+            "SUMM_CC": 39,
+            "SUMM_MINOR": 31,
+            "SUMM_MINOR_AMT": 1541301.47,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1541301.47
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100191589",
+            "TO": "Ronald Carson Pirie",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-338-0610"
+        },
+        {
+            "TOUNIQUENUMBER": "100191589",
+            "TO": "Ronald Carson Pirie",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-338-0610"
+        },
+        {
+            "TOUNIQUENUMBER": "100191589",
+            "TO": "Ronald Carson Pirie",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-338-0610"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43239",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sydenham Properties Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Sydenham",
+            "Project Status": "Completed \u2013 Legal Proceeding",
+            "Location": "OWEN SOUND",
+            "Address": " 80 9th St.E. ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-08-14"
+        }
+    ],
+    "builderConditions": []
+}

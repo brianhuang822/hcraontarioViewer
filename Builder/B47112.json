@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47112",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Park Developments Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2018-10-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-03 15:19:53.000 +0000",
+            "Expiry Date": "2024-10-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "129 Lakeshore Road East",
+            "TELEPHONE": "905-990-3500",
+            "FAX": "905-890-9501",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 201,
+            "SUMM_TOTAL": 201,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12534133",
+            "TO": "Joe Marchello",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-990-3500"
+        },
+        {
+            "TOUNIQUENUMBER": "269670",
+            "TO": "David McComb",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-990-3500"
+        },
+        {
+            "TOUNIQUENUMBER": "269670",
+            "TO": "David McComb",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-990-3500"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47112",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Park Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48618",
+            "MEMBERNAME": "Langara Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47112",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Park Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48190",
+            "MEMBERNAME": "Edenshaw Ann Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47112",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Park Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60164",
+            "MEMBERNAME": "Edenshaw Fairview Developments Limited",
+            "MEMBEROPERATINGNAME": "Edenshaw Fairview Developments Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47112",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Park Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62254",
+            "MEMBERNAME": "Edenshaw Enfield Developments Limited",
+            "MEMBEROPERATINGNAME": "Edenshaw Enfield Developments Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47112",
+            "Umbrella": "Edenshaw",
+            "Umbrella ID": "12551550",
+            "VB_NAME": "Edenshaw Park Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47112",
+            "MEMBERNAME": "Edenshaw Park Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TANU",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 21 Park St., E. ",
+            "# of Units": 201,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-02-11"
+        }
+    ],
+    "builderConditions": []
+}

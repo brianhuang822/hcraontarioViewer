@@ -1,0 +1,82 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Originate",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "584 Briar Hill Avenue",
+            "TELEPHONE": "647-222-3116",
+            "FAX": null,
+            "WEBSITEURL": "https://originateinc.ca/",
+            "EMAIL": "adam@originate.build",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Originate Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46878",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Originate (Bathurst & Richmond) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B61585",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "699 Sheppard East Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B60628",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Yonge and Rosehill Inc.",
+            "MEMBEROPERATINGNAME": "Yonge and Rosehill Inc.",
+            "MEMBERVBNUM": "B62620",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Reside Condos",
+            "Account Number": "B61585",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 627 Richmond St West ",
+            "# of Units": 216,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Six99 Condos",
+            "Account Number": "B60628",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 699 Sheppard Ave. East ",
+            "# of Units": 174,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35568",
+            "Umbrella": "George & Bill Michelis Homes",
+            "Umbrella ID": "12541998",
+            "VB_NAME": "George & Bill Michelis",
+            "OPERATINGNAME": "George & Brothers Construction Co.",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2005-07-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-07-29 12:00:19.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "77 Parkview Hills Cres.",
+            "TELEPHONE": "416-288-8850",
+            "FAX": "416-492-9292",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B35568",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "322936",
+            "TO": "George Michelis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-288-8850"
+        },
+        {
+            "TOUNIQUENUMBER": "322935",
+            "TO": "Bill Michelis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-427-9698"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35568",
+            "Umbrella": "George & Bill Michelis Homes",
+            "Umbrella ID": "12541998",
+            "VB_NAME": "George & Bill Michelis",
+            "OPERATINGNAME": "George & Brothers Construction Co.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B8255",
+            "MEMBERNAME": "G & M.Construction",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35568",
+            "Umbrella": "George & Bill Michelis Homes",
+            "Umbrella ID": "12541998",
+            "VB_NAME": "George & Bill Michelis",
+            "OPERATINGNAME": "George & Brothers Construction Co.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30712",
+            "MEMBERNAME": "George Michelis & Bill Michelis",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35568",
+            "Umbrella": "George & Bill Michelis Homes",
+            "Umbrella ID": "12541998",
+            "VB_NAME": "George & Bill Michelis",
+            "OPERATINGNAME": "George & Brothers Construction Co.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35568",
+            "MEMBERNAME": "George & Bill Michelis",
+            "MEMBEROPERATINGNAME": "George & Brothers Construction Co.",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35568",
+            "Umbrella": "George & Bill Michelis Homes",
+            "Umbrella ID": "12541998",
+            "VB_NAME": "George & Bill Michelis",
+            "OPERATINGNAME": "George & Brothers Construction Co.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26788",
+            "MEMBERNAME": "G. Michelis & B. Michelis",
+            "MEMBEROPERATINGNAME": "George And Bros Construction",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32594",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Walden Lands Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Sudbury",
+            "HCRA_INITIALLICENSEDATE": "2002-08-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-03 16:55:36.000 +0000",
+            "Expiry Date": "2024-08-31",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "598 Falconbridge Road",
+            "TELEPHONE": "705-222-9876",
+            "FAX": "705-222-9875",
+            "WEBSITEURL": "www.waldenlandsinc.ca",
+            "EMAIL": "gerry@waldenlandsinc.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 57,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 57,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11804879",
+            "TO": "Gerald (Gerry) Ceccarelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-222-9876"
+        },
+        {
+            "TOUNIQUENUMBER": "11804879",
+            "TO": "Gerald (Gerry) Ceccarelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-222-9876"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32594",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Walden Lands Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Bayside Townhomes - Phase 1",
+            "Project Status": null,
+            "Location": "AZILDA",
+            "Address": "2512 Parkview Dr.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

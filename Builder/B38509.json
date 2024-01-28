@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38509",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "B.L.T. Construction Services Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2008-06-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-06-17 15:00:54.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "953A Eglinton Ave., E.",
+            "TELEPHONE": "416-755-2505ext 25",
+            "FAX": "416-755-9828",
+            "WEBSITEURL": "www.bltconstruction.com",
+            "EMAIL": "mwatts@bltconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12277519",
+            "TO": "Paul Watts",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-755-1374"
+        },
+        {
+            "TOUNIQUENUMBER": "12277504",
+            "TO": "Mark Watts",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-755-2505"
+        },
+        {
+            "TOUNIQUENUMBER": "12277504",
+            "TO": "Mark Watts",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-755-2505"
+        },
+        {
+            "TOUNIQUENUMBER": "12277504",
+            "TO": "Mark Watts",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-755-2505"
+        },
+        {
+            "TOUNIQUENUMBER": "12277516",
+            "TO": "John Watts",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-755-1374"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38509",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "B.L.T. Construction Services Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

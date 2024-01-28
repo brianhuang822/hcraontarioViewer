@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40820",
+            "Umbrella": "Qwest Homes",
+            "Umbrella ID": "12540711",
+            "VB_NAME": "Carl James Banninga, Scott David Brown",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "2010-10-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-10-20 13:00:19.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6-411 Industrial Rd",
+            "TELEPHONE": "519/521-4011",
+            "FAX": "519-672-8505",
+            "WEBSITEURL": "www.qwesthomes.ca",
+            "EMAIL": "carl@qwesthomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12402774",
+            "TO": "Carl James Banninga",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-521-0153"
+        },
+        {
+            "TOUNIQUENUMBER": "12438007",
+            "TO": "Scott David Brown",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-671-6638"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40820",
+            "Umbrella": "Qwest Homes",
+            "Umbrella ID": "12540711",
+            "VB_NAME": "Carl James Banninga, Scott David Brown",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40356",
+            "MEMBERNAME": "Carl Banninga",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40820",
+            "Umbrella": "Qwest Homes",
+            "Umbrella ID": "12540711",
+            "VB_NAME": "Carl James Banninga, Scott David Brown",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43429",
+            "MEMBERNAME": "Qwest Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40820",
+            "Umbrella": "Qwest Homes",
+            "Umbrella ID": "12540711",
+            "VB_NAME": "Carl James Banninga, Scott David Brown",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40820",
+            "MEMBERNAME": "Carl James Banninga, Scott David Brown",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

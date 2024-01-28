@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27315",
+            "Umbrella": "Bolohan Construction",
+            "Umbrella ID": "12541245",
+            "VB_NAME": "Thomas Bolohan & Gregory Bolohan",
+            "OPERATINGNAME": "Bolohan Construction",
+            "CITY": "DELWARE",
+            "HCRA_INITIALLICENSEDATE": "1998-04-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-05-05 20:46:04.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "61 Hogback Close",
+            "TELEPHONE": "(519)652-6106",
+            "FAX": "(519)652-6106",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343754",
+            "TO": "Thomas Bolohan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-652-6106"
+        },
+        {
+            "TOUNIQUENUMBER": "303529",
+            "TO": "Greg Bolohan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-652-6106"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27315",
+            "Umbrella": "Bolohan Construction",
+            "Umbrella ID": "12541245",
+            "VB_NAME": "Thomas Bolohan & Gregory Bolohan",
+            "OPERATINGNAME": "Bolohan Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36679",
+            "MEMBERNAME": "Bolohan Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27315",
+            "Umbrella": "Bolohan Construction",
+            "Umbrella ID": "12541245",
+            "VB_NAME": "Thomas Bolohan & Gregory Bolohan",
+            "OPERATINGNAME": "Bolohan Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27315",
+            "MEMBERNAME": "Thomas Bolohan & Gregory Bolohan",
+            "MEMBEROPERATINGNAME": "Bolohan Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

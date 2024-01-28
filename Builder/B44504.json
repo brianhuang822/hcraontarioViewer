@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44504",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2060293 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Hamilton",
+            "HCRA_INITIALLICENSEDATE": "2015-05-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-03 02:29:19.000 +0000",
+            "Expiry Date": "2024-05-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "37 Malton Drive",
+            "TELEPHONE": "905-870-4201",
+            "FAX": "905-387-7477",
+            "WEBSITEURL": " ",
+            "EMAIL": "dsuppa@sutton.com",
+            "ACCOUNTNUMBER": "B44504",
+            "Total Outstanding Amount": 24388.28,
+            "TAB": 0,
+            "BREACH": 24388.28,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 25210.34,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 25210.34
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100303061",
+            "TO": "David Suppa",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-870-4201"
+        },
+        {
+            "TOUNIQUENUMBER": "100303061",
+            "TO": "David Suppa",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-870-4201"
+        },
+        {
+            "TOUNIQUENUMBER": "100303061",
+            "TO": "David Suppa",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-870-4201"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44504",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2060293 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

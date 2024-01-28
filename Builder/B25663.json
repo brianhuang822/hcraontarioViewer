@@ -1,0 +1,82 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25663",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Molloy Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "BRECHIN",
+            "HCRA_INITIALLICENSEDATE": "1996-06-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-06-25 04:15:20.000 +0000",
+            "Expiry Date": "2021-06-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2817 Furniss Cres., R.R. 1",
+            "TELEPHONE": "705-426-5502",
+            "FAX": "705-426-5502",
+            "WEBSITEURL": "MOLLOYENTERPRISES.COM",
+            "EMAIL": "molloyenterprises@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341912",
+            "TO": "Susanne Molloy",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-426-5502"
+        },
+        {
+            "TOUNIQUENUMBER": "341912",
+            "TO": "Susanne Molloy",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-426-5502"
+        },
+        {
+            "TOUNIQUENUMBER": "341911",
+            "TO": "John Molloy",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-426-5502"
+        },
+        {
+            "TOUNIQUENUMBER": "341911",
+            "TO": "John Molloy",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-426-5502"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25663",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Molloy Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

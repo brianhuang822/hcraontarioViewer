@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45078",
+            "Umbrella": "Bella Vistq",
+            "Umbrella ID": "500002105",
+            "VB_NAME": "Saccucci Construction Management Inc.",
+            "OPERATINGNAME": "4C Project Management",
+            "CITY": "LaSalle",
+            "HCRA_INITIALLICENSEDATE": "2021-09-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-27 16:29:03.000 +0000",
+            "Expiry Date": "2024-09-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1700 Sprucewood Avenue",
+            "TELEPHONE": "519-819-4122",
+            "FAX": null,
+            "WEBSITEURL": "http://www.4cprojectmanagement.com",
+            "EMAIL": "rsaccucci@4cprojectmanagement.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100346392",
+            "TO": "Randy Saccucci",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-819-4122"
+        },
+        {
+            "TOUNIQUENUMBER": "100346392",
+            "TO": "Randy Saccucci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-819-4122"
+        },
+        {
+            "TOUNIQUENUMBER": "100346392",
+            "TO": "Randy Saccucci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-819-4122"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45078",
+            "Umbrella": "Bella Vistq",
+            "Umbrella ID": "500002105",
+            "VB_NAME": "Saccucci Construction Management Inc.",
+            "OPERATINGNAME": "4C Project Management",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61970",
+            "MEMBERNAME": "781 Erie Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45078",
+            "Umbrella": "Bella Vistq",
+            "Umbrella ID": "500002105",
+            "VB_NAME": "Saccucci Construction Management Inc.",
+            "OPERATINGNAME": "4C Project Management",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45078",
+            "MEMBERNAME": "Saccucci Construction Management Inc.",
+            "MEMBEROPERATINGNAME": "4C Project Management",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

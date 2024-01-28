@@ -1,0 +1,158 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39525",
+            "Umbrella": "Highcastle Homes",
+            "Umbrella ID": "12199468",
+            "VB_NAME": "2174372 Ontario Ltd.",
+            "OPERATINGNAME": "Highcastle Homes",
+            "CITY": "Woodbridge",
+            "HCRA_INITIALLICENSEDATE": "2009-04-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-14 20:04:40.000 +0000",
+            "Expiry Date": "2024-04-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7600 Highway 27",
+            "TELEPHONE": "905-264-5565",
+            "FAX": "905-264-1396",
+            "WEBSITEURL": "www.highcastlehomes.com",
+            "EMAIL": "rita@highcastlehomes.com",
+            "ACCOUNTNUMBER": "B39525",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 331,
+            "SUMM_CONDO": 54,
+            "SUMM_TOTAL": 385,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 3771.21,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3771.21
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "319719",
+            "TO": "Domenic Tassone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-5565"
+        },
+        {
+            "TOUNIQUENUMBER": "319719",
+            "TO": "Domenic Tassone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-5565"
+        },
+        {
+            "TOUNIQUENUMBER": "319719",
+            "TO": "Domenic Tassone",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-5565"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39525",
+            "Umbrella": "Highcastle Homes",
+            "Umbrella ID": "12199468",
+            "VB_NAME": "2174372 Ontario Ltd.",
+            "OPERATINGNAME": "Highcastle Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B23293",
+            "MEMBERNAME": "Tas-Mari Inc.",
+            "MEMBEROPERATINGNAME": "Highcastle Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39525",
+            "Umbrella": "Highcastle Homes",
+            "Umbrella ID": "12199468",
+            "VB_NAME": "2174372 Ontario Ltd.",
+            "OPERATINGNAME": "Highcastle Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39525",
+            "MEMBERNAME": "2174372 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Highcastle Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39525",
+            "Umbrella": "Highcastle Homes",
+            "Umbrella ID": "12199468",
+            "VB_NAME": "2174372 Ontario Ltd.",
+            "OPERATINGNAME": "Highcastle Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38118",
+            "MEMBERNAME": "2144121 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39525",
+            "Umbrella": "Highcastle Homes",
+            "Umbrella ID": "12199468",
+            "VB_NAME": "2174372 Ontario Ltd.",
+            "OPERATINGNAME": "Highcastle Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36653",
+            "MEMBERNAME": "1475934 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Master Creek Estates",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39525",
+            "Umbrella": "Highcastle Homes",
+            "Umbrella ID": "12199468",
+            "VB_NAME": "2174372 Ontario Ltd.",
+            "OPERATINGNAME": "Highcastle Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41076",
+            "MEMBERNAME": "2073737 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39525",
+            "Umbrella": "Highcastle Homes",
+            "Umbrella ID": "12199468",
+            "VB_NAME": "2174372 Ontario Ltd.",
+            "OPERATINGNAME": "Highcastle Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46359",
+            "MEMBERNAME": "6314 Alliston Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39525",
+            "Umbrella": "Highcastle Homes",
+            "Umbrella ID": "12199468",
+            "VB_NAME": "2174372 Ontario Ltd.",
+            "OPERATINGNAME": "Highcastle Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36652",
+            "MEMBERNAME": "2053995 Ontario Ltd",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Orchards Enclave",
+            "Project Status": null,
+            "Location": "CLARINGTON",
+            "Address": "  Bill Hutchinson Crescent ",
+            "# of Units": 54,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39962",
+            "Umbrella": "Tom Grimes Homes",
+            "Umbrella ID": "12377393",
+            "VB_NAME": "2143372 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "OAKWOOD",
+            "HCRA_INITIALLICENSEDATE": "2009-09-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-09-24 12:01:06.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "888 Quaker Rd., R.R. 1",
+            "TELEPHONE": "705-953-9522",
+            "FAX": "705-953-9201",
+            "WEBSITEURL": " ",
+            "EMAIL": "tomgrimeshomes@hotmail.com",
+            "ACCOUNTNUMBER": "B39962",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 60,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 60,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 902.75,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 902.75
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "313810",
+            "TO": "Tom Grimes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-328-2431"
+        },
+        {
+            "TOUNIQUENUMBER": "313810",
+            "TO": "Tom Grimes",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-328-2431"
+        },
+        {
+            "TOUNIQUENUMBER": "12374479",
+            "TO": "David Squires",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-953-9522"
+        },
+        {
+            "TOUNIQUENUMBER": "12374479",
+            "TO": "David Squires",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-953-9522"
+        },
+        {
+            "TOUNIQUENUMBER": "12374481",
+            "TO": "Anne Squires",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-953-9522"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39962",
+            "Umbrella": "Tom Grimes Homes",
+            "Umbrella ID": "12377393",
+            "VB_NAME": "2143372 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39962",
+            "MEMBERNAME": "2143372 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39962",
+            "Umbrella": "Tom Grimes Homes",
+            "Umbrella ID": "12377393",
+            "VB_NAME": "2143372 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38191",
+            "MEMBERNAME": "Tom Grimes Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

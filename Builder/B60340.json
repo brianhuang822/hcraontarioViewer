@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60340",
+            "Umbrella": "Kingdom Canada",
+            "Umbrella ID": "500000512",
+            "VB_NAME": "Kingdom North York Project Limited Partnership",
+            "OPERATINGNAME": "Kingdom North York Project Limited Partnership",
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2021-07-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-20 04:00:00.000 +0000",
+            "Expiry Date": "2024-07-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3389 Steeles Ave East",
+            "TELEPHONE": "416-502-2345",
+            "FAX": "416-497-8989",
+            "WEBSITEURL": "https://www.kingdomcanada.ca",
+            "EMAIL": "jason.yang@kingdomcanada.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600007673",
+            "TO": "Kun Jiao",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-961-6789"
+        },
+        {
+            "TOUNIQUENUMBER": "600007673",
+            "TO": "Kun Jiao",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-961-6789"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60340",
+            "Umbrella": "Kingdom Canada",
+            "Umbrella ID": "500000512",
+            "VB_NAME": "Kingdom North York Project Limited Partnership",
+            "OPERATINGNAME": "Kingdom North York Project Limited Partnership",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60785",
+            "MEMBERNAME": "Kingdom Markham Project Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60340",
+            "Umbrella": "Kingdom Canada",
+            "Umbrella ID": "500000512",
+            "VB_NAME": "Kingdom North York Project Limited Partnership",
+            "OPERATINGNAME": "Kingdom North York Project Limited Partnership",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60340",
+            "MEMBERNAME": "Kingdom North York Project Limited Partnership",
+            "MEMBEROPERATINGNAME": "Kingdom North York Project Limited Partnership",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60340",
+            "Umbrella": "Kingdom Canada",
+            "Umbrella ID": "500000512",
+            "VB_NAME": "Kingdom North York Project Limited Partnership",
+            "OPERATINGNAME": "Kingdom North York Project Limited Partnership",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47445",
+            "MEMBERNAME": "Kingdom Scarborough Project Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60340",
+            "Umbrella": "Kingdom Canada",
+            "Umbrella ID": "500000512",
+            "VB_NAME": "Kingdom North York Project Limited Partnership",
+            "OPERATINGNAME": "Kingdom North York Project Limited Partnership",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60838",
+            "MEMBERNAME": "2690622 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Lawrence Hill",
+            "Project Status": "In Progress",
+            "Location": "NORTH YORK",
+            "Address": " 65,67, 69, 71, 73, 75 Curlew Drive ",
+            "# of Units": 222,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

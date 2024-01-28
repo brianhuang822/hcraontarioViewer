@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11120",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Albert Postma Construction Limited",
+            "OPERATINGNAME": "Aldor Homes",
+            "CITY": "Dunnville",
+            "HCRA_INITIALLICENSEDATE": "1977-07-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-07-20 05:00:25.000 +0000",
+            "Expiry Date": "2023-07-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "745 Marshall Road",
+            "TELEPHONE": "905-774-6888",
+            "FAX": "905-774-1271",
+            "WEBSITEURL": "aldorhomes.ca",
+            "EMAIL": "aldorhomes@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 41,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 41,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "327005",
+            "TO": "Doreen Postma",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-774-6888"
+        },
+        {
+            "TOUNIQUENUMBER": "327005",
+            "TO": "Doreen Postma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-774-6888"
+        },
+        {
+            "TOUNIQUENUMBER": "327004",
+            "TO": "Albert Postma",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-701-2254"
+        },
+        {
+            "TOUNIQUENUMBER": "327004",
+            "TO": "Albert Postma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-701-2254"
+        },
+        {
+            "TOUNIQUENUMBER": "327004",
+            "TO": "Albert Postma",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-701-2254"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11120",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Albert Postma Construction Limited",
+            "OPERATINGNAME": "Aldor Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

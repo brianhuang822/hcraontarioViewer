@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44757",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2252759 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2016-09-30 04:00:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2985 Drew Rd., Ste. 109",
+            "TELEPHONE": "289/685-7882",
+            "FAX": null,
+            "WEBSITEURL": "www.snsdevelopers.ca",
+            "EMAIL": "nasir.snsdevelopers@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100209533",
+            "TO": "Syed Nasir Ali Shah",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-672-9777"
+        },
+        {
+            "TOUNIQUENUMBER": "100209533",
+            "TO": "Syed Nasir Ali Shah",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-672-9777"
+        },
+        {
+            "TOUNIQUENUMBER": "100320397",
+            "TO": "Steve Collins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-685-7882"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "9327910-CHG-001",
+            "CHARGE_AGAINST": "2252759 Ontario Inc.",
+            "CHARGE_DATE": "7/5/2021",
+            "DISPOSITION_DATE": "9/15/2023",
+            "THE_FINE_": "12500",
+            "CHARGE_TYPE": "ONHWPA - Section 6 - Illegally acted as a Vendor of a new home",
+            "VICTIM_SURCHARGE_AMOUNT_": null,
+            "CHARGE_CREATE_DATE": null,
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9327910",
+            "ORGANIZATION_NAME": null,
+            "PERSON_NAME": null,
+            "CITY_OFFENCE": "Simcoe",
+            "CITY_DEFENCE": "Mississauga",
+            "VB_NUMBER": "B44757",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": null,
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": null,
+            "INFORMATION_NUMBER": null,
+            "DEFENDANT_FIRST_NAME": null,
+            "DEFENDANT_LAST_NAME": null,
+            "CONVICTION_DESCRIPTION": null,
+            "FROM_OFFENCE_DATE": null,
+            "TO_OFFENCE_DATE": null,
+            "RESULT_FROM_TRIAL": "Convicted Fine",
+            "TOTAL_FINE_AMOUNT": "12500",
+            "FINE_AMOUNT_ON_APPEAL": null,
+            "CHARGE_TIME": null,
+            "PROBATION_ORDER": null,
+            "PROBATION_TERM": null,
+            "UNDER_APPEAL": null,
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B44757",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2252759 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

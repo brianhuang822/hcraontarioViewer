@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40961",
+            "Umbrella": "Creative Homes by Macadam",
+            "Umbrella ID": "12457864",
+            "VB_NAME": "1766849 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Odessa",
+            "HCRA_INITIALLICENSEDATE": "2010-12-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-16 21:59:23.000 +0000",
+            "Expiry Date": "2024-12-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "505 Millhaven Road",
+            "TELEPHONE": "613-876-7780",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "macadamhomes@bell.net",
+            "ACCOUNTNUMBER": "B40961",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 48,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 48,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 49450.68,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 49450.68
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12260487",
+            "TO": "Lisa Henry",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-929-4113"
+        },
+        {
+            "TOUNIQUENUMBER": "12260487",
+            "TO": "Lisa Henry",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-929-4113"
+        },
+        {
+            "TOUNIQUENUMBER": "12260487",
+            "TO": "Lisa Henry",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-929-4113"
+        },
+        {
+            "TOUNIQUENUMBER": "12260483",
+            "TO": "Scott Henry",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-876-7780"
+        },
+        {
+            "TOUNIQUENUMBER": "12260483",
+            "TO": "Scott Henry",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-876-7780"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40961",
+            "Umbrella": "Creative Homes by Macadam",
+            "Umbrella ID": "12457864",
+            "VB_NAME": "1766849 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38301",
+            "MEMBERNAME": "Scott J. Henry & Lisa A. Landon",
+            "MEMBEROPERATINGNAME": "Macadam Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40961",
+            "Umbrella": "Creative Homes by Macadam",
+            "Umbrella ID": "12457864",
+            "VB_NAME": "1766849 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40961",
+            "MEMBERNAME": "1766849 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

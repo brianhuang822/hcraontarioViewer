@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31963",
+            "Umbrella": "La Rosa Homes",
+            "Umbrella ID": "12540422",
+            "VB_NAME": "La Rosa Estates Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2001-11-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-19 19:07:40.000 +0000",
+            "Expiry Date": "2024-11-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "39 Derwyn Drive East",
+            "TELEPHONE": "416-804-7663",
+            "FAX": "416/265-9895",
+            "WEBSITEURL": " ",
+            "EMAIL": "giovannibild@icloud.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "261945",
+            "TO": "John Tucci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-804-7663"
+        },
+        {
+            "TOUNIQUENUMBER": "261945",
+            "TO": "John Tucci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-804-7663"
+        },
+        {
+            "TOUNIQUENUMBER": "261945",
+            "TO": "John Tucci",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-804-7663"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31963",
+            "Umbrella": "La Rosa Homes",
+            "Umbrella ID": "12540422",
+            "VB_NAME": "La Rosa Estates Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31963",
+            "MEMBERNAME": "La Rosa Estates Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31963",
+            "Umbrella": "La Rosa Homes",
+            "Umbrella ID": "12540422",
+            "VB_NAME": "La Rosa Estates Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B21945",
+            "MEMBERNAME": "La Rosa Carpentry & Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

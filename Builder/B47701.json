@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47701",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Coast Road GP Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2019-09-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-11 17:11:42.000 +0000",
+            "Expiry Date": "2024-09-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2100 Bloor Street West",
+            "TELEPHONE": "416-873-4644",
+            "FAX": null,
+            "WEBSITEURL": "https://www.coastroad.ca, www.mdrb.ca",
+            "EMAIL": "richard@mdrdev.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 34,
+            "SUMM_TOTAL": 34,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100571068",
+            "TO": "Mark Siegel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-285-0004"
+        },
+        {
+            "TOUNIQUENUMBER": "100571070",
+            "TO": "Harry Vavaroutsos",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-473-0105"
+        },
+        {
+            "TOUNIQUENUMBER": "100571067",
+            "TO": "Donald McDougall",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-721-6956"
+        },
+        {
+            "TOUNIQUENUMBER": "100571059",
+            "TO": "Richard Kim",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-873-4644"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47701",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Coast Road GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Coast Road Townhomes",
+            "Project Status": "Completed",
+            "Location": "PORT DOVER",
+            "Address": " 744 Nelson St. W. ",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-04-18"
+        },
+        {
+            "Condo Project Name": "Coast Road Townhomes",
+            "Project Status": "Completed",
+            "Location": "PORT DOVER",
+            "Address": " 744 Nelson St., N. ",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-04-12"
+        }
+    ],
+    "builderConditions": []
+}

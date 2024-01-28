@@ -1,0 +1,158 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Stone Manor Developments",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "25 Eldican Drive",
+            "TELEPHONE": "(905)760-9353",
+            "FAX": "(905)760-9351",
+            "WEBSITEURL": "www.stonemanorhomes.com",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Stone Manor Construction (Millwood) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26891",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stone Manor Developments (Woodbridge) Limited",
+            "MEMBEROPERATINGNAME": "Villas of Olde Woodbridge",
+            "MEMBERVBNUM": "B34408",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stone Manor Developments (Constitution) Limited",
+            "MEMBEROPERATINGNAME": "The Orchard At Applewood",
+            "MEMBERVBNUM": "B35799",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stone Manor Developments (Evans) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31879",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Oxford Hills Developments (Horsham) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27665",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Oxford Hills Developments (Spring Garden) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30751",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stone Manor Developments (Riverdale) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32613",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Oxford Hills Development (Park) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31139",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "189 Hollywood Avenue Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27666",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Oxford Hills Developments (1997) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26892",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stone Manor Developments (Kingston Road) Limited",
+            "MEMBEROPERATINGNAME": "Highland Creek Village",
+            "MEMBERVBNUM": "B34427",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stone Manor Developments (Hickory) Limited",
+            "MEMBEROPERATINGNAME": "HICKORY VILLAGE",
+            "MEMBERVBNUM": "B32916",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stone Manor Developments (Manitoba) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30520",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "RIVERDALE VILLAGE",
+            "Account Number": "B32613",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "1236 Dundas St. E.",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Highland Creek Village",
+            "Account Number": "B34427",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "Stage Coach Cir.",
+            "# of Units": 45,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "SHERWAY VILLAGE",
+            "Account Number": "B31879",
+            "Project Status": null,
+            "Location": "ETOBICOKE",
+            "Address": " 619 Evans Avenue ",
+            "# of Units": 0,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "The Orchard at Applewood",
+            "Account Number": "B35799",
+            "Project Status": null,
+            "Location": "MISSISSAUGA",
+            "Address": "3060-3213 Joel Kerbel Pl.",
+            "# of Units": 78,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ]
+}

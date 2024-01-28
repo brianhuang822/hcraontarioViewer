@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11983",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "679520 Ontari0 Limited",
+            "OPERATINGNAME": "Pinedale Estates",
+            "CITY": "BURLINGTON",
+            "HCRA_INITIALLICENSEDATE": "1987-04-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1991-06-17 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5150 Fairview Street,",
+            "TELEPHONE": "(416)637-0667",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "337825",
+            "TO": "Frank Zupert",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "320689",
+            "TO": "Gerard S. Maclean",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-920-3382"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11983",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "679520 Ontari0 Limited",
+            "OPERATINGNAME": "Pinedale Estates",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "5070 PINEDALE CONDO",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "5070 Pinedale Ave.",
+            "# of Units": 118,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-02-13"
+        },
+        {
+            "Condo Project Name": "5080 PINEDALE CONDO",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "5080 Pinedale Ave.",
+            "# of Units": 106,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-12-14"
+        },
+        {
+            "Condo Project Name": "PINEDALE CONDO",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "5090 Pinedale",
+            "# of Units": 118,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-09-25"
+        }
+    ],
+    "builderConditions": []
+}

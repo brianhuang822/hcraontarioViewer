@@ -1,0 +1,32 @@
+{
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "319170",
+            "TO": "Mary Lawson",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "304560",
+            "TO": "Ted Bryk",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-833-7499"
+        },
+        {
+            "TOUNIQUENUMBER": "304560",
+            "TO": "Ted Bryk",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-833-7499"
+        },
+        {
+            "TOUNIQUENUMBER": "304560",
+            "TO": "Ted Bryk",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-833-7499"
+        }
+    ]
+}

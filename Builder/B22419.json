@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22419",
+            "Umbrella": "Salim Concrete",
+            "Umbrella ID": "12540493",
+            "VB_NAME": "Salim Concrete Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TECUMSEH",
+            "HCRA_INITIALLICENSEDATE": "1992-11-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1997-11-07 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "12954 Dillon Dr.",
+            "TELEPHONE": "(519)979-4887",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "305495",
+            "TO": "Joseph Salim",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-979-4887"
+        },
+        {
+            "TOUNIQUENUMBER": "305495",
+            "TO": "Joseph Salim",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-979-4887"
+        },
+        {
+            "TOUNIQUENUMBER": "305495",
+            "TO": "Joseph Salim",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-979-4887"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22419",
+            "Umbrella": "Salim Concrete",
+            "Umbrella ID": "12540493",
+            "VB_NAME": "Salim Concrete Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28465",
+            "MEMBERNAME": "Salim Concrete Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B22419",
+            "Umbrella": "Salim Concrete",
+            "Umbrella ID": "12540493",
+            "VB_NAME": "Salim Concrete Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22419",
+            "MEMBERNAME": "Salim Concrete Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

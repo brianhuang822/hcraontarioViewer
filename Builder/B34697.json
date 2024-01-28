@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34697",
+            "Umbrella": "Hallmark Homes",
+            "Umbrella ID": "500002682",
+            "VB_NAME": "Hallmark Homes Corporation",
+            "OPERATINGNAME": "Hallmark Homes Corporation",
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2023-11-30",
+            "LICENCE_STATUS": "Licensed with Conditions",
+            "HCRA_LICENSERENEWEDON": "2023-11-30 16:04:38.000 +0000",
+            "Expiry Date": "2024-12-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4150 South Service Road",
+            "TELEPHONE": "905-467-4466",
+            "FAX": "905-825-9934",
+            "WEBSITEURL": "https://www.hallmarkhomes.ca",
+            "EMAIL": "john@hallmarkhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340210",
+            "TO": "Anthony Mandalfino",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-467-4467"
+        },
+        {
+            "TOUNIQUENUMBER": "340210",
+            "TO": "Anthony Mandalfino",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-467-4467"
+        },
+        {
+            "TOUNIQUENUMBER": "340211",
+            "TO": "John Mandalfino",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-467-4466"
+        },
+        {
+            "TOUNIQUENUMBER": "340211",
+            "TO": "John Mandalfino",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-467-4466"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34697",
+            "Umbrella": "Hallmark Homes",
+            "Umbrella ID": "500002682",
+            "VB_NAME": "Hallmark Homes Corporation",
+            "OPERATINGNAME": "Hallmark Homes Corporation",
+            "LICENCE_STATUS": "Licensed with Conditions",
+            "MEMBERVBNUM": "B47325",
+            "MEMBERNAME": "Central Development Lora Bay Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34697",
+            "Umbrella": "Hallmark Homes",
+            "Umbrella ID": "500002682",
+            "VB_NAME": "Hallmark Homes Corporation",
+            "OPERATINGNAME": "Hallmark Homes Corporation",
+            "LICENCE_STATUS": "Licensed with Conditions",
+            "MEMBERVBNUM": "B34697",
+            "MEMBERNAME": "Hallmark Homes Corporation",
+            "MEMBEROPERATINGNAME": "Hallmark Homes Corporation",
+            "MEMBERLICENCESTATUS": "Licensed with Conditions"
+        },
+        {
+            "Account Number": "B34697",
+            "Umbrella": "Hallmark Homes",
+            "Umbrella ID": "500002682",
+            "VB_NAME": "Hallmark Homes Corporation",
+            "OPERATINGNAME": "Hallmark Homes Corporation",
+            "LICENCE_STATUS": "Licensed with Conditions",
+            "MEMBERVBNUM": "B23113",
+            "MEMBERNAME": "Hallmark Homes Corporation",
+            "MEMBEROPERATINGNAME": "Hallmark Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": [
+        {
+            "HCRA_DESCRIPTION": "Hallmark Homes Corporation must apply to enroll in the following home with the Tarion Warranty Corporation before December 28, 2023.\n\n4184 Inglewood Drive, Burlington, ON",
+            "HCRA_EFFECTIVEDATE": "2023-11-28 05:00:00.000 +0000"
+        }
+    ]
+}

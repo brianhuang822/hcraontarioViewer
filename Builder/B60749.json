@@ -1,0 +1,105 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60749",
+            "Umbrella": "Cliffside Homes",
+            "Umbrella ID": "500000972",
+            "VB_NAME": "Cliffside Village Developments LP",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-11-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-27 17:20:43.000 +0000",
+            "Expiry Date": "2024-11-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "577 Kingston Road, Suite 104",
+            "TELEPHONE": "416-628-9980",
+            "FAX": null,
+            "WEBSITEURL": "https://cliffsidehomes.ca",
+            "EMAIL": "finley.mcewen@beachcorealty.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600005878",
+            "TO": "Finley McEwen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-628-9980"
+        },
+        {
+            "TOUNIQUENUMBER": "600005878",
+            "TO": "Finley McEwen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-628-9980"
+        },
+        {
+            "TOUNIQUENUMBER": "344824",
+            "TO": "Paul McArthur",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-821-3910"
+        },
+        {
+            "TOUNIQUENUMBER": "344824",
+            "TO": "Paul McArthur",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-821-3910"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60749",
+            "Umbrella": "Cliffside Homes",
+            "Umbrella ID": "500000972",
+            "VB_NAME": "Cliffside Village Developments LP",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60749",
+            "MEMBERNAME": "Cliffside Village Developments LP",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60749",
+            "Umbrella": "Cliffside Homes",
+            "Umbrella ID": "500000972",
+            "VB_NAME": "Cliffside Village Developments LP",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28174",
+            "MEMBERNAME": "Paul McArthur",
+            "MEMBEROPERATINGNAME": "McArthur Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Cliffton",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 2448-2450 Kingston Road ",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

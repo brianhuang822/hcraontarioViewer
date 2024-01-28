@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32312",
+            "Umbrella": "Classic Homes",
+            "Umbrella ID": "11682541",
+            "VB_NAME": "HPM Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "SARNIA",
+            "HCRA_INITIALLICENSEDATE": "2002-05-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-05-04 12:30:33.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 22070",
+            "TELEPHONE": "(519) 541-1681",
+            "FAX": "(519) 541-1742",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "325116",
+            "TO": "John Oravec",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-333-7373"
+        },
+        {
+            "TOUNIQUENUMBER": "325116",
+            "TO": "John Oravec",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-333-7373"
+        },
+        {
+            "TOUNIQUENUMBER": "325116",
+            "TO": "John Oravec",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-333-7373"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32312",
+            "Umbrella": "Classic Homes",
+            "Umbrella ID": "11682541",
+            "VB_NAME": "HPM Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32312",
+            "MEMBERNAME": "HPM Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32312",
+            "Umbrella": "Classic Homes",
+            "Umbrella ID": "11682541",
+            "VB_NAME": "HPM Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48449",
+            "MEMBERNAME": "876750 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Diamond Homes Sarnia",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B32312",
+            "Umbrella": "Classic Homes",
+            "Umbrella ID": "11682541",
+            "VB_NAME": "HPM Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30999",
+            "MEMBERNAME": "Nuvo One Corporation Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32312",
+            "Umbrella": "Classic Homes",
+            "Umbrella ID": "11682541",
+            "VB_NAME": "HPM Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B19916",
+            "MEMBERNAME": "876750 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Graycliff Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

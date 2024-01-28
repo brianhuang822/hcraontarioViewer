@@ -1,0 +1,132 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44861",
+            "Umbrella": "Dream Maker Developments",
+            "Umbrella ID": "12542709",
+            "VB_NAME": "9315055 Canada Corp.",
+            "OPERATINGNAME": "9315055 Canada Corp.",
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2015-10-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-15 20:50:03.000 +0000",
+            "Expiry Date": "2024-05-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "16 McAdam Avenue",
+            "TELEPHONE": "905-553-7326",
+            "FAX": "905-553-7325",
+            "WEBSITEURL": "https://dreambuilding.ca",
+            "EMAIL": "info@dreamto.ca",
+            "ACCOUNTNUMBER": "B44861",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 20,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 20,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100197028",
+            "TO": "Temitope Isaac Jr. Olowolafe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-725-1053"
+        },
+        {
+            "TOUNIQUENUMBER": "100197028",
+            "TO": "Temitope Isaac Jr. Olowolafe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-725-1053"
+        },
+        {
+            "TOUNIQUENUMBER": "100379945",
+            "TO": "Fabio Carmosino",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-908-5226"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44861",
+            "Umbrella": "Dream Maker Developments",
+            "Umbrella ID": "12542709",
+            "VB_NAME": "9315055 Canada Corp.",
+            "OPERATINGNAME": "9315055 Canada Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44368",
+            "MEMBERNAME": "9183183 Canada Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44861",
+            "Umbrella": "Dream Maker Developments",
+            "Umbrella ID": "12542709",
+            "VB_NAME": "9315055 Canada Corp.",
+            "OPERATINGNAME": "9315055 Canada Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46824",
+            "MEMBERNAME": "10268054 Canada Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44861",
+            "Umbrella": "Dream Maker Developments",
+            "Umbrella ID": "12542709",
+            "VB_NAME": "9315055 Canada Corp.",
+            "OPERATINGNAME": "9315055 Canada Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44861",
+            "MEMBERNAME": "9315055 Canada Corp.",
+            "MEMBEROPERATINGNAME": "9315055 Canada Corp.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44861",
+            "Umbrella": "Dream Maker Developments",
+            "Umbrella ID": "12542709",
+            "VB_NAME": "9315055 Canada Corp.",
+            "OPERATINGNAME": "9315055 Canada Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43317",
+            "MEMBERNAME": "Dream Maker Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "H1",
+            "Project Status": "In Progress",
+            "Location": "NORTH YORK",
+            "Address": " 1 Heathcote Ave. ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Dream Residences @ Altona Woods",
+            "Project Status": null,
+            "Location": "PICKERING",
+            "Address": "283-299 Finch Ave.",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

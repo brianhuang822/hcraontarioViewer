@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60653",
+            "Umbrella": "Coulter & Dawe",
+            "Umbrella ID": "500001173",
+            "VB_NAME": "Coulter Dawe and Associates Inc.",
+            "OPERATINGNAME": "Coulter Dawe and Associates Inc.",
+            "CITY": "Collingwood",
+            "HCRA_INITIALLICENSEDATE": "2022-02-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-11 22:04:11.000 +0000",
+            "Expiry Date": "2025-02-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "115 Hurontario Street",
+            "TELEPHONE": "705-444-6000",
+            "FAX": "705-444-6113",
+            "WEBSITEURL": null,
+            "EMAIL": "ajalonen@pbcoulter.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "307124",
+            "TO": "Patrick Coulter",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-443-0444"
+        },
+        {
+            "TOUNIQUENUMBER": "307124",
+            "TO": "Patrick Coulter",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-443-0444"
+        },
+        {
+            "TOUNIQUENUMBER": "307124",
+            "TO": "Patrick Coulter",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-443-0444"
+        },
+        {
+            "TOUNIQUENUMBER": "600009756",
+            "TO": "Jason Dawe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-443-0444"
+        },
+        {
+            "TOUNIQUENUMBER": "600009756",
+            "TO": "Jason Dawe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-443-0444"
+        },
+        {
+            "TOUNIQUENUMBER": "600009756",
+            "TO": "Jason Dawe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-443-0444"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60653",
+            "Umbrella": "Coulter & Dawe",
+            "Umbrella ID": "500001173",
+            "VB_NAME": "Coulter Dawe and Associates Inc.",
+            "OPERATINGNAME": "Coulter Dawe and Associates Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60653",
+            "MEMBERNAME": "Coulter Dawe and Associates Inc.",
+            "MEMBEROPERATINGNAME": "Coulter Dawe and Associates Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60653",
+            "Umbrella": "Coulter & Dawe",
+            "Umbrella ID": "500001173",
+            "VB_NAME": "Coulter Dawe and Associates Inc.",
+            "OPERATINGNAME": "Coulter Dawe and Associates Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B20945",
+            "MEMBERNAME": "Patrick B. Coulter & Associates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

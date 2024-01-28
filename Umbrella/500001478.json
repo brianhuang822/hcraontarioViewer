@@ -1,0 +1,65 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Fengate",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": null,
+            "TOTALUNITS": null,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": null,
+            "ADDRESS": "2275 Upper Middle Road East",
+            "TELEPHONE": "905-491-6599",
+            "FAX": "905-491-6598",
+            "WEBSITEURL": "https://fengate.com/businesses/real-estate/",
+            "EMAIL": "development-re@fengate.com",
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Fengate Hamilton Lands GP Inc.",
+            "MEMBEROPERATINGNAME": "Fengate Hamilton Lands GP Inc.",
+            "MEMBERVBNUM": "B60829",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Rose Garden Nominee Inc.",
+            "MEMBEROPERATINGNAME": "Rose Garden Nominee Inc.",
+            "MEMBERVBNUM": "B61338",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "8-16 Locust Street GP Inc. acting in its capacity on behalf of 8-16 Locust Street LP",
+            "MEMBEROPERATINGNAME": "8-16 Locust Street GP Inc. acting in its capacity on behalf of 8-16 Locust Street LP",
+            "MEMBERVBNUM": "B61767",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "75 James",
+            "Account Number": "B60829",
+            "Project Status": "In Progress",
+            "Location": "HAMILTON",
+            "Address": " 75 James Street S, 44 Hughson Street S, 9 Jackson St E ",
+            "# of Units": 616,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

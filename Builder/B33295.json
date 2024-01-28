@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33295",
+            "Umbrella": "Aegis Contracting",
+            "Umbrella ID": "12540631",
+            "VB_NAME": "Aegis Sports Ltd.",
+            "OPERATINGNAME": "Aegis Contracting",
+            "CITY": "GRIMSBY",
+            "HCRA_INITIALLICENSEDATE": "2003-04-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-04-23 13:31:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "18 Farrell Dr.",
+            "TELEPHONE": "(905) 309-9751",
+            "FAX": "(905) 309-9752",
+            "WEBSITEURL": null,
+            "EMAIL": "mtosello@cogeco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345263",
+            "TO": "Martin Tosello",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-309-9751"
+        },
+        {
+            "TOUNIQUENUMBER": "345263",
+            "TO": "Martin Tosello",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-309-9751"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33295",
+            "Umbrella": "Aegis Contracting",
+            "Umbrella ID": "12540631",
+            "VB_NAME": "Aegis Sports Ltd.",
+            "OPERATINGNAME": "Aegis Contracting",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33295",
+            "MEMBERNAME": "Aegis Sports Ltd.",
+            "MEMBEROPERATINGNAME": "Aegis Contracting",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33295",
+            "Umbrella": "Aegis Contracting",
+            "Umbrella ID": "12540631",
+            "VB_NAME": "Aegis Sports Ltd.",
+            "OPERATINGNAME": "Aegis Contracting",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28456",
+            "MEMBERNAME": "Aegis Sports Ltd.",
+            "MEMBEROPERATINGNAME": "Aegis Contracting",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

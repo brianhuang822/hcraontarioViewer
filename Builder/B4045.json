@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B4045",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "625787 Ontario Limited",
+            "OPERATINGNAME": "John Bird Construction",
+            "CITY": "BRIGHTON",
+            "HCRA_INITIALLICENSEDATE": "1985-09-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-10-05 13:00:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "541 Richmond Street, RR 7",
+            "TELEPHONE": "613/391-8118",
+            "FAX": null,
+            "WEBSITEURL": "www.johnbirdconstruction.com",
+            "EMAIL": "jbirdconstruction@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "303189",
+            "TO": "John Bird",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-391-8118"
+        },
+        {
+            "TOUNIQUENUMBER": "303189",
+            "TO": "John Bird",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-391-8118"
+        },
+        {
+            "TOUNIQUENUMBER": "303189",
+            "TO": "John Bird",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-391-8118"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B4045",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "625787 Ontario Limited",
+            "OPERATINGNAME": "John Bird Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

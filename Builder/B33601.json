@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33601",
+            "Umbrella": "Trivest Developments",
+            "Umbrella ID": "11937045",
+            "VB_NAME": "1517508 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "DON MILLS",
+            "HCRA_INITIALLICENSEDATE": "2003-07-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-07-18 12:32:03.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "40 Wynford Dr., Ste. 101",
+            "TELEPHONE": "416-449-4100",
+            "FAX": "416-449-0726",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11722556",
+            "TO": "Richard Cornblum",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4100"
+        },
+        {
+            "TOUNIQUENUMBER": "11722555",
+            "TO": "Louise Cornblum",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-7500"
+        },
+        {
+            "TOUNIQUENUMBER": "306969",
+            "TO": "Murray Cornblum",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33601",
+            "Umbrella": "Trivest Developments",
+            "Umbrella ID": "11937045",
+            "VB_NAME": "1517508 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31720",
+            "MEMBERNAME": "1449939 Ontario Limited",
+            "MEMBEROPERATINGNAME": "North Beach Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33601",
+            "Umbrella": "Trivest Developments",
+            "Umbrella ID": "11937045",
+            "VB_NAME": "1517508 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33601",
+            "MEMBERNAME": "1517508 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33601",
+            "Umbrella": "Trivest Developments",
+            "Umbrella ID": "11937045",
+            "VB_NAME": "1517508 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35357",
+            "MEMBERNAME": "1517509 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

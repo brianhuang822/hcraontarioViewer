@@ -1,0 +1,139 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27880",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "D.Q.I. Design Quorum Incorporated",
+            "OPERATINGNAME": "D.Q.I.",
+            "CITY": "OAKVILLE",
+            "HCRA_INITIALLICENSEDATE": "1999-03-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-04 18:03:50.000 +0000",
+            "Expiry Date": "2024-03-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "447 Kerr St.",
+            "TELEPHONE": "905-339-0223",
+            "FAX": "905-844-5277",
+            "WEBSITEURL": "dqi.ca",
+            "EMAIL": "dqi@dqi.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344403",
+            "TO": "Jonathan Sprawson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-0223"
+        },
+        {
+            "TOUNIQUENUMBER": "344403",
+            "TO": "Jonathan Sprawson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-0223"
+        },
+        {
+            "TOUNIQUENUMBER": "344403",
+            "TO": "Jonathan Sprawson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-0223"
+        },
+        {
+            "TOUNIQUENUMBER": "344777",
+            "TO": "Janice Sprawson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-0223"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27880",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "D.Q.I. Design Quorum Incorporated",
+            "OPERATINGNAME": "D.Q.I.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46805",
+            "MEMBERNAME": "1475649 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27880",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "D.Q.I. Design Quorum Incorporated",
+            "OPERATINGNAME": "D.Q.I.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37895",
+            "MEMBERNAME": "1578443 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27880",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "D.Q.I. Design Quorum Incorporated",
+            "OPERATINGNAME": "D.Q.I.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38361",
+            "MEMBERNAME": "1475649 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Millpond Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27880",
+            "Umbrella": "DQI",
+            "Umbrella ID": "12547706",
+            "VB_NAME": "D.Q.I. Design Quorum Incorporated",
+            "OPERATINGNAME": "D.Q.I.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27880",
+            "MEMBERNAME": "D.Q.I. Design Quorum Incorporated",
+            "MEMBEROPERATINGNAME": "D.Q.I.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "459 Kerr St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-09-04"
+        },
+        {
+            "Condo Project Name": "Kerr Street Studios",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "459 Kerr St",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-03-05"
+        }
+    ],
+    "builderConditions": []
+}

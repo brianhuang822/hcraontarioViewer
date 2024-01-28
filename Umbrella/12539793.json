@@ -1,0 +1,106 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Antonio Pietrorazio",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "15 Tuscani Dr.",
+            "TELEPHONE": "905/643-6023",
+            "FAX": "905/643-6779",
+            "WEBSITEURL": " ",
+            "EMAIL": "marypietrorazio@hotmail.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Abbruzzo Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B10980",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1057993 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26787",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "815504 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25702",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1057993 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36095",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Regal Castle Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19170",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Abruzzo Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B11602",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "815504 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23480",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "815504 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30730",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "LIMERIDGE CONDO",
+            "Account Number": "B19170",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": "870 Upper Wentworth St.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-01-02"
+        },
+        {
+            "Condo Project Name": "416 LIMERIDGE ROAD EAST",
+            "Account Number": "B19170",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": "416 Limeridge Rd. e",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-12-31"
+        }
+    ]
+}

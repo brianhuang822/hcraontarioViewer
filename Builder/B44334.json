@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44334",
+            "Umbrella": "Jackson Homes",
+            "Umbrella ID": "12542615",
+            "VB_NAME": "J.E. Jackson Realty Limited",
+            "OPERATINGNAME": null,
+            "CITY": "St. Paul's Station",
+            "HCRA_INITIALLICENSEDATE": "2015-02-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-04 20:15:38.000 +0000",
+            "Expiry Date": "2025-02-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3447 Road 122",
+            "TELEPHONE": "519-271-1104",
+            "FAX": "519 271-3163",
+            "WEBSITEURL": "www.jacksonhomes.ca",
+            "EMAIL": "alexinn@quadro.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 10,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 10,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "316346",
+            "TO": "Alexander Jackson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-1104"
+        },
+        {
+            "TOUNIQUENUMBER": "316346",
+            "TO": "Alexander Jackson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-1104"
+        },
+        {
+            "TOUNIQUENUMBER": "12429711",
+            "TO": "Julie Jackson Van Nes",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-1104"
+        },
+        {
+            "TOUNIQUENUMBER": "12429711",
+            "TO": "Julie Jackson Van Nes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-1104"
+        },
+        {
+            "TOUNIQUENUMBER": "12429711",
+            "TO": "Julie Jackson Van Nes",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-271-1104"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44334",
+            "Umbrella": "Jackson Homes",
+            "Umbrella ID": "12542615",
+            "VB_NAME": "J.E. Jackson Realty Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B13382",
+            "MEMBERNAME": "A.J. Jackson Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44334",
+            "Umbrella": "Jackson Homes",
+            "Umbrella ID": "12542615",
+            "VB_NAME": "J.E. Jackson Realty Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44334",
+            "MEMBERNAME": "J.E. Jackson Realty Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

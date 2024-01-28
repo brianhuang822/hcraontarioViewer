@@ -1,0 +1,116 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B18921",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Micor Developments Inc.,",
+            "OPERATINGNAME": null,
+            "CITY": "ANCASTER",
+            "HCRA_INITIALLICENSEDATE": "1989-11-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1995-11-29 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "283 Wilson Street East, Suite 337",
+            "TELEPHONE": "(905)527-3933",
+            "FAX": "(905)527-5866",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "307001",
+            "TO": "Michael Corrado",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-730-4699"
+        },
+        {
+            "TOUNIQUENUMBER": "307001",
+            "TO": "Michael Corrado",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-730-4699"
+        },
+        {
+            "TOUNIQUENUMBER": "307001",
+            "TO": "Michael Corrado",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-730-4699"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B18921",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Micor Developments Inc.,",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BUNGALOWS OF ANCASTER PH. II",
+            "Project Status": "Completed",
+            "Location": "ANCASTER",
+            "Address": "810 Golf Links Road, Ph 2",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-02-22"
+        },
+        {
+            "Condo Project Name": "THE BUNGALOWS OF ANCASTER",
+            "Project Status": "Completed",
+            "Location": "ANCASTER",
+            "Address": "20 Meadowlands Blvd.",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-01-19"
+        },
+        {
+            "Condo Project Name": "THE GABLES OF FIDDLERS GREEN",
+            "Project Status": "Completed",
+            "Location": "ANCASTER",
+            "Address": "210 Fiddlers Green",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-03-16"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "In Progress",
+            "Location": "ANCASTER",
+            "Address": "334 Wilson Street West",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47056",
+            "Umbrella": "Doornekamp Group of Companies",
+            "Umbrella ID": "12548252",
+            "VB_NAME": "ABNA Investments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Odessa",
+            "HCRA_INITIALLICENSEDATE": "2018-07-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-07-27 05:00:09.000 +0000",
+            "Expiry Date": "2023-07-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "588 Scotland Road",
+            "TELEPHONE": "613-386-3033",
+            "FAX": "613-386-7450",
+            "WEBSITEURL": " ",
+            "EMAIL": "nate@doornekamp.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100271676",
+            "TO": "Ben Doornekamp",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-386-3033"
+        },
+        {
+            "TOUNIQUENUMBER": "318546",
+            "TO": "Hendrik Doornekamp",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-386-3033"
+        },
+        {
+            "TOUNIQUENUMBER": "318546",
+            "TO": "Hendrik Doornekamp",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-386-3033"
+        },
+        {
+            "TOUNIQUENUMBER": "342364",
+            "TO": "Sheri Doornekamp",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-386-3033"
+        },
+        {
+            "TOUNIQUENUMBER": "342364",
+            "TO": "Sheri Doornekamp",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-386-3033"
+        },
+        {
+            "TOUNIQUENUMBER": "100271675",
+            "TO": "Nathan Doornekamp",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-386-3033"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47056",
+            "Umbrella": "Doornekamp Group of Companies",
+            "Umbrella ID": "12548252",
+            "VB_NAME": "ABNA Investments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47056",
+            "MEMBERNAME": "ABNA Investments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B47056",
+            "Umbrella": "Doornekamp Group of Companies",
+            "Umbrella ID": "12548252",
+            "VB_NAME": "ABNA Investments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44182",
+            "MEMBERNAME": "H.R. Doornekamp Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Gibbard District",
+            "Project Status": "In Progress",
+            "Location": "NAPANEE",
+            "Address": " 88 Dundas St. EAST ",
+            "# of Units": 137,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

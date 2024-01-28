@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11367",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Racing Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Mount Hope",
+            "HCRA_INITIALLICENSEDATE": "1978-10-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-03-01 13:00:19.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9084 Dickenson Rd.",
+            "TELEPHONE": "905-547-8631",
+            "FAX": "905-547-0364",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B11367",
+            "Total Outstanding Amount": 155.04,
+            "TAB": 0,
+            "BREACH": 155.04,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 914.65,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 914.65
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "328071",
+            "TO": "Mario Restauri",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-547-8631"
+        },
+        {
+            "TOUNIQUENUMBER": "328071",
+            "TO": "Mario Restauri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-547-8631"
+        },
+        {
+            "TOUNIQUENUMBER": "328071",
+            "TO": "Mario Restauri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-547-8631"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11367",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Racing Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

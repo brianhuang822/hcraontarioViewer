@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25699",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "T.P.G. Construction (Westheights) Ltd.",
+            "OPERATINGNAME": "The Partner Group",
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1996-06-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-06-25 12:30:49.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 27040",
+            "TELEPHONE": "(519)432-0592",
+            "FAX": "(519)432-0593",
+            "WEBSITEURL": "www.thepartnergroup.on.ca",
+            "EMAIL": "admincon@thepartnergroup.on.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "335882",
+            "TO": "William James Walker",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "319351",
+            "TO": "Ian Needham Lee",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-432-0592"
+        },
+        {
+            "TOUNIQUENUMBER": "319351",
+            "TO": "Ian Needham Lee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-432-0592"
+        },
+        {
+            "TOUNIQUENUMBER": "319351",
+            "TO": "Ian Needham Lee",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-432-0592"
+        },
+        {
+            "TOUNIQUENUMBER": "314126",
+            "TO": "Kenneth Hackett",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-601-6910"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25699",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "T.P.G. Construction (Westheights) Ltd.",
+            "OPERATINGNAME": "The Partner Group",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BLACKHORNE DRIVE CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "230 Blackhorne Dr.",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-08-05"
+        },
+        {
+            "Condo Project Name": "BLACKHORN",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "230 - 238 Blackhorne Drive",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-10-22"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25820",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Caledonia Townhouse Developments Limited",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "1996-08-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-08-27 12:38:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "242 Main St. E.",
+            "TELEPHONE": "(905)575-8686",
+            "FAX": "(905)575-8091",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342085",
+            "TO": "Robert Banting",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "342085",
+            "TO": "Robert Banting",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336296",
+            "TO": "Arthur Weisz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-528-8956"
+        },
+        {
+            "TOUNIQUENUMBER": "336296",
+            "TO": "Arthur Weisz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-528-8956"
+        },
+        {
+            "TOUNIQUENUMBER": "342084",
+            "TO": "Terry Yates",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "342084",
+            "TO": "Terry Yates",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25820",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Caledonia Townhouse Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "MEADOWBROOK GARDENS - PHASE II",
+            "Project Status": "Completed",
+            "Location": "HALDIMAND",
+            "Address": "40 Braemar Ave.",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-04-06"
+        },
+        {
+            "Condo Project Name": "MEADOWBROOK GARDENS",
+            "Project Status": "Completed",
+            "Location": "HALDIMAND",
+            "Address": "30 Braemar Avenue",
+            "# of Units": 37,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-04-08"
+        }
+    ],
+    "builderConditions": []
+}

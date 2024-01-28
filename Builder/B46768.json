@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46768",
+            "Umbrella": "Aoyuan",
+            "Umbrella ID": "12552951",
+            "VB_NAME": "2591260 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2018-06-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-23 19:14:15.000 +0000",
+            "Expiry Date": "2024-06-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Suite 1000 - 5160 Yonge Street",
+            "TELEPHONE": "416-363-6688",
+            "FAX": null,
+            "WEBSITEURL": "www.aoyuaninternational.com",
+            "EMAIL": "yang.fan@aoyuangroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 5,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100492797",
+            "TO": "Ziwen Guo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "85236222122"
+        },
+        {
+            "TOUNIQUENUMBER": "100492797",
+            "TO": "Ziwen Guo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "85236222122"
+        },
+        {
+            "TOUNIQUENUMBER": "100492796",
+            "TO": "Zining Guo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "862038686666"
+        },
+        {
+            "TOUNIQUENUMBER": "100481848",
+            "TO": "Zhibin Chen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "85236222122"
+        },
+        {
+            "TOUNIQUENUMBER": "100481847",
+            "TO": "Fan Yang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-862-3382"
+        },
+        {
+            "TOUNIQUENUMBER": "100481847",
+            "TO": "Fan Yang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-862-3382"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46768",
+            "Umbrella": "Aoyuan",
+            "Umbrella ID": "12552951",
+            "VB_NAME": "2591260 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46768",
+            "MEMBERNAME": "2591260 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46768",
+            "Umbrella": "Aoyuan",
+            "Umbrella ID": "12552951",
+            "VB_NAME": "2591260 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48676",
+            "MEMBERNAME": "2738147 Ontario Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "M2M Condos",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 5799 Yonge Street ",
+            "# of Units": 808,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

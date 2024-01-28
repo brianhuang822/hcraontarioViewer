@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34883",
+            "Umbrella": "1185838 Ontario",
+            "Umbrella ID": "12540045",
+            "VB_NAME": "1185838 Ontario Inc.",
+            "OPERATINGNAME": "Northwest Tim-Br Mart",
+            "CITY": "RED LAKE",
+            "HCRA_INITIALLICENSEDATE": "2004-09-30",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-10-01 15:01:37.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "18 Young St, P.O. Box 312",
+            "TELEPHONE": "807-727-2221",
+            "FAX": "807-727-2211",
+            "WEBSITEURL": null,
+            "EMAIL": "kharland@timbrmart.on.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12025270",
+            "TO": "Kevin Harland",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-727-2221"
+        },
+        {
+            "TOUNIQUENUMBER": "12025270",
+            "TO": "Kevin Harland",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-727-2221"
+        },
+        {
+            "TOUNIQUENUMBER": "12025270",
+            "TO": "Kevin Harland",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-727-2221"
+        },
+        {
+            "TOUNIQUENUMBER": "12026902",
+            "TO": "Margaret Harland",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-727-2221"
+        },
+        {
+            "TOUNIQUENUMBER": "12026902",
+            "TO": "Margaret Harland",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-727-2221"
+        },
+        {
+            "TOUNIQUENUMBER": "12026902",
+            "TO": "Margaret Harland",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-727-2221"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34883",
+            "Umbrella": "1185838 Ontario",
+            "Umbrella ID": "12540045",
+            "VB_NAME": "1185838 Ontario Inc.",
+            "OPERATINGNAME": "Northwest Tim-Br Mart",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41720",
+            "MEMBERNAME": "1185838 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34883",
+            "Umbrella": "1185838 Ontario",
+            "Umbrella ID": "12540045",
+            "VB_NAME": "1185838 Ontario Inc.",
+            "OPERATINGNAME": "Northwest Tim-Br Mart",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34883",
+            "MEMBERNAME": "1185838 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Northwest Tim-Br Mart",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

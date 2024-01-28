@@ -1,0 +1,139 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Greenvilla Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "122 Betty Ann Drive",
+            "TELEPHONE": "905-761-8899",
+            "FAX": "(905)761-8880",
+            "WEBSITEURL": "www.greenvillahomes.com",
+            "EMAIL": "alan.lam@greenvillahomes.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Greenvilla Homes (Thickson) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35819",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Southview Gardens Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25092",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2017509 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Greenvilla Homes",
+            "MEMBERVBNUM": "B33504",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Greenvilla Development Group Inc.",
+            "MEMBEROPERATINGNAME": "Greenvilla Homes",
+            "MEMBERVBNUM": "B26522",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "2419301 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44095",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Greenvilla (Bristol) Development Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33020",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Greenvilla Homes (Cobblestone) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33890",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2008569 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32290",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Sunrise Park",
+            "Account Number": "B35819",
+            "Project Status": null,
+            "Location": "WHITBY",
+            "Address": "110 Oceanpearl Cres.",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "HENDERSON PLACE",
+            "Account Number": "B33504",
+            "Project Status": "Completed",
+            "Location": "AJAX",
+            "Address": "  Gidley Ln./Hirshfield Ln. ",
+            "# of Units": 46,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-06-29"
+        },
+        {
+            "Condo Project Name": "STRATFORD PARK",
+            "Account Number": "B32290",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": " 435 Middlefield Road ",
+            "# of Units": 80,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-11-21"
+        },
+        {
+            "Condo Project Name": "SOUTHVIEW GARDENS",
+            "Account Number": "B25092",
+            "Project Status": "Completed",
+            "Location": "PICKERING",
+            "Address": "1865 Kingston Road",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-01-19"
+        },
+        {
+            "Condo Project Name": "PEAK GARDEN",
+            "Account Number": "B25092",
+            "Project Status": "Completed",
+            "Location": "PICKERING",
+            "Address": "1867 Kingston Road",
+            "# of Units": 51,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-04-14"
+        }
+    ]
+}

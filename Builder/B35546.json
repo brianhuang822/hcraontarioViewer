@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35546",
+            "Umbrella": "Spro Construction",
+            "Umbrella ID": "12540198",
+            "VB_NAME": "Spro Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Sarnia",
+            "HCRA_INITIALLICENSEDATE": "2005-04-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-19 19:57:54.000 +0000",
+            "Expiry Date": "2024-04-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "652 Lakeshore Road",
+            "TELEPHONE": "519-383-8304",
+            "FAX": "519-383-8304",
+            "WEBSITEURL": " ",
+            "EMAIL": "asproviero@cogeco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332078",
+            "TO": "Anthony Sproviero",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-383-8304"
+        },
+        {
+            "TOUNIQUENUMBER": "332078",
+            "TO": "Anthony Sproviero",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-383-8304"
+        },
+        {
+            "TOUNIQUENUMBER": "332078",
+            "TO": "Anthony Sproviero",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-383-8304"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35546",
+            "Umbrella": "Spro Construction",
+            "Umbrella ID": "12540198",
+            "VB_NAME": "Spro Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35546",
+            "MEMBERNAME": "Spro Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B35546",
+            "Umbrella": "Spro Construction",
+            "Umbrella ID": "12540198",
+            "VB_NAME": "Spro Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B15045",
+            "MEMBERNAME": "Spro Construction Ltd..",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

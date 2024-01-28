@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40281",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Old Oak Properties Inc.",
+            "OPERATINGNAME": "Old Oak Properties",
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "2010-03-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-03-25 12:00:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "465 Richmond St., Ste. 600",
+            "TELEPHONE": "519-661-0215",
+            "FAX": "519-439-6572",
+            "WEBSITEURL": "www.oldoakproperties.com",
+            "EMAIL": "gbierbaum@oldoakproperties.com",
+            "ACCOUNTNUMBER": "B40281",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 12,
+            "SUMM_TOTAL": 12,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12398671",
+            "TO": "Ewald Biernbaum",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-661-0215"
+        },
+        {
+            "TOUNIQUENUMBER": "12398676",
+            "TO": "Carol Scott",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-661-0215"
+        },
+        {
+            "TOUNIQUENUMBER": "12398658",
+            "TO": "Gregory Bierbaum",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-661-0215"
+        },
+        {
+            "TOUNIQUENUMBER": "12398658",
+            "TO": "Gregory Bierbaum",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-661-0215"
+        },
+        {
+            "TOUNIQUENUMBER": "12398658",
+            "TO": "Gregory Bierbaum",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-661-0215"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40281",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Old Oak Properties Inc.",
+            "OPERATINGNAME": "Old Oak Properties",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "320 Sugarcreek Trail",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "320 Sugarcreek Trail",
+            "# of Units": 68,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-09-13"
+        },
+        {
+            "Condo Project Name": "340 Sugarcreek Trail",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "340 Sugarcreek Trail",
+            "# of Units": 61,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-07-12"
+        }
+    ],
+    "builderConditions": []
+}

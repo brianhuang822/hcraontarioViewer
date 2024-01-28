@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28415",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Westbrook Development Corporation",
+            "OPERATINGNAME": "Westbrook",
+            "CITY": "BLUE MOUNTAINS",
+            "HCRA_INITIALLICENSEDATE": "1999-08-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-08-14 15:01:07.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Blue Mountain \u2013 Discovery Centre",
+            "TELEPHONE": "514-798-3000",
+            "FAX": "514-798-3000",
+            "WEBSITEURL": "www.villageatblue.com",
+            "EMAIL": "dhilf@intrawest.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345188",
+            "TO": "Lorne Bassel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "345188",
+            "TO": "Lorne Bassel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11683953",
+            "TO": "Craig Watters",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-445-0231"
+        },
+        {
+            "TOUNIQUENUMBER": "11683953",
+            "TO": "Craig Watters",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-445-0231"
+        },
+        {
+            "TOUNIQUENUMBER": "11683956",
+            "TO": "Daryl Martinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313657",
+            "TO": "William R. Green",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-648-6621"
+        },
+        {
+            "TOUNIQUENUMBER": "313657",
+            "TO": "William R. Green",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-648-6621"
+        },
+        {
+            "TOUNIQUENUMBER": "11630931",
+            "TO": "Andrew Hill",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-798-3000"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28415",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Westbrook Development Corporation",
+            "OPERATINGNAME": "Westbrook",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HISTORIC SNOWBRIDGE",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": " 171 Snowbridge Way ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-10-31"
+        },
+        {
+            "Condo Project Name": "HISTORIC SNOWBRIDGE",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "184 Snowbridge",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-02-23"
+        }
+    ],
+    "builderConditions": []
+}

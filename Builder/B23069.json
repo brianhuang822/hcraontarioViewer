@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23069",
+            "Umbrella": "The Maples Of Grimsby",
+            "Umbrella ID": "3470",
+            "VB_NAME": "The Principal Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "GRIMSBY",
+            "HCRA_INITIALLICENSEDATE": "1993-07-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1997-07-15 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "87 Lake St.",
+            "TELEPHONE": "(905)945-9050",
+            "FAX": "(905)945-9995",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "316319",
+            "TO": "Emil Zmenak",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-945-9050"
+        },
+        {
+            "TOUNIQUENUMBER": "316315",
+            "TO": "Carole Zmenak",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-945-9050"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23069",
+            "Umbrella": "The Maples Of Grimsby",
+            "Umbrella ID": "3470",
+            "VB_NAME": "The Principal Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23069",
+            "MEMBERNAME": "The Principal Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23069",
+            "Umbrella": "The Maples Of Grimsby",
+            "Umbrella ID": "3470",
+            "VB_NAME": "The Principal Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25043",
+            "MEMBERNAME": "Wholistic Health Services Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE MAPLES OF GRIMSBY",
+            "Project Status": "Completed",
+            "Location": "GRIMSBY",
+            "Address": "26 Red Haven Drive",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-09-27"
+        },
+        {
+            "Condo Project Name": "MAPLES OF GRIMSBY",
+            "Project Status": "Completed",
+            "Location": "GRIMSBY",
+            "Address": "26 Red Haven Drive",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-05-17"
+        }
+    ],
+    "builderConditions": []
+}

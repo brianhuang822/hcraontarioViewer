@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38806",
+            "Umbrella": "Blue Crescent Developments",
+            "Umbrella ID": "12541122",
+            "VB_NAME": "Blue Crescent Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "DUNDAS",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2009-08-12 22:08:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "50 Morton Ave.",
+            "TELEPHONE": "905-741-6444",
+            "FAX": "905-628-3672",
+            "WEBSITEURL": null,
+            "EMAIL": "bluecrescent@cogeco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12213632",
+            "TO": "Joe Noworyta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-741-6444"
+        },
+        {
+            "TOUNIQUENUMBER": "12213632",
+            "TO": "Joe Noworyta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-741-6444"
+        },
+        {
+            "TOUNIQUENUMBER": "12213632",
+            "TO": "Joe Noworyta",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-741-6444"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38806",
+            "Umbrella": "Blue Crescent Developments",
+            "Umbrella ID": "12541122",
+            "VB_NAME": "Blue Crescent Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B37521",
+            "MEMBERNAME": "Blue Crescent Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B38806",
+            "Umbrella": "Blue Crescent Developments",
+            "Umbrella ID": "12541122",
+            "VB_NAME": "Blue Crescent Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B38806",
+            "MEMBERNAME": "Blue Crescent Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

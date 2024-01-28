@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25925",
+            "Umbrella": "J. Corsi Developments",
+            "Umbrella ID": "12493057",
+            "VB_NAME": "J. Corsi Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Sudbury",
+            "HCRA_INITIALLICENSEDATE": "1996-11-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-10 21:08:52.000 +0000",
+            "Expiry Date": "2024-11-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1360 Kelly Lake Road",
+            "TELEPHONE": "705-522-9096",
+            "FAX": "705-523-1160",
+            "WEBSITEURL": "www.jcorsi.com",
+            "EMAIL": "rcorsi@jcorsi.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 58,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 58,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "307011",
+            "TO": "John Corsi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-522-9096"
+        },
+        {
+            "TOUNIQUENUMBER": "307011",
+            "TO": "John Corsi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-522-9096"
+        },
+        {
+            "TOUNIQUENUMBER": "307011",
+            "TO": "John Corsi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-522-9096"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25925",
+            "Umbrella": "J. Corsi Developments",
+            "Umbrella ID": "12493057",
+            "VB_NAME": "J. Corsi Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25925",
+            "MEMBERNAME": "J. Corsi Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

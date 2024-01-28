@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33224",
+            "Umbrella": "980612 Ontario",
+            "Umbrella ID": "12539923",
+            "VB_NAME": "980612 Ontario Inc.",
+            "OPERATINGNAME": "980612 Ontario Inc.",
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2003-04-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-03 17:47:36.000 +0000",
+            "Expiry Date": "2024-04-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "237 Argyle Avenue",
+            "TELEPHONE": "613-731-7150",
+            "FAX": "613/731-4993",
+            "WEBSITEURL": " ",
+            "EMAIL": "marinogroup@bell.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11675259",
+            "TO": "John W. Jenkins",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-271-1616"
+        },
+        {
+            "TOUNIQUENUMBER": "11675259",
+            "TO": "John W. Jenkins",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-271-1616"
+        },
+        {
+            "TOUNIQUENUMBER": "11675259",
+            "TO": "John W. Jenkins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-271-1616"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33224",
+            "Umbrella": "980612 Ontario",
+            "Umbrella ID": "12539923",
+            "VB_NAME": "980612 Ontario Inc.",
+            "OPERATINGNAME": "980612 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31178",
+            "MEMBERNAME": "980612 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33224",
+            "Umbrella": "980612 Ontario",
+            "Umbrella ID": "12539923",
+            "VB_NAME": "980612 Ontario Inc.",
+            "OPERATINGNAME": "980612 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33224",
+            "MEMBERNAME": "980612 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "980612 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

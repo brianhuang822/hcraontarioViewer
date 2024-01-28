@@ -1,0 +1,165 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39367",
+            "Umbrella": "Ashley Group",
+            "Umbrella ID": "12390303",
+            "VB_NAME": "Ashley Oaks Emporium Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "2008-12-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-12-13 13:01:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "918 Dundas St. E., Ste. 500",
+            "TELEPHONE": "905-276-9980",
+            "FAX": "905-276-9957",
+            "WEBSITEURL": "www.emporiumcondominiums.com",
+            "EMAIL": "aohmain@ashleyoakshomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 250,
+            "SUMM_TOTAL": 250,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "315009",
+            "TO": "Janko Herak",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-276-9980"
+        },
+        {
+            "TOUNIQUENUMBER": "315009",
+            "TO": "Janko Herak",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-276-9980"
+        },
+        {
+            "TOUNIQUENUMBER": "315009",
+            "TO": "Janko Herak",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-276-9980"
+        },
+        {
+            "TOUNIQUENUMBER": "335746",
+            "TO": "Dragutin Vuckovic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-276-9980"
+        },
+        {
+            "TOUNIQUENUMBER": "335746",
+            "TO": "Dragutin Vuckovic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-276-9980"
+        },
+        {
+            "TOUNIQUENUMBER": "335746",
+            "TO": "Dragutin Vuckovic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-276-9980"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39367",
+            "Umbrella": "Ashley Group",
+            "Umbrella ID": "12390303",
+            "VB_NAME": "Ashley Oaks Emporium Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44470",
+            "MEMBERNAME": "Ashley Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39367",
+            "Umbrella": "Ashley Group",
+            "Umbrella ID": "12390303",
+            "VB_NAME": "Ashley Oaks Emporium Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39367",
+            "MEMBERNAME": "Ashley Oaks Emporium Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39367",
+            "Umbrella": "Ashley Group",
+            "Umbrella ID": "12390303",
+            "VB_NAME": "Ashley Oaks Emporium Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B7731",
+            "MEMBERNAME": "Ashley Oaks Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39367",
+            "Umbrella": "Ashley Group",
+            "Umbrella ID": "12390303",
+            "VB_NAME": "Ashley Oaks Emporium Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48249",
+            "MEMBERNAME": "Ashley Family Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39367",
+            "Umbrella": "Ashley Group",
+            "Umbrella ID": "12390303",
+            "VB_NAME": "Ashley Oaks Emporium Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25197",
+            "MEMBERNAME": "Ashley Oaks Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Emporium at Joshua Creek",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "2460/2480 Prince Michael Drive",
+            "# of Units": 270,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-03-06"
+        },
+        {
+            "Condo Project Name": "Emporium at Joshua Creek",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "2460/2470 Prince Michael Dr.",
+            "# of Units": 165,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-02-09"
+        }
+    ],
+    "builderConditions": []
+}

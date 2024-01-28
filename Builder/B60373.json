@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60373",
+            "Umbrella": "Urbanquest Group of Companies",
+            "Umbrella ID": "12540984",
+            "VB_NAME": "2816315 Ontario Limited",
+            "OPERATINGNAME": "2816315 Ontario Limited",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-07-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-19 13:32:27.000 +0000",
+            "Expiry Date": "2024-07-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1 Old Park Road",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "glen@urbanquestinc.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600007600",
+            "TO": "Shawn Bank",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-684-4724"
+        },
+        {
+            "TOUNIQUENUMBER": "600007600",
+            "TO": "Shawn Bank",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-684-4724"
+        },
+        {
+            "TOUNIQUENUMBER": "343454",
+            "TO": "Glenmorris Cohen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-480-2001"
+        },
+        {
+            "TOUNIQUENUMBER": "343454",
+            "TO": "Glenmorris Cohen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-480-2001"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60373",
+            "Umbrella": "Urbanquest Group of Companies",
+            "Umbrella ID": "12540984",
+            "VB_NAME": "2816315 Ontario Limited",
+            "OPERATINGNAME": "2816315 Ontario Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45435",
+            "MEMBERNAME": "2301885 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2301885 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60373",
+            "Umbrella": "Urbanquest Group of Companies",
+            "Umbrella ID": "12540984",
+            "VB_NAME": "2816315 Ontario Limited",
+            "OPERATINGNAME": "2816315 Ontario Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43366",
+            "MEMBERNAME": "Urbanquest Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60373",
+            "Umbrella": "Urbanquest Group of Companies",
+            "Umbrella ID": "12540984",
+            "VB_NAME": "2816315 Ontario Limited",
+            "OPERATINGNAME": "2816315 Ontario Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60373",
+            "MEMBERNAME": "2816315 Ontario Limited",
+            "MEMBEROPERATINGNAME": "2816315 Ontario Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60373",
+            "Umbrella": "Urbanquest Group of Companies",
+            "Umbrella ID": "12540984",
+            "VB_NAME": "2816315 Ontario Limited",
+            "OPERATINGNAME": "2816315 Ontario Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38006",
+            "MEMBERNAME": "Urbanquest Incorporated",
+            "MEMBEROPERATINGNAME": "Urbanquest",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Wenderly Woods",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": " 111 Wenderly Dr. and 746-748 Marlee Ave. ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

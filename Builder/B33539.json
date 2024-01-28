@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33539",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bogdanovic Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Kincardine",
+            "HCRA_INITIALLICENSEDATE": "2003-07-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-09 19:31:22.000 +0000",
+            "Expiry Date": "2024-07-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "808 Park Place",
+            "TELEPHONE": "519-396-9090",
+            "FAX": "519-396-6302",
+            "WEBSITEURL": " ",
+            "EMAIL": "bhomes@bmts.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 135,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 135,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 3480,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3480
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344681",
+            "TO": "Sreten (Steve) Bogdanovic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-396-9090"
+        },
+        {
+            "TOUNIQUENUMBER": "344681",
+            "TO": "Sreten (Steve) Bogdanovic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-396-9090"
+        },
+        {
+            "TOUNIQUENUMBER": "344681",
+            "TO": "Sreten (Steve) Bogdanovic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-396-9090"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33539",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bogdanovic Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

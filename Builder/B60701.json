@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60701",
+            "Umbrella": "Nine Arch Group",
+            "Umbrella ID": "500000854",
+            "VB_NAME": "Brighton Breeze Ltd.",
+            "OPERATINGNAME": "Brighton Breeze Ltd.",
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2021-10-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-01 02:24:24.000 +0000",
+            "Expiry Date": "2024-10-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "22 Windridge Drive",
+            "TELEPHONE": "416-274-3050",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "raj.sivanandarajah@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600005644",
+            "TO": "Sivarajan (Raj) Sivanandarajah",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-274-3050"
+        },
+        {
+            "TOUNIQUENUMBER": "600005644",
+            "TO": "Sivarajan (Raj) Sivanandarajah",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-274-3050"
+        },
+        {
+            "TOUNIQUENUMBER": "600005644",
+            "TO": "Sivarajan (Raj) Sivanandarajah",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-274-3050"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60701",
+            "Umbrella": "Nine Arch Group",
+            "Umbrella ID": "500000854",
+            "VB_NAME": "Brighton Breeze Ltd.",
+            "OPERATINGNAME": "Brighton Breeze Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60701",
+            "MEMBERNAME": "Brighton Breeze Ltd.",
+            "MEMBEROPERATINGNAME": "Brighton Breeze Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Brighton Breeze Condominium",
+            "Project Status": "In Progress",
+            "Location": "BRIGHTON",
+            "Address": " 101 Harbour St ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

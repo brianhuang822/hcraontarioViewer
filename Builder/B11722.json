@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11722",
+            "Umbrella": "Mercedes Homes",
+            "Umbrella ID": "11797455",
+            "VB_NAME": "Caroga Manor Development Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "1984-08-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-09-10 15:01:07.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "100 Beddoe St., Unit 85",
+            "TELEPHONE": "(905)572-1801",
+            "FAX": "(905)628-7800",
+            "WEBSITEURL": "www.merchomes.com",
+            "EMAIL": "lszpirglas@cogeco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12031500",
+            "TO": "Bertha Frankel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-7798"
+        },
+        {
+            "TOUNIQUENUMBER": "12031500",
+            "TO": "Bertha Frankel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-7798"
+        },
+        {
+            "TOUNIQUENUMBER": "12031500",
+            "TO": "Bertha Frankel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-7798"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11722",
+            "Umbrella": "Mercedes Homes",
+            "Umbrella ID": "11797455",
+            "VB_NAME": "Caroga Manor Development Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17017",
+            "MEMBERNAME": "770432 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Mercedes Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B11722",
+            "Umbrella": "Mercedes Homes",
+            "Umbrella ID": "11797455",
+            "VB_NAME": "Caroga Manor Development Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11722",
+            "MEMBERNAME": "Caroga Manor Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": "51 Caroga Crt.",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1986-04-17"
+        }
+    ],
+    "builderConditions": []
+}

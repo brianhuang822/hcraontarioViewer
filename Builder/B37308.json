@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37308",
+            "Umbrella": "Lansen Homes",
+            "Umbrella ID": "12540936",
+            "VB_NAME": "1501233 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "NEWMARKET",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2007-05-28 20:28:20.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3683 Vivian Rd.",
+            "TELEPHONE": "905-727-6116",
+            "FAX": "905-727-6110",
+            "WEBSITEURL": null,
+            "EMAIL": "alain_senecal@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11850854",
+            "TO": "Alain Senecal",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11850854",
+            "TO": "Alain Senecal",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11850854",
+            "TO": "Alain Senecal",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37308",
+            "Umbrella": "Lansen Homes",
+            "Umbrella ID": "12540936",
+            "VB_NAME": "1501233 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B37308",
+            "MEMBERNAME": "1501233 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B37308",
+            "Umbrella": "Lansen Homes",
+            "Umbrella ID": "12540936",
+            "VB_NAME": "1501233 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B32953",
+            "MEMBERNAME": "2017841 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Lansen Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

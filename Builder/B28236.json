@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28236",
+            "Umbrella": "Sperry Contracting",
+            "Umbrella ID": "12539774",
+            "VB_NAME": "Sperry Contracting Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Ennismore",
+            "HCRA_INITIALLICENSEDATE": "1999-07-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-06 13:07:55.000 +0000",
+            "Expiry Date": "2024-07-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1432 Eastview Drive",
+            "TELEPHONE": "705-292-6060",
+            "FAX": "705-292-6714",
+            "WEBSITEURL": " ",
+            "EMAIL": "sperrycon@nexicom.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344912",
+            "TO": "Gregory Gilbert Sperry",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-292-6060"
+        },
+        {
+            "TOUNIQUENUMBER": "344912",
+            "TO": "Gregory Gilbert Sperry",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-292-6060"
+        },
+        {
+            "TOUNIQUENUMBER": "344912",
+            "TO": "Gregory Gilbert Sperry",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-292-6060"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28236",
+            "Umbrella": "Sperry Contracting",
+            "Umbrella ID": "12539774",
+            "VB_NAME": "Sperry Contracting Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28236",
+            "MEMBERNAME": "Sperry Contracting Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

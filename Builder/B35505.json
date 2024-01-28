@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35505",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2035482 Ontario Inc.",
+            "OPERATINGNAME": "SACA",
+            "CITY": "Casselman",
+            "HCRA_INITIALLICENSEDATE": "2005-07-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-29 14:15:20.000 +0000",
+            "Expiry Date": "2024-07-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1318 Baker Road",
+            "TELEPHONE": "613-443-2206",
+            "FAX": "613-443-3617",
+            "WEBSITEURL": "sacahomes.ca",
+            "EMAIL": "jocelyn@sacahomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 516,
+            "SUMM_CONDO": 14,
+            "SUMM_TOTAL": 530,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12073343",
+            "TO": "Jocelyn Cayer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-913-2547"
+        },
+        {
+            "TOUNIQUENUMBER": "12073343",
+            "TO": "Jocelyn Cayer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-913-2547"
+        },
+        {
+            "TOUNIQUENUMBER": "12073343",
+            "TO": "Jocelyn Cayer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-913-2547"
+        },
+        {
+            "TOUNIQUENUMBER": "12073344",
+            "TO": "Stephane Savage",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-818-6233"
+        },
+        {
+            "TOUNIQUENUMBER": "12073344",
+            "TO": "Stephane Savage",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-818-6233"
+        },
+        {
+            "TOUNIQUENUMBER": "12073344",
+            "TO": "Stephane Savage",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-818-6233"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35505",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2035482 Ontario Inc.",
+            "OPERATINGNAME": "SACA",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "EMMA",
+            "Project Status": "Completed",
+            "Location": "EMBRUN",
+            "Address": " 271 Belfort Str. ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-09-30"
+        }
+    ],
+    "builderConditions": []
+}

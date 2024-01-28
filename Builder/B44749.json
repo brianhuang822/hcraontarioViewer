@@ -1,0 +1,174 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44749",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Centre Point) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Pickering",
+            "HCRA_INITIALLICENSEDATE": "2015-11-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-04-17 16:01:16.000 +0000",
+            "Expiry Date": "2021-11-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1295 Wharf Street, Unit 9",
+            "TELEPHONE": "905-420-1500",
+            "FAX": "905-420-1600",
+            "WEBSITEURL": "marshallhomes.ca",
+            "EMAIL": "sue@marshallhomes.ca",
+            "ACCOUNTNUMBER": "B44749",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 136,
+            "SUMM_TOTAL": 136,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 14100,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 14100
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100649490",
+            "TO": "Sue Puddy",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-420-1500"
+        },
+        {
+            "TOUNIQUENUMBER": "100324965",
+            "TO": "Christine Mattear",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "300749",
+            "TO": "James Alexander Aird",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-598-2129"
+        },
+        {
+            "TOUNIQUENUMBER": "300749",
+            "TO": "James Alexander Aird",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-598-2129"
+        },
+        {
+            "TOUNIQUENUMBER": "100324966",
+            "TO": "Dugald Wells",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-420-1500"
+        },
+        {
+            "TOUNIQUENUMBER": "338504",
+            "TO": "Craig Marshall",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-420-1500"
+        },
+        {
+            "TOUNIQUENUMBER": "338504",
+            "TO": "Craig Marshall",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-420-1500"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44749",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Centre Point) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22943",
+            "MEMBERNAME": "Marshall Homes Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44749",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Centre Point) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60453",
+            "MEMBERNAME": "Marshall Homes (Cobourg) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44749",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Centre Point) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33385",
+            "MEMBERNAME": "Marshall Homes (Village) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44749",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Centre Point) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36141",
+            "MEMBERNAME": "Port 32 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44749",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Centre Point) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44749",
+            "MEMBERNAME": "Marshall Homes (Centre Point) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44749",
+            "Umbrella": "Marshall Homes",
+            "Umbrella ID": "11919345",
+            "VB_NAME": "Marshall Homes (Centre Point) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46653",
+            "MEMBERNAME": "Marshall Homes (Altona) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Centre Point Towns",
+            "Project Status": "Completed",
+            "Location": "PICKERING",
+            "Address": " 1555-1575 Kingston Rd. ",
+            "# of Units": 136,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-08-22"
+        }
+    ],
+    "builderConditions": []
+}

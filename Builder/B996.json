@@ -1,0 +1,176 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B996",
+            "Umbrella": "Uniform Urban Developments",
+            "Umbrella ID": "12136532",
+            "VB_NAME": "Uniform Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "NEPEAN",
+            "HCRA_INITIALLICENSEDATE": "1985-06-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1994-07-22 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "117 Centrepointe Dr. Ste. 300",
+            "TELEPHONE": "(613)225-0770",
+            "FAX": "(613)723-1675",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332346",
+            "TO": "Walter Stenger",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332346",
+            "TO": "Walter Stenger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332346",
+            "TO": "Walter Stenger",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332344",
+            "TO": "Friedl Stenger",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332344",
+            "TO": "Friedl Stenger",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332344",
+            "TO": "Friedl Stenger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "320567",
+            "TO": "John MacDougall",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-225-0770"
+        },
+        {
+            "TOUNIQUENUMBER": "320567",
+            "TO": "John MacDougall",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-225-0770"
+        },
+        {
+            "TOUNIQUENUMBER": "332345",
+            "TO": "Peter Stenger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-225-0770"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B996",
+            "Umbrella": "Uniform Urban Developments",
+            "Umbrella ID": "12136532",
+            "VB_NAME": "Uniform Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B62403",
+            "MEMBERNAME": "Uniform March Road Ltd.",
+            "MEMBEROPERATINGNAME": "Uniform March Road Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B996",
+            "Umbrella": "Uniform Urban Developments",
+            "Umbrella ID": "12136532",
+            "VB_NAME": "Uniform Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26576",
+            "MEMBERNAME": "Uniform Urban Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B996",
+            "Umbrella": "Uniform Urban Developments",
+            "Umbrella ID": "12136532",
+            "VB_NAME": "Uniform Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35655",
+            "MEMBERNAME": "MacKay House Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B996",
+            "Umbrella": "Uniform Urban Developments",
+            "Umbrella ID": "12136532",
+            "VB_NAME": "Uniform Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B996",
+            "MEMBERNAME": "Uniform Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B996",
+            "Umbrella": "Uniform Urban Developments",
+            "Umbrella ID": "12136532",
+            "VB_NAME": "Uniform Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47209",
+            "MEMBERNAME": "115 Echo Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "EMERSON AVENUE APARTMENT",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "44 Emmerson Ave",
+            "# of Units": 37,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-03-01"
+        }
+    ],
+    "builderConditions": []
+}

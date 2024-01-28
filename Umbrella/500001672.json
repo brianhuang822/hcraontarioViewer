@@ -1,0 +1,65 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Lorenzo Developments",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "336 Sheppard Avenue East",
+            "TELEPHONE": "647-871-4988",
+            "FAX": null,
+            "WEBSITEURL": "https://www.lorenzodevelopments.com",
+            "EMAIL": "info@lorenzodevelopments.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "2484508 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46530",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "3471 Sheppard Developments Inc.",
+            "MEMBEROPERATINGNAME": "3471 Sheppard Developments Inc.",
+            "MEMBERVBNUM": "B61249",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Lorenzo Developments Inc.",
+            "MEMBEROPERATINGNAME": "Lorenzo Developments",
+            "MEMBERVBNUM": "B61841",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Sheppard Heights",
+            "Account Number": "B61249",
+            "Project Status": null,
+            "Location": "SCARBOROUGH",
+            "Address": " 3459-3471 Sheppard Avenue East ",
+            "# of Units": 201,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ]
+}

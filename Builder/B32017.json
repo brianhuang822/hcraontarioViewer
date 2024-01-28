@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32017",
+            "Umbrella": "Fran-Terra Enterprises",
+            "Umbrella ID": "12540872",
+            "VB_NAME": "Fran-Terra Enterprises Limited",
+            "OPERATINGNAME": null,
+            "CITY": "PERTH ROAD",
+            "HCRA_INITIALLICENSEDATE": "2002-01-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-01-12 13:30:47.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4462 Wilmer Rd.",
+            "TELEPHONE": "613-376-3448",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "Joanandlen@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "322074",
+            "TO": "Leonard F. McCullough",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "322074",
+            "TO": "Leonard F. McCullough",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "322074",
+            "TO": "Leonard F. McCullough",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32017",
+            "Umbrella": "Fran-Terra Enterprises",
+            "Umbrella ID": "12540872",
+            "VB_NAME": "Fran-Terra Enterprises Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32017",
+            "MEMBERNAME": "Fran-Terra Enterprises Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32017",
+            "Umbrella": "Fran-Terra Enterprises",
+            "Umbrella ID": "12540872",
+            "VB_NAME": "Fran-Terra Enterprises Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B3544",
+            "MEMBERNAME": "Fran-Terra Enterprises Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,95 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43765",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2006536 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Barrie",
+            "HCRA_INITIALLICENSEDATE": "2014-08-14",
+            "LICENCE_STATUS": "Licensed with Conditions",
+            "HCRA_LICENSERENEWEDON": "2023-08-10 21:05:50.000 +0000",
+            "Expiry Date": "2024-08-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "190 Minet's Point Road",
+            "TELEPHONE": "416-315-4579",
+            "FAX": "705-792-1107",
+            "WEBSITEURL": "www.mystonegate.ca",
+            "EMAIL": "advance@rogers.com",
+            "ACCOUNTNUMBER": "B43765",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 21,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 21,
+            "SUMM_CC": 5,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 21089.53,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 21089.53
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100233769",
+            "TO": "Joseph Santos",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-315-4579"
+        },
+        {
+            "TOUNIQUENUMBER": "100233769",
+            "TO": "Joseph Santos",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-315-4579"
+        },
+        {
+            "TOUNIQUENUMBER": "100233769",
+            "TO": "Joseph Santos",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-315-4579"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43765",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2006536 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed with Conditions",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Stonegate Town Manors",
+            "Project Status": null,
+            "Location": "BARRIE",
+            "Address": "376 Blake St.",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": [
+        {
+            "HCRA_DESCRIPTION": "You agree to hire a B19 Field Review Consultant for the\u00a0aforementioned condominium\u00a0project. You must notify Tarion of your chosen Field Review Consultant in writing\u00a0at least 30 days prior\u00a0to the commencement of construction.",
+            "HCRA_EFFECTIVEDATE": null
+        },
+        {
+            "HCRA_DESCRIPTION": "\u00a0You agree to hire a\u00a0Geotechnical Design Consultant\u00a0for the abovementioned condominium project. You must notify Tarion of your chosen\u00a0Geotechnical\u00a0Design Consultant\u00a0in writing\u00a0at least 30 days prior\u00a0to the commencement of construction",
+            "HCRA_EFFECTIVEDATE": null
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45902",
+            "Umbrella": "Polocorp",
+            "Umbrella ID": "500000939",
+            "VB_NAME": "Barra On Queen Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "KItchener",
+            "HCRA_INITIALLICENSEDATE": "2017-05-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-05-24 04:15:21.000 +0000",
+            "Expiry Date": "2022-05-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "379 Queen Street South",
+            "TELEPHONE": "519-745-3249",
+            "FAX": "519-208-3004",
+            "WEBSITEURL": "www.polocorpinc.com",
+            "EMAIL": "mike@polocorpinc.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 110,
+            "SUMM_TOTAL": 110,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100418476",
+            "TO": "Louise Puopolo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        },
+        {
+            "TOUNIQUENUMBER": "100418476",
+            "TO": "Louise Puopolo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        },
+        {
+            "TOUNIQUENUMBER": "100418474",
+            "TO": "Paul Puopolo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        },
+        {
+            "TOUNIQUENUMBER": "100418474",
+            "TO": "Paul Puopolo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45902",
+            "Umbrella": "Polocorp",
+            "Umbrella ID": "500000939",
+            "VB_NAME": "Barra On Queen Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45902",
+            "MEMBERNAME": "Barra On Queen Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45902",
+            "Umbrella": "Polocorp",
+            "Umbrella ID": "500000939",
+            "VB_NAME": "Barra On Queen Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60750",
+            "MEMBERNAME": "Polocorp Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Barra on Queen",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 399-411 Queen St. S. And 168-180 Benton St. ",
+            "# of Units": 110,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-07-09"
+        }
+    ],
+    "builderConditions": []
+}

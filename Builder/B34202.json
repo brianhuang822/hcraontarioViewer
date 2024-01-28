@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34202",
+            "Umbrella": "Bluewater Homes",
+            "Umbrella ID": "12254269",
+            "VB_NAME": "Bluewater Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "WASAGA BEACH",
+            "HCRA_INITIALLICENSEDATE": "2004-03-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-03-02 14:30:57.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4 Fatima Crt.",
+            "TELEPHONE": "705-429-1084",
+            "FAX": "705-429-1084",
+            "WEBSITEURL": null,
+            "EMAIL": "bluewaterhome@yahoo.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11987852",
+            "TO": "Neil Watt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-793-3882"
+        },
+        {
+            "TOUNIQUENUMBER": "11964056",
+            "TO": "Jose (Joey) Brum",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-429-1084"
+        },
+        {
+            "TOUNIQUENUMBER": "11964056",
+            "TO": "Jose (Joey) Brum",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-429-1084"
+        },
+        {
+            "TOUNIQUENUMBER": "11964056",
+            "TO": "Jose (Joey) Brum",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-429-1084"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34202",
+            "Umbrella": "Bluewater Homes",
+            "Umbrella ID": "12254269",
+            "VB_NAME": "Bluewater Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34202",
+            "MEMBERNAME": "Bluewater Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34202",
+            "Umbrella": "Bluewater Homes",
+            "Umbrella ID": "12254269",
+            "VB_NAME": "Bluewater Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38092",
+            "MEMBERNAME": "Blue Realty Company Inc.",
+            "MEMBEROPERATINGNAME": "Bluewater Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

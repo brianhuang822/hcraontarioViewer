@@ -1,0 +1,162 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34187",
+            "Umbrella": "Southbrook Homes",
+            "Umbrella ID": "11908278",
+            "VB_NAME": "2031110 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "VAUGHAN",
+            "HCRA_INITIALLICENSEDATE": "2004-09-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-09-14 13:32:04.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7611 Pine Valley Dr., Unit 31",
+            "TELEPHONE": "905-850-7864",
+            "FAX": "905-850-5805",
+            "WEBSITEURL": null,
+            "EMAIL": "gdisanto@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11882356",
+            "TO": "Robert Nicolucci",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-738-3177"
+        },
+        {
+            "TOUNIQUENUMBER": "344019",
+            "TO": "Gennaro DiSanto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-303-3026"
+        },
+        {
+            "TOUNIQUENUMBER": "344019",
+            "TO": "Gennaro DiSanto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-303-3026"
+        },
+        {
+            "TOUNIQUENUMBER": "344019",
+            "TO": "Gennaro DiSanto",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-303-3026"
+        },
+        {
+            "TOUNIQUENUMBER": "11882357",
+            "TO": "Daniele Santilli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-9161"
+        },
+        {
+            "TOUNIQUENUMBER": "11882357",
+            "TO": "Daniele Santilli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-9161"
+        },
+        {
+            "TOUNIQUENUMBER": "11882357",
+            "TO": "Daniele Santilli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-9161"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34187",
+            "Umbrella": "Southbrook Homes",
+            "Umbrella ID": "11908278",
+            "VB_NAME": "2031110 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33437",
+            "MEMBERNAME": "Southbrook Homes (Georgetown) Inc.",
+            "MEMBEROPERATINGNAME": "Southbrook Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34187",
+            "Umbrella": "Southbrook Homes",
+            "Umbrella ID": "11908278",
+            "VB_NAME": "2031110 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34187",
+            "MEMBERNAME": "2031110 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34187",
+            "Umbrella": "Southbrook Homes",
+            "Umbrella ID": "11908278",
+            "VB_NAME": "2031110 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38707",
+            "MEMBERNAME": "2015429 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34187",
+            "Umbrella": "Southbrook Homes",
+            "Umbrella ID": "11908278",
+            "VB_NAME": "2031110 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33262",
+            "MEMBERNAME": "Southbrook Homes Inc.",
+            "MEMBEROPERATINGNAME": "Southbrook Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34187",
+            "Umbrella": "Southbrook Homes",
+            "Umbrella ID": "11908278",
+            "VB_NAME": "2031110 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33918",
+            "MEMBERNAME": "2015429 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Wynds of Wasaga",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE RESIDENCES OF 581 SCARLETT ROAD",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": " 581 Scarlett Rd ",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-05-03"
+        }
+    ],
+    "builderConditions": []
+}

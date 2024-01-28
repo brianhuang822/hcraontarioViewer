@@ -1,0 +1,158 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44032",
+            "Umbrella": "Armour Heights Developments",
+            "Umbrella ID": "11906284",
+            "VB_NAME": "Bond Crescent GP Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "VAUGHAN",
+            "HCRA_INITIALLICENSEDATE": "2014-10-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-10-09 13:00:04.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "81 Zenway Blvd., Unit 24",
+            "TELEPHONE": "905/303-7800",
+            "FAX": "905/856-7807",
+            "WEBSITEURL": "www.armourhd.com",
+            "EMAIL": "marisa@armourhd.com",
+            "ACCOUNTNUMBER": "B44032",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 97,
+            "SUMM_TOTAL": 97,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "321914",
+            "TO": "Frank Mazzotta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-303-7800"
+        },
+        {
+            "TOUNIQUENUMBER": "321914",
+            "TO": "Frank Mazzotta",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-303-7800"
+        },
+        {
+            "TOUNIQUENUMBER": "321914",
+            "TO": "Frank Mazzotta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-303-7800"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44032",
+            "Umbrella": "Armour Heights Developments",
+            "Umbrella ID": "11906284",
+            "VB_NAME": "Bond Crescent GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36348",
+            "MEMBERNAME": "2294 Major Mackenzie Ltd.",
+            "MEMBEROPERATINGNAME": "Major Mackenzie",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44032",
+            "Umbrella": "Armour Heights Developments",
+            "Umbrella ID": "11906284",
+            "VB_NAME": "Bond Crescent GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33264",
+            "MEMBERNAME": "9519 Keele Street Ltd.",
+            "MEMBEROPERATINGNAME": "The Amalfi",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44032",
+            "Umbrella": "Armour Heights Developments",
+            "Umbrella ID": "11906284",
+            "VB_NAME": "Bond Crescent GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60113",
+            "MEMBERNAME": "Elbay Developments Inc.",
+            "MEMBEROPERATINGNAME": "Elbay Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44032",
+            "Umbrella": "Armour Heights Developments",
+            "Umbrella ID": "11906284",
+            "VB_NAME": "Bond Crescent GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24076",
+            "MEMBERNAME": "Armour Heights Developments Inc.",
+            "MEMBEROPERATINGNAME": "Armour Heights Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44032",
+            "Umbrella": "Armour Heights Developments",
+            "Umbrella ID": "11906284",
+            "VB_NAME": "Bond Crescent GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38057",
+            "MEMBERNAME": "River's Edge Bolton Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44032",
+            "Umbrella": "Armour Heights Developments",
+            "Umbrella ID": "11906284",
+            "VB_NAME": "Bond Crescent GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44032",
+            "MEMBERNAME": "Bond Crescent GP Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44032",
+            "Umbrella": "Armour Heights Developments",
+            "Umbrella ID": "11906284",
+            "VB_NAME": "Bond Crescent GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48252",
+            "MEMBERNAME": "Hazelton On The Avenue Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Sorrento",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "7 Bond Cres.",
+            "# of Units": 97,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-10-10"
+        }
+    ],
+    "builderConditions": []
+}

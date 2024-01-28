@@ -1,0 +1,114 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32526",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Beeches Development Inc.",
+            "OPERATINGNAME": "The Beeches",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2002-07-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-07-13 15:02:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "c/o Firstbrook, Cassie and Anderson",
+            "TELEPHONE": "416-486-1412",
+            "FAX": "416-4867035",
+            "WEBSITEURL": "www.thebeeches.ca",
+            "EMAIL": "anderson@fcainsurance.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11797568",
+            "TO": "Donald G. Anderson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-486-1421"
+        },
+        {
+            "TOUNIQUENUMBER": "11797568",
+            "TO": "Donald G. Anderson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-486-1421"
+        },
+        {
+            "TOUNIQUENUMBER": "11797568",
+            "TO": "Donald G. Anderson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-486-1421"
+        },
+        {
+            "TOUNIQUENUMBER": "342358",
+            "TO": "Charles Goldsmith",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-708-7030"
+        },
+        {
+            "TOUNIQUENUMBER": "342358",
+            "TO": "Charles Goldsmith",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-708-7030"
+        },
+        {
+            "TOUNIQUENUMBER": "342358",
+            "TO": "Charles Goldsmith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-708-7030"
+        },
+        {
+            "TOUNIQUENUMBER": "342387",
+            "TO": "Paul Allen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-457-7112"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32526",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Beeches Development Inc.",
+            "OPERATINGNAME": "The Beeches",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE BEECHES",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 1 Lawlor Ave ",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-02-21"
+        }
+    ],
+    "builderConditions": []
+}

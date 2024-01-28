@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9049",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Heritage North Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "WESTON",
+            "HCRA_INITIALLICENSEDATE": "1987-08-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1991-02-02 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5109 Steeles Ave.W Suite 206",
+            "TELEPHONE": "(416)746-3752",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "312626",
+            "TO": "Peter Giannotti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-736-3752"
+        },
+        {
+            "TOUNIQUENUMBER": "319180",
+            "TO": "Eric Lawton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-746-3752"
+        },
+        {
+            "TOUNIQUENUMBER": "335047",
+            "TO": "Peter Vanderkooij",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "319179",
+            "TO": "Bruce Lawton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9049",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Heritage North Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "MAIN ST. CONDO",
+            "Project Status": "Completed",
+            "Location": "NEWMARKET",
+            "Address": "155 Main St.n",
+            "# of Units": 126,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-03-23"
+        }
+    ],
+    "builderConditions": []
+}

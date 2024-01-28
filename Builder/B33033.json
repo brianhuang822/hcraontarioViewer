@@ -1,0 +1,126 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33033",
+            "Umbrella": "Hardrock Group of Companies",
+            "Umbrella ID": "12095998",
+            "VB_NAME": "The Bloorington Inc.",
+            "OPERATINGNAME": "Kingswood On Bloor",
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2003-07-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-07-15 15:01:35.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5289 Hwy. 7, Unit 7, P.O. Box 56569",
+            "TELEPHONE": "905-669-5151",
+            "FAX": "905-669-1498",
+            "WEBSITEURL": null,
+            "EMAIL": "lou@quadrainc.ca",
+            "ACCOUNTNUMBER": "B33033",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11880431",
+            "TO": "Luciano Drigo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11862425",
+            "TO": "Luciano Di Carlo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-5151"
+        },
+        {
+            "TOUNIQUENUMBER": "11862425",
+            "TO": "Luciano Di Carlo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-5151"
+        },
+        {
+            "TOUNIQUENUMBER": "11880429",
+            "TO": "Ernesto Drigo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11880429",
+            "TO": "Ernesto Drigo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11690490",
+            "TO": "Danilo Cesana",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-624-2782"
+        },
+        {
+            "TOUNIQUENUMBER": "11690490",
+            "TO": "Danilo Cesana",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-624-2782"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33033",
+            "Umbrella": "Hardrock Group of Companies",
+            "Umbrella ID": "12095998",
+            "VB_NAME": "The Bloorington Inc.",
+            "OPERATINGNAME": "Kingswood On Bloor",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33033",
+            "MEMBERNAME": "The Bloorington Inc.",
+            "MEMBEROPERATINGNAME": "Kingswood On Bloor",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33033",
+            "Umbrella": "Hardrock Group of Companies",
+            "Umbrella ID": "12095998",
+            "VB_NAME": "The Bloorington Inc.",
+            "OPERATINGNAME": "Kingswood On Bloor",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35618",
+            "MEMBERNAME": "Woodbridge Gates Inc.",
+            "MEMBEROPERATINGNAME": "Woodbridge Gates",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE BLOORINGTON",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": " 3391 Bloor St W ",
+            "# of Units": 143,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-05-09"
+        }
+    ],
+    "builderConditions": []
+}

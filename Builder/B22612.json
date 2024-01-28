@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22612",
+            "Umbrella": "A&T Homes",
+            "Umbrella ID": "12539974",
+            "VB_NAME": "797866 Ontario Limited",
+            "OPERATINGNAME": "Alberto & Tony'S Foo",
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "1992-11-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1994-11-25 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "13075 Yonge Street, Box 2550",
+            "TELEPHONE": "(905)476-7557",
+            "FAX": "(905)476-7557",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "316138",
+            "TO": "Albert Ingoglia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-955-9518"
+        },
+        {
+            "TOUNIQUENUMBER": "316138",
+            "TO": "Albert Ingoglia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-955-9518"
+        },
+        {
+            "TOUNIQUENUMBER": "316138",
+            "TO": "Albert Ingoglia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-955-9518"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22612",
+            "Umbrella": "A&T Homes",
+            "Umbrella ID": "12539974",
+            "VB_NAME": "797866 Ontario Limited",
+            "OPERATINGNAME": "Alberto & Tony'S Foo",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25851",
+            "MEMBERNAME": "Albert Ingoglia",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22612",
+            "Umbrella": "A&T Homes",
+            "Umbrella ID": "12539974",
+            "VB_NAME": "797866 Ontario Limited",
+            "OPERATINGNAME": "Alberto & Tony'S Foo",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22612",
+            "MEMBERNAME": "797866 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Alberto & Tony'S Foo",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22612",
+            "Umbrella": "A&T Homes",
+            "Umbrella ID": "12539974",
+            "VB_NAME": "797866 Ontario Limited",
+            "OPERATINGNAME": "Alberto & Tony'S Foo",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45044",
+            "MEMBERNAME": "1084466 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

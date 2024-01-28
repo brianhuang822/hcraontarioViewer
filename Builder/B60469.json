@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60469",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2600627 Ontario Inc.",
+            "OPERATINGNAME": "2600627 Ontario Inc.",
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2021-08-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-15 14:41:21.000 +0000",
+            "Expiry Date": "2024-08-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2503 Yarmouth Crescent",
+            "TELEPHONE": "647-323-7327",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "amsai987@icloud.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600006274",
+            "TO": "Ahmed Elsharkawi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-323-7327"
+        },
+        {
+            "TOUNIQUENUMBER": "600006274",
+            "TO": "Ahmed Elsharkawi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-323-7327"
+        },
+        {
+            "TOUNIQUENUMBER": "600006274",
+            "TO": "Ahmed Elsharkawi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-323-7327"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60469",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2600627 Ontario Inc.",
+            "OPERATINGNAME": "2600627 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "MAS One",
+            "Project Status": "In Progress",
+            "Location": "OAKVILLE",
+            "Address": " 138 Dunn St ",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

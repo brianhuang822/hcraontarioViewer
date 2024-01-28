@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36591",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2079726 Ontario Inc.",
+            "OPERATINGNAME": "J. Zanon Construction",
+            "CITY": "Stoney Creek",
+            "HCRA_INITIALLICENSEDATE": "2006-06-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-15 20:41:42.000 +0000",
+            "Expiry Date": "2024-06-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "24 Tyler Drive",
+            "TELEPHONE": "905-971-6085",
+            "FAX": "905-662-0597",
+            "WEBSITEURL": "www.zanon.ca",
+            "EMAIL": "john@zanon.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12147140",
+            "TO": "John Zanon",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-6085"
+        },
+        {
+            "TOUNIQUENUMBER": "12147140",
+            "TO": "John Zanon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-6085"
+        },
+        {
+            "TOUNIQUENUMBER": "12147140",
+            "TO": "John Zanon",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-6085"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36591",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2079726 Ontario Inc.",
+            "OPERATINGNAME": "J. Zanon Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

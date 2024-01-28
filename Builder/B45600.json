@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45600",
+            "Umbrella": "Riverbend Brownstones",
+            "Umbrella ID": "12545283",
+            "VB_NAME": "Riverbend Brownstones Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "New Hamburg",
+            "HCRA_INITIALLICENSEDATE": "2016-10-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-22 13:13:20.000 +0000",
+            "Expiry Date": "2024-10-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "205 Boullee Street",
+            "TELEPHONE": "519-662-9200",
+            "FAX": "519/662-2662",
+            "WEBSITEURL": null,
+            "EMAIL": "tim@3dprototype.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100382932",
+            "TO": "Timothy Deutschmann",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-662-9200"
+        },
+        {
+            "TOUNIQUENUMBER": "100382932",
+            "TO": "Timothy Deutschmann",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-662-9200"
+        },
+        {
+            "TOUNIQUENUMBER": "100382932",
+            "TO": "Timothy Deutschmann",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-662-9200"
+        },
+        {
+            "TOUNIQUENUMBER": "11652729",
+            "TO": "Herbert (Herb) Deutschmann",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-662-9200"
+        },
+        {
+            "TOUNIQUENUMBER": "11652729",
+            "TO": "Herbert (Herb) Deutschmann",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-662-9200"
+        },
+        {
+            "TOUNIQUENUMBER": "11652729",
+            "TO": "Herbert (Herb) Deutschmann",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-662-9200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45600",
+            "Umbrella": "Riverbend Brownstones",
+            "Umbrella ID": "12545283",
+            "VB_NAME": "Riverbend Brownstones Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45600",
+            "MEMBERNAME": "Riverbend Brownstones Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45600",
+            "Umbrella": "Riverbend Brownstones",
+            "Umbrella ID": "12545283",
+            "VB_NAME": "Riverbend Brownstones Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B30841",
+            "MEMBERNAME": "Fairview Heights Phase II Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

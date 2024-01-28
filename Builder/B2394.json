@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B2394",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "County Contracting Of Wheatley Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "INGERSOLL",
+            "HCRA_INITIALLICENSEDATE": "1982-08-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-11-27 16:02:18.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "160 Carnegie St.",
+            "TELEPHONE": "(519)485-1230",
+            "FAX": "(519)485-6722",
+            "WEBSITEURL": null,
+            "EMAIL": "cntycontracting@execulink.com",
+            "ACCOUNTNUMBER": "B2394",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "302480",
+            "TO": "Lawrence Thomas Beckett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "302480",
+            "TO": "Lawrence Thomas Beckett",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "302480",
+            "TO": "Lawrence Thomas Beckett",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "340939",
+            "TO": "Jerry Lawrence Beckett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-425-9190"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B2394",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "County Contracting Of Wheatley Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Canterbury Park Place",
+            "Project Status": "Completed",
+            "Location": "INGERSOLL",
+            "Address": "46 Canterbury St",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-08-28"
+        },
+        {
+            "Condo Project Name": "WHITING CREEK ESTATES",
+            "Project Status": "Completed",
+            "Location": "INGERSOLL",
+            "Address": "50 Bond St.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-08-12"
+        }
+    ],
+    "builderConditions": []
+}

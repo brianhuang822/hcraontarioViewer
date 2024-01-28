@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28697",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Westwood Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "2000-09-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-09-26 12:31:34.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1201 Oxford St.W., P.O. Box 28106",
+            "TELEPHONE": "519-657-0864",
+            "FAX": "519-473-0382",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345592",
+            "TO": "Joanne Wood",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-473-8450"
+        },
+        {
+            "TOUNIQUENUMBER": "344296",
+            "TO": "Bruce M. Schruder",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-268-2260"
+        },
+        {
+            "TOUNIQUENUMBER": "344296",
+            "TO": "Bruce M. Schruder",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-268-2260"
+        },
+        {
+            "TOUNIQUENUMBER": "337158",
+            "TO": "William Geoff Wood",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-657-0864"
+        },
+        {
+            "TOUNIQUENUMBER": "337158",
+            "TO": "William Geoff Wood",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-657-0864"
+        },
+        {
+            "TOUNIQUENUMBER": "337158",
+            "TO": "William Geoff Wood",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-657-0864"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28697",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Westwood Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "CHAPMAN COURT",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "20 Chapman Crt.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-11-08"
+        }
+    ],
+    "builderConditions": []
+}

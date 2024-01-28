@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40992",
+            "Umbrella": "Fabbian Fine Homes",
+            "Umbrella ID": "12458958",
+            "VB_NAME": "Gemini Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Guelph",
+            "HCRA_INITIALLICENSEDATE": "2010-12-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-02 00:51:50.000 +0000",
+            "Expiry Date": "2023-12-21",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "275 Hanlon Creek Boulevard",
+            "TELEPHONE": "519-824-0789",
+            "FAX": "519-824-4189",
+            "WEBSITEURL": "www.geminihomes.ca",
+            "EMAIL": "jason@geminihomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 211,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 211,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12198487",
+            "TO": "Jason Fabbian",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-824-0789"
+        },
+        {
+            "TOUNIQUENUMBER": "12198487",
+            "TO": "Jason Fabbian",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-824-0789"
+        },
+        {
+            "TOUNIQUENUMBER": "12198487",
+            "TO": "Jason Fabbian",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-824-0789"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40992",
+            "Umbrella": "Fabbian Fine Homes",
+            "Umbrella ID": "12458958",
+            "VB_NAME": "Gemini Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B13752",
+            "MEMBERNAME": "Fabbian Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40992",
+            "Umbrella": "Fabbian Fine Homes",
+            "Umbrella ID": "12458958",
+            "VB_NAME": "Gemini Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40992",
+            "MEMBERNAME": "Gemini Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Biltmore Factory Towns",
+            "Project Status": null,
+            "Location": "GUELPH",
+            "Address": "143-171 Morris St.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Biltmore Factory Towns",
+            "Project Status": null,
+            "Location": "GUELPH",
+            "Address": "175-185 Morris St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

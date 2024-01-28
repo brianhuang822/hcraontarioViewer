@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61380",
+            "Umbrella": "W Group Development",
+            "Umbrella ID": "500001565",
+            "VB_NAME": "W Garden Corporation",
+            "OPERATINGNAME": "W Garden Corporation",
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2022-06-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-09 21:08:48.000 +0000",
+            "Expiry Date": "2024-06-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1100 Gordon Baker Road",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "infor@wgroupmanagement.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600010944",
+            "TO": "Ming Jin Wei",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-975-5966"
+        },
+        {
+            "TOUNIQUENUMBER": "600010942",
+            "TO": "Chang Xiang Wang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-866-2588"
+        },
+        {
+            "TOUNIQUENUMBER": "600010943",
+            "TO": "Cheng Yi Wei",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-975-5966"
+        },
+        {
+            "TOUNIQUENUMBER": "600010943",
+            "TO": "Cheng Yi Wei",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-975-5966"
+        },
+        {
+            "TOUNIQUENUMBER": "600010940",
+            "TO": "Hongkai Li",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-666-3011"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61380",
+            "Umbrella": "W Group Development",
+            "Umbrella ID": "500001565",
+            "VB_NAME": "W Garden Corporation",
+            "OPERATINGNAME": "W Garden Corporation",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61380",
+            "MEMBERNAME": "W Garden Corporation",
+            "MEMBEROPERATINGNAME": "W Garden Corporation",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61380",
+            "Umbrella": "W Group Development",
+            "Umbrella ID": "500001565",
+            "VB_NAME": "W Garden Corporation",
+            "OPERATINGNAME": "W Garden Corporation",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61371",
+            "MEMBERNAME": "W & L Builders Ltd.",
+            "MEMBEROPERATINGNAME": "W & L Builders Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

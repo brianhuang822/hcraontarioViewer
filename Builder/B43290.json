@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43290",
+            "Umbrella": "Cobus Homes",
+            "Umbrella ID": "12540169",
+            "VB_NAME": "Cobus Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Renfrew",
+            "HCRA_INITIALLICENSEDATE": "2013-12-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-03 05:00:00.000 +0000",
+            "Expiry Date": "2024-12-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "89 Larone Lane",
+            "TELEPHONE": "613-312-1204",
+            "FAX": null,
+            "WEBSITEURL": "cobushomesinc",
+            "EMAIL": "tom@cobushomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 18,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 18,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12009110",
+            "TO": "Thomas Cobus",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-312-1204"
+        },
+        {
+            "TOUNIQUENUMBER": "12009110",
+            "TO": "Thomas Cobus",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-312-1204"
+        },
+        {
+            "TOUNIQUENUMBER": "12009110",
+            "TO": "Thomas Cobus",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-312-1204"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43290",
+            "Umbrella": "Cobus Homes",
+            "Umbrella ID": "12540169",
+            "VB_NAME": "Cobus Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34596",
+            "MEMBERNAME": "Thomas Cobus & Terrence Cobus",
+            "MEMBEROPERATINGNAME": "T. Cobus & Son Carpentry",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43290",
+            "Umbrella": "Cobus Homes",
+            "Umbrella ID": "12540169",
+            "VB_NAME": "Cobus Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43290",
+            "MEMBERNAME": "Cobus Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

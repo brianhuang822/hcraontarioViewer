@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B19960",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1548 Richmond Manor Inc.",
+            "OPERATINGNAME": "Z Group",
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1990-07-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1993-07-28 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1135 Adelaide St. N.",
+            "TELEPHONE": "(519)673-1730",
+            "FAX": "(519)438-7564",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "303490",
+            "TO": "Sam Bojman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "337519",
+            "TO": "Henry Zagdanski",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "337538",
+            "TO": "Bernard (Bernie) Zaifman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-673-1730"
+        },
+        {
+            "TOUNIQUENUMBER": "326156",
+            "TO": "Leonardo (Leo) Perciasepe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-587-5341"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B19960",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1548 Richmond Manor Inc.",
+            "OPERATINGNAME": "Z Group",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "1548 RICHMOND ST. NORTH",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1548 Richmond St. N.",
+            "# of Units": 45,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-01-23"
+        }
+    ],
+    "builderConditions": []
+}

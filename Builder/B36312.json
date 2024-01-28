@@ -1,0 +1,153 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36312",
+            "Umbrella": "Simon Wagler Homes",
+            "Umbrella ID": "12140609",
+            "VB_NAME": "Simon Wagler Homes Inc.",
+            "OPERATINGNAME": "Simon Wagler Homes",
+            "CITY": "Aylmer",
+            "HCRA_INITIALLICENSEDATE": "2006-01-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-15 21:56:16.000 +0000",
+            "Expiry Date": "2025-01-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Rural Road 4",
+            "TELEPHONE": "519-773-5348",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "mjgooyers@bakertilly.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 133,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 133,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1415.81,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1415.81
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "335790",
+            "TO": "Simon Wagler",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-773-5348"
+        },
+        {
+            "TOUNIQUENUMBER": "335790",
+            "TO": "Simon Wagler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-773-5348"
+        },
+        {
+            "TOUNIQUENUMBER": "335790",
+            "TO": "Simon Wagler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-773-5348"
+        },
+        {
+            "TOUNIQUENUMBER": "12128619",
+            "TO": "Laverne Zehr",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12128619",
+            "TO": "Laverne Zehr",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12128620",
+            "TO": "Regina Zehr",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12128620",
+            "TO": "Regina Zehr",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12128618",
+            "TO": "Susanna Wagler",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12128618",
+            "TO": "Susanna Wagler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36312",
+            "Umbrella": "Simon Wagler Homes",
+            "Umbrella ID": "12140609",
+            "VB_NAME": "Simon Wagler Homes Inc.",
+            "OPERATINGNAME": "Simon Wagler Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B14957",
+            "MEMBERNAME": "Wagler Homes",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36312",
+            "Umbrella": "Simon Wagler Homes",
+            "Umbrella ID": "12140609",
+            "VB_NAME": "Simon Wagler Homes Inc.",
+            "OPERATINGNAME": "Simon Wagler Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36312",
+            "MEMBERNAME": "Simon Wagler Homes Inc.",
+            "MEMBEROPERATINGNAME": "Simon Wagler Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B36312",
+            "Umbrella": "Simon Wagler Homes",
+            "Umbrella ID": "12140609",
+            "VB_NAME": "Simon Wagler Homes Inc.",
+            "OPERATINGNAME": "Simon Wagler Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25057",
+            "MEMBERNAME": "Simon Wagler",
+            "MEMBEROPERATINGNAME": "Wagler Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36312",
+            "Umbrella": "Simon Wagler Homes",
+            "Umbrella ID": "12140609",
+            "VB_NAME": "Simon Wagler Homes Inc.",
+            "OPERATINGNAME": "Simon Wagler Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B14526",
+            "MEMBERNAME": "Wagler Homes",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35083",
+            "Umbrella": "Veenstra Brothers",
+            "Umbrella ID": "12541202",
+            "VB_NAME": "Veenstra Bros.  Enterprises Ltd.",
+            "OPERATINGNAME": "Veenstra Bros",
+            "CITY": "BARRIE",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2005-06-24 19:05:38.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3 Ginger Dr.",
+            "TELEPHONE": "705-727-9904",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "335262",
+            "TO": "Hielke Veenstra",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-727-9904"
+        },
+        {
+            "TOUNIQUENUMBER": "335262",
+            "TO": "Hielke Veenstra",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-727-9904"
+        },
+        {
+            "TOUNIQUENUMBER": "335262",
+            "TO": "Hielke Veenstra",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-727-9904"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35083",
+            "Umbrella": "Veenstra Brothers",
+            "Umbrella ID": "12541202",
+            "VB_NAME": "Veenstra Bros.  Enterprises Ltd.",
+            "OPERATINGNAME": "Veenstra Bros",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B16513",
+            "MEMBERNAME": "Veenstra Brothers Enterprises Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35083",
+            "Umbrella": "Veenstra Brothers",
+            "Umbrella ID": "12541202",
+            "VB_NAME": "Veenstra Bros.  Enterprises Ltd.",
+            "OPERATINGNAME": "Veenstra Bros",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B35083",
+            "MEMBERNAME": "Veenstra Bros.  Enterprises Ltd.",
+            "MEMBEROPERATINGNAME": "Veenstra Bros",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

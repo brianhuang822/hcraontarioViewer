@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32512",
+            "Umbrella": "Bradford Rivington",
+            "Umbrella ID": "12540009",
+            "VB_NAME": "1150349 Ontario Limited",
+            "OPERATINGNAME": "R.F. Bradford Contracting",
+            "CITY": "MANOTICK",
+            "HCRA_INITIALLICENSEDATE": "2002-08-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-08-15 12:31:33.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Box 1024",
+            "TELEPHONE": "613-798-6806",
+            "FAX": "(613) 843-9918",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "328424",
+            "TO": "Bradford Rivington",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "328424",
+            "TO": "Bradford Rivington",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "328424",
+            "TO": "Bradford Rivington",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32512",
+            "Umbrella": "Bradford Rivington",
+            "Umbrella ID": "12540009",
+            "VB_NAME": "1150349 Ontario Limited",
+            "OPERATINGNAME": "R.F. Bradford Contracting",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B1021",
+            "MEMBERNAME": "Bradford Rivington Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32512",
+            "Umbrella": "Bradford Rivington",
+            "Umbrella ID": "12540009",
+            "VB_NAME": "1150349 Ontario Limited",
+            "OPERATINGNAME": "R.F. Bradford Contracting",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32512",
+            "MEMBERNAME": "1150349 Ontario Limited",
+            "MEMBEROPERATINGNAME": "R.F. Bradford Contracting",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28070",
+            "Umbrella": "The Residences Of Victoria Gardens",
+            "Umbrella ID": "11476",
+            "VB_NAME": "The Residences Of Victoria Gardens Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MILTON",
+            "HCRA_INITIALLICENSEDATE": "1999-07-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2002-07-08 12:32:47.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Station Main",
+            "TELEPHONE": "(905)693-0496",
+            "FAX": "(905)693-0871",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344683",
+            "TO": "Stephen Carr",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 693-8509"
+        },
+        {
+            "TOUNIQUENUMBER": "344683",
+            "TO": "Stephen Carr",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 693-8509"
+        },
+        {
+            "TOUNIQUENUMBER": "344683",
+            "TO": "Stephen Carr",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 693-8509"
+        },
+        {
+            "TOUNIQUENUMBER": "344684",
+            "TO": "Thomas Lindop",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 331-9151"
+        },
+        {
+            "TOUNIQUENUMBER": "344684",
+            "TO": "Thomas Lindop",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 331-9151"
+        },
+        {
+            "TOUNIQUENUMBER": "344684",
+            "TO": "Thomas Lindop",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 331-9151"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28070",
+            "Umbrella": "The Residences Of Victoria Gardens",
+            "Umbrella ID": "11476",
+            "VB_NAME": "The Residences Of Victoria Gardens Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28071",
+            "MEMBERNAME": "Koque Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28070",
+            "Umbrella": "The Residences Of Victoria Gardens",
+            "Umbrella ID": "11476",
+            "VB_NAME": "The Residences Of Victoria Gardens Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28070",
+            "MEMBERNAME": "The Residences Of Victoria Gardens Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "RESIDENCES OF VICTORIA GARDENS",
+            "Project Status": "Completed",
+            "Location": "GEORGETOWN",
+            "Address": "24 Chapel St.",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-01-12"
+        }
+    ],
+    "builderConditions": []
+}

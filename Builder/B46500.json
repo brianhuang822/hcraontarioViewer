@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46500",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Tarbutt Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Grimsby",
+            "HCRA_INITIALLICENSEDATE": "2018-05-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-09 18:48:57.000 +0000",
+            "Expiry Date": "2024-05-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "189 South Service Road",
+            "TELEPHONE": "905-945-1748",
+            "FAX": "905/945-3886",
+            "WEBSITEURL": "www.tarbutt.com",
+            "EMAIL": "jim@tarbutt.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "333169",
+            "TO": "James Tarbutt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-945-1748"
+        },
+        {
+            "TOUNIQUENUMBER": "333169",
+            "TO": "James Tarbutt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-945-1748"
+        },
+        {
+            "TOUNIQUENUMBER": "333169",
+            "TO": "James Tarbutt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-945-1748"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46500",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Tarbutt Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

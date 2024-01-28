@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44888",
+            "Umbrella": "Terranata Developments",
+            "Umbrella ID": "12547221",
+            "VB_NAME": "Terranata The Step Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2015-12-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-12-10 14:00:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "425 Alness St., 2nd Floor",
+            "TELEPHONE": "416/224-4043",
+            "FAX": null,
+            "WEBSITEURL": "www.terranata.com",
+            "EMAIL": "morteza@ajgldevelopment.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100189358",
+            "TO": "John Aquino",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-667-8422"
+        },
+        {
+            "TOUNIQUENUMBER": "100189358",
+            "TO": "John Aquino",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-667-8422"
+        },
+        {
+            "TOUNIQUENUMBER": "100189358",
+            "TO": "John Aquino",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-667-8422"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44888",
+            "Umbrella": "Terranata Developments",
+            "Umbrella ID": "12547221",
+            "VB_NAME": "Terranata The Step Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47661",
+            "MEMBERNAME": "Conacher Kingston Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B44888",
+            "Umbrella": "Terranata Developments",
+            "Umbrella ID": "12547221",
+            "VB_NAME": "Terranata The Step Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43511",
+            "MEMBERNAME": "Bondfield Construction Company Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44888",
+            "Umbrella": "Terranata Developments",
+            "Umbrella ID": "12547221",
+            "VB_NAME": "Terranata The Step Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44888",
+            "MEMBERNAME": "Terranata The Step Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44888",
+            "Umbrella": "Terranata Developments",
+            "Umbrella ID": "12547221",
+            "VB_NAME": "Terranata The Step Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41901",
+            "MEMBERNAME": "Conacher Kingston Holdings Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44888",
+            "Umbrella": "Terranata Developments",
+            "Umbrella ID": "12547221",
+            "VB_NAME": "Terranata The Step Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46581",
+            "MEMBERNAME": "Terranata Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Step Condo",
+            "Project Status": "Cancelled",
+            "Location": "TORONTO",
+            "Address": " 2849 Islington Avenue ",
+            "# of Units": 111,
+            "# of Terminations": 95,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-04-03"
+        }
+    ],
+    "builderConditions": []
+}

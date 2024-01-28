@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31844",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1267025 Ontario Limited",
+            "OPERATINGNAME": "Guildwood Mews",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2001-11-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-11-29 13:31:12.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "135 Dewbourne Ave.",
+            "TELEPHONE": "416-878-6420",
+            "FAX": "416-783-1690",
+            "WEBSITEURL": null,
+            "EMAIL": "bryan@jordyndev.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343066",
+            "TO": "Howard Waxberg",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-488-4338"
+        },
+        {
+            "TOUNIQUENUMBER": "343066",
+            "TO": "Howard Waxberg",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-488-4338"
+        },
+        {
+            "TOUNIQUENUMBER": "343066",
+            "TO": "Howard Waxberg",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-488-4338"
+        },
+        {
+            "TOUNIQUENUMBER": "325839",
+            "TO": "Bryan Letofsky",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-637-2046"
+        },
+        {
+            "TOUNIQUENUMBER": "325839",
+            "TO": "Bryan Letofsky",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-637-2046"
+        },
+        {
+            "TOUNIQUENUMBER": "325839",
+            "TO": "Bryan Letofsky",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-637-2046"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31844",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1267025 Ontario Limited",
+            "OPERATINGNAME": "Guildwood Mews",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "GUILDWOOD MEWS",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 70 Guildwood Pkwy. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-11-25"
+        }
+    ],
+    "builderConditions": []
+}

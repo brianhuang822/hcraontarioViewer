@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33203",
+            "Umbrella": "Baxter Homes",
+            "Umbrella ID": "12540381",
+            "VB_NAME": "1430994 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "PENETANG",
+            "HCRA_INITIALLICENSEDATE": "2003-04-11",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2005-01-22 02:07:59.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8 Couchiching Cres. R.R.#2",
+            "TELEPHONE": "(705)549-9949",
+            "FAX": "(705)549-5441",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11707889",
+            "TO": "Baxter Hibbs",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11707889",
+            "TO": "Baxter Hibbs",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11707889",
+            "TO": "Baxter Hibbs",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33203",
+            "Umbrella": "Baxter Homes",
+            "Umbrella ID": "12540381",
+            "VB_NAME": "1430994 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B33203",
+            "MEMBERNAME": "1430994 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B33203",
+            "Umbrella": "Baxter Homes",
+            "Umbrella ID": "12540381",
+            "VB_NAME": "1430994 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B31546",
+            "MEMBERNAME": "1430994 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Baxter Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

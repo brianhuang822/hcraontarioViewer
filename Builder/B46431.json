@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46431",
+            "Umbrella": "OHM Groups",
+            "Umbrella ID": "12541784",
+            "VB_NAME": "OHM Newtonville Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "GUELPH",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2019-03-21 19:28:22.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "340 Woodlawn Rd., W., Ste. 25",
+            "TELEPHONE": "519/829-2555",
+            "FAX": null,
+            "WEBSITEURL": "www.ohminc.ca",
+            "EMAIL": "invoice@ohmdevelopment.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12395203",
+            "TO": "Punidadas Piyasena",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-212-7302"
+        },
+        {
+            "TOUNIQUENUMBER": "12395203",
+            "TO": "Punidadas Piyasena",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-212-7302"
+        },
+        {
+            "TOUNIQUENUMBER": "12395203",
+            "TO": "Punidadas Piyasena",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-212-7302"
+        },
+        {
+            "TOUNIQUENUMBER": "100234020",
+            "TO": "Nirmalarasa Kanagiah",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-794-1374"
+        },
+        {
+            "TOUNIQUENUMBER": "100234020",
+            "TO": "Nirmalarasa Kanagiah",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-794-1374"
+        },
+        {
+            "TOUNIQUENUMBER": "100234020",
+            "TO": "Nirmalarasa Kanagiah",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-794-1374"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46431",
+            "Umbrella": "OHM Groups",
+            "Umbrella ID": "12541784",
+            "VB_NAME": "OHM Newtonville Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B46431",
+            "MEMBERNAME": "OHM Newtonville Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B46431",
+            "Umbrella": "OHM Groups",
+            "Umbrella ID": "12541784",
+            "VB_NAME": "OHM Newtonville Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B40210",
+            "MEMBERNAME": "OHM Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

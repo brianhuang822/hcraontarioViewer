@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32192",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Duvanco Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Foxboro",
+            "HCRA_INITIALLICENSEDATE": "2002-04-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-09 04:00:00.000 +0000",
+            "Expiry Date": "2024-04-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 321",
+            "TELEPHONE": "613-966-4499",
+            "FAX": "613-966-6532",
+            "WEBSITEURL": "https://www.duvancohomes.com",
+            "EMAIL": "info@duvancohomes.com",
+            "ACCOUNTNUMBER": "B32192",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 531,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 531,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 3200,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3200
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11770498",
+            "TO": "Dustin VanSoelen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-966-4499"
+        },
+        {
+            "TOUNIQUENUMBER": "11770498",
+            "TO": "Dustin VanSoelen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-966-4499"
+        },
+        {
+            "TOUNIQUENUMBER": "11770498",
+            "TO": "Dustin VanSoelen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-966-4499"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32192",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Duvanco Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Bears Den Trail",
+            "Project Status": null,
+            "Location": "CORBYVILLE",
+            "Address": " 665 Harmony Rd ",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Lake Breeze Terrace",
+            "Project Status": "Completed",
+            "Location": "WELLINGTON",
+            "Address": " 37 Lake Breeze Crt. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-11-22"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28486",
+            "Umbrella": "Lynnwood Quality Homes",
+            "Umbrella ID": "12540903",
+            "VB_NAME": "Lynnwood Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1999-09-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-09-04 12:35:51.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1562 Hastings Dr.",
+            "TELEPHONE": "(519)645-8249",
+            "FAX": "(519)439-1363",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345307",
+            "TO": "Peter (Pete) Pileggi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-645-8249"
+        },
+        {
+            "TOUNIQUENUMBER": "345307",
+            "TO": "Peter (Pete) Pileggi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-645-8249"
+        },
+        {
+            "TOUNIQUENUMBER": "345307",
+            "TO": "Peter (Pete) Pileggi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-645-8249"
+        },
+        {
+            "TOUNIQUENUMBER": "345308",
+            "TO": "Frank Anthony Sorrenti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-439-0841"
+        },
+        {
+            "TOUNIQUENUMBER": "345308",
+            "TO": "Frank Anthony Sorrenti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-439-0841"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28486",
+            "Umbrella": "Lynnwood Quality Homes",
+            "Umbrella ID": "12540903",
+            "VB_NAME": "Lynnwood Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28486",
+            "MEMBERNAME": "Lynnwood Quality Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28486",
+            "Umbrella": "Lynnwood Quality Homes",
+            "Umbrella ID": "12540903",
+            "VB_NAME": "Lynnwood Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31241",
+            "MEMBERNAME": "Lynnwood Quality Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

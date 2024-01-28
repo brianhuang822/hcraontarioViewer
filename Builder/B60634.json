@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60634",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Evergreen Estates Inc.",
+            "OPERATINGNAME": "Evergreen Estates Inc.",
+            "CITY": "Grimsby",
+            "HCRA_INITIALLICENSEDATE": "2021-10-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-24 13:56:17.000 +0000",
+            "Expiry Date": "2024-10-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "189 South Service Road",
+            "TELEPHONE": "905-945-1748",
+            "FAX": "905-945-3886",
+            "WEBSITEURL": "http://www.evergreenestatehomes.ca",
+            "EMAIL": "jim@tarbutt.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "333169",
+            "TO": "James Tarbutt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-945-1748"
+        },
+        {
+            "TOUNIQUENUMBER": "333169",
+            "TO": "James Tarbutt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-945-1748"
+        },
+        {
+            "TOUNIQUENUMBER": "333169",
+            "TO": "James Tarbutt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-945-1748"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60634",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Evergreen Estates Inc.",
+            "OPERATINGNAME": "Evergreen Estates Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Evergreen Estates Homes",
+            "Project Status": null,
+            "Location": "GRIMSBY",
+            "Address": " 9-11 Kerman Avenue ",
+            "# of Units": 44,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

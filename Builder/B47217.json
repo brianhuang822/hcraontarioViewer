@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47217",
+            "Umbrella": "Sohm Builders Group",
+            "Umbrella ID": "12548911",
+            "VB_NAME": "2646852 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Corbeil",
+            "HCRA_INITIALLICENSEDATE": "2018-08-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-08 20:41:42.000 +0000",
+            "Expiry Date": "2024-08-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "903 Corbeil Road",
+            "TELEPHONE": "705-498-3736",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "ryan@sohmbuilders.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100166598",
+            "TO": "Julie Laperriere-Sohm",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-498-3736"
+        },
+        {
+            "TOUNIQUENUMBER": "100166597",
+            "TO": "Ryan William Sohm",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-498-3736"
+        },
+        {
+            "TOUNIQUENUMBER": "100166597",
+            "TO": "Ryan William Sohm",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-498-3736"
+        },
+        {
+            "TOUNIQUENUMBER": "100166597",
+            "TO": "Ryan William Sohm",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-498-3736"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47217",
+            "Umbrella": "Sohm Builders Group",
+            "Umbrella ID": "12548911",
+            "VB_NAME": "2646852 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47217",
+            "MEMBERNAME": "2646852 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47217",
+            "Umbrella": "Sohm Builders Group",
+            "Umbrella ID": "12548911",
+            "VB_NAME": "2646852 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42807",
+            "MEMBERNAME": "Ryan William Sohm",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

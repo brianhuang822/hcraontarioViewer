@@ -1,0 +1,70 @@
+{
+    "builderSummary": [],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11959472",
+            "TO": "Wilson Bassile",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-913-3218"
+        },
+        {
+            "TOUNIQUENUMBER": "11959472",
+            "TO": "Wilson Bassile",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-913-3218"
+        },
+        {
+            "TOUNIQUENUMBER": "11959472",
+            "TO": "Wilson Bassile",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-913-3218"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108580",
+            "CHARGE_AGAINST": "1770751 Ontario Incorporated",
+            "CHARGE_DATE": "2015-11-18",
+            "DISPOSITION_DATE": "2016-03-29",
+            "THE_FINE_": "2000",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "500",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326544",
+            "ORGANIZATION_NAME": "1770751 Ontario Incorporated",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Clayton, ON",
+            "CITY_DEFENCE": "Almonte, ON",
+            "VB_NUMBER": "B44094",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": null,
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108580 9326544",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Mississippi Mills, Municipality of",
+            "INFORMATION_NUMBER": "999 15 150319",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "FROM_OFFENCE_DATE": "2014-06-01",
+            "TO_OFFENCE_DATE": "2014-09-16",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "2500",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

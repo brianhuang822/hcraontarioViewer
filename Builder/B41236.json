@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41236",
+            "Umbrella": "Timberidge Carpentry",
+            "Umbrella ID": "12541475",
+            "VB_NAME": "Chris Pinguet and Andrew Pinguet",
+            "OPERATINGNAME": null,
+            "CITY": "UXBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2011-05-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-05-19 12:00:28.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "229 Maple St.",
+            "TELEPHONE": "905-852-7163",
+            "FAX": "905-852-7163",
+            "WEBSITEURL": "www.timberidgecarpentry.com",
+            "EMAIL": "timberidge@bell.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12473805",
+            "TO": "Andrew Pinguet",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-852-7163"
+        },
+        {
+            "TOUNIQUENUMBER": "12473804",
+            "TO": "Chris Pinguet",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-852-7163"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41236",
+            "Umbrella": "Timberidge Carpentry",
+            "Umbrella ID": "12541475",
+            "VB_NAME": "Chris Pinguet and Andrew Pinguet",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43698",
+            "MEMBERNAME": "Timberidge Carpentry Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41236",
+            "Umbrella": "Timberidge Carpentry",
+            "Umbrella ID": "12541475",
+            "VB_NAME": "Chris Pinguet and Andrew Pinguet",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41236",
+            "MEMBERNAME": "Chris Pinguet and Andrew Pinguet",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

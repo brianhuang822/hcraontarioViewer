@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41866",
+            "Umbrella": "Lakeside Building",
+            "Umbrella ID": "500001504",
+            "VB_NAME": "Skycon Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Lindsay",
+            "HCRA_INITIALLICENSEDATE": "2012-03-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-03-27 05:00:08.000 +0000",
+            "Expiry Date": "2023-03-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "77 Bond Street West",
+            "TELEPHONE": "705-308-7621",
+            "FAX": "705/328-0574",
+            "WEBSITEURL": "www.lakesidebuilding.ca",
+            "EMAIL": "dave@lakesidebuilding.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12522932",
+            "TO": "Dave Algire",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-308-7621"
+        },
+        {
+            "TOUNIQUENUMBER": "12522932",
+            "TO": "Dave Algire",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-308-7621"
+        },
+        {
+            "TOUNIQUENUMBER": "12522932",
+            "TO": "Dave Algire",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-308-7621"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41866",
+            "Umbrella": "Lakeside Building",
+            "Umbrella ID": "500001504",
+            "VB_NAME": "Skycon Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41866",
+            "MEMBERNAME": "Skycon Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41866",
+            "Umbrella": "Lakeside Building",
+            "Umbrella ID": "500001504",
+            "VB_NAME": "Skycon Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B61176",
+            "MEMBERNAME": "Lakeside Building Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34242",
+            "Umbrella": "Michele DiCenso",
+            "Umbrella ID": "12540379",
+            "VB_NAME": "752534 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "NIAGARA FALLS",
+            "HCRA_INITIALLICENSEDATE": "2004-04-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-04-06 12:30:57.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7534 Monastery Dr.",
+            "TELEPHONE": "(905)356-5924",
+            "FAX": "(905) 646-2980",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "308940",
+            "TO": "Michele Di Censo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-356-5924"
+        },
+        {
+            "TOUNIQUENUMBER": "308940",
+            "TO": "Michele Di Censo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-356-5924"
+        },
+        {
+            "TOUNIQUENUMBER": "308940",
+            "TO": "Michele Di Censo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-356-5924"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34242",
+            "Umbrella": "Michele DiCenso",
+            "Umbrella ID": "12540379",
+            "VB_NAME": "752534 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B6909",
+            "MEMBERNAME": "Michele Dicenso",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34242",
+            "Umbrella": "Michele DiCenso",
+            "Umbrella ID": "12540379",
+            "VB_NAME": "752534 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B12812",
+            "MEMBERNAME": "752534 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34242",
+            "Umbrella": "Michele DiCenso",
+            "Umbrella ID": "12540379",
+            "VB_NAME": "752534 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34242",
+            "MEMBERNAME": "752534 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

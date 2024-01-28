@@ -1,0 +1,32 @@
+{
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600012527",
+            "TO": "Vladimir Bretgoltz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12108622",
+            "TO": "Arkadi Bretgoltz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-224-5555"
+        },
+        {
+            "TOUNIQUENUMBER": "12108622",
+            "TO": "Arkadi Bretgoltz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-224-5555"
+        },
+        {
+            "TOUNIQUENUMBER": "12108622",
+            "TO": "Arkadi Bretgoltz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-224-5555"
+        }
+    ]
+}

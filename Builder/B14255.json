@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B14255",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Don West Construction Limited",
+            "OPERATINGNAME": "Donwest Homes",
+            "CITY": "St. Thomas",
+            "HCRA_INITIALLICENSEDATE": "1976-08-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-08 20:03:51.000 +0000",
+            "Expiry Date": "2024-06-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "15 Barrie Boulevard",
+            "TELEPHONE": "519-633-0691",
+            "FAX": "519-633-0652",
+            "WEBSITEURL": "www.donwest.ca",
+            "EMAIL": "sheila@donwest.ca",
+            "ACCOUNTNUMBER": "B14255",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 331,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 331,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 42324.24,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 42324.24
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100580197",
+            "TO": "Lyndsay Evon Sibley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-633-0691"
+        },
+        {
+            "TOUNIQUENUMBER": "100580197",
+            "TO": "Lyndsay Evon Sibley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-633-0691"
+        },
+        {
+            "TOUNIQUENUMBER": "100580197",
+            "TO": "Lyndsay Evon Sibley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-633-0691"
+        },
+        {
+            "TOUNIQUENUMBER": "100574350",
+            "TO": "Jason McWhirter",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-633-0691"
+        },
+        {
+            "TOUNIQUENUMBER": "100574350",
+            "TO": "Jason McWhirter",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-633-0691"
+        },
+        {
+            "TOUNIQUENUMBER": "100574350",
+            "TO": "Jason McWhirter",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-633-0691"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B14255",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Don West Construction Limited",
+            "OPERATINGNAME": "Donwest Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Grand Trunk Crossing",
+            "Project Status": null,
+            "Location": "ST. THOMAS",
+            "Address": " 71-89 Princess Ave. ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "EVER GREEN TERRANCE",
+            "Project Status": "Completed",
+            "Location": "ST. THOMAS",
+            "Address": "16 Havenridge Crt.,",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-05-04"
+        },
+        {
+            "Condo Project Name": "DEER TRAIL ADULT COMMUNITY",
+            "Project Status": "Completed",
+            "Location": "ST. THOMAS",
+            "Address": "410 Burwell Rd.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-07-31"
+        }
+    ],
+    "builderConditions": []
+}

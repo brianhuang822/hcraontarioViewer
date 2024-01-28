@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32474",
+            "Umbrella": "Vince Ferro Construction",
+            "Umbrella ID": "12540363",
+            "VB_NAME": "Vince Ferro Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "WINDSOR",
+            "HCRA_INITIALLICENSEDATE": "2002-11-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-11-26 14:31:49.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3473 Walker Rd.",
+            "TELEPHONE": "519-969-4020",
+            "FAX": "519-969-4021",
+            "WEBSITEURL": null,
+            "EMAIL": "vferro@mnsi.net",
+            "ACCOUNTNUMBER": "B32474",
+            "Total Outstanding Amount": 0.01,
+            "TAB": 0,
+            "BREACH": 0.01,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "312015",
+            "TO": "Vince Ferro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-945-7380"
+        },
+        {
+            "TOUNIQUENUMBER": "312015",
+            "TO": "Vince Ferro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-945-7380"
+        },
+        {
+            "TOUNIQUENUMBER": "312015",
+            "TO": "Vince Ferro",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-945-7380"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32474",
+            "Umbrella": "Vince Ferro Construction",
+            "Umbrella ID": "12540363",
+            "VB_NAME": "Vince Ferro Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32177",
+            "MEMBERNAME": "Vincenzo Ferro and Maria Ferro",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32474",
+            "Umbrella": "Vince Ferro Construction",
+            "Umbrella ID": "12540363",
+            "VB_NAME": "Vince Ferro Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22794",
+            "MEMBERNAME": "Vince Ferro Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32474",
+            "Umbrella": "Vince Ferro Construction",
+            "Umbrella ID": "12540363",
+            "VB_NAME": "Vince Ferro Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32474",
+            "MEMBERNAME": "Vince Ferro Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

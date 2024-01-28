@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39757",
+            "Umbrella": "Landstar Quality Homes",
+            "Umbrella ID": "12374215",
+            "VB_NAME": "Landstar Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Brant",
+            "HCRA_INITIALLICENSEDATE": "2009-08-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-07 20:57:43.000 +0000",
+            "Expiry Date": "2024-08-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "18 Bannister Street",
+            "TELEPHONE": "519-757-7123",
+            "FAX": "519-443-4710",
+            "WEBSITEURL": "Landstarqualityhomes.com",
+            "EMAIL": "y_bilyk@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 38,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 38,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12213896",
+            "TO": "Yaroslav Bilyk",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-757-7123"
+        },
+        {
+            "TOUNIQUENUMBER": "12213896",
+            "TO": "Yaroslav Bilyk",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-757-7123"
+        },
+        {
+            "TOUNIQUENUMBER": "12213896",
+            "TO": "Yaroslav Bilyk",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-757-7123"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39757",
+            "Umbrella": "Landstar Quality Homes",
+            "Umbrella ID": "12374215",
+            "VB_NAME": "Landstar Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37524",
+            "MEMBERNAME": "Yaroslav Bilyk",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39757",
+            "Umbrella": "Landstar Quality Homes",
+            "Umbrella ID": "12374215",
+            "VB_NAME": "Landstar Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39757",
+            "MEMBERNAME": "Landstar Quality Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

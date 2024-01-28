@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43142",
+            "Umbrella": "Cairnwood Homes",
+            "Umbrella ID": "12552246",
+            "VB_NAME": "Cairnwood Properties Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Welland",
+            "HCRA_INITIALLICENSEDATE": "2013-10-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-10 20:56:59.000 +0000",
+            "Expiry Date": "2024-10-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "331 Major Street",
+            "TELEPHONE": "905-941-5066",
+            "FAX": null,
+            "WEBSITEURL": "www.cairnwood.ca",
+            "EMAIL": "julie@cairnwood.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 82,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 82,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100185149",
+            "TO": "Julie Dodge",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-941-5066"
+        },
+        {
+            "TOUNIQUENUMBER": "100185149",
+            "TO": "Julie Dodge",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-941-5066"
+        },
+        {
+            "TOUNIQUENUMBER": "100185149",
+            "TO": "Julie Dodge",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-941-5066"
+        },
+        {
+            "TOUNIQUENUMBER": "333340",
+            "TO": "Richard Tenden",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-407-2320"
+        },
+        {
+            "TOUNIQUENUMBER": "333340",
+            "TO": "Richard Tenden",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-407-2320"
+        },
+        {
+            "TOUNIQUENUMBER": "333340",
+            "TO": "Richard Tenden",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-407-2320"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43142",
+            "Umbrella": "Cairnwood Homes",
+            "Umbrella ID": "12552246",
+            "VB_NAME": "Cairnwood Properties Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48410",
+            "MEMBERNAME": "Cairnwood Developments Inc.",
+            "MEMBEROPERATINGNAME": "Cairnwood Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43142",
+            "Umbrella": "Cairnwood Homes",
+            "Umbrella ID": "12552246",
+            "VB_NAME": "Cairnwood Properties Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43142",
+            "MEMBERNAME": "Cairnwood Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

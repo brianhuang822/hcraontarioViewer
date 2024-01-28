@@ -1,0 +1,155 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60622",
+            "Umbrella": "Homes by York",
+            "Umbrella ID": "500000536",
+            "VB_NAME": "Harbour Haus (Goderich) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2021-11-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-13 15:53:31.000 +0000",
+            "Expiry Date": "2024-11-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "303 Richmond Street",
+            "TELEPHONE": "519-433-7587",
+            "FAX": "519-433-4469",
+            "WEBSITEURL": null,
+            "EMAIL": "ali.soufan@yorkdev.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008907",
+            "TO": "Jeffery Kints",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-238-2887"
+        },
+        {
+            "TOUNIQUENUMBER": "339540",
+            "TO": "Walter Spivak",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-859-5601"
+        },
+        {
+            "TOUNIQUENUMBER": "339540",
+            "TO": "Walter Spivak",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-859-5601"
+        },
+        {
+            "TOUNIQUENUMBER": "600008906",
+            "TO": "Ronald Delanghe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-640-6350"
+        },
+        {
+            "TOUNIQUENUMBER": "12348914",
+            "TO": "Ali Soufan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-630-7640"
+        },
+        {
+            "TOUNIQUENUMBER": "12348914",
+            "TO": "Ali Soufan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-630-7640"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60622",
+            "Umbrella": "Homes by York",
+            "Umbrella ID": "500000536",
+            "VB_NAME": "Harbour Haus (Goderich) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47501",
+            "MEMBERNAME": "Sali Design and Build Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60622",
+            "Umbrella": "Homes by York",
+            "Umbrella ID": "500000536",
+            "VB_NAME": "Harbour Haus (Goderich) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60622",
+            "MEMBERNAME": "Harbour Haus (Goderich) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60622",
+            "Umbrella": "Homes by York",
+            "Umbrella ID": "500000536",
+            "VB_NAME": "Harbour Haus (Goderich) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61496",
+            "MEMBERNAME": "Hyde Park Ventures Inc.",
+            "MEMBEROPERATINGNAME": "Hyde Park Ventures Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60622",
+            "Umbrella": "Homes by York",
+            "Umbrella ID": "500000536",
+            "VB_NAME": "Harbour Haus (Goderich) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61545",
+            "MEMBERNAME": "2219008 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60622",
+            "Umbrella": "Homes by York",
+            "Umbrella ID": "500000536",
+            "VB_NAME": "Harbour Haus (Goderich) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60378",
+            "MEMBERNAME": "Springfield Custom Homes (London) Limited",
+            "MEMBEROPERATINGNAME": "Springfield Custom Homes (London) Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Harbour Haus",
+            "Project Status": "In Progress",
+            "Location": "GODERICH",
+            "Address": " 51 St Andrew Street ",
+            "# of Units": 70,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37829",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "964029 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2007-08-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-08-04 15:00:55.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "263 Wellington St., W., Unit 103",
+            "TELEPHONE": "416-847-0762",
+            "FAX": "905-284-6626",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12227922",
+            "TO": "Raymond W.M. Leung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-505-3338-416-858-919"
+        },
+        {
+            "TOUNIQUENUMBER": "12227922",
+            "TO": "Raymond W.M. Leung",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-505-3338-416-858-919"
+        },
+        {
+            "TOUNIQUENUMBER": "12227921",
+            "TO": "Thomas Leung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-505-3338"
+        },
+        {
+            "TOUNIQUENUMBER": "12227921",
+            "TO": "Thomas Leung",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-505-3338"
+        },
+        {
+            "TOUNIQUENUMBER": "12227923",
+            "TO": "King Sham Leung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-569-2671"
+        },
+        {
+            "TOUNIQUENUMBER": "12227923",
+            "TO": "King Sham Leung",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-569-2671"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37829",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "964029 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Wellington Street West",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "263 Wellington St. W.",
+            "# of Units": 72,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-04-09"
+        }
+    ],
+    "builderConditions": []
+}

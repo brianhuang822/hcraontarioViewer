@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42975",
+            "Umbrella": "Hirvas Construction",
+            "Umbrella ID": "12539258",
+            "VB_NAME": "1876134 Ontario Ltd.",
+            "OPERATINGNAME": "Hirvas Construction",
+            "CITY": "Gorham",
+            "HCRA_INITIALLICENSEDATE": "2013-06-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-16 21:02:57.000 +0000",
+            "Expiry Date": "2024-06-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8095 Mapleward Road",
+            "TELEPHONE": "807-768-0168",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "thirvas@tbaytel.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12066182",
+            "TO": "Janne Hirvas",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-768-0168"
+        },
+        {
+            "TOUNIQUENUMBER": "12066182",
+            "TO": "Janne Hirvas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-768-0168"
+        },
+        {
+            "TOUNIQUENUMBER": "12066183",
+            "TO": "Tracy Hirvas",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-768-0168"
+        },
+        {
+            "TOUNIQUENUMBER": "12066183",
+            "TO": "Tracy Hirvas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-768-0168"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42975",
+            "Umbrella": "Hirvas Construction",
+            "Umbrella ID": "12539258",
+            "VB_NAME": "1876134 Ontario Ltd.",
+            "OPERATINGNAME": "Hirvas Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42975",
+            "MEMBERNAME": "1876134 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Hirvas Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42975",
+            "Umbrella": "Hirvas Construction",
+            "Umbrella ID": "12539258",
+            "VB_NAME": "1876134 Ontario Ltd.",
+            "OPERATINGNAME": "Hirvas Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35368",
+            "MEMBERNAME": "Janne Hirvas",
+            "MEMBEROPERATINGNAME": "Hirvas Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

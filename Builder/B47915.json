@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47915",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "North Brock Street Holdings Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2021-01-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-05 19:47:38.000 +0000",
+            "Expiry Date": "2025-01-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "60 Renfrew Drive",
+            "TELEPHONE": "647-297-4442",
+            "FAX": null,
+            "WEBSITEURL": "www.sage@sagedev.ca",
+            "EMAIL": "Sage@sagedev.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12466289",
+            "TO": "Sajid Rehmatullah",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-297-4442"
+        },
+        {
+            "TOUNIQUENUMBER": "12466289",
+            "TO": "Sajid Rehmatullah",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-297-4442"
+        },
+        {
+            "TOUNIQUENUMBER": "11711906",
+            "TO": "Kamran Iqbal",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-479-9600"
+        },
+        {
+            "TOUNIQUENUMBER": "11711906",
+            "TO": "Kamran Iqbal",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-479-9600"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47915",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "North Brock Street Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Spencer",
+            "Project Status": "In Progress",
+            "Location": "DUNDAS",
+            "Address": " 24 Brock Street North ",
+            "# of Units": 51,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

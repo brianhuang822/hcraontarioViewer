@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48009",
+            "Umbrella": "Ascent Contracting",
+            "Umbrella ID": "12551397",
+            "VB_NAME": "4429583 Canada Inc.",
+            "OPERATINGNAME": "Ascent Contracting",
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2020-02-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-31 21:18:03.000 +0000",
+            "Expiry Date": "2025-01-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "44 Byron Avenue",
+            "TELEPHONE": "613-299-7366",
+            "FAX": null,
+            "WEBSITEURL": "www.ascentcontracting.ca",
+            "EMAIL": "simone_hopkins@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100603639",
+            "TO": "Simone Chechim Hopkins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-299-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "100603639",
+            "TO": "Simone Chechim Hopkins",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-299-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "100603643",
+            "TO": "Daniel Hopkins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-324-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "100603643",
+            "TO": "Daniel Hopkins",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-324-7366"
+        },
+        {
+            "TOUNIQUENUMBER": "100603643",
+            "TO": "Daniel Hopkins",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-324-7366"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48009",
+            "Umbrella": "Ascent Contracting",
+            "Umbrella ID": "12551397",
+            "VB_NAME": "4429583 Canada Inc.",
+            "OPERATINGNAME": "Ascent Contracting",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48171",
+            "MEMBERNAME": "Simone Chechim & Daniel Hopkins",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48009",
+            "Umbrella": "Ascent Contracting",
+            "Umbrella ID": "12551397",
+            "VB_NAME": "4429583 Canada Inc.",
+            "OPERATINGNAME": "Ascent Contracting",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48009",
+            "MEMBERNAME": "4429583 Canada Inc.",
+            "MEMBEROPERATINGNAME": "Ascent Contracting",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

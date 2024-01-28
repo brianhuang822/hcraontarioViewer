@@ -1,0 +1,123 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40300",
+            "Umbrella": "Mark Lane Construction",
+            "Umbrella ID": "12403490",
+            "VB_NAME": "1785489 Ontario Limited",
+            "OPERATINGNAME": "Mark Lane Construction",
+            "CITY": "Utterson",
+            "HCRA_INITIALLICENSEDATE": "2010-02-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-09 21:22:19.000 +0000",
+            "Expiry Date": "2025-02-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "239 Stephenson 12 Road East",
+            "TELEPHONE": "705-789-8202",
+            "FAX": "705-789-7517",
+            "WEBSITEURL": " ",
+            "EMAIL": "info@marklaneconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339905",
+            "TO": "Mark Andrew Lane",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-789-8202"
+        },
+        {
+            "TOUNIQUENUMBER": "339905",
+            "TO": "Mark Andrew Lane",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-789-8202"
+        },
+        {
+            "TOUNIQUENUMBER": "339905",
+            "TO": "Mark Andrew Lane",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-789-8202"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40300",
+            "Umbrella": "Mark Lane Construction",
+            "Umbrella ID": "12403490",
+            "VB_NAME": "1785489 Ontario Limited",
+            "OPERATINGNAME": "Mark Lane Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B22101",
+            "MEMBERNAME": "Mark Andrew Lane",
+            "MEMBEROPERATINGNAME": "Mark Lane Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40300",
+            "Umbrella": "Mark Lane Construction",
+            "Umbrella ID": "12403490",
+            "VB_NAME": "1785489 Ontario Limited",
+            "OPERATINGNAME": "Mark Lane Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34329",
+            "MEMBERNAME": "Mark Lane",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40300",
+            "Umbrella": "Mark Lane Construction",
+            "Umbrella ID": "12403490",
+            "VB_NAME": "1785489 Ontario Limited",
+            "OPERATINGNAME": "Mark Lane Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28254",
+            "MEMBERNAME": "Mark Andrew Lane",
+            "MEMBEROPERATINGNAME": "Mark Lane Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40300",
+            "Umbrella": "Mark Lane Construction",
+            "Umbrella ID": "12403490",
+            "VB_NAME": "1785489 Ontario Limited",
+            "OPERATINGNAME": "Mark Lane Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40300",
+            "MEMBERNAME": "1785489 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Mark Lane Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40300",
+            "Umbrella": "Mark Lane Construction",
+            "Umbrella ID": "12403490",
+            "VB_NAME": "1785489 Ontario Limited",
+            "OPERATINGNAME": "Mark Lane Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27329",
+            "MEMBERNAME": "Mark Andrew Lane",
+            "MEMBEROPERATINGNAME": "Mark Lane Construction",
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

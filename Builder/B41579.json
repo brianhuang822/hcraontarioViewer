@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41579",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Executive Acquisitions Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2011-10-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-10-27 13:00:04.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Skyline Investments Inc., 36 King St. E., Ste. 700",
+            "TELEPHONE": "416/368-2565",
+            "FAX": "416/368-2572",
+            "WEBSITEURL": "www.skylineinvestments.com",
+            "EMAIL": "paulm@skylineinvestments.com",
+            "ACCOUNTNUMBER": "B41579",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 67,
+            "SUMM_TOTAL": 72,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12219786",
+            "TO": "Vadim Shub",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-368-2565"
+        },
+        {
+            "TOUNIQUENUMBER": "100367111",
+            "TO": "Blake Lyon",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-535-8651"
+        },
+        {
+            "TOUNIQUENUMBER": "100367111",
+            "TO": "Blake Lyon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-535-8651"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41579",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Executive Acquisitions Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48636",
+            "MEMBERNAME": "Skyline Edge Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41579",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Executive Acquisitions Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47871",
+            "MEMBERNAME": "Skyline Valley Lodge Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41579",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Executive Acquisitions Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31567",
+            "MEMBERNAME": "Skyline Cosmopolitan Ltd.",
+            "MEMBEROPERATINGNAME": "The Cosmopolitan",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41579",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Executive Acquisitions Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41579",
+            "MEMBERNAME": "Skyline Executive Acquisitions Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41579",
+            "Umbrella": "Skyline Ontario Development Group",
+            "Umbrella ID": "12507109",
+            "VB_NAME": "Skyline Executive Acquisitions Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43810",
+            "MEMBERNAME": "Skyline Esplanade Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Copeland House Condominium",
+            "Project Status": "Completed",
+            "Location": "ORO-MEDONTE",
+            "Address": "40 Horseshoe Blvd",
+            "# of Units": 67,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-01-25"
+        }
+    ],
+    "builderConditions": []
+}

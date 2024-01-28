@@ -1,0 +1,222 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38706",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (City Centre) Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "Vancouver",
+            "HCRA_INITIALLICENSEDATE": "2008-05-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-14 12:28:47.000 +0000",
+            "Expiry Date": "2024-05-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "856 Homer Street",
+            "TELEPHONE": "604-602-7700",
+            "FAX": "604-602-7710",
+            "WEBSITEURL": "www.amacon.com",
+            "EMAIL": "homewarranty@amacon.com",
+            "ACCOUNTNUMBER": "B38706",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 2002,
+            "SUMM_TOTAL": 2002,
+            "SUMM_CC": 11,
+            "SUMM_MINOR": 8,
+            "SUMM_MINOR_AMT": 51538,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 51538
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11637595",
+            "TO": "Marcello De Cotiis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11637595",
+            "TO": "Marcello De Cotiis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        },
+        {
+            "TOUNIQUENUMBER": "11637595",
+            "TO": "Marcello De Cotiis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-602-7700"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38706",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (City Centre) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33372",
+            "MEMBERNAME": "Amacon Development (Hurontario) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38706",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (City Centre) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38706",
+            "MEMBERNAME": "Amacon Development (City Centre) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B38706",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (City Centre) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31498",
+            "MEMBERNAME": "Amacon Development (Parkway) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38706",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (City Centre) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32628",
+            "MEMBERNAME": "Amacon Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Block 9",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 4055 Parkside Village Dr. ",
+            "# of Units": 600,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-12-14"
+        },
+        {
+            "Condo Project Name": "PSV2",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 510 Curran Pl. ",
+            "# of Units": 418,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-02-27"
+        },
+        {
+            "Condo Project Name": "PSV1",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 4011 Brickstone Mews ",
+            "# of Units": 591,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-11-14"
+        },
+        {
+            "Condo Project Name": "Towns at Parkside Village",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4080/4070 Parkside Village Dr.",
+            "# of Units": 68,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-11-03"
+        },
+        {
+            "Condo Project Name": "The Park Residences at Parkside Village",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4099 Brickstone Mews",
+            "# of Units": 303,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-08-21"
+        },
+        {
+            "Condo Project Name": "The Grand Residences at Parkside Village",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4070 Confederation Parkway",
+            "# of Units": 452,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-01-17"
+        },
+        {
+            "Condo Project Name": "The Residences at Parkside Village",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4065 Brickstone Mews",
+            "# of Units": 298,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-05-03"
+        },
+        {
+            "Condo Project Name": "VOYA 1",
+            "Project Status": "In Progress",
+            "Location": "MISSISSAUGA",
+            "Address": " 4116 Parkside Village Drive ",
+            "# of Units": 525,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Avia 1",
+            "Project Status": "In Progress",
+            "Location": "MISSISSAUGA",
+            "Address": " 430 Square One Drvie ",
+            "# of Units": 610,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Avia 2",
+            "Project Status": "In Progress",
+            "Location": "MISSISSAUGA",
+            "Address": " 4130 Parkside Village Drive ",
+            "# of Units": 436,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "VOYA 2",
+            "Project Status": "In Progress",
+            "Location": "MISSISSAUGA",
+            "Address": " 4128 Parkside Village Drive ",
+            "# of Units": 407,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

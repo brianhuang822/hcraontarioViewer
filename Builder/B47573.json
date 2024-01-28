@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47573",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2583957 Ontario Ltd.",
+            "OPERATINGNAME": "Welcome Home Construction",
+            "CITY": "Kitchener",
+            "HCRA_INITIALLICENSEDATE": "2019-07-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-19 16:47:59.000 +0000",
+            "Expiry Date": "2024-07-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "15 Charles Street East",
+            "TELEPHONE": "519-760-2224",
+            "FAX": "519-489-2722",
+            "WEBSITEURL": "http://www.welcomehome.construction",
+            "EMAIL": "riz@welcomehome.construction",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100562010",
+            "TO": "Rizvan Jamal",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-760-2224"
+        },
+        {
+            "TOUNIQUENUMBER": "100562010",
+            "TO": "Rizvan Jamal",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-760-2224"
+        },
+        {
+            "TOUNIQUENUMBER": "100573081",
+            "TO": "Faizal Jamal",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-729-9445"
+        },
+        {
+            "TOUNIQUENUMBER": "100573081",
+            "TO": "Faizal Jamal",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-729-9445"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47573",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2583957 Ontario Ltd.",
+            "OPERATINGNAME": "Welcome Home Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Cedar Hills",
+            "Project Status": "In Progress",
+            "Location": "KITCHENER",
+            "Address": " 17-19 Peter Street ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

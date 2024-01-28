@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27297",
+            "Umbrella": "Twins-Peak Construction",
+            "Umbrella ID": "12539762",
+            "VB_NAME": "Twins-Peak Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1998-05-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-05-14 12:00:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "301-255 Christie St.",
+            "TELEPHONE": "416-250-7855",
+            "FAX": "416-250-0017",
+            "WEBSITEURL": "www.twins-peak.com",
+            "EMAIL": "twinspeak@gmail.com",
+            "ACCOUNTNUMBER": "B27297",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 93516.85,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 93516.85
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339906",
+            "TO": "Sung Ho Kim",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-250-7855"
+        },
+        {
+            "TOUNIQUENUMBER": "339906",
+            "TO": "Sung Ho Kim",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-250-7855"
+        },
+        {
+            "TOUNIQUENUMBER": "339906",
+            "TO": "Sung Ho Kim",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-250-7855"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27297",
+            "Umbrella": "Twins-Peak Construction",
+            "Umbrella ID": "12539762",
+            "VB_NAME": "Twins-Peak Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27297",
+            "MEMBERNAME": "Twins-Peak Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27297",
+            "Umbrella": "Twins-Peak Construction",
+            "Umbrella ID": "12539762",
+            "VB_NAME": "Twins-Peak Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22103",
+            "MEMBERNAME": "Vic-Twin Investments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

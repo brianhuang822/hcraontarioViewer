@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62240",
+            "Umbrella": "Six Pines Construction",
+            "Umbrella ID": "500002329",
+            "VB_NAME": "Six Pines Construction Inc.",
+            "OPERATINGNAME": "Six Pines Construction",
+            "CITY": "Baltimore",
+            "HCRA_INITIALLICENSEDATE": "2023-05-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-30 12:53:49.000 +0000",
+            "Expiry Date": "2024-05-31",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "384 Earl Road",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": "https://www.sixpinesconstruction.com/",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600005648",
+            "TO": "Jesse Ewart",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "365-323-9624"
+        },
+        {
+            "TOUNIQUENUMBER": "600005648",
+            "TO": "Jesse Ewart",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "365-323-9624"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62240",
+            "Umbrella": "Six Pines Construction",
+            "Umbrella ID": "500002329",
+            "VB_NAME": "Six Pines Construction Inc.",
+            "OPERATINGNAME": "Six Pines Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60129",
+            "MEMBERNAME": "Jesse Gordon Ewart",
+            "MEMBEROPERATINGNAME": "Six Pines Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62240",
+            "Umbrella": "Six Pines Construction",
+            "Umbrella ID": "500002329",
+            "VB_NAME": "Six Pines Construction Inc.",
+            "OPERATINGNAME": "Six Pines Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62240",
+            "MEMBERNAME": "Six Pines Construction Inc.",
+            "MEMBEROPERATINGNAME": "Six Pines Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

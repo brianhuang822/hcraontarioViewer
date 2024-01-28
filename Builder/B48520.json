@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48520",
+            "Umbrella": "Freeburn Construction",
+            "Umbrella ID": "12545591",
+            "VB_NAME": "2748000 Ontario Inc.",
+            "OPERATINGNAME": "Alair Homes Huron",
+            "CITY": "Port Elgin",
+            "HCRA_INITIALLICENSEDATE": "2020-12-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-03 16:57:14.000 +0000",
+            "Expiry Date": "2024-12-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1119 Goderich Street North",
+            "TELEPHONE": "519-385-0845",
+            "FAX": null,
+            "WEBSITEURL": "https://www.alairhomes.ca/grey-bruce/",
+            "EMAIL": "ben.freeburn@alairhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600000367",
+            "TO": "Benjamin Freeburn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-385-0845"
+        },
+        {
+            "TOUNIQUENUMBER": "600000367",
+            "TO": "Benjamin Freeburn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-385-0845"
+        },
+        {
+            "TOUNIQUENUMBER": "100253638",
+            "TO": "Dylan Freeburn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-385-0282"
+        },
+        {
+            "TOUNIQUENUMBER": "100253638",
+            "TO": "Dylan Freeburn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-385-0282"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48520",
+            "Umbrella": "Freeburn Construction",
+            "Umbrella ID": "12545591",
+            "VB_NAME": "2748000 Ontario Inc.",
+            "OPERATINGNAME": "Alair Homes Huron",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43970",
+            "MEMBERNAME": "2391704 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Alair Homes Grey-Bruce",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48520",
+            "Umbrella": "Freeburn Construction",
+            "Umbrella ID": "12545591",
+            "VB_NAME": "2748000 Ontario Inc.",
+            "OPERATINGNAME": "Alair Homes Huron",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B10355",
+            "MEMBERNAME": "Freeburn Fine Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48520",
+            "Umbrella": "Freeburn Construction",
+            "Umbrella ID": "12545591",
+            "VB_NAME": "2748000 Ontario Inc.",
+            "OPERATINGNAME": "Alair Homes Huron",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48520",
+            "MEMBERNAME": "2748000 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Alair Homes Huron",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

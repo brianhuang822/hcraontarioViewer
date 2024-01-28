@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40898",
+            "Umbrella": "Solum",
+            "Umbrella ID": "12449718",
+            "VB_NAME": "Solum Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2010-10-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-10 00:27:39.000 +0000",
+            "Expiry Date": "2024-10-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1255 Honeysuckle Crescent",
+            "TELEPHONE": "416-301-3178",
+            "FAX": "905-787-2001",
+            "WEBSITEURL": "www.solum.ca",
+            "EMAIL": "ac@solum.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12186298",
+            "TO": "Abdullah Chutani",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-301-3178"
+        },
+        {
+            "TOUNIQUENUMBER": "12186298",
+            "TO": "Abdullah Chutani",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-301-3178"
+        },
+        {
+            "TOUNIQUENUMBER": "12186298",
+            "TO": "Abdullah Chutani",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-301-3178"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40898",
+            "Umbrella": "Solum",
+            "Umbrella ID": "12449718",
+            "VB_NAME": "Solum Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40898",
+            "MEMBERNAME": "Solum Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40898",
+            "Umbrella": "Solum",
+            "Umbrella ID": "12449718",
+            "VB_NAME": "Solum Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37112",
+            "MEMBERNAME": "Stylux Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Stylux Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

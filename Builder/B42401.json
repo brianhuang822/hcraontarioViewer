@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42401",
+            "Umbrella": "Devon Design Homes",
+            "Umbrella ID": "12542235",
+            "VB_NAME": "Devon Design Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "St. Catherines",
+            "HCRA_INITIALLICENSEDATE": "2012-10-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-04 15:09:10.000 +0000",
+            "Expiry Date": "2024-10-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9 Viking Drive",
+            "TELEPHONE": "905-935-9882",
+            "FAX": "905/935-4973",
+            "WEBSITEURL": "devondesigninc.ca",
+            "EMAIL": "devondesigninc@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338182",
+            "TO": "Ronald Friesen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-935-9882"
+        },
+        {
+            "TOUNIQUENUMBER": "338182",
+            "TO": "Ronald Friesen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-935-9882"
+        },
+        {
+            "TOUNIQUENUMBER": "338182",
+            "TO": "Ronald Friesen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-935-9882"
+        },
+        {
+            "TOUNIQUENUMBER": "100137183",
+            "TO": "Allison Friesen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-935-9882"
+        },
+        {
+            "TOUNIQUENUMBER": "100137183",
+            "TO": "Allison Friesen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-935-9882"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42401",
+            "Umbrella": "Devon Design Homes",
+            "Umbrella ID": "12542235",
+            "VB_NAME": "Devon Design Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42401",
+            "MEMBERNAME": "Devon Design Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42401",
+            "Umbrella": "Devon Design Homes",
+            "Umbrella ID": "12542235",
+            "VB_NAME": "Devon Design Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B20904",
+            "MEMBERNAME": "Ron Friesen",
+            "MEMBEROPERATINGNAME": "Devon Design Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

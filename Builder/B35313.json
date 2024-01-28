@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35313",
+            "Umbrella": "Silper Corporation",
+            "Umbrella ID": "12136427",
+            "VB_NAME": "Silper Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "ETOBICOKE",
+            "HCRA_INITIALLICENSEDATE": "2005-02-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-02-16 16:00:40.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "15 Westbank Cres.",
+            "TELEPHONE": "416-248-4847",
+            "FAX": "416-248-5274",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344175",
+            "TO": "Manuel Pereira",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-248-5274"
+        },
+        {
+            "TOUNIQUENUMBER": "344175",
+            "TO": "Manuel Pereira",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-248-5274"
+        },
+        {
+            "TOUNIQUENUMBER": "344175",
+            "TO": "Manuel Pereira",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-248-5274"
+        },
+        {
+            "TOUNIQUENUMBER": "11908312",
+            "TO": "Victor A.P. da Silva",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-318-8645"
+        },
+        {
+            "TOUNIQUENUMBER": "11908312",
+            "TO": "Victor A.P. da Silva",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-318-8645"
+        },
+        {
+            "TOUNIQUENUMBER": "11908312",
+            "TO": "Victor A.P. da Silva",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-318-8645"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35313",
+            "Umbrella": "Silper Corporation",
+            "Umbrella ID": "12136427",
+            "VB_NAME": "Silper Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33474",
+            "MEMBERNAME": "Silper Corporation",
+            "MEMBEROPERATINGNAME": "Silper Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B35313",
+            "Umbrella": "Silper Corporation",
+            "Umbrella ID": "12136427",
+            "VB_NAME": "Silper Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35313",
+            "MEMBERNAME": "Silper Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "LIGHTHOUSE COURT",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "8 Wesley Ave. & 188-198 Lakeshore Rd. W.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-04-06"
+        }
+    ],
+    "builderConditions": []
+}

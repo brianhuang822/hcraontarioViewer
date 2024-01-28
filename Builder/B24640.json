@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24640",
+            "Umbrella": "388 Bloor East",
+            "Umbrella ID": "12539773",
+            "VB_NAME": "Parkview-Kingsdale Holds.Ltd.",
+            "OPERATINGNAME": "Kingsdale Terrace",
+            "CITY": "DOWNSVIEW",
+            "HCRA_INITIALLICENSEDATE": "1995-01-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1998-01-27 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3625 Dufferin St., Ste. 500",
+            "TELEPHONE": "(416)635-7520",
+            "FAX": "(416)635-9921",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "315403",
+            "TO": "Thomas (Tom) Hofstedter",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-633-6462"
+        },
+        {
+            "TOUNIQUENUMBER": "315403",
+            "TO": "Thomas (Tom) Hofstedter",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-633-6462"
+        },
+        {
+            "TOUNIQUENUMBER": "315396",
+            "TO": "Sandor Hofstedter",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-7575"
+        },
+        {
+            "TOUNIQUENUMBER": "315396",
+            "TO": "Sandor Hofstedter",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-7575"
+        },
+        {
+            "TOUNIQUENUMBER": "321008",
+            "TO": "Mark Mandelbaum",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-7424"
+        },
+        {
+            "TOUNIQUENUMBER": "321008",
+            "TO": "Mark Mandelbaum",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-7424"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24640",
+            "Umbrella": "388 Bloor East",
+            "Umbrella ID": "12539773",
+            "VB_NAME": "Parkview-Kingsdale Holds.Ltd.",
+            "OPERATINGNAME": "Kingsdale Terrace",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28269",
+            "MEMBERNAME": "Two Bloor Residences Limited",
+            "MEMBEROPERATINGNAME": "8 Park Road",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B24640",
+            "Umbrella": "388 Bloor East",
+            "Umbrella ID": "12539773",
+            "VB_NAME": "Parkview-Kingsdale Holds.Ltd.",
+            "OPERATINGNAME": "Kingsdale Terrace",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26867",
+            "MEMBERNAME": "388 Bloor East Limited",
+            "MEMBEROPERATINGNAME": "The Rosedale",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B24640",
+            "Umbrella": "388 Bloor East",
+            "Umbrella ID": "12539773",
+            "VB_NAME": "Parkview-Kingsdale Holds.Ltd.",
+            "OPERATINGNAME": "Kingsdale Terrace",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24640",
+            "MEMBERNAME": "Parkview-Kingsdale Holds.Ltd.",
+            "MEMBEROPERATINGNAME": "Kingsdale Terrace",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "KINGSDALE TERRACE",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "238 Doris Ave.",
+            "# of Units": 205,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-02-10"
+        }
+    ],
+    "builderConditions": []
+}

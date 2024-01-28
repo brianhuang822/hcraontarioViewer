@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31201",
+            "Umbrella": "RQH",
+            "Umbrella ID": "500001390",
+            "VB_NAME": "1413600 Ontario Ltd.",
+            "OPERATINGNAME": "Royalty Homes",
+            "CITY": "Windsor",
+            "HCRA_INITIALLICENSEDATE": "2000-12-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-03 15:04:02.000 +0000",
+            "Expiry Date": "2024-12-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4521 Southwood Lakes Boulevard",
+            "TELEPHONE": "519-966-6636",
+            "FAX": "519-966-9612",
+            "WEBSITEURL": "www.royaltyhomes.ca",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B31201",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 82,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 82,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345262",
+            "TO": "Amira Habib",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-966-6636"
+        },
+        {
+            "TOUNIQUENUMBER": "318342",
+            "TO": "Ahmad Habib",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-796-7408"
+        },
+        {
+            "TOUNIQUENUMBER": "318342",
+            "TO": "Ahmad Habib",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-796-7408"
+        },
+        {
+            "TOUNIQUENUMBER": "318342",
+            "TO": "Ahmad Habib",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-796-7408"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA102600",
+            "CHARGE_AGAINST": "1413600 Ontario Ltd.",
+            "CHARGE_DATE": "2010-04-13",
+            "DISPOSITION_DATE": "2010-08-09",
+            "THE_FINE_": "500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "110",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9324860",
+            "ORGANIZATION_NAME": "1413600 Ontario Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Windsor, ON",
+            "CITY_DEFENCE": "Windsor, ON",
+            "VB_NUMBER": "B31201",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA102600 9324860",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Windsor, City",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2010-02-01",
+            "TO_OFFENCE_DATE": "2010-03-30",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "610",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "45:11.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B31201",
+            "Umbrella": "RQH",
+            "Umbrella ID": "500001390",
+            "VB_NAME": "1413600 Ontario Ltd.",
+            "OPERATINGNAME": "Royalty Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61086",
+            "MEMBERNAME": "1954945 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31201",
+            "Umbrella": "RQH",
+            "Umbrella ID": "500001390",
+            "VB_NAME": "1413600 Ontario Ltd.",
+            "OPERATINGNAME": "Royalty Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31201",
+            "MEMBERNAME": "1413600 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Royalty Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

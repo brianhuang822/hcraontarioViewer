@@ -1,0 +1,1762 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Pemberton Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 3,
+            "TOTALUNITS": 8731,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 7457.39,
+            "ADDRESS": "50 Confederation Parkway",
+            "TELEPHONE": "905-326-4000",
+            "FAX": "905-760-1185",
+            "WEBSITEURL": "www.pembertongroup.com",
+            "EMAIL": "pembgrp@istar.ca",
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "The Gates of Bayview Glen Phase VI Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32582",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Gates Of Bayview Glen Phase I Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27086",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Highrise Properties (Phase VII) Inc.",
+            "MEMBEROPERATINGNAME": "THE SOMERTON AT ROSEDALE VILLAGE",
+            "MEMBERVBNUM": "B45915",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Gates of Bayview Glen (Phase VII) Corporation",
+            "MEMBEROPERATINGNAME": "Park Glen II",
+            "MEMBERVBNUM": "B33520",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Metcalfe and Eglinton Developments (Phase II) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44841",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Friday Harbour Mid-Rise (Phase 2) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44539",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Beach Development (Phase I) Corporation",
+            "MEMBEROPERATINGNAME": "The Beach Condominum",
+            "MEMBERVBNUM": "B26816",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Parkway Builders (Phase III) Corporation",
+            "MEMBEROPERATINGNAME": "Parkway Place In Erin Mills",
+            "MEMBERVBNUM": "B28652",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Beach Development (Phase II) Corporation",
+            "MEMBEROPERATINGNAME": "The Beach Condominiums",
+            "MEMBERVBNUM": "B26934",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Gates Of Bayview Glen Phase II Corporation",
+            "MEMBEROPERATINGNAME": "The Gates Of Bayview Glen",
+            "MEMBERVBNUM": "B28192",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Gates of Bayview Glen Phase VIII Corporation",
+            "MEMBEROPERATINGNAME": "The Royal At Bayview Glen",
+            "MEMBERVBNUM": "B34032",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Yonge and Olive (Phase IV) Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31313",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Parkway Builders (Phase I) Corporation",
+            "MEMBEROPERATINGNAME": "Parkway Place In Erin Mills",
+            "MEMBERVBNUM": "B27844",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Parkway Builders (Phase II) Corporation",
+            "MEMBEROPERATINGNAME": "Parkway Place In Erin Mills",
+            "MEMBERVBNUM": "B28191",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sentinel (Sherbourne) Land Corporation, in its capacity as general partner of and on behalf of Front and Sherbourne Limited Partnership",
+            "MEMBEROPERATINGNAME": "Time and Space",
+            "MEMBERVBNUM": "B45981",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "The Gates of Bayview Glen Phase V Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31314",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Park Lake Residences (Phase I) Inc.",
+            "MEMBEROPERATINGNAME": "Park Lake Residences",
+            "MEMBERVBNUM": "B35232",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Gates of Bayview Glen Phase X Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42022",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "SMC Bay (Phase II) Inc.",
+            "MEMBEROPERATINGNAME": "U Condos",
+            "MEMBERVBNUM": "B38916",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rosedale Village (Phase II) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47379",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Rosedale Village (Phase II) Inc.",
+            "MEMBEROPERATINGNAME": "Rosedale Village",
+            "MEMBERVBNUM": "B27114",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Beach Development (Phase VI) Corporation",
+            "MEMBEROPERATINGNAME": "The Boardwalk",
+            "MEMBERVBNUM": "B27657",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Balmuto Place Inc.",
+            "MEMBEROPERATINGNAME": "Balmuto Place",
+            "MEMBERVBNUM": "B35233",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bluwater Residences Oakville (Phase II) Inc.",
+            "MEMBEROPERATINGNAME": "Bluewater Condominiums",
+            "MEMBERVBNUM": "B40712",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Beach Development (Phase V) Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32630",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Beach Development (Phase VIII) Corporation",
+            "MEMBEROPERATINGNAME": "The Boardwalk Residences",
+            "MEMBERVBNUM": "B32002",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Port Royal Place (Phase V) Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32632",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Glen Erin and Eglinton Developments (Phase I) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31920",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Chelsea Maple Residences (Phase I) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44840",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Metcalfe and Eglinton Developments (Phase III)Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45881",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Port Royal Place (Phase VII) Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41564",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Friday Harbour Mid-Rise (Phase III) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45850",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Rosedale Village Highrise Inc.",
+            "MEMBEROPERATINGNAME": "Rosedale Village Highrise",
+            "MEMBERVBNUM": "B35073",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ashford Terrace (Phase II) Inc.",
+            "MEMBEROPERATINGNAME": "Ashford Terrace",
+            "MEMBERVBNUM": "B38828",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Gates of Bayview Glen Phase IV Corporation",
+            "MEMBEROPERATINGNAME": "Miracle At Yonge",
+            "MEMBERVBNUM": "B40126",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rosedale Village (Phase V) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37055",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Chelsea Maple Residences (Phase II) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46200",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Pem (Church) GP Inc., in its capacity as general partner of and on behalf of Pem (Church) Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B61494",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Pulse Developments (Phase II) Inc.",
+            "MEMBEROPERATINGNAME": "Pulse",
+            "MEMBERVBNUM": "B35242",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Park Lake Residences (Phase II) Inc.",
+            "MEMBEROPERATINGNAME": "Park Lake Residences",
+            "MEMBERVBNUM": "B37082",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Yonge and Olive (Phase II) Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30582",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Port Royal Place (Phase III) Developments Inc.",
+            "MEMBEROPERATINGNAME": "Port Royal Place",
+            "MEMBERVBNUM": "B31108",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "SMC Bay Inc.",
+            "MEMBEROPERATINGNAME": "U Condos",
+            "MEMBERVBNUM": "B38918",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Gibson Residential Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26961",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Pem (Yorkville) Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B60617",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Sentinel (Church) Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46520",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Beach Development (Phase IV) Corporation",
+            "MEMBEROPERATINGNAME": "The Beach Condominiums",
+            "MEMBERVBNUM": "B28279",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Glen Erin and Eglinton Developments (Phase II) Inc",
+            "MEMBEROPERATINGNAME": "Papillon Place",
+            "MEMBERVBNUM": "B33336",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Port Royal Place (Phase II) Developments Inc.",
+            "MEMBEROPERATINGNAME": "Port Royal Place",
+            "MEMBERVBNUM": "B31109",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Gates of Bayview Glen Phase XI Corporation",
+            "MEMBEROPERATINGNAME": "YongeParc",
+            "MEMBERVBNUM": "B46042",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Highrise Properties (Phase V) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42163",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Friday Harbour Mid-Rise (Phase V) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B60314",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Highrise Properties (Phase II) Inc.",
+            "MEMBEROPERATINGNAME": "Rosedale Village",
+            "MEMBERVBNUM": "B35226",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Glen Erin and Eglinton Developments (Phase III) In",
+            "MEMBEROPERATINGNAME": "Papillon Place",
+            "MEMBERVBNUM": "B36100",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Gates of Bayview Glen Phase XII Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46433",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Rosedale Village (Phase VI) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42481",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Friday Harbour Mid-Rise (Phase 1) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42354",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Beach Development (Phase III) Corporation",
+            "MEMBEROPERATINGNAME": "The Beach Condominium",
+            "MEMBERVBNUM": "B27584",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Erin Mills Highrise (Phase I) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46942",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Highrise Properties (Phase IV) Inc.",
+            "MEMBEROPERATINGNAME": "Rosedale Village",
+            "MEMBERVBNUM": "B37810",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Gates of Bayview Glen Phase IX Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41903",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Beach Development (Phase VII) Corporation",
+            "MEMBEROPERATINGNAME": "Boardwalk II",
+            "MEMBERVBNUM": "B31429",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bohemian Embassy Queen St. Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B39911",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1093 Queen Street West Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43248",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bluwater Residences Oakville (Phase 1) Inc.",
+            "MEMBEROPERATINGNAME": "Bluewater Condominiums",
+            "MEMBERVBNUM": "B40711",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bravo Residences Inc.",
+            "MEMBEROPERATINGNAME": "Bravo",
+            "MEMBERVBNUM": "B40041",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Gates Of Bayview Glen Phase III Corporation",
+            "MEMBEROPERATINGNAME": "Miracle At Yonge",
+            "MEMBERVBNUM": "B38110",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Port Royal Place (Phase 1) Developments Inc.",
+            "MEMBEROPERATINGNAME": "Port Royal Place",
+            "MEMBERVBNUM": "B30477",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Yonge and Olive (Phase III) Developments Inc.",
+            "MEMBEROPERATINGNAME": "Princess Place",
+            "MEMBERVBNUM": "B31851",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Pemberton Group Inc.",
+            "MEMBEROPERATINGNAME": "Park Palace",
+            "MEMBERVBNUM": "B24194",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Metcalfe And Eglinton Developments (Phase 1) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42653",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Highrise Properties (Phase III) Inc.",
+            "MEMBEROPERATINGNAME": "Rosedale Village",
+            "MEMBERVBNUM": "B36971",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Palmer House Inc./Pemberton Group Inc.",
+            "MEMBEROPERATINGNAME": "The Park Lane",
+            "MEMBERVBNUM": "B26107",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Port Royal Place (Phase VI) Developments Inc.",
+            "MEMBEROPERATINGNAME": "Port Royal Place",
+            "MEMBERVBNUM": "B35227",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ninth and Main General Partner Inc., in its capacity as general partner of and on behalf of Ninth and Main Limited Partnership",
+            "MEMBEROPERATINGNAME": "9th & Main",
+            "MEMBERVBNUM": "B46888",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Gates of Bayview Inc., in its capacity as General Partner of and on behalf of Gates Oneida Phase I LP",
+            "MEMBEROPERATINGNAME": "Gates of Bayview Inc., in its capacity as General Partner of and on behalf of Gates Oneida Phase I LP",
+            "MEMBERVBNUM": "B61518",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "543 Richmond Street West Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47236",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Port Royal Place (Phase VIII) Developments Inc.",
+            "MEMBEROPERATINGNAME": "Palais At Port Royal Place",
+            "MEMBERVBNUM": "B37717",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sentinel (Broadway) Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44265",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2015174 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Pulse",
+            "MEMBERVBNUM": "B34783",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Port Royal Place (Phase IV) Developments Inc.",
+            "MEMBEROPERATINGNAME": "Port Royal Place",
+            "MEMBERVBNUM": "B33225",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Princess Place (Phase I) Developments Inc.",
+            "MEMBEROPERATINGNAME": "Princess Place",
+            "MEMBERVBNUM": "B30448",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Glen Erin and Eglinton Developments (Phase IV) Inc",
+            "MEMBEROPERATINGNAME": "Papillon Place",
+            "MEMBERVBNUM": "B38695",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ashford Terrace (Phase I) Inc.",
+            "MEMBEROPERATINGNAME": "Ashford Terrace",
+            "MEMBERVBNUM": "B38162",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 24,
+            "Condo Unit Posessions": 312,
+            "Total Posessions": 336,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 31,
+            "Condo Unit Posessions": 193,
+            "Total Posessions": 224,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 54,
+            "Condo Unit Posessions": 1057,
+            "Total Posessions": 1111,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 31,
+            "Condo Unit Posessions": 461,
+            "Total Posessions": 492,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 56,
+            "Condo Unit Posessions": 487,
+            "Total Posessions": 543,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 73,
+            "Condo Unit Posessions": 595,
+            "Total Posessions": 668,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 65,
+            "Condo Unit Posessions": 580,
+            "Total Posessions": 645,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 20,
+            "Condo Unit Posessions": 720,
+            "Total Posessions": 740,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 52,
+            "Condo Unit Posessions": 987,
+            "Total Posessions": 1039,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 56,
+            "Condo Unit Posessions": 1030,
+            "Total Posessions": 1086,
+            "Chargeable Conciliation": 2,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 6750,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 6750,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 59,
+            "Condo Unit Posessions": 1824,
+            "Total Posessions": 1883,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 707.39,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 707.39,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2024",
+            "Freehold Posessions": 2,
+            "Condo Unit Posessions": 298,
+            "Total Posessions": 300,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 499,
+            "SUMM_CONDO": 8232,
+            "SUMM_TOTAL": 8731,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 7457.39,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7457.39,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Rosedale Village Phase 6D",
+            "Account Number": "B42481",
+            "Project Status": null,
+            "Location": "BRAMPTON",
+            "Address": "various",
+            "# of Units": 68,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Rosedale Village - Phase 5B",
+            "Account Number": "B37055",
+            "Project Status": null,
+            "Location": "BRAMPTON",
+            "Address": "Alisma Trail and Locust Dr.",
+            "# of Units": 62,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Rosedale Village Phase 6C",
+            "Account Number": "B42481",
+            "Project Status": null,
+            "Location": "BRAMPTON",
+            "Address": "Seedhouse & Lobelia",
+            "# of Units": 54,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "ERA at Yonge",
+            "Account Number": "B46433",
+            "Project Status": "In Progress",
+            "Location": "RICHMOND HILL",
+            "Address": " 95 Oneida Crescent ",
+            "# of Units": 575,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "9th & Main Condos + Towns",
+            "Account Number": "B46888",
+            "Project Status": "Completed",
+            "Location": "STOUFFVILLE",
+            "Address": " 11750 Ninth Line, ",
+            "# of Units": 245,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-10-30"
+        },
+        {
+            "Condo Project Name": "High Point Friday Harbour",
+            "Account Number": "B45850",
+            "Project Status": "Completed",
+            "Location": "INNISFIL",
+            "Address": " 415 Sea Ray Ave. ",
+            "# of Units": 232,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-09-26"
+        },
+        {
+            "Condo Project Name": "The Mackenzie",
+            "Account Number": "B46200",
+            "Project Status": "Completed",
+            "Location": "MAPLE",
+            "Address": " 120 Eagle Rock Way ",
+            "# of Units": 117,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-09-26"
+        },
+        {
+            "Condo Project Name": "Erin Square",
+            "Account Number": "B46942",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 4655& 4675 Metcalfe Ave ",
+            "# of Units": 410,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-08-05"
+        },
+        {
+            "Condo Project Name": "YongeParc",
+            "Account Number": "B46042",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": " 85 Oneida Cres. ",
+            "# of Units": 232,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-06-17"
+        },
+        {
+            "Condo Project Name": "GO.2",
+            "Account Number": "B46200",
+            "Project Status": "Completed",
+            "Location": "MAPLE",
+            "Address": " 110 Eagle Rock Way ",
+            "# of Units": 312,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-06-09"
+        },
+        {
+            "Condo Project Name": "Citylights on Broadway - South Tower",
+            "Account Number": "B44265",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 195 Redpath Ave. ",
+            "# of Units": 919,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-03-14"
+        },
+        {
+            "Condo Project Name": "Mills Square (Building C & D)",
+            "Account Number": "B45881",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 4677 Glen Erin Dr. ",
+            "# of Units": 355,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-12-21"
+        },
+        {
+            "Condo Project Name": "YongeParc",
+            "Account Number": "B46042",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": " 75 Oneida Cres. ",
+            "# of Units": 202,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-11-26"
+        },
+        {
+            "Condo Project Name": "Aquarius",
+            "Account Number": "B45850",
+            "Project Status": "Completed",
+            "Location": "INNISFIL",
+            "Address": " 375 Sea Ray Avenue ",
+            "# of Units": 190,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-10-01"
+        },
+        {
+            "Condo Project Name": "Indigo Condominiums in Maple",
+            "Account Number": "B44840",
+            "Project Status": "Completed",
+            "Location": "VAUGHAN",
+            "Address": "99 Eagle Rock Way",
+            "# of Units": 263,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-01-30"
+        },
+        {
+            "Condo Project Name": "Rosedale Village",
+            "Account Number": "B45915",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "30 Via Rosedale",
+            "# of Units": 49,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-11-13"
+        },
+        {
+            "Condo Project Name": "Rosedale G",
+            "Account Number": "B45915",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": " 40 Via Rosedale ",
+            "# of Units": 49,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-11-13"
+        },
+        {
+            "Condo Project Name": "Downtown Erin Mills Condominiums",
+            "Account Number": "B44841",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4655 Glen Erin Dr.",
+            "# of Units": 180,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-06-13"
+        },
+        {
+            "Condo Project Name": "Skycity",
+            "Account Number": "B42022",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": " 65 Oneida Cres. ",
+            "# of Units": 216,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-03-20"
+        },
+        {
+            "Condo Project Name": "Boardwalk Condominiums",
+            "Account Number": "B44539",
+            "Project Status": "Completed",
+            "Location": "INNISFIL",
+            "Address": " 289,303, 317 & 331 Broward Way ",
+            "# of Units": 70,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-03-19"
+        },
+        {
+            "Condo Project Name": "Harbour Flats Condominiums",
+            "Account Number": "B44539",
+            "Project Status": "Completed",
+            "Location": "INNISFIL",
+            "Address": " 301\\333 Sea Ray Ave. ",
+            "# of Units": 214,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-12-10"
+        },
+        {
+            "Condo Project Name": "Ten 93 Queen West",
+            "Account Number": "B43248",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 106 Dovercourt Road ",
+            "# of Units": 134,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-12-04"
+        },
+        {
+            "Condo Project Name": "Downtown Erin Mills Condominiiums",
+            "Account Number": "B42653",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4633 Glen Erin Dr.",
+            "# of Units": 198,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-05-11"
+        },
+        {
+            "Condo Project Name": "Boardwalk Condos Phase 1",
+            "Account Number": "B42354",
+            "Project Status": "Completed",
+            "Location": "INNISFIL",
+            "Address": "233-275 Broward Way",
+            "# of Units": 72,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-10-06"
+        },
+        {
+            "Condo Project Name": "Harbour Flats/Condos Phase 1",
+            "Account Number": "B42354",
+            "Project Status": "Completed",
+            "Location": "INNISFIL",
+            "Address": " 241/271 Sea Ray Avenue ",
+            "# of Units": 168,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-07-27"
+        },
+        {
+            "Condo Project Name": "Rosedale Village F",
+            "Account Number": "B42163",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "50 Via Rosedale",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-06-19"
+        },
+        {
+            "Condo Project Name": "Sky City",
+            "Account Number": "B41903",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "55 Oneida Cres.",
+            "# of Units": 210,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-06-02"
+        },
+        {
+            "Condo Project Name": "U Condos",
+            "Account Number": "B38916",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1080 Bay St.",
+            "# of Units": 554,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-31"
+        },
+        {
+            "Condo Project Name": "U Condos",
+            "Account Number": "B38918",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "65 St. Mary St.",
+            "# of Units": 448,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-31"
+        },
+        {
+            "Condo Project Name": "Bluwater Condominiums",
+            "Account Number": "B40712",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "3500 Lakeshore Rd., W.",
+            "# of Units": 71,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-08-10"
+        },
+        {
+            "Condo Project Name": "Bluwater Condominiums",
+            "Account Number": "B40711",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": "3500 Lakeshore Road West",
+            "# of Units": 133,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-08-10"
+        },
+        {
+            "Condo Project Name": "Vivid Condominiums",
+            "Account Number": "B41564",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "1 Michael Power Place",
+            "# of Units": 250,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-06-01"
+        },
+        {
+            "Condo Project Name": "Rosedale Village",
+            "Account Number": "B42163",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "60 Via Rosedale",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-01-06"
+        },
+        {
+            "Condo Project Name": "Bravo",
+            "Account Number": "B40041",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "26 Norton Ave.",
+            "# of Units": 187,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-06-25"
+        },
+        {
+            "Condo Project Name": "Miracle at Yonge",
+            "Account Number": "B38110",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "75 King William Crescent",
+            "# of Units": 141,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-04-16"
+        },
+        {
+            "Condo Project Name": "Miracle At Yonge",
+            "Account Number": "B40126",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "73 King William Crescent",
+            "# of Units": 148,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-04-16"
+        },
+        {
+            "Condo Project Name": "Papillon Place",
+            "Account Number": "B38695",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4900 Glen Erin Drive",
+            "# of Units": 196,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-01-10"
+        },
+        {
+            "Condo Project Name": "Palais At Port Royal Place",
+            "Account Number": "B37717",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "3 Michael Power Pl.",
+            "# of Units": 261,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-03-12"
+        },
+        {
+            "Condo Project Name": "Rosedale Village",
+            "Account Number": "B37810",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "65 Via Rosedale",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-01-31"
+        },
+        {
+            "Condo Project Name": "Bohemian Embassy",
+            "Account Number": "B39911",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1169/1171 Queen St. West, SouthTower",
+            "# of Units": 375,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-12-23"
+        },
+        {
+            "Condo Project Name": "35 BALMUTO",
+            "Account Number": "B35233",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "35 Balmuto St.",
+            "# of Units": 284,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-12-21"
+        },
+        {
+            "Condo Project Name": "PARK LAKE RESIDENCES",
+            "Account Number": "B35232",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1910 Lake Shore Blvd. W.",
+            "# of Units": 133,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-12-22"
+        },
+        {
+            "Condo Project Name": "Park Lake Residences",
+            "Account Number": "B37082",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1900 Lakeshore Blvd. W.",
+            "# of Units": 145,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-12-22"
+        },
+        {
+            "Condo Project Name": "Papillon Place",
+            "Account Number": "B36100",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4850 Glen Erin Dr.",
+            "# of Units": 207,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-09-29"
+        },
+        {
+            "Condo Project Name": "PULSE",
+            "Account Number": "B35242",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "5508 Yonge St.",
+            "# of Units": 260,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-09-04"
+        },
+        {
+            "Condo Project Name": "PORT ROYAL PLACE",
+            "Account Number": "B35227",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "5 Michael Power Pl",
+            "# of Units": 207,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-04-28"
+        },
+        {
+            "Condo Project Name": "PULSE",
+            "Account Number": "B34783",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "5500 Yonge St",
+            "# of Units": 250,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-03-04"
+        },
+        {
+            "Condo Project Name": "Highrise Properties (Phase III) Inc.",
+            "Account Number": "B36971",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": " 55 Via Rosedale ",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-02-05"
+        },
+        {
+            "Condo Project Name": "GATES OF BAYVIEW GLEN VIII",
+            "Account Number": "B34032",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "185 Oneida Cres",
+            "# of Units": 201,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-11-14"
+        },
+        {
+            "Condo Project Name": "HIGHRISE PROPERTIES (PHASE II)",
+            "Account Number": "B35226",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": " 35 Via Rosedale ",
+            "# of Units": 49,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-10-30"
+        },
+        {
+            "Condo Project Name": "PORT ROYAL PLACE (PHASE 1V DEVELOPMENTS INC.",
+            "Account Number": "B33225",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 9 Michael Power Pl. ",
+            "# of Units": 149,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-10-27"
+        },
+        {
+            "Condo Project Name": "THE GATES OF BAYVIEW GLEN (PHASE II) CORPORATION",
+            "Account Number": "B33520",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": " 11 Oneida Cres ",
+            "# of Units": 178,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-10-20"
+        },
+        {
+            "Condo Project Name": "PAPILLON PLACE",
+            "Account Number": "B33336",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4889 Kimbermount Ave.",
+            "# of Units": 207,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-08-25"
+        },
+        {
+            "Condo Project Name": "PORT ROYAL PLACE",
+            "Account Number": "B32632",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 7 Michael Power Pl. ",
+            "# of Units": 137,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-08-22"
+        },
+        {
+            "Condo Project Name": "THE BEACH CONDOMINIUMS",
+            "Account Number": "B32630",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 1863 Queen St. E. ",
+            "# of Units": 69,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-06-19"
+        },
+        {
+            "Condo Project Name": "PARK GLEN",
+            "Account Number": "B32582",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": " 23 Oneida Cres. ",
+            "# of Units": 171,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-05-29"
+        },
+        {
+            "Condo Project Name": "ROSEDALE VILLAGE HIGHRISE",
+            "Account Number": "B35073",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": " 25 Via Rosedale ",
+            "# of Units": 49,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-11-04"
+        },
+        {
+            "Condo Project Name": "PAPILLON PLACE",
+            "Account Number": "B31920",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 4879 Kimbermount Ave. ",
+            "# of Units": 196,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-11-12"
+        },
+        {
+            "Condo Project Name": "BOARDWALK II",
+            "Account Number": "B31429",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 9 Boardwalk Dr ",
+            "# of Units": 99,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-09-27"
+        },
+        {
+            "Condo Project Name": "THE PREMIER AT THE GATES OF BAYVIEW GLEN",
+            "Account Number": "B31314",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": " 39 Oneida Cres ",
+            "# of Units": 215,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-04-16"
+        },
+        {
+            "Condo Project Name": "PRINCESS PLACE",
+            "Account Number": "B31851",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": " 22 Olive Ave ",
+            "# of Units": 288,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-04-13"
+        },
+        {
+            "Condo Project Name": "PORT ROYAL PLACE",
+            "Account Number": "B31108",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": " 11 Michael Power Pl ",
+            "# of Units": 149,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-12-24"
+        },
+        {
+            "Condo Project Name": "BEACH CONDOMINIUMS",
+            "Account Number": "B28279",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1733 Queen St. E.",
+            "# of Units": 104,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-02-24"
+        },
+        {
+            "Condo Project Name": "ROSEDALE VILLAGE",
+            "Account Number": "B27114",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "Orchard Park Gt./Ranchwood Pl.",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-08-15"
+        },
+        {
+            "Condo Project Name": "PARKWAY PLACE IN ERIN MILLS",
+            "Account Number": "B28652",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "2545 Erin Centre Blvd.",
+            "# of Units": 203,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-05-30"
+        },
+        {
+            "Condo Project Name": "THE GATES OF BAYVIEW GLEN",
+            "Account Number": "B28192",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "51 Baffin Crt.",
+            "# of Units": 146,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-02-25"
+        },
+        {
+            "Condo Project Name": "PARKWAY PLACE IN ERIN MILLS",
+            "Account Number": "B28191",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "2565 Erin Centre Blvd.",
+            "# of Units": 140,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-02-07"
+        },
+        {
+            "Condo Project Name": "PARKWAY PLACE IN ERIN MILLS",
+            "Account Number": "B27844",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "2585 Erin Centre Blvd.",
+            "# of Units": 110,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-10-23"
+        },
+        {
+            "Condo Project Name": "PENINSULA PLACE",
+            "Account Number": "B26961",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "233 Beecroft Rd.",
+            "# of Units": 333,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-07-06"
+        },
+        {
+            "Condo Project Name": "ROSEDALE VILLAGE PHASE 2",
+            "Account Number": "B27114",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "Amberhill Tr./Tropicana Garden/Grenada",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-12-22"
+        },
+        {
+            "Condo Project Name": "THE BEACH CONDOMINIUM",
+            "Account Number": "B27584",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1765 Queen St. E.",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-10-19"
+        },
+        {
+            "Condo Project Name": "THE GATES OF BAYVIEW GLEN",
+            "Account Number": "B27086",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "3 Ellesmere Rd.",
+            "# of Units": 150,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-09-20"
+        },
+        {
+            "Condo Project Name": "BEACH CONDOMINIUMS",
+            "Account Number": "B26934",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1797 Queen St.E.",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-11-09"
+        },
+        {
+            "Condo Project Name": "THE PARK LANE I",
+            "Account Number": "B26107",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "3 Pemberton Ave.",
+            "# of Units": 174,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-04-01"
+        },
+        {
+            "Condo Project Name": "BEACH CONDOMINIUMS",
+            "Account Number": "B26816",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1829 Queen St. E.",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-03-30"
+        },
+        {
+            "Condo Project Name": "THE PARK LANE II",
+            "Account Number": "B26107",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "1 Pemberton Ave.",
+            "# of Units": 190,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-02-04"
+        },
+        {
+            "Condo Project Name": "THE PLAZA",
+            "Account Number": "B24194",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "39 Pemberton Avenue",
+            "# of Units": 174,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-10-30"
+        },
+        {
+            "Condo Project Name": "THE PLAZA AT PARK PALACE",
+            "Account Number": "B24194",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "29 Pemberton Avenue",
+            "# of Units": 132,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-10-27"
+        },
+        {
+            "Condo Project Name": "PARK PLACE PROJECT",
+            "Account Number": "B24194",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "28 Pemberton Ave.",
+            "# of Units": 130,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-09-06"
+        },
+        {
+            "Condo Project Name": "PARK PLACE PROJECT",
+            "Account Number": "B24194",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "18 Pemberton Ave.",
+            "# of Units": 101,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-06-04"
+        },
+        {
+            "Condo Project Name": "PARK PALACE, PHASE 1",
+            "Account Number": "B24194",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "8 Pemberton Ave.",
+            "# of Units": 148,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-04-22"
+        },
+        {
+            "Condo Project Name": "543 Richmond Residences at Portland",
+            "Account Number": "B47236",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 543 Richmond St., W. ",
+            "# of Units": 475,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Time and Space Condominiums",
+            "Account Number": "B45981",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 60 and 70 Princess St. , 121 & 135 Lower Sherbourne St. ",
+            "# of Units": 1531,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "The Pemberton",
+            "Account Number": "B60617",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 31 Yorkville Ave. ",
+            "# of Units": 382,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Sunseeker",
+            "Account Number": "B60314",
+            "Project Status": "In Progress",
+            "Location": "INNISFIL",
+            "Address": " 333 Sunseeker Ave. ",
+            "# of Units": 249,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "SOCIAL at Church + Dundas",
+            "Account Number": "B46520",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 117 Dundas St. East ",
+            "# of Units": 604,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "The Pemberton",
+            "Account Number": "B60617",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 33 Yorkville Ave. ",
+            "# of Units": 761,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

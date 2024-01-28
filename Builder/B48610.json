@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48610",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kendel Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Sarnia",
+            "HCRA_INITIALLICENSEDATE": "2021-01-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-22 19:18:07.000 +0000",
+            "Expiry Date": "2025-01-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1707 Blackwell Rd.",
+            "TELEPHONE": "519-381-4055",
+            "FAX": null,
+            "WEBSITEURL": "www.kendelhomes.ca",
+            "EMAIL": "ryan@kendelhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 7,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100672709",
+            "TO": "Ryan Gervais",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-381-4055"
+        },
+        {
+            "TOUNIQUENUMBER": "100672709",
+            "TO": "Ryan Gervais",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-381-4055"
+        },
+        {
+            "TOUNIQUENUMBER": "100661422",
+            "TO": "Karis Gervais",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-381-6001"
+        },
+        {
+            "TOUNIQUENUMBER": "100661422",
+            "TO": "Karis Gervais",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-381-6001"
+        },
+        {
+            "TOUNIQUENUMBER": "100661422",
+            "TO": "Karis Gervais",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-381-6001"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48610",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kendel Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Walnut Grove",
+            "Project Status": null,
+            "Location": "CORUNNA",
+            "Address": " 435 Queen Street ",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

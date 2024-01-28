@@ -1,0 +1,148 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60707",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Kingstown Development Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Windsor",
+            "HCRA_INITIALLICENSEDATE": "2021-11-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-09 11:21:36.000 +0000",
+            "Expiry Date": "2024-11-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2985 Dougall Avenue",
+            "TELEPHONE": "519-966-7777",
+            "FAX": "519-972-8271",
+            "WEBSITEURL": null,
+            "EMAIL": "jen@valentecorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12024936",
+            "TO": "Henry Van Minnen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-380-5966"
+        },
+        {
+            "TOUNIQUENUMBER": "600008831",
+            "TO": "Scott Linnell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-816-7703"
+        },
+        {
+            "TOUNIQUENUMBER": "600008831",
+            "TO": "Scott Linnell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-816-7703"
+        },
+        {
+            "TOUNIQUENUMBER": "11665532",
+            "TO": "Pietro Valente",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-946-3080"
+        },
+        {
+            "TOUNIQUENUMBER": "11665532",
+            "TO": "Pietro Valente",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-946-3080"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60707",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Kingstown Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41813",
+            "MEMBERNAME": "Valente Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60707",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Kingstown Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46644",
+            "MEMBERNAME": "Oakdale Trails Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B60707",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Kingstown Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48052",
+            "MEMBERNAME": "Beachside Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60707",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Kingstown Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31210",
+            "MEMBERNAME": "Valente Development Corporation",
+            "MEMBEROPERATINGNAME": "Valente Development",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B60707",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Kingstown Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60707",
+            "MEMBERNAME": "Kingstown Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Kingstown Commons",
+            "Project Status": "In Progress",
+            "Location": "KINGSVILLE",
+            "Address": " 190 Main St. E. ",
+            "# of Units": 57,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27378",
+            "Umbrella": "Hampton Homes",
+            "Umbrella ID": "12311648",
+            "VB_NAME": "Hampton Homes Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "1998-10-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-10-06 15:00:59.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1424 Leda Ave.",
+            "TELEPHONE": "905/891-9784",
+            "FAX": "905/891-9784",
+            "WEBSITEURL": "www.hamptonhomes.ca",
+            "EMAIL": "hhc@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338151",
+            "TO": "Susan E. Paul",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-829-5000"
+        },
+        {
+            "TOUNIQUENUMBER": "338151",
+            "TO": "Susan E. Paul",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-829-5000"
+        },
+        {
+            "TOUNIQUENUMBER": "338151",
+            "TO": "Susan E. Paul",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-829-5000"
+        },
+        {
+            "TOUNIQUENUMBER": "325866",
+            "TO": "Michael Paul",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-829-5000"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27378",
+            "Umbrella": "Hampton Homes",
+            "Umbrella ID": "12311648",
+            "VB_NAME": "Hampton Homes Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38862",
+            "MEMBERNAME": "The Hampton Group Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B27378",
+            "Umbrella": "Hampton Homes",
+            "Umbrella ID": "12311648",
+            "VB_NAME": "Hampton Homes Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27378",
+            "MEMBERNAME": "Hampton Homes Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

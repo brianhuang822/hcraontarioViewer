@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B8665",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Crown West Limited",
+            "OPERATINGNAME": null,
+            "CITY": "WILLOWDALE",
+            "HCRA_INITIALLICENSEDATE": "1987-01-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1990-01-07 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4110 Yonge Street Suite 620",
+            "TELEPHONE": "(416)733-2202",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "317451",
+            "TO": "Jeffrey Kerbel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-788-3128"
+        },
+        {
+            "TOUNIQUENUMBER": "328179",
+            "TO": "Roderick (Rod) Rice",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-796-3630"
+        },
+        {
+            "TOUNIQUENUMBER": "328169",
+            "TO": "Jeffrey Rice",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-274-7938"
+        },
+        {
+            "TOUNIQUENUMBER": "317449",
+            "TO": "Howard Kerbel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-733-3128"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B8665",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Crown West Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "CROWN WEST CONDO",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "20 Cherrytree Dr.",
+            "# of Units": 198,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-09-09"
+        }
+    ],
+    "builderConditions": []
+}

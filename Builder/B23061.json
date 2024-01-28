@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23061",
+            "Umbrella": "Stolp Homes",
+            "Umbrella ID": "3490",
+            "VB_NAME": "Stolp Homes (fieldstone 1993) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MARKHAM",
+            "HCRA_INITIALLICENSEDATE": "1993-08-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1994-08-25 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "100 Allstate Prrkway, Suite 201",
+            "TELEPHONE": "(416)479-3777",
+            "FAX": "(416)479-3859",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "316182",
+            "TO": "Collette Kehoe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-479-3777"
+        },
+        {
+            "TOUNIQUENUMBER": "316182",
+            "TO": "Collette Kehoe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-479-3777"
+        },
+        {
+            "TOUNIQUENUMBER": "332507",
+            "TO": "Henry Stolp",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-442-1786"
+        },
+        {
+            "TOUNIQUENUMBER": "332507",
+            "TO": "Henry Stolp",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-442-1786"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23061",
+            "Umbrella": "Stolp Homes",
+            "Umbrella ID": "3490",
+            "VB_NAME": "Stolp Homes (fieldstone 1993) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B16510",
+            "MEMBERNAME": "Stolp Homes (scarborough) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23061",
+            "Umbrella": "Stolp Homes",
+            "Umbrella ID": "3490",
+            "VB_NAME": "Stolp Homes (fieldstone 1993) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17093",
+            "MEMBERNAME": "Stolp Homes (morningside) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23061",
+            "Umbrella": "Stolp Homes",
+            "Umbrella ID": "3490",
+            "VB_NAME": "Stolp Homes (fieldstone 1993) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23061",
+            "MEMBERNAME": "Stolp Homes (fieldstone 1993) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

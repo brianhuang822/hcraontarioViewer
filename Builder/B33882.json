@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33882",
+            "Umbrella": "Louisville Homes",
+            "Umbrella ID": "12539818",
+            "VB_NAME": "Louisville Homes Limited",
+            "OPERATINGNAME": "Louisville Homes Limited",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2003-11-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-26 15:28:41.000 +0000",
+            "Expiry Date": "2024-11-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "86 Hillside Dr.",
+            "TELEPHONE": "416-871-4663",
+            "FAX": "647/345-8593",
+            "WEBSITEURL": "www.louisvillehomes.ca",
+            "EMAIL": "info@louisvillehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 45,
+            "SUMM_CONDO": 15,
+            "SUMM_TOTAL": 60,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100601294",
+            "TO": "Daniel Lazaridis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-388-2580"
+        },
+        {
+            "TOUNIQUENUMBER": "319198",
+            "TO": "Nick Lazaridis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-566-3357"
+        },
+        {
+            "TOUNIQUENUMBER": "319198",
+            "TO": "Nick Lazaridis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-566-3357"
+        },
+        {
+            "TOUNIQUENUMBER": "319198",
+            "TO": "Nick Lazaridis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-566-3357"
+        },
+        {
+            "TOUNIQUENUMBER": "600005829",
+            "TO": "Amanda Lazaridis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-648-7056"
+        },
+        {
+            "TOUNIQUENUMBER": "248502",
+            "TO": "Krystyna Lazaridis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-871-4663"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33882",
+            "Umbrella": "Louisville Homes",
+            "Umbrella ID": "12539818",
+            "VB_NAME": "Louisville Homes Limited",
+            "OPERATINGNAME": "Louisville Homes Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33882",
+            "MEMBERNAME": "Louisville Homes Limited",
+            "MEMBEROPERATINGNAME": "Louisville Homes Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B33882",
+            "Umbrella": "Louisville Homes",
+            "Umbrella ID": "12539818",
+            "VB_NAME": "Louisville Homes Limited",
+            "OPERATINGNAME": "Louisville Homes Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33883",
+            "MEMBERNAME": "Lachristo Holdings Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33882",
+            "Umbrella": "Louisville Homes",
+            "Umbrella ID": "12539818",
+            "VB_NAME": "Louisville Homes Limited",
+            "OPERATINGNAME": "Louisville Homes Limited",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B8502",
+            "MEMBERNAME": "Garthwood Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Somerside Residences",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "  Somers Ave. ",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-08-26"
+        }
+    ],
+    "builderConditions": []
+}

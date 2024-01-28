@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39157",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Charles Feddes  and Arlene Feddes",
+            "OPERATINGNAME": "Feddes Construction",
+            "CITY": "PORT LAMBTON",
+            "HCRA_INITIALLICENSEDATE": "2008-09-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-09-20 15:00:20.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4068 St. Clair Pkwy",
+            "TELEPHONE": "519-677-5378",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "fedcon@bell.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12312317",
+            "TO": "Arlene Bernice Feddes",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-809-5335"
+        },
+        {
+            "TOUNIQUENUMBER": "12312316",
+            "TO": "Charles Henry Feddes",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-809-5335"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108586",
+            "CHARGE_AGAINST": "Feddes Construction",
+            "CHARGE_DATE": "2015-11-19",
+            "DISPOSITION_DATE": "2016-02-12",
+            "THE_FINE_": "1500",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "375",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326615",
+            "ORGANIZATION_NAME": "Feddes Construction",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Sombra, ON",
+            "CITY_DEFENCE": "Port Lambton, ON",
+            "VB_NUMBER": "B39157",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108586 9326615",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "St. Clair, Township",
+            "INFORMATION_NUMBER": "9990597",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "FROM_OFFENCE_DATE": "2011-08-04",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "1875",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B39157",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Charles Feddes  and Arlene Feddes",
+            "OPERATINGNAME": "Feddes Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

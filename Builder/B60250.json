@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60250",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1014542 Ontario Limited",
+            "OPERATINGNAME": "TRP Construction General Contractors",
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2021-06-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-19 18:44:29.000 +0000",
+            "Expiry Date": "2024-06-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3050 Harvester Road",
+            "TELEPHONE": "905-336-1041",
+            "FAX": "905-336-9564",
+            "WEBSITEURL": "http://www.trpconstruction.ca",
+            "EMAIL": "mattp@trpconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600007238",
+            "TO": "Theo Postma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-9483"
+        },
+        {
+            "TOUNIQUENUMBER": "600007238",
+            "TO": "Theo Postma",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-9483"
+        },
+        {
+            "TOUNIQUENUMBER": "600007239",
+            "TO": "Carrie Postma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-336-1041"
+        },
+        {
+            "TOUNIQUENUMBER": "600005658",
+            "TO": "Matthew Postma",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-9487"
+        },
+        {
+            "TOUNIQUENUMBER": "600005658",
+            "TO": "Matthew Postma",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-971-9487"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60250",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1014542 Ontario Limited",
+            "OPERATINGNAME": "TRP Construction General Contractors",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Alice Block",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": " 120 Huron Street ",
+            "# of Units": 117,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,74 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38145",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Tippett Developments Inc.",
+            "OPERATINGNAME": "Gramery Park",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2007-11-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2007-11-09 20:16:46.000 +0000",
+            "Expiry Date": "2021-04-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "130 Spadina Ave., Ste. 707",
+            "TELEPHONE": "416-703-9071",
+            "FAX": "416-703-3531",
+            "WEBSITEURL": " ",
+            "EMAIL": "jhains@malibutoronto.com",
+            "ACCOUNTNUMBER": "B38145",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 486,
+            "SUMM_TOTAL": 486,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38145",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Tippett Developments Inc.",
+            "OPERATINGNAME": "Gramery Park",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Southside Residences at Gramercy Park",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 31 Tippett Ave ",
+            "# of Units": 485,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-06-09"
+        },
+        {
+            "Condo Project Name": "Gramery Park",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "525 Wilson Ave.",
+            "# of Units": 512,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-03-01"
+        }
+    ],
+    "builderConditions": []
+}

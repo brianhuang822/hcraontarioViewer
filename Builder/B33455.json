@@ -1,0 +1,135 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33455",
+            "Umbrella": "Ashen Homes",
+            "Umbrella ID": "11731231",
+            "VB_NAME": "1396462 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2003-09-23 02:37:03.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8551 Weston Rd.",
+            "TELEPHONE": "905-303-5881",
+            "FAX": "905-832-7748",
+            "WEBSITEURL": null,
+            "EMAIL": "dbatt@netrover.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11626182",
+            "TO": "Domenic Battaglia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416- 988-7486"
+        },
+        {
+            "TOUNIQUENUMBER": "11626182",
+            "TO": "Domenic Battaglia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416- 988-7486"
+        },
+        {
+            "TOUNIQUENUMBER": "11626182",
+            "TO": "Domenic Battaglia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416- 988-7486"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33455",
+            "Umbrella": "Ashen Homes",
+            "Umbrella ID": "11731231",
+            "VB_NAME": "1396462 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B31743",
+            "MEMBERNAME": "1478238 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33455",
+            "Umbrella": "Ashen Homes",
+            "Umbrella ID": "11731231",
+            "VB_NAME": "1396462 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B35401",
+            "MEMBERNAME": "1478238 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B33455",
+            "Umbrella": "Ashen Homes",
+            "Umbrella ID": "11731231",
+            "VB_NAME": "1396462 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B33455",
+            "MEMBERNAME": "1396462 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B33455",
+            "Umbrella": "Ashen Homes",
+            "Umbrella ID": "11731231",
+            "VB_NAME": "1396462 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B30420",
+            "MEMBERNAME": "1396462 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Ashen Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33455",
+            "Umbrella": "Ashen Homes",
+            "Umbrella ID": "11731231",
+            "VB_NAME": "1396462 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B33963",
+            "MEMBERNAME": "1396462 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33455",
+            "Umbrella": "Ashen Homes",
+            "Umbrella ID": "11731231",
+            "VB_NAME": "1396462 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B33523",
+            "MEMBERNAME": "1478238 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

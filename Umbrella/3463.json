@@ -1,0 +1,70 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Klein Developments",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "6279 Huggins St.",
+            "TELEPHONE": "(905)354-3412",
+            "FAX": "(905)354-9312",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Klein Building Company Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26815",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Klein Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22490",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "THE GLADES",
+            "Account Number": "B26815",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": " 4300 Kalar Rd ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-02-06"
+        },
+        {
+            "Condo Project Name": "KLEIN BUILDING COMPANY",
+            "Account Number": "B26815",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": "3381 Montrose Rd.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-04-13"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40835",
+            "Umbrella": "Homes By John Bruce Robinson",
+            "Umbrella ID": "12449872",
+            "VB_NAME": "John Bruce Robinson Construction Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Binbrook",
+            "HCRA_INITIALLICENSEDATE": "2010-09-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-01 20:56:50.000 +0000",
+            "Expiry Date": "2024-09-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2620 Binbrook Road",
+            "TELEPHONE": "905-692-1741",
+            "FAX": "905-692-1738",
+            "WEBSITEURL": "www.homesbyjbr.com",
+            "EMAIL": "joelle@homesbyjbr.com",
+            "ACCOUNTNUMBER": "B40835",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 170,
+            "SUMM_CONDO": 108,
+            "SUMM_TOTAL": 278,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "328574",
+            "TO": "John Bruce Robinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-692-1741"
+        },
+        {
+            "TOUNIQUENUMBER": "328574",
+            "TO": "John Bruce Robinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-692-1741"
+        },
+        {
+            "TOUNIQUENUMBER": "328574",
+            "TO": "John Bruce Robinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-692-1741"
+        },
+        {
+            "TOUNIQUENUMBER": "100506465",
+            "TO": "Philip Coleman Robinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-692-1741"
+        },
+        {
+            "TOUNIQUENUMBER": "600014984",
+            "TO": "Judene Robinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-635-8796"
+        },
+        {
+            "TOUNIQUENUMBER": "100611111",
+            "TO": "Joelle McDonald",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-692-1741"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40835",
+            "Umbrella": "Homes By John Bruce Robinson",
+            "Umbrella ID": "12449872",
+            "VB_NAME": "John Bruce Robinson Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40835",
+            "MEMBERNAME": "John Bruce Robinson Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40835",
+            "Umbrella": "Homes By John Bruce Robinson",
+            "Umbrella ID": "12449872",
+            "VB_NAME": "John Bruce Robinson Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47041",
+            "MEMBERNAME": "John Bruce Robinson Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40835",
+            "Umbrella": "Homes By John Bruce Robinson",
+            "Umbrella ID": "12449872",
+            "VB_NAME": "John Bruce Robinson Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47174",
+            "MEMBERNAME": "John Bruce Robinson Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Binbrook Heights Adult Lifestyle Condominiums",
+            "Project Status": "Completed",
+            "Location": "BINBROOK",
+            "Address": "33 Fall Fair Way",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-02-09"
+        },
+        {
+            "Condo Project Name": "Binbrook Heights Adult Lifestyle Condominiums",
+            "Project Status": "Completed",
+            "Location": "BINBROOK",
+            "Address": "33 Fall Fair Way",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-09-16"
+        },
+        {
+            "Condo Project Name": "Binbrook Heights Adult Lifestyle Condominiums",
+            "Project Status": "Completed",
+            "Location": "BINBROOK",
+            "Address": "33 Fall Fair Way",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-05-20"
+        },
+        {
+            "Condo Project Name": "Binbrook Heights Adult Lifestyle Condominiums",
+            "Project Status": "Completed",
+            "Location": "BINBROOK",
+            "Address": "33 Fall Fair Way",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-11-28"
+        },
+        {
+            "Condo Project Name": "Binbrook Heights Adult Lifestyle Condominiums",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": "Murphy Ln./Gaddye Ln.",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-04-03"
+        },
+        {
+            "Condo Project Name": "Binbrook Heights Adult Lifestyle Condominiums",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": "33 Fall Fair Way",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-10-15"
+        },
+        {
+            "Condo Project Name": "Binbrook Heights Adult Lifestyle Condominiums",
+            "Project Status": "Completed",
+            "Location": "BINBROOK",
+            "Address": "Hillgartner Ln. & Gaddye Ln.",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-05-03"
+        },
+        {
+            "Condo Project Name": "Binbrook Heights Adult Lifestyle Condominiums",
+            "Project Status": "Completed",
+            "Location": "BINBROOK",
+            "Address": "Gaddye Ln.",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-04-18"
+        }
+    ],
+    "builderConditions": []
+}

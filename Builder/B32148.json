@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32148",
+            "Umbrella": "De Jong Homes",
+            "Umbrella ID": "12541416",
+            "VB_NAME": "Michael De Jong Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2002-04-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-17 19:46:43.000 +0000",
+            "Expiry Date": "2024-04-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1317 Hazelton Boulevard",
+            "TELEPHONE": "905-332-6711",
+            "FAX": "905-332-6007",
+            "WEBSITEURL": "www.dejonghomes.com",
+            "EMAIL": "dejonghome@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338890",
+            "TO": "Michael De Jong",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-332-6711"
+        },
+        {
+            "TOUNIQUENUMBER": "338890",
+            "TO": "Michael De Jong",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-332-6711"
+        },
+        {
+            "TOUNIQUENUMBER": "338890",
+            "TO": "Michael De Jong",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-332-6711"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32148",
+            "Umbrella": "De Jong Homes",
+            "Umbrella ID": "12541416",
+            "VB_NAME": "Michael De Jong Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32148",
+            "MEMBERNAME": "Michael De Jong Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B32148",
+            "Umbrella": "De Jong Homes",
+            "Umbrella ID": "12541416",
+            "VB_NAME": "Michael De Jong Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B23843",
+            "MEMBERNAME": "Michael Dejong Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

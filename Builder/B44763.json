@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44763",
+            "Umbrella": "Clayton Custom Homes",
+            "Umbrella ID": "500000289",
+            "VB_NAME": "Aaron James Clayton and Kathleen Claire Harrison",
+            "OPERATINGNAME": "Aaron Clayton Custom Homes",
+            "CITY": "Perth Road",
+            "HCRA_INITIALLICENSEDATE": "2015-10-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-10-02 04:17:02.000 +0000",
+            "Expiry Date": "2022-10-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4577 North Shore Road",
+            "TELEPHONE": "613-561-7840",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "claytoncustomhomes@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100172891",
+            "TO": "Kathleen Claire Harrison",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-539-0325"
+        },
+        {
+            "TOUNIQUENUMBER": "100172896",
+            "TO": "Aaron Clayton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-561-7840"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44763",
+            "Umbrella": "Clayton Custom Homes",
+            "Umbrella ID": "500000289",
+            "VB_NAME": "Aaron James Clayton and Kathleen Claire Harrison",
+            "OPERATINGNAME": "Aaron Clayton Custom Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60217",
+            "MEMBERNAME": "Clayton Custom Homes Incorporated",
+            "MEMBEROPERATINGNAME": "Clayton Custom Homes Incorporated",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44763",
+            "Umbrella": "Clayton Custom Homes",
+            "Umbrella ID": "500000289",
+            "VB_NAME": "Aaron James Clayton and Kathleen Claire Harrison",
+            "OPERATINGNAME": "Aaron Clayton Custom Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44763",
+            "MEMBERNAME": "Aaron James Clayton and Kathleen Claire Harrison",
+            "MEMBEROPERATINGNAME": "Aaron Clayton Custom Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

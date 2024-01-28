@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47711",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kingwell Fine Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Guelph",
+            "HCRA_INITIALLICENSEDATE": "2019-12-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-07 14:11:24.000 +0000",
+            "Expiry Date": "2024-12-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "699 Speedvale Avenue West",
+            "TELEPHONE": "519-823-6931",
+            "FAX": null,
+            "WEBSITEURL": "www.kingwellhomes.ca",
+            "EMAIL": "brett@kingwellhomes.com",
+            "ACCOUNTNUMBER": "B47711",
+            "Total Outstanding Amount": 33470.18,
+            "TAB": 0,
+            "BREACH": 33470.18,
+            "SUMM_FREEHOLD": 14,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 14,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 28619.23,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 28619.23
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100571076",
+            "TO": "Randall Von Heyking",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-829-5252"
+        },
+        {
+            "TOUNIQUENUMBER": "100571076",
+            "TO": "Randall Von Heyking",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-829-5252"
+        },
+        {
+            "TOUNIQUENUMBER": "100571075",
+            "TO": "Brett Nodwell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-823-6931"
+        },
+        {
+            "TOUNIQUENUMBER": "100571075",
+            "TO": "Brett Nodwell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-823-6931"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47711",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kingwell Fine Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Kingswell Fine Homes-Sunshine Estates Ingersoll",
+            "Project Status": null,
+            "Location": "INGERSOLL",
+            "Address": " 297 Whiting St. ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

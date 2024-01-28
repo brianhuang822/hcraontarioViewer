@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9417",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Greatwise Developments Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "1988-04-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-17 19:30:51.000 +0000",
+            "Expiry Date": "2023-04-16",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "333 Wilson Avenue",
+            "TELEPHONE": "416-630-6767",
+            "FAX": "416-630-6304",
+            "WEBSITEURL": null,
+            "EMAIL": "shane@greatwise.ca",
+            "ACCOUNTNUMBER": "B9417",
+            "Total Outstanding Amount": 12706.62,
+            "TAB": 0,
+            "BREACH": 12706.62,
+            "SUMM_FREEHOLD": 78,
+            "SUMM_CONDO": 80,
+            "SUMM_TOTAL": 158,
+            "SUMM_CC": 21,
+            "SUMM_MINOR": 6,
+            "SUMM_MINOR_AMT": 61919.03,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 61919.03
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "313897",
+            "TO": "Samuel Grosz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-630-6767"
+        },
+        {
+            "TOUNIQUENUMBER": "313897",
+            "TO": "Samuel Grosz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-630-6767"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9417",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Greatwise Developments Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Qualicum Woods Crossing - Building E",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "2781/ 2791 Baseline Rd.",
+            "# of Units": 80,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-31"
+        },
+        {
+            "Condo Project Name": "QUALICUM RIDGE",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "Baseline Rd./Guthrie St.",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-08-20"
+        },
+        {
+            "Condo Project Name": "THE ROSEMEADOW",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "1705 Playfair Avenue",
+            "# of Units": 180,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-07-13"
+        }
+    ],
+    "builderConditions": []
+}

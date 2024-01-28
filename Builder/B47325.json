@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47325",
+            "Umbrella": "Hallmark Homes",
+            "Umbrella ID": "500002682",
+            "VB_NAME": "Central Development Lora Bay Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2019-06-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-02 16:52:07.000 +0000",
+            "Expiry Date": "2024-06-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1400 Cornwall Road",
+            "TELEPHONE": "416-587-3375",
+            "FAX": "905-829-8685",
+            "WEBSITEURL": " ",
+            "EMAIL": "mliptok@centralts.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100232455",
+            "TO": "Mark Liptok",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-829-8686"
+        },
+        {
+            "TOUNIQUENUMBER": "100232455",
+            "TO": "Mark Liptok",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-829-8686"
+        },
+        {
+            "TOUNIQUENUMBER": "100232455",
+            "TO": "Mark Liptok",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-829-8686"
+        },
+        {
+            "TOUNIQUENUMBER": "340211",
+            "TO": "John Mandalfino",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-467-4466"
+        },
+        {
+            "TOUNIQUENUMBER": "340211",
+            "TO": "John Mandalfino",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-467-4466"
+        },
+        {
+            "TOUNIQUENUMBER": "340211",
+            "TO": "John Mandalfino",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-467-4466"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47325",
+            "Umbrella": "Hallmark Homes",
+            "Umbrella ID": "500002682",
+            "VB_NAME": "Central Development Lora Bay Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34697",
+            "MEMBERNAME": "Hallmark Homes Corporation",
+            "MEMBEROPERATINGNAME": "Hallmark Homes Corporation",
+            "MEMBERLICENCESTATUS": "Licensed with Conditions"
+        },
+        {
+            "Account Number": "B47325",
+            "Umbrella": "Hallmark Homes",
+            "Umbrella ID": "500002682",
+            "VB_NAME": "Central Development Lora Bay Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47325",
+            "MEMBERNAME": "Central Development Lora Bay Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47325",
+            "Umbrella": "Hallmark Homes",
+            "Umbrella ID": "500002682",
+            "VB_NAME": "Central Development Lora Bay Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B23113",
+            "MEMBERNAME": "Hallmark Homes Corporation",
+            "MEMBEROPERATINGNAME": "Hallmark Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Enclave At Lora Bay",
+            "Project Status": "In Progress",
+            "Location": "THORNBURY",
+            "Address": " 24 Lora Bay ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

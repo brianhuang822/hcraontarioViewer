@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39465",
+            "Umbrella": "VM Services",
+            "Umbrella ID": "12540192",
+            "VB_NAME": "VM Services Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "2009-06-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-06-09 15:00:49.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1814 Dormer Dr.",
+            "TELEPHONE": "519-208-8860",
+            "FAX": "519-748-0129",
+            "WEBSITEURL": null,
+            "EMAIL": "vali.moga@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12343291",
+            "TO": "Valentin Moga",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-465-9544"
+        },
+        {
+            "TOUNIQUENUMBER": "12343291",
+            "TO": "Valentin Moga",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-465-9544"
+        },
+        {
+            "TOUNIQUENUMBER": "12343291",
+            "TO": "Valentin Moga",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-465-9544"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39465",
+            "Umbrella": "VM Services",
+            "Umbrella ID": "12540192",
+            "VB_NAME": "VM Services Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39465",
+            "MEMBERNAME": "VM Services Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39465",
+            "Umbrella": "VM Services",
+            "Umbrella ID": "12540192",
+            "VB_NAME": "VM Services Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41626",
+            "MEMBERNAME": "VM Services Inc.",
+            "MEMBEROPERATINGNAME": "Vapa Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

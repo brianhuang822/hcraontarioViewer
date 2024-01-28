@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27578",
+            "Umbrella": "J. Keith Moore Construction",
+            "Umbrella ID": "12539925",
+            "VB_NAME": "J. Keith Moore Construction Limited..",
+            "OPERATINGNAME": null,
+            "CITY": "BARRIE",
+            "HCRA_INITIALLICENSEDATE": "1998-07-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-07-25 12:35:40.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "158 Tiffin St.",
+            "TELEPHONE": "(705)722-4545",
+            "FAX": "(705)722-6849",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343934",
+            "TO": "Keith Moore",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "343934",
+            "TO": "Keith Moore",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "344124",
+            "TO": "Ronald W. Fox",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-722-4545"
+        },
+        {
+            "TOUNIQUENUMBER": "344124",
+            "TO": "Ronald W. Fox",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-722-4545"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27578",
+            "Umbrella": "J. Keith Moore Construction",
+            "Umbrella ID": "12539925",
+            "VB_NAME": "J. Keith Moore Construction Limited..",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27578",
+            "MEMBERNAME": "J. Keith Moore Construction Limited..",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27578",
+            "Umbrella": "J. Keith Moore Construction",
+            "Umbrella ID": "12539925",
+            "VB_NAME": "J. Keith Moore Construction Limited..",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33188",
+            "MEMBERNAME": "J. Keith Moore Construction Limited",
+            "MEMBEROPERATINGNAME": "Promus Barrie",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

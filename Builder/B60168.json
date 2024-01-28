@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60168",
+            "Umbrella": "AvranceCorp Developments",
+            "Umbrella ID": "500001767",
+            "VB_NAME": "Westfield Investment Group Inc.",
+            "OPERATINGNAME": "Avrancecorp Developments",
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2021-05-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-19 20:43:48.000 +0000",
+            "Expiry Date": "2024-05-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4205 Keele Street",
+            "TELEPHONE": "647-700-6934",
+            "FAX": null,
+            "WEBSITEURL": "http://www.avrancecorp.com",
+            "EMAIL": "info@avrancecorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600005666",
+            "TO": "Samuel Babarinde",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-700-6934"
+        },
+        {
+            "TOUNIQUENUMBER": "600005666",
+            "TO": "Samuel Babarinde",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-700-6934"
+        },
+        {
+            "TOUNIQUENUMBER": "600005666",
+            "TO": "Samuel Babarinde",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-700-6934"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60168",
+            "Umbrella": "AvranceCorp Developments",
+            "Umbrella ID": "500001767",
+            "VB_NAME": "Westfield Investment Group Inc.",
+            "OPERATINGNAME": "Avrancecorp Developments",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60168",
+            "MEMBERNAME": "Westfield Investment Group Inc.",
+            "MEMBEROPERATINGNAME": "Avrancecorp Developments",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60168",
+            "Umbrella": "AvranceCorp Developments",
+            "Umbrella ID": "500001767",
+            "VB_NAME": "Westfield Investment Group Inc.",
+            "OPERATINGNAME": "Avrancecorp Developments",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61485",
+            "MEMBERNAME": "1000232096 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "1000232096 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Georgian Bay Terrace",
+            "Project Status": "In Progress",
+            "Location": "MEAFORD",
+            "Address": " 1 Legion Rd. ",
+            "# of Units": 122,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Springbank Lux",
+            "Project Status": "In Progress",
+            "Location": "LONDON",
+            "Address": " 464 Springbank Drive ",
+            "# of Units": 186,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

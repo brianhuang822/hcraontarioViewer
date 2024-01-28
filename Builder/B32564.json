@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32564",
+            "Umbrella": "Land Construction Company",
+            "Umbrella ID": "12540030",
+            "VB_NAME": "Land Construction Company Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "MARKHAM",
+            "HCRA_INITIALLICENSEDATE": "2002-07-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-07-09 13:31:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2600 John St., Unit 108",
+            "TELEPHONE": "905-479-4516",
+            "FAX": "905-479-4408",
+            "WEBSITEURL": null,
+            "EMAIL": "kamran@landconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344217",
+            "TO": "David Firoozyan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-839-4516"
+        },
+        {
+            "TOUNIQUENUMBER": "344217",
+            "TO": "David Firoozyan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-839-4516"
+        },
+        {
+            "TOUNIQUENUMBER": "344217",
+            "TO": "David Firoozyan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-839-4516"
+        },
+        {
+            "TOUNIQUENUMBER": "344216",
+            "TO": "Seyed Kamran Ehsani",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-731-0684"
+        },
+        {
+            "TOUNIQUENUMBER": "344216",
+            "TO": "Seyed Kamran Ehsani",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-731-0684"
+        },
+        {
+            "TOUNIQUENUMBER": "344216",
+            "TO": "Seyed Kamran Ehsani",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-731-0684"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32564",
+            "Umbrella": "Land Construction Company",
+            "Umbrella ID": "12540030",
+            "VB_NAME": "Land Construction Company Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32564",
+            "MEMBERNAME": "Land Construction Company Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32564",
+            "Umbrella": "Land Construction Company",
+            "Umbrella ID": "12540030",
+            "VB_NAME": "Land Construction Company Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27667",
+            "MEMBERNAME": "Land Construction Company Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

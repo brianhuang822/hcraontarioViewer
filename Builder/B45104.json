@@ -1,0 +1,149 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45104",
+            "Umbrella": "Huron Creek Holdings",
+            "Umbrella ID": "12549945",
+            "VB_NAME": "Huron Creek Holdings Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "Kitchener",
+            "HCRA_INITIALLICENSEDATE": "2016-02-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-16 18:15:15.000 +0000",
+            "Expiry Date": "2024-02-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "35 Trillium Drive",
+            "TELEPHONE": "226-240-3737",
+            "FAX": "226-240-3727",
+            "WEBSITEURL": "www.huroncreek.com",
+            "EMAIL": "rick.martins@huroncreek.com",
+            "ACCOUNTNUMBER": "B45104",
+            "Total Outstanding Amount": 8771.25,
+            "TAB": 0,
+            "BREACH": 8771.25,
+            "SUMM_FREEHOLD": 221,
+            "SUMM_CONDO": 27,
+            "SUMM_TOTAL": 248,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 7500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 7500
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "326969",
+            "TO": "Peter Catana",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-240-3737"
+        },
+        {
+            "TOUNIQUENUMBER": "326969",
+            "TO": "Peter Catana",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-240-3737"
+        },
+        {
+            "TOUNIQUENUMBER": "100564781",
+            "TO": "Colleen Haney",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-240-3737"
+        },
+        {
+            "TOUNIQUENUMBER": "12138786",
+            "TO": "Richard Martins",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-240-3737"
+        },
+        {
+            "TOUNIQUENUMBER": "12138786",
+            "TO": "Richard Martins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-240-3737"
+        },
+        {
+            "TOUNIQUENUMBER": "12138786",
+            "TO": "Richard Martins",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-240-3737"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45104",
+            "Umbrella": "Huron Creek Holdings",
+            "Umbrella ID": "12549945",
+            "VB_NAME": "Huron Creek Holdings Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47574",
+            "MEMBERNAME": "Huron Gardens Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45104",
+            "Umbrella": "Huron Creek Holdings",
+            "Umbrella ID": "12549945",
+            "VB_NAME": "Huron Creek Holdings Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45104",
+            "MEMBERNAME": "Huron Creek Holdings Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Huron Garden",
+            "Project Status": null,
+            "Location": "KITCHENER",
+            "Address": "137-145 Rochefort",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Portside At Woodway Trails",
+            "Project Status": null,
+            "Location": "SIMCOE",
+            "Address": "Donlu Dr.",
+            "# of Units": 97,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Stanley Park Towns",
+            "Project Status": null,
+            "Location": "SIMCOE",
+            "Address": " 150 Stanley St. ",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "WAV West Acres Villas",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "42 West Acres Cres.",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-07-10"
+        }
+    ],
+    "builderConditions": []
+}

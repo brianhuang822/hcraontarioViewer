@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25470",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Zebro Development Limited",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1996-07-17",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-07-18 13:32:16.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "247 Grey St.",
+            "TELEPHONE": "(519)850-3505",
+            "FAX": "(519) 850-3502",
+            "WEBSITEURL": "www.zebro.on.ca",
+            "EMAIL": "zebro@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304325",
+            "TO": "Theodoru S. Brouwer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-268-3974"
+        },
+        {
+            "TOUNIQUENUMBER": "304325",
+            "TO": "Theodoru S. Brouwer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-268-3974"
+        },
+        {
+            "TOUNIQUENUMBER": "337635",
+            "TO": "Michael C.h Zebregts",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 850-3504"
+        },
+        {
+            "TOUNIQUENUMBER": "337635",
+            "TO": "Michael C.h Zebregts",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 850-3504"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25470",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Zebro Development Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "GREENBRIAR CONDOS",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "40 Burslem Street",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-06-19"
+        }
+    ],
+    "builderConditions": []
+}

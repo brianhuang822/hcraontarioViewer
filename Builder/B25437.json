@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25437",
+            "Umbrella": "Jourdan",
+            "Umbrella ID": "10389",
+            "VB_NAME": "Rockingham Gardens Holdings Inc.",
+            "OPERATINGNAME": "9 Woodlawn",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1996-05-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1997-05-13 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9 Woodlawn Avenue East",
+            "TELEPHONE": "(416)920-0111",
+            "FAX": "(416)920-0113",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "316901",
+            "TO": "Israel (Issy) Jourdan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-920-0111"
+        },
+        {
+            "TOUNIQUENUMBER": "316901",
+            "TO": "Israel (Issy) Jourdan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-920-0111"
+        },
+        {
+            "TOUNIQUENUMBER": "341545",
+            "TO": "Varda Jourdan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-920-0111"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25437",
+            "Umbrella": "Jourdan",
+            "Umbrella ID": "10389",
+            "VB_NAME": "Rockingham Gardens Holdings Inc.",
+            "OPERATINGNAME": "9 Woodlawn",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23603",
+            "MEMBERNAME": "Jourdan Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25437",
+            "Umbrella": "Jourdan",
+            "Umbrella ID": "10389",
+            "VB_NAME": "Rockingham Gardens Holdings Inc.",
+            "OPERATINGNAME": "9 Woodlawn",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25388",
+            "MEMBERNAME": "Jourdan At Clarington Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25437",
+            "Umbrella": "Jourdan",
+            "Umbrella ID": "10389",
+            "VB_NAME": "Rockingham Gardens Holdings Inc.",
+            "OPERATINGNAME": "9 Woodlawn",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25437",
+            "MEMBERNAME": "Rockingham Gardens Holdings Inc.",
+            "MEMBEROPERATINGNAME": "9 Woodlawn",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25437",
+            "Umbrella": "Jourdan",
+            "Umbrella ID": "10389",
+            "VB_NAME": "Rockingham Gardens Holdings Inc.",
+            "OPERATINGNAME": "9 Woodlawn",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27913",
+            "MEMBERNAME": "Jourdan At Beaches Inc.",
+            "MEMBEROPERATINGNAME": "The Neighbourhood In The Upper Beaches",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

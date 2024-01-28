@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44503",
+            "Umbrella": "Equiton Developments",
+            "Umbrella ID": "500002763",
+            "VB_NAME": "Equiton Development Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2015-06-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-18 13:39:49.000 +0000",
+            "Expiry Date": "2024-06-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1111 International Boulevard, Suite 500",
+            "TELEPHONE": "905-635-1381",
+            "FAX": "905-635-3981",
+            "WEBSITEURL": "www.equiton.com",
+            "EMAIL": "hhurlbut@equiton.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "252248",
+            "TO": "Jason Roque",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-635-1381"
+        },
+        {
+            "TOUNIQUENUMBER": "252248",
+            "TO": "Jason Roque",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-635-1381"
+        },
+        {
+            "TOUNIQUENUMBER": "100302804",
+            "TO": "Helen Hurlbut",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-635-1381"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44503",
+            "Umbrella": "Equiton Developments",
+            "Umbrella ID": "500002763",
+            "VB_NAME": "Equiton Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44503",
+            "MEMBERNAME": "Equiton Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

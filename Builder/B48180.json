@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48180",
+            "Umbrella": "Team Shane",
+            "Umbrella ID": "500001039",
+            "VB_NAME": "King@Dundas Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Hamilton",
+            "HCRA_INITIALLICENSEDATE": "2020-08-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-08-21 04:15:32.000 +0000",
+            "Expiry Date": "2022-08-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3 Studabaker Place, Unit 3",
+            "TELEPHONE": "905-304-4009",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "shane@shanerenovations.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 6,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11777190",
+            "TO": "Sergio Manchia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-741-7345"
+        },
+        {
+            "TOUNIQUENUMBER": "11777190",
+            "TO": "Sergio Manchia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-741-7345"
+        },
+        {
+            "TOUNIQUENUMBER": "100619651",
+            "TO": "Shane Van Barneveld",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-961-4384"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48180",
+            "Umbrella": "Team Shane",
+            "Umbrella ID": "500001039",
+            "VB_NAME": "King@Dundas Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60818",
+            "MEMBERNAME": "Shane Homes & Developments Inc.",
+            "MEMBEROPERATINGNAME": "Shane Homes & Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48180",
+            "Umbrella": "Team Shane",
+            "Umbrella ID": "500001039",
+            "VB_NAME": "King@Dundas Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48180",
+            "MEMBERNAME": "King@Dundas Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Alexander Towns",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": " 2 Brock St. ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-10-22"
+        }
+    ],
+    "builderConditions": []
+}

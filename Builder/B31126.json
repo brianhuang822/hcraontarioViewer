@@ -1,0 +1,136 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31126",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1346704 Ontario Inc.",
+            "OPERATINGNAME": "Marken Homes",
+            "CITY": "Niagara Falls",
+            "HCRA_INITIALLICENSEDATE": "2000-12-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-06 14:22:41.000 +0000",
+            "Expiry Date": "2024-12-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7661 Bishop Avenue",
+            "TELEPHONE": "905-374-7533",
+            "FAX": "905-374-9741",
+            "WEBSITEURL": "www.markenhomes.ca",
+            "EMAIL": "marken@cogeco.ca",
+            "ACCOUNTNUMBER": "B31126",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 658,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 658,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11670570",
+            "TO": "David Kendall",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-374-7533"
+        },
+        {
+            "TOUNIQUENUMBER": "11670570",
+            "TO": "David Kendall",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-374-7533"
+        },
+        {
+            "TOUNIQUENUMBER": "11670570",
+            "TO": "David Kendall",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-374-7533"
+        },
+        {
+            "TOUNIQUENUMBER": "11670571",
+            "TO": "Fausta Marandola",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-374-7533"
+        },
+        {
+            "TOUNIQUENUMBER": "11670571",
+            "TO": "Fausta Marandola",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-374-7533"
+        },
+        {
+            "TOUNIQUENUMBER": "11670571",
+            "TO": "Fausta Marandola",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-374-7533"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA101715",
+            "CHARGE_AGAINST": "1346704 Ontario Inc. operating as Marken Homes",
+            "CHARGE_DATE": "2012-04-03",
+            "DISPOSITION_DATE": "2012-06-08",
+            "THE_FINE_": "500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "110",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9325347",
+            "ORGANIZATION_NAME": "1346704 Ontario Inc. operating as Marken Homes",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Niagara Falls, On",
+            "CITY_DEFENCE": "Niagara Falls, On",
+            "VB_NUMBER": "B31126",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA101715 9325347",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Niagara Falls, City",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2012-02-13",
+            "TO_OFFENCE_DATE": "2012-03-27",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "610",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "00:11.0",
+            "PROBATION_ORDER": "N",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B31126",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1346704 Ontario Inc.",
+            "OPERATINGNAME": "Marken Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

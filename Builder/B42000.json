@@ -1,0 +1,91 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42000",
+            "Umbrella": "RT Construction",
+            "Umbrella ID": "500001155",
+            "VB_NAME": "Sweetwater Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Prescott",
+            "HCRA_INITIALLICENSEDATE": "2012-05-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-26 18:31:40.000 +0000",
+            "Expiry Date": "2024-05-31",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "205 Churchill Road West",
+            "TELEPHONE": "613-258-0088",
+            "FAX": "613-258-8890",
+            "WEBSITEURL": "www.sweetwaterhomes.ca",
+            "EMAIL": "info@sweetwaterhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 23,
+            "SUMM_CONDO": 8,
+            "SUMM_TOTAL": 31,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336483",
+            "TO": "Robert Thompson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-223-6624"
+        },
+        {
+            "TOUNIQUENUMBER": "336483",
+            "TO": "Robert Thompson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-223-6624"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42000",
+            "Umbrella": "RT Construction",
+            "Umbrella ID": "500001155",
+            "VB_NAME": "Sweetwater Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60876",
+            "MEMBERNAME": "Rob Thompson Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42000",
+            "Umbrella": "RT Construction",
+            "Umbrella ID": "500001155",
+            "VB_NAME": "Sweetwater Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42000",
+            "MEMBERNAME": "Sweetwater Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Meadow Creek Luxury Condominiums",
+            "Project Status": "Completed",
+            "Location": "BROCKVILLE",
+            "Address": "1109 Millwood Ave.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-04"
+        }
+    ],
+    "builderConditions": []
+}

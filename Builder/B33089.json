@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33089",
+            "Umbrella": "Glendon Residential",
+            "Umbrella ID": "12539836",
+            "VB_NAME": "Glenn D. Campbell, Jenny L. Campbell & Donald Camp",
+            "OPERATINGNAME": "Glendon Residential",
+            "CITY": "DENFIELD",
+            "HCRA_INITIALLICENSEDATE": "2003-04-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-04-05 12:31:08.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "R.R.4",
+            "TELEPHONE": "519-225-2781",
+            "FAX": "519-878-6412",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11875662",
+            "TO": "Jenny Campbell",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-494-1870"
+        },
+        {
+            "TOUNIQUENUMBER": "11875663",
+            "TO": "Donald Campbell",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-264-1030"
+        },
+        {
+            "TOUNIQUENUMBER": "11875661",
+            "TO": "Glenn D. Campbell",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-494-8200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33089",
+            "Umbrella": "Glendon Residential",
+            "Umbrella ID": "12539836",
+            "VB_NAME": "Glenn D. Campbell, Jenny L. Campbell & Donald Camp",
+            "OPERATINGNAME": "Glendon Residential",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33089",
+            "MEMBERNAME": "Glenn D. Campbell, Jenny L. Campbell & Donald Camp",
+            "MEMBEROPERATINGNAME": "Glendon Residential",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33089",
+            "Umbrella": "Glendon Residential",
+            "Umbrella ID": "12539836",
+            "VB_NAME": "Glenn D. Campbell, Jenny L. Campbell & Donald Camp",
+            "OPERATINGNAME": "Glendon Residential",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33832",
+            "MEMBERNAME": "Glendon Residential Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

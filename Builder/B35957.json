@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35957",
+            "Umbrella": "Connell Homes",
+            "Umbrella ID": "12540223",
+            "VB_NAME": "Connell Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Dunsford",
+            "HCRA_INITIALLICENSEDATE": "2005-08-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-31 13:48:23.000 +0000",
+            "Expiry Date": "2024-08-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1051 Highway 24",
+            "TELEPHONE": "705-793-9338",
+            "FAX": "705-793-9065",
+            "WEBSITEURL": "www.connellhomes.ca",
+            "EMAIL": "john@connellhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12099140",
+            "TO": "John Connell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-793-9338"
+        },
+        {
+            "TOUNIQUENUMBER": "12099140",
+            "TO": "John Connell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-793-9338"
+        },
+        {
+            "TOUNIQUENUMBER": "12099140",
+            "TO": "John Connell",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-793-9338"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35957",
+            "Umbrella": "Connell Homes",
+            "Umbrella ID": "12540223",
+            "VB_NAME": "Connell Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B30519",
+            "MEMBERNAME": "Connell Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35957",
+            "Umbrella": "Connell Homes",
+            "Umbrella ID": "12540223",
+            "VB_NAME": "Connell Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35957",
+            "MEMBERNAME": "Connell Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

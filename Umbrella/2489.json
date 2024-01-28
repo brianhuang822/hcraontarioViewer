@@ -1,0 +1,126 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Royal Creek Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "2800 14th Avenue",
+            "TELEPHONE": "(905)415-9211",
+            "FAX": "(905)415-9219",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Major Mills Estates Inc.",
+            "MEMBEROPERATINGNAME": "Symphony Park",
+            "MEMBERVBNUM": "B22482",
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "MEMBERNAME": "Grand Oak Homes (Northern One) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23567",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Abrade Investments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8545",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Grand Oak Homes (Trillium) Inc.",
+            "MEMBEROPERATINGNAME": "Whitby Village",
+            "MEMBERVBNUM": "B22569",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "THE RAVINES OF DUFFINS CREEK",
+            "Account Number": "B22569",
+            "Project Status": "Completed",
+            "Location": "AJAX",
+            "Address": "3 Macintyre Lane",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-02-15"
+        },
+        {
+            "Condo Project Name": "OLD ONTARIO VILLAGE",
+            "Account Number": "B22569",
+            "Project Status": "Completed",
+            "Location": "AJAX",
+            "Address": "Murphy Lane",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-03-02"
+        },
+        {
+            "Condo Project Name": "WHITBY VILLAGE - PHASE II",
+            "Account Number": "B22482",
+            "Project Status": "Completed",
+            "Location": "WHITBY",
+            "Address": "Springwood St. & Nicol Ave.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-01-18"
+        },
+        {
+            "Condo Project Name": "WHITBY VILLAGE",
+            "Account Number": "B22569",
+            "Project Status": "Completed",
+            "Location": "WHITBY",
+            "Address": "1801 Nichol Ave.",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-02-03"
+        },
+        {
+            "Condo Project Name": "PARK PLACE",
+            "Account Number": "B23567",
+            "Project Status": "In Progress",
+            "Location": "WHITBY",
+            "Address": "Wallace Drive",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "GRAND OAK HOMES (NORTHERN)",
+            "Account Number": "B23567",
+            "Project Status": "In Progress",
+            "Location": "WHITBY",
+            "Address": "Brock & Wallace Dr.",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

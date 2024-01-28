@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61873",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sky Dragon Community Development Co-operative Inc.",
+            "OPERATINGNAME": "Sky Dragon Community Development Co-operative Inc.",
+            "CITY": "Hamilton",
+            "HCRA_INITIALLICENSEDATE": "2023-02-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-09 19:39:40.000 +0000",
+            "Expiry Date": "2025-02-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "27 King William Street",
+            "TELEPHONE": "905-481-4843",
+            "FAX": null,
+            "WEBSITEURL": "https://www.skydragon.org",
+            "EMAIL": "kevin@skydragon.org",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600013261",
+            "TO": "Daniel Smith",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-237-4074"
+        },
+        {
+            "TOUNIQUENUMBER": "600013261",
+            "TO": "Daniel Smith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-237-4074"
+        },
+        {
+            "TOUNIQUENUMBER": "600011541",
+            "TO": "Kevin MacKay",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-481-4843"
+        },
+        {
+            "TOUNIQUENUMBER": "600011541",
+            "TO": "Kevin MacKay",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-481-4843"
+        },
+        {
+            "TOUNIQUENUMBER": "100482516",
+            "TO": "Anthony Disilvestro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-525-7854"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61873",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sky Dragon Community Development Co-operative Inc.",
+            "OPERATINGNAME": "Sky Dragon Community Development Co-operative Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Sky Dragon Centre Redevelopment",
+            "Project Status": null,
+            "Location": "HAMILTON",
+            "Address": " 27 King William Street ",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

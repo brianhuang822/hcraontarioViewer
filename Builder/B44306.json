@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44306",
+            "Umbrella": "Ron Chisholm",
+            "Umbrella ID": "12542542",
+            "VB_NAME": "Chisholm Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "SPENCERVILLE",
+            "HCRA_INITIALLICENSEDATE": "2015-02-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-02-11 14:00:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9012 Campbell Rd.",
+            "TELEPHONE": "613/229-0130",
+            "FAX": "613/989-1962",
+            "WEBSITEURL": " ",
+            "EMAIL": "chisholmconstruction@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11955173",
+            "TO": "Anne S. Chisholm",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-989-1961"
+        },
+        {
+            "TOUNIQUENUMBER": "11955173",
+            "TO": "Anne S. Chisholm",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-989-1961"
+        },
+        {
+            "TOUNIQUENUMBER": "11955173",
+            "TO": "Anne S. Chisholm",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-989-1961"
+        },
+        {
+            "TOUNIQUENUMBER": "341444",
+            "TO": "Ron Chisholm",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-0130"
+        },
+        {
+            "TOUNIQUENUMBER": "341444",
+            "TO": "Ron Chisholm",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-0130"
+        },
+        {
+            "TOUNIQUENUMBER": "341444",
+            "TO": "Ron Chisholm",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-0130"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44306",
+            "Umbrella": "Ron Chisholm",
+            "Umbrella ID": "12542542",
+            "VB_NAME": "Chisholm Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25315",
+            "MEMBERNAME": "Ron Chisholm",
+            "MEMBEROPERATINGNAME": "Chisholm Carpentry",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44306",
+            "Umbrella": "Ron Chisholm",
+            "Umbrella ID": "12542542",
+            "VB_NAME": "Chisholm Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44306",
+            "MEMBERNAME": "Chisholm Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

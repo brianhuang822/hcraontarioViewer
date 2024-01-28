@@ -1,0 +1,165 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43348",
+            "Umbrella": "Aventus Development",
+            "Umbrella ID": "12540211",
+            "VB_NAME": "2371632 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "BURLINGTON",
+            "HCRA_INITIALLICENSEDATE": "2014-01-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-04-13 02:17:36.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1418 Ontario St.",
+            "TELEPHONE": "905/304-6200",
+            "FAX": "888/267-7659",
+            "WEBSITEURL": " ",
+            "EMAIL": "jason@riserealestate.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 624,
+            "SUMM_TOTAL": 624,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12137683",
+            "TO": "Timothy Harris",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-304-6200"
+        },
+        {
+            "TOUNIQUENUMBER": "100197994",
+            "TO": "Stacey Ciancone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-681-2344"
+        },
+        {
+            "TOUNIQUENUMBER": "100197994",
+            "TO": "Stacey Ciancone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-681-2344"
+        },
+        {
+            "TOUNIQUENUMBER": "100197994",
+            "TO": "Stacey Ciancone",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-681-2344"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43348",
+            "Umbrella": "Aventus Development",
+            "Umbrella ID": "12540211",
+            "VB_NAME": "2371632 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46688",
+            "MEMBERNAME": "1635 Richmond (London) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43348",
+            "Umbrella": "Aventus Development",
+            "Umbrella ID": "12540211",
+            "VB_NAME": "2371632 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B62038",
+            "MEMBERNAME": "17 Ewen (Hamilton) Corp.",
+            "MEMBEROPERATINGNAME": "17 Ewen (Hamilton) Corp.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43348",
+            "Umbrella": "Aventus Development",
+            "Umbrella ID": "12540211",
+            "VB_NAME": "2371632 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43323",
+            "MEMBERNAME": "1635 Richmond (London) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Unlicensed"
+        },
+        {
+            "Account Number": "B43348",
+            "Umbrella": "Aventus Development",
+            "Umbrella ID": "12540211",
+            "VB_NAME": "2371632 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43676",
+            "MEMBERNAME": "145 Columbia (Waterloo) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43348",
+            "Umbrella": "Aventus Development",
+            "Umbrella ID": "12540211",
+            "VB_NAME": "2371632 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36395",
+            "MEMBERNAME": "1668216 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "X-FLATS",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43348",
+            "Umbrella": "Aventus Development",
+            "Umbrella ID": "12540211",
+            "VB_NAME": "2371632 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43348",
+            "MEMBERNAME": "2371632 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43348",
+            "Umbrella": "Aventus Development",
+            "Umbrella ID": "12540211",
+            "VB_NAME": "2371632 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B62036",
+            "MEMBERNAME": "1000188251 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "1000188251 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Icon Residences",
+            "Project Status": "Completed",
+            "Location": "WATERLOO",
+            "Address": " 330 Phillip St. ",
+            "# of Units": 624,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-04-18"
+        }
+    ],
+    "builderConditions": []
+}

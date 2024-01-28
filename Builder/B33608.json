@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33608",
+            "Umbrella": "Nashid Construction",
+            "Umbrella ID": "12541001",
+            "VB_NAME": "Nashid Construction Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "2003-07-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-07-23 12:31:09.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3 Kevi Cres.",
+            "TELEPHONE": "(905)709-9900",
+            "FAX": "(905)709-9974",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11921014",
+            "TO": "Mohammad Ali Nashid",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-897-8186"
+        },
+        {
+            "TOUNIQUENUMBER": "11921014",
+            "TO": "Mohammad Ali Nashid",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-897-8186"
+        },
+        {
+            "TOUNIQUENUMBER": "11921014",
+            "TO": "Mohammad Ali Nashid",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-897-8186"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33608",
+            "Umbrella": "Nashid Construction",
+            "Umbrella ID": "12541001",
+            "VB_NAME": "Nashid Construction Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38136",
+            "MEMBERNAME": "Nashid Construction Corp.",
+            "MEMBEROPERATINGNAME": "Nashid Construction",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B33608",
+            "Umbrella": "Nashid Construction",
+            "Umbrella ID": "12541001",
+            "VB_NAME": "Nashid Construction Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33608",
+            "MEMBERNAME": "Nashid Construction Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33608",
+            "Umbrella": "Nashid Construction",
+            "Umbrella ID": "12541001",
+            "VB_NAME": "Nashid Construction Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35274",
+            "MEMBERNAME": "Nashid Construction Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

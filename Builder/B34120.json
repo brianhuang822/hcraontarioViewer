@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34120",
+            "Umbrella": "Bordeau Homes",
+            "Umbrella ID": "12539865",
+            "VB_NAME": "1599026 Ontario Inc.",
+            "OPERATINGNAME": "Bordeaux Homes",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2004-03-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-03-03 14:32:07.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2978 Islington Ave., Ste.101",
+            "TELEPHONE": "416-729-5152",
+            "FAX": "416-749-7665",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11802385",
+            "TO": "John Chiarot",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-788-8181"
+        },
+        {
+            "TOUNIQUENUMBER": "11802385",
+            "TO": "John Chiarot",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-788-8181"
+        },
+        {
+            "TOUNIQUENUMBER": "11802385",
+            "TO": "John Chiarot",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-788-8181"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34120",
+            "Umbrella": "Bordeau Homes",
+            "Umbrella ID": "12539865",
+            "VB_NAME": "1599026 Ontario Inc.",
+            "OPERATINGNAME": "Bordeaux Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32570",
+            "MEMBERNAME": "1524733 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Bordeau Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34120",
+            "Umbrella": "Bordeau Homes",
+            "Umbrella ID": "12539865",
+            "VB_NAME": "1599026 Ontario Inc.",
+            "OPERATINGNAME": "Bordeaux Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38508",
+            "MEMBERNAME": "1599026 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Bordeaux Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34120",
+            "Umbrella": "Bordeau Homes",
+            "Umbrella ID": "12539865",
+            "VB_NAME": "1599026 Ontario Inc.",
+            "OPERATINGNAME": "Bordeaux Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34120",
+            "MEMBERNAME": "1599026 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Bordeaux Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

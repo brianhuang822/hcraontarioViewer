@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46777",
+            "Umbrella": "Hayden Construction",
+            "Umbrella ID": "12547875",
+            "VB_NAME": "Hayden Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Little Britain",
+            "HCRA_INITIALLICENSEDATE": "2018-06-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-06 18:53:07.000 +0000",
+            "Expiry Date": "2024-06-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "46 Pleasant View Crescent",
+            "TELEPHONE": "905-767-7781",
+            "FAX": null,
+            "WEBSITEURL": "https://www.haydenconstruction.ca",
+            "EMAIL": "info@haydenconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100351359",
+            "TO": "Jodi Hayden",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-354-3636"
+        },
+        {
+            "TOUNIQUENUMBER": "100351358",
+            "TO": "Rick Hayden",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-767-7781"
+        },
+        {
+            "TOUNIQUENUMBER": "100351358",
+            "TO": "Rick Hayden",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-767-7781"
+        },
+        {
+            "TOUNIQUENUMBER": "100351358",
+            "TO": "Rick Hayden",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-767-7781"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46777",
+            "Umbrella": "Hayden Construction",
+            "Umbrella ID": "12547875",
+            "VB_NAME": "Hayden Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46777",
+            "MEMBERNAME": "Hayden Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46777",
+            "Umbrella": "Hayden Construction",
+            "Umbrella ID": "12547875",
+            "VB_NAME": "Hayden Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45144",
+            "MEMBERNAME": "Rick Hayden",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

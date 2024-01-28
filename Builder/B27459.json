@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27459",
+            "Umbrella": "Romano Contracting",
+            "Umbrella ID": "12540207",
+            "VB_NAME": "Dysievick Romano Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "THUNDER BAY",
+            "HCRA_INITIALLICENSEDATE": "1998-05-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-05-27 15:02:50.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "43 Pinewood Dr., R.R. 2",
+            "TELEPHONE": "807-939-2555",
+            "FAX": "807-939-2555",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343965",
+            "TO": "William (Bill) Russell Romano",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-624-7899"
+        },
+        {
+            "TOUNIQUENUMBER": "343965",
+            "TO": "William (Bill) Russell Romano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-624-7899"
+        },
+        {
+            "TOUNIQUENUMBER": "343964",
+            "TO": "Brian Frederick Dysievick",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-939-1277"
+        },
+        {
+            "TOUNIQUENUMBER": "343964",
+            "TO": "Brian Frederick Dysievick",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-939-1277"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27459",
+            "Umbrella": "Romano Contracting",
+            "Umbrella ID": "12540207",
+            "VB_NAME": "Dysievick Romano Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27459",
+            "MEMBERNAME": "Dysievick Romano Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27459",
+            "Umbrella": "Romano Contracting",
+            "Umbrella ID": "12540207",
+            "VB_NAME": "Dysievick Romano Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42137",
+            "MEMBERNAME": "Bill Romano Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

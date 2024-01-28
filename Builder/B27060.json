@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27060",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "Ellis-Don Residential Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "1998-10-10 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2045 Oxford St. E.",
+            "TELEPHONE": "(519)455-6770",
+            "FAX": "(519)455-2944",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343444",
+            "TO": "James M. King",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-896-8900"
+        },
+        {
+            "TOUNIQUENUMBER": "343444",
+            "TO": "James M. King",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-896-8900"
+        },
+        {
+            "TOUNIQUENUMBER": "343440",
+            "TO": "Larry Fisher",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "331535",
+            "TO": "Geoffrey Smith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-896-8900"
+        },
+        {
+            "TOUNIQUENUMBER": "331535",
+            "TO": "Geoffrey Smith",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-896-8900"
+        },
+        {
+            "TOUNIQUENUMBER": "343439",
+            "TO": "John Bernhardt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-455-6770"
+        },
+        {
+            "TOUNIQUENUMBER": "343439",
+            "TO": "John Bernhardt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-455-6770"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27060",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "Ellis-Don Residential Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B61889",
+            "MEMBERNAME": "Fieldway Road Developments Inc.",
+            "MEMBEROPERATINGNAME": "Fieldway Road Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27060",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "Ellis-Don Residential Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B27060",
+            "MEMBERNAME": "Ellis-Don Residential Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B27060",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "Ellis-Don Residential Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B38330",
+            "MEMBERNAME": "EllisDon Residential Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

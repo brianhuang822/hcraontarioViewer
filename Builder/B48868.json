@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48868",
+            "Umbrella": "U-PIC HOMES",
+            "Umbrella ID": "12553027",
+            "VB_NAME": "2582374 Ontario Ltd.",
+            "OPERATINGNAME": "UPIC Homes",
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2021-01-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-21 17:00:35.000 +0000",
+            "Expiry Date": "2025-01-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7536 Silvercreek Crescent",
+            "TELEPHONE": "519-636-2706",
+            "FAX": null,
+            "WEBSITEURL": "https://upichomes.com",
+            "EMAIL": "jeff@upichomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12500650",
+            "TO": "Jeffrey Cipu",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-636-2706"
+        },
+        {
+            "TOUNIQUENUMBER": "12500650",
+            "TO": "Jeffrey Cipu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-636-2706"
+        },
+        {
+            "TOUNIQUENUMBER": "12500650",
+            "TO": "Jeffrey Cipu",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-636-2706"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48868",
+            "Umbrella": "U-PIC HOMES",
+            "Umbrella ID": "12553027",
+            "VB_NAME": "2582374 Ontario Ltd.",
+            "OPERATINGNAME": "UPIC Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41596",
+            "MEMBERNAME": "Jeffrey Alexander Cipu",
+            "MEMBEROPERATINGNAME": "U-Pic Contracting",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48868",
+            "Umbrella": "U-PIC HOMES",
+            "Umbrella ID": "12553027",
+            "VB_NAME": "2582374 Ontario Ltd.",
+            "OPERATINGNAME": "UPIC Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48868",
+            "MEMBERNAME": "2582374 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "UPIC Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

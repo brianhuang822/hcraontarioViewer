@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44023",
+            "Umbrella": "Larendale Group of Companies",
+            "Umbrella ID": "12542183",
+            "VB_NAME": "Larendale Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2015-04-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-04-09 04:15:12.000 +0000",
+            "Expiry Date": "2021-04-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5255 Yonge St., Ste. 1050",
+            "TELEPHONE": "416/222-6716",
+            "FAX": null,
+            "WEBSITEURL": "www.larendale.com",
+            "EMAIL": "giselle@larendale.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "335205",
+            "TO": "David Laren",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-222-6716"
+        },
+        {
+            "TOUNIQUENUMBER": "335205",
+            "TO": "David Laren",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-222-6716"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44023",
+            "Umbrella": "Larendale Group of Companies",
+            "Umbrella ID": "12542183",
+            "VB_NAME": "Larendale Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44023",
+            "MEMBERNAME": "Larendale Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44023",
+            "Umbrella": "Larendale Group of Companies",
+            "Umbrella ID": "12542183",
+            "VB_NAME": "Larendale Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42399",
+            "MEMBERNAME": "Baytree Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

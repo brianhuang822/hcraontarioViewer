@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39118",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Stonebridge Building Group Inc.",
+            "OPERATINGNAME": "Stonebridge Building Group Inc.",
+            "CITY": "Brampton",
+            "HCRA_INITIALLICENSEDATE": "2008-09-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-02 19:18:15.000 +0000",
+            "Expiry Date": "2024-09-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2053 Williams Parkway",
+            "TELEPHONE": "905-793-2656",
+            "FAX": "905-793-9494",
+            "WEBSITEURL": "www.stonebridgebg.com",
+            "EMAIL": "mark@developbuildmanage.com",
+            "ACCOUNTNUMBER": "B39118",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 233,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 233,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12309847",
+            "TO": "Mark Crowe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-793-2656"
+        },
+        {
+            "TOUNIQUENUMBER": "12309847",
+            "TO": "Mark Crowe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-793-2656"
+        },
+        {
+            "TOUNIQUENUMBER": "12309847",
+            "TO": "Mark Crowe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-793-2656"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39118",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Stonebridge Building Group Inc.",
+            "OPERATINGNAME": "Stonebridge Building Group Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Alexander Walk",
+            "Project Status": "In Progress",
+            "Location": "ORANGEVILLE",
+            "Address": " 31 Town Line ",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Stonebridge by the Bay",
+            "Project Status": null,
+            "Location": "WASAGA BEACH",
+            "Address": "Stonebridge Blvd.",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Alexander Walk",
+            "Project Status": "In Progress",
+            "Location": "ORANGEVILLE",
+            "Address": " 30 Town Line ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

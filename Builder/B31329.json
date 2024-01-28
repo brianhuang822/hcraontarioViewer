@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31329",
+            "Umbrella": "Crystal Glen Homes",
+            "Umbrella ID": "11698487",
+            "VB_NAME": "Crystal Glen Homes (2000) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Concord",
+            "HCRA_INITIALLICENSEDATE": "2001-03-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-22 17:50:30.000 +0000",
+            "Expiry Date": "2024-03-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8740 Jane Street",
+            "TELEPHONE": "905-597-0227",
+            "FAX": "905-597-0493",
+            "WEBSITEURL": null,
+            "EMAIL": "lina@crystalglenhomes.com",
+            "ACCOUNTNUMBER": "B31329",
+            "Total Outstanding Amount": 1250.06,
+            "TAB": 1250.06,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 120148.42,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 120148.42
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11698892",
+            "TO": "Fulvia Saccoccia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-856-7666"
+        },
+        {
+            "TOUNIQUENUMBER": "331972",
+            "TO": "Steven Jr. Saccoccia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-856-1158"
+        },
+        {
+            "TOUNIQUENUMBER": "331972",
+            "TO": "Steven Jr. Saccoccia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-856-1158"
+        },
+        {
+            "TOUNIQUENUMBER": "331972",
+            "TO": "Steven Jr. Saccoccia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-856-1158"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31329",
+            "Umbrella": "Crystal Glen Homes",
+            "Umbrella ID": "11698487",
+            "VB_NAME": "Crystal Glen Homes (2000) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27020",
+            "MEMBERNAME": "Crystal Glen Homes Inc.",
+            "MEMBEROPERATINGNAME": "Crystal Glen Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31329",
+            "Umbrella": "Crystal Glen Homes",
+            "Umbrella ID": "11698487",
+            "VB_NAME": "Crystal Glen Homes (2000) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B23978",
+            "MEMBERNAME": "Barron Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31329",
+            "Umbrella": "Crystal Glen Homes",
+            "Umbrella ID": "11698487",
+            "VB_NAME": "Crystal Glen Homes (2000) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31329",
+            "MEMBERNAME": "Crystal Glen Homes (2000) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Marquis",
+            "Project Status": "In Progress",
+            "Location": "WOODBRIDGE",
+            "Address": " 9630 Islington Ave ",
+            "# of Units": 89,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

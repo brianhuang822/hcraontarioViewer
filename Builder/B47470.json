@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47470",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "10091251 Canada Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "2019-04-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-27 14:34:59.000 +0000",
+            "Expiry Date": "2024-05-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "250 Consumers Road",
+            "TELEPHONE": "416-219-6069",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "harry@groupehmv.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100553081",
+            "TO": "Hrair Varvarian",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-219-6069"
+        },
+        {
+            "TOUNIQUENUMBER": "100553081",
+            "TO": "Hrair Varvarian",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-219-6069"
+        },
+        {
+            "TOUNIQUENUMBER": "100553081",
+            "TO": "Hrair Varvarian",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-219-6069"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47470",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "10091251 Canada Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "319 Mortimer Avenue",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": " 319 Mortimer Avenue ",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47225",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Royal Connaught Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Hamilton",
+            "HCRA_INITIALLICENSEDATE": "2021-07-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-14 21:01:49.000 +0000",
+            "Expiry Date": "2024-07-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1 James Street South",
+            "TELEPHONE": "905-389-6421",
+            "FAX": "905-389-0820",
+            "WEBSITEURL": "royalconnaught.com",
+            "EMAIL": "rudi@spallaccigroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "334691",
+            "TO": "Ted Valeri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-547-5056"
+        },
+        {
+            "TOUNIQUENUMBER": "334691",
+            "TO": "Ted Valeri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-547-5056"
+        },
+        {
+            "TOUNIQUENUMBER": "331928",
+            "TO": "Rudi Spallacci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-389-6421"
+        },
+        {
+            "TOUNIQUENUMBER": "331928",
+            "TO": "Rudi Spallacci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-389-6421"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47225",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Royal Connaught Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Moderne",
+            "Project Status": "In Progress",
+            "Location": "HAMILTON",
+            "Address": " 8 Catharine Street ",
+            "# of Units": 236,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

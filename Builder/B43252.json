@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43252",
+            "Umbrella": "Peter D. Specht Carpentry",
+            "Umbrella ID": "12540798",
+            "VB_NAME": "Peter D. Specht Carpentry Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Thunder Bay",
+            "HCRA_INITIALLICENSEDATE": "2014-02-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-22 15:01:01.000 +0000",
+            "Expiry Date": "2024-02-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1611 Goods Road",
+            "TELEPHONE": "807-627-2545",
+            "FAX": "807-767-5479",
+            "WEBSITEURL": " ",
+            "EMAIL": "spechtp_38@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 16,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 16,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12026872",
+            "TO": "Peter Specht",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-627-2545"
+        },
+        {
+            "TOUNIQUENUMBER": "12026872",
+            "TO": "Peter Specht",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-627-2545"
+        },
+        {
+            "TOUNIQUENUMBER": "12029880",
+            "TO": "Anna Specht",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-707-2466"
+        },
+        {
+            "TOUNIQUENUMBER": "12029880",
+            "TO": "Anna Specht",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-707-2466"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43252",
+            "Umbrella": "Peter D. Specht Carpentry",
+            "Umbrella ID": "12540798",
+            "VB_NAME": "Peter D. Specht Carpentry Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34882",
+            "MEMBERNAME": "Peter D. Specht",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43252",
+            "Umbrella": "Peter D. Specht Carpentry",
+            "Umbrella ID": "12540798",
+            "VB_NAME": "Peter D. Specht Carpentry Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43252",
+            "MEMBERNAME": "Peter D. Specht Carpentry Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

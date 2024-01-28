@@ -1,0 +1,126 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41266",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "H & W Development Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "Scarborough",
+            "HCRA_INITIALLICENSEDATE": "2011-05-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-12 19:41:10.000 +0000",
+            "Expiry Date": "2024-05-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2950 Birchmount Road",
+            "TELEPHONE": "416-493-2950",
+            "FAX": "416-492-8910",
+            "WEBSITEURL": "hwdevelopments.ca",
+            "EMAIL": "info@hwdevelopment.ca",
+            "ACCOUNTNUMBER": "B41266",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 932,
+            "SUMM_TOTAL": 932,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12475941",
+            "TO": "Fred Wang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-2950"
+        },
+        {
+            "TOUNIQUENUMBER": "12475941",
+            "TO": "Fred Wang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-2950"
+        },
+        {
+            "TOUNIQUENUMBER": "12475941",
+            "TO": "Fred Wang",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-2950"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41266",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "H & W Development Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Fontana",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": " 33 Clegg Rd. ",
+            "# of Units": 159,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-05-11"
+        },
+        {
+            "Condo Project Name": "Fontana",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": " 38 Cedarland Dr. ",
+            "# of Units": 165,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-01-18"
+        },
+        {
+            "Condo Project Name": "Fontana",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": " 89 & 99 South Town Centre Blvd. ",
+            "# of Units": 368,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-10"
+        },
+        {
+            "Condo Project Name": "Vendome Markham",
+            "Project Status": "In Progress",
+            "Location": "MARKHAM",
+            "Address": " 9 Clegg Rd. ",
+            "# of Units": 254,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Vendome Markham",
+            "Project Status": "In Progress",
+            "Location": "MARKHAM",
+            "Address": " 8 Cedarland Dr. ",
+            "# of Units": 261,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

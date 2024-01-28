@@ -1,0 +1,138 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24852",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Gates Of Pickering Inc.",
+            "OPERATINGNAME": "The Gates Of Pickering",
+            "CITY": "WHITBY",
+            "HCRA_INITIALLICENSEDATE": "1995-06-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1999-06-10 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "209 Dundas St.E., Unit 5,lower Level",
+            "TELEPHONE": "(905)666-3665",
+            "FAX": "(905)668-0963",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "335805",
+            "TO": "Steve Wagner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "335805",
+            "TO": "Steve Wagner",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "335805",
+            "TO": "Steve Wagner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "340836",
+            "TO": "John Van Schaik",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "340836",
+            "TO": "John Van Schaik",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "340836",
+            "TO": "John Van Schaik",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "307101",
+            "TO": "Jeremiah F. Coughlan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-686-2065"
+        },
+        {
+            "TOUNIQUENUMBER": "307101",
+            "TO": "Jeremiah F. Coughlan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-686-2065"
+        },
+        {
+            "TOUNIQUENUMBER": "307101",
+            "TO": "Jeremiah F. Coughlan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-686-2065"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24852",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Gates Of Pickering Inc.",
+            "OPERATINGNAME": "The Gates Of Pickering",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE GATES OF PICKERING",
+            "Project Status": "Completed",
+            "Location": "PICKERING",
+            "Address": "1345 Altona Rd.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-01-27"
+        },
+        {
+            "Condo Project Name": "THE GATES OF PICKERING",
+            "Project Status": "Completed",
+            "Location": "PICKERING",
+            "Address": "1345 Altona Rd.",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-01-22"
+        }
+    ],
+    "builderConditions": []
+}

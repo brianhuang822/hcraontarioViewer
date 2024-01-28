@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61519",
+            "Umbrella": "Springfield Construction",
+            "Umbrella ID": "12540662",
+            "VB_NAME": "1000151797 Ontario Inc.",
+            "OPERATINGNAME": "Grand River Homes",
+            "CITY": "Grimsby",
+            "HCRA_INITIALLICENSEDATE": "2022-10-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-23 19:44:44.000 +0000",
+            "Expiry Date": "2024-10-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "267 Main Street West",
+            "TELEPHONE": "905-541-5213",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "crusejustin@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600012404",
+            "TO": "Nicholas Cercone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-537-0613"
+        },
+        {
+            "TOUNIQUENUMBER": "600012404",
+            "TO": "Nicholas Cercone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-537-0613"
+        },
+        {
+            "TOUNIQUENUMBER": "600010091",
+            "TO": "Justin Cruse",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-541-5213"
+        },
+        {
+            "TOUNIQUENUMBER": "600010091",
+            "TO": "Justin Cruse",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-541-5213"
+        },
+        {
+            "TOUNIQUENUMBER": "344148",
+            "TO": "David Eccles",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-741-4957"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61519",
+            "Umbrella": "Springfield Construction",
+            "Umbrella ID": "12540662",
+            "VB_NAME": "1000151797 Ontario Inc.",
+            "OPERATINGNAME": "Grand River Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61519",
+            "MEMBERNAME": "1000151797 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Grand River Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61519",
+            "Umbrella": "Springfield Construction",
+            "Umbrella ID": "12540662",
+            "VB_NAME": "1000151797 Ontario Inc.",
+            "OPERATINGNAME": "Grand River Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27590",
+            "MEMBERNAME": "David Eccles",
+            "MEMBEROPERATINGNAME": "Eccles Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

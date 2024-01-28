@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33388",
+            "Umbrella": "Barchard Homes",
+            "Umbrella ID": "12539812",
+            "VB_NAME": "1307360 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Cavan",
+            "HCRA_INITIALLICENSEDATE": "2003-05-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-27 19:28:02.000 +0000",
+            "Expiry Date": "2024-05-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "979 Mount Pleasant Road",
+            "TELEPHONE": "905-261-2278",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "barchardj@gmail.com",
+            "ACCOUNTNUMBER": "B33388",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339854",
+            "TO": "James (Jim) E. Barchard",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-261-2278"
+        },
+        {
+            "TOUNIQUENUMBER": "339854",
+            "TO": "James (Jim) E. Barchard",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-261-2278"
+        },
+        {
+            "TOUNIQUENUMBER": "339854",
+            "TO": "James (Jim) E. Barchard",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-261-2278"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33388",
+            "Umbrella": "Barchard Homes",
+            "Umbrella ID": "12539812",
+            "VB_NAME": "1307360 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27107",
+            "MEMBERNAME": "Castle Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33388",
+            "Umbrella": "Barchard Homes",
+            "Umbrella ID": "12539812",
+            "VB_NAME": "1307360 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33388",
+            "MEMBERNAME": "1307360 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

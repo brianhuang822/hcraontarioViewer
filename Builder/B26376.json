@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26376",
+            "Umbrella": "Regency Homes",
+            "Umbrella ID": "12021717",
+            "VB_NAME": "Pringle Creek Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "DOWNSVIEW",
+            "HCRA_INITIALLICENSEDATE": "1997-04-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-04-26 12:36:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "401 Magnetic Dr. Unit 4",
+            "TELEPHONE": "(416)661-3155",
+            "FAX": "(416)661-3525",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340869",
+            "TO": "William Tessler",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-3155"
+        },
+        {
+            "TOUNIQUENUMBER": "340869",
+            "TO": "William Tessler",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-3155"
+        },
+        {
+            "TOUNIQUENUMBER": "340869",
+            "TO": "William Tessler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-3155"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26376",
+            "Umbrella": "Regency Homes",
+            "Umbrella ID": "12021717",
+            "VB_NAME": "Pringle Creek Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26250",
+            "MEMBERNAME": "Sonterlan Corporation",
+            "MEMBEROPERATINGNAME": "Regency Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B26376",
+            "Umbrella": "Regency Homes",
+            "Umbrella ID": "12021717",
+            "VB_NAME": "Pringle Creek Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26376",
+            "MEMBERNAME": "Pringle Creek Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "PRINGLE CREEK",
+            "Project Status": "Completed",
+            "Location": "WHITBY",
+            "Address": "Salmon Way",
+            "# of Units": 45,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-03-15"
+        },
+        {
+            "Condo Project Name": "PRINGLE CREEK",
+            "Project Status": "Completed",
+            "Location": "WHITBY",
+            "Address": "Garden & Dundas Sts.",
+            "# of Units": 49,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-05-10"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,104 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60348",
+            "Umbrella": "Pine Glen",
+            "Umbrella ID": "12547355",
+            "VB_NAME": "Pine Glen Homes Inc.",
+            "OPERATINGNAME": "Pine Glen Homes Inc.",
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2021-07-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-14 20:28:07.000 +0000",
+            "Expiry Date": "2024-07-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2345 Wyecroft Road",
+            "TELEPHONE": "905-827-1117",
+            "FAX": null,
+            "WEBSITEURL": "https://www.pineglen.ca",
+            "EMAIL": "eddie@pineglen.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12478888",
+            "TO": "Eddie Jurinic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-827-1117"
+        },
+        {
+            "TOUNIQUENUMBER": "12478888",
+            "TO": "Eddie Jurinic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-827-1117"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60348",
+            "Umbrella": "Pine Glen",
+            "Umbrella ID": "12547355",
+            "VB_NAME": "Pine Glen Homes Inc.",
+            "OPERATINGNAME": "Pine Glen Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47647",
+            "MEMBERNAME": "Pine Glen Thorold Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60348",
+            "Umbrella": "Pine Glen",
+            "Umbrella ID": "12547355",
+            "VB_NAME": "Pine Glen Homes Inc.",
+            "OPERATINGNAME": "Pine Glen Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60348",
+            "MEMBERNAME": "Pine Glen Homes Inc.",
+            "MEMBEROPERATINGNAME": "Pine Glen Homes Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60348",
+            "Umbrella": "Pine Glen",
+            "Umbrella ID": "12547355",
+            "VB_NAME": "Pine Glen Homes Inc.",
+            "OPERATINGNAME": "Pine Glen Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41308",
+            "MEMBERNAME": "Pine Glen Developments Inc.",
+            "MEMBEROPERATINGNAME": "Pine Glen Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60348",
+            "Umbrella": "Pine Glen",
+            "Umbrella ID": "12547355",
+            "VB_NAME": "Pine Glen Homes Inc.",
+            "OPERATINGNAME": "Pine Glen Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60359",
+            "MEMBERNAME": "Pine Glen Colborne Inc.",
+            "MEMBEROPERATINGNAME": "Pine Glen Colborne Inc.",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

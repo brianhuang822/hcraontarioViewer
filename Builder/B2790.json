@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B2790",
+            "Umbrella": "Wildwood Estate Thunderbay",
+            "Umbrella ID": "12540590",
+            "VB_NAME": "Wildwood Estate (Thunder Bay) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "THUNDER BAY",
+            "HCRA_INITIALLICENSEDATE": "1978-10-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-10-26 12:35:16.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "212 Miles St. E.",
+            "TELEPHONE": "(807)475-5301",
+            "FAX": "(807)475-3859",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "325772",
+            "TO": "Therese Pasqualino",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "325771",
+            "TO": "Sam Pasqualino",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "325771",
+            "TO": "Sam Pasqualino",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "325771",
+            "TO": "Sam Pasqualino",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "325773",
+            "TO": "Tony Pasqualino",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-475-5301"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B2790",
+            "Umbrella": "Wildwood Estate Thunderbay",
+            "Umbrella ID": "12540590",
+            "VB_NAME": "Wildwood Estate (Thunder Bay) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33535",
+            "MEMBERNAME": "Wildwood Estates (Thunder Bay) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B2790",
+            "Umbrella": "Wildwood Estate Thunderbay",
+            "Umbrella ID": "12540590",
+            "VB_NAME": "Wildwood Estate (Thunder Bay) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B2790",
+            "MEMBERNAME": "Wildwood Estate (Thunder Bay) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

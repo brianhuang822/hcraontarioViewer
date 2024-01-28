@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B14675",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Harasym Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "1978-10-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-08 16:41:51.000 +0000",
+            "Expiry Date": "2024-10-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 28030",
+            "TELEPHONE": "519-472-5400",
+            "FAX": "519-473-1456",
+            "WEBSITEURL": "harasymhomesinc.com",
+            "EMAIL": "aleck@aleckharasymhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 75,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 75,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "300689",
+            "TO": "Mary Harasym",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-670-0483"
+        },
+        {
+            "TOUNIQUENUMBER": "300689",
+            "TO": "Mary Harasym",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-670-0483"
+        },
+        {
+            "TOUNIQUENUMBER": "314453",
+            "TO": "Aleck Harasym",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-472-5400"
+        },
+        {
+            "TOUNIQUENUMBER": "314453",
+            "TO": "Aleck Harasym",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-472-5400"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B14675",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Harasym Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "North Lambeth",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "7222 Clayton Walk",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "WOODLAND HILL",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": " 27 Northcrest Dr ",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

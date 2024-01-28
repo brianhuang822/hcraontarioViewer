@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B16793",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Laurentian Homes Inc",
+            "OPERATINGNAME": "Royal Park Home",
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "1985-06-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1991-06-17 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "56 Pennsylvania Ave, Unit 10",
+            "TELEPHONE": "(416)736-8635",
+            "FAX": "(905)738-4576",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "265493",
+            "TO": "John Stevens",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-856-4341"
+        },
+        {
+            "TOUNIQUENUMBER": "308162",
+            "TO": "David De Simone",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-851-5640"
+        },
+        {
+            "TOUNIQUENUMBER": "308604",
+            "TO": "Marco De Simone",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-736-8635"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B16793",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Laurentian Homes Inc",
+            "OPERATINGNAME": "Royal Park Home",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WESTCLIFF TOWNHOMES",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "800 Constellation Dr",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-09-21"
+        }
+    ],
+    "builderConditions": []
+}

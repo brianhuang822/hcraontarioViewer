@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46897",
+            "Umbrella": "Growth Social House Novel",
+            "Umbrella ID": "12552508",
+            "VB_NAME": "Growth Social House Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "ST. CATHARINES",
+            "HCRA_INITIALLICENSEDATE": "2018-06-26",
+            "LICENCE_STATUS": "Suspended",
+            "HCRA_LICENSERENEWEDON": "2024-01-24 20:56:29.000 +0000",
+            "Expiry Date": "2021-06-27",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "1725 Third Street Louth",
+            "TELEPHONE": "905-329-3280",
+            "FAX": null,
+            "WEBSITEURL": "http://newcastlecommunities.com",
+            "EMAIL": "chris@newcastlecommunities.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 96,
+            "SUMM_TOTAL": 103,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100492785",
+            "TO": "Christopher Lamb",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-329-3280"
+        },
+        {
+            "TOUNIQUENUMBER": "100492785",
+            "TO": "Christopher Lamb",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-329-3280"
+        },
+        {
+            "TOUNIQUENUMBER": "100492785",
+            "TO": "Christopher Lamb",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-329-3280"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46897",
+            "Umbrella": "Growth Social House Novel",
+            "Umbrella ID": "12552508",
+            "VB_NAME": "Growth Social House Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Suspended",
+            "MEMBERVBNUM": "B46897",
+            "MEMBERNAME": "Growth Social House Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Suspended"
+        },
+        {
+            "Account Number": "B46897",
+            "Umbrella": "Growth Social House Novel",
+            "Umbrella ID": "12552508",
+            "VB_NAME": "Growth Social House Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Suspended",
+            "MEMBERVBNUM": "B47828",
+            "MEMBERNAME": "1970175 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Novel Condominiums",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Clifton Modern Towns",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": " 4263 Fourth Ave. ",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-04-03"
+        },
+        {
+            "Condo Project Name": "The Clifton Modern Towns",
+            "Project Status": "In Progress",
+            "Location": "NIAGARA FALLS",
+            "Address": " 4261 Fourth Ave. ",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": [
+        {
+            "HCRA_DESCRIPTION": "Growth Social House Inc. cannot act as a vendor or builder of new homes other than 4263 Fourth Avenue, Niagara Falls, ON ",
+            "HCRA_EFFECTIVEDATE": "2023-10-23 04:00:00.000 +0000"
+        }
+    ]
+}

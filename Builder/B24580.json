@@ -1,0 +1,266 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24580",
+            "Umbrella": "Thornwood Homes",
+            "Umbrella ID": "8415",
+            "VB_NAME": "967686 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "1995-05-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-14 20:08:59.000 +0000",
+            "Expiry Date": "2024-05-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4305 Fairview Street",
+            "TELEPHONE": "289-288-0295",
+            "FAX": "289-288-0298",
+            "WEBSITEURL": null,
+            "EMAIL": "mbotelho@amrhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 24,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 24,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12377620",
+            "TO": "Iqbal Khan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-845-3020"
+        },
+        {
+            "TOUNIQUENUMBER": "12377620",
+            "TO": "Iqbal Khan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-845-3020"
+        },
+        {
+            "TOUNIQUENUMBER": "11707796",
+            "TO": "Manuel Botelho",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-288-0295"
+        },
+        {
+            "TOUNIQUENUMBER": "11723633",
+            "TO": "Steven Scott",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-299-0762"
+        },
+        {
+            "TOUNIQUENUMBER": "11723633",
+            "TO": "Steven Scott",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-299-0762"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24580",
+            "Umbrella": "Thornwood Homes",
+            "Umbrella ID": "8415",
+            "VB_NAME": "967686 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31622",
+            "MEMBERNAME": "1441813 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B24580",
+            "Umbrella": "Thornwood Homes",
+            "Umbrella ID": "8415",
+            "VB_NAME": "967686 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B24215",
+            "MEMBERNAME": "1008338 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B24580",
+            "Umbrella": "Thornwood Homes",
+            "Umbrella ID": "8415",
+            "VB_NAME": "967686 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B24213",
+            "MEMBERNAME": "Lincoln Meadows Investments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B24580",
+            "Umbrella": "Thornwood Homes",
+            "Umbrella ID": "8415",
+            "VB_NAME": "967686 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B24580",
+            "MEMBERNAME": "967686 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "OAK ST",
+            "Project Status": null,
+            "Location": "YORK",
+            "Address": "21 Oak St.",
+            "# of Units": 99,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Pearl St.",
+            "Project Status": null,
+            "Location": "BURLINGTON",
+            "Address": "389-399 Pearl St.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Ontario St.",
+            "Project Status": null,
+            "Location": "BURLINGTON",
+            "Address": "1335 Ontario St.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Nelson St.",
+            "Project Status": null,
+            "Location": "OAKVILLE",
+            "Address": "120 Nelson St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Sovereign St",
+            "Project Status": null,
+            "Location": "OAKVILLE",
+            "Address": "Sovereign St.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "TUCK FOREST",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "3480 Upper Middle Rd.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-11-29"
+        },
+        {
+            "Condo Project Name": "TUCK FOREST",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "3480 Upper Middle Rd.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-01-19"
+        },
+        {
+            "Condo Project Name": "TUCK FOREST",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "3480 Upper Middle Rd.",
+            "# of Units": 25,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-11-12"
+        },
+        {
+            "Condo Project Name": "TUCK FOREST",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "3480 Upper Middle Rd.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-09-17"
+        },
+        {
+            "Condo Project Name": "TUCK FOREST",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "3480 Upper Middle Rd.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-06-14"
+        },
+        {
+            "Condo Project Name": "BARBOUR ESTATES",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "3243 New St.",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-05-03"
+        },
+        {
+            "Condo Project Name": "TUCK'S FOREST",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "3480 Upper Middle Rd.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-02-05"
+        },
+        {
+            "Condo Project Name": "THORNWOOD",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "2435 Woodward Ave.",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-01-03"
+        },
+        {
+            "Condo Project Name": "THORNWOOD",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "2435 Woodward Avenue",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-06-10"
+        }
+    ],
+    "builderConditions": []
+}

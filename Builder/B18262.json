@@ -1,0 +1,158 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B18262",
+            "Umbrella": "Deer Creek Homes",
+            "Umbrella ID": "3446",
+            "VB_NAME": "Lawton Residential Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "BARRIE",
+            "HCRA_INITIALLICENSEDATE": "1989-07-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1996-07-16 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "660 Bayview Drive, Unit 2a",
+            "TELEPHONE": "(705)721-7822",
+            "FAX": "(705)721-8733",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "319180",
+            "TO": "Eric Lawton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-746-3752"
+        },
+        {
+            "TOUNIQUENUMBER": "319180",
+            "TO": "Eric Lawton",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-746-3752"
+        },
+        {
+            "TOUNIQUENUMBER": "319180",
+            "TO": "Eric Lawton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-746-3752"
+        },
+        {
+            "TOUNIQUENUMBER": "319179",
+            "TO": "Bruce Lawton",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "319179",
+            "TO": "Bruce Lawton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "319179",
+            "TO": "Bruce Lawton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "316918",
+            "TO": "Kerry Judges",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B18262",
+            "Umbrella": "Deer Creek Homes",
+            "Umbrella ID": "3446",
+            "VB_NAME": "Lawton Residential Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26138",
+            "MEMBERNAME": "K. Judges Consulting Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B18262",
+            "Umbrella": "Deer Creek Homes",
+            "Umbrella ID": "3446",
+            "VB_NAME": "Lawton Residential Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B18262",
+            "MEMBERNAME": "Lawton Residential Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B18262",
+            "Umbrella": "Deer Creek Homes",
+            "Umbrella ID": "3446",
+            "VB_NAME": "Lawton Residential Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23673",
+            "MEMBERNAME": "Deer Creek Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE VILLAGES OF LESLIE GLEN",
+            "Project Status": "Completed",
+            "Location": "NEWMARKET",
+            "Address": "351-382 Riddell Court",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-06-16"
+        },
+        {
+            "Condo Project Name": "COURTYARD HOMES OF DEER CREEK",
+            "Project Status": "Completed",
+            "Location": "BARRIE",
+            "Address": "120 D'Ambrosio Drive",
+            "# of Units": 46,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-04-13"
+        },
+        {
+            "Condo Project Name": "NOT KNOWN",
+            "Project Status": "Completed",
+            "Location": "BARRIE",
+            "Address": "119 D'Ambrosio Drive",
+            "# of Units": 54,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-10-28"
+        }
+    ],
+    "builderConditions": []
+}

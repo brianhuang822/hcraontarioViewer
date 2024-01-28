@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22896",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1006057 Ontario Limited",
+            "OPERATINGNAME": "Niagara Olympia Homes",
+            "CITY": "Niagara Falls",
+            "HCRA_INITIALLICENSEDATE": "1993-09-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-06 19:53:59.000 +0000",
+            "Expiry Date": "2024-09-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5629 Swayze Drive",
+            "TELEPHONE": "905-651-1243",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "niagaraolympia@gmail.com",
+            "ACCOUNTNUMBER": "B22896",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 63,
+            "SUMM_TOTAL": 64,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 32370.5,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 32370.5
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600009255",
+            "TO": "John Bahdi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-933-0542"
+        },
+        {
+            "TOUNIQUENUMBER": "600009256",
+            "TO": "Natalie Bahdi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-933-7672"
+        },
+        {
+            "TOUNIQUENUMBER": "11629939",
+            "TO": "Carmela Bahdi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-933-4525"
+        },
+        {
+            "TOUNIQUENUMBER": "313617",
+            "TO": "George Bahdi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-1243"
+        },
+        {
+            "TOUNIQUENUMBER": "313617",
+            "TO": "George Bahdi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-1243"
+        },
+        {
+            "TOUNIQUENUMBER": "313617",
+            "TO": "George Bahdi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-1243"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22896",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1006057 Ontario Limited",
+            "OPERATINGNAME": "Niagara Olympia Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Retirement Condos",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": "4644 Pettit Ave.",
+            "# of Units": 70,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-02-10"
+        }
+    ],
+    "builderConditions": []
+}

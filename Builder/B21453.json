@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21453",
+            "Umbrella": "Gladwood Homes",
+            "Umbrella ID": "11698392",
+            "VB_NAME": "732806 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "MARKHAM",
+            "HCRA_INITIALLICENSEDATE": "1991-08-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-08-09 12:36:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "172 Bullock Dr., Unit 26",
+            "TELEPHONE": "905-294-7927",
+            "FAX": "905-294-3898",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338682",
+            "TO": "Rosa Colangelo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-294-7927"
+        },
+        {
+            "TOUNIQUENUMBER": "338683",
+            "TO": "Rocco Colangelo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-471-5418"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21453",
+            "Umbrella": "Gladwood Homes",
+            "Umbrella ID": "11698392",
+            "VB_NAME": "732806 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31267",
+            "MEMBERNAME": "Gladwood Homes Limited",
+            "MEMBEROPERATINGNAME": "Gladwood Homes Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B21453",
+            "Umbrella": "Gladwood Homes",
+            "Umbrella ID": "11698392",
+            "VB_NAME": "732806 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B21453",
+            "MEMBERNAME": "732806 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

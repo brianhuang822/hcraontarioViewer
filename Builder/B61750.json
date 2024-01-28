@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61750",
+            "Umbrella": "Lally Homes",
+            "Umbrella ID": "500001892",
+            "VB_NAME": "Lally Holdings Ltd.",
+            "OPERATINGNAME": "Lally Holdings Ltd.",
+            "CITY": "Thorold",
+            "HCRA_INITIALLICENSEDATE": "2022-11-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-25 15:00:28.000 +0000",
+            "Expiry Date": "2024-11-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "11 Front Street South",
+            "TELEPHONE": "416-708-9777",
+            "FAX": null,
+            "WEBSITEURL": "http://lallyhomes.com",
+            "EMAIL": "john@lallyhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600005577",
+            "TO": "John Lally",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-708-9777"
+        },
+        {
+            "TOUNIQUENUMBER": "600005577",
+            "TO": "John Lally",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-708-9777"
+        },
+        {
+            "TOUNIQUENUMBER": "600005577",
+            "TO": "John Lally",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-708-9777"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61750",
+            "Umbrella": "Lally Homes",
+            "Umbrella ID": "500001892",
+            "VB_NAME": "Lally Holdings Ltd.",
+            "OPERATINGNAME": "Lally Holdings Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61657",
+            "MEMBERNAME": "Lally Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Lally Homes Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61750",
+            "Umbrella": "Lally Homes",
+            "Umbrella ID": "500001892",
+            "VB_NAME": "Lally Holdings Ltd.",
+            "OPERATINGNAME": "Lally Holdings Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61750",
+            "MEMBERNAME": "Lally Holdings Ltd.",
+            "MEMBEROPERATINGNAME": "Lally Holdings Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,132 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Capital Developments",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 358,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "1202-45 St. Clair Avenue West",
+            "TELEPHONE": "416-637-9309",
+            "FAX": null,
+            "WEBSITEURL": "https://www.capitaldevelopments.com",
+            "EMAIL": "Andrew@capitaldevelopments.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 358,
+            "SUMM_TOTAL": 358,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "31F Development Limited Partnership, by its general partner, 31F Development GP Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B61728",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "15-21 Holmes Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47449",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "MEMBEROPERATINGNAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "MEMBERVBNUM": "B61705",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 357,
+            "Total Posessions": 357,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 358,
+            "SUMM_TOTAL": 358,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 1,
+            "Total Posessions": 1,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 358,
+            "SUMM_TOTAL": 358,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Park Road",
+            "Account Number": "B61705",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 717 Church street ",
+            "# of Units": 302,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Azura Condominiums",
+            "Account Number": "B47449",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": " 15 Holmes Ave. ",
+            "# of Units": 358,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-08-09"
+        },
+        {
+            "Condo Project Name": "Olive Residences",
+            "Account Number": "B61728",
+            "Project Status": "In Progress",
+            "Location": "NORTH YORK",
+            "Address": " 32,36,38 Olive Avenue ",
+            "# of Units": 350,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

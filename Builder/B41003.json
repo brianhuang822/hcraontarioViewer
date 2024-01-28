@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41003",
+            "Umbrella": "Di Blasio Homes",
+            "Umbrella ID": "12465212",
+            "VB_NAME": "Artemis Ridge Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2011-02-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-02-11 04:15:08.000 +0000",
+            "Expiry Date": "2022-02-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5975 Whittle Road",
+            "TELEPHONE": "905-890-2263",
+            "FAX": "905-565-9846",
+            "WEBSITEURL": "www.diblasiohomes.com",
+            "EMAIL": "miriam@diblasiocorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 36,
+            "SUMM_TOTAL": 36,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340655",
+            "TO": "Selo Di Blasio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-890-2263"
+        },
+        {
+            "TOUNIQUENUMBER": "340655",
+            "TO": "Selo Di Blasio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-890-2263"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41003",
+            "Umbrella": "Di Blasio Homes",
+            "Umbrella ID": "12465212",
+            "VB_NAME": "Artemis Ridge Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27937",
+            "MEMBERNAME": "1215846 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41003",
+            "Umbrella": "Di Blasio Homes",
+            "Umbrella ID": "12465212",
+            "VB_NAME": "Artemis Ridge Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43986",
+            "MEMBERNAME": "Autumnwood Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41003",
+            "Umbrella": "Di Blasio Homes",
+            "Umbrella ID": "12465212",
+            "VB_NAME": "Artemis Ridge Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41003",
+            "MEMBERNAME": "Artemis Ridge Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Artemis Ridge",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "6750 McLaughlin Rd.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-01-24"
+        }
+    ],
+    "builderConditions": []
+}

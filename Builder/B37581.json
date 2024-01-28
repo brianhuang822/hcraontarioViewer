@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37581",
+            "Umbrella": "Thamesview Estates",
+            "Umbrella ID": "12541109",
+            "VB_NAME": "902836 Ontario Inc.",
+            "OPERATINGNAME": "Thamesview Estates",
+            "CITY": "BAYFIELD",
+            "HCRA_INITIALLICENSEDATE": "2007-07-20",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "2007-12-10 20:45:19.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "27 Charthouse Hill",
+            "TELEPHONE": "519-565-5150",
+            "FAX": "519-348-4130",
+            "WEBSITEURL": null,
+            "EMAIL": "brinell@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12216187",
+            "TO": "Brian Neely",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-838-3859"
+        },
+        {
+            "TOUNIQUENUMBER": "12216187",
+            "TO": "Brian Neely",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-838-3859"
+        },
+        {
+            "TOUNIQUENUMBER": "12216187",
+            "TO": "Brian Neely",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-838-3859"
+        },
+        {
+            "TOUNIQUENUMBER": "12216189",
+            "TO": "Craig Nelly",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12216188",
+            "TO": "Scott Schoonderwoerd",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-348-0530"
+        },
+        {
+            "TOUNIQUENUMBER": "12216188",
+            "TO": "Scott Schoonderwoerd",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-348-0530"
+        },
+        {
+            "TOUNIQUENUMBER": "12216188",
+            "TO": "Scott Schoonderwoerd",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-348-0530"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37581",
+            "Umbrella": "Thamesview Estates",
+            "Umbrella ID": "12541109",
+            "VB_NAME": "902836 Ontario Inc.",
+            "OPERATINGNAME": "Thamesview Estates",
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B38597",
+            "MEMBERNAME": "902836 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Thamesview Estates",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37581",
+            "Umbrella": "Thamesview Estates",
+            "Umbrella ID": "12541109",
+            "VB_NAME": "902836 Ontario Inc.",
+            "OPERATINGNAME": "Thamesview Estates",
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B37581",
+            "MEMBERNAME": "902836 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Thamesview Estates",
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

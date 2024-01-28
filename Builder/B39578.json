@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39578",
+            "Umbrella": "Tyler Homes",
+            "Umbrella ID": "12541136",
+            "VB_NAME": "Sierra Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "NIAGARA FALLS",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2009-12-14 23:35:20.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8073 Alpine Dr.",
+            "TELEPHONE": "905-374-2514",
+            "FAX": "905-374-2572",
+            "WEBSITEURL": null,
+            "EMAIL": "Gkeenan@cogeco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11651096",
+            "TO": "Greg Keenan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-374-2514"
+        },
+        {
+            "TOUNIQUENUMBER": "11651096",
+            "TO": "Greg Keenan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-374-2514"
+        },
+        {
+            "TOUNIQUENUMBER": "11651096",
+            "TO": "Greg Keenan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-374-2514"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39578",
+            "Umbrella": "Tyler Homes",
+            "Umbrella ID": "12541136",
+            "VB_NAME": "Sierra Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B30821",
+            "MEMBERNAME": "Greg Keenan",
+            "MEMBEROPERATINGNAME": "Tyler Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B39578",
+            "Umbrella": "Tyler Homes",
+            "Umbrella ID": "12541136",
+            "VB_NAME": "Sierra Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B39383",
+            "MEMBERNAME": "1405292 Ontario Corporation",
+            "MEMBEROPERATINGNAME": "Tyler Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B39578",
+            "Umbrella": "Tyler Homes",
+            "Umbrella ID": "12541136",
+            "VB_NAME": "Sierra Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B39578",
+            "MEMBERNAME": "Sierra Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

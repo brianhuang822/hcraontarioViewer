@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43149",
+            "Umbrella": "Sylvan Construction",
+            "Umbrella ID": "12539472",
+            "VB_NAME": "Sylvan Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Mallorytown",
+            "HCRA_INITIALLICENSEDATE": "2013-09-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-17 22:28:21.000 +0000",
+            "Expiry Date": "2024-09-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3 East Townline Road",
+            "TELEPHONE": "613-342-1240",
+            "FAX": null,
+            "WEBSITEURL": "www.sylvan-construction.com",
+            "EMAIL": "brian-sylvanconstruction@outlook.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12361128",
+            "TO": "Alison Farmer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-341-1856"
+        },
+        {
+            "TOUNIQUENUMBER": "12354207",
+            "TO": "Brian Thomas Farmer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-341-1856"
+        },
+        {
+            "TOUNIQUENUMBER": "12354207",
+            "TO": "Brian Thomas Farmer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-341-1856"
+        },
+        {
+            "TOUNIQUENUMBER": "12354207",
+            "TO": "Brian Thomas Farmer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-341-1856"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43149",
+            "Umbrella": "Sylvan Construction",
+            "Umbrella ID": "12539472",
+            "VB_NAME": "Sylvan Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39653",
+            "MEMBERNAME": "Brian Thomas Farmer",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43149",
+            "Umbrella": "Sylvan Construction",
+            "Umbrella ID": "12539472",
+            "VB_NAME": "Sylvan Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43149",
+            "MEMBERNAME": "Sylvan Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

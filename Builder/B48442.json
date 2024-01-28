@@ -1,0 +1,144 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48442",
+            "Umbrella": "Centennial Construction",
+            "Umbrella ID": "12543394",
+            "VB_NAME": "Centennial Homes (Niagara) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Niagara On The Lake",
+            "HCRA_INITIALLICENSEDATE": "2020-07-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-15 21:47:30.000 +0000",
+            "Expiry Date": "2024-07-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "353 Townline Road",
+            "TELEPHONE": "905-708-0123",
+            "FAX": "905-708-0155",
+            "WEBSITEURL": "www.centennialhomesniagara.com",
+            "EMAIL": "ddilalla@centennialconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 200,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 245,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100588025",
+            "TO": "Joseph Candeloro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-708-0123"
+        },
+        {
+            "TOUNIQUENUMBER": "12148601",
+            "TO": "Connie Candeloro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-5979"
+        },
+        {
+            "TOUNIQUENUMBER": "100588027",
+            "TO": "Antony Candeloro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-8976"
+        },
+        {
+            "TOUNIQUENUMBER": "309050",
+            "TO": "Domenic DiLalla",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-708-0123"
+        },
+        {
+            "TOUNIQUENUMBER": "309050",
+            "TO": "Domenic DiLalla",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-708-0123"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48442",
+            "Umbrella": "Centennial Construction",
+            "Umbrella ID": "12543394",
+            "VB_NAME": "Centennial Homes (Niagara) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48442",
+            "MEMBERNAME": "Centennial Homes (Niagara) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48442",
+            "Umbrella": "Centennial Construction",
+            "Umbrella ID": "12543394",
+            "VB_NAME": "Centennial Homes (Niagara) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B20397",
+            "MEMBERNAME": "Centennial Concrete (Niagara) Inc.",
+            "MEMBEROPERATINGNAME": "Can-Di Home Builders",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48442",
+            "Umbrella": "Centennial Construction",
+            "Umbrella ID": "12543394",
+            "VB_NAME": "Centennial Homes (Niagara) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44674",
+            "MEMBERNAME": "Centennial Construction And Contracting (Niagara)",
+            "MEMBEROPERATINGNAME": "Centennial Homes Niagara Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Education Village",
+            "Project Status": null,
+            "Location": "WELLAND",
+            "Address": " 160&168 Quaker Rd ",
+            "# of Units": 62,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Riverfront Community",
+            "Project Status": null,
+            "Location": "NIAGARA FALLS",
+            "Address": "   ",
+            "# of Units": 214,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Dorchester Townhomes",
+            "Project Status": null,
+            "Location": "NIAGARA FALLS",
+            "Address": " 5646 Dorchester Road ",
+            "# of Units": 67,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

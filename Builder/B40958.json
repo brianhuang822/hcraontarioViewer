@@ -1,0 +1,140 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40958",
+            "Umbrella": "Orchard Hill Condominiums",
+            "Umbrella ID": "12378793",
+            "VB_NAME": "1881566 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "WARKWORTH",
+            "HCRA_INITIALLICENSEDATE": "2011-01-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-01-26 16:02:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "45 Dominion St., Box 189",
+            "TELEPHONE": "705-924-2632",
+            "FAX": "705-924-3385",
+            "WEBSITEURL": "www.orchardhillcondos.ca",
+            "EMAIL": "info@orchardhillcondos.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339613",
+            "TO": "Donald K. Clarke",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-653-6217"
+        },
+        {
+            "TOUNIQUENUMBER": "339613",
+            "TO": "Donald K. Clarke",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-653-6217"
+        },
+        {
+            "TOUNIQUENUMBER": "339613",
+            "TO": "Donald K. Clarke",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-653-6217"
+        },
+        {
+            "TOUNIQUENUMBER": "12368330",
+            "TO": "David A. Pollack",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-875-7576"
+        },
+        {
+            "TOUNIQUENUMBER": "12368330",
+            "TO": "David A. Pollack",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-875-7576"
+        },
+        {
+            "TOUNIQUENUMBER": "12368330",
+            "TO": "David A. Pollack",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-875-7576"
+        },
+        {
+            "TOUNIQUENUMBER": "12368332",
+            "TO": "Bryce D. Allen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-924-2632"
+        },
+        {
+            "TOUNIQUENUMBER": "12368332",
+            "TO": "Bryce D. Allen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-924-2632"
+        },
+        {
+            "TOUNIQUENUMBER": "12368332",
+            "TO": "Bryce D. Allen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-924-2632"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40958",
+            "Umbrella": "Orchard Hill Condominiums",
+            "Umbrella ID": "12378793",
+            "VB_NAME": "1881566 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40958",
+            "MEMBERNAME": "1881566 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40958",
+            "Umbrella": "Orchard Hill Condominiums",
+            "Umbrella ID": "12378793",
+            "VB_NAME": "1881566 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40957",
+            "MEMBERNAME": "1881566 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Orchard Hill Condos",
+            "Project Status": "Completed",
+            "Location": "WARKWORTH",
+            "Address": "70 Percy St.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-03-06"
+        }
+    ],
+    "builderConditions": []
+}

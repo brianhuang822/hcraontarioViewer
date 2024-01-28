@@ -1,0 +1,139 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22201",
+            "Umbrella": "Klemencic Homes",
+            "Umbrella ID": "3464",
+            "VB_NAME": "Klemencic Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Trenton",
+            "HCRA_INITIALLICENSEDATE": "1992-06-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-23 16:42:02.000 +0000",
+            "Expiry Date": "2024-06-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "499 Dundas Street West",
+            "TELEPHONE": "613-392-3437",
+            "FAX": "613-651-9339",
+            "WEBSITEURL": "www.klemencichomes.com",
+            "EMAIL": "info@klemencichomes.com",
+            "ACCOUNTNUMBER": "B22201",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 527,
+            "SUMM_CONDO": 26,
+            "SUMM_TOTAL": 553,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "317792",
+            "TO": "Mark Klemencic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-7839"
+        },
+        {
+            "TOUNIQUENUMBER": "317792",
+            "TO": "Mark Klemencic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-7839"
+        },
+        {
+            "TOUNIQUENUMBER": "600008276",
+            "TO": "Nathan Klemencic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-3437"
+        },
+        {
+            "TOUNIQUENUMBER": "600008276",
+            "TO": "Nathan Klemencic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-3437"
+        },
+        {
+            "TOUNIQUENUMBER": "600007090",
+            "TO": "Adam Klemencic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-3437"
+        },
+        {
+            "TOUNIQUENUMBER": "600007090",
+            "TO": "Adam Klemencic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-3437"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22201",
+            "Umbrella": "Klemencic Homes",
+            "Umbrella ID": "3464",
+            "VB_NAME": "Klemencic Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B3132",
+            "MEMBERNAME": "Stan Klemencic Builder Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22201",
+            "Umbrella": "Klemencic Homes",
+            "Umbrella ID": "3464",
+            "VB_NAME": "Klemencic Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B22201",
+            "MEMBERNAME": "Klemencic Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Hillside Flats",
+            "Project Status": "Completed",
+            "Location": "QUINTE WEST",
+            "Address": " 30 Hillside Meadow Drive ",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-12-12"
+        },
+        {
+            "Condo Project Name": "Hillside Flats",
+            "Project Status": "In Progress",
+            "Location": "QUINTE WEST",
+            "Address": " 10 Hillside Meadow Drive ",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Hillside Flats",
+            "Project Status": "In Progress",
+            "Location": "QUINTE WEST",
+            "Address": " 20 Hillside Meadow Drive ",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37989",
+            "Umbrella": "VI Designs",
+            "Umbrella ID": "12552490",
+            "VB_NAME": "2115153 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "SCARBOROUGH",
+            "HCRA_INITIALLICENSEDATE": "2007-08-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-08-25 15:01:49.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "90 Dorset Rd.",
+            "TELEPHONE": "416-880-5293",
+            "FAX": "416-546-4707",
+            "WEBSITEURL": null,
+            "EMAIL": "scoffield@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12238121",
+            "TO": "John Scoffield",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-880-5293"
+        },
+        {
+            "TOUNIQUENUMBER": "12238121",
+            "TO": "John Scoffield",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-880-5293"
+        },
+        {
+            "TOUNIQUENUMBER": "12238121",
+            "TO": "John Scoffield",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-880-5293"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37989",
+            "Umbrella": "VI Designs",
+            "Umbrella ID": "12552490",
+            "VB_NAME": "2115153 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37989",
+            "MEMBERNAME": "2115153 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37989",
+            "Umbrella": "VI Designs",
+            "Umbrella ID": "12552490",
+            "VB_NAME": "2115153 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48310",
+            "MEMBERNAME": "2115153 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

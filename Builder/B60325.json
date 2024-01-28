@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60325",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Oak & Noble Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "West Montrose",
+            "HCRA_INITIALLICENSEDATE": "2021-06-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-02 20:07:46.000 +0000",
+            "Expiry Date": "2024-07-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "21 Granbridge Drive",
+            "TELEPHONE": "519-572-1353",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "nathan@hallmanbuildingco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600009920",
+            "TO": "Bryce Dziedziejko",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-404-5662"
+        },
+        {
+            "TOUNIQUENUMBER": "600009920",
+            "TO": "Bryce Dziedziejko",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-404-5662"
+        },
+        {
+            "TOUNIQUENUMBER": "12069631",
+            "TO": "Nathan Hallman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-572-1353"
+        },
+        {
+            "TOUNIQUENUMBER": "12069631",
+            "TO": "Nathan Hallman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-572-1353"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60325",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Oak & Noble Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Millside Towns",
+            "Project Status": "In Progress",
+            "Location": "WELLESLEY",
+            "Address": " 1016 Doering St. ",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Millside Towns",
+            "Project Status": "In Progress",
+            "Location": "WELLESLEY",
+            "Address": " 1016 Doering St. ",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

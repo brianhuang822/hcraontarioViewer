@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37483",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Millstone Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2007-05-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-23 04:00:00.000 +0000",
+            "Expiry Date": "2024-05-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "620 Richmond Street",
+            "TELEPHONE": "519-657-8596",
+            "FAX": "519-657-9237",
+            "WEBSITEURL": "millstonehomes.ca",
+            "EMAIL": "vasile@millstonehomes.ca",
+            "ACCOUNTNUMBER": "B37483",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 382,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 382,
+            "SUMM_CC": 11,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 102129.95,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 102129.95
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12221188",
+            "TO": "Helen Olena Caniuca",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-697-8010"
+        },
+        {
+            "TOUNIQUENUMBER": "12211311",
+            "TO": "Vasile Caniuca",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-694-4647"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108370",
+            "CHARGE_AGAINST": "Millstone Homes Inc.",
+            "CHARGE_DATE": "2015-01-26",
+            "DISPOSITION_DATE": "2015-06-15",
+            "THE_FINE_": "0",
+            "CHARGE_TYPE": "ONHWPA - Sec 22(1)(a) - Furnished False Information to Tarion Warranty Corporation",
+            "VICTIM_SURCHARGE_AMOUNT_": "0",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Suspended Sentence",
+            "INVESTIGATION_": "9326409",
+            "ORGANIZATION_NAME": "Millstone Homes Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "London, ON",
+            "CITY_DEFENCE": "London, ON",
+            "VB_NUMBER": "B37483",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108370 9326409",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "London, City",
+            "INFORMATION_NUMBER": "999 15 202P",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 22(1)(a) - Furnished False Information to Tarion Warranty Corporation",
+            "FROM_OFFENCE_DATE": "2013-08-28",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "0",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B37483",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Millstone Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Broughdale Gates",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "1956 Richmond St. N.",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

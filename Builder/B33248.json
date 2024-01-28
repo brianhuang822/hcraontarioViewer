@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33248",
+            "Umbrella": "Schuit Homes",
+            "Umbrella ID": "12401969",
+            "VB_NAME": "998153 Ontario Inc.",
+            "OPERATINGNAME": "Pleasant Valley Estates",
+            "CITY": "DUNDAS",
+            "HCRA_INITIALLICENSEDATE": "2003-06-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-06-20 15:00:34.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "210 Old Ancaster Rd.",
+            "TELEPHONE": "905-628-9559",
+            "FAX": "905-627-2953",
+            "WEBSITEURL": "www.schuithomes.com",
+            "EMAIL": "carolanne@schuithomes.com",
+            "ACCOUNTNUMBER": "B33248",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "330254",
+            "TO": "Gerald Schuit",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-9559"
+        },
+        {
+            "TOUNIQUENUMBER": "330254",
+            "TO": "Gerald Schuit",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-9559"
+        },
+        {
+            "TOUNIQUENUMBER": "330254",
+            "TO": "Gerald Schuit",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-9559"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33248",
+            "Umbrella": "Schuit Homes",
+            "Umbrella ID": "12401969",
+            "VB_NAME": "998153 Ontario Inc.",
+            "OPERATINGNAME": "Pleasant Valley Estates",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17543",
+            "MEMBERNAME": "Schuit Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B33248",
+            "Umbrella": "Schuit Homes",
+            "Umbrella ID": "12401969",
+            "VB_NAME": "998153 Ontario Inc.",
+            "OPERATINGNAME": "Pleasant Valley Estates",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33248",
+            "MEMBERNAME": "998153 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Pleasant Valley Estates",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HERITAGE GARDENS CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": " 289 Plains Rd W ",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-04-29"
+        }
+    ],
+    "builderConditions": []
+}

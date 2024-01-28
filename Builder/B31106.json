@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31106",
+            "Umbrella": "1147771 Ontario",
+            "Umbrella ID": "12540568",
+            "VB_NAME": "Spruce Tree Resorts Inc.",
+            "OPERATINGNAME": "Deer Point",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2000-12-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2002-12-12 13:33:38.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "28 Elkpath Avenue",
+            "TELEPHONE": "416-391-1989",
+            "FAX": "416-391-2743",
+            "WEBSITEURL": "www.deerpoint.ca",
+            "EMAIL": "morrisf@idirect.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342510",
+            "TO": "Stan Wise",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-1989"
+        },
+        {
+            "TOUNIQUENUMBER": "342510",
+            "TO": "Stan Wise",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-1989"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31106",
+            "Umbrella": "1147771 Ontario",
+            "Umbrella ID": "12540568",
+            "VB_NAME": "Spruce Tree Resorts Inc.",
+            "OPERATINGNAME": "Deer Point",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26177",
+            "MEMBERNAME": "1147771 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Whitaker Mews",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31106",
+            "Umbrella": "1147771 Ontario",
+            "Umbrella ID": "12540568",
+            "VB_NAME": "Spruce Tree Resorts Inc.",
+            "OPERATINGNAME": "Deer Point",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30862",
+            "MEMBERNAME": "1367235 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Harvie Square Gardens",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31106",
+            "Umbrella": "1147771 Ontario",
+            "Umbrella ID": "12540568",
+            "VB_NAME": "Spruce Tree Resorts Inc.",
+            "OPERATINGNAME": "Deer Point",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31106",
+            "MEMBERNAME": "Spruce Tree Resorts Inc.",
+            "MEMBEROPERATINGNAME": "Deer Point",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

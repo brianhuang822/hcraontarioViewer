@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35670",
+            "Umbrella": "Cameron Properties",
+            "Umbrella ID": "12379300",
+            "VB_NAME": "Jackbuilt Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "2005-09-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-03-14 19:19:20.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "520 Jarvis St.",
+            "TELEPHONE": "519-438-1091",
+            "FAX": "519-438-0982",
+            "WEBSITEURL": "Jackbuilt.ca",
+            "EMAIL": "Bencameron@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 34180,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 34180
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "323651",
+            "TO": "James Benjamin Cameron",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-808-4816"
+        },
+        {
+            "TOUNIQUENUMBER": "323651",
+            "TO": "James Benjamin Cameron",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-808-4816"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35670",
+            "Umbrella": "Cameron Properties",
+            "Umbrella ID": "12379300",
+            "VB_NAME": "Jackbuilt Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35670",
+            "MEMBERNAME": "Jackbuilt Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35670",
+            "Umbrella": "Cameron Properties",
+            "Umbrella ID": "12379300",
+            "VB_NAME": "Jackbuilt Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23093",
+            "MEMBERNAME": "Cameron Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HYDE PARK ESTATES",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "  Bayswater Cres ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-05-22"
+        },
+        {
+            "Condo Project Name": "HYDE PARK ESTATES",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 1630 Bayswater Cres. ",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-11-07"
+        }
+    ],
+    "builderConditions": []
+}

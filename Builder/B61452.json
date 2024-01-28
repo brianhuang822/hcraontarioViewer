@@ -1,0 +1,91 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61452",
+            "Umbrella": "Hawk Development",
+            "Umbrella ID": "500002134",
+            "VB_NAME": "2717981 Ontario Inc.",
+            "OPERATINGNAME": "2717981 Ontario Inc.",
+            "CITY": "Niagara Falls",
+            "HCRA_INITIALLICENSEDATE": "2023-03-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-18 15:21:41.000 +0000",
+            "Expiry Date": "2024-03-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3659 Stanley Avenue",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "adam@hawkdevelopment.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600013779",
+            "TO": "Timothy Krause",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-321-4019"
+        },
+        {
+            "TOUNIQUENUMBER": "314723",
+            "TO": "Christopher Hawkswell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-353-2404"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61452",
+            "Umbrella": "Hawk Development",
+            "Umbrella ID": "500002134",
+            "VB_NAME": "2717981 Ontario Inc.",
+            "OPERATINGNAME": "2717981 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48083",
+            "MEMBERNAME": "Niacon Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61452",
+            "Umbrella": "Hawk Development",
+            "Umbrella ID": "500002134",
+            "VB_NAME": "2717981 Ontario Inc.",
+            "OPERATINGNAME": "2717981 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61452",
+            "MEMBERNAME": "2717981 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2717981 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Parkside 39",
+            "Project Status": "In Progress",
+            "Location": "NIAGARA FALLS",
+            "Address": " 3846 Portage Road ",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

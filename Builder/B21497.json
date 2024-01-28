@@ -1,0 +1,68 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21497",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Robert Miller Contracting Ltd.",
+            "OPERATINGNAME": "Miller Homes",
+            "CITY": "Latchford",
+            "HCRA_INITIALLICENSEDATE": "1991-12-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-26 02:39:21.000 +0000",
+            "Expiry Date": "2024-12-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "121 Murphy Mill Road",
+            "TELEPHONE": "705-752-2666",
+            "FAX": null,
+            "WEBSITEURL": "www.millerhomesconstruction.com",
+            "EMAIL": "rob@millerhomesconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 16,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 16,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339145",
+            "TO": "Robert Miller",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-752-2666"
+        },
+        {
+            "TOUNIQUENUMBER": "339145",
+            "TO": "Robert Miller",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-752-2666"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21497",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Robert Miller Contracting Ltd.",
+            "OPERATINGNAME": "Miller Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

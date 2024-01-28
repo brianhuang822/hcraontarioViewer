@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41201",
+            "Umbrella": "Les Habitations Leclair",
+            "Umbrella ID": "12539485",
+            "VB_NAME": "JLXMD Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Embrun",
+            "HCRA_INITIALLICENSEDATE": "2011-07-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-16 18:53:55.000 +0000",
+            "Expiry Date": "2024-07-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 248",
+            "TELEPHONE": "613-371-8697",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "julielacroix18@hotmail.com",
+            "ACCOUNTNUMBER": "B41201",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 21,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 21,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 357.5,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 357.5
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12048529",
+            "TO": "Christian Leclair",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-794-1066"
+        },
+        {
+            "TOUNIQUENUMBER": "12053344",
+            "TO": "Julie Denise Lacroix",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-371-8697"
+        },
+        {
+            "TOUNIQUENUMBER": "12053344",
+            "TO": "Julie Denise Lacroix",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-371-8697"
+        },
+        {
+            "TOUNIQUENUMBER": "12053344",
+            "TO": "Julie Denise Lacroix",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-371-8697"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41201",
+            "Umbrella": "Les Habitations Leclair",
+            "Umbrella ID": "12539485",
+            "VB_NAME": "JLXMD Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35201",
+            "MEMBERNAME": "Les Habitations Leclair Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41201",
+            "Umbrella": "Les Habitations Leclair",
+            "Umbrella ID": "12539485",
+            "VB_NAME": "JLXMD Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41201",
+            "MEMBERNAME": "JLXMD Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

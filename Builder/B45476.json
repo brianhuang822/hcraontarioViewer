@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45476",
+            "Umbrella": "Muskoka Comfortable Living",
+            "Umbrella ID": "12545597",
+            "VB_NAME": "2514425 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "UTTERSON",
+            "HCRA_INITIALLICENSEDATE": "2016-11-30",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-12-01 13:01:31.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "536 Gryffin Lodge Rd.",
+            "TELEPHONE": "705/571-2248",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "billkaptein@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 5,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100376694",
+            "TO": "Jordan Kaptein",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-783-8851"
+        },
+        {
+            "TOUNIQUENUMBER": "100376694",
+            "TO": "Jordan Kaptein",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-783-8851"
+        },
+        {
+            "TOUNIQUENUMBER": "100376694",
+            "TO": "Jordan Kaptein",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-783-8851"
+        },
+        {
+            "TOUNIQUENUMBER": "12537727",
+            "TO": "Willem E. Kaptein",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-571-2248"
+        },
+        {
+            "TOUNIQUENUMBER": "12537727",
+            "TO": "Willem E. Kaptein",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-571-2248"
+        },
+        {
+            "TOUNIQUENUMBER": "12537727",
+            "TO": "Willem E. Kaptein",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-571-2248"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45476",
+            "Umbrella": "Muskoka Comfortable Living",
+            "Umbrella ID": "12545597",
+            "VB_NAME": "2514425 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42142",
+            "MEMBERNAME": "2325501 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45476",
+            "Umbrella": "Muskoka Comfortable Living",
+            "Umbrella ID": "12545597",
+            "VB_NAME": "2514425 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47086",
+            "MEMBERNAME": "2325501 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45476",
+            "Umbrella": "Muskoka Comfortable Living",
+            "Umbrella ID": "12545597",
+            "VB_NAME": "2514425 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45476",
+            "MEMBERNAME": "2514425 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Chaffey Heights",
+            "Project Status": "Completed",
+            "Location": "HUNTSVILLE",
+            "Address": "55 Chaffey St.",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-09-15"
+        }
+    ],
+    "builderConditions": []
+}

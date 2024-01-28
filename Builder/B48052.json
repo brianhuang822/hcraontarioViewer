@@ -1,0 +1,137 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48052",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Beachside Development Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Windsor",
+            "HCRA_INITIALLICENSEDATE": "2020-06-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-31 16:51:13.000 +0000",
+            "Expiry Date": "2024-06-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2985 Dougall Avenue",
+            "TELEPHONE": "519-966-7930",
+            "FAX": "519-972-8271",
+            "WEBSITEURL": "www.valentehomes.com",
+            "EMAIL": "pvalente@valentecorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 71,
+            "SUMM_TOTAL": 71,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11665532",
+            "TO": "Pietro Valente",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-946-3080"
+        },
+        {
+            "TOUNIQUENUMBER": "11665532",
+            "TO": "Pietro Valente",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-946-3080"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48052",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Beachside Development Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48052",
+            "MEMBERNAME": "Beachside Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48052",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Beachside Development Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41813",
+            "MEMBERNAME": "Valente Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48052",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Beachside Development Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46644",
+            "MEMBERNAME": "Oakdale Trails Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48052",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Beachside Development Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31210",
+            "MEMBERNAME": "Valente Development Corporation",
+            "MEMBEROPERATINGNAME": "Valente Development",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48052",
+            "Umbrella": "Valente Development",
+            "Umbrella ID": "12520665",
+            "VB_NAME": "Beachside Development Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60707",
+            "MEMBERNAME": "Kingstown Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Beachside Condominiums",
+            "Project Status": "Completed",
+            "Location": "LAKESHORE",
+            "Address": " 728 Brownstone Dr. ",
+            "# of Units": 58,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-06-02"
+        },
+        {
+            "Condo Project Name": "Beachside-Brownstones",
+            "Project Status": "Completed",
+            "Location": "LAKESHORE",
+            "Address": " 701-743 Brownstone Road. ",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-03-21"
+        }
+    ],
+    "builderConditions": []
+}

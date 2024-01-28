@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61183",
+            "Umbrella": "Horizonview Homes",
+            "Umbrella ID": "500001307",
+            "VB_NAME": "Horizonview Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Richmond Hill",
+            "HCRA_INITIALLICENSEDATE": "2022-03-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-21 20:53:53.000 +0000",
+            "Expiry Date": "2024-03-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "165 Lakeland Crescent",
+            "TELEPHONE": "416-300-0071",
+            "FAX": "905-773-5978",
+            "WEBSITEURL": null,
+            "EMAIL": "ppodger@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338422",
+            "TO": "Guido Di Giovanni",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-508-9872"
+        },
+        {
+            "TOUNIQUENUMBER": "100144766",
+            "TO": "Silvia Podger",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-773-5978"
+        },
+        {
+            "TOUNIQUENUMBER": "100144766",
+            "TO": "Silvia Podger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-773-5978"
+        },
+        {
+            "TOUNIQUENUMBER": "600010221",
+            "TO": "Paul Podger",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-300-0071"
+        },
+        {
+            "TOUNIQUENUMBER": "600010221",
+            "TO": "Paul Podger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-300-0071"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61183",
+            "Umbrella": "Horizonview Homes",
+            "Umbrella ID": "500001307",
+            "VB_NAME": "Horizonview Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61183",
+            "MEMBERNAME": "Horizonview Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61183",
+            "Umbrella": "Horizonview Homes",
+            "Umbrella ID": "500001307",
+            "VB_NAME": "Horizonview Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44122",
+            "MEMBERNAME": "Roccamor Holdings Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62021",
+            "Umbrella": "M5V Developments",
+            "Umbrella ID": "12551758",
+            "VB_NAME": "M5V The Niagara 111 Inc.",
+            "OPERATINGNAME": "M5V The Niagara 111 Inc.",
+            "CITY": "Kleinburg",
+            "HCRA_INITIALLICENSEDATE": "2023-04-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-05 12:37:13.000 +0000",
+            "Expiry Date": "2024-04-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10504 Islington Avenue",
+            "TELEPHONE": "416-986-5800",
+            "FAX": null,
+            "WEBSITEURL": "https://m5vinc.com",
+            "EMAIL": "sherard@m5vinc.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100580200",
+            "TO": "Sherard McQueen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-986-5800"
+        },
+        {
+            "TOUNIQUENUMBER": "100580200",
+            "TO": "Sherard McQueen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-986-5800"
+        },
+        {
+            "TOUNIQUENUMBER": "100580201",
+            "TO": "Yaseen Nimjee",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-200-5122"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62021",
+            "Umbrella": "M5V Developments",
+            "Umbrella ID": "12551758",
+            "VB_NAME": "M5V The Niagara 111 Inc.",
+            "OPERATINGNAME": "M5V The Niagara 111 Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62021",
+            "MEMBERNAME": "M5V The Niagara 111 Inc.",
+            "MEMBEROPERATINGNAME": "M5V The Niagara 111 Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62021",
+            "Umbrella": "M5V Developments",
+            "Umbrella ID": "12551758",
+            "VB_NAME": "M5V The Niagara 111 Inc.",
+            "OPERATINGNAME": "M5V The Niagara 111 Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47769",
+            "MEMBERNAME": "M5V The Niagara Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62021",
+            "Umbrella": "M5V Developments",
+            "Umbrella ID": "12551758",
+            "VB_NAME": "M5V The Niagara 111 Inc.",
+            "OPERATINGNAME": "M5V The Niagara 111 Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48228",
+            "MEMBERNAME": "M5V The Niagara 2 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Niagara Phase 3",
+            "Project Status": "In Progress",
+            "Location": "NIAGARA FALLS",
+            "Address": " 5946 McLeod Road ",
+            "# of Units": 108,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

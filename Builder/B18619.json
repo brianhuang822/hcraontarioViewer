@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B18619",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Gatta Homes Inc.",
+            "OPERATINGNAME": "Homes of Elegance",
+            "CITY": "Niagara-on-the-Lake",
+            "HCRA_INITIALLICENSEDATE": "1989-08-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-27 14:36:31.000 +0000",
+            "Expiry Date": "2024-08-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "277 Ricardo Street",
+            "TELEPHONE": "905-468-8867",
+            "FAX": "905-468-5695",
+            "WEBSITEURL": "https://www.gattahomes.com",
+            "EMAIL": "gatta@gattahomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 67,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 67,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600012068",
+            "TO": "Syrina Gatta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-228-6267"
+        },
+        {
+            "TOUNIQUENUMBER": "600012068",
+            "TO": "Syrina Gatta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-228-6267"
+        },
+        {
+            "TOUNIQUENUMBER": "312310",
+            "TO": "Kekoo Gatta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-468-8867"
+        },
+        {
+            "TOUNIQUENUMBER": "312310",
+            "TO": "Kekoo Gatta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-468-8867"
+        },
+        {
+            "TOUNIQUENUMBER": "312310",
+            "TO": "Kekoo Gatta",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-468-8867"
+        },
+        {
+            "TOUNIQUENUMBER": "600012067",
+            "TO": "Cyrus Gatta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-468-8867"
+        },
+        {
+            "TOUNIQUENUMBER": "600012067",
+            "TO": "Cyrus Gatta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-468-8867"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B18619",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Gatta Homes Inc.",
+            "OPERATINGNAME": "Homes of Elegance",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Royal Albion Place",
+            "Project Status": null,
+            "Location": "NIAGARA ON THE LAKE",
+            "Address": "Royal Albion Villa Ln.",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Mariner Bay Estates",
+            "Project Status": "Completed",
+            "Location": "GRIMSBY",
+            "Address": "19 Lake St.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-05-24"
+        }
+    ],
+    "builderConditions": []
+}

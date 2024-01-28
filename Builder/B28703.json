@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28703",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Springfield Construction Ltd.",
+            "OPERATINGNAME": "Springfield Construction Ltd.",
+            "CITY": "Ancaster",
+            "HCRA_INITIALLICENSEDATE": "2000-02-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-22 15:27:18.000 +0000",
+            "Expiry Date": "2024-04-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "240 Taylor Road",
+            "TELEPHONE": "905-741-4957",
+            "FAX": "905-648-4957",
+            "WEBSITEURL": "www.springfieldconstruction.ca",
+            "EMAIL": "davejeccles@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344148",
+            "TO": "David Eccles",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-741-4957"
+        },
+        {
+            "TOUNIQUENUMBER": "344148",
+            "TO": "David Eccles",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-741-4957"
+        },
+        {
+            "TOUNIQUENUMBER": "344148",
+            "TO": "David Eccles",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-741-4957"
+        },
+        {
+            "TOUNIQUENUMBER": "307001",
+            "TO": "Michael Corrado",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-730-4699"
+        },
+        {
+            "TOUNIQUENUMBER": "307001",
+            "TO": "Michael Corrado",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-730-4699"
+        },
+        {
+            "TOUNIQUENUMBER": "307001",
+            "TO": "Michael Corrado",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-730-4699"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28703",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Springfield Construction Ltd.",
+            "OPERATINGNAME": "Springfield Construction Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

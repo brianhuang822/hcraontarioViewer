@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62349",
+            "Umbrella": "John Gerard Homes",
+            "Umbrella ID": "500002456",
+            "VB_NAME": "1000017283 Ontario Inc.",
+            "OPERATINGNAME": "Gerard and Sons Construction",
+            "CITY": "Manotick",
+            "HCRA_INITIALLICENSEDATE": "2023-07-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-18 14:36:28.000 +0000",
+            "Expiry Date": "2024-07-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1443 Duchess Crescent",
+            "TELEPHONE": "613-720-0733",
+            "FAX": null,
+            "WEBSITEURL": "https://gerardanssonsconstructiom.com",
+            "EMAIL": "gerry@gerardandsons.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "319109",
+            "TO": "Gerard Lavimodiere",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-0733"
+        },
+        {
+            "TOUNIQUENUMBER": "319109",
+            "TO": "Gerard Lavimodiere",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-720-0733"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62349",
+            "Umbrella": "John Gerard Homes",
+            "Umbrella ID": "500002456",
+            "VB_NAME": "1000017283 Ontario Inc.",
+            "OPERATINGNAME": "Gerard and Sons Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B18444",
+            "MEMBERNAME": "862820 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "John Gerard Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62349",
+            "Umbrella": "John Gerard Homes",
+            "Umbrella ID": "500002456",
+            "VB_NAME": "1000017283 Ontario Inc.",
+            "OPERATINGNAME": "Gerard and Sons Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62349",
+            "MEMBERNAME": "1000017283 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Gerard and Sons Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62349",
+            "Umbrella": "John Gerard Homes",
+            "Umbrella ID": "500002456",
+            "VB_NAME": "1000017283 Ontario Inc.",
+            "OPERATINGNAME": "Gerard and Sons Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62531",
+            "MEMBERNAME": "1000342159 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "1000342159 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

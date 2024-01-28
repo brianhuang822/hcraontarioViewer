@@ -1,0 +1,114 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Homestead Land Holdings",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "80 Johnson St.",
+            "TELEPHONE": "6135463146",
+            "FAX": "6135465637",
+            "WEBSITEURL": "www.homestead.on.ca",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Homestead Land Holdings Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36445",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Homestead Land Holdings Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B3378",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Royal George",
+            "Account Number": "B36445",
+            "Project Status": "Completed",
+            "Location": "KINGSTON",
+            "Address": "5 Gore St.",
+            "# of Units": 91,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-09-15"
+        },
+        {
+            "Condo Project Name": "THE DEERFIELD",
+            "Account Number": "B3378",
+            "Project Status": "Completed",
+            "Location": "KINGSTON",
+            "Address": "115 Barrett Court",
+            "# of Units": 88,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-08-20"
+        },
+        {
+            "Condo Project Name": "1000 KING",
+            "Account Number": "B3378",
+            "Project Status": "Completed",
+            "Location": "KINGSTON",
+            "Address": "1000 King St. W.",
+            "# of Units": 90,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-10-06"
+        },
+        {
+            "Condo Project Name": "THE GREENVIEW",
+            "Account Number": "B3378",
+            "Project Status": "Completed",
+            "Location": "KINGSTON",
+            "Address": "14 Greenview Drive",
+            "# of Units": 56,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-02-25"
+        },
+        {
+            "Condo Project Name": "HOMESTEAD",
+            "Account Number": "B3378",
+            "Project Status": "Completed",
+            "Location": "KINGSTON",
+            "Address": "257 Bath Rd.",
+            "# of Units": 73,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1987-08-06"
+        },
+        {
+            "Condo Project Name": "THE BARRIEFIELD",
+            "Account Number": "B3378",
+            "Project Status": "Completed",
+            "Location": "KINGSTON",
+            "Address": "R.R.#2",
+            "# of Units": 88,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1985-12-31"
+        }
+    ]
+}

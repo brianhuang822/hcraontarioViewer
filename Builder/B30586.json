@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B30586",
+            "Umbrella": "Lockington Homes",
+            "Umbrella ID": "11685786",
+            "VB_NAME": "Lockington Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "SPRINGFIELD",
+            "HCRA_INITIALLICENSEDATE": "2000-06-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-06-27 12:32:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Box 214",
+            "TELEPHONE": "(519) 765-4489",
+            "FAX": "(519) 765-4489",
+            "WEBSITEURL": null,
+            "EMAIL": "lockhome@kanservu.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11637682",
+            "TO": "Lorna Lockington",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 765-4489"
+        },
+        {
+            "TOUNIQUENUMBER": "11637682",
+            "TO": "Lorna Lockington",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 765-4489"
+        },
+        {
+            "TOUNIQUENUMBER": "338186",
+            "TO": "S. Kelly Lockington",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-765-4489"
+        },
+        {
+            "TOUNIQUENUMBER": "338186",
+            "TO": "S. Kelly Lockington",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-765-4489"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B30586",
+            "Umbrella": "Lockington Homes",
+            "Umbrella ID": "11685786",
+            "VB_NAME": "Lockington Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24361",
+            "MEMBERNAME": "S. Kelly Lockington",
+            "MEMBEROPERATINGNAME": "Lockington Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B30586",
+            "Umbrella": "Lockington Homes",
+            "Umbrella ID": "11685786",
+            "VB_NAME": "Lockington Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30586",
+            "MEMBERNAME": "Lockington Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

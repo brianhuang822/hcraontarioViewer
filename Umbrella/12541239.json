@@ -1,0 +1,93 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Francois Latreille",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": 10624.06,
+            "OUTSTANDINGAMTTAB": 0,
+            "BREACH": 10624.06,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "100 St. Andrew St.",
+            "TELEPHONE": "6132864101",
+            "FAX": "6134824819",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Francois Latreille and Samia Benmiloud",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36098",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "4387759 Canada Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38396",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Francois Latreille",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33836",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Domaines du Marche Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36092",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "84 St. Andrew",
+            "Account Number": "B38396",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "84 St. Andrew St.",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-10-29"
+        },
+        {
+            "Condo Project Name": "Domaines Du Marche",
+            "Account Number": "B36092",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 139 Guigues Ave. ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-09-26"
+        },
+        {
+            "Condo Project Name": "FRANCOIS LAREILLE",
+            "Account Number": "B36098",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 105 St Andrew St ",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-11-19"
+        }
+    ]
+}

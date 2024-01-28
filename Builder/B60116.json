@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60116",
+            "Umbrella": "Zehr Group",
+            "Umbrella ID": "500001926",
+            "VB_NAME": "Zehr Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "St. Jacobs",
+            "HCRA_INITIALLICENSEDATE": "2021-08-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-15 14:26:26.000 +0000",
+            "Expiry Date": "2024-08-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1440 King Street North",
+            "TELEPHONE": "519-576-2233",
+            "FAX": null,
+            "WEBSITEURL": "https://www.zehrgroup.ca/",
+            "EMAIL": "jdzehr@zehrgroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12234830",
+            "TO": "John MacDonald",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-808-8604"
+        },
+        {
+            "TOUNIQUENUMBER": "100481660",
+            "TO": "Donald Zehr",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-576-2233"
+        },
+        {
+            "TOUNIQUENUMBER": "100481660",
+            "TO": "Donald Zehr",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-576-2233"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60116",
+            "Umbrella": "Zehr Group",
+            "Umbrella ID": "500001926",
+            "VB_NAME": "Zehr Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61785",
+            "MEMBERNAME": "20 Ottawa GP Inc. in its capacity as General Partner of 20 Ottawa LP",
+            "MEMBEROPERATINGNAME": "20 Ottawa GP Inc. in its capacity as General Partner of 20 Ottawa LP",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60116",
+            "Umbrella": "Zehr Group",
+            "Umbrella ID": "500001926",
+            "VB_NAME": "Zehr Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60116",
+            "MEMBERNAME": "Zehr Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60116",
+            "Umbrella": "Zehr Group",
+            "Umbrella ID": "500001926",
+            "VB_NAME": "Zehr Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60079",
+            "MEMBERNAME": "660 Belmont GP Inc. in its capacity as General Partner of 660 Belmont LP",
+            "MEMBEROPERATINGNAME": "660 Belmont LP",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42514",
+            "Umbrella": "Brouwer Construction (1981)",
+            "Umbrella ID": "12540335",
+            "VB_NAME": "Brouwer Construction (1981) Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "ST. Catharines",
+            "HCRA_INITIALLICENSEDATE": "2013-03-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-02-18 15:01:47.000 +0000",
+            "Expiry Date": "2022-03-21",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "1880 Regional Road 81",
+            "TELEPHONE": "905-984-3060",
+            "FAX": "905-984-3063",
+            "WEBSITEURL": "www.brouwerconstruction.com",
+            "EMAIL": "laurence@brouwerconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343678",
+            "TO": "Albert Brouwer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-984-3060"
+        },
+        {
+            "TOUNIQUENUMBER": "343678",
+            "TO": "Albert Brouwer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-984-3060"
+        },
+        {
+            "TOUNIQUENUMBER": "343678",
+            "TO": "Albert Brouwer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-984-3060"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42514",
+            "Umbrella": "Brouwer Construction (1981)",
+            "Umbrella ID": "12540335",
+            "VB_NAME": "Brouwer Construction (1981) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42514",
+            "MEMBERNAME": "Brouwer Construction (1981) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42514",
+            "Umbrella": "Brouwer Construction (1981)",
+            "Umbrella ID": "12540335",
+            "VB_NAME": "Brouwer Construction (1981) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36858",
+            "MEMBERNAME": "Brouwer Construction (1981) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42514",
+            "Umbrella": "Brouwer Construction (1981)",
+            "Umbrella ID": "12540335",
+            "VB_NAME": "Brouwer Construction (1981) Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27262",
+            "MEMBERNAME": "Brouwer Construction (1981) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

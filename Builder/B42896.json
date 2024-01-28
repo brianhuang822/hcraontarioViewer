@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42896",
+            "Umbrella": "CB Management",
+            "Umbrella ID": "12548077",
+            "VB_NAME": "1862082 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Minesing",
+            "HCRA_INITIALLICENSEDATE": "2013-06-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-20 16:55:52.000 +0000",
+            "Expiry Date": "2024-06-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "34 Budds Mill Road",
+            "TELEPHONE": "705-321-2555",
+            "FAX": "705-538-2056",
+            "WEBSITEURL": null,
+            "EMAIL": "mike@communitybuilders.co",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12523068",
+            "TO": "Michael Douglas Wall",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-321-2555"
+        },
+        {
+            "TOUNIQUENUMBER": "12523068",
+            "TO": "Michael Douglas Wall",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-321-2555"
+        },
+        {
+            "TOUNIQUENUMBER": "12523068",
+            "TO": "Michael Douglas Wall",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-321-2555"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42896",
+            "Umbrella": "CB Management",
+            "Umbrella ID": "12548077",
+            "VB_NAME": "1862082 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46972",
+            "MEMBERNAME": "2592879 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "CB Management",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42896",
+            "Umbrella": "CB Management",
+            "Umbrella ID": "12548077",
+            "VB_NAME": "1862082 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41199",
+            "MEMBERNAME": "Artisan Fine Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42896",
+            "Umbrella": "CB Management",
+            "Umbrella ID": "12548077",
+            "VB_NAME": "1862082 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42896",
+            "MEMBERNAME": "1862082 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

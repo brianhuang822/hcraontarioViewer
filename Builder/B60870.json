@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60870",
+            "Umbrella": "Nexus Homes",
+            "Umbrella ID": "500000513",
+            "VB_NAME": "Dawson Drive (Collingwood) Holdings Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Hamilton",
+            "HCRA_INITIALLICENSEDATE": "2021-12-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-14 20:20:11.000 +0000",
+            "Expiry Date": "2024-12-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1070 Stone Church Road East",
+            "TELEPHONE": "905-870-8807",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "lgomez@nexusdevelopments.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 48,
+            "SUMM_TOTAL": 48,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600009338",
+            "TO": "Orazio Civello",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "ray.civello@collectivebb.com"
+        },
+        {
+            "TOUNIQUENUMBER": "600009338",
+            "TO": "Orazio Civello",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "ray.civello@collectivebb.com"
+        },
+        {
+            "TOUNIQUENUMBER": "11777189",
+            "TO": "Anthony DiCenzo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-574-3300"
+        },
+        {
+            "TOUNIQUENUMBER": "11777189",
+            "TO": "Anthony DiCenzo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-574-3300"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60870",
+            "Umbrella": "Nexus Homes",
+            "Umbrella ID": "500000513",
+            "VB_NAME": "Dawson Drive (Collingwood) Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43865",
+            "MEMBERNAME": "Nexus Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60870",
+            "Umbrella": "Nexus Homes",
+            "Umbrella ID": "500000513",
+            "VB_NAME": "Dawson Drive (Collingwood) Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60350",
+            "MEMBERNAME": "Montelena Development Corporation",
+            "MEMBEROPERATINGNAME": "Montelena Development Corporation",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60870",
+            "Umbrella": "Nexus Homes",
+            "Umbrella ID": "500000513",
+            "VB_NAME": "Dawson Drive (Collingwood) Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60870",
+            "MEMBERNAME": "Dawson Drive (Collingwood) Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Waterstone",
+            "Project Status": "In Progress",
+            "Location": "COLLINGWOOD",
+            "Address": " 39 Dawson Drive ",
+            "# of Units": 68,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

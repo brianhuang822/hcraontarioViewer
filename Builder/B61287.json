@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61287",
+            "Umbrella": "Slate Asset Management",
+            "Umbrella ID": "500000272",
+            "VB_NAME": "Corktown GP Inc. as general partner of and on behalf of Corktown L.P.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-04-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-04-25 22:11:50.000 +0000",
+            "Expiry Date": "2023-04-26",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "121 King Street West",
+            "TELEPHONE": "416-644-4264",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "brandon@slateam.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100529118",
+            "TO": "Lucas Manuel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-644-4264"
+        },
+        {
+            "TOUNIQUENUMBER": "100529116",
+            "TO": "Lisa Rowe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-644-4264"
+        },
+        {
+            "TOUNIQUENUMBER": "100529116",
+            "TO": "Lisa Rowe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-644-4264"
+        },
+        {
+            "TOUNIQUENUMBER": "100529115",
+            "TO": "Ramsey Ali",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-644-4264"
+        },
+        {
+            "TOUNIQUENUMBER": "100529115",
+            "TO": "Ramsey Ali",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-644-4264"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61287",
+            "Umbrella": "Slate Asset Management",
+            "Umbrella ID": "500000272",
+            "VB_NAME": "Corktown GP Inc. as general partner of and on behalf of Corktown L.P.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60177",
+            "MEMBERNAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "MEMBEROPERATINGNAME": "1 Delisle Ave GP Inc. in its capacity as general partner of and on behalf of 1 Delisle Ave L.P.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61287",
+            "Umbrella": "Slate Asset Management",
+            "Umbrella ID": "500000272",
+            "VB_NAME": "Corktown GP Inc. as general partner of and on behalf of Corktown L.P.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61287",
+            "MEMBERNAME": "Corktown GP Inc. as general partner of and on behalf of Corktown L.P.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61287",
+            "Umbrella": "Slate Asset Management",
+            "Umbrella ID": "500000272",
+            "VB_NAME": "Corktown GP Inc. as general partner of and on behalf of Corktown L.P.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47274",
+            "MEMBERNAME": "2720 Dundas Junction GP Inc. in its capacity as general partner of and on behalf of 2720 Dundas Junction L.P.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Corktown",
+            "Project Status": "In Progress",
+            "Location": "HAMILTON",
+            "Address": " 221-225 John Street South ",
+            "# of Units": 372,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

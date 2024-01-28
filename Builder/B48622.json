@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48622",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sightlines Development Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Guelph",
+            "HCRA_INITIALLICENSEDATE": "2021-01-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-17 14:05:38.000 +0000",
+            "Expiry Date": "2024-01-20",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "17-218 Silvercreek Parkway North",
+            "TELEPHONE": "519-884-0170",
+            "FAX": null,
+            "WEBSITEURL": "sdgroups.ca",
+            "EMAIL": "info@sdgroups.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 2,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100346526",
+            "TO": "Steven Double",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-884-0170"
+        },
+        {
+            "TOUNIQUENUMBER": "100346526",
+            "TO": "Steven Double",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-884-0170"
+        },
+        {
+            "TOUNIQUENUMBER": "100346526",
+            "TO": "Steven Double",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-884-0170"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48622",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sightlines Development Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": null,
+            "Location": "BRANTFORD",
+            "Address": " 242 242 Mount Pleasant Street ",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

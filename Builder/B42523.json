@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42523",
+            "Umbrella": "Bayview Estates",
+            "Umbrella ID": "12538848",
+            "VB_NAME": "Bayview Estates Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "2012-12-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-12-21 13:00:22.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "17 Claret Crt.",
+            "TELEPHONE": "416/275-9950",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "bayviewhomes@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11769726",
+            "TO": "Enzo Risi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-9950"
+        },
+        {
+            "TOUNIQUENUMBER": "11769726",
+            "TO": "Enzo Risi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-9950"
+        },
+        {
+            "TOUNIQUENUMBER": "11769726",
+            "TO": "Enzo Risi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-275-9950"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42523",
+            "Umbrella": "Bayview Estates",
+            "Umbrella ID": "12538848",
+            "VB_NAME": "Bayview Estates Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42523",
+            "MEMBERNAME": "Bayview Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42523",
+            "Umbrella": "Bayview Estates",
+            "Umbrella ID": "12538848",
+            "VB_NAME": "Bayview Estates Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35258",
+            "MEMBERNAME": "741980 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

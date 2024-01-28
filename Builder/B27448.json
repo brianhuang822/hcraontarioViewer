@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27448",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Habitat For Humanity Grey Bruce",
+            "OPERATINGNAME": null,
+            "CITY": "Owen Sound",
+            "HCRA_INITIALLICENSEDATE": "1998-05-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-19 20:27:50.000 +0000",
+            "Expiry Date": "2024-05-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "223017 Grey Road 17",
+            "TELEPHONE": "519-371-6776",
+            "FAX": "877-606-1386",
+            "WEBSITEURL": "www.habitatgreybruce.ca",
+            "EMAIL": "rachelle@habitatgreybruce.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100123194",
+            "TO": "Greg Fryer",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-371-6776"
+        },
+        {
+            "TOUNIQUENUMBER": "100643102",
+            "TO": "Gregory Fryer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-371-6776"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27448",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Habitat For Humanity Grey Bruce",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Habitat for Humanity Hanover",
+            "Project Status": "Completed",
+            "Location": "HANOVER",
+            "Address": "357 14th St.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-12-22"
+        }
+    ],
+    "builderConditions": []
+}

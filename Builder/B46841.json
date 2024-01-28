@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46841",
+            "Umbrella": "Seaway Condominium",
+            "Umbrella ID": "500002296",
+            "VB_NAME": "Treasure Villas Ltd.",
+            "OPERATINGNAME": "Gold Bricks Construction",
+            "CITY": "Brampton",
+            "HCRA_INITIALLICENSEDATE": "2018-03-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-06 15:36:06.000 +0000",
+            "Expiry Date": "2024-03-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9300 Goreway Dr, Suite#112",
+            "TELEPHONE": "647-521-5555",
+            "FAX": "416-746-4242",
+            "WEBSITEURL": null,
+            "EMAIL": "treasurevillasltd@gmail.com",
+            "ACCOUNTNUMBER": "B46841",
+            "Total Outstanding Amount": 3157.65,
+            "TAB": 0,
+            "BREACH": 3157.65,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 6,
+            "SUMM_TOTAL": 9,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 2700,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 2700
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100725713",
+            "TO": "Rohit Parmar",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-521-5555"
+        },
+        {
+            "TOUNIQUENUMBER": "100725713",
+            "TO": "Rohit Parmar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-521-5555"
+        },
+        {
+            "TOUNIQUENUMBER": "100487651",
+            "TO": "Moin Jan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-226-2229"
+        },
+        {
+            "TOUNIQUENUMBER": "100487651",
+            "TO": "Moin Jan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-226-2229"
+        },
+        {
+            "TOUNIQUENUMBER": "100487651",
+            "TO": "Moin Jan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-226-2229"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46841",
+            "Umbrella": "Seaway Condominium",
+            "Umbrella ID": "500002296",
+            "VB_NAME": "Treasure Villas Ltd.",
+            "OPERATINGNAME": "Gold Bricks Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61164",
+            "MEMBERNAME": "Goldbricks Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46841",
+            "Umbrella": "Seaway Condominium",
+            "Umbrella ID": "500002296",
+            "VB_NAME": "Treasure Villas Ltd.",
+            "OPERATINGNAME": "Gold Bricks Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46841",
+            "MEMBERNAME": "Treasure Villas Ltd.",
+            "MEMBEROPERATINGNAME": "Gold Bricks Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46841",
+            "Umbrella": "Seaway Condominium",
+            "Umbrella ID": "500002296",
+            "VB_NAME": "Treasure Villas Ltd.",
+            "OPERATINGNAME": "Gold Bricks Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61497",
+            "MEMBERNAME": "RKP Management Inc.",
+            "MEMBEROPERATINGNAME": "RKP Management Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Residence on Victoria",
+            "Project Status": "In Progress",
+            "Location": "KITCHENER",
+            "Address": " 183 Victoria St. N. ",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

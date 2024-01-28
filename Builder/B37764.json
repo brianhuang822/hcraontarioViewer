@@ -1,0 +1,150 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37764",
+            "Umbrella": "Inzola Group",
+            "Umbrella ID": "12542211",
+            "VB_NAME": "Park Place Brampton Inc.",
+            "OPERATINGNAME": "Park Place Condomiiums",
+            "CITY": "BRAMPTON",
+            "HCRA_INITIALLICENSEDATE": "2007-06-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-06-16 12:00:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "105 Heart Lake Rd., Unit 1",
+            "TELEPHONE": "905-453-8266",
+            "FAX": "905-453-3382",
+            "WEBSITEURL": "www.inzola.com",
+            "EMAIL": "sam@inzola.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341186",
+            "TO": "Basile Kanellopoulos",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-452-6191"
+        },
+        {
+            "TOUNIQUENUMBER": "341186",
+            "TO": "Basile Kanellopoulos",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-452-6191"
+        },
+        {
+            "TOUNIQUENUMBER": "265477",
+            "TO": "Sam (Salvatore) Cutruzzola",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-453-8266"
+        },
+        {
+            "TOUNIQUENUMBER": "341185",
+            "TO": "John Cutruzzola",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-453-8266"
+        },
+        {
+            "TOUNIQUENUMBER": "341185",
+            "TO": "John Cutruzzola",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-453-8266"
+        },
+        {
+            "TOUNIQUENUMBER": "341187",
+            "TO": "Neil G. Davis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-451-6714"
+        },
+        {
+            "TOUNIQUENUMBER": "341187",
+            "TO": "Neil G. Davis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-451-6714"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37764",
+            "Umbrella": "Inzola Group",
+            "Umbrella ID": "12542211",
+            "VB_NAME": "Park Place Brampton Inc.",
+            "OPERATINGNAME": "Park Place Condomiiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25110",
+            "MEMBERNAME": "The Belvedere On Market Square Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37764",
+            "Umbrella": "Inzola Group",
+            "Umbrella ID": "12542211",
+            "VB_NAME": "Park Place Brampton Inc.",
+            "OPERATINGNAME": "Park Place Condomiiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37764",
+            "MEMBERNAME": "Park Place Brampton Inc.",
+            "MEMBEROPERATINGNAME": "Park Place Condomiiums",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37764",
+            "Umbrella": "Inzola Group",
+            "Umbrella ID": "12542211",
+            "VB_NAME": "Park Place Brampton Inc.",
+            "OPERATINGNAME": "Park Place Condomiiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44038",
+            "MEMBERNAME": "Hall Road Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37764",
+            "Umbrella": "Inzola Group",
+            "Umbrella ID": "12542211",
+            "VB_NAME": "Park Place Brampton Inc.",
+            "OPERATINGNAME": "Park Place Condomiiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46760",
+            "MEMBERNAME": "Inzola Symphony Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Park Place Condominiums",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "100 John St.",
+            "# of Units": 218,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-06-24"
+        }
+    ],
+    "builderConditions": []
+}

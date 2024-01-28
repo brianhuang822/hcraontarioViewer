@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32763",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Pointe of View Developments Inc.",
+            "OPERATINGNAME": "Pointe of View",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2003-05-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-05-22 13:31:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Blaney McMurtry LLP, 2 Queen St. E., Ste. 1500",
+            "TELEPHONE": "416/593-2986",
+            "FAX": "416/593-5437",
+            "WEBSITEURL": "www.pointofview.com",
+            "EMAIL": "tevans@blaney.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11822733",
+            "TO": "Randy Klapstein",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "403-571-8400"
+        },
+        {
+            "TOUNIQUENUMBER": "11822733",
+            "TO": "Randy Klapstein",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "403-571-8400"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32763",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Pointe of View Developments Inc.",
+            "OPERATINGNAME": "Pointe of View",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38031",
+            "MEMBERNAME": "Seaway Pointe Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32763",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Pointe of View Developments Inc.",
+            "OPERATINGNAME": "Pointe of View",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32763",
+            "MEMBERNAME": "Pointe of View Developments Inc.",
+            "MEMBEROPERATINGNAME": "Pointe of View",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32763",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Pointe of View Developments Inc.",
+            "OPERATINGNAME": "Pointe of View",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38032",
+            "MEMBERNAME": "Pointe of View Developments (Stonecreek Pointe) In",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32763",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Pointe of View Developments Inc.",
+            "OPERATINGNAME": "Pointe of View",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33957",
+            "MEMBERNAME": "Woodside Pointe Developments Inc.",
+            "MEMBEROPERATINGNAME": "Pointe of View",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32763",
+            "Umbrella": "Pointe of View",
+            "Umbrella ID": "11971959",
+            "VB_NAME": "Pointe of View Developments Inc.",
+            "OPERATINGNAME": "Pointe of View",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34548",
+            "MEMBERNAME": "Country View Pointe Inc.",
+            "MEMBEROPERATINGNAME": "Spring Pointe",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "CLAIRLEA POINTE",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "684 Warden Ave",
+            "# of Units": 134,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-01-17"
+        }
+    ],
+    "builderConditions": []
+}

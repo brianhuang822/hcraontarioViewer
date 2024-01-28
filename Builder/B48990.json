@@ -1,0 +1,112 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48990",
+            "Umbrella": "Albano & Govas Group",
+            "Umbrella ID": "500001067",
+            "VB_NAME": "Park Palisades Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Windsor",
+            "HCRA_INITIALLICENSEDATE": "2021-01-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-01-24 04:15:26.000 +0000",
+            "Expiry Date": "2023-01-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1190 Walker Road",
+            "TELEPHONE": "519-256-8077",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "ricalbano@1micgroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100578663",
+            "TO": "Spyridon Govas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-796-5379"
+        },
+        {
+            "TOUNIQUENUMBER": "100578663",
+            "TO": "Spyridon Govas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-796-5379"
+        },
+        {
+            "TOUNIQUENUMBER": "344278",
+            "TO": "Luigi Albano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-346-5380"
+        },
+        {
+            "TOUNIQUENUMBER": "344278",
+            "TO": "Luigi Albano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-346-5380"
+        },
+        {
+            "TOUNIQUENUMBER": "100578653",
+            "TO": "Riccardo Albano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-256-8077"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48990",
+            "Umbrella": "Albano & Govas Group",
+            "Umbrella ID": "500001067",
+            "VB_NAME": "Park Palisades Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48990",
+            "MEMBERNAME": "Park Palisades Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48990",
+            "Umbrella": "Albano & Govas Group",
+            "Umbrella ID": "500001067",
+            "VB_NAME": "Park Palisades Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48884",
+            "MEMBERNAME": "Albamor A-G Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Palisades Townhomes",
+            "Project Status": null,
+            "Location": "WINDSOR",
+            "Address": " 410 Janette St. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

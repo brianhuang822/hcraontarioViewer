@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22326",
+            "Umbrella": "O'Malley Homes",
+            "Umbrella ID": "9497",
+            "VB_NAME": "O'Malley Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "WATERLOO",
+            "HCRA_INITIALLICENSEDATE": "1992-10-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1996-10-22 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "96 Rankin Street, Suite 202",
+            "TELEPHONE": "519-747-2883",
+            "FAX": "519-747-2887",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "303391",
+            "TO": "Tim Allensen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-747-2883"
+        },
+        {
+            "TOUNIQUENUMBER": "303372",
+            "TO": "Rick Guspodaryk",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-681-1043"
+        },
+        {
+            "TOUNIQUENUMBER": "324916",
+            "TO": "John O'Malley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-654-3104"
+        },
+        {
+            "TOUNIQUENUMBER": "324916",
+            "TO": "John O'Malley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-654-3104"
+        },
+        {
+            "TOUNIQUENUMBER": "324916",
+            "TO": "John O'Malley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-654-3104"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22326",
+            "Umbrella": "O'Malley Homes",
+            "Umbrella ID": "9497",
+            "VB_NAME": "O'Malley Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22326",
+            "MEMBERNAME": "O'Malley Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22326",
+            "Umbrella": "O'Malley Homes",
+            "Umbrella ID": "9497",
+            "VB_NAME": "O'Malley Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25618",
+            "MEMBERNAME": "O'Malley Homes (Waterloo) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

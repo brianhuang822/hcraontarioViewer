@@ -1,0 +1,169 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42074",
+            "Umbrella": "Dundee Kilmer Developments",
+            "Umbrella ID": "12539165",
+            "VB_NAME": "Canary Block 4 Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2012-05-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-06-11 12:01:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "30 Adelaide St. E., Ste. 1600",
+            "TELEPHONE": "416/593-2986",
+            "FAX": "416/593-5437",
+            "WEBSITEURL": " ",
+            "EMAIL": "tevans@blaney.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 439,
+            "SUMM_TOTAL": 439,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12533850",
+            "TO": "Kenneth Tanenbaum",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-815-4976"
+        },
+        {
+            "TOUNIQUENUMBER": "12533850",
+            "TO": "Kenneth Tanenbaum",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-815-4976"
+        },
+        {
+            "TOUNIQUENUMBER": "12533857",
+            "TO": "P. Jane Gavan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-402-7410"
+        },
+        {
+            "TOUNIQUENUMBER": "12533854",
+            "TO": "Wayne Carson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-815-4977"
+        },
+        {
+            "TOUNIQUENUMBER": "12533854",
+            "TO": "Wayne Carson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-815-4977"
+        },
+        {
+            "TOUNIQUENUMBER": "12208477",
+            "TO": "Jason Lester",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-365-5993"
+        },
+        {
+            "TOUNIQUENUMBER": "12208477",
+            "TO": "Jason Lester",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-365-5993"
+        },
+        {
+            "TOUNIQUENUMBER": "343479",
+            "TO": "Michael Cooper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-365-3535"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42074",
+            "Umbrella": "Dundee Kilmer Developments",
+            "Umbrella ID": "12539165",
+            "VB_NAME": "Canary Block 4 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45935",
+            "MEMBERNAME": "Canary Block 16 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42074",
+            "Umbrella": "Dundee Kilmer Developments",
+            "Umbrella ID": "12539165",
+            "VB_NAME": "Canary Block 4 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46429",
+            "MEMBERNAME": "Canary Block 12 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42074",
+            "Umbrella": "Dundee Kilmer Developments",
+            "Umbrella ID": "12539165",
+            "VB_NAME": "Canary Block 4 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48226",
+            "MEMBERNAME": "DK B10 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42074",
+            "Umbrella": "Dundee Kilmer Developments",
+            "Umbrella ID": "12539165",
+            "VB_NAME": "Canary Block 4 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42072",
+            "MEMBERNAME": "Canary Block 11 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42074",
+            "Umbrella": "Dundee Kilmer Developments",
+            "Umbrella ID": "12539165",
+            "VB_NAME": "Canary Block 4 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42074",
+            "MEMBERNAME": "Canary Block 4 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Canary Park",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 120 Bayview Avenue ",
+            "# of Units": 439,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-10-28"
+        }
+    ],
+    "builderConditions": []
+}

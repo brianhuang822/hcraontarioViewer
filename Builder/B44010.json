@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44010",
+            "Umbrella": "Greenland Group (Canada)",
+            "Umbrella ID": "12547259",
+            "VB_NAME": "Greenland 355 King Street West Development Company Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2014-10-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-04-27 13:39:08.000 +0000",
+            "Expiry Date": "2021-10-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "207 Queens Quay West, Suite 803",
+            "TELEPHONE": "416-640-0606",
+            "FAX": "416/640-0607",
+            "WEBSITEURL": " kingbluecondos.com",
+            "EMAIL": "kingblue@greenlandcanada.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 910,
+            "SUMM_TOTAL": 910,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100256198",
+            "TO": "Yuan Cao",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-640-0606"
+        },
+        {
+            "TOUNIQUENUMBER": "100256198",
+            "TO": "Yuan Cao",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-640-0606"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44010",
+            "Umbrella": "Greenland Group (Canada)",
+            "Umbrella ID": "12547259",
+            "VB_NAME": "Greenland 355 King Street West Development Company Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44010",
+            "MEMBERNAME": "Greenland 355 King Street West Development Company Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "King Blue",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 115 & 125 Blue Jays Way ",
+            "# of Units": 913,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-12-21"
+        }
+    ],
+    "builderConditions": []
+}

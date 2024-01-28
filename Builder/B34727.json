@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34727",
+            "Umbrella": "Arjan Construction",
+            "Umbrella ID": "12035302",
+            "VB_NAME": "1462666 Ontario Inc.",
+            "OPERATINGNAME": "Arjan Construction",
+            "CITY": "Fordwich",
+            "HCRA_INITIALLICENSEDATE": "2004-09-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-31 18:09:19.000 +0000",
+            "Expiry Date": "2024-09-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "89025 Toll Gate Line",
+            "TELEPHONE": "519-272-7908",
+            "FAX": "5912727908",
+            "WEBSITEURL": " ",
+            "EMAIL": "ameinen@quadro.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 22,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 22,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12017966",
+            "TO": "Janette Meinen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-272-7908"
+        },
+        {
+            "TOUNIQUENUMBER": "12017966",
+            "TO": "Janette Meinen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-272-7908"
+        },
+        {
+            "TOUNIQUENUMBER": "12017966",
+            "TO": "Janette Meinen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-272-7908"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34727",
+            "Umbrella": "Arjan Construction",
+            "Umbrella ID": "12035302",
+            "VB_NAME": "1462666 Ontario Inc.",
+            "OPERATINGNAME": "Arjan Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34727",
+            "MEMBERNAME": "1462666 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Arjan Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34727",
+            "Umbrella": "Arjan Construction",
+            "Umbrella ID": "12035302",
+            "VB_NAME": "1462666 Ontario Inc.",
+            "OPERATINGNAME": "Arjan Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B18929",
+            "MEMBERNAME": "Arthur Meinen",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

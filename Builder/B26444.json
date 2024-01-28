@@ -1,0 +1,116 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26444",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ridgeview Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Kitchener",
+            "HCRA_INITIALLICENSEDATE": "1997-05-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-29 19:03:51.000 +0000",
+            "Expiry Date": "2024-06-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "334 Manitou Drive, Unit A",
+            "TELEPHONE": "519-748-0087",
+            "FAX": "519-748-5795",
+            "WEBSITEURL": "www.ridgeviewhomes.com",
+            "EMAIL": "george@ridgeviewhomes.com",
+            "ACCOUNTNUMBER": "B26444",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 378,
+            "SUMM_CONDO": 56,
+            "SUMM_TOTAL": 434,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342843",
+            "TO": "George Mouradian",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-748-0087"
+        },
+        {
+            "TOUNIQUENUMBER": "342843",
+            "TO": "George Mouradian",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-748-0087"
+        },
+        {
+            "TOUNIQUENUMBER": "342843",
+            "TO": "George Mouradian",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-748-0087"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26444",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Ridgeview Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Forest Creek Community",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "  Hollybrook Tr. ",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-08-31"
+        },
+        {
+            "Condo Project Name": "Forest Creek Community",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 95 Hollybrook Trail ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-02-04"
+        },
+        {
+            "Condo Project Name": "Forest Creek Community",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 95 Hollybrook Trail ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-10-09"
+        },
+        {
+            "Condo Project Name": "Stonecliffe",
+            "Project Status": "In Progress",
+            "Location": "KITCHENER",
+            "Address": " 905 Stonecliffe Walk ",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

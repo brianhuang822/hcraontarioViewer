@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41897",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Maximum Home Contracting",
+            "OPERATINGNAME": null,
+            "CITY": "RED ROCK",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2012-06-20 17:57:49.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "68 Timmins St.",
+            "TELEPHONE": "807/889-0317",
+            "FAX": "807/886-1066",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B41897",
+            "Total Outstanding Amount": 8979.28,
+            "TAB": 0,
+            "BREACH": 8979.28,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12524841",
+            "TO": "Herb Cordeiro",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-889-0317"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108249",
+            "CHARGE_AGAINST": "Herbert Cordeiro operating as Maximum Home Contrac",
+            "CHARGE_DATE": "2014-07-18",
+            "DISPOSITION_DATE": "2015-02-06",
+            "THE_FINE_": "6000",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "1500",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326222",
+            "ORGANIZATION_NAME": "Herbert Cordeiro operating as Maximum Home Contracting",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Nipigon, ON",
+            "CITY_DEFENCE": "Red Rock, ON",
+            "VB_NUMBER": "B41897",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": null,
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108249 9326222",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Nipigon, Township",
+            "INFORMATION_NUMBER": "4260 999 14 14 0620 00",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "FROM_OFFENCE_DATE": "2012-07-12",
+            "TO_OFFENCE_DATE": "2014-07-18",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "7500",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B41897",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Maximum Home Contracting",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

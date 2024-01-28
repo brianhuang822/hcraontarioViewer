@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23878",
+            "Umbrella": "Mauro Farina",
+            "Umbrella ID": "12540530",
+            "VB_NAME": "Mayfi Construction Ltd.",
+            "OPERATINGNAME": "Mayfi Construction",
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "1994-06-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-12-09 20:06:19.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "48 Naughton Dr.",
+            "TELEPHONE": "(416)617-4229",
+            "FAX": "(905) 737-9714",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "330352",
+            "TO": "Mauro Farina",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-617-4229"
+        },
+        {
+            "TOUNIQUENUMBER": "330352",
+            "TO": "Mauro Farina",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-617-4229"
+        },
+        {
+            "TOUNIQUENUMBER": "330352",
+            "TO": "Mauro Farina",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-617-4229"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23878",
+            "Umbrella": "Mauro Farina",
+            "Umbrella ID": "12540530",
+            "VB_NAME": "Mayfi Construction Ltd.",
+            "OPERATINGNAME": "Mayfi Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34841",
+            "MEMBERNAME": "Calais Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23878",
+            "Umbrella": "Mauro Farina",
+            "Umbrella ID": "12540530",
+            "VB_NAME": "Mayfi Construction Ltd.",
+            "OPERATINGNAME": "Mayfi Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23878",
+            "MEMBERNAME": "Mayfi Construction Ltd.",
+            "MEMBEROPERATINGNAME": "Mayfi Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

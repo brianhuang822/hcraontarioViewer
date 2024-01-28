@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45907",
+            "Umbrella": "Hiku Homes",
+            "Umbrella ID": "12545824",
+            "VB_NAME": "Hiku Company Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Port McNicoll",
+            "HCRA_INITIALLICENSEDATE": "2017-01-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-04 22:14:00.000 +0000",
+            "Expiry Date": "2025-01-31",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "155 Woodlands Avenue",
+            "TELEPHONE": "705-790-5607",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "hikucompanyinc@gmail.com",
+            "ACCOUNTNUMBER": "B45907",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 5144.89,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 5144.89
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600013685",
+            "TO": "Colin Kuhn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-792-3377"
+        },
+        {
+            "TOUNIQUENUMBER": "600013685",
+            "TO": "Colin Kuhn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-792-3377"
+        },
+        {
+            "TOUNIQUENUMBER": "600013685",
+            "TO": "Colin Kuhn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-792-3377"
+        },
+        {
+            "TOUNIQUENUMBER": "100410726",
+            "TO": "Michael Kuhn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-790-5607"
+        },
+        {
+            "TOUNIQUENUMBER": "100410726",
+            "TO": "Michael Kuhn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-790-5607"
+        },
+        {
+            "TOUNIQUENUMBER": "100410726",
+            "TO": "Michael Kuhn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-790-5607"
+        },
+        {
+            "TOUNIQUENUMBER": "12429042",
+            "TO": "Helge Himmeroder",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-790-5607"
+        },
+        {
+            "TOUNIQUENUMBER": "12429042",
+            "TO": "Helge Himmeroder",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-790-5607"
+        },
+        {
+            "TOUNIQUENUMBER": "12429042",
+            "TO": "Helge Himmeroder",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-790-5607"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45907",
+            "Umbrella": "Hiku Homes",
+            "Umbrella ID": "12545824",
+            "VB_NAME": "Hiku Company Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45907",
+            "MEMBERNAME": "Hiku Company Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45907",
+            "Umbrella": "Hiku Homes",
+            "Umbrella ID": "12545824",
+            "VB_NAME": "Hiku Company Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40716",
+            "MEMBERNAME": "Himmer Business Corporation Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

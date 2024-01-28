@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36832",
+            "Umbrella": "Leonard Fraser",
+            "Umbrella ID": "12541156",
+            "VB_NAME": "1427386 Ontario Ltd.",
+            "OPERATINGNAME": "Northridge Estates",
+            "CITY": "CARLETON PLACE",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2008-04-01 20:06:44.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "144 Patterson Cres.",
+            "TELEPHONE": "613-253-2374",
+            "FAX": "613-253-0508",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "311672",
+            "TO": "Leonard E. Fraser",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-253-2374"
+        },
+        {
+            "TOUNIQUENUMBER": "311672",
+            "TO": "Leonard E. Fraser",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-253-2374"
+        },
+        {
+            "TOUNIQUENUMBER": "311672",
+            "TO": "Leonard E. Fraser",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-253-2374"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36832",
+            "Umbrella": "Leonard Fraser",
+            "Umbrella ID": "12541156",
+            "VB_NAME": "1427386 Ontario Ltd.",
+            "OPERATINGNAME": "Northridge Estates",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B21376",
+            "MEMBERNAME": "Greenside Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B36832",
+            "Umbrella": "Leonard Fraser",
+            "Umbrella ID": "12541156",
+            "VB_NAME": "1427386 Ontario Ltd.",
+            "OPERATINGNAME": "Northridge Estates",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B36832",
+            "MEMBERNAME": "1427386 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Northridge Estates",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B36832",
+            "Umbrella": "Leonard Fraser",
+            "Umbrella ID": "12541156",
+            "VB_NAME": "1427386 Ontario Ltd.",
+            "OPERATINGNAME": "Northridge Estates",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B40177",
+            "MEMBERNAME": "927669 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

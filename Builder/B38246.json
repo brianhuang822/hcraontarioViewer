@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38246",
+            "Umbrella": "APA Holdings",
+            "Umbrella ID": "12541013",
+            "VB_NAME": "APA Holdings Inc.",
+            "OPERATINGNAME": "Filmar Custom Homes",
+            "CITY": "KITCHENER",
+            "HCRA_INITIALLICENSEDATE": "2008-01-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-01-16 16:01:18.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "85 Paige St.",
+            "TELEPHONE": "519-574-7839",
+            "FAX": "519-342-2499",
+            "WEBSITEURL": null,
+            "EMAIL": "balkanflooring@live.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12108701",
+            "TO": "Sasa Filipovic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-574-7839"
+        },
+        {
+            "TOUNIQUENUMBER": "12108701",
+            "TO": "Sasa Filipovic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-574-7839"
+        },
+        {
+            "TOUNIQUENUMBER": "12108701",
+            "TO": "Sasa Filipovic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-574-7839"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38246",
+            "Umbrella": "APA Holdings",
+            "Umbrella ID": "12541013",
+            "VB_NAME": "APA Holdings Inc.",
+            "OPERATINGNAME": "Filmar Custom Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38246",
+            "MEMBERNAME": "APA Holdings Inc.",
+            "MEMBEROPERATINGNAME": "Filmar Custom Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38246",
+            "Umbrella": "APA Holdings",
+            "Umbrella ID": "12541013",
+            "VB_NAME": "APA Holdings Inc.",
+            "OPERATINGNAME": "Filmar Custom Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36065",
+            "MEMBERNAME": "APA Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

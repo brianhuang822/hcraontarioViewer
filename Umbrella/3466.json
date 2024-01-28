@@ -1,0 +1,149 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Kubassek Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "R.R. 3",
+            "TELEPHONE": "(519)632-9900",
+            "FAX": "(519)632-8800",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Bradford Enterprises (cambridge) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22417",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kubassek Holdings Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17291",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kubassek Holdings Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B15039",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bradford Building & Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21408",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kubassek Homes (plattsville) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22723",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kubassek Homes (k-W) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23839",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "SHADOW WEST",
+            "Account Number": "B23839",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "90 Mooregate Crescent",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-12-03"
+        },
+        {
+            "Condo Project Name": "VILLAGE AT COUNTRY CLUB ESTATE",
+            "Account Number": "B22417",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": "199 Saginaw Parkway",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-08-24"
+        },
+        {
+            "Condo Project Name": "SHADOW WEST",
+            "Account Number": "B23839",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "90 Mooregate Cres.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-08-16"
+        },
+        {
+            "Condo Project Name": "VILLAGE AT COUNTRY CLUB ESTATE",
+            "Account Number": "B22417",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": "199 Saginaw Parkway",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-01-27"
+        },
+        {
+            "Condo Project Name": "SHADOW WEST",
+            "Account Number": "B23839",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": "90 Mooregate Cres.",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-01-24"
+        },
+        {
+            "Condo Project Name": "THE VILLIAGE AT COUNTRY CLUB",
+            "Account Number": "B22417",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": "199 Sagniaw Parkway",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-02-15"
+        },
+        {
+            "Condo Project Name": "RIVER'S  CREST",
+            "Account Number": "B21408",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": "Bishop Street",
+            "# of Units": 60,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1992-10-30"
+        }
+    ]
+}

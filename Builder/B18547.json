@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B18547",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "T.L. McCallum Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "WARDSVILLE",
+            "HCRA_INITIALLICENSEDATE": "1989-07-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:23:22.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "21895 Pratt Siding Rd., R.R.2",
+            "TELEPHONE": "519-693-1200",
+            "FAX": "519-693-1272",
+            "WEBSITEURL": " ",
+            "EMAIL": "tlmccallumconstruction@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "321963",
+            "TO": "Thomas L. McCallum",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-693-1200"
+        },
+        {
+            "TOUNIQUENUMBER": "321963",
+            "TO": "Thomas L. McCallum",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-693-1200"
+        },
+        {
+            "TOUNIQUENUMBER": "321963",
+            "TO": "Thomas L. McCallum",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-693-1200"
+        },
+        {
+            "TOUNIQUENUMBER": "321961",
+            "TO": "Janice Ann McCallum",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-287-2456"
+        },
+        {
+            "TOUNIQUENUMBER": "321961",
+            "TO": "Janice Ann McCallum",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-287-2456"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B18547",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "T.L. McCallum Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "SCOTT'S GATE",
+            "Project Status": null,
+            "Location": "STRATHROY",
+            "Address": "375 Scotts Street",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,132 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31498",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (Parkway) Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "VANCOUVER",
+            "HCRA_INITIALLICENSEDATE": "2001-06-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-06-05 12:31:02.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "911 Homer St., Ste. 300",
+            "TELEPHONE": "416-369-9069",
+            "FAX": "416-369-9068",
+            "WEBSITEURL": "www.amacon.com",
+            "EMAIL": "info@amacon.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11703587",
+            "TO": "Amalio DeCotiis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416- 369-9579"
+        },
+        {
+            "TOUNIQUENUMBER": "11703587",
+            "TO": "Amalio DeCotiis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416- 369-9579"
+        },
+        {
+            "TOUNIQUENUMBER": "11703587",
+            "TO": "Amalio DeCotiis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416- 369-9579"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31498",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (Parkway) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33372",
+            "MEMBERNAME": "Amacon Development (Hurontario) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31498",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (Parkway) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38706",
+            "MEMBERNAME": "Amacon Development (City Centre) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31498",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (Parkway) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31498",
+            "MEMBERNAME": "Amacon Development (Parkway) Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31498",
+            "Umbrella": "Amacon",
+            "Umbrella ID": "12300231",
+            "VB_NAME": "Amacon Development (Parkway) Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32628",
+            "MEMBERNAME": "Amacon Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE CAPRI",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 1359 Rathburn Rd E ",
+            "# of Units": 229,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-06-22"
+        },
+        {
+            "Condo Project Name": "THE CAPRI",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 1341-1355 Rathburn Road East ",
+            "# of Units": 31,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-05-03"
+        }
+    ],
+    "builderConditions": []
+}

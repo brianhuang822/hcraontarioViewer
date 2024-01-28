@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B15957",
+            "Umbrella": "Timbercreek Estates",
+            "Umbrella ID": "12540189",
+            "VB_NAME": "Timbercreek Estates Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LEAMINGTON",
+            "HCRA_INITIALLICENSEDATE": "1988-03-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-03-22 13:30:54.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "858 Point Pelee Dr.",
+            "TELEPHONE": "(519)326-1980Ext.0",
+            "FAX": "(519)326-9320",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "322878",
+            "TO": "Gordon Edwin Meuser",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-324-1980"
+        },
+        {
+            "TOUNIQUENUMBER": "322878",
+            "TO": "Gordon Edwin Meuser",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-324-1980"
+        },
+        {
+            "TOUNIQUENUMBER": "322878",
+            "TO": "Gordon Edwin Meuser",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-324-1980"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B15957",
+            "Umbrella": "Timbercreek Estates",
+            "Umbrella ID": "12540189",
+            "VB_NAME": "Timbercreek Estates Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B15957",
+            "MEMBERNAME": "Timbercreek Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B15957",
+            "Umbrella": "Timbercreek Estates",
+            "Umbrella ID": "12540189",
+            "VB_NAME": "Timbercreek Estates Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34452",
+            "MEMBERNAME": "Timbercreek Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

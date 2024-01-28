@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35151",
+            "Umbrella": "Light House Development Group",
+            "Umbrella ID": "12476401",
+            "VB_NAME": "11 Christie Street Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2004-11-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-11-26 14:30:37.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "200 Yokrland Blvd., Ste. 200",
+            "TELEPHONE": "416-391-4223",
+            "FAX": "416-391-1445",
+            "WEBSITEURL": null,
+            "EMAIL": "elitsky@rsgc.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12179379",
+            "TO": "Sandro Sordi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-4223"
+        },
+        {
+            "TOUNIQUENUMBER": "12179379",
+            "TO": "Sandro Sordi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-4223"
+        },
+        {
+            "TOUNIQUENUMBER": "12179379",
+            "TO": "Sandro Sordi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-4223"
+        },
+        {
+            "TOUNIQUENUMBER": "12179464",
+            "TO": "Anna Maria Sordi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-799-2099"
+        },
+        {
+            "TOUNIQUENUMBER": "12179463",
+            "TO": "Violanta Sordi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-244-5057"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35151",
+            "Umbrella": "Light House Development Group",
+            "Umbrella ID": "12476401",
+            "VB_NAME": "11 Christie Street Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39125",
+            "MEMBERNAME": "11 Christie Street Inc.",
+            "MEMBEROPERATINGNAME": "11 Christie Street",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B35151",
+            "Umbrella": "Light House Development Group",
+            "Umbrella ID": "12476401",
+            "VB_NAME": "11 Christie Street Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35151",
+            "MEMBERNAME": "11 Christie Street Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35151",
+            "Umbrella": "Light House Development Group",
+            "Umbrella ID": "12476401",
+            "VB_NAME": "11 Christie Street Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37905",
+            "MEMBERNAME": "Westport Beach Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,88 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Centara Corporation",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "2202 Eglinton Ave e",
+            "TELEPHONE": "(416)759-6777",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Riverpark Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9157",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Corinthian Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B18732",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cathedral Square Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17595",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Centara Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8761",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Empire Plaza Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9200",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "REXDALE CONDO",
+            "Account Number": "B9157",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": "600 Rexdale Blvd",
+            "# of Units": 92,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-10-02"
+        },
+        {
+            "Condo Project Name": "HURONTARIO ST. CONDO",
+            "Account Number": "B8761",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "2091 Hurontario St.",
+            "# of Units": 140,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-04-03"
+        }
+    ]
+}

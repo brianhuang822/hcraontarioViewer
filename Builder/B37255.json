@@ -1,0 +1,150 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37255",
+            "Umbrella": "Amicorp",
+            "Umbrella ID": "12539734",
+            "VB_NAME": "Amicorp Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2007-07-26 01:48:53.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "160 Applewood Cres., Unit 12",
+            "TELEPHONE": "905-660-1663",
+            "FAX": "905-660-1667",
+            "WEBSITEURL": null,
+            "EMAIL": "INFO@ELITECONSTRUCTIONINC.COM",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12196015",
+            "TO": "Franco Di Girolamo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-2290"
+        },
+        {
+            "TOUNIQUENUMBER": "12196015",
+            "TO": "Franco Di Girolamo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-2290"
+        },
+        {
+            "TOUNIQUENUMBER": "12196015",
+            "TO": "Franco Di Girolamo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-2290"
+        },
+        {
+            "TOUNIQUENUMBER": "12196012",
+            "TO": "Emilio Carinci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-6299"
+        },
+        {
+            "TOUNIQUENUMBER": "12196012",
+            "TO": "Emilio Carinci",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-6299"
+        },
+        {
+            "TOUNIQUENUMBER": "12196012",
+            "TO": "Emilio Carinci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-6299"
+        },
+        {
+            "TOUNIQUENUMBER": "12196007",
+            "TO": "Norberto Marocco",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-6299"
+        },
+        {
+            "TOUNIQUENUMBER": "12196007",
+            "TO": "Norberto Marocco",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-6299"
+        },
+        {
+            "TOUNIQUENUMBER": "12196007",
+            "TO": "Norberto Marocco",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-6299"
+        },
+        {
+            "TOUNIQUENUMBER": "457752",
+            "TO": "Enrico Lisi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-1663"
+        },
+        {
+            "TOUNIQUENUMBER": "457752",
+            "TO": "Enrico Lisi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-1663"
+        },
+        {
+            "TOUNIQUENUMBER": "457752",
+            "TO": "Enrico Lisi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-1663"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37255",
+            "Umbrella": "Amicorp",
+            "Umbrella ID": "12539734",
+            "VB_NAME": "Amicorp Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B37255",
+            "MEMBERNAME": "Amicorp Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B37255",
+            "Umbrella": "Amicorp",
+            "Umbrella ID": "12539734",
+            "VB_NAME": "Amicorp Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B40256",
+            "MEMBERNAME": "Amicorp Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

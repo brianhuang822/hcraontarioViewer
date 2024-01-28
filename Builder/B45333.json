@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45333",
+            "Umbrella": "Hush",
+            "Umbrella ID": "12355730",
+            "VB_NAME": "2091467 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2017-04-27 19:55:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "75 International Blvd., Ste. 400",
+            "TELEPHONE": "416/987-6500",
+            "FAX": "416/987-6515",
+            "WEBSITEURL": "www.hush.ca",
+            "EMAIL": "naheel@hush.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11888237",
+            "TO": "Naheel Suleman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-987-6500"
+        },
+        {
+            "TOUNIQUENUMBER": "11888237",
+            "TO": "Naheel Suleman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-987-6500"
+        },
+        {
+            "TOUNIQUENUMBER": "11888237",
+            "TO": "Naheel Suleman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-987-6500"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45333",
+            "Umbrella": "Hush",
+            "Umbrella ID": "12355730",
+            "VB_NAME": "2091467 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B45333",
+            "MEMBERNAME": "2091467 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B45333",
+            "Umbrella": "Hush",
+            "Umbrella ID": "12355730",
+            "VB_NAME": "2091467 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B36462",
+            "MEMBERNAME": "2091467 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Hush Fine Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

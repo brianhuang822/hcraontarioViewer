@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43366",
+            "Umbrella": "Urbanquest Group of Companies",
+            "Umbrella ID": "12540984",
+            "VB_NAME": "Urbanquest Incorporated",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2014-03-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-01-09 21:01:27.000 +0000",
+            "Expiry Date": "2023-03-04",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "1 Old Park Road",
+            "TELEPHONE": "416-480-2001",
+            "FAX": "416-480-9660",
+            "WEBSITEURL": "www.urbanquestinc.com",
+            "EMAIL": "glen@urbanquestinc.com",
+            "ACCOUNTNUMBER": "B43366",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 11,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 11,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343429",
+            "TO": "Vivienne Grace Ziner",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-480-2001"
+        },
+        {
+            "TOUNIQUENUMBER": "343429",
+            "TO": "Vivienne Grace Ziner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-480-2001"
+        },
+        {
+            "TOUNIQUENUMBER": "343429",
+            "TO": "Vivienne Grace Ziner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-480-2001"
+        },
+        {
+            "TOUNIQUENUMBER": "343454",
+            "TO": "Glenmorris Cohen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-480-2001"
+        },
+        {
+            "TOUNIQUENUMBER": "343454",
+            "TO": "Glenmorris Cohen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-480-2001"
+        },
+        {
+            "TOUNIQUENUMBER": "343454",
+            "TO": "Glenmorris Cohen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-480-2001"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43366",
+            "Umbrella": "Urbanquest Group of Companies",
+            "Umbrella ID": "12540984",
+            "VB_NAME": "Urbanquest Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38006",
+            "MEMBERNAME": "Urbanquest Incorporated",
+            "MEMBEROPERATINGNAME": "Urbanquest",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43366",
+            "Umbrella": "Urbanquest Group of Companies",
+            "Umbrella ID": "12540984",
+            "VB_NAME": "Urbanquest Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43366",
+            "MEMBERNAME": "Urbanquest Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43366",
+            "Umbrella": "Urbanquest Group of Companies",
+            "Umbrella ID": "12540984",
+            "VB_NAME": "Urbanquest Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60373",
+            "MEMBERNAME": "2816315 Ontario Limited",
+            "MEMBEROPERATINGNAME": "2816315 Ontario Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43366",
+            "Umbrella": "Urbanquest Group of Companies",
+            "Umbrella ID": "12540984",
+            "VB_NAME": "Urbanquest Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45435",
+            "MEMBERNAME": "2301885 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2301885 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "456 Shaw",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "456 Shaw St.",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,169 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47008",
+            "Umbrella": "Block Developments",
+            "Umbrella ID": "500001049",
+            "VB_NAME": "Brock Seaforth Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2018-08-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-06 20:43:29.000 +0000",
+            "Expiry Date": "2024-08-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "79 Wingold Avenue",
+            "TELEPHONE": "416-638-4000",
+            "FAX": "416-638-4005",
+            "WEBSITEURL": "www.blockdev.com",
+            "EMAIL": "info@blockdev.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 83,
+            "SUMM_TOTAL": 83,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12403514",
+            "TO": "Shlomo Marder",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12403514",
+            "TO": "Shlomo Marder",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "310897",
+            "TO": "Barry Fenton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-7424"
+        },
+        {
+            "TOUNIQUENUMBER": "310897",
+            "TO": "Barry Fenton",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-635-7424"
+        },
+        {
+            "TOUNIQUENUMBER": "100462913",
+            "TO": "Aaron Marder",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-4000"
+        },
+        {
+            "TOUNIQUENUMBER": "100462913",
+            "TO": "Aaron Marder",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-4000"
+        },
+        {
+            "TOUNIQUENUMBER": "100462914",
+            "TO": "Ryan Fenton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-4000"
+        },
+        {
+            "TOUNIQUENUMBER": "100462914",
+            "TO": "Ryan Fenton",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-4000"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47008",
+            "Umbrella": "Block Developments",
+            "Umbrella ID": "500001049",
+            "VB_NAME": "Brock Seaforth Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60552",
+            "MEMBERNAME": "406-410 Keele Developments Limited",
+            "MEMBEROPERATINGNAME": "406-410 Keele Developments Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47008",
+            "Umbrella": "Block Developments",
+            "Umbrella ID": "500001049",
+            "VB_NAME": "Brock Seaforth Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62412",
+            "MEMBERNAME": "Block (Greenbriar) Developments Limited",
+            "MEMBEROPERATINGNAME": "Block (Greenbriar) Developments Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47008",
+            "Umbrella": "Block Developments",
+            "Umbrella ID": "500001049",
+            "VB_NAME": "Brock Seaforth Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47008",
+            "MEMBERNAME": "Brock Seaforth Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47008",
+            "Umbrella": "Block Developments",
+            "Umbrella ID": "500001049",
+            "VB_NAME": "Brock Seaforth Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60620",
+            "MEMBERNAME": "Block (Vaughan Road) Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47008",
+            "Umbrella": "Block Developments",
+            "Umbrella ID": "500001049",
+            "VB_NAME": "Brock Seaforth Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62411",
+            "MEMBERNAME": "Block (Keele Eglinton) Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "57 Brock",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 57-67 Brock St. ",
+            "# of Units": 103,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

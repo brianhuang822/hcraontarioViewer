@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44521",
+            "Umbrella": "Mattu Building Specialists",
+            "Umbrella ID": "12543202",
+            "VB_NAME": "2358524 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2015-06-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-06-25 13:02:12.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "39 Churchill Ave.",
+            "TELEPHONE": "647/273-4847",
+            "FAX": "647/351-4886",
+            "WEBSITEURL": " ",
+            "EMAIL": "matt@mattu.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100170630",
+            "TO": "Tammy Sullivan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-392-1465"
+        },
+        {
+            "TOUNIQUENUMBER": "100167989",
+            "TO": "Matthew Creelman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-273-4847"
+        },
+        {
+            "TOUNIQUENUMBER": "100167989",
+            "TO": "Matthew Creelman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-273-4847"
+        },
+        {
+            "TOUNIQUENUMBER": "100167989",
+            "TO": "Matthew Creelman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-273-4847"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44521",
+            "Umbrella": "Mattu Building Specialists",
+            "Umbrella ID": "12543202",
+            "VB_NAME": "2358524 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44521",
+            "MEMBERNAME": "2358524 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44521",
+            "Umbrella": "Mattu Building Specialists",
+            "Umbrella ID": "12543202",
+            "VB_NAME": "2358524 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42849",
+            "MEMBERNAME": "Mattu Building Specialists Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

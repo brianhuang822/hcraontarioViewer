@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60312",
+            "Umbrella": "Wyoming Developments",
+            "Umbrella ID": "500000486",
+            "VB_NAME": "Wyoming Developments Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "LaSalle",
+            "HCRA_INITIALLICENSEDATE": "2021-06-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-23 18:18:58.000 +0000",
+            "Expiry Date": "2024-07-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1825 Wyoming Avenue",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "admin@timberlandhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 20,
+            "SUMM_TOTAL": 20,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600007465",
+            "TO": "Giuseppe Lepera",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "joe@jjlepera.com"
+        },
+        {
+            "TOUNIQUENUMBER": "600007465",
+            "TO": "Giuseppe Lepera",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "joe@jjlepera.com"
+        },
+        {
+            "TOUNIQUENUMBER": "600007466",
+            "TO": "Ryan Seguin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "ryan.seguin@homehardware.ca"
+        },
+        {
+            "TOUNIQUENUMBER": "600007466",
+            "TO": "Ryan Seguin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "ryan.seguin@homehardware.ca"
+        },
+        {
+            "TOUNIQUENUMBER": "600006341",
+            "TO": "Piero Aleo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-254-7926"
+        },
+        {
+            "TOUNIQUENUMBER": "600006341",
+            "TO": "Piero Aleo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-254-7926"
+        },
+        {
+            "TOUNIQUENUMBER": "341913",
+            "TO": "Gino Piccioni",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-978-3877"
+        },
+        {
+            "TOUNIQUENUMBER": "341913",
+            "TO": "Gino Piccioni",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-978-3877"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60312",
+            "Umbrella": "Wyoming Developments",
+            "Umbrella ID": "500000486",
+            "VB_NAME": "Wyoming Developments Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25664",
+            "MEMBERNAME": "Timberland General Contractors (Windsor) Inc.",
+            "MEMBEROPERATINGNAME": "Timberland General Contractors (Windsor) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60312",
+            "Umbrella": "Wyoming Developments",
+            "Umbrella ID": "500000486",
+            "VB_NAME": "Wyoming Developments Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60312",
+            "MEMBERNAME": "Wyoming Developments Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "1855 North",
+            "Project Status": null,
+            "Location": "LASALLE",
+            "Address": " 1855 Wyoming Avenue ",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "1855 North",
+            "Project Status": "Completed",
+            "Location": "LASALLE",
+            "Address": " 1855 Wyoming Avenue ",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-10-26"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60237",
+            "Umbrella": "WP Development",
+            "Umbrella ID": "500000319",
+            "VB_NAME": "1005 Dundas Street Inc.",
+            "OPERATINGNAME": "1005 Dundas Street Inc.",
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2021-06-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-06 16:14:24.000 +0000",
+            "Expiry Date": "2024-06-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7181 Woodbine Avenue",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "rtang@wpdevelopment.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100516894",
+            "TO": "Jie Wang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-300-8089"
+        },
+        {
+            "TOUNIQUENUMBER": "100516894",
+            "TO": "Jie Wang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-300-8089"
+        },
+        {
+            "TOUNIQUENUMBER": "100516894",
+            "TO": "Jie Wang",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-300-8089"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60237",
+            "Umbrella": "WP Development",
+            "Umbrella ID": "500000319",
+            "VB_NAME": "1005 Dundas Street Inc.",
+            "OPERATINGNAME": "1005 Dundas Street Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60237",
+            "MEMBERNAME": "1005 Dundas Street Inc.",
+            "MEMBEROPERATINGNAME": "1005 Dundas Street Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60237",
+            "Umbrella": "WP Development",
+            "Umbrella ID": "500000319",
+            "VB_NAME": "1005 Dundas Street Inc.",
+            "OPERATINGNAME": "1005 Dundas Street Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60467",
+            "MEMBERNAME": "WP Developments Inc.",
+            "MEMBEROPERATINGNAME": "WP Development",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Wilmot",
+            "Project Status": "In Progress",
+            "Location": "OAKVILLE",
+            "Address": " 1005 Dundas Street East & 3033 Eighth Line ",
+            "# of Units": 380,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

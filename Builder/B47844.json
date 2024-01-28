@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47844",
+            "Umbrella": "FCH Building Group",
+            "Umbrella ID": "12550718",
+            "VB_NAME": "Forest City Homes & Building (London) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2019-11-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-11-21 14:12:04.000 +0000",
+            "Expiry Date": "2023-11-23",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "46 Penrith Court",
+            "TELEPHONE": "519-318-5917",
+            "FAX": null,
+            "WEBSITEURL": "https://forestcityhomes.ca",
+            "EMAIL": "denis@forestcityhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12407487",
+            "TO": "Denis DiMarcelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-318-5917"
+        },
+        {
+            "TOUNIQUENUMBER": "12407487",
+            "TO": "Denis DiMarcelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-318-5917"
+        },
+        {
+            "TOUNIQUENUMBER": "12407487",
+            "TO": "Denis DiMarcelli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-318-5917"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47844",
+            "Umbrella": "FCH Building Group",
+            "Umbrella ID": "12550718",
+            "VB_NAME": "Forest City Homes & Building (London) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40467",
+            "MEMBERNAME": "Forest City Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B47844",
+            "Umbrella": "FCH Building Group",
+            "Umbrella ID": "12550718",
+            "VB_NAME": "Forest City Homes & Building (London) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47844",
+            "MEMBERNAME": "Forest City Homes & Building (London) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

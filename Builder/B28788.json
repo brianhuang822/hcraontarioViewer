@@ -1,0 +1,147 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28788",
+            "Umbrella": "Allan Fenwick",
+            "Umbrella ID": "12541176",
+            "VB_NAME": "The Bayview Limited",
+            "OPERATINGNAME": "The Bayview",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2000-02-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-08-18 01:35:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "100 - 287 Eglinton Ave.E.",
+            "TELEPHONE": "416-485-5330",
+            "FAX": "416-322-0807",
+            "WEBSITEURL": null,
+            "EMAIL": "sheldon@monterracorp.com",
+            "ACCOUNTNUMBER": "B28788",
+            "Total Outstanding Amount": 284239.23,
+            "TAB": 0,
+            "BREACH": 284239.23,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345488",
+            "TO": "Allan Fenwick",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "341894",
+            "TO": "Morley L. Brown",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-487-4678"
+        },
+        {
+            "TOUNIQUENUMBER": "341894",
+            "TO": "Morley L. Brown",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-487-4678"
+        },
+        {
+            "TOUNIQUENUMBER": "341894",
+            "TO": "Morley L. Brown",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-487-4678"
+        },
+        {
+            "TOUNIQUENUMBER": "345552",
+            "TO": "Sherry G. Firestone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-485-5330"
+        },
+        {
+            "TOUNIQUENUMBER": "345552",
+            "TO": "Sherry G. Firestone",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-485-5330"
+        },
+        {
+            "TOUNIQUENUMBER": "345552",
+            "TO": "Sherry G. Firestone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-485-5330"
+        },
+        {
+            "TOUNIQUENUMBER": "313200",
+            "TO": "Sheldon H. Goodman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-360-3390"
+        },
+        {
+            "TOUNIQUENUMBER": "313200",
+            "TO": "Sheldon H. Goodman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-360-3390"
+        },
+        {
+            "TOUNIQUENUMBER": "313200",
+            "TO": "Sheldon H. Goodman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-360-3390"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28788",
+            "Umbrella": "Allan Fenwick",
+            "Umbrella ID": "12541176",
+            "VB_NAME": "The Bayview Limited",
+            "OPERATINGNAME": "The Bayview",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28788",
+            "MEMBERNAME": "The Bayview Limited",
+            "MEMBEROPERATINGNAME": "The Bayview",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28788",
+            "Umbrella": "Allan Fenwick",
+            "Umbrella ID": "12541176",
+            "VB_NAME": "The Bayview Limited",
+            "OPERATINGNAME": "The Bayview",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40510",
+            "MEMBERNAME": "Fenfam Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE BAYVIEW",
+            "Project Status": "Completed",
+            "Location": "EAST YORK",
+            "Address": " 1801 Bayview Ave ",
+            "# of Units": 83,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-09-12"
+        }
+    ],
+    "builderConditions": []
+}

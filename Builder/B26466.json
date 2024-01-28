@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26466",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Capannelli Construction Limited",
+            "OPERATINGNAME": "The Pinnacle Condominium Residence",
+            "CITY": "WINDSOR",
+            "HCRA_INITIALLICENSEDATE": "1998-06-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-06-12 00:19:46.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4789 Riverside Dr. E., Ste. 1401",
+            "TELEPHONE": "519-945-7358",
+            "FAX": "(519)945-4667",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "305271",
+            "TO": "Pietro Capannelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "305271",
+            "TO": "Pietro Capannelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "305271",
+            "TO": "Pietro Capannelli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "305270",
+            "TO": "Natalina Capannelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "305270",
+            "TO": "Natalina Capannelli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "305270",
+            "TO": "Natalina Capannelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26466",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Capannelli Construction Limited",
+            "OPERATINGNAME": "The Pinnacle Condominium Residence",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "PINNACLE CONDOMINIUM RES.",
+            "Project Status": "Completed",
+            "Location": "WINDSOR",
+            "Address": "4789 Riverside Dr. E.",
+            "# of Units": 104,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-11-02"
+        }
+    ],
+    "builderConditions": []
+}

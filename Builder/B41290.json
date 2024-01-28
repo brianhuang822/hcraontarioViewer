@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41290",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Serena Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "2011-07-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:20:31.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4216 Cawthra Rd.",
+            "TELEPHONE": "905/566-0395",
+            "FAX": "905-566-1805",
+            "WEBSITEURL": "www.serenahomes.ca",
+            "EMAIL": "karim@serenahomes.ca",
+            "ACCOUNTNUMBER": "B41290",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 24,
+            "SUMM_TOTAL": 24,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 10674.07,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 10674.07
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12477276",
+            "TO": "Fatima Ramji",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-271-3173"
+        },
+        {
+            "TOUNIQUENUMBER": "12477276",
+            "TO": "Fatima Ramji",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-271-3173"
+        },
+        {
+            "TOUNIQUENUMBER": "12482040",
+            "TO": "Kurtis Vankeulen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-566-0395"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41290",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Serena Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Villa One",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "3071,3077& Cawthra Rd.",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-04-17"
+        }
+    ],
+    "builderConditions": []
+}

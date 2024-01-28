@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24314",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Miraletto Holdings Limited",
+            "OPERATINGNAME": null,
+            "CITY": "BURLINGTON",
+            "HCRA_INITIALLICENSEDATE": "1994-09-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1999-09-11 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1550 Yorkton Crt., Unit 18",
+            "TELEPHONE": "905-637-1777",
+            "FAX": "905-637-1790",
+            "WEBSITEURL": "www.dawnvictoria.com",
+            "EMAIL": "don@dawnvictoriahomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "315920",
+            "TO": "Frank Husack",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-385-5387"
+        },
+        {
+            "TOUNIQUENUMBER": "315920",
+            "TO": "Frank Husack",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-385-5387"
+        },
+        {
+            "TOUNIQUENUMBER": "336308",
+            "TO": "Thomas Weisz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-528-8956"
+        },
+        {
+            "TOUNIQUENUMBER": "336308",
+            "TO": "Thomas Weisz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-528-8956"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24314",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Miraletto Holdings Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11490",
+            "MEMBERNAME": "Basingstoke Enterprises Limited",
+            "MEMBEROPERATINGNAME": "Basingstoke Enterprises Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B24314",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Miraletto Holdings Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24881",
+            "MEMBERNAME": "Dawn Victoria Homes (Brantford) Limited",
+            "MEMBEROPERATINGNAME": "Dawn Victoria Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B24314",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Miraletto Holdings Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43568",
+            "MEMBERNAME": "Dawn Victoria Homes (Oakville) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B24314",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Miraletto Holdings Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24314",
+            "MEMBERNAME": "Miraletto Holdings Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WOODVIEW CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "STONEY CREEK",
+            "Address": "590-610 Hwy. #8",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-11-06"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33015",
+            "Umbrella": "Boyes Homes",
+            "Umbrella ID": "12540495",
+            "VB_NAME": "Boyes Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "BRACEBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2003-03-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-03-28 13:30:57.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "68 Sander Dr",
+            "TELEPHONE": "(705) 646-2015",
+            "FAX": "(705) 645-9263",
+            "WEBSITEURL": null,
+            "EMAIL": "dboyes@muskoka.com",
+            "ACCOUNTNUMBER": "B33015",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11729233",
+            "TO": "Linette Boyes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-646-2015"
+        },
+        {
+            "TOUNIQUENUMBER": "11722727",
+            "TO": "David Boyes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-644-7066"
+        },
+        {
+            "TOUNIQUENUMBER": "11722727",
+            "TO": "David Boyes",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-644-7066"
+        },
+        {
+            "TOUNIQUENUMBER": "11722727",
+            "TO": "David Boyes",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-644-7066"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33015",
+            "Umbrella": "Boyes Homes",
+            "Umbrella ID": "12540495",
+            "VB_NAME": "Boyes Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31722",
+            "MEMBERNAME": "David Boyes",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33015",
+            "Umbrella": "Boyes Homes",
+            "Umbrella ID": "12540495",
+            "VB_NAME": "Boyes Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33015",
+            "MEMBERNAME": "Boyes Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

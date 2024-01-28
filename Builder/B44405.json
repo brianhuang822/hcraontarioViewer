@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44405",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2317140 Ontario Inc.",
+            "OPERATINGNAME": "JL Builders",
+            "CITY": "Sault Ste Marie",
+            "HCRA_INITIALLICENSEDATE": "2015-05-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-08 16:26:22.000 +0000",
+            "Expiry Date": "2024-05-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "29 Wellington Street East",
+            "TELEPHONE": "705-575-3314",
+            "FAX": "705-575-4420",
+            "WEBSITEURL": "www.jlbuilders.ca",
+            "EMAIL": "luke@jlbuilders.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 9,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 9,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "301980",
+            "TO": "Bruno Barban",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-575-3314"
+        },
+        {
+            "TOUNIQUENUMBER": "100298678",
+            "TO": "John Barban",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-575-3314"
+        },
+        {
+            "TOUNIQUENUMBER": "100298678",
+            "TO": "John Barban",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-575-3314"
+        },
+        {
+            "TOUNIQUENUMBER": "100298678",
+            "TO": "John Barban",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-575-3314"
+        },
+        {
+            "TOUNIQUENUMBER": "100296461",
+            "TO": "Luke Barban",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-575-3314"
+        },
+        {
+            "TOUNIQUENUMBER": "100296461",
+            "TO": "Luke Barban",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-575-3314"
+        },
+        {
+            "TOUNIQUENUMBER": "100296461",
+            "TO": "Luke Barban",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-575-3314"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44405",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2317140 Ontario Inc.",
+            "OPERATINGNAME": "JL Builders",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

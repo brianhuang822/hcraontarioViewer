@@ -1,0 +1,68 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42102",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1853875 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LINDSAY",
+            "HCRA_INITIALLICENSEDATE": "2012-06-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-06-20 12:00:10.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "51 Cambridge St. N.",
+            "TELEPHONE": "705/879-2294",
+            "FAX": "705/878-4225",
+            "WEBSITEURL": " ",
+            "EMAIL": "r.lepage@bellnet.ca",
+            "ACCOUNTNUMBER": "B42102",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 11375.18,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 11375.18
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336596",
+            "TO": "John McMillan Whyte",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-878-3737"
+        },
+        {
+            "TOUNIQUENUMBER": "336596",
+            "TO": "John McMillan Whyte",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-878-3737"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42102",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1853875 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

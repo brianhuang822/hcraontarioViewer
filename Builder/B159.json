@@ -1,0 +1,68 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B159",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Legault Builders Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Orleans",
+            "HCRA_INITIALLICENSEDATE": "1977-06-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-08 17:38:06.000 +0000",
+            "Expiry Date": "2024-07-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1480 Belcourt Boulevard",
+            "TELEPHONE": "613-824-0201",
+            "FAX": null,
+            "WEBSITEURL": "www.legaultbuilders.ca",
+            "EMAIL": "luc@legaultbuilders.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 15,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 15,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "319420",
+            "TO": "Luc Legault",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-824-0201"
+        },
+        {
+            "TOUNIQUENUMBER": "319420",
+            "TO": "Luc Legault",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-824-0201"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B159",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Legault Builders Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,157 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60628",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "699 Sheppard East Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-09-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-15 16:24:50.000 +0000",
+            "Expiry Date": "2024-09-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1500 Don Mills Road",
+            "TELEPHONE": "416-849-2894",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12521215",
+            "TO": "Andrew Lepper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-648-8089"
+        },
+        {
+            "TOUNIQUENUMBER": "12521215",
+            "TO": "Andrew Lepper",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-648-8089"
+        },
+        {
+            "TOUNIQUENUMBER": "100299644",
+            "TO": "Jeffrey Kimel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-996-0836"
+        },
+        {
+            "TOUNIQUENUMBER": "100299644",
+            "TO": "Jeffrey Kimel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-996-0836"
+        },
+        {
+            "TOUNIQUENUMBER": "12502231",
+            "TO": "Darryl Firsten",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-880-7310"
+        },
+        {
+            "TOUNIQUENUMBER": "12502231",
+            "TO": "Darryl Firsten",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-880-7310"
+        },
+        {
+            "TOUNIQUENUMBER": "100492793",
+            "TO": "Adam Sheffer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-222-3116"
+        },
+        {
+            "TOUNIQUENUMBER": "100492793",
+            "TO": "Adam Sheffer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-222-3116"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60628",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "699 Sheppard East Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62620",
+            "MEMBERNAME": "Yonge and Rosehill Inc.",
+            "MEMBEROPERATINGNAME": "Yonge and Rosehill Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60628",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "699 Sheppard East Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60628",
+            "MEMBERNAME": "699 Sheppard East Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60628",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "699 Sheppard East Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46878",
+            "MEMBERNAME": "Originate Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60628",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "699 Sheppard East Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61585",
+            "MEMBERNAME": "Originate (Bathurst & Richmond) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Six99 Condos",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 699 Sheppard Ave. East ",
+            "# of Units": 174,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

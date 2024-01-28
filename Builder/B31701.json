@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31701",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Habitat For Humanity Halton/Mississauga",
+            "OPERATINGNAME": null,
+            "CITY": "BURLINGTON",
+            "HCRA_INITIALLICENSEDATE": "2001-07-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-07-04 12:01:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1800 Appleby Line, Unit 10",
+            "TELEPHONE": "905/637-4446",
+            "FAX": "(905)637-1540",
+            "WEBSITEURL": "www.habitathm.ca",
+            "EMAIL": "rbroad@habitathm.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100127090",
+            "TO": "John Gerrard",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-637-4446"
+        },
+        {
+            "TOUNIQUENUMBER": "12022192",
+            "TO": "Joanne Martin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-637-4446"
+        },
+        {
+            "TOUNIQUENUMBER": "11720530",
+            "TO": "Brian Charles Duncombe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-632-2773"
+        },
+        {
+            "TOUNIQUENUMBER": "11720532",
+            "TO": "Susan Mary Goetz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-639-0056"
+        },
+        {
+            "TOUNIQUENUMBER": "100246874",
+            "TO": "Hugh Hyndman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-637-4446"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31701",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Habitat For Humanity Halton/Mississauga",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": null,
+            "Location": "BURLINGTON",
+            "Address": "1329 Plains Road",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

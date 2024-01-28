@@ -1,0 +1,102 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32389",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Habitat for Humanity - NCR",
+            "OPERATINGNAME": "Habitat for Humanity",
+            "CITY": "Stittsville",
+            "HCRA_INITIALLICENSEDATE": "2002-04-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-26 16:02:47.000 +0000",
+            "Expiry Date": "2024-04-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3 Iber Road",
+            "TELEPHONE": "613-749-9950",
+            "FAX": "613-749-8991",
+            "WEBSITEURL": "www.habitatgo.com",
+            "EMAIL": "admin@habitatgo.com",
+            "ACCOUNTNUMBER": "B32389",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 13,
+            "SUMM_CONDO": 16,
+            "SUMM_TOTAL": 29,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008642",
+            "TO": "J. Scott Stevenson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32389",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Habitat for Humanity - NCR",
+            "OPERATINGNAME": "Habitat for Humanity",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Jeanne D'Arc",
+            "Project Status": null,
+            "Location": "ORLEANS",
+            "Address": "29,31,33,3 Leacross Private",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "6208 Jeanne D'arc",
+            "Project Status": null,
+            "Location": "ORLEANS",
+            "Address": "21,23,25,2 Leacross Private",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Leacross Landing",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 6208 Jeanne D'Arc Blvd. ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-08-08"
+        },
+        {
+            "Condo Project Name": "Kemptville",
+            "Project Status": "In Progress",
+            "Location": "KEMPTVILLE",
+            "Address": " 2680 Concession Road ",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

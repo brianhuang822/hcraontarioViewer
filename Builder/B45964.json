@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45964",
+            "Umbrella": "Precision Builders - Wingham",
+            "Umbrella ID": "12545948",
+            "VB_NAME": "Precision Builders Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Wingham",
+            "HCRA_INITIALLICENSEDATE": "2017-02-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-29 19:03:01.000 +0000",
+            "Expiry Date": "2024-02-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "40069 Howick Turnberry Road",
+            "TELEPHONE": "519-496-7013",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "jonathan@precisionbuilders.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 20,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 20,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100416474",
+            "TO": "Sarah Marie Eelman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "eelmanjs@gmail.com"
+        },
+        {
+            "TOUNIQUENUMBER": "100349044",
+            "TO": "Jonathan Eelman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-496-7013"
+        },
+        {
+            "TOUNIQUENUMBER": "100349044",
+            "TO": "Jonathan Eelman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-496-7013"
+        },
+        {
+            "TOUNIQUENUMBER": "100349044",
+            "TO": "Jonathan Eelman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-496-7013"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45964",
+            "Umbrella": "Precision Builders - Wingham",
+            "Umbrella ID": "12545948",
+            "VB_NAME": "Precision Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45964",
+            "MEMBERNAME": "Precision Builders Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45964",
+            "Umbrella": "Precision Builders - Wingham",
+            "Umbrella ID": "12545948",
+            "VB_NAME": "Precision Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45108",
+            "MEMBERNAME": "Jonathan Eelman",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

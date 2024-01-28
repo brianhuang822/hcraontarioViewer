@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36166",
+            "Umbrella": "RMP Construction & Development",
+            "Umbrella ID": "12546026",
+            "VB_NAME": "R.M.P. Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "PRESCOTT",
+            "HCRA_INITIALLICENSEDATE": "2006-02-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-03-01 16:00:43.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Box 2240",
+            "TELEPHONE": "613-802-2117",
+            "FAX": "613-925-4082",
+            "WEBSITEURL": null,
+            "EMAIL": "rpelda@ripnet.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12116361",
+            "TO": "Teresa Pelda",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-802-2117"
+        },
+        {
+            "TOUNIQUENUMBER": "12116360",
+            "TO": "Robert Pelda",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-802-2117"
+        },
+        {
+            "TOUNIQUENUMBER": "12116360",
+            "TO": "Robert Pelda",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-802-2117"
+        },
+        {
+            "TOUNIQUENUMBER": "12116360",
+            "TO": "Robert Pelda",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-802-2117"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36166",
+            "Umbrella": "RMP Construction & Development",
+            "Umbrella ID": "12546026",
+            "VB_NAME": "R.M.P. Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45842",
+            "MEMBERNAME": "Island Harbour Club Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36166",
+            "Umbrella": "RMP Construction & Development",
+            "Umbrella ID": "12546026",
+            "VB_NAME": "R.M.P. Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36166",
+            "MEMBERNAME": "R.M.P. Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36166",
+            "Umbrella": "RMP Construction & Development",
+            "Umbrella ID": "12546026",
+            "VB_NAME": "R.M.P. Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46231",
+            "MEMBERNAME": "Cotton Mill Cornwall Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B36166",
+            "Umbrella": "RMP Construction & Development",
+            "Umbrella ID": "12546026",
+            "VB_NAME": "R.M.P. Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45843",
+            "MEMBERNAME": "RMP Construction & Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Mariners Club",
+            "Project Status": "Completed",
+            "Location": "PRESCOTT",
+            "Address": "175 Water St.",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-06-22"
+        }
+    ],
+    "builderConditions": []
+}

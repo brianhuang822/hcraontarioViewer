@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61927",
+            "Umbrella": "Wilkinson Group of Companies",
+            "Umbrella ID": "12543436",
+            "VB_NAME": "Wilkinson Broadview Inc.",
+            "OPERATINGNAME": "Wilkinson Broadview Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2023-02-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-18 18:35:46.000 +0000",
+            "Expiry Date": "2025-02-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "37 Polson Street",
+            "TELEPHONE": "416-449-4441",
+            "FAX": null,
+            "WEBSITEURL": "https://www.wilkinsonconstruction.ca/",
+            "EMAIL": "jeff@wilkinsonconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12310509",
+            "TO": "John Wilkinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4441"
+        },
+        {
+            "TOUNIQUENUMBER": "12310509",
+            "TO": "John Wilkinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4441"
+        },
+        {
+            "TOUNIQUENUMBER": "100198945",
+            "TO": "Jeff Wilkinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-4441"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61927",
+            "Umbrella": "Wilkinson Group of Companies",
+            "Umbrella ID": "12543436",
+            "VB_NAME": "Wilkinson Broadview Inc.",
+            "OPERATINGNAME": "Wilkinson Broadview Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44367",
+            "MEMBERNAME": "Wilkinson Construction Services Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61927",
+            "Umbrella": "Wilkinson Group of Companies",
+            "Umbrella ID": "12543436",
+            "VB_NAME": "Wilkinson Broadview Inc.",
+            "OPERATINGNAME": "Wilkinson Broadview Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61927",
+            "MEMBERNAME": "Wilkinson Broadview Inc.",
+            "MEMBEROPERATINGNAME": "Wilkinson Broadview Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61927",
+            "Umbrella": "Wilkinson Group of Companies",
+            "Umbrella ID": "12543436",
+            "VB_NAME": "Wilkinson Broadview Inc.",
+            "OPERATINGNAME": "Wilkinson Broadview Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39122",
+            "MEMBERNAME": "Wilkinson Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61927",
+            "Umbrella": "Wilkinson Group of Companies",
+            "Umbrella ID": "12543436",
+            "VB_NAME": "Wilkinson Broadview Inc.",
+            "OPERATINGNAME": "Wilkinson Broadview Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61715",
+            "MEMBERNAME": "Wilkinson Manderley Inc.",
+            "MEMBEROPERATINGNAME": "Wilkinson Manderley Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21465",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Mytko Development Corp.",
+            "OPERATINGNAME": "Mytko Gardens",
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "1991-08-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1993-08-11 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "350 Hwy #7, E., Ste. 301",
+            "TELEPHONE": "(416)593-6789",
+            "FAX": "(416)593-6613",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338691",
+            "TO": "Rebecca Tsieh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-593-6789"
+        },
+        {
+            "TOUNIQUENUMBER": "338691",
+            "TO": "Rebecca Tsieh",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-593-6789"
+        },
+        {
+            "TOUNIQUENUMBER": "338691",
+            "TO": "Rebecca Tsieh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-593-6789"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21465",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Mytko Development Corp.",
+            "OPERATINGNAME": "Mytko Gardens",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "MYTKO GARDENS",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "3500 Brimley Rd.",
+            "# of Units": 37,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-02-18"
+        }
+    ],
+    "builderConditions": []
+}

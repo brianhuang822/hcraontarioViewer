@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41847",
+            "Umbrella": "Chelten",
+            "Umbrella ID": "12543969",
+            "VB_NAME": "Chelten Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Waterdown",
+            "HCRA_INITIALLICENSEDATE": "2012-05-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-25 16:56:37.000 +0000",
+            "Expiry Date": "2024-05-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "296 Dundas Street East",
+            "TELEPHONE": "905-689-2218",
+            "FAX": "905-689-0036",
+            "WEBSITEURL": null,
+            "EMAIL": "marcel@cheltenhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 1,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12522380",
+            "TO": "Marcel Leclerc",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-2218"
+        },
+        {
+            "TOUNIQUENUMBER": "12522380",
+            "TO": "Marcel Leclerc",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-2218"
+        },
+        {
+            "TOUNIQUENUMBER": "12522380",
+            "TO": "Marcel Leclerc",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-2218"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41847",
+            "Umbrella": "Chelten",
+            "Umbrella ID": "12543969",
+            "VB_NAME": "Chelten Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41847",
+            "MEMBERNAME": "Chelten Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41847",
+            "Umbrella": "Chelten",
+            "Umbrella ID": "12543969",
+            "VB_NAME": "Chelten Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44835",
+            "MEMBERNAME": "Chelten Developments 2012 Inc.",
+            "MEMBEROPERATINGNAME": "Chelten Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "St. Thomas Mews",
+            "Project Status": "Completed",
+            "Location": "WATERDOWN",
+            "Address": "40 & 44 Flamboro St.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-03-25"
+        }
+    ],
+    "builderConditions": []
+}

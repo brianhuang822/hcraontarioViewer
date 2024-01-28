@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B10300",
+            "Umbrella": "Johnson Construction",
+            "Umbrella ID": "12540446",
+            "VB_NAME": "Huronia Realty Limited",
+            "OPERATINGNAME": null,
+            "CITY": "COLDWATER",
+            "HCRA_INITIALLICENSEDATE": "1984-12-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-12-21 13:34:35.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3517 Line 13 N, R.R 2",
+            "TELEPHONE": "(705)326-2235",
+            "FAX": "(705)326-2235",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "316718",
+            "TO": "Bernice R. Johnson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-326-2235"
+        },
+        {
+            "TOUNIQUENUMBER": "316718",
+            "TO": "Bernice R. Johnson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-326-2235"
+        },
+        {
+            "TOUNIQUENUMBER": "316718",
+            "TO": "Bernice R. Johnson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-326-2235"
+        },
+        {
+            "TOUNIQUENUMBER": "316736",
+            "TO": "John N. Johnson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-326-2235"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B10300",
+            "Umbrella": "Johnson Construction",
+            "Umbrella ID": "12540446",
+            "VB_NAME": "Huronia Realty Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B10300",
+            "MEMBERNAME": "Huronia Realty Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B10300",
+            "Umbrella": "Johnson Construction",
+            "Umbrella ID": "12540446",
+            "VB_NAME": "Huronia Realty Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B9668",
+            "MEMBERNAME": "John N. Johnson Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

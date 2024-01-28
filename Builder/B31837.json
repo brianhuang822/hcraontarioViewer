@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31837",
+            "Umbrella": "Major Contrcting",
+            "Umbrella ID": "12540106",
+            "VB_NAME": "Major Contracting (Algoma) Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Sault Ste Marie",
+            "HCRA_INITIALLICENSEDATE": "2001-10-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-03-29 13:24:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "467 MacDonald Avenue",
+            "TELEPHONE": "705-759-8973",
+            "FAX": "705-759-3407",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342361",
+            "TO": "Assunta Ruscio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-949-5741"
+        },
+        {
+            "TOUNIQUENUMBER": "342362",
+            "TO": "Barbara Ruscio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "342360",
+            "TO": "Antonio Ruscio",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705- 257-1602"
+        },
+        {
+            "TOUNIQUENUMBER": "342360",
+            "TO": "Antonio Ruscio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705- 257-1602"
+        },
+        {
+            "TOUNIQUENUMBER": "342363",
+            "TO": "Dominic Ruscio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31837",
+            "Umbrella": "Major Contrcting",
+            "Umbrella ID": "12540106",
+            "VB_NAME": "Major Contracting (Algoma) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26029",
+            "MEMBERNAME": "Major Contracting (Algoma) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31837",
+            "Umbrella": "Major Contrcting",
+            "Umbrella ID": "12540106",
+            "VB_NAME": "Major Contracting (Algoma) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31837",
+            "MEMBERNAME": "Major Contracting (Algoma) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

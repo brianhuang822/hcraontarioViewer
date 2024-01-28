@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31992",
+            "Umbrella": "Paul Kraemer Quality Construction",
+            "Umbrella ID": "12540457",
+            "VB_NAME": "747925 Ontario Limited",
+            "OPERATINGNAME": "Paul Kraemer Quality Construction",
+            "CITY": "Fergus",
+            "HCRA_INITIALLICENSEDATE": "2002-04-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-22 05:53:10.000 +0000",
+            "Expiry Date": "2024-04-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "260 Forfar Street East",
+            "TELEPHONE": "519-766-6615",
+            "FAX": "519-843-1619",
+            "WEBSITEURL": " ",
+            "EMAIL": "kraemer_const@yahoo.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "318157",
+            "TO": "Paul Kraemer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-843-1680"
+        },
+        {
+            "TOUNIQUENUMBER": "318157",
+            "TO": "Paul Kraemer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-843-1680"
+        },
+        {
+            "TOUNIQUENUMBER": "318157",
+            "TO": "Paul Kraemer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-843-1680"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31992",
+            "Umbrella": "Paul Kraemer Quality Construction",
+            "Umbrella ID": "12540457",
+            "VB_NAME": "747925 Ontario Limited",
+            "OPERATINGNAME": "Paul Kraemer Quality Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27877",
+            "MEMBERNAME": "Paul Kraemer",
+            "MEMBEROPERATINGNAME": "Paul Kraemer Quality Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31992",
+            "Umbrella": "Paul Kraemer Quality Construction",
+            "Umbrella ID": "12540457",
+            "VB_NAME": "747925 Ontario Limited",
+            "OPERATINGNAME": "Paul Kraemer Quality Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31992",
+            "MEMBERNAME": "747925 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Paul Kraemer Quality Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44335",
+            "Umbrella": "Holland Homes Hampton",
+            "Umbrella ID": "12542834",
+            "VB_NAME": "Holland Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Oshawa",
+            "HCRA_INITIALLICENSEDATE": "2015-04-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-12 14:36:52.000 +0000",
+            "Expiry Date": "2024-04-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "20 Elgin Street East",
+            "TELEPHONE": "905-419-2723",
+            "FAX": "905-419-3302",
+            "WEBSITEURL": "https://holland-homes.ca/",
+            "EMAIL": "ryan@holland-homes.ca",
+            "ACCOUNTNUMBER": "B44335",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 75,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 75,
+            "SUMM_CC": 5,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 57803.1,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 57803.1
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11813825",
+            "TO": "Ryan K. Holland",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-419-2723"
+        },
+        {
+            "TOUNIQUENUMBER": "11813825",
+            "TO": "Ryan K. Holland",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-419-2723"
+        },
+        {
+            "TOUNIQUENUMBER": "11813825",
+            "TO": "Ryan K. Holland",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-419-2723"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44335",
+            "Umbrella": "Holland Homes Hampton",
+            "Umbrella ID": "12542834",
+            "VB_NAME": "Holland Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32665",
+            "MEMBERNAME": "Seattle Group Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44335",
+            "Umbrella": "Holland Homes Hampton",
+            "Umbrella ID": "12542834",
+            "VB_NAME": "Holland Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44335",
+            "MEMBERNAME": "Holland Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Liberty Street",
+            "Project Status": null,
+            "Location": "BOWMANVILLE",
+            "Address": "35 Hanning Court",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

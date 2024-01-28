@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43995",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Reman Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "STRATHROY",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2016-03-15 18:44:02.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "28313 Centre Rd.",
+            "TELEPHONE": "519/246-1049",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "rolandkroh@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "318233",
+            "TO": "Roland Kroh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-245-4166"
+        },
+        {
+            "TOUNIQUENUMBER": "318233",
+            "TO": "Roland Kroh",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-245-4166"
+        },
+        {
+            "TOUNIQUENUMBER": "318233",
+            "TO": "Roland Kroh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-245-4166"
+        },
+        {
+            "TOUNIQUENUMBER": "100255133",
+            "TO": "Kathleen Anderson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-0139"
+        },
+        {
+            "TOUNIQUENUMBER": "100255133",
+            "TO": "Kathleen Anderson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-0139"
+        },
+        {
+            "TOUNIQUENUMBER": "100255133",
+            "TO": "Kathleen Anderson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-495-0139"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43995",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Reman Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Strathmill",
+            "Project Status": null,
+            "Location": "STRATHROY",
+            "Address": "369 Metcalfe St.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

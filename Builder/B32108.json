@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32108",
+            "Umbrella": "Country Homes Construction",
+            "Umbrella ID": "12539939",
+            "VB_NAME": "John Vandewint",
+            "OPERATINGNAME": "Country Homes Construction",
+            "CITY": "METCALFE",
+            "HCRA_INITIALLICENSEDATE": "2002-02-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-02-23 13:00:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8320 Walker Rd. Box. 359",
+            "TELEPHONE": "613-298-6269",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "COUNTRYHOMES@LIVE.CA",
+            "ACCOUNTNUMBER": "B32108",
+            "Total Outstanding Amount": 0.01,
+            "TAB": 0.01,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341837",
+            "TO": "John Vandewint",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-298-6269"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32108",
+            "Umbrella": "Country Homes Construction",
+            "Umbrella ID": "12539939",
+            "VB_NAME": "John Vandewint",
+            "OPERATINGNAME": "Country Homes Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25605",
+            "MEMBERNAME": "Cedar Creek Construction",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32108",
+            "Umbrella": "Country Homes Construction",
+            "Umbrella ID": "12539939",
+            "VB_NAME": "John Vandewint",
+            "OPERATINGNAME": "Country Homes Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32108",
+            "MEMBERNAME": "John Vandewint",
+            "MEMBEROPERATINGNAME": "Country Homes Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

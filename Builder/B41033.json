@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41033",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1493201 Ontario Limited",
+            "OPERATINGNAME": "Royal-Queen Developments",
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "2011-04-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-04-09 12:00:56.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "208 Oxford St.",
+            "TELEPHONE": null,
+            "FAX": "905-770-7851",
+            "WEBSITEURL": " ",
+            "EMAIL": "colangelo780@rogers.com",
+            "ACCOUNTNUMBER": "B41033",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 68,
+            "SUMM_TOTAL": 68,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345469",
+            "TO": "Alex Ber",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-728-6220"
+        },
+        {
+            "TOUNIQUENUMBER": "345469",
+            "TO": "Alex Ber",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-728-6220"
+        },
+        {
+            "TOUNIQUENUMBER": "310730",
+            "TO": "Mike (Michele) Colangelo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-417-5757"
+        },
+        {
+            "TOUNIQUENUMBER": "310730",
+            "TO": "Mike (Michele) Colangelo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-417-5757"
+        },
+        {
+            "TOUNIQUENUMBER": "343988",
+            "TO": "Boris Shteiman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-346-7972"
+        },
+        {
+            "TOUNIQUENUMBER": "343988",
+            "TO": "Boris Shteiman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-346-7972"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41033",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1493201 Ontario Limited",
+            "OPERATINGNAME": "Royal-Queen Developments",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Q Lofts",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1205 Queen St. W.",
+            "# of Units": 70,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-06-01"
+        }
+    ],
+    "builderConditions": []
+}

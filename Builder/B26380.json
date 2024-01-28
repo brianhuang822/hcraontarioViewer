@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26380",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Carrera Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "VAUGHAN",
+            "HCRA_INITIALLICENSEDATE": "1997-05-26",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2002-01-04 04:33:03.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "30 Pennsylvania Ave., Unit 2",
+            "TELEPHONE": "(905)775-9609",
+            "FAX": "(905)760-9601",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342923",
+            "TO": "Anne Zonni",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "342924",
+            "TO": "Giuseppe (Joe) Laronga",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "342922",
+            "TO": "Carmelo Scivoletto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "342921",
+            "TO": "Claudia Scivoletto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "330345",
+            "TO": "Jack Scivoletto",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "330345",
+            "TO": "Jack Scivoletto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "330345",
+            "TO": "Jack Scivoletto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-597-0200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26380",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Carrera Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "PARKLANE MEWS",
+            "Project Status": "Completed",
+            "Location": "PICKERING",
+            "Address": "Steeple Hill",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-10-18"
+        },
+        {
+            "Condo Project Name": "BOCA SQUARE",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "43 Agnes St./Cook St.",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-01-11"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,136 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34692",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1587355 Ontario Inc.",
+            "OPERATINGNAME": "Barry Miscio Contracting",
+            "CITY": "Minden",
+            "HCRA_INITIALLICENSEDATE": "2004-09-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-20 15:21:34.000 +0000",
+            "Expiry Date": "2024-09-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1386 Tulip Road",
+            "TELEPHONE": "705-754-4603",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12014596",
+            "TO": "Paula Eveleen Miscio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-754-4603"
+        },
+        {
+            "TOUNIQUENUMBER": "12014596",
+            "TO": "Paula Eveleen Miscio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-754-4603"
+        },
+        {
+            "TOUNIQUENUMBER": "12014596",
+            "TO": "Paula Eveleen Miscio",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-754-4603"
+        },
+        {
+            "TOUNIQUENUMBER": "12014595",
+            "TO": "Barry Ronald Miscio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-754-4603"
+        },
+        {
+            "TOUNIQUENUMBER": "12014595",
+            "TO": "Barry Ronald Miscio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-754-4603"
+        },
+        {
+            "TOUNIQUENUMBER": "12014595",
+            "TO": "Barry Ronald Miscio",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-754-4603"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA105556",
+            "CHARGE_AGAINST": "1587355 Ontario Inc.",
+            "CHARGE_DATE": "2009-05-05",
+            "DISPOSITION_DATE": "2009-09-03",
+            "THE_FINE_": "2500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "625",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9324420",
+            "ORGANIZATION_NAME": "1587355 Ontario Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Carnarvon, ON",
+            "CITY_DEFENCE": "Haliburton, ON",
+            "VB_NUMBER": "B34692",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA105556 9324420",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Algonquin Highlands, Township                     ",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2007-10-10",
+            "TO_OFFENCE_DATE": "2009-03-02",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "3125",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "02:47.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B34692",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1587355 Ontario Inc.",
+            "OPERATINGNAME": "Barry Miscio Contracting",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

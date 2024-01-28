@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47539",
+            "Umbrella": "Maize Homes",
+            "Umbrella ID": "12549926",
+            "VB_NAME": "Maize Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Kingston",
+            "HCRA_INITIALLICENSEDATE": "2019-04-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2022-12-05 23:50:14.000 +0000",
+            "Expiry Date": "2023-04-13",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "2589 Highway 38",
+            "TELEPHONE": "613-539-3783",
+            "FAX": null,
+            "WEBSITEURL": "www.maizehomes.ca",
+            "EMAIL": "jason@maizehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 12,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 12,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12503791",
+            "TO": "Jason Maize",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-539-3783"
+        },
+        {
+            "TOUNIQUENUMBER": "12503791",
+            "TO": "Jason Maize",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-539-3783"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47539",
+            "Umbrella": "Maize Homes",
+            "Umbrella ID": "12549926",
+            "VB_NAME": "Maize Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47539",
+            "MEMBERNAME": "Maize Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47539",
+            "Umbrella": "Maize Homes",
+            "Umbrella ID": "12549926",
+            "VB_NAME": "Maize Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41633",
+            "MEMBERNAME": "Jason Michael Maize",
+            "MEMBEROPERATINGNAME": "Maize Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

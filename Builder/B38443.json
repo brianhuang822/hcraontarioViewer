@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38443",
+            "Umbrella": "Wegg Homes",
+            "Umbrella ID": "12274556",
+            "VB_NAME": "1587265 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "LINDSAY",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2009-02-04 22:19:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "170 McLaughlin Road",
+            "TELEPHONE": "705-340-5428",
+            "FAX": "705-340-5422",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "326302",
+            "TO": "Dan Wegg",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-340-5428"
+        },
+        {
+            "TOUNIQUENUMBER": "326302",
+            "TO": "Dan Wegg",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-340-5428"
+        },
+        {
+            "TOUNIQUENUMBER": "326302",
+            "TO": "Dan Wegg",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-340-5428"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38443",
+            "Umbrella": "Wegg Homes",
+            "Umbrella ID": "12274556",
+            "VB_NAME": "1587265 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B38443",
+            "MEMBERNAME": "1587265 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B38443",
+            "Umbrella": "Wegg Homes",
+            "Umbrella ID": "12274556",
+            "VB_NAME": "1587265 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B27670",
+            "MEMBERNAME": "Dan Wegg",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B38443",
+            "Umbrella": "Wegg Homes",
+            "Umbrella ID": "12274556",
+            "VB_NAME": "1587265 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B31598",
+            "MEMBERNAME": "Daniel James Wegg",
+            "MEMBEROPERATINGNAME": "Wegg Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,71 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "McKirdy Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "P.O. Box 433,",
+            "TELEPHONE": "(905)373-9336",
+            "FAX": "(905)373-9481",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "McKirdy Homes of Cobourg Inc.",
+            "MEMBEROPERATINGNAME": "McKirdy Homes",
+            "MEMBERVBNUM": "B35141",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "McKirdy Homes Of Baltimore Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30646",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1198219 Ontario Limited",
+            "MEMBEROPERATINGNAME": "McKirdy Homes",
+            "MEMBERVBNUM": "B26109",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Adanac Custom Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32497",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "BATTELL MANOR",
+            "Account Number": "B35141",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": "841 Battell St.",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-01-16"
+        }
+    ]
+}

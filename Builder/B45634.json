@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45634",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sandhyaji Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2016-09-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-16 13:25:51.000 +0000",
+            "Expiry Date": "2024-09-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3560 Singleton Avenue",
+            "TELEPHONE": "519-200-0815",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "sasu61@hotmail.com",
+            "ACCOUNTNUMBER": "B45634",
+            "Total Outstanding Amount": 1461.91,
+            "TAB": 0,
+            "BREACH": 1461.91,
+            "SUMM_FREEHOLD": 10,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 10,
+            "SUMM_CC": 4,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 47195.09,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 47195.09
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100346839",
+            "TO": "Sanjeev Singh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-200-0815"
+        },
+        {
+            "TOUNIQUENUMBER": "100346839",
+            "TO": "Sanjeev Singh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-200-0815"
+        },
+        {
+            "TOUNIQUENUMBER": "100346839",
+            "TO": "Sanjeev Singh",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-200-0815"
+        },
+        {
+            "TOUNIQUENUMBER": "100381442",
+            "TO": "Sandhya Singh",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-376-7109"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45634",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sandhyaji Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "3560 Singleton Ave. London, Ont",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": " 49-3560 Singleton Ave ",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

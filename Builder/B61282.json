@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61282",
+            "Umbrella": "PCG Homes",
+            "Umbrella ID": "500001388",
+            "VB_NAME": "Kellco Investments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Barrie",
+            "HCRA_INITIALLICENSEDATE": "2022-04-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-04-22 05:00:30.000 +0000",
+            "Expiry Date": "2023-04-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "36 Glen Oak Court",
+            "TELEPHONE": "705-770-4691",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "daveatdow@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600010400",
+            "TO": "Lori Kelly",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-984-9872"
+        },
+        {
+            "TOUNIQUENUMBER": "600009325",
+            "TO": "David Kelly",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-770-4691"
+        },
+        {
+            "TOUNIQUENUMBER": "600009325",
+            "TO": "David Kelly",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-770-4691"
+        },
+        {
+            "TOUNIQUENUMBER": "600009325",
+            "TO": "David Kelly",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-770-4691"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61282",
+            "Umbrella": "PCG Homes",
+            "Umbrella ID": "500001388",
+            "VB_NAME": "Kellco Investments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B61093",
+            "MEMBERNAME": "Performance Construction Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B61282",
+            "Umbrella": "PCG Homes",
+            "Umbrella ID": "500001388",
+            "VB_NAME": "Kellco Investments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B61282",
+            "MEMBERNAME": "Kellco Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

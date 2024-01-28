@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61164",
+            "Umbrella": "Seaway Condominium",
+            "Umbrella ID": "500002296",
+            "VB_NAME": "Goldbricks Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Brampton",
+            "HCRA_INITIALLICENSEDATE": "2022-03-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-29 20:26:53.000 +0000",
+            "Expiry Date": "2024-03-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9300 Goreway Drive, Suite 111",
+            "TELEPHONE": "647-521-5555",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "development@goldbricksgroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100725713",
+            "TO": "Rohit Parmar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-521-5555"
+        },
+        {
+            "TOUNIQUENUMBER": "100725713",
+            "TO": "Rohit Parmar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-521-5555"
+        },
+        {
+            "TOUNIQUENUMBER": "100725713",
+            "TO": "Rohit Parmar",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-521-5555"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61164",
+            "Umbrella": "Seaway Condominium",
+            "Umbrella ID": "500002296",
+            "VB_NAME": "Goldbricks Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46841",
+            "MEMBERNAME": "Treasure Villas Ltd.",
+            "MEMBEROPERATINGNAME": "Gold Bricks Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61164",
+            "Umbrella": "Seaway Condominium",
+            "Umbrella ID": "500002296",
+            "VB_NAME": "Goldbricks Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61497",
+            "MEMBERNAME": "RKP Management Inc.",
+            "MEMBEROPERATINGNAME": "RKP Management Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61164",
+            "Umbrella": "Seaway Condominium",
+            "Umbrella ID": "500002296",
+            "VB_NAME": "Goldbricks Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61164",
+            "MEMBERNAME": "Goldbricks Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Orillia Urban Towns",
+            "Project Status": "In Progress",
+            "Location": "ORILLIA",
+            "Address": " 12 Fittons Rd. East ",
+            "# of Units": 43,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

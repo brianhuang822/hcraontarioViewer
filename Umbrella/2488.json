@@ -1,0 +1,780 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "National Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 3,
+            "TOTALUNITS": 783,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "291 Edgeley Boulevard",
+            "TELEPHONE": "905-669-9199",
+            "FAX": "905-660-9894",
+            "WEBSITEURL": "www.nationalhomes.com",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "National Homes (Lakeshore 7) Inc.",
+            "MEMBEROPERATINGNAME": "Lakeshore Woods",
+            "MEMBERVBNUM": "B37596",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Wellington 8) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41467",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (1240 Britannia) Inc.",
+            "MEMBEROPERATINGNAME": "National Homes (1240 Britannia) Inc.",
+            "MEMBERVBNUM": "B60674",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "National Homes (Markham 2) Inc.",
+            "MEMBEROPERATINGNAME": "Heritage Glen",
+            "MEMBERVBNUM": "B33112",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Greenmeadow) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22043",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Lakeshore) Inc.",
+            "MEMBEROPERATINGNAME": "Lakeshore Woods",
+            "MEMBERVBNUM": "B32746",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Lakeshore 6) Inc.",
+            "MEMBEROPERATINGNAME": "Lakeshore Woods",
+            "MEMBERVBNUM": "B36329",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Westmount 3) Inc.",
+            "MEMBEROPERATINGNAME": "Westmount",
+            "MEMBERVBNUM": "B33117",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Springdale 4) Inc.",
+            "MEMBEROPERATINGNAME": "Manors Of Springdale",
+            "MEMBERVBNUM": "B27303",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Brentwood) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23424",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Markham 5) Inc.",
+            "MEMBEROPERATINGNAME": "Wismer Homes",
+            "MEMBERVBNUM": "B37453",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Brixen (Steeles) Inc.",
+            "MEMBEROPERATINGNAME": "National Brixen (Steeles) Inc.",
+            "MEMBERVBNUM": "B60541",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "National Homes (Markham 7) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42062",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Dufferin Hills) Inc.",
+            "MEMBEROPERATINGNAME": "Coachman's Crossing",
+            "MEMBERVBNUM": "B28459",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Wellington 2) Inc.",
+            "MEMBEROPERATINGNAME": "Ravines of Castlemore West",
+            "MEMBERVBNUM": "B33453",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Thornhill) Inc.",
+            "MEMBEROPERATINGNAME": "National Homes",
+            "MEMBERVBNUM": "B39351",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes Management Inc.",
+            "MEMBEROPERATINGNAME": "National Homes Management Inc.",
+            "MEMBERVBNUM": "B61833",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "National Homes (Castlemore Ave.) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47034",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Springdale 8) Inc.",
+            "MEMBEROPERATINGNAME": "Springdale",
+            "MEMBERVBNUM": "B33118",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Goreway) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47918",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "National Homes (Springdale 6) Inc.",
+            "MEMBEROPERATINGNAME": "Springdale",
+            "MEMBERVBNUM": "B28668",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes GP (Plains Road) Inc.,as general partner of and on behalf of National Homes (Plains Road) LP",
+            "MEMBEROPERATINGNAME": "National Homes GP (Plains Road) Inc.,as general partner of and on behalf of National Homes (Plains Road) LP",
+            "MEMBERVBNUM": "B61823",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "National Homes (Wellington 7) Inc.",
+            "MEMBEROPERATINGNAME": "National Homes - Gates of Countryside",
+            "MEMBERVBNUM": "B39139",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Wellington 4) Inc.",
+            "MEMBEROPERATINGNAME": "Gates Of Countryside",
+            "MEMBERVBNUM": "B37099",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Newmarket) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43706",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Wellington 5) Inc.",
+            "MEMBEROPERATINGNAME": "National Homes - Gates of Countryside",
+            "MEMBERVBNUM": "B36992",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Brant) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48838",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "National Homes (Meadowvale) Inc.",
+            "MEMBEROPERATINGNAME": "Olde Meadowvale Village",
+            "MEMBERVBNUM": "B26694",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Vertical Builders (Welland) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46975",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "National Homes (Bradford) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42840",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Thornhill) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40161",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Lakeshore 3) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33928",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Markham 6) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40613",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Churchill Meadows) Inc.",
+            "MEMBEROPERATINGNAME": "Churchill Meadows",
+            "MEMBERVBNUM": "B28667",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Dalespring) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23598",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Springdale) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23423",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Westmount 6) Inc.",
+            "MEMBEROPERATINGNAME": "Westmount",
+            "MEMBERVBNUM": "B36332",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Wellington 6) Inc.",
+            "MEMBEROPERATINGNAME": "Gates of Countryside",
+            "MEMBERVBNUM": "B38314",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Westmount 8) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40160",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Wellington 3) Inc.",
+            "MEMBEROPERATINGNAME": "Gates of Countryside",
+            "MEMBERVBNUM": "B34661",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Woodbridge) Inc.",
+            "MEMBEROPERATINGNAME": "Rainbow Creek Village",
+            "MEMBERVBNUM": "B26695",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Markham) Inc.",
+            "MEMBEROPERATINGNAME": "Heritage Glen",
+            "MEMBERVBNUM": "B31827",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Springdale 5) Inc.",
+            "MEMBEROPERATINGNAME": "Springdale",
+            "MEMBERVBNUM": "B28609",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Gore Road) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42861",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Lakeshore 5) Inc.",
+            "MEMBEROPERATINGNAME": "Lakeshore Woods",
+            "MEMBERVBNUM": "B36330",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Prairie) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23716",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (St. Clair) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42155",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Westmount) Inc.",
+            "MEMBEROPERATINGNAME": "Westmount",
+            "MEMBERVBNUM": "B31041",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Creditview) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42138",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Oakville) Inc.",
+            "MEMBEROPERATINGNAME": "Sixteen Mile Creek",
+            "MEMBERVBNUM": "B28610",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Eglinton) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43924",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Westmount 9) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40661",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Westmount 4) Inc.",
+            "MEMBEROPERATINGNAME": "Westmount",
+            "MEMBERVBNUM": "B33929",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Prestonvale) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B49036",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "National Homes (Springdale 3) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24812",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Maple) Inc.",
+            "MEMBEROPERATINGNAME": "Columbus Trail",
+            "MEMBERVBNUM": "B27304",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Lakeshore 4) Inc.",
+            "MEMBEROPERATINGNAME": "Lakeshore Woods",
+            "MEMBERVBNUM": "B34813",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Westmount 5) Inc.",
+            "MEMBEROPERATINGNAME": "Westmount",
+            "MEMBERVBNUM": "B35272",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Westmount 2) Inc.",
+            "MEMBEROPERATINGNAME": "Glen Abbey's Westmount",
+            "MEMBERVBNUM": "B32078",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Westmount 7) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37135",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Rutherford) Inc.",
+            "MEMBEROPERATINGNAME": "Center Park",
+            "MEMBERVBNUM": "B31040",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Castlemore) Inc.",
+            "MEMBEROPERATINGNAME": "Estates of Castlemore",
+            "MEMBERVBNUM": "B31111",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Markham 3) Inc.",
+            "MEMBEROPERATINGNAME": "Heritage Glen",
+            "MEMBERVBNUM": "B34460",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Wellington) Inc.",
+            "MEMBEROPERATINGNAME": "Wellington Crowne",
+            "MEMBERVBNUM": "B32381",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Springdale 3) Inc.",
+            "MEMBEROPERATINGNAME": "Manors Of Springdale",
+            "MEMBERVBNUM": "B26691",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Springdale 7) Inc.",
+            "MEMBEROPERATINGNAME": "Springdale",
+            "MEMBERVBNUM": "B31110",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "National Homes (Ajax) Inc.",
+            "MEMBEROPERATINGNAME": "Admiral Woods",
+            "MEMBERVBNUM": "B34586",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 23,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 23,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 105,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 105,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 158,
+            "Condo Unit Posessions": 6,
+            "Total Posessions": 164,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 94,
+            "Condo Unit Posessions": 2,
+            "Total Posessions": 96,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 62,
+            "Condo Unit Posessions": 4,
+            "Total Posessions": 66,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 129,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 129,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 1,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 1,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 45,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 45,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 49,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 49,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 93,
+            "Condo Unit Posessions": 25,
+            "Total Posessions": 118,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2024",
+            "Freehold Posessions": 2,
+            "Condo Unit Posessions": 8,
+            "Total Posessions": 10,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 738,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 783,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "National Homes - Claireville",
+            "Account Number": "B42861",
+            "Project Status": null,
+            "Location": "BRAMPTON",
+            "Address": "Sea Drifter Cres.",
+            "# of Units": 131,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Tyandaga Heights on the Park",
+            "Account Number": "B48838",
+            "Project Status": null,
+            "Location": "BURLINGTON",
+            "Address": " 2100 Brant Street ",
+            "# of Units": 134,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "The Vale",
+            "Account Number": "B49036",
+            "Project Status": null,
+            "Location": "COURTICE",
+            "Address": "  Prestonevale Road And Bloor Street ",
+            "# of Units": 74,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Northshore Condos",
+            "Account Number": "B61823",
+            "Project Status": "In Progress",
+            "Location": "BURLINGTON",
+            "Address": " 490 Plains Rd E ",
+            "# of Units": 189,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Churchill Collection",
+            "Account Number": "B42155",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "288 & 290 St. Clair Ave. W.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-06-09"
+        },
+        {
+            "Condo Project Name": "The Vale",
+            "Account Number": "B49036",
+            "Project Status": "In Progress",
+            "Location": "COURTICE",
+            "Address": "  Prestonevale Road And Bloor Street ",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Duo Condos",
+            "Account Number": "B60541",
+            "Project Status": "In Progress",
+            "Location": "BRAMPTON",
+            "Address": " 260 Malta Ave. ",
+            "# of Units": 349,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

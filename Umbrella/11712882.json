@@ -1,0 +1,92 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Mill Club",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "350 Doon Valley Dr.",
+            "TELEPHONE": "(519)894-0623",
+            "FAX": "(519)894-2468",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Altair Properties Corporation",
+            "MEMBEROPERATINGNAME": "L. & G. Enterprises",
+            "MEMBERVBNUM": "B6887",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Old Mill Partnership",
+            "MEMBEROPERATINGNAME": "Mill Club On The River Grand",
+            "MEMBERVBNUM": "B31604",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "MILL CLUB ON THE RIVER GRAND",
+            "Account Number": "B31604",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 350 Doon Valley Dr ",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-01-21"
+        },
+        {
+            "Condo Project Name": "KEATSWAY CONDO",
+            "Account Number": "B6887",
+            "Project Status": "Completed",
+            "Location": "WATERLOO",
+            "Address": "300 Keatsway Rd.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-09-29"
+        },
+        {
+            "Condo Project Name": "KING ST., N.",
+            "Account Number": "B6887",
+            "Project Status": "Completed",
+            "Location": "WATERLOO",
+            "Address": "375 King St.N.,",
+            "# of Units": 135,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1985-10-08"
+        },
+        {
+            "Condo Project Name": "ALTAIR CONDO",
+            "Account Number": "B6887",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "5250 Lakeshore Rd.",
+            "# of Units": 154,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1983-09-01"
+        }
+    ]
+}

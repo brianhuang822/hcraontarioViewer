@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37701",
+            "Umbrella": "CJ Construction",
+            "Umbrella ID": "12539251",
+            "VB_NAME": "Christopher Edward Morawski, Joanne Margaret Moraw",
+            "OPERATINGNAME": "CJ Construction",
+            "CITY": "POWASSAN",
+            "HCRA_INITIALLICENSEDATE": "2007-05-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-05-16 12:00:16.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6 Glendale Heights, R.R. 1",
+            "TELEPHONE": "705-498-7170",
+            "FAX": "705-472-1284",
+            "WEBSITEURL": "www.cjconstruction.org",
+            "EMAIL": "cjmorawski@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12221780",
+            "TO": "Christopher Morawski",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-498-7170"
+        },
+        {
+            "TOUNIQUENUMBER": "12221781",
+            "TO": "Joanne Morawski",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-498-4603"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37701",
+            "Umbrella": "CJ Construction",
+            "Umbrella ID": "12539251",
+            "VB_NAME": "Christopher Edward Morawski, Joanne Margaret Moraw",
+            "OPERATINGNAME": "CJ Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37701",
+            "MEMBERNAME": "Christopher Edward Morawski, Joanne Margaret Moraw",
+            "MEMBEROPERATINGNAME": "CJ Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37701",
+            "Umbrella": "CJ Construction",
+            "Umbrella ID": "12539251",
+            "VB_NAME": "Christopher Edward Morawski, Joanne Margaret Moraw",
+            "OPERATINGNAME": "CJ Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42841",
+            "MEMBERNAME": "CJ Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41696",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Robert Brohman Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "BRESLAU",
+            "HCRA_INITIALLICENSEDATE": "2011-12-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-12-09 14:00:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "671 St. Charles St. E., R.R. 1",
+            "TELEPHONE": "519/648-2367",
+            "FAX": "519/648-3944",
+            "WEBSITEURL": " ",
+            "EMAIL": "bob@brohmanenterprises.com",
+            "ACCOUNTNUMBER": "B41696",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 50808.98,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 50808.98
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12508729",
+            "TO": "Christine Brohman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-505-7932"
+        },
+        {
+            "TOUNIQUENUMBER": "12508729",
+            "TO": "Christine Brohman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-505-7932"
+        },
+        {
+            "TOUNIQUENUMBER": "12508728",
+            "TO": "Robert Brohman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-648-2367"
+        },
+        {
+            "TOUNIQUENUMBER": "12508728",
+            "TO": "Robert Brohman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-648-2367"
+        },
+        {
+            "TOUNIQUENUMBER": "12508728",
+            "TO": "Robert Brohman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-648-2367"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41696",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Robert Brohman Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

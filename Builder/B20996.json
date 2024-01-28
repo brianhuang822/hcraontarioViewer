@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B20996",
+            "Umbrella": "Oneisimus",
+            "Umbrella ID": "12539907",
+            "VB_NAME": "Onesimus Inc.",
+            "OPERATINGNAME": "Onesimus Inc.",
+            "CITY": "Elmira",
+            "HCRA_INITIALLICENSEDATE": "1991-05-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-27 18:19:03.000 +0000",
+            "Expiry Date": "2024-05-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2 William Street",
+            "TELEPHONE": "519-465-8431",
+            "FAX": "519/669-4072",
+            "WEBSITEURL": "www.playfordco.com",
+            "EMAIL": "scott@playfordco.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "326745",
+            "TO": "Carolyn Playford",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-669-5503"
+        },
+        {
+            "TOUNIQUENUMBER": "326745",
+            "TO": "Carolyn Playford",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-669-5503"
+        },
+        {
+            "TOUNIQUENUMBER": "326745",
+            "TO": "Carolyn Playford",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-669-5503"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B20996",
+            "Umbrella": "Oneisimus",
+            "Umbrella ID": "12539907",
+            "VB_NAME": "Onesimus Inc.",
+            "OPERATINGNAME": "Onesimus Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B20996",
+            "MEMBERNAME": "Onesimus Inc.",
+            "MEMBEROPERATINGNAME": "Onesimus Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B20996",
+            "Umbrella": "Oneisimus",
+            "Umbrella ID": "12539907",
+            "VB_NAME": "Onesimus Inc.",
+            "OPERATINGNAME": "Onesimus Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B16370",
+            "MEMBERNAME": "Oneisimus Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

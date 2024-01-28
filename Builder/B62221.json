@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62221",
+            "Umbrella": "Sharpe Industries",
+            "Umbrella ID": "500002308",
+            "VB_NAME": "2688734 Ontario Inc.",
+            "OPERATINGNAME": "2688734 Ontario Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2023-05-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-24 13:14:32.000 +0000",
+            "Expiry Date": "2024-05-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "120 Parliament Street",
+            "TELEPHONE": "613-866-3084",
+            "FAX": null,
+            "WEBSITEURL": "https://sharpeindustries.ca/",
+            "EMAIL": "kevinsharpe@sharpeindustries.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100670196",
+            "TO": "Kevin Sharpe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-866-3084"
+        },
+        {
+            "TOUNIQUENUMBER": "100670196",
+            "TO": "Kevin Sharpe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-866-3084"
+        },
+        {
+            "TOUNIQUENUMBER": "100670196",
+            "TO": "Kevin Sharpe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-866-3084"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62221",
+            "Umbrella": "Sharpe Industries",
+            "Umbrella ID": "500002308",
+            "VB_NAME": "2688734 Ontario Inc.",
+            "OPERATINGNAME": "2688734 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48721",
+            "MEMBERNAME": "10564800 Canada Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62221",
+            "Umbrella": "Sharpe Industries",
+            "Umbrella ID": "500002308",
+            "VB_NAME": "2688734 Ontario Inc.",
+            "OPERATINGNAME": "2688734 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62221",
+            "MEMBERNAME": "2688734 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2688734 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

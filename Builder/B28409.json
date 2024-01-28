@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28409",
+            "Umbrella": "John Verdonk",
+            "Umbrella ID": "12539945",
+            "VB_NAME": "John Verdonk Const. Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "St. Anns",
+            "HCRA_INITIALLICENSEDATE": "1999-06-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-08 13:58:37.000 +0000",
+            "Expiry Date": "2024-06-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2251 Silverdale Road",
+            "TELEPHONE": "905-957-7221",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "verdonkconstruction@gmail.com",
+            "ACCOUNTNUMBER": "B28409",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 14,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 14,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600010816",
+            "TO": "John Hutten",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-931-9200"
+        },
+        {
+            "TOUNIQUENUMBER": "12358904",
+            "TO": "John (Jr.) Verdonk",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-537-5829"
+        },
+        {
+            "TOUNIQUENUMBER": "12358904",
+            "TO": "John (Jr.) Verdonk",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-537-5829"
+        },
+        {
+            "TOUNIQUENUMBER": "12358904",
+            "TO": "John (Jr.) Verdonk",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-537-5829"
+        },
+        {
+            "TOUNIQUENUMBER": "12358905",
+            "TO": "Angela Verdonk",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-957-7221"
+        },
+        {
+            "TOUNIQUENUMBER": "12358905",
+            "TO": "Angela Verdonk",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-957-7221"
+        },
+        {
+            "TOUNIQUENUMBER": "12358905",
+            "TO": "Angela Verdonk",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-957-7221"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28409",
+            "Umbrella": "John Verdonk",
+            "Umbrella ID": "12539945",
+            "VB_NAME": "John Verdonk Const. Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28409",
+            "MEMBERNAME": "John Verdonk Const. Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B28409",
+            "Umbrella": "John Verdonk",
+            "Umbrella ID": "12539945",
+            "VB_NAME": "John Verdonk Const. Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B17439",
+            "MEMBERNAME": "John Verdonk",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45002",
+            "Umbrella": "Robinson Carpentry",
+            "Umbrella ID": "12544085",
+            "VB_NAME": "Robinson Carpentry Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Quinte West",
+            "HCRA_INITIALLICENSEDATE": "2015-12-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-24 20:44:22.000 +0000",
+            "Expiry Date": "2024-12-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "35 Adams Road",
+            "TELEPHONE": "613-243-3322",
+            "FAX": null,
+            "WEBSITEURL": "www.robinsoncarpentry.ca",
+            "EMAIL": "info@robinsoncarpentry.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 15,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 15,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100207207",
+            "TO": "Meagan Robinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-243-3322"
+        },
+        {
+            "TOUNIQUENUMBER": "100207207",
+            "TO": "Meagan Robinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-243-3322"
+        },
+        {
+            "TOUNIQUENUMBER": "100207207",
+            "TO": "Meagan Robinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-243-3322"
+        },
+        {
+            "TOUNIQUENUMBER": "100207206",
+            "TO": "Nicholas Robinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-921-8443"
+        },
+        {
+            "TOUNIQUENUMBER": "100207206",
+            "TO": "Nicholas Robinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-921-8443"
+        },
+        {
+            "TOUNIQUENUMBER": "100207206",
+            "TO": "Nicholas Robinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-921-8443"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45002",
+            "Umbrella": "Robinson Carpentry",
+            "Umbrella ID": "12544085",
+            "VB_NAME": "Robinson Carpentry Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43418",
+            "MEMBERNAME": "Nicholas Eric W. Robinson & Meagan C. Robinson",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45002",
+            "Umbrella": "Robinson Carpentry",
+            "Umbrella ID": "12544085",
+            "VB_NAME": "Robinson Carpentry Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45002",
+            "MEMBERNAME": "Robinson Carpentry Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

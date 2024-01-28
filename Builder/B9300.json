@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9300",
+            "Umbrella": "Country Green Homes",
+            "Umbrella ID": "11054",
+            "VB_NAME": "Leighland Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "MILTON",
+            "HCRA_INITIALLICENSEDATE": "1988-01-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1998-01-14 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "410 Industrial Dr., Unit C",
+            "TELEPHONE": "905-693-8525",
+            "FAX": "905-693-1103",
+            "WEBSITEURL": "www.countrygreenhomes.com",
+            "EMAIL": "kim.nesbitt@countrygreenhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332710",
+            "TO": "L.A. Stubbs",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "324416",
+            "TO": "John G. Nesbitt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-693-8525"
+        },
+        {
+            "TOUNIQUENUMBER": "324416",
+            "TO": "John G. Nesbitt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-693-8525"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9300",
+            "Umbrella": "Country Green Homes",
+            "Umbrella ID": "11054",
+            "VB_NAME": "Leighland Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26041",
+            "MEMBERNAME": "Country Green Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B9300",
+            "Umbrella": "Country Green Homes",
+            "Umbrella ID": "11054",
+            "VB_NAME": "Leighland Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B9300",
+            "MEMBERNAME": "Leighland Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B9300",
+            "Umbrella": "Country Green Homes",
+            "Umbrella ID": "11054",
+            "VB_NAME": "Leighland Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41828",
+            "MEMBERNAME": "Country Green (Victoria Park) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26550",
+            "Umbrella": "Westroy Homes",
+            "Umbrella ID": "500000537",
+            "VB_NAME": "Luxury Park Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Woodbridge",
+            "HCRA_INITIALLICENSEDATE": "1997-07-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-07-10 05:00:05.000 +0000",
+            "Expiry Date": "2023-07-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "34 Lucky Court",
+            "TELEPHONE": "416-688-4648",
+            "FAX": null,
+            "WEBSITEURL": "luxryparkhomes.ca",
+            "EMAIL": "frank@luxuryparkhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343005",
+            "TO": "Frank Patrizi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-3746"
+        },
+        {
+            "TOUNIQUENUMBER": "343005",
+            "TO": "Frank Patrizi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-3746"
+        },
+        {
+            "TOUNIQUENUMBER": "343005",
+            "TO": "Frank Patrizi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-3746"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26550",
+            "Umbrella": "Westroy Homes",
+            "Umbrella ID": "500000537",
+            "VB_NAME": "Luxury Park Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60379",
+            "MEMBERNAME": "Westroy Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Westroy Homes Ltd.",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26550",
+            "Umbrella": "Westroy Homes",
+            "Umbrella ID": "500000537",
+            "VB_NAME": "Luxury Park Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26550",
+            "MEMBERNAME": "Luxury Park Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46573",
+            "Umbrella": "Malibu Investments",
+            "Umbrella ID": "12384794",
+            "VB_NAME": "Wilson Yorkdale Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2018-02-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-03 14:46:16.000 +0000",
+            "Expiry Date": "2025-02-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "130 Spadina Avenue",
+            "TELEPHONE": "416-703-9071",
+            "FAX": "416-703-3531",
+            "WEBSITEURL": "malibutoronto.com",
+            "EMAIL": "jhains@malibutoronto.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 265,
+            "SUMM_TOTAL": 265,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11824658",
+            "TO": "Robert Hirsch",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-710-9071"
+        },
+        {
+            "TOUNIQUENUMBER": "11824658",
+            "TO": "Robert Hirsch",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-710-9071"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46573",
+            "Umbrella": "Malibu Investments",
+            "Umbrella ID": "12384794",
+            "VB_NAME": "Wilson Yorkdale Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41278",
+            "MEMBERNAME": "Bridlewood Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46573",
+            "Umbrella": "Malibu Investments",
+            "Umbrella ID": "12384794",
+            "VB_NAME": "Wilson Yorkdale Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60842",
+            "MEMBERNAME": "Tippett Yorkdale Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46573",
+            "Umbrella": "Malibu Investments",
+            "Umbrella ID": "12384794",
+            "VB_NAME": "Wilson Yorkdale Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38445",
+            "MEMBERNAME": "Lakeshore Bathurst Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46573",
+            "Umbrella": "Malibu Investments",
+            "Umbrella ID": "12384794",
+            "VB_NAME": "Wilson Yorkdale Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33357",
+            "MEMBERNAME": "Malibu Harbourfront Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46573",
+            "Umbrella": "Malibu Investments",
+            "Umbrella ID": "12384794",
+            "VB_NAME": "Wilson Yorkdale Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46573",
+            "MEMBERNAME": "Wilson Yorkdale Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Express Condos",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 4 Tippett Rd. ",
+            "# of Units": 265,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-11-17"
+        }
+    ],
+    "builderConditions": []
+}

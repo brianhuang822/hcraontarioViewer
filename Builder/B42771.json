@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42771",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1869668 Ontario Inc.",
+            "OPERATINGNAME": "Briks Development",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2013-05-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-11 17:18:22.000 +0000",
+            "Expiry Date": "2024-04-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5000 Yonge Street",
+            "TELEPHONE": "416-799-1000",
+            "FAX": "416-797-1000",
+            "WEBSITEURL": "brikscorp.com",
+            "EMAIL": "lobby@briks.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100167959",
+            "TO": "Michael Zachar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-756-1140"
+        },
+        {
+            "TOUNIQUENUMBER": "100416484",
+            "TO": "Mahvesh Sheikh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-455-1000"
+        },
+        {
+            "TOUNIQUENUMBER": "100416484",
+            "TO": "Mahvesh Sheikh",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-455-1000"
+        },
+        {
+            "TOUNIQUENUMBER": "100416484",
+            "TO": "Mahvesh Sheikh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-455-1000"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42771",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1869668 Ontario Inc.",
+            "OPERATINGNAME": "Briks Development",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "One 10 Residences",
+            "Project Status": null,
+            "Location": "OAKVILLE",
+            "Address": " 110 Chisholm St. ",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

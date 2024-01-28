@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B30958",
+            "Umbrella": "Andrew Westlake Construction",
+            "Umbrella ID": "12540642",
+            "VB_NAME": "Andrew Westlake",
+            "OPERATINGNAME": "Westlake Construction Company",
+            "CITY": "NEWMARKET",
+            "HCRA_INITIALLICENSEDATE": "2000-10-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2002-10-15 12:34:23.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "31 Peevers Cres.",
+            "TELEPHONE": "(905) 898-7776",
+            "FAX": "(905) 898-3711",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11658476",
+            "TO": "Andrew Westlake",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B30958",
+            "Umbrella": "Andrew Westlake Construction",
+            "Umbrella ID": "12540642",
+            "VB_NAME": "Andrew Westlake",
+            "OPERATINGNAME": "Westlake Construction Company",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33863",
+            "MEMBERNAME": "Andrew Westlake",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B30958",
+            "Umbrella": "Andrew Westlake Construction",
+            "Umbrella ID": "12540642",
+            "VB_NAME": "Andrew Westlake",
+            "OPERATINGNAME": "Westlake Construction Company",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30958",
+            "MEMBERNAME": "Andrew Westlake",
+            "MEMBEROPERATINGNAME": "Westlake Construction Company",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

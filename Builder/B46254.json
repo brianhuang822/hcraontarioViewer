@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46254",
+            "Umbrella": "Quadcam Development Group",
+            "Umbrella ID": "12541433",
+            "VB_NAME": "East 3220 Residences Inc., as general partner of and on behalf of East 3220 Residences Limited Partnership",
+            "OPERATINGNAME": null,
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2017-09-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-29 04:00:00.000 +0000",
+            "Expiry Date": "2024-09-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "77 Woodstream Boulevard",
+            "TELEPHONE": "905-850-8883",
+            "FAX": "905-850-5567",
+            "WEBSITEURL": null,
+            "EMAIL": "jemac@quadcam.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 221,
+            "SUMM_TOTAL": 221,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12157573",
+            "TO": "Filippo Campione",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-8883"
+        },
+        {
+            "TOUNIQUENUMBER": "12157573",
+            "TO": "Filippo Campione",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-8883"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46254",
+            "Umbrella": "Quadcam Development Group",
+            "Umbrella ID": "12541433",
+            "VB_NAME": "East 3220 Residences Inc., as general partner of and on behalf of East 3220 Residences Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43621",
+            "MEMBERNAME": "2800 Keele Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46254",
+            "Umbrella": "Quadcam Development Group",
+            "Umbrella ID": "12541433",
+            "VB_NAME": "East 3220 Residences Inc., as general partner of and on behalf of East 3220 Residences Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41618",
+            "MEMBERNAME": "Vista Parc Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46254",
+            "Umbrella": "Quadcam Development Group",
+            "Umbrella ID": "12541433",
+            "VB_NAME": "East 3220 Residences Inc., as general partner of and on behalf of East 3220 Residences Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48698",
+            "MEMBERNAME": "The Westmount Boutique Residences Inc. as general partner of and on behalf of The Westmount Boutique Residences Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46254",
+            "Umbrella": "Quadcam Development Group",
+            "Umbrella ID": "12541433",
+            "VB_NAME": "East 3220 Residences Inc., as general partner of and on behalf of East 3220 Residences Limited Partnership",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46254",
+            "MEMBERNAME": "East 3220 Residences Inc., as general partner of and on behalf of East 3220 Residences Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "East 3220 Residences",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": " 3220 Sheppard East ",
+            "# of Units": 234,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-06-14"
+        }
+    ],
+    "builderConditions": []
+}

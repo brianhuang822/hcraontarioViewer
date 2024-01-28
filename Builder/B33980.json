@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33980",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bill Connolly Carpentry Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Aurora",
+            "HCRA_INITIALLICENSEDATE": "2003-12-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-27 21:02:51.000 +0000",
+            "Expiry Date": "2025-01-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "59 Murray Drive",
+            "TELEPHONE": "905-727-6451",
+            "FAX": "905-727-8574",
+            "WEBSITEURL": " ",
+            "EMAIL": "billconnollycarpentry@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11965488",
+            "TO": "William Connolly",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-727-6451"
+        },
+        {
+            "TOUNIQUENUMBER": "11965488",
+            "TO": "William Connolly",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-727-6451"
+        },
+        {
+            "TOUNIQUENUMBER": "11965488",
+            "TO": "William Connolly",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-727-6451"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33980",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bill Connolly Carpentry Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

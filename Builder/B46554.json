@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46554",
+            "Umbrella": "Carson Reid Homes",
+            "Umbrella ID": "12397211",
+            "VB_NAME": "Next Generation Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Guelph",
+            "HCRA_INITIALLICENSEDATE": "2017-11-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-23 19:51:14.000 +0000",
+            "Expiry Date": "2024-11-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "195 Hanlon Creek Boulevard",
+            "TELEPHONE": "519-822-3682",
+            "FAX": null,
+            "WEBSITEURL": "https://nextgenerationhomes.com/",
+            "EMAIL": "spencer@carsonreidhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100461479",
+            "TO": "Spencer Reid",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        },
+        {
+            "TOUNIQUENUMBER": "100461479",
+            "TO": "Spencer Reid",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        },
+        {
+            "TOUNIQUENUMBER": "100461479",
+            "TO": "Spencer Reid",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        },
+        {
+            "TOUNIQUENUMBER": "327901",
+            "TO": "Carson Reid",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46554",
+            "Umbrella": "Carson Reid Homes",
+            "Umbrella ID": "12397211",
+            "VB_NAME": "Next Generation Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46554",
+            "MEMBERNAME": "Next Generation Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46554",
+            "Umbrella": "Carson Reid Homes",
+            "Umbrella ID": "12397211",
+            "VB_NAME": "Next Generation Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40218",
+            "MEMBERNAME": "Carson Reid Homes (87) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46554",
+            "Umbrella": "Carson Reid Homes",
+            "Umbrella ID": "12397211",
+            "VB_NAME": "Next Generation Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B13458",
+            "MEMBERNAME": "Carson Reid Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Carson Reid Homes Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

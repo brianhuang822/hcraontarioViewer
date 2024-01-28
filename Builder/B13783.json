@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B13783",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Valleyrauss Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Ayr",
+            "HCRA_INITIALLICENSEDATE": "1986-02-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-28 19:26:34.000 +0000",
+            "Expiry Date": "2025-02-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "264 Northumberland Street",
+            "TELEPHONE": "519-749-5055",
+            "FAX": null,
+            "WEBSITEURL": "valleyrauss.com",
+            "EMAIL": "info@valleyrauss.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 63,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 63,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332632",
+            "TO": "Ted Strauss",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-749-5055"
+        },
+        {
+            "TOUNIQUENUMBER": "332632",
+            "TO": "Ted Strauss",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-749-5055"
+        },
+        {
+            "TOUNIQUENUMBER": "332632",
+            "TO": "Ted Strauss",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-749-5055"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B13783",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Valleyrauss Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Old Shepherd Lane",
+            "Project Status": null,
+            "Location": "WOODSTOCK",
+            "Address": "1023 Devonshire Ave.",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

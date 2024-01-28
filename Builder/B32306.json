@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32306",
+            "Umbrella": "Chestnut Developments",
+            "Umbrella ID": "12540904",
+            "VB_NAME": "Chestnut Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "VAUGHAN",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2003-02-21 21:48:34.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "81 Orico Cres.",
+            "TELEPHONE": "416-708-2801",
+            "FAX": "905-893-3891",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "324268",
+            "TO": "Peter Ortepi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-985-9610"
+        },
+        {
+            "TOUNIQUENUMBER": "324268",
+            "TO": "Peter Ortepi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-985-9610"
+        },
+        {
+            "TOUNIQUENUMBER": "324268",
+            "TO": "Peter Ortepi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-985-9610"
+        },
+        {
+            "TOUNIQUENUMBER": "324282",
+            "TO": "Caesar Ortepi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-218-2801"
+        },
+        {
+            "TOUNIQUENUMBER": "324282",
+            "TO": "Caesar Ortepi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-218-2801"
+        },
+        {
+            "TOUNIQUENUMBER": "324282",
+            "TO": "Caesar Ortepi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-218-2801"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32306",
+            "Umbrella": "Chestnut Developments",
+            "Umbrella ID": "12540904",
+            "VB_NAME": "Chestnut Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B32306",
+            "MEMBERNAME": "Chestnut Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B32306",
+            "Umbrella": "Chestnut Developments",
+            "Umbrella ID": "12540904",
+            "VB_NAME": "Chestnut Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B23637",
+            "MEMBERNAME": "Maple Village Holding Ii Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

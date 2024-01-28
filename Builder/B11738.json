@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11738",
+            "Umbrella": "Caraszma Developments",
+            "Umbrella ID": "11882360",
+            "VB_NAME": "604279 Ontario Ltd.",
+            "OPERATINGNAME": "Steven J. Szasz Const.",
+            "CITY": "Brantford",
+            "HCRA_INITIALLICENSEDATE": "1984-11-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-02 14:09:03.000 +0000",
+            "Expiry Date": "2024-11-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "178 Oakhill Drive",
+            "TELEPHONE": "519-753-2303",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "szasz@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 13,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 13,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "333011",
+            "TO": "Steven Szasz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-753-2303"
+        },
+        {
+            "TOUNIQUENUMBER": "333011",
+            "TO": "Steven Szasz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-753-2303"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11738",
+            "Umbrella": "Caraszma Developments",
+            "Umbrella ID": "11882360",
+            "VB_NAME": "604279 Ontario Ltd.",
+            "OPERATINGNAME": "Steven J. Szasz Const.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32785",
+            "MEMBERNAME": "1408044 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B11738",
+            "Umbrella": "Caraszma Developments",
+            "Umbrella ID": "11882360",
+            "VB_NAME": "604279 Ontario Ltd.",
+            "OPERATINGNAME": "Steven J. Szasz Const.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B11738",
+            "MEMBERNAME": "604279 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Steven J. Szasz Const.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B11738",
+            "Umbrella": "Caraszma Developments",
+            "Umbrella ID": "11882360",
+            "VB_NAME": "604279 Ontario Ltd.",
+            "OPERATINGNAME": "Steven J. Szasz Const.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26988",
+            "MEMBERNAME": "Caraszma Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37387",
+            "Umbrella": "Souski",
+            "Umbrella ID": "12541153",
+            "VB_NAME": "Ibose Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2007-10-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-10-10 15:00:56.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5160 Yonge Street",
+            "TELEPHONE": "416-938-2623",
+            "FAX": "416-590-8969",
+            "WEBSITEURL": null,
+            "EMAIL": "al@ibose.ca",
+            "ACCOUNTNUMBER": "B37387",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 54129.77,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 54129.77
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12206260",
+            "TO": "Alireza Sabet Saiedi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-938-2623"
+        },
+        {
+            "TOUNIQUENUMBER": "12206260",
+            "TO": "Alireza Sabet Saiedi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-938-2623"
+        },
+        {
+            "TOUNIQUENUMBER": "12206260",
+            "TO": "Alireza Sabet Saiedi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-938-2623"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37387",
+            "Umbrella": "Souski",
+            "Umbrella ID": "12541153",
+            "VB_NAME": "Ibose Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37387",
+            "MEMBERNAME": "Ibose Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37387",
+            "Umbrella": "Souski",
+            "Umbrella ID": "12541153",
+            "VB_NAME": "Ibose Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40067",
+            "MEMBERNAME": "Alireza Sabet Saiedi & Ladan Bazargan",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

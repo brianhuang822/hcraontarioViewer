@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37479",
+            "Umbrella": "Onesco Construction",
+            "Umbrella ID": "12540952",
+            "VB_NAME": "High Life Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "WINDSOR",
+            "HCRA_INITIALLICENSEDATE": "2007-03-20",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2009-05-23 01:58:21.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1740 Balfour Blvd.",
+            "TELEPHONE": "519-972-9038",
+            "FAX": "519-529-1055",
+            "WEBSITEURL": null,
+            "EMAIL": "high_life_homes@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1185.5,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1185.5
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12013233",
+            "TO": "Antoine Bassile",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-818-5503"
+        },
+        {
+            "TOUNIQUENUMBER": "12013233",
+            "TO": "Antoine Bassile",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-818-5503"
+        },
+        {
+            "TOUNIQUENUMBER": "12013233",
+            "TO": "Antoine Bassile",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-818-5503"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37479",
+            "Umbrella": "Onesco Construction",
+            "Umbrella ID": "12540952",
+            "VB_NAME": "High Life Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B34658",
+            "MEMBERNAME": "Antoine Bassile",
+            "MEMBEROPERATINGNAME": "Onesco Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37479",
+            "Umbrella": "Onesco Construction",
+            "Umbrella ID": "12540952",
+            "VB_NAME": "High Life Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B37479",
+            "MEMBERNAME": "High Life Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61445",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Leaside Residences I Inc.",
+            "OPERATINGNAME": "Leaside Residences I Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2023-10-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-27 14:57:11.000 +0000",
+            "Expiry Date": "2024-10-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "100 Adelaide Street West",
+            "TELEPHONE": "416-988-6249",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "laura@coredevelopment.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600011516",
+            "TO": "Jean-Philippe Dub\u00e9",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-954-6706"
+        },
+        {
+            "TOUNIQUENUMBER": "600011516",
+            "TO": "Jean-Philippe Dub\u00e9",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-954-6706"
+        },
+        {
+            "TOUNIQUENUMBER": "12518832",
+            "TO": "Corey Hawtin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-966-2673"
+        },
+        {
+            "TOUNIQUENUMBER": "12518832",
+            "TO": "Corey Hawtin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-966-2673"
+        },
+        {
+            "TOUNIQUENUMBER": "100585105",
+            "TO": "Pierre Pelletier",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-945-6979"
+        },
+        {
+            "TOUNIQUENUMBER": "100585105",
+            "TO": "Pierre Pelletier",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "514-945-6979"
+        },
+        {
+            "TOUNIQUENUMBER": "100564476",
+            "TO": "Kashayar (Kash) Pashootan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-865-8620"
+        },
+        {
+            "TOUNIQUENUMBER": "100564476",
+            "TO": "Kashayar (Kash) Pashootan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-865-8620"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61445",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Leaside Residences I Inc.",
+            "OPERATINGNAME": "Leaside Residences I Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Leaside Condominiums - North",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 134 Laird Drive ",
+            "# of Units": 109,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Leaside Condominiums - South",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 126 & 132 Laird Drive ",
+            "# of Units": 132,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

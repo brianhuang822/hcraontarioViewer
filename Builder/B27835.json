@@ -1,0 +1,162 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27835",
+            "Umbrella": "Greenbriar Partnership",
+            "Umbrella ID": "10947",
+            "VB_NAME": "Cable Bridge Enterprises Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Alliston",
+            "HCRA_INITIALLICENSEDATE": "1998-11-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-10 21:06:04.000 +0000",
+            "Expiry Date": "2024-11-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6015 Highway 89",
+            "TELEPHONE": "705-434-5285",
+            "FAX": "705-435-5853",
+            "WEBSITEURL": "www.briarhill.on.ca",
+            "EMAIL": "bbates@nottawasagaresort.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 29,
+            "SUMM_TOTAL": 29,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344311",
+            "TO": "Dino Biffis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-5501"
+        },
+        {
+            "TOUNIQUENUMBER": "344311",
+            "TO": "Dino Biffis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-5501"
+        },
+        {
+            "TOUNIQUENUMBER": "344312",
+            "TO": "Rocco Lombardi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-5501"
+        },
+        {
+            "TOUNIQUENUMBER": "344312",
+            "TO": "Rocco Lombardi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-5501"
+        },
+        {
+            "TOUNIQUENUMBER": "303110",
+            "TO": "Luigi (Lou) Biffis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-5501"
+        },
+        {
+            "TOUNIQUENUMBER": "303110",
+            "TO": "Luigi (Lou) Biffis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-5501"
+        },
+        {
+            "TOUNIQUENUMBER": "303110",
+            "TO": "Luigi (Lou) Biffis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-5501"
+        },
+        {
+            "TOUNIQUENUMBER": "344310",
+            "TO": "Peter Biffis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-5501"
+        },
+        {
+            "TOUNIQUENUMBER": "344310",
+            "TO": "Peter Biffis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-5501"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27835",
+            "Umbrella": "Greenbriar Partnership",
+            "Umbrella ID": "10947",
+            "VB_NAME": "Cable Bridge Enterprises Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B10310",
+            "MEMBERNAME": "Greenbriar Phase One Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27835",
+            "Umbrella": "Greenbriar Partnership",
+            "Umbrella ID": "10947",
+            "VB_NAME": "Cable Bridge Enterprises Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27836",
+            "MEMBERNAME": "1204551 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Briar Hill",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27835",
+            "Umbrella": "Greenbriar Partnership",
+            "Umbrella ID": "10947",
+            "VB_NAME": "Cable Bridge Enterprises Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27835",
+            "MEMBERNAME": "Cable Bridge Enterprises Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BRIARHILL",
+            "Project Status": "Completed",
+            "Location": "ALLISTON",
+            "Address": "2 Briar Hill Heights",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-10-24"
+        },
+        {
+            "Condo Project Name": "RENAISSANCE I",
+            "Project Status": "Completed",
+            "Location": "ALLISTON",
+            "Address": " 78 Sunset Blvd. ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-12-20"
+        }
+    ],
+    "builderConditions": []
+}

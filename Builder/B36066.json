@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36066",
+            "Umbrella": "Harbourview Homes",
+            "Umbrella ID": "12544936",
+            "VB_NAME": "2062300 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2005-09-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-09-17 15:02:35.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 56564, 5289 Hwy. 7, Unit 7",
+            "TELEPHONE": "(905)939-2786",
+            "FAX": "(905)939-7633",
+            "WEBSITEURL": "www.marambuilding.com",
+            "EMAIL": "mpicard@marambuilding.com",
+            "ACCOUNTNUMBER": "B36066",
+            "Total Outstanding Amount": 0.03,
+            "TAB": 0.03,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11788946",
+            "TO": "Remigio (Ray) Polidoro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-532-1550"
+        },
+        {
+            "TOUNIQUENUMBER": "343697",
+            "TO": "Mary Picard",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-532-1550"
+        },
+        {
+            "TOUNIQUENUMBER": "343697",
+            "TO": "Mary Picard",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-532-1550"
+        },
+        {
+            "TOUNIQUENUMBER": "343697",
+            "TO": "Mary Picard",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-532-1550"
+        },
+        {
+            "TOUNIQUENUMBER": "12108698",
+            "TO": "Glenn Solomon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-366-7828"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36066",
+            "Umbrella": "Harbourview Homes",
+            "Umbrella ID": "12544936",
+            "VB_NAME": "2062300 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32370",
+            "MEMBERNAME": "Maram Building Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36066",
+            "Umbrella": "Harbourview Homes",
+            "Umbrella ID": "12544936",
+            "VB_NAME": "2062300 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36066",
+            "MEMBERNAME": "2062300 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36066",
+            "Umbrella": "Harbourview Homes",
+            "Umbrella ID": "12544936",
+            "VB_NAME": "2062300 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45161",
+            "MEMBERNAME": "Harbourview Homes Inc. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": "Completed",
+            "Location": "COLLINGWOOD",
+            "Address": "109 Alpine Springs Crt",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-11-15"
+        },
+        {
+            "Condo Project Name": "Alpine Springs",
+            "Project Status": "Completed",
+            "Location": "CRAIGLEITH",
+            "Address": "109 Alpine Springs Crt.",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-11-15"
+        }
+    ],
+    "builderConditions": []
+}

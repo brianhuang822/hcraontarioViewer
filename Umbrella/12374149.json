@@ -1,0 +1,100 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Presidential Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "27 Paxtonia Ste. #1",
+            "TELEPHONE": "905-761-7727",
+            "FAX": "905-761-5655",
+            "WEBSITEURL": "www.presidentialgroup.com",
+            "EMAIL": "marty@presidentialgroup.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Presidential Homes (Erskine) Limited",
+            "MEMBEROPERATINGNAME": "Presidential Homes",
+            "MEMBERVBNUM": "B37597",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Presidential Estates (McRae) Limited",
+            "MEMBEROPERATINGNAME": "The Townhouses of Leaside",
+            "MEMBERVBNUM": "B35327",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Exeter Millennium (Eight Spadina Road) Limited",
+            "MEMBEROPERATINGNAME": "Exeter Developments",
+            "MEMBERVBNUM": "B28768",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Presidential Estates (Millwood) Limited",
+            "MEMBEROPERATINGNAME": "The Townhouses of Leaside",
+            "MEMBERVBNUM": "B36256",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Glass House Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37947",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Glass House Developments Inc.",
+            "MEMBEROPERATINGNAME": "Jade Lofts",
+            "MEMBERVBNUM": "B34698",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Presidential Homes (Erskine) Limited",
+            "MEMBEROPERATINGNAME": "Presidential Homes",
+            "MEMBERVBNUM": "B39113",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "The Glass House",
+            "Account Number": "B37947",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "127 Queen St. E.",
+            "# of Units": 84,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-05-19"
+        },
+        {
+            "Condo Project Name": "Manors of Erskine",
+            "Account Number": "B39113",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "83 - 99 Erskine Avenue",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-11-13"
+        }
+    ]
+}

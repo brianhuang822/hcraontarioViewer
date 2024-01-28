@@ -1,0 +1,133 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60750",
+            "Umbrella": "Polocorp",
+            "Umbrella ID": "500000939",
+            "VB_NAME": "Polocorp Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Kitchener",
+            "HCRA_INITIALLICENSEDATE": "2021-11-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-18 13:40:15.000 +0000",
+            "Expiry Date": "2024-11-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "379 Queen Street South",
+            "TELEPHONE": "519-745-3249",
+            "FAX": null,
+            "WEBSITEURL": "https://polocorpinc.com/",
+            "EMAIL": "nicole@polocorpinc.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100418476",
+            "TO": "Louise Puopolo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        },
+        {
+            "TOUNIQUENUMBER": "100418476",
+            "TO": "Louise Puopolo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        },
+        {
+            "TOUNIQUENUMBER": "100418474",
+            "TO": "Paul Puopolo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        },
+        {
+            "TOUNIQUENUMBER": "100418474",
+            "TO": "Paul Puopolo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        },
+        {
+            "TOUNIQUENUMBER": "100418477",
+            "TO": "Joseph Puopolo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        },
+        {
+            "TOUNIQUENUMBER": "100418477",
+            "TO": "Joseph Puopolo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        },
+        {
+            "TOUNIQUENUMBER": "100410291",
+            "TO": "Michael Puopolo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        },
+        {
+            "TOUNIQUENUMBER": "100410291",
+            "TO": "Michael Puopolo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-745-3249"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60750",
+            "Umbrella": "Polocorp",
+            "Umbrella ID": "500000939",
+            "VB_NAME": "Polocorp Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45902",
+            "MEMBERNAME": "Barra On Queen Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B60750",
+            "Umbrella": "Polocorp",
+            "Umbrella ID": "500000939",
+            "VB_NAME": "Polocorp Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60750",
+            "MEMBERNAME": "Polocorp Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Viva Towns",
+            "Project Status": "In Progress",
+            "Location": "KITCHENER",
+            "Address": " 19-41 Mill Street ",
+            "# of Units": 106,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39491",
+            "Umbrella": "Marina Park",
+            "Umbrella ID": "12357875",
+            "VB_NAME": "Marina Park Resort Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "COPPER CLIFF",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2009-05-21 21:32:46.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 759",
+            "TELEPHONE": "866-686-5551",
+            "FAX": "705-682-0160",
+            "WEBSITEURL": "www.brystons.com",
+            "EMAIL": "melnorm@on.aibn.com",
+            "ACCOUNTNUMBER": "B39491",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12321747",
+            "TO": "James Eady",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-332-2171"
+        },
+        {
+            "TOUNIQUENUMBER": "12321745",
+            "TO": "William Armstrong",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-529-4969"
+        },
+        {
+            "TOUNIQUENUMBER": "12321745",
+            "TO": "William Armstrong",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-529-4969"
+        },
+        {
+            "TOUNIQUENUMBER": "12321746",
+            "TO": "Norman Cecil Eady",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-665-1675 or 866-686-"
+        },
+        {
+            "TOUNIQUENUMBER": "12321746",
+            "TO": "Norman Cecil Eady",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-665-1675 or 866-686-"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39491",
+            "Umbrella": "Marina Park",
+            "Umbrella ID": "12357875",
+            "VB_NAME": "Marina Park Resort Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B34669",
+            "MEMBERNAME": "Marina Park Resort Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B39491",
+            "Umbrella": "Marina Park",
+            "Umbrella ID": "12357875",
+            "VB_NAME": "Marina Park Resort Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B39491",
+            "MEMBERNAME": "Marina Park Resort Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

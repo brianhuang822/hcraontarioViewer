@@ -1,0 +1,125 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45898",
+            "Umbrella": "Corebridge",
+            "Umbrella ID": "12545451",
+            "VB_NAME": "Suevilia Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2017-01-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-09-09 03:47:36.000 +0000",
+            "Expiry Date": "2021-07-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "28 South Unionville Avenue",
+            "TELEPHONE": "905-604-5991",
+            "FAX": null,
+            "WEBSITEURL": "www.corebridge.ca",
+            "EMAIL": "jtran@corebridge.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 10,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 10,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12091941",
+            "TO": "Wilson (Trung Chi) Tran",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-5991"
+        },
+        {
+            "TOUNIQUENUMBER": "12091941",
+            "TO": "Wilson (Trung Chi) Tran",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-5991"
+        },
+        {
+            "TOUNIQUENUMBER": "12091941",
+            "TO": "Wilson (Trung Chi) Tran",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-5991"
+        },
+        {
+            "TOUNIQUENUMBER": "100300299",
+            "TO": "Johnny Tran",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-633-3196"
+        },
+        {
+            "TOUNIQUENUMBER": "100300299",
+            "TO": "Johnny Tran",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-633-3196"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45898",
+            "Umbrella": "Corebridge",
+            "Umbrella ID": "12545451",
+            "VB_NAME": "Suevilia Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45898",
+            "MEMBERNAME": "Suevilia Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45898",
+            "Umbrella": "Corebridge",
+            "Umbrella ID": "12545451",
+            "VB_NAME": "Suevilia Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46180",
+            "MEMBERNAME": "Joy Square Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45898",
+            "Umbrella": "Corebridge",
+            "Umbrella ID": "12545451",
+            "VB_NAME": "Suevilia Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45542",
+            "MEMBERNAME": "Corebridge Construction Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45898",
+            "Umbrella": "Corebridge",
+            "Umbrella ID": "12545451",
+            "VB_NAME": "Suevilia Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46009",
+            "MEMBERNAME": "Corebridge Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

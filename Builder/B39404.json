@@ -1,0 +1,153 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39404",
+            "Umbrella": "Theberge Homes",
+            "Umbrella ID": "12391293",
+            "VB_NAME": "Theberge Developments Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2009-06-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-08 19:28:50.000 +0000",
+            "Expiry Date": "2024-06-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1600 Laperriere Avenue",
+            "TELEPHONE": "613-421-1515",
+            "FAX": "613-695-1944",
+            "WEBSITEURL": "thebergehomes.com",
+            "EMAIL": "joeytheberge@thebergehomes.com",
+            "ACCOUNTNUMBER": "B39404",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 38,
+            "SUMM_CONDO": 151,
+            "SUMM_TOTAL": 189,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12338191",
+            "TO": "Joey Theberge",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-851-7748"
+        },
+        {
+            "TOUNIQUENUMBER": "12338191",
+            "TO": "Joey Theberge",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-851-7748"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39404",
+            "Umbrella": "Theberge Homes",
+            "Umbrella ID": "12391293",
+            "VB_NAME": "Theberge Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39404",
+            "MEMBERNAME": "Theberge Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39404",
+            "Umbrella": "Theberge Homes",
+            "Umbrella ID": "12391293",
+            "VB_NAME": "Theberge Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40641",
+            "MEMBERNAME": "Westwood Hills Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39404",
+            "Umbrella": "Theberge Homes",
+            "Umbrella ID": "12391293",
+            "VB_NAME": "Theberge Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39777",
+            "MEMBERNAME": "Theberge Developments (Westboro) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Hunt Club Towns",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 3700 Downpatrick Rd. ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-03-09"
+        },
+        {
+            "Condo Project Name": "Hunt Club Towns",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "3700 Downpatrick Rd.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-12-08"
+        },
+        {
+            "Condo Project Name": "Alta Vista Ridge I",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "1757 Russell Rd.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-05-21"
+        },
+        {
+            "Condo Project Name": "Alta Vista Ridge II",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "1757 Russell Rd.",
+            "# of Units": 82,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-11-27"
+        },
+        {
+            "Condo Project Name": "Alta Vista Ridge I",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "1757 Russell Rd.",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-02-14"
+        },
+        {
+            "Condo Project Name": "Theberge Developments",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "646 Cummings Ave.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-08-11"
+        }
+    ],
+    "builderConditions": []
+}

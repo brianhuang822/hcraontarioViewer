@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27760",
+            "Umbrella": "Keystone Developments",
+            "Umbrella ID": "12540506",
+            "VB_NAME": "Ath Group Inc.",
+            "OPERATINGNAME": "Ath Homes",
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1998-12-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-02-01 23:49:47.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "121 Virginia Cres.",
+            "TELEPHONE": "(519)850-7048",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344238",
+            "TO": "Amarjit (Andy) Lail",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-641-6700"
+        },
+        {
+            "TOUNIQUENUMBER": "344238",
+            "TO": "Amarjit (Andy) Lail",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-641-6700"
+        },
+        {
+            "TOUNIQUENUMBER": "344238",
+            "TO": "Amarjit (Andy) Lail",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-641-6700"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27760",
+            "Umbrella": "Keystone Developments",
+            "Umbrella ID": "12540506",
+            "VB_NAME": "Ath Group Inc.",
+            "OPERATINGNAME": "Ath Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27760",
+            "MEMBERNAME": "Ath Group Inc.",
+            "MEMBEROPERATINGNAME": "Ath Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27760",
+            "Umbrella": "Keystone Developments",
+            "Umbrella ID": "12540506",
+            "VB_NAME": "Ath Group Inc.",
+            "OPERATINGNAME": "Ath Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32887",
+            "MEMBERNAME": "Keystone Developments (London) Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

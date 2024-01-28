@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43409",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Treadstone Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "2014-09-15",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2017-11-01 02:21:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9345 Elviage Dr.",
+            "TELEPHONE": "519/697-0511",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "shaun@treadstonedevelopments.ca",
+            "ACCOUNTNUMBER": "B43409",
+            "Total Outstanding Amount": 104806.38,
+            "TAB": 0,
+            "BREACH": 104806.38,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 6,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 12,
+            "SUMM_MINOR": 4,
+            "SUMM_MINOR_AMT": 638377.58,
+            "SUMM_MAJOR": 6,
+            "SUMM_MAJOR_AMT": 44096.36,
+            "SUMM_TOTAL_CLAIMS": 682473.94
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12265640",
+            "TO": "Shaun Stevens",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-697-0511"
+        },
+        {
+            "TOUNIQUENUMBER": "12265640",
+            "TO": "Shaun Stevens",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-697-0511"
+        },
+        {
+            "TOUNIQUENUMBER": "12265640",
+            "TO": "Shaun Stevens",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-697-0511"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43409",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Treadstone Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Four 33",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "433 Hyde Park Rd.",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-10-15"
+        }
+    ],
+    "builderConditions": []
+}

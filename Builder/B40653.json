@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40653",
+            "Umbrella": "Kouraj Rahimi",
+            "Umbrella ID": "12541178",
+            "VB_NAME": "Cyrus & Associates Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "NORTH YORK",
+            "HCRA_INITIALLICENSEDATE": "2010-06-25",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2012-10-12 00:27:18.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1110 Sheppard Ave. E., Ste. 203",
+            "TELEPHONE": "416-226-0222",
+            "FAX": null,
+            "WEBSITEURL": "www.cyrusassociates.com",
+            "EMAIL": "cyrus_rahimi@yahoo.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12328734",
+            "TO": "Kouraj Rahimi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-226-0222"
+        },
+        {
+            "TOUNIQUENUMBER": "12328734",
+            "TO": "Kouraj Rahimi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-226-0222"
+        },
+        {
+            "TOUNIQUENUMBER": "12328734",
+            "TO": "Kouraj Rahimi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-226-0222"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40653",
+            "Umbrella": "Kouraj Rahimi",
+            "Umbrella ID": "12541178",
+            "VB_NAME": "Cyrus & Associates Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B39336",
+            "MEMBERNAME": "Kouraj Rahimi",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40653",
+            "Umbrella": "Kouraj Rahimi",
+            "Umbrella ID": "12541178",
+            "VB_NAME": "Cyrus & Associates Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B40653",
+            "MEMBERNAME": "Cyrus & Associates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

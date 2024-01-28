@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45361",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Terra Park Developments Limited",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2016-07-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-07-27 04:15:12.000 +0000",
+            "Expiry Date": "2022-07-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "20 De Boers Dr., Ste. 525",
+            "TELEPHONE": "416-901-6528",
+            "FAX": null,
+            "WEBSITEURL": "www.studiojci.com",
+            "EMAIL": "jchung@terraparkdev.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 18,
+            "SUMM_TOTAL": 18,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100364089",
+            "TO": "Sue Jean Chung",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-436-3059"
+        },
+        {
+            "TOUNIQUENUMBER": "100364087",
+            "TO": "Jaegap Chung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-901-6528"
+        },
+        {
+            "TOUNIQUENUMBER": "100364087",
+            "TO": "Jaegap Chung",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-901-6528"
+        },
+        {
+            "TOUNIQUENUMBER": "100364088",
+            "TO": "June Ho Park",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-500-0981"
+        },
+        {
+            "TOUNIQUENUMBER": "100364088",
+            "TO": "June Ho Park",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-500-0981"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45361",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Terra Park Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Riverview Park Residences",
+            "Project Status": "Completed",
+            "Location": "LISTOWEL",
+            "Address": " 595 Havelock Ave. S. ",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-04-07"
+        },
+        {
+            "Condo Project Name": "Parkmeadow",
+            "Project Status": "Cancelled",
+            "Location": "LISTOWEL",
+            "Address": " Bright Street East And Nichol Avenue South",
+            "# of Units": 75,
+            "# of Terminations": 25,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-03-01"
+        }
+    ],
+    "builderConditions": []
+}

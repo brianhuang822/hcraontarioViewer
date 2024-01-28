@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36240",
+            "Umbrella": "J & R Brown",
+            "Umbrella ID": "12541240",
+            "VB_NAME": "J & R Brown Inc.",
+            "OPERATINGNAME": "R. Brown Masonry & Property Services",
+            "CITY": "BEETON",
+            "HCRA_INITIALLICENSEDATE": "2006-02-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-02-24 16:01:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "241 Centre St.",
+            "TELEPHONE": "905-729-2636",
+            "FAX": "905-729-2636",
+            "WEBSITEURL": null,
+            "EMAIL": "Jean.Judge@sypatio.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12121993",
+            "TO": "M. Jean Judge",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-729-2636"
+        },
+        {
+            "TOUNIQUENUMBER": "12121993",
+            "TO": "M. Jean Judge",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-729-2636"
+        },
+        {
+            "TOUNIQUENUMBER": "12121993",
+            "TO": "M. Jean Judge",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-729-2636"
+        },
+        {
+            "TOUNIQUENUMBER": "12122003",
+            "TO": "Ross Douglas Brown",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-729-2636"
+        },
+        {
+            "TOUNIQUENUMBER": "12122003",
+            "TO": "Ross Douglas Brown",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-729-2636"
+        },
+        {
+            "TOUNIQUENUMBER": "12122003",
+            "TO": "Ross Douglas Brown",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-729-2636"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36240",
+            "Umbrella": "J & R Brown",
+            "Umbrella ID": "12541240",
+            "VB_NAME": "J & R Brown Inc.",
+            "OPERATINGNAME": "R. Brown Masonry & Property Services",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36240",
+            "MEMBERNAME": "J & R Brown Inc.",
+            "MEMBEROPERATINGNAME": "R. Brown Masonry & Property Services",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36240",
+            "Umbrella": "J & R Brown",
+            "Umbrella ID": "12541240",
+            "VB_NAME": "J & R Brown Inc.",
+            "OPERATINGNAME": "R. Brown Masonry & Property Services",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36418",
+            "MEMBERNAME": "Ross Douglas Brown & Mary Jean Judge",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

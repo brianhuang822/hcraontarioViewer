@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35998",
+            "Umbrella": "Aucoin Developments",
+            "Umbrella ID": "12136526",
+            "VB_NAME": "Brantwood Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "WATERFORD",
+            "HCRA_INITIALLICENSEDATE": "2005-12-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-12-06 14:31:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 997, 113 Church St. E.",
+            "TELEPHONE": "1-519-443-8018",
+            "FAX": "1-519-753-9495",
+            "WEBSITEURL": null,
+            "EMAIL": "paulaucoin@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12093347",
+            "TO": "Paul Aucoin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-9942"
+        },
+        {
+            "TOUNIQUENUMBER": "12093347",
+            "TO": "Paul Aucoin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-9942"
+        },
+        {
+            "TOUNIQUENUMBER": "12093347",
+            "TO": "Paul Aucoin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-754-9942"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35998",
+            "Umbrella": "Aucoin Developments",
+            "Umbrella ID": "12136526",
+            "VB_NAME": "Brantwood Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35889",
+            "MEMBERNAME": "Aucoin Developments Inc.",
+            "MEMBEROPERATINGNAME": "Aucoin Developments",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35998",
+            "Umbrella": "Aucoin Developments",
+            "Umbrella ID": "12136526",
+            "VB_NAME": "Brantwood Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35998",
+            "MEMBERNAME": "Brantwood Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47475",
+            "Umbrella": "Kanata Lakes",
+            "Umbrella ID": "12551521",
+            "VB_NAME": "Jazzar Holdings Inc.",
+            "OPERATINGNAME": "Elevate Development",
+            "CITY": "Kanata",
+            "HCRA_INITIALLICENSEDATE": "2023-07-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-17 19:39:37.000 +0000",
+            "Expiry Date": "2024-07-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "28 Witherspoon Crescent",
+            "TELEPHONE": "613-612-0723",
+            "FAX": null,
+            "WEBSITEURL": "http://elevateluxuryhomes.ca",
+            "EMAIL": "sjazzar@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 5,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100449578",
+            "TO": "Samer Jazzar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-612-0723"
+        },
+        {
+            "TOUNIQUENUMBER": "100449578",
+            "TO": "Samer Jazzar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-612-0723"
+        },
+        {
+            "TOUNIQUENUMBER": "100449578",
+            "TO": "Samer Jazzar",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-612-0723"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47475",
+            "Umbrella": "Kanata Lakes",
+            "Umbrella ID": "12551521",
+            "VB_NAME": "Jazzar Holdings Inc.",
+            "OPERATINGNAME": "Elevate Development",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47475",
+            "MEMBERNAME": "Jazzar Holdings Inc.",
+            "MEMBEROPERATINGNAME": "Elevate Development",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47475",
+            "Umbrella": "Kanata Lakes",
+            "Umbrella ID": "12551521",
+            "VB_NAME": "Jazzar Holdings Inc.",
+            "OPERATINGNAME": "Elevate Development",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47651",
+            "MEMBERNAME": "Elevate Luxury Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

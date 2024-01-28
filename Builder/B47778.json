@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47778",
+            "Umbrella": "Malen Capital Group of Companies",
+            "Umbrella ID": "12549156",
+            "VB_NAME": "Monza Residences Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2019-10-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-09 05:00:30.000 +0000",
+            "Expiry Date": "2024-10-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1 Benvenuto Place",
+            "TELEPHONE": "416-929-4221",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "mitch@malencapital.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12225769",
+            "TO": "Mitchell Abraham",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-929-4221"
+        },
+        {
+            "TOUNIQUENUMBER": "12225769",
+            "TO": "Mitchell Abraham",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-929-4221"
+        },
+        {
+            "TOUNIQUENUMBER": "12225769",
+            "TO": "Mitchell Abraham",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-929-4221"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47778",
+            "Umbrella": "Malen Capital Group of Companies",
+            "Umbrella ID": "12549156",
+            "VB_NAME": "Monza Residences Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45482",
+            "MEMBERNAME": "83 Redpath Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47778",
+            "Umbrella": "Malen Capital Group of Companies",
+            "Umbrella ID": "12549156",
+            "VB_NAME": "Monza Residences Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47778",
+            "MEMBERNAME": "Monza Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47778",
+            "Umbrella": "Malen Capital Group of Companies",
+            "Umbrella ID": "12549156",
+            "VB_NAME": "Monza Residences Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61529",
+            "MEMBERNAME": "Kingsway Grand Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47778",
+            "Umbrella": "Malen Capital Group of Companies",
+            "Umbrella ID": "12549156",
+            "VB_NAME": "Monza Residences Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47139",
+            "MEMBERNAME": "Kingsway D Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47778",
+            "Umbrella": "Malen Capital Group of Companies",
+            "Umbrella ID": "12549156",
+            "VB_NAME": "Monza Residences Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37775",
+            "MEMBERNAME": "83 Redpath Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Monza Condominiums",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 863 St. Clair Ave., W. & Winona Dr. ",
+            "# of Units": 76,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

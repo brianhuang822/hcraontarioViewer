@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33636",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "River Street Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Gananoque",
+            "HCRA_INITIALLICENSEDATE": "2003-09-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-20 21:17:25.000 +0000",
+            "Expiry Date": "2024-09-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "310 Nalon Road",
+            "TELEPHONE": "613-382-8442",
+            "FAX": "613-382-3905",
+            "WEBSITEURL": " ",
+            "EMAIL": "claude_hetu@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 24,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 24,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008930",
+            "TO": "Pierre Hetu",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-484-5544"
+        },
+        {
+            "TOUNIQUENUMBER": "600008930",
+            "TO": "Pierre Hetu",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-484-5544"
+        },
+        {
+            "TOUNIQUENUMBER": "600008930",
+            "TO": "Pierre Hetu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-484-5544"
+        },
+        {
+            "TOUNIQUENUMBER": "11924584",
+            "TO": "Therese Hetu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-484-5544"
+        },
+        {
+            "TOUNIQUENUMBER": "11924585",
+            "TO": "Claude Hetu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-382-8442"
+        },
+        {
+            "TOUNIQUENUMBER": "11924585",
+            "TO": "Claude Hetu",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-382-8442"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33636",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "River Street Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Oak Place",
+            "Project Status": "Completed",
+            "Location": "GANANOQUE",
+            "Address": "  Oak St. ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-03-20"
+        },
+        {
+            "Condo Project Name": "OAK STREET",
+            "Project Status": "Completed",
+            "Location": "GANANOQUE",
+            "Address": "  Oak St. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-05-02"
+        }
+    ],
+    "builderConditions": []
+}

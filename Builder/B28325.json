@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28325",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Biltmore Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Guelph",
+            "HCRA_INITIALLICENSEDATE": "1999-07-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-08-31 05:00:02.000 +0000",
+            "Expiry Date": "2023-08-31",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7 Edinburgh Road South",
+            "TELEPHONE": "519-822-3988",
+            "FAX": "519-823-8887",
+            "WEBSITEURL": "www.biltmorehomes.ca",
+            "EMAIL": "tellery@granitehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12507532",
+            "TO": "Mike Taylor",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3988"
+        },
+        {
+            "TOUNIQUENUMBER": "345060",
+            "TO": "Terry Ellery",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3988"
+        },
+        {
+            "TOUNIQUENUMBER": "345060",
+            "TO": "Terry Ellery",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3988"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28325",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Biltmore Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

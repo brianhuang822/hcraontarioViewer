@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B14430",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "RDM Construction Limited",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "1978-10-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-25 22:43:02.000 +0000",
+            "Expiry Date": "2024-06-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "476 Grangeover Crescent",
+            "TELEPHONE": "519-673-4488",
+            "FAX": "519-679-3883",
+            "WEBSITEURL": "www.rdmhomes.on.ca",
+            "EMAIL": "rdmhome@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "308817",
+            "TO": "Donato Di Marcelli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-852-0732"
+        },
+        {
+            "TOUNIQUENUMBER": "308817",
+            "TO": "Donato Di Marcelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-852-0732"
+        },
+        {
+            "TOUNIQUENUMBER": "308817",
+            "TO": "Donato Di Marcelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-852-0732"
+        },
+        {
+            "TOUNIQUENUMBER": "308818",
+            "TO": "Marcello Di Marcelli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-673-4488"
+        },
+        {
+            "TOUNIQUENUMBER": "308818",
+            "TO": "Marcello Di Marcelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-673-4488"
+        },
+        {
+            "TOUNIQUENUMBER": "308818",
+            "TO": "Marcello Di Marcelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-673-4488"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B14430",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "RDM Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "622 WHARCLIFFE INC.",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "622 Wharcliffe Road South",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-11-20"
+        }
+    ],
+    "builderConditions": []
+}

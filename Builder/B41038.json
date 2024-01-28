@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41038",
+            "Umbrella": "Solotex",
+            "Umbrella ID": "12461578",
+            "VB_NAME": "2320 Gerrard Street East Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2011-04-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-04-15 12:01:14.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3830 Bathurst St., Ste. 115",
+            "TELEPHONE": "416-398-1171",
+            "FAX": "416-398-1178",
+            "WEBSITEURL": " ",
+            "EMAIL": "pgoldfischer@solotexcorporation.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 25,
+            "SUMM_TOTAL": 25,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12460711",
+            "TO": "Joseph Salamon",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-782-2664"
+        },
+        {
+            "TOUNIQUENUMBER": "12460711",
+            "TO": "Joseph Salamon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-782-2664"
+        },
+        {
+            "TOUNIQUENUMBER": "12460711",
+            "TO": "Joseph Salamon",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-782-2664"
+        },
+        {
+            "TOUNIQUENUMBER": "12284477",
+            "TO": "Zvi Arie (Paul) Goldfischer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-398-1171"
+        },
+        {
+            "TOUNIQUENUMBER": "12284477",
+            "TO": "Zvi Arie (Paul) Goldfischer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-398-1171"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41038",
+            "Umbrella": "Solotex",
+            "Umbrella ID": "12461578",
+            "VB_NAME": "2320 Gerrard Street East Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41038",
+            "MEMBERNAME": "2320 Gerrard Street East Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41038",
+            "Umbrella": "Solotex",
+            "Umbrella ID": "12461578",
+            "VB_NAME": "2320 Gerrard Street East Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46033",
+            "MEMBERNAME": "1682 Victoria Park Avenue Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41038",
+            "Umbrella": "Solotex",
+            "Umbrella ID": "12461578",
+            "VB_NAME": "2320 Gerrard Street East Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38669",
+            "MEMBERNAME": "Gerrard Residences Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Upper Beach Towns",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "2316-2320 Gerrard St. E.",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-07-16"
+        }
+    ],
+    "builderConditions": []
+}

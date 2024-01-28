@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43429",
+            "Umbrella": "Qwest Homes",
+            "Umbrella ID": "12540711",
+            "VB_NAME": "Qwest Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Dorchester",
+            "HCRA_INITIALLICENSEDATE": "2014-01-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-12 01:17:30.000 +0000",
+            "Expiry Date": "2025-01-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5058 Marion Street",
+            "TELEPHONE": "519-521-0153",
+            "FAX": null,
+            "WEBSITEURL": "www.qwesthomes.ca",
+            "EMAIL": "carl@qwesthomes.ca",
+            "ACCOUNTNUMBER": "B43429",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 97,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 97,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12402774",
+            "TO": "Carl James Banninga",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-521-0153"
+        },
+        {
+            "TOUNIQUENUMBER": "12402774",
+            "TO": "Carl James Banninga",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-521-0153"
+        },
+        {
+            "TOUNIQUENUMBER": "12402774",
+            "TO": "Carl James Banninga",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-521-0153"
+        },
+        {
+            "TOUNIQUENUMBER": "12438007",
+            "TO": "Scott David Brown",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-671-6638"
+        },
+        {
+            "TOUNIQUENUMBER": "12438007",
+            "TO": "Scott David Brown",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-671-6638"
+        },
+        {
+            "TOUNIQUENUMBER": "12438007",
+            "TO": "Scott David Brown",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-671-6638"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43429",
+            "Umbrella": "Qwest Homes",
+            "Umbrella ID": "12540711",
+            "VB_NAME": "Qwest Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43429",
+            "MEMBERNAME": "Qwest Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43429",
+            "Umbrella": "Qwest Homes",
+            "Umbrella ID": "12540711",
+            "VB_NAME": "Qwest Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40820",
+            "MEMBERNAME": "Carl James Banninga, Scott David Brown",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43429",
+            "Umbrella": "Qwest Homes",
+            "Umbrella ID": "12540711",
+            "VB_NAME": "Qwest Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40356",
+            "MEMBERNAME": "Carl Banninga",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Queen's Landing",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "2810 Sheffield Pl.",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

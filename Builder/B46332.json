@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46332",
+            "Umbrella": "Prica",
+            "Umbrella ID": "12547286",
+            "VB_NAME": "Condos2Own Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Waterloo",
+            "HCRA_INITIALLICENSEDATE": "2017-11-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-11-12 04:15:18.000 +0000",
+            "Expiry Date": "2022-11-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "156 Columbia Street West",
+            "TELEPHONE": "519-340-0171",
+            "FAX": "519/886-1184",
+            "WEBSITEURL": null,
+            "EMAIL": "Bmota@pricaglobal.com",
+            "ACCOUNTNUMBER": "B46332",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 427,
+            "SUMM_TOTAL": 427,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100327975",
+            "TO": "Ankica Prica",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-880-1224"
+        },
+        {
+            "TOUNIQUENUMBER": "100327974",
+            "TO": "Zeljko Prica",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-746-0095"
+        },
+        {
+            "TOUNIQUENUMBER": "100327974",
+            "TO": "Zeljko Prica",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-746-0095"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46332",
+            "Umbrella": "Prica",
+            "Umbrella ID": "12547286",
+            "VB_NAME": "Condos2Own Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46334",
+            "MEMBERNAME": "PGCM One Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46332",
+            "Umbrella": "Prica",
+            "Umbrella ID": "12547286",
+            "VB_NAME": "Condos2Own Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46332",
+            "MEMBERNAME": "Condos2Own Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "77 Leland",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": " 71-77 Leland St. ",
+            "# of Units": 124,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-09-25"
+        },
+        {
+            "Condo Project Name": "258 Sunview",
+            "Project Status": "Completed",
+            "Location": "WATERLOO",
+            "Address": " 258 Sunview ",
+            "# of Units": 304,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-12-20"
+        }
+    ],
+    "builderConditions": []
+}

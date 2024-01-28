@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36966",
+            "Umbrella": "Medi Terra Properties",
+            "Umbrella ID": "12252149",
+            "VB_NAME": "Medi-Terra Properties Corp",
+            "OPERATINGNAME": null,
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2006-09-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-09-30 15:04:55.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "55 Blue Willow Dr.",
+            "TELEPHONE": "905-265-1976",
+            "FAX": "905-265-1979",
+            "WEBSITEURL": null,
+            "EMAIL": "jspina@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341265",
+            "TO": "Maria Di Giuseppe (Spina)",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-265-1976"
+        },
+        {
+            "TOUNIQUENUMBER": "341265",
+            "TO": "Maria Di Giuseppe (Spina)",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-265-1976"
+        },
+        {
+            "TOUNIQUENUMBER": "341265",
+            "TO": "Maria Di Giuseppe (Spina)",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-265-1976"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36966",
+            "Umbrella": "Medi Terra Properties",
+            "Umbrella ID": "12252149",
+            "VB_NAME": "Medi-Terra Properties Corp",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38800",
+            "MEMBERNAME": "Valley Green Homes Corp.",
+            "MEMBEROPERATINGNAME": "Valley Green Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36966",
+            "Umbrella": "Medi Terra Properties",
+            "Umbrella ID": "12252149",
+            "VB_NAME": "Medi-Terra Properties Corp",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36966",
+            "MEMBERNAME": "Medi-Terra Properties Corp",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

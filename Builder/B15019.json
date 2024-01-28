@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B15019",
+            "Umbrella": "Vandermolen Homes",
+            "Umbrella ID": "11997776",
+            "VB_NAME": "VanderMolen Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Lucan",
+            "HCRA_INITIALLICENSEDATE": "1986-06-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-05 16:11:22.000 +0000",
+            "Expiry Date": "2024-06-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "33762 Roman Line",
+            "TELEPHONE": "519-859-0591",
+            "FAX": null,
+            "WEBSITEURL": "www.vandermolenhomes.ca",
+            "EMAIL": "info@vandermolenhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 132,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 132,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100646883",
+            "TO": "Dane Vandermolen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-852-7453"
+        },
+        {
+            "TOUNIQUENUMBER": "100646883",
+            "TO": "Dane Vandermolen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-852-7453"
+        },
+        {
+            "TOUNIQUENUMBER": "335069",
+            "TO": "John Peter Vandermolen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-859-0591"
+        },
+        {
+            "TOUNIQUENUMBER": "335069",
+            "TO": "John Peter Vandermolen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-859-0591"
+        },
+        {
+            "TOUNIQUENUMBER": "335069",
+            "TO": "John Peter Vandermolen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-859-0591"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B15019",
+            "Umbrella": "Vandermolen Homes",
+            "Umbrella ID": "11997776",
+            "VB_NAME": "VanderMolen Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B15019",
+            "MEMBERNAME": "VanderMolen Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B15019",
+            "Umbrella": "Vandermolen Homes",
+            "Umbrella ID": "11997776",
+            "VB_NAME": "VanderMolen Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34231",
+            "MEMBERNAME": "Jimsol House Company Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

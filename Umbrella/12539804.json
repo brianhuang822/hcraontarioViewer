@@ -1,0 +1,82 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Hampshire Homes Dundas",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "12 Falconer Dr., Unit 8",
+            "TELEPHONE": "905/826-7666",
+            "FAX": "905/826-7676",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Barchester Manors Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27698",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Hampshire Homes Dundas Limited",
+            "MEMBEROPERATINGNAME": "Huron Ridge",
+            "MEMBERVBNUM": "B26602",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Hampshire Homes Dundas II Limited",
+            "MEMBEROPERATINGNAME": "Huron Ridge Phase II",
+            "MEMBERVBNUM": "B26863",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Momat Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24150",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "HURAN RIDGE - PHASE II",
+            "Account Number": "B26863",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "800 Dundas St. W.",
+            "# of Units": 41,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-12-05"
+        },
+        {
+            "Condo Project Name": "HURON RIDGE",
+            "Account Number": "B26602",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "840 Dundas St. W.",
+            "# of Units": 25,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-06-02"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36376",
+            "Umbrella": "Jewell Developments",
+            "Umbrella ID": "12540923",
+            "VB_NAME": "Jewell Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2007-05-12 01:52:26.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "93 Hollyrood Hts Dr.",
+            "TELEPHONE": "416-907-3242",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12157919",
+            "TO": "Chad Jewell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-907-3242"
+        },
+        {
+            "TOUNIQUENUMBER": "12157919",
+            "TO": "Chad Jewell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-907-3242"
+        },
+        {
+            "TOUNIQUENUMBER": "12157919",
+            "TO": "Chad Jewell",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-907-3242"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36376",
+            "Umbrella": "Jewell Developments",
+            "Umbrella ID": "12540923",
+            "VB_NAME": "Jewell Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B36375",
+            "MEMBERNAME": "Chad Jewell",
+            "MEMBEROPERATINGNAME": "Jewell Developments",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B36376",
+            "Umbrella": "Jewell Developments",
+            "Umbrella ID": "12540923",
+            "VB_NAME": "Jewell Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B36376",
+            "MEMBERNAME": "Jewell Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

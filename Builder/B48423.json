@@ -1,0 +1,68 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48423",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Laframboise Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Kingston",
+            "HCRA_INITIALLICENSEDATE": "2020-08-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-22 14:36:33.000 +0000",
+            "Expiry Date": "2024-08-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "616 Justus Drive",
+            "TELEPHONE": "613-530-1230",
+            "FAX": null,
+            "WEBSITEURL": "https://www.laframboiseconstruction.ca/",
+            "EMAIL": "mason@laframboiseconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100610868",
+            "TO": "Mason Laframboise",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-530-1230"
+        },
+        {
+            "TOUNIQUENUMBER": "100610868",
+            "TO": "Mason Laframboise",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-530-1230"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48423",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Laframboise Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

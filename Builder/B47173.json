@@ -1,0 +1,140 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47173",
+            "Umbrella": "Allied REIT",
+            "Umbrella ID": "12549131",
+            "VB_NAME": "489-539 King Street West Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2018-10-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-10-17 04:15:19.000 +0000",
+            "Expiry Date": "2021-10-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "134 Peter St., Ste. 1700",
+            "TELEPHONE": "416/977-9002",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "hclark@alliedreit.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100458715",
+            "TO": "Hugh Clark",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-977-9002"
+        },
+        {
+            "TOUNIQUENUMBER": "100458716",
+            "TO": "Tim Low",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-977-9002"
+        },
+        {
+            "TOUNIQUENUMBER": "100522217",
+            "TO": "Cecilia C. Williams",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-977-9002"
+        },
+        {
+            "TOUNIQUENUMBER": "100522217",
+            "TO": "Cecilia C. Williams",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-977-9002"
+        },
+        {
+            "TOUNIQUENUMBER": "100458717",
+            "TO": "David Pitfield",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-977-9002"
+        },
+        {
+            "TOUNIQUENUMBER": "100458710",
+            "TO": "Michael R. Emory",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-977-9002"
+        },
+        {
+            "TOUNIQUENUMBER": "100458710",
+            "TO": "Michael R. Emory",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-977-9002"
+        },
+        {
+            "TOUNIQUENUMBER": "100458709",
+            "TO": "Thomas G. Burns",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-977-9002"
+        },
+        {
+            "TOUNIQUENUMBER": "100458709",
+            "TO": "Thomas G. Burns",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-977-9002"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47173",
+            "Umbrella": "Allied REIT",
+            "Umbrella ID": "12549131",
+            "VB_NAME": "489-539 King Street West Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47173",
+            "MEMBERNAME": "489-539 King Street West Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B47173",
+            "Umbrella": "Allied REIT",
+            "Umbrella ID": "12549131",
+            "VB_NAME": "489-539 King Street West Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46512",
+            "MEMBERNAME": "RA King/Portland Nominee Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "489-539 King Street West.",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 489-539 King St. W. ",
+            "# of Units": 440,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39595",
+            "Umbrella": "Avion Contracting",
+            "Umbrella ID": "12540297",
+            "VB_NAME": "1035110 Ontario Inc.",
+            "OPERATINGNAME": "Avion Contracting",
+            "CITY": "Collingwood",
+            "HCRA_INITIALLICENSEDATE": "2009-05-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-05 13:58:30.000 +0000",
+            "Expiry Date": "2024-05-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "59 Glen Road",
+            "TELEPHONE": "705-623-7010",
+            "FAX": "705-444-8235",
+            "WEBSITEURL": " ",
+            "EMAIL": "joe@avioncontracting.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344470",
+            "TO": "Josip Abaza",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-623-7010"
+        },
+        {
+            "TOUNIQUENUMBER": "344470",
+            "TO": "Josip Abaza",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-623-7010"
+        },
+        {
+            "TOUNIQUENUMBER": "344470",
+            "TO": "Josip Abaza",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-623-7010"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39595",
+            "Umbrella": "Avion Contracting",
+            "Umbrella ID": "12540297",
+            "VB_NAME": "1035110 Ontario Inc.",
+            "OPERATINGNAME": "Avion Contracting",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27928",
+            "MEMBERNAME": "1035110 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Avion Contracting",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39595",
+            "Umbrella": "Avion Contracting",
+            "Umbrella ID": "12540297",
+            "VB_NAME": "1035110 Ontario Inc.",
+            "OPERATINGNAME": "Avion Contracting",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39595",
+            "MEMBERNAME": "1035110 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Avion Contracting",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

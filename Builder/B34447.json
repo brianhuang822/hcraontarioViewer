@@ -1,0 +1,141 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34447",
+            "Umbrella": "Castle Group Developments",
+            "Umbrella ID": "12010350",
+            "VB_NAME": "1566038 Ontario Inc.",
+            "OPERATINGNAME": "Tuscany Gates Condominiums",
+            "CITY": "MARKHAM",
+            "HCRA_INITIALLICENSEDATE": "2004-05-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-05-29 12:00:16.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "100-2770 14th Avenue",
+            "TELEPHONE": "905-738-9292",
+            "FAX": "905-738-4547",
+            "WEBSITEURL": null,
+            "EMAIL": "stanley@castlegroup.ca",
+            "ACCOUNTNUMBER": "B34447",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 225000,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 225000
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11682599",
+            "TO": "Musa F. Suleman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-621-3393"
+        },
+        {
+            "TOUNIQUENUMBER": "11888237",
+            "TO": "Naheel Suleman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-987-6500"
+        },
+        {
+            "TOUNIQUENUMBER": "11888235",
+            "TO": "Mumtaz Bhamani-Walji",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-738-9292"
+        },
+        {
+            "TOUNIQUENUMBER": "11888236",
+            "TO": "Nazmin Nanji",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-738-9292"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34447",
+            "Umbrella": "Castle Group Developments",
+            "Umbrella ID": "12010350",
+            "VB_NAME": "1566038 Ontario Inc.",
+            "OPERATINGNAME": "Tuscany Gates Condominiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44101",
+            "MEMBERNAME": "2299650 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34447",
+            "Umbrella": "Castle Group Developments",
+            "Umbrella ID": "12010350",
+            "VB_NAME": "1566038 Ontario Inc.",
+            "OPERATINGNAME": "Tuscany Gates Condominiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33223",
+            "MEMBERNAME": "1540465 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Bellair Gardens",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34447",
+            "Umbrella": "Castle Group Developments",
+            "Umbrella ID": "12010350",
+            "VB_NAME": "1566038 Ontario Inc.",
+            "OPERATINGNAME": "Tuscany Gates Condominiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38262",
+            "MEMBERNAME": "The Palm Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34447",
+            "Umbrella": "Castle Group Developments",
+            "Umbrella ID": "12010350",
+            "VB_NAME": "1566038 Ontario Inc.",
+            "OPERATINGNAME": "Tuscany Gates Condominiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34447",
+            "MEMBERNAME": "1566038 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Tuscany Gates Condominiums",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34447",
+            "Umbrella": "Castle Group Developments",
+            "Umbrella ID": "12010350",
+            "VB_NAME": "1566038 Ontario Inc.",
+            "OPERATINGNAME": "Tuscany Gates Condominiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47171",
+            "MEMBERNAME": "HarbourTen10 Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TUSCANY GATES",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "220 Forum Dr.",
+            "# of Units": 236,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-12-17"
+        }
+    ],
+    "builderConditions": []
+}

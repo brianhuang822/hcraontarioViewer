@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42782",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Yorkdale Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2016-01-18 23:49:53.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "11685 Yonge St, Unit A306",
+            "TELEPHONE": "905/508-9500",
+            "FAX": "905/508-9590",
+            "WEBSITEURL": "www.yorkdalegroup.com",
+            "EMAIL": "info@yorkdalegroup.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12083708",
+            "TO": "Armen Nazarian",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-508-9500"
+        },
+        {
+            "TOUNIQUENUMBER": "12083708",
+            "TO": "Armen Nazarian",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-508-9500"
+        },
+        {
+            "TOUNIQUENUMBER": "12083708",
+            "TO": "Armen Nazarian",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-508-9500"
+        },
+        {
+            "TOUNIQUENUMBER": "12083428",
+            "TO": "Levon Nazarian",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-733-8843"
+        },
+        {
+            "TOUNIQUENUMBER": "12083428",
+            "TO": "Levon Nazarian",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-733-8843"
+        },
+        {
+            "TOUNIQUENUMBER": "12083428",
+            "TO": "Levon Nazarian",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-733-8843"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42782",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Yorkdale Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Bellevue Parc",
+            "Project Status": null,
+            "Location": "RICHMOND HILL",
+            "Address": "305 Bloomington Rd. W.",
+            "# of Units": 44,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39080",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1582790 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "SUDBURY",
+            "HCRA_INITIALLICENSEDATE": "2008-10-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-10-24 15:01:25.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1289 Sunnyside Road",
+            "TELEPHONE": "705-688-0018",
+            "FAX": "705-688-0925",
+            "WEBSITEURL": null,
+            "EMAIL": "nhd.al@sympatico.ca",
+            "ACCOUNTNUMBER": "B39080",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1200,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1200
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "331023",
+            "TO": "Alain McCann",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-688-0018"
+        },
+        {
+            "TOUNIQUENUMBER": "331023",
+            "TO": "Alain McCann",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-688-0018"
+        },
+        {
+            "TOUNIQUENUMBER": "331023",
+            "TO": "Alain McCann",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-688-0018"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39080",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1582790 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

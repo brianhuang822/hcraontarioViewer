@@ -1,0 +1,152 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61889",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "Fieldway Road Developments Inc.",
+            "OPERATINGNAME": "Fieldway Road Developments Inc.",
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2023-01-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-15 21:27:20.000 +0000",
+            "Expiry Date": "2025-01-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1004 Middlegate Road",
+            "TELEPHONE": "905-896-8900",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "afanelli@ellisdon.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600013201",
+            "TO": "Christopher Smith",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-896-8900"
+        },
+        {
+            "TOUNIQUENUMBER": "600013201",
+            "TO": "Christopher Smith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-896-8900"
+        },
+        {
+            "TOUNIQUENUMBER": "600013202",
+            "TO": "John Cundari",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-920-9012"
+        },
+        {
+            "TOUNIQUENUMBER": "600013202",
+            "TO": "John Cundari",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-920-9012"
+        },
+        {
+            "TOUNIQUENUMBER": "600009146",
+            "TO": "Brian Kilburn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-455-6770"
+        },
+        {
+            "TOUNIQUENUMBER": "100568583",
+            "TO": "Joey Comeau",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-937-6310"
+        },
+        {
+            "TOUNIQUENUMBER": "100568583",
+            "TO": "Joey Comeau",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-937-6310"
+        },
+        {
+            "TOUNIQUENUMBER": "100615110",
+            "TO": "Marco Di Carlantonio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-2424"
+        },
+        {
+            "TOUNIQUENUMBER": "100615110",
+            "TO": "Marco Di Carlantonio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-2424"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61889",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "Fieldway Road Developments Inc.",
+            "OPERATINGNAME": "Fieldway Road Developments Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61889",
+            "MEMBERNAME": "Fieldway Road Developments Inc.",
+            "MEMBEROPERATINGNAME": "Fieldway Road Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61889",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "Fieldway Road Developments Inc.",
+            "OPERATINGNAME": "Fieldway Road Developments Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27060",
+            "MEMBERNAME": "Ellis-Don Residential Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B61889",
+            "Umbrella": "EllisDon",
+            "Umbrella ID": "12539753",
+            "VB_NAME": "Fieldway Road Developments Inc.",
+            "OPERATINGNAME": "Fieldway Road Developments Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38330",
+            "MEMBERNAME": "EllisDon Residential Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Arcadia District (Tower C)",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 56 Fieldway Road ",
+            "# of Units": 405,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

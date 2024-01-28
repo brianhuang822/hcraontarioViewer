@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27107",
+            "Umbrella": "Barchard Homes",
+            "Umbrella ID": "12539812",
+            "VB_NAME": "Castle Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "BOWMANVILLE",
+            "HCRA_INITIALLICENSEDATE": "1998-02-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-02-28 13:32:52.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "98 Concession St. E.",
+            "TELEPHONE": "905/261-2278",
+            "FAX": "905/987-1829",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339854",
+            "TO": "James (Jim) E. Barchard",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-261-2278"
+        },
+        {
+            "TOUNIQUENUMBER": "339854",
+            "TO": "James (Jim) E. Barchard",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-261-2278"
+        },
+        {
+            "TOUNIQUENUMBER": "339854",
+            "TO": "James (Jim) E. Barchard",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-261-2278"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27107",
+            "Umbrella": "Barchard Homes",
+            "Umbrella ID": "12539812",
+            "VB_NAME": "Castle Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27107",
+            "MEMBERNAME": "Castle Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27107",
+            "Umbrella": "Barchard Homes",
+            "Umbrella ID": "12539812",
+            "VB_NAME": "Castle Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33388",
+            "MEMBERNAME": "1307360 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

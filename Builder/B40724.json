@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40724",
+            "Umbrella": "S & A Developments",
+            "Umbrella ID": "12542831",
+            "VB_NAME": "Phantom Developments Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2010-09-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-12 22:45:54.000 +0000",
+            "Expiry Date": "2024-09-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "207 Weston Road",
+            "TELEPHONE": "416-762-4314",
+            "FAX": "416-762-1736",
+            "WEBSITEURL": " ",
+            "EMAIL": "maria@sa-dev.ca",
+            "ACCOUNTNUMBER": "B40724",
+            "Total Outstanding Amount": 1202042.43,
+            "TAB": 0,
+            "BREACH": 1202042.43,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 512,
+            "SUMM_TOTAL": 512,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 1,
+            "SUMM_MAJOR_AMT": 1058219.29,
+            "SUMM_TOTAL_CLAIMS": 1058219.29
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332618",
+            "TO": "Jay Strasser",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-4314"
+        },
+        {
+            "TOUNIQUENUMBER": "12429962",
+            "TO": "Henry Strasser",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-7177"
+        },
+        {
+            "TOUNIQUENUMBER": "332614",
+            "TO": "Alexander Strasser",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-4314"
+        },
+        {
+            "TOUNIQUENUMBER": "332614",
+            "TO": "Alexander Strasser",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-762-4314"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40724",
+            "Umbrella": "S & A Developments",
+            "Umbrella ID": "12542831",
+            "VB_NAME": "Phantom Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44467",
+            "MEMBERNAME": "Phantom Developments Teagarden Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40724",
+            "Umbrella": "S & A Developments",
+            "Umbrella ID": "12542831",
+            "VB_NAME": "Phantom Developments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40724",
+            "MEMBERNAME": "Phantom Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Jade Waterfront Condos",
+            "Project Status": "Completed",
+            "Location": "ETOBICOKE",
+            "Address": " 33 Shore Breeze Dr. ",
+            "# of Units": 381,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-10-09"
+        },
+        {
+            "Condo Project Name": "Jade Condominiums at Bayview and Sheppard",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": " 399 Spring Garden Ave. ",
+            "# of Units": 172,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-07-24"
+        }
+    ],
+    "builderConditions": []
+}

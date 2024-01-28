@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9083",
+            "Umbrella": "Mahabir Homes",
+            "Umbrella ID": "12540426",
+            "VB_NAME": "Mahabir Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "1987-07-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1996-07-04 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1420 Upper Gage Ave.",
+            "TELEPHONE": "(905)389-2450",
+            "FAX": "(905)387-5591",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "320803",
+            "TO": "Khusoomb Mahabir",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-690-4295"
+        },
+        {
+            "TOUNIQUENUMBER": "320803",
+            "TO": "Khusoomb Mahabir",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-690-4295"
+        },
+        {
+            "TOUNIQUENUMBER": "320803",
+            "TO": "Khusoomb Mahabir",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-690-4295"
+        },
+        {
+            "TOUNIQUENUMBER": "320804",
+            "TO": "Dinesh Mahabir",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-690-4295"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9083",
+            "Umbrella": "Mahabir Homes",
+            "Umbrella ID": "12540426",
+            "VB_NAME": "Mahabir Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42433",
+            "MEMBERNAME": "Hawk Ridge Homes Inc.",
+            "MEMBEROPERATINGNAME": "Hawk Ridge Homes Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B9083",
+            "Umbrella": "Mahabir Homes",
+            "Umbrella ID": "12540426",
+            "VB_NAME": "Mahabir Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23953",
+            "MEMBERNAME": "Stonehaven Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B9083",
+            "Umbrella": "Mahabir Homes",
+            "Umbrella ID": "12540426",
+            "VB_NAME": "Mahabir Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B9083",
+            "MEMBERNAME": "Mahabir Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": null,
+            "Project Status": "In Progress",
+            "Location": "HAMILTON",
+            "Address": "280 Limeridge Rd e",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

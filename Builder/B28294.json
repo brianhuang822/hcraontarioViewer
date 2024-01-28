@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28294",
+            "Umbrella": "MJD Custom Homes",
+            "Umbrella ID": "11680",
+            "VB_NAME": "1178575 Ontario Inc.",
+            "OPERATINGNAME": "MJD Custom Homes",
+            "CITY": "Kingston",
+            "HCRA_INITIALLICENSEDATE": "1999-05-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-15 22:08:18.000 +0000",
+            "Expiry Date": "2024-05-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "649 Rogers Side Road",
+            "TELEPHONE": "613-544-8426",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "mjdcustomhomes@cogeco.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345006",
+            "TO": "Sharon Letendre",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-544-8426"
+        },
+        {
+            "TOUNIQUENUMBER": "345006",
+            "TO": "Sharon Letendre",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-544-8426"
+        },
+        {
+            "TOUNIQUENUMBER": "338214",
+            "TO": "Matthew Dowling",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-544-8426"
+        },
+        {
+            "TOUNIQUENUMBER": "338214",
+            "TO": "Matthew Dowling",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-544-8426"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28294",
+            "Umbrella": "MJD Custom Homes",
+            "Umbrella ID": "11680",
+            "VB_NAME": "1178575 Ontario Inc.",
+            "OPERATINGNAME": "MJD Custom Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B20935",
+            "MEMBERNAME": "Matthew Dowling",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28294",
+            "Umbrella": "MJD Custom Homes",
+            "Umbrella ID": "11680",
+            "VB_NAME": "1178575 Ontario Inc.",
+            "OPERATINGNAME": "MJD Custom Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28294",
+            "MEMBERNAME": "1178575 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "MJD Custom Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

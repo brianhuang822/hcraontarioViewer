@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31666",
+            "Umbrella": "K & K Industries",
+            "Umbrella ID": "12540701",
+            "VB_NAME": "K & K Industries Inc.",
+            "OPERATINGNAME": "K & K Homes",
+            "CITY": "KOMOKA",
+            "HCRA_INITIALLICENSEDATE": "2001-07-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-07-28 12:30:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "143 Ontario Ave.",
+            "TELEPHONE": "519-473-7003",
+            "FAX": "519-473-8373",
+            "WEBSITEURL": null,
+            "EMAIL": "KANDKINDUSTRIES@EXECULINK.COM",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "310298",
+            "TO": "Ken Klassen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-473-7003"
+        },
+        {
+            "TOUNIQUENUMBER": "310298",
+            "TO": "Ken Klassen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-473-7003"
+        },
+        {
+            "TOUNIQUENUMBER": "310298",
+            "TO": "Ken Klassen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-473-7003"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31666",
+            "Umbrella": "K & K Industries",
+            "Umbrella ID": "12540701",
+            "VB_NAME": "K & K Industries Inc.",
+            "OPERATINGNAME": "K & K Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31666",
+            "MEMBERNAME": "K & K Industries Inc.",
+            "MEMBEROPERATINGNAME": "K & K Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31666",
+            "Umbrella": "K & K Industries",
+            "Umbrella ID": "12540701",
+            "VB_NAME": "K & K Industries Inc.",
+            "OPERATINGNAME": "K & K Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26984",
+            "MEMBERNAME": "K&k Industries Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,162 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B14717",
+            "Umbrella": "Hayhoe Homes",
+            "Umbrella ID": "12466134",
+            "VB_NAME": "H.J. Hayhoe Ltd.",
+            "OPERATINGNAME": "Hayhoe Homes",
+            "CITY": "ST. THOMAS",
+            "HCRA_INITIALLICENSEDATE": "1979-06-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-08-22 12:00:14.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1 Barrie Blvd.",
+            "TELEPHONE": "519-633-2050",
+            "FAX": "519-633-2037",
+            "WEBSITEURL": "www.hayhoehomes.com",
+            "EMAIL": "tom.looby@hayhoehomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "314694",
+            "TO": "William R. Hayhoe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-633-2050"
+        },
+        {
+            "TOUNIQUENUMBER": "314694",
+            "TO": "William R. Hayhoe",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-633-2050"
+        },
+        {
+            "TOUNIQUENUMBER": "314694",
+            "TO": "William R. Hayhoe",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-633-2050"
+        },
+        {
+            "TOUNIQUENUMBER": "11942294",
+            "TO": "Joseph E. Hayhoe",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-633-2050"
+        },
+        {
+            "TOUNIQUENUMBER": "314823",
+            "TO": "Thomas Looby",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-633-2050"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B14717",
+            "Umbrella": "Hayhoe Homes",
+            "Umbrella ID": "12466134",
+            "VB_NAME": "H.J. Hayhoe Ltd.",
+            "OPERATINGNAME": "Hayhoe Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B14717",
+            "MEMBERNAME": "H.J. Hayhoe Ltd.",
+            "MEMBEROPERATINGNAME": "Hayhoe Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B14717",
+            "Umbrella": "Hayhoe Homes",
+            "Umbrella ID": "12466134",
+            "VB_NAME": "H.J. Hayhoe Ltd.",
+            "OPERATINGNAME": "Hayhoe Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41062",
+            "MEMBERNAME": "Performance Communities Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WYNDFIELD RIDGE",
+            "Project Status": null,
+            "Location": "ST. THOMAS",
+            "Address": "100 Southgate Pkwy",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "WYNDFIELD RIDGE",
+            "Project Status": "Completed",
+            "Location": "ST. THOMAS",
+            "Address": "101 Southgate Parkway",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-02-11"
+        },
+        {
+            "Condo Project Name": "TALBOT CHASE",
+            "Project Status": "Completed",
+            "Location": "ST. THOMAS",
+            "Address": "19 Augusta Cres.",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-10-03"
+        },
+        {
+            "Condo Project Name": "WINDEMERE GATE",
+            "Project Status": "Completed",
+            "Location": "ST THOMAS",
+            "Address": "20 Windemere Pl.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-03-26"
+        },
+        {
+            "Condo Project Name": "WINDEMERE GATE",
+            "Project Status": "Completed",
+            "Location": "ST THOMAS",
+            "Address": "20 Windemere Gt.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-08-03"
+        },
+        {
+            "Condo Project Name": "MORRISON VILLAGE",
+            "Project Status": "Completed",
+            "Location": "ST THOMAS",
+            "Address": "18 Morrison Dr.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-02-25"
+        }
+    ],
+    "builderConditions": []
+}

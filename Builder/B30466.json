@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B30466",
+            "Umbrella": "Countymen Contractors",
+            "Umbrella ID": "12540013",
+            "VB_NAME": "Countymen Contractors Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "PICTON",
+            "HCRA_INITIALLICENSEDATE": "2000-06-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-06-03 12:31:42.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 270",
+            "TELEPHONE": "(613) 476-8022",
+            "FAX": "(613) 476-8022",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11630849",
+            "TO": "Valerie Botts",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613- 476-8022"
+        },
+        {
+            "TOUNIQUENUMBER": "303708",
+            "TO": "Paul Botts",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-476-8022"
+        },
+        {
+            "TOUNIQUENUMBER": "303708",
+            "TO": "Paul Botts",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-476-8022"
+        },
+        {
+            "TOUNIQUENUMBER": "303708",
+            "TO": "Paul Botts",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-476-8022"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B30466",
+            "Umbrella": "Countymen Contractors",
+            "Umbrella ID": "12540013",
+            "VB_NAME": "Countymen Contractors Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B3733",
+            "MEMBERNAME": "Countymen Contractors Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B30466",
+            "Umbrella": "Countymen Contractors",
+            "Umbrella ID": "12540013",
+            "VB_NAME": "Countymen Contractors Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30466",
+            "MEMBERNAME": "Countymen Contractors Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

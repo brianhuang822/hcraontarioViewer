@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62084",
+            "Umbrella": "Calabogie Peaks",
+            "Umbrella ID": "500002174",
+            "VB_NAME": "CP GP Inc., as general partner of and on behalf of Mountain Developments LP",
+            "OPERATINGNAME": "CP GP Inc., as general partner of and on behalf of Mountain Developments LP",
+            "CITY": "Calabogie",
+            "HCRA_INITIALLICENSEDATE": "2023-04-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-05 12:34:04.000 +0000",
+            "Expiry Date": "2024-04-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "30 Barrett Chute Road",
+            "TELEPHONE": "613-752-2720",
+            "FAX": null,
+            "WEBSITEURL": "https://www.calabogie.com",
+            "EMAIL": "pmurphy@calabogie.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12273203",
+            "TO": "Paul Murphy",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-752-2720"
+        },
+        {
+            "TOUNIQUENUMBER": "12273203",
+            "TO": "Paul Murphy",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-752-2720"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62084",
+            "Umbrella": "Calabogie Peaks",
+            "Umbrella ID": "500002174",
+            "VB_NAME": "CP GP Inc., as general partner of and on behalf of Mountain Developments LP",
+            "OPERATINGNAME": "CP GP Inc., as general partner of and on behalf of Mountain Developments LP",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62084",
+            "MEMBERNAME": "CP GP Inc., as general partner of and on behalf of Mountain Developments LP",
+            "MEMBEROPERATINGNAME": "CP GP Inc., as general partner of and on behalf of Mountain Developments LP",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62084",
+            "Umbrella": "Calabogie Peaks",
+            "Umbrella ID": "500002174",
+            "VB_NAME": "CP GP Inc., as general partner of and on behalf of Mountain Developments LP",
+            "OPERATINGNAME": "CP GP Inc., as general partner of and on behalf of Mountain Developments LP",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48003",
+            "MEMBERNAME": "Calabogie Peaks ULC",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Juniper Ridge",
+            "Project Status": "In Progress",
+            "Location": "CALABOGIE",
+            "Address": "   ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Juniper Ridge",
+            "Project Status": "In Progress",
+            "Location": "CALABOGIE",
+            "Address": "   ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

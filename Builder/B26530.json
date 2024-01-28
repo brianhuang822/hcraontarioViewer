@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26530",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "974516 Ontario Inc.",
+            "OPERATINGNAME": "Titan Homes",
+            "CITY": "Don Mills",
+            "HCRA_INITIALLICENSEDATE": "1997-07-31",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-06 20:18:00.000 +0000",
+            "Expiry Date": "2024-08-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "101 Duncan Mill Road",
+            "TELEPHONE": "416-391-1220",
+            "FAX": "416-391-1727",
+            "WEBSITEURL": "www.titanhomes.ca",
+            "EMAIL": "titanhomes@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 220,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 220,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "342963",
+            "TO": "Lawrence Saltzman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-1220"
+        },
+        {
+            "TOUNIQUENUMBER": "342963",
+            "TO": "Lawrence Saltzman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-1220"
+        },
+        {
+            "TOUNIQUENUMBER": "342963",
+            "TO": "Lawrence Saltzman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-1220"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26530",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "974516 Ontario Inc.",
+            "OPERATINGNAME": "Titan Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Champlain Woods",
+            "Project Status": null,
+            "Location": "ORILLIA",
+            "Address": "395 Gill St.",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "North Lake Village",
+            "Project Status": null,
+            "Location": "ORILLIA",
+            "Address": "9 Ferguson Rd.",
+            "# of Units": 55,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

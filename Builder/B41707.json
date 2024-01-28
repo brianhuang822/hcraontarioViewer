@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41707",
+            "Umbrella": "DeMarco Construction",
+            "Umbrella ID": "12523536",
+            "VB_NAME": "Tom DeMarco",
+            "OPERATINGNAME": null,
+            "CITY": "RICHMOND",
+            "HCRA_INITIALLICENSEDATE": "2012-02-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-02-17 16:01:32.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "101 Burke St",
+            "TELEPHONE": "613/838-4234",
+            "FAX": "613/836-0777",
+            "WEBSITEURL": " ",
+            "EMAIL": "tdemarco@bell.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12486990",
+            "TO": "Tom DeMarco",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-829-2777"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41707",
+            "Umbrella": "DeMarco Construction",
+            "Umbrella ID": "12523536",
+            "VB_NAME": "Tom DeMarco",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41409",
+            "MEMBERNAME": "DeMarco Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41707",
+            "Umbrella": "DeMarco Construction",
+            "Umbrella ID": "12523536",
+            "VB_NAME": "Tom DeMarco",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41707",
+            "MEMBERNAME": "Tom DeMarco",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

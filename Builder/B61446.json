@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61446",
+            "Umbrella": "Executive Holdings",
+            "Umbrella ID": "500001557",
+            "VB_NAME": "719 Sheppard Avenue West Ltd.",
+            "OPERATINGNAME": "719 Sheppard Avenue West Ltd.",
+            "CITY": "Etobicoke",
+            "HCRA_INITIALLICENSEDATE": "2022-07-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-06 18:24:51.000 +0000",
+            "Expiry Date": "2024-07-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "40 Claireville Drive",
+            "TELEPHONE": "647-889-2425",
+            "FAX": null,
+            "WEBSITEURL": "https://www.privilla.ca",
+            "EMAIL": "enzo@executiveholdings.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100392575",
+            "TO": "Vincenzo Cirillo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-889-2425"
+        },
+        {
+            "TOUNIQUENUMBER": "100392575",
+            "TO": "Vincenzo Cirillo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-889-2425"
+        },
+        {
+            "TOUNIQUENUMBER": "100392575",
+            "TO": "Vincenzo Cirillo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-889-2425"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61446",
+            "Umbrella": "Executive Holdings",
+            "Umbrella ID": "500001557",
+            "VB_NAME": "719 Sheppard Avenue West Ltd.",
+            "OPERATINGNAME": "719 Sheppard Avenue West Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61446",
+            "MEMBERNAME": "719 Sheppard Avenue West Ltd.",
+            "MEMBEROPERATINGNAME": "719 Sheppard Avenue West Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61446",
+            "Umbrella": "Executive Holdings",
+            "Umbrella ID": "500001557",
+            "VB_NAME": "719 Sheppard Avenue West Ltd.",
+            "OPERATINGNAME": "719 Sheppard Avenue West Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41999",
+            "MEMBERNAME": "Royal Grand Woodbine Developments Inc.",
+            "MEMBEROPERATINGNAME": "Royal Grand Woodbine Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Privilla Condominiums",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 719 Sheppard Avenue W. ",
+            "# of Units": 90,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

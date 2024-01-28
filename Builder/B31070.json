@@ -1,0 +1,91 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31070",
+            "Umbrella": "Edgewood Homes",
+            "Umbrella ID": "12553147",
+            "VB_NAME": "1431531 Ontario Ltd.",
+            "OPERATINGNAME": "Edge Wood Homes",
+            "CITY": "Huntsville",
+            "HCRA_INITIALLICENSEDATE": "2000-10-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-07 20:41:18.000 +0000",
+            "Expiry Date": "2024-10-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 5199",
+            "TELEPHONE": "705-706-0257",
+            "FAX": "705-788-2329",
+            "WEBSITEURL": " ",
+            "EMAIL": "edgewood@muskoka.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 20,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 20,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11667086",
+            "TO": "David Goodfellow",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-706-0257"
+        },
+        {
+            "TOUNIQUENUMBER": "11667086",
+            "TO": "David Goodfellow",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-706-0257"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31070",
+            "Umbrella": "Edgewood Homes",
+            "Umbrella ID": "12553147",
+            "VB_NAME": "1431531 Ontario Ltd.",
+            "OPERATINGNAME": "Edge Wood Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48950",
+            "MEMBERNAME": "2609466 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31070",
+            "Umbrella": "Edgewood Homes",
+            "Umbrella ID": "12553147",
+            "VB_NAME": "1431531 Ontario Ltd.",
+            "OPERATINGNAME": "Edge Wood Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31070",
+            "MEMBERNAME": "1431531 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Edge Wood Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Maple Ridge",
+            "Project Status": null,
+            "Location": "MUSKOKA LAKES",
+            "Address": "35 Kitchen Rd.",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

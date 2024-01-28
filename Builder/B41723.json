@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41723",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Rosewood Custom Homes Ltd.",
+            "OPERATINGNAME": "Rosewood Custom Homes Ltd.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2011-12-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-02 19:18:34.000 +0000",
+            "Expiry Date": "2024-12-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "189 Bayview Heights Drive",
+            "TELEPHONE": "416-346-9633",
+            "FAX": "416-482-9571",
+            "WEBSITEURL": "www.rosewoodcustomhomes.ca",
+            "EMAIL": "armen@rosewoodcustomhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 5,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12283165",
+            "TO": "Armen Kulidjian",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-346-9633"
+        },
+        {
+            "TOUNIQUENUMBER": "12283165",
+            "TO": "Armen Kulidjian",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-346-9633"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41723",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Rosewood Custom Homes Ltd.",
+            "OPERATINGNAME": "Rosewood Custom Homes Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Newcastle Towns",
+            "Project Status": "In Progress",
+            "Location": "NEWCASTLE",
+            "Address": " 415 Mill Street ",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60533",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "WALTER GALVAO INC.",
+            "OPERATINGNAME": "WALTER GALVAO INC.",
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2021-08-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-27 15:13:53.000 +0000",
+            "Expiry Date": "2024-08-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3160 Britannia Road",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 4,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600007612",
+            "TO": "Walter Galvao",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-335-8808"
+        },
+        {
+            "TOUNIQUENUMBER": "600007612",
+            "TO": "Walter Galvao",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-335-8808"
+        },
+        {
+            "TOUNIQUENUMBER": "600007612",
+            "TO": "Walter Galvao",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-335-8808"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60533",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "WALTER GALVAO INC.",
+            "OPERATINGNAME": "WALTER GALVAO INC.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Mountainview Luxury Bungalow Townhomes",
+            "Project Status": "Completed",
+            "Location": "GEORGETOWN",
+            "Address": "  Santa Barbara Lane ",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-11-07"
+        }
+    ],
+    "builderConditions": []
+}

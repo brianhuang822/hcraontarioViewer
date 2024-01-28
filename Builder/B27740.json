@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27740",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "783811 Ontario Inc. & Village Homes Ontario Ltd.",
+            "OPERATINGNAME": "Wes-Li Gardens",
+            "CITY": "SMITHVILLE",
+            "HCRA_INITIALLICENSEDATE": "1999-03-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-03-07 15:15:27.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "12 Garden Dr., Unit 6",
+            "TELEPHONE": "(905)957-7617",
+            "FAX": "(905)957-7617",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "306549",
+            "TO": "John Cochren",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-3204"
+        },
+        {
+            "TOUNIQUENUMBER": "306549",
+            "TO": "John Cochren",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-3204"
+        },
+        {
+            "TOUNIQUENUMBER": "331483",
+            "TO": "Hilbertus(Bert) Smit",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-957-7617"
+        },
+        {
+            "TOUNIQUENUMBER": "331483",
+            "TO": "Hilbertus(Bert) Smit",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-957-7617"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27740",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "783811 Ontario Inc. & Village Homes Ontario Ltd.",
+            "OPERATINGNAME": "Wes-Li Gardens",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "VILLAGE HOMES",
+            "Project Status": "Completed",
+            "Location": "SMITHVILLE",
+            "Address": "Village Dr.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-04-03"
+        }
+    ],
+    "builderConditions": []
+}

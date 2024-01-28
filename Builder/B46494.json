@@ -1,0 +1,113 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46494",
+            "Umbrella": "John Vaughan Homes",
+            "Umbrella ID": "12540089",
+            "VB_NAME": "Vaughan Construction Management Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2017-09-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-11-23 16:11:30.000 +0000",
+            "Expiry Date": "2022-09-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "130 Bridgeland Avenue",
+            "TELEPHONE": "416-654-3534",
+            "FAX": null,
+            "WEBSITEURL": "www.vaughanconstruction.ca",
+            "EMAIL": "john@vaughanconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100457552",
+            "TO": "Virginia Anne Wheler",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-654-3534"
+        },
+        {
+            "TOUNIQUENUMBER": "100457552",
+            "TO": "Virginia Anne Wheler",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-654-3534"
+        },
+        {
+            "TOUNIQUENUMBER": "343576",
+            "TO": "John James Vaughan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-654-3534"
+        },
+        {
+            "TOUNIQUENUMBER": "343576",
+            "TO": "John James Vaughan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-654-3534"
+        },
+        {
+            "TOUNIQUENUMBER": "343576",
+            "TO": "John James Vaughan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-654-3534"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46494",
+            "Umbrella": "John Vaughan Homes",
+            "Umbrella ID": "12540089",
+            "VB_NAME": "Vaughan Construction Management Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46494",
+            "MEMBERNAME": "Vaughan Construction Management Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46494",
+            "Umbrella": "John Vaughan Homes",
+            "Umbrella ID": "12540089",
+            "VB_NAME": "Vaughan Construction Management Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38309",
+            "MEMBERNAME": "Vaughan Construction Management Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46494",
+            "Umbrella": "John Vaughan Homes",
+            "Umbrella ID": "12540089",
+            "VB_NAME": "Vaughan Construction Management Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39719",
+            "MEMBERNAME": "Taylor Brooke Sandringham Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

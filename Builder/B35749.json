@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35749",
+            "Umbrella": "Frank Thibault Homes",
+            "Umbrella ID": "12539909",
+            "VB_NAME": "Francois Thibeault & Mario Brisson",
+            "OPERATINGNAME": "Framar Custom Homes",
+            "CITY": "RUSSELL",
+            "HCRA_INITIALLICENSEDATE": "2005-09-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-09-17 13:30:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Box 256",
+            "TELEPHONE": "613-769-3872",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12084976",
+            "TO": "Mario Brisson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-762-3961"
+        },
+        {
+            "TOUNIQUENUMBER": "310470",
+            "TO": "Francois (Frank) Thibault",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-769-3872"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35749",
+            "Umbrella": "Frank Thibault Homes",
+            "Umbrella ID": "12539909",
+            "VB_NAME": "Francois Thibeault & Mario Brisson",
+            "OPERATINGNAME": "Framar Custom Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35749",
+            "MEMBERNAME": "Francois Thibeault & Mario Brisson",
+            "MEMBEROPERATINGNAME": "Framar Custom Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35749",
+            "Umbrella": "Frank Thibault Homes",
+            "Umbrella ID": "12539909",
+            "VB_NAME": "Francois Thibeault & Mario Brisson",
+            "OPERATINGNAME": "Framar Custom Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28074",
+            "MEMBERNAME": "1310339 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Sunset Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B35749",
+            "Umbrella": "Frank Thibault Homes",
+            "Umbrella ID": "12539909",
+            "VB_NAME": "Francois Thibeault & Mario Brisson",
+            "OPERATINGNAME": "Framar Custom Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26985",
+            "MEMBERNAME": "Russell Aluminum",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

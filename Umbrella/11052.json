@@ -1,0 +1,83 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Dunbury Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "325 Denison St.",
+            "TELEPHONE": "905-474-3600",
+            "FAX": "905-474-3606",
+            "WEBSITEURL": "www.dunburyhomes.com",
+            "EMAIL": "service@dunburyhomes.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Dunbury Homes (Bowmanville) Ltd.",
+            "MEMBEROPERATINGNAME": "Dunbury Meadows",
+            "MEMBERVBNUM": "B31186",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dunbury Homes (Newcastle) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27851",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1324937 Ontario Limited",
+            "MEMBEROPERATINGNAME": "The Manors At Edwards Garden",
+            "MEMBERVBNUM": "B28717",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dunbury Homes (Don Mills) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28295",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Brockland Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28745",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dunbury Homes (Holly) Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26111",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "THE MANORS AT EDWARDS GARDENS",
+            "Account Number": "B28717",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "Cora Urbel Way",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-05-14"
+        }
+    ]
+}

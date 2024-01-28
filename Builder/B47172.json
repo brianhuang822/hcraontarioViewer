@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47172",
+            "Umbrella": "Silverpoint",
+            "Umbrella ID": "12536382",
+            "VB_NAME": "Newpoint Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2020-12-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-09 17:19:38.000 +0000",
+            "Expiry Date": "2024-12-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10710 Bathurst Street",
+            "TELEPHONE": "905-303-6873",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "management@newpointventures.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100516207",
+            "TO": "Jessica Romano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-303-6873"
+        },
+        {
+            "TOUNIQUENUMBER": "12177760",
+            "TO": "Stefano Tognarelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-892-4045"
+        },
+        {
+            "TOUNIQUENUMBER": "12177760",
+            "TO": "Stefano Tognarelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-892-4045"
+        },
+        {
+            "TOUNIQUENUMBER": "328813",
+            "TO": "Mario Romano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-458-0277"
+        },
+        {
+            "TOUNIQUENUMBER": "328813",
+            "TO": "Mario Romano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-458-0277"
+        },
+        {
+            "TOUNIQUENUMBER": "12534481",
+            "TO": "Paula Tognarelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-303-6873"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47172",
+            "Umbrella": "Silverpoint",
+            "Umbrella ID": "12536382",
+            "VB_NAME": "Newpoint Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42079",
+            "MEMBERNAME": "Silverpoint Fine Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47172",
+            "Umbrella": "Silverpoint",
+            "Umbrella ID": "12536382",
+            "VB_NAME": "Newpoint Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47172",
+            "MEMBERNAME": "Newpoint Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "271 Russel Hill",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 271 Russell Hill Road ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

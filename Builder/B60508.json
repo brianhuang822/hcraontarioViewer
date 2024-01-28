@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60508",
+            "Umbrella": "Intel Group",
+            "Umbrella ID": "500001107",
+            "VB_NAME": "Intel Power Inc.",
+            "OPERATINGNAME": "Intel Power Inc.",
+            "CITY": "Concord",
+            "HCRA_INITIALLICENSEDATE": "2021-10-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-19 18:07:49.000 +0000",
+            "Expiry Date": "2024-10-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10 Bradwick Drive",
+            "TELEPHONE": "647-212-0056",
+            "FAX": null,
+            "WEBSITEURL": "http://intelpowerinc.ca",
+            "EMAIL": "paolo@intelpowerinc.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008569",
+            "TO": "Aldo Saccon",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-458-2042"
+        },
+        {
+            "TOUNIQUENUMBER": "600008569",
+            "TO": "Aldo Saccon",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-458-2042"
+        },
+        {
+            "TOUNIQUENUMBER": "600005537",
+            "TO": "Paolo Saccon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-212-0056"
+        },
+        {
+            "TOUNIQUENUMBER": "600005537",
+            "TO": "Paolo Saccon",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-212-0056"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60508",
+            "Umbrella": "Intel Group",
+            "Umbrella ID": "500001107",
+            "VB_NAME": "Intel Power Inc.",
+            "OPERATINGNAME": "Intel Power Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60897",
+            "MEMBERNAME": "PS Capital Holdings Inc.",
+            "MEMBEROPERATINGNAME": "PS Capital Holdings Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60508",
+            "Umbrella": "Intel Group",
+            "Umbrella ID": "500001107",
+            "VB_NAME": "Intel Power Inc.",
+            "OPERATINGNAME": "Intel Power Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60508",
+            "MEMBERNAME": "Intel Power Inc.",
+            "MEMBEROPERATINGNAME": "Intel Power Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

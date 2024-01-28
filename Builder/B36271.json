@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36271",
+            "Umbrella": "Degagne Construction",
+            "Umbrella ID": "12541119",
+            "VB_NAME": "736916 Ontario Ltd.",
+            "OPERATINGNAME": "DeGagne Construction",
+            "CITY": "FORT FRANCES",
+            "HCRA_INITIALLICENSEDATE": "2006-04-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-04-08 15:00:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O.Box  507",
+            "TELEPHONE": "807-274-1070",
+            "FAX": "807 - 274- 1036",
+            "WEBSITEURL": "www.degagneconstruction.ca",
+            "EMAIL": "jb@degagneconstruction.ca",
+            "ACCOUNTNUMBER": "B36271",
+            "Total Outstanding Amount": 94115.76,
+            "TAB": 0,
+            "BREACH": 94115.76,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 71522.34,
+            "SUMM_MAJOR": 1,
+            "SUMM_MAJOR_AMT": 8952.87,
+            "SUMM_TOTAL_CLAIMS": 80475.21
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "314260",
+            "TO": "Betty Degagne",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-938-6498"
+        },
+        {
+            "TOUNIQUENUMBER": "314260",
+            "TO": "Betty Degagne",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-938-6498"
+        },
+        {
+            "TOUNIQUENUMBER": "314260",
+            "TO": "Betty Degagne",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-938-6498"
+        },
+        {
+            "TOUNIQUENUMBER": "314241",
+            "TO": "John Degagne",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-938-6498"
+        },
+        {
+            "TOUNIQUENUMBER": "314241",
+            "TO": "John Degagne",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-938-6498"
+        },
+        {
+            "TOUNIQUENUMBER": "314241",
+            "TO": "John Degagne",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-938-6498"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36271",
+            "Umbrella": "Degagne Construction",
+            "Umbrella ID": "12541119",
+            "VB_NAME": "736916 Ontario Ltd.",
+            "OPERATINGNAME": "DeGagne Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36271",
+            "MEMBERNAME": "736916 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "DeGagne Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36271",
+            "Umbrella": "Degagne Construction",
+            "Umbrella ID": "12541119",
+            "VB_NAME": "736916 Ontario Ltd.",
+            "OPERATINGNAME": "DeGagne Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22954",
+            "MEMBERNAME": "736916 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Degagne Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

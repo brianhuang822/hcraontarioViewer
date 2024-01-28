@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48692",
+            "Umbrella": "North Sails Development",
+            "Umbrella ID": "500002439",
+            "VB_NAME": "5006762 Ontario Inc.",
+            "OPERATINGNAME": "Hunt Custom Homes",
+            "CITY": "Trenton",
+            "HCRA_INITIALLICENSEDATE": "2021-01-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-14 12:12:29.000 +0000",
+            "Expiry Date": "2025-01-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "143 Murray Street",
+            "TELEPHONE": "613-849-4328",
+            "FAX": null,
+            "WEBSITEURL": "https://www.huntcustomhomes.ca",
+            "EMAIL": "andrew@huntcustomhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100673300",
+            "TO": "Andrew Hunt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-849-4328"
+        },
+        {
+            "TOUNIQUENUMBER": "100673300",
+            "TO": "Andrew Hunt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-849-4328"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48692",
+            "Umbrella": "North Sails Development",
+            "Umbrella ID": "500002439",
+            "VB_NAME": "5006762 Ontario Inc.",
+            "OPERATINGNAME": "Hunt Custom Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62189",
+            "MEMBERNAME": "Tempus Group Inc.",
+            "MEMBEROPERATINGNAME": "Tempus Group Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48692",
+            "Umbrella": "North Sails Development",
+            "Umbrella ID": "500002439",
+            "VB_NAME": "5006762 Ontario Inc.",
+            "OPERATINGNAME": "Hunt Custom Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48692",
+            "MEMBERNAME": "5006762 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Hunt Custom Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

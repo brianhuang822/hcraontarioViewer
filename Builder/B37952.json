@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37952",
+            "Umbrella": "Red Maple Homes",
+            "Umbrella ID": "12540996",
+            "VB_NAME": "Red Maple Homes Inc.",
+            "OPERATINGNAME": "Red Maple Homes",
+            "CITY": "Bolton",
+            "HCRA_INITIALLICENSEDATE": "2007-08-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-08-23 15:01:37.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "172 Stephen Dr",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "jkowalski@rogers.com",
+            "ACCOUNTNUMBER": "B37952",
+            "Total Outstanding Amount": 7911.41,
+            "TAB": 0,
+            "BREACH": 7911.41,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "330883",
+            "TO": "Jozef Kowalski",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-857-1162"
+        },
+        {
+            "TOUNIQUENUMBER": "330883",
+            "TO": "Jozef Kowalski",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-857-1162"
+        },
+        {
+            "TOUNIQUENUMBER": "330883",
+            "TO": "Jozef Kowalski",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-857-1162"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37952",
+            "Umbrella": "Red Maple Homes",
+            "Umbrella ID": "12540996",
+            "VB_NAME": "Red Maple Homes Inc.",
+            "OPERATINGNAME": "Red Maple Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23902",
+            "MEMBERNAME": "Jozef Kowalski",
+            "MEMBEROPERATINGNAME": "Red Maple Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37952",
+            "Umbrella": "Red Maple Homes",
+            "Umbrella ID": "12540996",
+            "VB_NAME": "Red Maple Homes Inc.",
+            "OPERATINGNAME": "Red Maple Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37952",
+            "MEMBERNAME": "Red Maple Homes Inc.",
+            "MEMBEROPERATINGNAME": "Red Maple Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37952",
+            "Umbrella": "Red Maple Homes",
+            "Umbrella ID": "12540996",
+            "VB_NAME": "Red Maple Homes Inc.",
+            "OPERATINGNAME": "Red Maple Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36973",
+            "MEMBERNAME": "Jozef  Kowalski",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44793",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Iviva Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Barrie",
+            "HCRA_INITIALLICENSEDATE": "2015-12-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-05-01 04:15:05.000 +0000",
+            "Expiry Date": "2021-05-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "92 Caplan Ave, Suite 653",
+            "TELEPHONE": "705-230-1073",
+            "FAX": "647-494-9938",
+            "WEBSITEURL": "ivivahomes.com",
+            "EMAIL": "tim.m@ivivahomes.com",
+            "ACCOUNTNUMBER": "B44793",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 47,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 47,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100127299",
+            "TO": "Timour Mouzafarov",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-230-1073"
+        },
+        {
+            "TOUNIQUENUMBER": "100127299",
+            "TO": "Timour Mouzafarov",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-230-1073"
+        },
+        {
+            "TOUNIQUENUMBER": "100322987",
+            "TO": "Douglas Ramsay",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "18558482937"
+        },
+        {
+            "TOUNIQUENUMBER": "100324294",
+            "TO": "Gary Chen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-508-1800"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44793",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Iviva Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Bloom Towns",
+            "Project Status": null,
+            "Location": "BARRIE",
+            "Address": "540 Essa Rd.",
+            "# of Units": 52,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

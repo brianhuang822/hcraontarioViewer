@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47589",
+            "Umbrella": "GenCorp",
+            "Umbrella ID": "500000496",
+            "VB_NAME": "GenCorp Inc.",
+            "OPERATINGNAME": "GenCorp Homes",
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2019-05-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-05-30 04:15:05.000 +0000",
+            "Expiry Date": "2022-05-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1676 Sir Monty's Drive",
+            "TELEPHONE": "416-522-9490",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "lucas@gencorphomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100564042",
+            "TO": "Braydon Munn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-524-1646"
+        },
+        {
+            "TOUNIQUENUMBER": "100564042",
+            "TO": "Braydon Munn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-524-1646"
+        },
+        {
+            "TOUNIQUENUMBER": "100564042",
+            "TO": "Braydon Munn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-524-1646"
+        },
+        {
+            "TOUNIQUENUMBER": "100564033",
+            "TO": "Robert Munn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-410-4740"
+        },
+        {
+            "TOUNIQUENUMBER": "100564033",
+            "TO": "Robert Munn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-410-4740"
+        },
+        {
+            "TOUNIQUENUMBER": "100564033",
+            "TO": "Robert Munn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-410-4740"
+        },
+        {
+            "TOUNIQUENUMBER": "100561813",
+            "TO": "Lucas Munn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-522-9490"
+        },
+        {
+            "TOUNIQUENUMBER": "100561813",
+            "TO": "Lucas Munn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-522-9490"
+        },
+        {
+            "TOUNIQUENUMBER": "100561813",
+            "TO": "Lucas Munn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-522-9490"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47589",
+            "Umbrella": "GenCorp",
+            "Umbrella ID": "500000496",
+            "VB_NAME": "GenCorp Inc.",
+            "OPERATINGNAME": "GenCorp Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60326",
+            "MEMBERNAME": "GenCorp Homes Inc.",
+            "MEMBEROPERATINGNAME": "GenCorp Homes Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47589",
+            "Umbrella": "GenCorp",
+            "Umbrella ID": "500000496",
+            "VB_NAME": "GenCorp Inc.",
+            "OPERATINGNAME": "GenCorp Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47589",
+            "MEMBERNAME": "GenCorp Inc.",
+            "MEMBEROPERATINGNAME": "GenCorp Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40256",
+            "Umbrella": "Amicorp",
+            "Umbrella ID": "12539734",
+            "VB_NAME": "Amicorp Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2010-05-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:19:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "240 Bartor Rd.",
+            "TELEPHONE": "416-742-6299",
+            "FAX": "416-742-1772",
+            "WEBSITEURL": "www.amicorp.ca",
+            "EMAIL": "emilio@maxxmar.com",
+            "ACCOUNTNUMBER": "B40256",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 113,
+            "SUMM_TOTAL": 113,
+            "SUMM_CC": 10,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 20815.49,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 20815.49
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12196015",
+            "TO": "Franco Di Girolamo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-2290"
+        },
+        {
+            "TOUNIQUENUMBER": "12196015",
+            "TO": "Franco Di Girolamo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-669-2290"
+        },
+        {
+            "TOUNIQUENUMBER": "12196012",
+            "TO": "Emilio Carinci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-6299"
+        },
+        {
+            "TOUNIQUENUMBER": "12196012",
+            "TO": "Emilio Carinci",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-6299"
+        },
+        {
+            "TOUNIQUENUMBER": "12196007",
+            "TO": "Norberto Marocco",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-6299"
+        },
+        {
+            "TOUNIQUENUMBER": "12196007",
+            "TO": "Norberto Marocco",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-742-6299"
+        },
+        {
+            "TOUNIQUENUMBER": "457752",
+            "TO": "Enrico Lisi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-1663"
+        },
+        {
+            "TOUNIQUENUMBER": "457752",
+            "TO": "Enrico Lisi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-660-1663"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40256",
+            "Umbrella": "Amicorp",
+            "Umbrella ID": "12539734",
+            "VB_NAME": "Amicorp Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37255",
+            "MEMBERNAME": "Amicorp Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B40256",
+            "Umbrella": "Amicorp",
+            "Umbrella ID": "12539734",
+            "VB_NAME": "Amicorp Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40256",
+            "MEMBERNAME": "Amicorp Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Clarence",
+            "Project Status": "Completed",
+            "Location": "WOODBRIDGE",
+            "Address": " 86 Woodbridge Ave. ",
+            "# of Units": 110,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-08-28"
+        },
+        {
+            "Condo Project Name": "Terraces On The Park",
+            "Project Status": "Completed",
+            "Location": "WOODBRIDGE",
+            "Address": "83 Woodbridge Ave.",
+            "# of Units": 86,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-08-02"
+        }
+    ],
+    "builderConditions": []
+}

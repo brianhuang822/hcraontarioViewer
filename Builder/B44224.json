@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44224",
+            "Umbrella": "Deluxia Homes",
+            "Umbrella ID": "12544046",
+            "VB_NAME": "Deluxia Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Kanata",
+            "HCRA_INITIALLICENSEDATE": "2015-12-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-02-22 13:44:36.000 +0000",
+            "Expiry Date": "2021-05-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "304 Brettonwood Ridge",
+            "TELEPHONE": "613/255-6366",
+            "FAX": "613/435-0628",
+            "WEBSITEURL": "www.deluxiahomes.ca",
+            "EMAIL": "info@deluxiahomes.ca",
+            "ACCOUNTNUMBER": "B44224",
+            "Total Outstanding Amount": 5168.74,
+            "TAB": 0,
+            "BREACH": 5168.74,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 7513.33,
+            "SUMM_MAJOR": 1,
+            "SUMM_MAJOR_AMT": 40000,
+            "SUMM_TOTAL_CLAIMS": 47513.33
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100189362",
+            "TO": "Adnan Acikgoz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-698-6639"
+        },
+        {
+            "TOUNIQUENUMBER": "100189362",
+            "TO": "Adnan Acikgoz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-698-6639"
+        },
+        {
+            "TOUNIQUENUMBER": "100189362",
+            "TO": "Adnan Acikgoz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-698-6639"
+        },
+        {
+            "TOUNIQUENUMBER": "100277207",
+            "TO": "Matthew Finne",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-851-1001"
+        },
+        {
+            "TOUNIQUENUMBER": "100189361",
+            "TO": "Taner Yildirim",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-255-6366"
+        },
+        {
+            "TOUNIQUENUMBER": "100189361",
+            "TO": "Taner Yildirim",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-255-6366"
+        },
+        {
+            "TOUNIQUENUMBER": "100189361",
+            "TO": "Taner Yildirim",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-255-6366"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44224",
+            "Umbrella": "Deluxia Homes",
+            "Umbrella ID": "12544046",
+            "VB_NAME": "Deluxia Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44224",
+            "MEMBERNAME": "Deluxia Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44224",
+            "Umbrella": "Deluxia Homes",
+            "Umbrella ID": "12544046",
+            "VB_NAME": "Deluxia Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43209",
+            "MEMBERNAME": "Deluxia Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

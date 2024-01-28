@@ -1,0 +1,167 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Invar Building",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 1,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "220 Duncan Mills Rd., Unit 301",
+            "TELEPHONE": "416-441-9855",
+            "FAX": "416-441-0172",
+            "WEBSITEURL": "www.invar.ca",
+            "EMAIL": "frank@invar.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Yorkville (2001) Limited",
+            "MEMBEROPERATINGNAME": "100 Yorkville At Bellair",
+            "MEMBERVBNUM": "B35578",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Harmony Village-Sheppard Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38282",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Harmony Village-Sheppard Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43254",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Post Oak Holdings Inc.",
+            "MEMBEROPERATINGNAME": "The Waterview",
+            "MEMBERVBNUM": "B33376",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Invar (Post Road) Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27321",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Victoria Square Developments Inc.",
+            "MEMBEROPERATINGNAME": "Nautica",
+            "MEMBERVBNUM": "B36927",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Invar Edgehill Limited",
+            "MEMBEROPERATINGNAME": "Edgehill Terrace",
+            "MEMBERVBNUM": "B34901",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "100 YORKVILLE AT BELLAIR (TOWNHOMES)",
+            "Account Number": "B35578",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "109 - 119 Scollard St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Nautica-Phase 2",
+            "Account Number": "B36927",
+            "Project Status": "Completed",
+            "Location": "BARRIE",
+            "Address": "33 Ellen St.",
+            "# of Units": 147,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-06-08"
+        },
+        {
+            "Condo Project Name": "100 YORKVILLE AT BELLAIR",
+            "Account Number": "B35578",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "80/100 Yorkville Ave.",
+            "# of Units": 93,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-05-14"
+        },
+        {
+            "Condo Project Name": "Nautica- Phase 1",
+            "Account Number": "B36927",
+            "Project Status": "Completed",
+            "Location": "BARRIE",
+            "Address": "37 Ellen Street",
+            "# of Units": 155,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-12-24"
+        },
+        {
+            "Condo Project Name": "THE WATERVIEW",
+            "Account Number": "B33376",
+            "Project Status": "Completed",
+            "Location": "BARRIE",
+            "Address": " 6 Toronto St. ",
+            "# of Units": 132,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-08-01"
+        },
+        {
+            "Condo Project Name": "ONE POST ROAD",
+            "Account Number": "B27321",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "1 Post Rd.",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-07-04"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27859",
+            "Umbrella": "Olivia Construction Homes",
+            "Umbrella ID": "12540420",
+            "VB_NAME": "Ashraf Botros & Susan Botros",
+            "OPERATINGNAME": "Olivia Construction Homes",
+            "CITY": "WINDSOR",
+            "HCRA_INITIALLICENSEDATE": "1998-11-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-11-13 13:33:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2124 Dominion Blvd.",
+            "TELEPHONE": "(519)250-1506",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344351",
+            "TO": "Susan Botros",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-564-6567"
+        },
+        {
+            "TOUNIQUENUMBER": "344350",
+            "TO": "Ashraf Botros",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-969-7557"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27859",
+            "Umbrella": "Olivia Construction Homes",
+            "Umbrella ID": "12540420",
+            "VB_NAME": "Ashraf Botros & Susan Botros",
+            "OPERATINGNAME": "Olivia Construction Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27859",
+            "MEMBERNAME": "Ashraf Botros & Susan Botros",
+            "MEMBEROPERATINGNAME": "Olivia Construction Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27859",
+            "Umbrella": "Olivia Construction Homes",
+            "Umbrella ID": "12540420",
+            "VB_NAME": "Ashraf Botros & Susan Botros",
+            "OPERATINGNAME": "Olivia Construction Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30994",
+            "MEMBERNAME": "Olivia Construction Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

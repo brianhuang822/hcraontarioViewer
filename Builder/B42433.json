@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42433",
+            "Umbrella": "Mahabir Homes",
+            "Umbrella ID": "12540426",
+            "VB_NAME": "Hawk Ridge Homes Inc.",
+            "OPERATINGNAME": "Hawk Ridge Homes Inc.",
+            "CITY": "Waterdown",
+            "HCRA_INITIALLICENSEDATE": "2013-03-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-24 22:23:18.000 +0000",
+            "Expiry Date": "2024-03-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 849",
+            "TELEPHONE": "905-690-4295",
+            "FAX": "905-689-2660",
+            "WEBSITEURL": " ",
+            "EMAIL": "dinesh@hawkridgehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 10,
+            "SUMM_CONDO": 102,
+            "SUMM_TOTAL": 112,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "320803",
+            "TO": "Khusoomb Mahabir",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-690-4295"
+        },
+        {
+            "TOUNIQUENUMBER": "320803",
+            "TO": "Khusoomb Mahabir",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-690-4295"
+        },
+        {
+            "TOUNIQUENUMBER": "320804",
+            "TO": "Dinesh Mahabir",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-690-4295"
+        },
+        {
+            "TOUNIQUENUMBER": "320804",
+            "TO": "Dinesh Mahabir",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-690-4295"
+        },
+        {
+            "TOUNIQUENUMBER": "320804",
+            "TO": "Dinesh Mahabir",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-690-4295"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42433",
+            "Umbrella": "Mahabir Homes",
+            "Umbrella ID": "12540426",
+            "VB_NAME": "Hawk Ridge Homes Inc.",
+            "OPERATINGNAME": "Hawk Ridge Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B9083",
+            "MEMBERNAME": "Mahabir Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42433",
+            "Umbrella": "Mahabir Homes",
+            "Umbrella ID": "12540426",
+            "VB_NAME": "Hawk Ridge Homes Inc.",
+            "OPERATINGNAME": "Hawk Ridge Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42433",
+            "MEMBERNAME": "Hawk Ridge Homes Inc.",
+            "MEMBEROPERATINGNAME": "Hawk Ridge Homes Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42433",
+            "Umbrella": "Mahabir Homes",
+            "Umbrella ID": "12540426",
+            "VB_NAME": "Hawk Ridge Homes Inc.",
+            "OPERATINGNAME": "Hawk Ridge Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B23953",
+            "MEMBERNAME": "Stonehaven Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Rockhaven Lane",
+            "Project Status": "Completed",
+            "Location": "WATERDOWN",
+            "Address": "170 Rockhaven Ln.",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-06-08"
+        },
+        {
+            "Condo Project Name": "5 Hamilton St. Condominiums",
+            "Project Status": "In Progress",
+            "Location": "WATERDOWN",
+            "Address": " 5 Hamilton St. ",
+            "# of Units": 74,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

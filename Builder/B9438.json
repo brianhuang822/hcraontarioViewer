@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9438",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Overon Investments Ltd.,",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1988-05-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1993-05-13 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1155 Yonge St. Suite 500",
+            "TELEPHONE": "(416)962-9080",
+            "FAX": "(416)962-5841",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "317344",
+            "TO": "Bennie Kelman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "317344",
+            "TO": "Bennie Kelman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313078",
+            "TO": "George Goldlist",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313767",
+            "TO": "Gary Griesdorf",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-962-6875"
+        },
+        {
+            "TOUNIQUENUMBER": "313767",
+            "TO": "Gary Griesdorf",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-962-6875"
+        },
+        {
+            "TOUNIQUENUMBER": "313095",
+            "TO": "Murray Goldman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9438",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Overon Investments Ltd.,",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "21 OVERLEA BLVD.",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "21 Overlea Blvd.",
+            "# of Units": 220,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-04-23"
+        },
+        {
+            "Condo Project Name": "THORNCLIFE PARK DRIVE CONDO",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "11 Thorncliffe Pk.Dr., Leaside Park",
+            "# of Units": 158,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-03-01"
+        }
+    ],
+    "builderConditions": []
+}

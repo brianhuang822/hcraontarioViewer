@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41199",
+            "Umbrella": "CB Management",
+            "Umbrella ID": "12548077",
+            "VB_NAME": "Artisan Fine Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "BARRIE",
+            "HCRA_INITIALLICENSEDATE": "2011-05-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-05-12 12:00:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "36 Toronto St., Ste. 1",
+            "TELEPHONE": "705-321-8646",
+            "FAX": null,
+            "WEBSITEURL": "www.artisanfinehomes.ca",
+            "EMAIL": "tkent@artisanfinehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100122388",
+            "TO": "Nathan Douglas Barnes",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12470527",
+            "TO": "Timothy Brian Kent",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-321-7694"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41199",
+            "Umbrella": "CB Management",
+            "Umbrella ID": "12548077",
+            "VB_NAME": "Artisan Fine Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41199",
+            "MEMBERNAME": "Artisan Fine Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41199",
+            "Umbrella": "CB Management",
+            "Umbrella ID": "12548077",
+            "VB_NAME": "Artisan Fine Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42896",
+            "MEMBERNAME": "1862082 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41199",
+            "Umbrella": "CB Management",
+            "Umbrella ID": "12548077",
+            "VB_NAME": "Artisan Fine Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46972",
+            "MEMBERNAME": "2592879 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "CB Management",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

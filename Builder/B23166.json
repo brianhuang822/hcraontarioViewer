@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23166",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1016747 Ontario Ltd.",
+            "OPERATINGNAME": "Covington Group",
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "1993-07-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-19 14:08:16.000 +0000",
+            "Expiry Date": "2024-07-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P. O. Box 39023",
+            "TELEPHONE": "519-453-4242",
+            "FAX": null,
+            "WEBSITEURL": "www.covingtongroup.com",
+            "EMAIL": "admin@covingtongroup.com",
+            "ACCOUNTNUMBER": "B23166",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 56,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 56,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 5217.46,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 5217.46
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100514476",
+            "TO": "Lorie Grandmont",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-453-4242"
+        },
+        {
+            "TOUNIQUENUMBER": "317189",
+            "TO": "Carl Dinardo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-453-4242"
+        },
+        {
+            "TOUNIQUENUMBER": "317189",
+            "TO": "Carl Dinardo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-453-4242"
+        },
+        {
+            "TOUNIQUENUMBER": "317189",
+            "TO": "Carl Dinardo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-453-4242"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23166",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1016747 Ontario Ltd.",
+            "OPERATINGNAME": "Covington Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Andover Trails",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "3270 Singleton Ave.",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Ballymote",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "1450 North Wenige Dr.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

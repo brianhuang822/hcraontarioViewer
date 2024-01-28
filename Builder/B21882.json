@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21882",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Gilles Turpin Construction Inc.",
+            "OPERATINGNAME": "Turpin",
+            "CITY": "HAWKESBURY",
+            "HCRA_INITIALLICENSEDATE": "1992-03-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1995-03-28 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "712 Main Street East, P.O. Box 364",
+            "TELEPHONE": "(613)632-3252",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339527",
+            "TO": "Gilles Turpin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-3252"
+        },
+        {
+            "TOUNIQUENUMBER": "339527",
+            "TO": "Gilles Turpin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-3252"
+        },
+        {
+            "TOUNIQUENUMBER": "339527",
+            "TO": "Gilles Turpin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-3252"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21882",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Gilles Turpin Construction Inc.",
+            "OPERATINGNAME": "Turpin",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37993",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Lewitt Construction Inc.",
+            "OPERATINGNAME": "Lewitt Construction",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2007-09-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-31 14:24:56.000 +0000",
+            "Expiry Date": "2024-09-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "114 Abbeywood Trail",
+            "TELEPHONE": "416-383-1221",
+            "FAX": null,
+            "WEBSITEURL": "www.lewittconstruction.com",
+            "EMAIL": "lewitt@lewittconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12238285",
+            "TO": "Edward O'Flanagan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-383-1221"
+        },
+        {
+            "TOUNIQUENUMBER": "12238285",
+            "TO": "Edward O'Flanagan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-383-1221"
+        },
+        {
+            "TOUNIQUENUMBER": "12238285",
+            "TO": "Edward O'Flanagan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-383-1221"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37993",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Lewitt Construction Inc.",
+            "OPERATINGNAME": "Lewitt Construction",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

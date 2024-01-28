@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B16541",
+            "Umbrella": "Buren Construction",
+            "Umbrella ID": "12541255",
+            "VB_NAME": "774546 Ontario Ltd.",
+            "OPERATINGNAME": "Buren Construction",
+            "CITY": "STRATHROY",
+            "HCRA_INITIALLICENSEDATE": "1988-10-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1991-03-02 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "258 Albert St",
+            "TELEPHONE": "(519)245-5058",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304707",
+            "TO": "Lawrence Buren",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-245-2736"
+        },
+        {
+            "TOUNIQUENUMBER": "304706",
+            "TO": "Larry J. Buren",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-521-4055"
+        },
+        {
+            "TOUNIQUENUMBER": "304708",
+            "TO": "Mike Buren",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-521-3799"
+        },
+        {
+            "TOUNIQUENUMBER": "304705",
+            "TO": "John Buren",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-852-1903"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B16541",
+            "Umbrella": "Buren Construction",
+            "Umbrella ID": "12541255",
+            "VB_NAME": "774546 Ontario Ltd.",
+            "OPERATINGNAME": "Buren Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B16541",
+            "MEMBERNAME": "774546 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Buren Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16541",
+            "Umbrella": "Buren Construction",
+            "Umbrella ID": "12541255",
+            "VB_NAME": "774546 Ontario Ltd.",
+            "OPERATINGNAME": "Buren Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B21614",
+            "MEMBERNAME": "774546 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Buren Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

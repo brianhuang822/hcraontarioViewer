@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60280",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1001-1037 Queensway Inc.",
+            "OPERATINGNAME": "1001-1037 Queensway Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-07-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-14 21:28:50.000 +0000",
+            "Expiry Date": "2024-07-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2300 Yonge Street",
+            "TELEPHONE": "416-305-3468",
+            "FAX": null,
+            "WEBSITEURL": "http://www.riocan.com",
+            "EMAIL": "cedey@riocan.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600007725",
+            "TO": "Andrew Duncan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-486-4242"
+        },
+        {
+            "TOUNIQUENUMBER": "600007725",
+            "TO": "Andrew Duncan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-486-4242"
+        },
+        {
+            "TOUNIQUENUMBER": "100458718",
+            "TO": "Naftali Sturm",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-486-4242"
+        },
+        {
+            "TOUNIQUENUMBER": "100458719",
+            "TO": "Jennifer Suess",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-485-4242"
+        },
+        {
+            "TOUNIQUENUMBER": "100458719",
+            "TO": "Jennifer Suess",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-485-4242"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60280",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1001-1037 Queensway Inc.",
+            "OPERATINGNAME": "1001-1037 Queensway Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Verge East",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 1007 The Queensway ",
+            "# of Units": 335,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Verge West",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 1037 The Queensway ",
+            "# of Units": 197,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

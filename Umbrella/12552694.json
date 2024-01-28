@@ -1,0 +1,87 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Rise Developments",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "1962 Yonge Street",
+            "TELEPHONE": "647-505-9074",
+            "FAX": null,
+            "WEBSITEURL": "www.risedev.ca",
+            "EMAIL": "ram.dinary@gmail.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "1455 - 1475 O'Connor Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48280",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "123 Maurice Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48574",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "224 Kerr Developments Ltd.",
+            "MEMBEROPERATINGNAME": "224 Kerr Developments Ltd.",
+            "MEMBERVBNUM": "B60661",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Amsterdam Urban Towns",
+            "Account Number": "B48280",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 1455-1475 O'Connor Drive ",
+            "# of Units": 52,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Berkshire Residences",
+            "Account Number": "B48574",
+            "Project Status": "In Progress",
+            "Location": "OAKVILLE",
+            "Address": " 123 Maurice Dr. ",
+            "# of Units": 55,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "The Deane",
+            "Account Number": "B60661",
+            "Project Status": "In Progress",
+            "Location": "OAKVILLE",
+            "Address": " 224 Kerr Street ",
+            "# of Units": 126,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

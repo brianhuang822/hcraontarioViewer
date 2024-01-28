@@ -1,0 +1,165 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37887",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "Urban Fabric Development (Colgate) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2007-08-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-08-11 13:00:22.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "344 Bloor St. W., Ste. 508",
+            "TELEPHONE": "416-961-0051",
+            "FAX": "416-961-0053",
+            "WEBSITEURL": "www.leslievillelofthouses.com",
+            "EMAIL": "www.leslievillelofthouses.com",
+            "ACCOUNTNUMBER": "B37887",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12363301",
+            "TO": "Elizabeth Owen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-961-0051"
+        },
+        {
+            "TOUNIQUENUMBER": "12363301",
+            "TO": "Elizabeth Owen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-961-0051"
+        },
+        {
+            "TOUNIQUENUMBER": "12231223",
+            "TO": "Abigail Slater",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-504-0404"
+        },
+        {
+            "TOUNIQUENUMBER": "12231223",
+            "TO": "Abigail Slater",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-504-0404"
+        },
+        {
+            "TOUNIQUENUMBER": "343781",
+            "TO": "George Popper",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-573-7603"
+        },
+        {
+            "TOUNIQUENUMBER": "343781",
+            "TO": "George Popper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-573-7603"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37887",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "Urban Fabric Development (Colgate) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46163",
+            "MEMBERNAME": "Grid (Logan) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B37887",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "Urban Fabric Development (Colgate) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42108",
+            "MEMBERNAME": "1321 Gerrard Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37887",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "Urban Fabric Development (Colgate) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37887",
+            "MEMBERNAME": "Urban Fabric Development (Colgate) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37887",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "Urban Fabric Development (Colgate) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45499",
+            "MEMBERNAME": "14 Dewhurst Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37887",
+            "Umbrella": "Grid Developments",
+            "Umbrella ID": "12538378",
+            "VB_NAME": "Urban Fabric Development (Colgate) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46664",
+            "MEMBERNAME": "Grid (Dupont) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Leslieville Lofthouses",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "59 Colgate Ave.",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-11-04"
+        },
+        {
+            "Condo Project Name": "Abode - Building A",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "53 Colgate Ave.",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-10-26"
+        }
+    ],
+    "builderConditions": []
+}

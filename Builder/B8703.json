@@ -1,0 +1,199 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B8703",
+            "Umbrella": "Evergreen Villa",
+            "Umbrella ID": "3449",
+            "VB_NAME": "1031636 Ontario Limited",
+            "OPERATINGNAME": "Evergreen Villa",
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "1986-11-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-12-08 14:31:48.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "30 Eglinton Ave. W., Ste. 601",
+            "TELEPHONE": "905-361-9600",
+            "FAX": "905-361-9595",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "309452",
+            "TO": "William W.H. Doo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-2233"
+        },
+        {
+            "TOUNIQUENUMBER": "320400",
+            "TO": "Chaim Lustig",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-447-3880"
+        },
+        {
+            "TOUNIQUENUMBER": "320400",
+            "TO": "Chaim Lustig",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-447-3880"
+        },
+        {
+            "TOUNIQUENUMBER": "320400",
+            "TO": "Chaim Lustig",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-447-3880"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B8703",
+            "Umbrella": "Evergreen Villa",
+            "Umbrella ID": "3449",
+            "VB_NAME": "1031636 Ontario Limited",
+            "OPERATINGNAME": "Evergreen Villa",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32453",
+            "MEMBERNAME": "5940 Yonge Street Limited",
+            "MEMBEROPERATINGNAME": "Elite Condominiums",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B8703",
+            "Umbrella": "Evergreen Villa",
+            "Umbrella ID": "3449",
+            "VB_NAME": "1031636 Ontario Limited",
+            "OPERATINGNAME": "Evergreen Villa",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B8703",
+            "MEMBERNAME": "1031636 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Evergreen Villa",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B8703",
+            "Umbrella": "Evergreen Villa",
+            "Umbrella ID": "3449",
+            "VB_NAME": "1031636 Ontario Limited",
+            "OPERATINGNAME": "Evergreen Villa",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26705",
+            "MEMBERNAME": "779857 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Oasis Condominiums",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B8703",
+            "Umbrella": "Evergreen Villa",
+            "Umbrella ID": "3449",
+            "VB_NAME": "1031636 Ontario Limited",
+            "OPERATINGNAME": "Evergreen Villa",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22757",
+            "MEMBERNAME": "Evergreen Villa Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "GLENROSE PARK",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "Spadina Rd.",
+            "# of Units": 72,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-10-10"
+        },
+        {
+            "Condo Project Name": "GLENROSE PARK",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "Spadina Rd.",
+            "# of Units": 68,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-09-06"
+        },
+        {
+            "Condo Project Name": "GLENROSE PARK",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "Multiple Addresses",
+            "# of Units": 67,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-01-14"
+        },
+        {
+            "Condo Project Name": "GLENROSE PARK",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "62-87 Kenwood Dr.Goldberry Crt/88-113 Rocheste",
+            "# of Units": 52,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-07-15"
+        },
+        {
+            "Condo Project Name": "GLENROSE PARK",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "1-19,20-61 Kenwood Drive & Gilgorm Road",
+            "# of Units": 61,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-03-26"
+        },
+        {
+            "Condo Project Name": "GLENROSE PARK",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "Hwy. #7 And McLaughlin Rd.",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-06-07"
+        },
+        {
+            "Condo Project Name": "GLENROSE PARK",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "9-19,56-84 Brocklebank & Goldenlight Circle",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-11-16"
+        },
+        {
+            "Condo Project Name": "GLENROSE PARK",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": "26-38,1-69 Cedarwood Cres. & Goldenlight Circle",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-11-06"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B3608",
+            "Umbrella": "R. & M. Smith Contracting",
+            "Umbrella ID": "12539878",
+            "VB_NAME": "R. & M. Smith Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "LAKEFIELD",
+            "HCRA_INITIALLICENSEDATE": "1987-08-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1994-08-16 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "R.R.#4",
+            "TELEPHONE": "(705)652-0464",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "331579",
+            "TO": "Michelene Smith",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-874-7994"
+        },
+        {
+            "TOUNIQUENUMBER": "331579",
+            "TO": "Michelene Smith",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-874-7994"
+        },
+        {
+            "TOUNIQUENUMBER": "331579",
+            "TO": "Michelene Smith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-874-7994"
+        },
+        {
+            "TOUNIQUENUMBER": "331592",
+            "TO": "Randy Smith",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-761-5611"
+        },
+        {
+            "TOUNIQUENUMBER": "331592",
+            "TO": "Randy Smith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-761-5611"
+        },
+        {
+            "TOUNIQUENUMBER": "331592",
+            "TO": "Randy Smith",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-761-5611"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B3608",
+            "Umbrella": "R. & M. Smith Contracting",
+            "Umbrella ID": "12539878",
+            "VB_NAME": "R. & M. Smith Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31954",
+            "MEMBERNAME": "R & M Smith Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B3608",
+            "Umbrella": "R. & M. Smith Contracting",
+            "Umbrella ID": "12539878",
+            "VB_NAME": "R. & M. Smith Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B3608",
+            "MEMBERNAME": "R. & M. Smith Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

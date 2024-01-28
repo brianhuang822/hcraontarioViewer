@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45893",
+            "Umbrella": "Stonewyck Homes",
+            "Umbrella ID": "12545683",
+            "VB_NAME": "Stonewyck Homes and Design Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Owen Sound",
+            "HCRA_INITIALLICENSEDATE": "2016-12-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-10 14:01:19.000 +0000",
+            "Expiry Date": "2024-05-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1300 20th Street East",
+            "TELEPHONE": "519-371-7887",
+            "FAX": "855-411-7887",
+            "WEBSITEURL": "www.stonewyckhomes.com",
+            "EMAIL": "maxine@a1stoagesystem.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12500751",
+            "TO": "Geoff Chapple",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-371-7887"
+        },
+        {
+            "TOUNIQUENUMBER": "12500751",
+            "TO": "Geoff Chapple",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-371-7887"
+        },
+        {
+            "TOUNIQUENUMBER": "12500751",
+            "TO": "Geoff Chapple",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-371-7887"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45893",
+            "Umbrella": "Stonewyck Homes",
+            "Umbrella ID": "12545683",
+            "VB_NAME": "Stonewyck Homes and Design Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41597",
+            "MEMBERNAME": "Stonewyck Homes 10 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45893",
+            "Umbrella": "Stonewyck Homes",
+            "Umbrella ID": "12545683",
+            "VB_NAME": "Stonewyck Homes and Design Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45893",
+            "MEMBERNAME": "Stonewyck Homes and Design Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

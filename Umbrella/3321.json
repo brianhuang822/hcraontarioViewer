@@ -1,0 +1,128 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Ghods Builders",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "333 Sheppard Avenue East",
+            "TELEPHONE": "416-229-9966",
+            "FAX": "416-229-9969",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Chelsea Gate Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24364",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "757 Sheppard Avenue West Limited",
+            "MEMBEROPERATINGNAME": "757 Sheppard Avenue West",
+            "MEMBERVBNUM": "B27513",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Symphony Square Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25881",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ghods Builders Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9088",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "English Lane Homes Inc.",
+            "MEMBEROPERATINGNAME": "English Lane",
+            "MEMBERVBNUM": "B27209",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "5959 Yonge Street Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43833",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "English Lane Homes Inc.",
+            "MEMBEROPERATINGNAME": "English Lane Homes Inc.",
+            "MEMBERVBNUM": "B44466",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Sonata Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28188",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "PHASE1-TOWER A",
+            "Account Number": "B43833",
+            "Project Status": "Cancelled",
+            "Location": "TORONTO",
+            "Address": "5959  Yonge Street",
+            "# of Units": 540,
+            "# of Terminations": 378,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-09-18"
+        },
+        {
+            "Condo Project Name": "5959 Yonge Street Condos - Tower B",
+            "Account Number": "B43833",
+            "Project Status": "Cancelled",
+            "Location": "TORONTO",
+            "Address": "5959 Yonge Street",
+            "# of Units": 360,
+            "# of Terminations": 196,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-09-18"
+        },
+        {
+            "Condo Project Name": "SONATA",
+            "Account Number": "B28188",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": " 7 Lorraine Dr ",
+            "# of Units": 324,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-12-24"
+        },
+        {
+            "Condo Project Name": "CHELSEA GATE",
+            "Account Number": "B24364",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "108 Finch Avenue West",
+            "# of Units": 99,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-07-24"
+        }
+    ]
+}

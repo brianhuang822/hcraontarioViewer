@@ -1,0 +1,159 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43568",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Dawn Victoria Homes (Oakville) Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2014-06-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-11 13:45:44.000 +0000",
+            "Expiry Date": "2024-06-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1550 Yorkton Court",
+            "TELEPHONE": "905-637-1777",
+            "FAX": "905-637-1790",
+            "WEBSITEURL": "www.dawnvictoriahomes.ca",
+            "EMAIL": "kgalloway@dawnvictoriahomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 84,
+            "SUMM_TOTAL": 84,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336308",
+            "TO": "Thomas Weisz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-528-8956"
+        },
+        {
+            "TOUNIQUENUMBER": "336308",
+            "TO": "Thomas Weisz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-528-8956"
+        },
+        {
+            "TOUNIQUENUMBER": "315919",
+            "TO": "Donald Husack",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-637-1777"
+        },
+        {
+            "TOUNIQUENUMBER": "315919",
+            "TO": "Donald Husack",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-637-1777"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43568",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Dawn Victoria Homes (Oakville) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43568",
+            "MEMBERNAME": "Dawn Victoria Homes (Oakville) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43568",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Dawn Victoria Homes (Oakville) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B24314",
+            "MEMBERNAME": "Miraletto Holdings Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43568",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Dawn Victoria Homes (Oakville) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B24881",
+            "MEMBERNAME": "Dawn Victoria Homes (Brantford) Limited",
+            "MEMBEROPERATINGNAME": "Dawn Victoria Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43568",
+            "Umbrella": "Dawn Victoria Homes",
+            "Umbrella ID": "3310",
+            "VB_NAME": "Dawn Victoria Homes (Oakville) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B11490",
+            "MEMBERNAME": "Basingstoke Enterprises Limited",
+            "MEMBEROPERATINGNAME": "Basingstoke Enterprises Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Brantwood Village",
+            "Project Status": "In Progress",
+            "Location": "BRANTFORD",
+            "Address": " 677 Park Road ",
+            "# of Units": 86,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Tannery",
+            "Project Status": "Completed",
+            "Location": "WATERDOWN",
+            "Address": "219 Dundas St. E.",
+            "# of Units": 40,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-04-15"
+        },
+        {
+            "Condo Project Name": "Ivy",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "405 Plains Rd. E.",
+            "# of Units": 25,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-05-28"
+        },
+        {
+            "Condo Project Name": "181 Plains Road",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "181 Plains Rd. W.",
+            "# of Units": 51,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-12-19"
+        }
+    ],
+    "builderConditions": []
+}

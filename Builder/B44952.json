@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44952",
+            "Umbrella": "Lanca Group",
+            "Umbrella ID": "12553183",
+            "VB_NAME": "Lanca Contracting Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Brantford",
+            "HCRA_INITIALLICENSEDATE": "2015-12-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-13 20:23:32.000 +0000",
+            "Expiry Date": "2024-12-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "35 Bury Court",
+            "TELEPHONE": "519-756-1880",
+            "FAX": "519-756-1712",
+            "WEBSITEURL": "www.lanca.com",
+            "EMAIL": "info@lanca.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 86,
+            "SUMM_TOTAL": 87,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100334713",
+            "TO": "Nathan Keith Lancaster",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-756-1880"
+        },
+        {
+            "TOUNIQUENUMBER": "100334713",
+            "TO": "Nathan Keith Lancaster",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-756-1880"
+        },
+        {
+            "TOUNIQUENUMBER": "100334713",
+            "TO": "Nathan Keith Lancaster",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-756-1880"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44952",
+            "Umbrella": "Lanca Group",
+            "Umbrella ID": "12553183",
+            "VB_NAME": "Lanca Contracting Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44952",
+            "MEMBERNAME": "Lanca Contracting Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44952",
+            "Umbrella": "Lanca Group",
+            "Umbrella ID": "12553183",
+            "VB_NAME": "Lanca Contracting Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48974",
+            "MEMBERNAME": "Edge Real Estate Investment Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The BENCH",
+            "Project Status": "Completed",
+            "Location": "BEAMSVILLE",
+            "Address": " 4514 Ontario St. ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-07-25"
+        },
+        {
+            "Condo Project Name": "WestEnd Condos",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 5 Wake Robin Drive, ",
+            "# of Units": 54,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-06-25"
+        }
+    ],
+    "builderConditions": []
+}

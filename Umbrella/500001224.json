@@ -1,0 +1,77 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Oikoi Living",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": null,
+            "TOTALUNITS": null,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": null,
+            "ADDRESS": "330 University Avenue. Suite 110",
+            "TELEPHONE": "416-814-7744",
+            "FAX": null,
+            "WEBSITEURL": "https://www.oikoiliving.ca",
+            "EMAIL": "alain@ipgl.ca",
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "66 Amelia Street Inc.",
+            "MEMBEROPERATINGNAME": "66 Amelia Street Inc.",
+            "MEMBERVBNUM": "B61798",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "211 Symington Avenue Inc.",
+            "MEMBEROPERATINGNAME": "211 Symington Avenue Inc.",
+            "MEMBERVBNUM": "B61802",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "1454 Bayview Avenue Inc.",
+            "MEMBEROPERATINGNAME": "1454 Bayview Avenue Inc.",
+            "MEMBERVBNUM": "B60967",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "International Property Group (Toronto) Ltd.",
+            "MEMBEROPERATINGNAME": "International Property Group (Toronto) Ltd.",
+            "MEMBERVBNUM": "B60743",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "16 Tyndall Avenue Inc.",
+            "MEMBEROPERATINGNAME": "16 Tyndall Avenue Inc.",
+            "MEMBERVBNUM": "B62033",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "66 Amelia Street Inc.",
+            "Account Number": "B61798",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": " 66 Amelia Street Inc ",
+            "# of Units": 1,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ]
+}

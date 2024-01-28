@@ -1,0 +1,168 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39238",
+            "Umbrella": "Allan Bateman",
+            "Umbrella ID": "12539959",
+            "VB_NAME": "Prestwick Building Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2009-01-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-13 16:28:42.000 +0000",
+            "Expiry Date": "2025-01-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 4137 Station East",
+            "TELEPHONE": "613-859-0933",
+            "FAX": "613-233-2403",
+            "WEBSITEURL": " ",
+            "EMAIL": "prestwick24@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 12,
+            "SUMM_CONDO": 2,
+            "SUMM_TOTAL": 14,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 11033.08,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 11033.08
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "302257",
+            "TO": "Allan J. Bateman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-859-0933"
+        },
+        {
+            "TOUNIQUENUMBER": "302257",
+            "TO": "Allan J. Bateman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-859-0933"
+        },
+        {
+            "TOUNIQUENUMBER": "302257",
+            "TO": "Allan J. Bateman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-859-0933"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39238",
+            "Umbrella": "Allan Bateman",
+            "Umbrella ID": "12539959",
+            "VB_NAME": "Prestwick Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31657",
+            "MEMBERNAME": "Prestwick Building Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39238",
+            "Umbrella": "Allan Bateman",
+            "Umbrella ID": "12539959",
+            "VB_NAME": "Prestwick Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B706",
+            "MEMBERNAME": "Rideau Glen Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39238",
+            "Umbrella": "Allan Bateman",
+            "Umbrella ID": "12539959",
+            "VB_NAME": "Prestwick Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25017",
+            "MEMBERNAME": "1130008 Ontario Inc",
+            "MEMBEROPERATINGNAME": "Seneca Place",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39238",
+            "Umbrella": "Allan Bateman",
+            "Umbrella ID": "12539959",
+            "VB_NAME": "Prestwick Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39238",
+            "MEMBERNAME": "Prestwick Building Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39238",
+            "Umbrella": "Allan Bateman",
+            "Umbrella ID": "12539959",
+            "VB_NAME": "Prestwick Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27035",
+            "MEMBERNAME": "1130008 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39238",
+            "Umbrella": "Allan Bateman",
+            "Umbrella ID": "12539959",
+            "VB_NAME": "Prestwick Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B19267",
+            "MEMBERNAME": "Rideau Glen Developments Inc.",
+            "MEMBEROPERATINGNAME": "Rideau",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39238",
+            "Umbrella": "Allan Bateman",
+            "Umbrella ID": "12539959",
+            "VB_NAME": "Prestwick Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B917",
+            "MEMBERNAME": "Allan Bateman Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "50 Craig Street",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "50 Craig St.",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-05-09"
+        },
+        {
+            "Condo Project Name": "Queen Elizabeth",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 72 Queen Elizabeth Drive ",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-09-16"
+        }
+    ],
+    "builderConditions": []
+}

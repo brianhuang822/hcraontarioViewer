@@ -1,0 +1,82 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36354",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Greencourt Development Inc.",
+            "OPERATINGNAME": "Greencourt Development",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2006-03-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-03-04 14:30:57.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2321 Keele St.",
+            "TELEPHONE": "416-723-4595",
+            "FAX": "416-588-9715",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12134321",
+            "TO": "Lisa Tuyet  Do",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-626-9087"
+        },
+        {
+            "TOUNIQUENUMBER": "12134321",
+            "TO": "Lisa Tuyet  Do",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-626-9087"
+        },
+        {
+            "TOUNIQUENUMBER": "12134320",
+            "TO": "Eddie Khoa Do",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-723-4595"
+        },
+        {
+            "TOUNIQUENUMBER": "12134320",
+            "TO": "Eddie Khoa Do",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-723-4595"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36354",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Greencourt Development Inc.",
+            "OPERATINGNAME": "Greencourt Development",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

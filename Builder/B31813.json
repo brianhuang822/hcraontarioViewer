@@ -1,0 +1,600 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31813",
+            "Umbrella": "Charles Clement",
+            "Umbrella ID": "11580",
+            "VB_NAME": "C. H. Clement Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Hawkesbury",
+            "HCRA_INITIALLICENSEDATE": "2001-11-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-10 18:31:29.000 +0000",
+            "Expiry Date": "2024-08-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "335A Dufferin Street",
+            "TELEPHONE": "613-632-2060",
+            "FAX": "613-632-2215",
+            "WEBSITEURL": "www.chclementconstruction.ca",
+            "EMAIL": "nclement@chclement.ca",
+            "ACCOUNTNUMBER": "B31813",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 354,
+            "SUMM_CONDO": 243,
+            "SUMM_TOTAL": 597,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343913",
+            "TO": "Charles Henri Clement",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-2060"
+        },
+        {
+            "TOUNIQUENUMBER": "343913",
+            "TO": "Charles Henri Clement",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-2060"
+        },
+        {
+            "TOUNIQUENUMBER": "343913",
+            "TO": "Charles Henri Clement",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-632-2060"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31813",
+            "Umbrella": "Charles Clement",
+            "Umbrella ID": "11580",
+            "VB_NAME": "C. H. Clement Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B28155",
+            "MEMBERNAME": "Gestion Charles Clement Ltd.",
+            "MEMBEROPERATINGNAME": "Gestion Charles Clement",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31813",
+            "Umbrella": "Charles Clement",
+            "Umbrella ID": "11580",
+            "VB_NAME": "C. H. Clement Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27427",
+            "MEMBERNAME": "Charles Clement",
+            "MEMBEROPERATINGNAME": "Clement Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31813",
+            "Umbrella": "Charles Clement",
+            "Umbrella ID": "11580",
+            "VB_NAME": "C. H. Clement Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31813",
+            "MEMBERNAME": "C. H. Clement Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Promenade Miller South",
+            "Project Status": null,
+            "Location": "CORNWALL",
+            "Address": "  Water St. ",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Quartier 24 (Phase 2)",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": " 225 Spence Stret ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-12-09"
+        },
+        {
+            "Condo Project Name": "Condos de la Sapini\u00e8re",
+            "Project Status": "Completed",
+            "Location": "EMBRUN",
+            "Address": " 75-83 St. Moritz Terrace ",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-10-31"
+        },
+        {
+            "Condo Project Name": "Domaine du Golf - Ph. 2",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": " 308 Masters Ln. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-05-06"
+        },
+        {
+            "Condo Project Name": "Domaine du Golf - Ph. 2",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": " 310 Masters Ln. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-10-22"
+        },
+        {
+            "Condo Project Name": "Domaine du Golf - Ph. 2",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": " 312 Masters Ln. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-07-26"
+        },
+        {
+            "Condo Project Name": "Domaine du Golf -Ph. 2",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": " 306 Masters Ln. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-12-10"
+        },
+        {
+            "Condo Project Name": "Domaine du Golf - Ph. 2",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": " 302 & 304 Masters Ln. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-07-28"
+        },
+        {
+            "Condo Project Name": "Domaine du Golf",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": " 298 Masters Ln. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-06-20"
+        },
+        {
+            "Condo Project Name": "Domaine du Golf",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "290 & 296 Masters Ln.",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-08-10"
+        },
+        {
+            "Condo Project Name": "Domaine Du Golf",
+            "Project Status": "Completed",
+            "Location": "CLARENCE",
+            "Address": "292 & 294 Masters Ln.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-12-05"
+        },
+        {
+            "Condo Project Name": "Quartier 24",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "205 Spence Street (Unit 101 To 112",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-02-16"
+        },
+        {
+            "Condo Project Name": "Promenade Miller",
+            "Project Status": "Completed",
+            "Location": "CORNWALL",
+            "Address": " 218 First St. (unit 121 To 126 & 221 To 226 ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-11-30"
+        },
+        {
+            "Condo Project Name": "Promenade Miller",
+            "Project Status": "Completed",
+            "Location": "CORNWALL",
+            "Address": " 222 First Street ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-31"
+        },
+        {
+            "Condo Project Name": "Promenade Miller",
+            "Project Status": "Completed",
+            "Location": "CORNWALL",
+            "Address": " 226 First Street ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-12-08"
+        },
+        {
+            "Condo Project Name": "Les Condos de la Forgerie",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "750 St. Jacques",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-12-08"
+        },
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": "Completed",
+            "Location": "CORNWALL",
+            "Address": "York And Third St., West",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-10-22"
+        },
+        {
+            "Condo Project Name": "Belvedere des Moulins Edwards Phase II",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "2380 Albert St.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-12-07"
+        },
+        {
+            "Condo Project Name": "Belvedere des Moulins Edwards Phase II",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "2376 Albert St.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-06-05"
+        },
+        {
+            "Condo Project Name": "Townsquare Condo 7",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "201 Eliot St.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-03-20"
+        },
+        {
+            "Condo Project Name": "Townsquare Condo 7",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "200 Eliot St.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-12-16"
+        },
+        {
+            "Condo Project Name": "Townsquare Condo 7",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "204/205 Eliot St.",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-09-15"
+        },
+        {
+            "Condo Project Name": "Town Square Project - Block 6",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "197 Eliot St.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-09-06"
+        },
+        {
+            "Condo Project Name": "Town Square Block 6",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "189 Eliot St.",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-12-14"
+        },
+        {
+            "Condo Project Name": "Belvedere des Moulins Edwards",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "2360 Albert St",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-12-12"
+        },
+        {
+            "Condo Project Name": "PLACE LAURETTE BERTHIAUME",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "1406 Clement St",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-10-30"
+        },
+        {
+            "Condo Project Name": "Miller's Court",
+            "Project Status": "Completed",
+            "Location": "CORNWALL",
+            "Address": "136 4th Street",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-04-22"
+        },
+        {
+            "Condo Project Name": "Sandfield Project",
+            "Project Status": "Completed",
+            "Location": "ALEXANDRIA",
+            "Address": " 54/52 Sandfield Ave. ",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-11-28"
+        },
+        {
+            "Condo Project Name": "Mon Village- Phase 5",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "384 & 386 Cecile Blvd.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-09-04"
+        },
+        {
+            "Condo Project Name": "Mon Village 2- Phase 1",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": " 378 Cecile Blvd. ",
+            "# of Units": 20,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-03-30"
+        },
+        {
+            "Condo Project Name": "Promenade Clement",
+            "Project Status": "Completed",
+            "Location": "CASSELMAN",
+            "Address": " 84 Blvd Lafleche ",
+            "# of Units": 28,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-12-14"
+        },
+        {
+            "Condo Project Name": "Cornwallis 2",
+            "Project Status": "Completed",
+            "Location": "CORNWALL",
+            "Address": " 27 First St. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-11-01"
+        },
+        {
+            "Condo Project Name": "PLACE LAURETTE BERTHIAUME",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": " 1404 Clement St ",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-04-25"
+        },
+        {
+            "Condo Project Name": "PLACE DES PIONNIERS",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": " 2921 Laurier St ",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-10-25"
+        },
+        {
+            "Condo Project Name": "CORNWALLIS 1",
+            "Project Status": "Completed",
+            "Location": "CORNWALL",
+            "Address": "  First St. ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-09-21"
+        },
+        {
+            "Condo Project Name": "PROJECT NICOLAS",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": " 2689 Sylvain St. ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-11-30"
+        },
+        {
+            "Condo Project Name": "LES TERRASSES CLEMENT",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": " 1505 rue Clement ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-10-22"
+        },
+        {
+            "Condo Project Name": "PROJET NICOLAS",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": " 2691 Rue Sylvain ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-07-19"
+        },
+        {
+            "Condo Project Name": "LES TERRASSES CLEMENT",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": " 1505 rue Clement ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-05-19"
+        },
+        {
+            "Condo Project Name": "PLACE CLEMENT",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": " 2923 Laurier St. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-10-16"
+        },
+        {
+            "Condo Project Name": "LES TERRASSES CLEMENT",
+            "Project Status": "Completed",
+            "Location": "HAWKESBURY",
+            "Address": "1505 rue Clement",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-08-11"
+        },
+        {
+            "Condo Project Name": "PLACE CLEMENT",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "2925 Laurier St.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-06-02"
+        },
+        {
+            "Condo Project Name": "PLACE CLEMENT",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "2927 Laurier St.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-02-17"
+        },
+        {
+            "Condo Project Name": "PLACE CLEMENT",
+            "Project Status": "Completed",
+            "Location": "ROCKLAND",
+            "Address": "2929 Laurier St.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-11-07"
+        },
+        {
+            "Condo Project Name": "Domaine du Golf Phase 3 Condominium 1",
+            "Project Status": "In Progress",
+            "Location": "ROCKLAND",
+            "Address": " 310 Montee des Outaouais ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Domaine du Golf Phase 3",
+            "Project Status": "In Progress",
+            "Location": "ROCKLAND",
+            "Address": " 350-360 Montee des Outaouais ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Condos de la Sapini\u00e8re",
+            "Project Status": "In Progress",
+            "Location": "EMBRUN",
+            "Address": " 99 St. Moritz ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Condos de la Sapiniere",
+            "Project Status": "In Progress",
+            "Location": "EMBRUN",
+            "Address": " 115 St-Moritz ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Domaine du Golf Phase 3 Condominium 1",
+            "Project Status": "In Progress",
+            "Location": "ROCKLAND",
+            "Address": " 320 Montee des Outaouais ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Condos de la Sapini\u00e8re",
+            "Project Status": "In Progress",
+            "Location": "EMBRUN",
+            "Address": " 107 St. Moritz ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60326",
+            "Umbrella": "GenCorp",
+            "Umbrella ID": "500000496",
+            "VB_NAME": "GenCorp Homes Inc.",
+            "OPERATINGNAME": "GenCorp Homes Inc.",
+            "CITY": "Guelph",
+            "HCRA_INITIALLICENSEDATE": "2021-06-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-01 18:42:07.000 +0000",
+            "Expiry Date": "2024-07-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "785 Scottsdale Drive",
+            "TELEPHONE": "416-522-9490",
+            "FAX": null,
+            "WEBSITEURL": "http://www.gencorphomes.com",
+            "EMAIL": "info@gencorphomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100564033",
+            "TO": "Robert Munn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-410-4740"
+        },
+        {
+            "TOUNIQUENUMBER": "100561813",
+            "TO": "Lucas Munn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-522-9490"
+        },
+        {
+            "TOUNIQUENUMBER": "100561813",
+            "TO": "Lucas Munn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-522-9490"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60326",
+            "Umbrella": "GenCorp",
+            "Umbrella ID": "500000496",
+            "VB_NAME": "GenCorp Homes Inc.",
+            "OPERATINGNAME": "GenCorp Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60326",
+            "MEMBERNAME": "GenCorp Homes Inc.",
+            "MEMBEROPERATINGNAME": "GenCorp Homes Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60326",
+            "Umbrella": "GenCorp",
+            "Umbrella ID": "500000496",
+            "VB_NAME": "GenCorp Homes Inc.",
+            "OPERATINGNAME": "GenCorp Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47589",
+            "MEMBERNAME": "GenCorp Inc.",
+            "MEMBEROPERATINGNAME": "GenCorp Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

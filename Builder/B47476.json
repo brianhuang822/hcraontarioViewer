@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47476",
+            "Umbrella": "Fortis Development",
+            "Umbrella ID": "500000612",
+            "VB_NAME": "Fortis Construction Group Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Tecumseh",
+            "HCRA_INITIALLICENSEDATE": "2019-09-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-12 14:54:37.000 +0000",
+            "Expiry Date": "2024-09-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "416 Advance Boulevard",
+            "TELEPHONE": "519-419-7828",
+            "FAX": "519-419-7830",
+            "WEBSITEURL": "www.fortisgroup.ca",
+            "EMAIL": "info@fortisgroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100504435",
+            "TO": "Maximilian De Angelis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-419-7828"
+        },
+        {
+            "TOUNIQUENUMBER": "100504435",
+            "TO": "Maximilian De Angelis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-419-7828"
+        },
+        {
+            "TOUNIQUENUMBER": "100554842",
+            "TO": "Tyler Beckett",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-419-7828"
+        },
+        {
+            "TOUNIQUENUMBER": "100554842",
+            "TO": "Tyler Beckett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-419-7828"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47476",
+            "Umbrella": "Fortis Development",
+            "Umbrella ID": "500000612",
+            "VB_NAME": "Fortis Construction Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60413",
+            "MEMBERNAME": "2481939 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2481939 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47476",
+            "Umbrella": "Fortis Development",
+            "Umbrella ID": "500000612",
+            "VB_NAME": "Fortis Construction Group Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47476",
+            "MEMBERNAME": "Fortis Construction Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

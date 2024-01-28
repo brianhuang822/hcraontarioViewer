@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44044",
+            "Umbrella": "Sina Architectural Design",
+            "Umbrella ID": "12550194",
+            "VB_NAME": "Sina Architectural Design Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2015-11-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-30 14:49:04.000 +0000",
+            "Expiry Date": "2024-11-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4789 Yonge Street",
+            "TELEPHONE": "416-716-0203",
+            "FAX": "416-546-5803",
+            "WEBSITEURL": "sinaarchitecturaldesign.com",
+            "EMAIL": "sina@sinaarchitecturaldesign.com",
+            "ACCOUNTNUMBER": "B44044",
+            "Total Outstanding Amount": 20837.61,
+            "TAB": 0,
+            "BREACH": 20837.61,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 17817.54,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 17817.54
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12188902",
+            "TO": "Sina Sadeddin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-716-0203"
+        },
+        {
+            "TOUNIQUENUMBER": "12188902",
+            "TO": "Sina Sadeddin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-716-0203"
+        },
+        {
+            "TOUNIQUENUMBER": "12188902",
+            "TO": "Sina Sadeddin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-716-0203"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44044",
+            "Umbrella": "Sina Architectural Design",
+            "Umbrella ID": "12550194",
+            "VB_NAME": "Sina Architectural Design Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37849",
+            "MEMBERNAME": "Sina Architectural Design Ltd..",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44044",
+            "Umbrella": "Sina Architectural Design",
+            "Umbrella ID": "12550194",
+            "VB_NAME": "Sina Architectural Design Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44044",
+            "MEMBERNAME": "Sina Architectural Design Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

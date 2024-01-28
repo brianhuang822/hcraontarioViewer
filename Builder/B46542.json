@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46542",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2384415 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "GREELY",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2019-02-06 00:53:15.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 96",
+            "TELEPHONE": "613/809-3687",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "kirkbrogan@me.com",
+            "ACCOUNTNUMBER": "B46542",
+            "Total Outstanding Amount": 95149.66,
+            "TAB": 0,
+            "BREACH": 95149.66,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 28008,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 28008
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100213238",
+            "TO": "Kirk Brogan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-809-3687"
+        },
+        {
+            "TOUNIQUENUMBER": "100213238",
+            "TO": "Kirk Brogan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-809-3687"
+        },
+        {
+            "TOUNIQUENUMBER": "100213238",
+            "TO": "Kirk Brogan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-809-3687"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46542",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2384415 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

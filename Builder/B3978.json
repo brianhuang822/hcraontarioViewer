@@ -1,0 +1,133 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B3978",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Don Wilson Construction Co. Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "LINDSAY",
+            "HCRA_INITIALLICENSEDATE": "1983-05-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-07-04 15:00:21.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "245 Kent St. W.",
+            "TELEPHONE": "(705)324-9381",
+            "FAX": "(705)328-1268",
+            "WEBSITEURL": null,
+            "EMAIL": "dwcc@on.aibn.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336928",
+            "TO": "Vernon Wilson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336874",
+            "TO": "Donald V.G. Wilson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-324-9390"
+        },
+        {
+            "TOUNIQUENUMBER": "336874",
+            "TO": "Donald V.G. Wilson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-324-9390"
+        },
+        {
+            "TOUNIQUENUMBER": "336874",
+            "TO": "Donald V.G. Wilson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-324-9390"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B3978",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Don Wilson Construction Co. Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "MAPLEGROVE WEST",
+            "Project Status": "Completed",
+            "Location": "LINDSAY",
+            "Address": "3 Heritage Way",
+            "# of Units": 41,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-05-17"
+        },
+        {
+            "Condo Project Name": "4 HERITAGE WAY",
+            "Project Status": "Completed",
+            "Location": "LINDSAY",
+            "Address": "4 Heritage Way",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-12-13"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "LINDSAY",
+            "Address": "1 Heritage Way",
+            "# of Units": 44,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-02-12"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "LINDSAY",
+            "Address": "2 Heritage Way",
+            "# of Units": 44,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1987-01-27"
+        },
+        {
+            "Condo Project Name": "DON WILSON",
+            "Project Status": "In Progress",
+            "Location": "LINDSAY",
+            "Address": "5 Heritage Wy.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

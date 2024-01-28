@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46017",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Residences On Broadway Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "MAPLE",
+            "HCRA_INITIALLICENSEDATE": "2017-07-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-15 16:07:01.000 +0000",
+            "Expiry Date": "2024-07-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "12 Viva Crt.",
+            "TELEPHONE": "416-807-4504",
+            "FAX": null,
+            "WEBSITEURL": "www.Residences On Broadway.com",
+            "EMAIL": "nunzio@gamarlu.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 39,
+            "SUMM_TOTAL": 39,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "303052",
+            "TO": "Nunzio Bianchi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-807-4504"
+        },
+        {
+            "TOUNIQUENUMBER": "303052",
+            "TO": "Nunzio Bianchi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-807-4504"
+        },
+        {
+            "TOUNIQUENUMBER": "303052",
+            "TO": "Nunzio Bianchi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-807-4504"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46017",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Residences On Broadway Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Residences On Broadway",
+            "Project Status": "Completed",
+            "Location": "ORANGEVILLE",
+            "Address": " 310 Broadway ",
+            "# of Units": 43,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-08-14"
+        }
+    ],
+    "builderConditions": []
+}

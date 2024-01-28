@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25354",
+            "Umbrella": "Parkside Homes",
+            "Umbrella ID": "12540753",
+            "VB_NAME": "Parkside Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "St. Catharines",
+            "HCRA_INITIALLICENSEDATE": "1996-01-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-11 19:30:08.000 +0000",
+            "Expiry Date": "2025-01-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "36 Meadowbrook Crescent",
+            "TELEPHONE": "905-348-2341",
+            "FAX": "905-935-6627",
+            "WEBSITEURL": "http://parksidequalityhomes.com",
+            "EMAIL": "parksidehomes@bell.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 33,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 33,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11992345",
+            "TO": "Maria Biagi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-937-0388"
+        },
+        {
+            "TOUNIQUENUMBER": "303049",
+            "TO": "Lou Biagi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-348-2341"
+        },
+        {
+            "TOUNIQUENUMBER": "303049",
+            "TO": "Lou Biagi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-348-2341"
+        },
+        {
+            "TOUNIQUENUMBER": "303049",
+            "TO": "Lou Biagi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-348-2341"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25354",
+            "Umbrella": "Parkside Homes",
+            "Umbrella ID": "12540753",
+            "VB_NAME": "Parkside Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B12604",
+            "MEMBERNAME": "Parkside Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25354",
+            "Umbrella": "Parkside Homes",
+            "Umbrella ID": "12540753",
+            "VB_NAME": "Parkside Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B20914",
+            "MEMBERNAME": "Walnut Street General Partner Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25354",
+            "Umbrella": "Parkside Homes",
+            "Umbrella ID": "12540753",
+            "VB_NAME": "Parkside Custom Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25354",
+            "MEMBERNAME": "Parkside Custom Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

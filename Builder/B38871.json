@@ -1,0 +1,141 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38871",
+            "Umbrella": "A & R Carpentry",
+            "Umbrella ID": "12299280",
+            "VB_NAME": "Little Lake Village Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "INNISFIL",
+            "HCRA_INITIALLICENSEDATE": "2008-05-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-05-24 13:00:03.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1942 Commerce Park Dr.",
+            "TELEPHONE": "705/436-4663",
+            "FAX": null,
+            "WEBSITEURL": "www.little-lake-village.com",
+            "EMAIL": "donna@arcarpentry.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 17,
+            "SUMM_TOTAL": 17,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332117",
+            "TO": "Donna Ouellet",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-526-7467"
+        },
+        {
+            "TOUNIQUENUMBER": "332117",
+            "TO": "Donna Ouellet",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-526-7467"
+        },
+        {
+            "TOUNIQUENUMBER": "332117",
+            "TO": "Donna Ouellet",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-526-7467"
+        },
+        {
+            "TOUNIQUENUMBER": "325243",
+            "TO": "Rene Joseph Ouellet",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-526-7363"
+        },
+        {
+            "TOUNIQUENUMBER": "325243",
+            "TO": "Rene Joseph Ouellet",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-526-7363"
+        },
+        {
+            "TOUNIQUENUMBER": "325243",
+            "TO": "Rene Joseph Ouellet",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-526-7363"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38871",
+            "Umbrella": "A & R Carpentry",
+            "Umbrella ID": "12299280",
+            "VB_NAME": "Little Lake Village Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38871",
+            "MEMBERNAME": "Little Lake Village Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38871",
+            "Umbrella": "A & R Carpentry",
+            "Umbrella ID": "12299280",
+            "VB_NAME": "Little Lake Village Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46716",
+            "MEMBERNAME": "A&R Design Build Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B38871",
+            "Umbrella": "A & R Carpentry",
+            "Umbrella ID": "12299280",
+            "VB_NAME": "Little Lake Village Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B10231",
+            "MEMBERNAME": "767847 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "A & R Carpentry",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Little Lake Village Homes",
+            "Project Status": "Completed",
+            "Location": "INNISFIL",
+            "Address": "1942 Commerce Park Drive",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-10"
+        },
+        {
+            "Condo Project Name": "Little Lake Village Homes",
+            "Project Status": "Completed",
+            "Location": "INNISFIL",
+            "Address": "1942 Commerce Park Drive",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-10"
+        }
+    ],
+    "builderConditions": []
+}

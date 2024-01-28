@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44210",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2362405 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Richmond",
+            "HCRA_INITIALLICENSEDATE": "2015-01-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-16 17:58:45.000 +0000",
+            "Expiry Date": "2024-01-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4878 Cambrian Road West",
+            "TELEPHONE": "613-293-6812",
+            "FAX": "613-858-4932",
+            "WEBSITEURL": " ",
+            "EMAIL": "corey@ffdhomes.com",
+            "ACCOUNTNUMBER": "B44210",
+            "Total Outstanding Amount": 2543.66,
+            "TAB": 0,
+            "BREACH": 2543.66,
+            "SUMM_FREEHOLD": 31,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 31,
+            "SUMM_CC": 6,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 4200,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 4200
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100278060",
+            "TO": "John Hill",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "twinhillfarm@hotmail.com"
+        },
+        {
+            "TOUNIQUENUMBER": "100278060",
+            "TO": "John Hill",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "twinhillfarm@hotmail.com"
+        },
+        {
+            "TOUNIQUENUMBER": "100278059",
+            "TO": "Corey Cook",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-293-6812"
+        },
+        {
+            "TOUNIQUENUMBER": "100278059",
+            "TO": "Corey Cook",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-293-6812"
+        },
+        {
+            "TOUNIQUENUMBER": "100278059",
+            "TO": "Corey Cook",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-293-6812"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44210",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2362405 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

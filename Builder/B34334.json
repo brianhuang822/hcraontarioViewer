@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34334",
+            "Umbrella": "Fuller Homes",
+            "Umbrella ID": "12539032",
+            "VB_NAME": "Russell Fuller & David Fuller & Joseph Fuller",
+            "OPERATINGNAME": "Russell Fuller & Sons",
+            "CITY": "LAMBTON SHORES",
+            "HCRA_INITIALLICENSEDATE": "2004-04-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-04-14 12:00:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8578 Vance Dr.",
+            "TELEPHONE": "519-786-6229",
+            "FAX": "519-786-6229",
+            "WEBSITEURL": null,
+            "EMAIL": "fullru@xcelco.on.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11996341",
+            "TO": "Joseph Fuller",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-786-6229"
+        },
+        {
+            "TOUNIQUENUMBER": "339726",
+            "TO": "Russell Milton Fuller",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-520-2040"
+        },
+        {
+            "TOUNIQUENUMBER": "11996334",
+            "TO": "David Fuller",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-381-6031"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34334",
+            "Umbrella": "Fuller Homes",
+            "Umbrella ID": "12539032",
+            "VB_NAME": "Russell Fuller & David Fuller & Joseph Fuller",
+            "OPERATINGNAME": "Russell Fuller & Sons",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42697",
+            "MEMBERNAME": "Russell Fuller Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34334",
+            "Umbrella": "Fuller Homes",
+            "Umbrella ID": "12539032",
+            "VB_NAME": "Russell Fuller & David Fuller & Joseph Fuller",
+            "OPERATINGNAME": "Russell Fuller & Sons",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22003",
+            "MEMBERNAME": "Russell Milton Fuller",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B34334",
+            "Umbrella": "Fuller Homes",
+            "Umbrella ID": "12539032",
+            "VB_NAME": "Russell Fuller & David Fuller & Joseph Fuller",
+            "OPERATINGNAME": "Russell Fuller & Sons",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34334",
+            "MEMBERNAME": "Russell Fuller & David Fuller & Joseph Fuller",
+            "MEMBEROPERATINGNAME": "Russell Fuller & Sons",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,79 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61408",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "225 Brunswick Ave (KD) Ltd.",
+            "OPERATINGNAME": "225 Brunswick Ave (KD) Ltd.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-11-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-19 20:55:06.000 +0000",
+            "Expiry Date": "2024-11-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "225 Brunswick Avenue",
+            "TELEPHONE": "416-606-2588",
+            "FAX": null,
+            "WEBSITEURL": "https://www.225brunswick.com",
+            "EMAIL": "jeffkopas@me.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600010387",
+            "TO": "Jeffery Kopas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-606-2588"
+        },
+        {
+            "TOUNIQUENUMBER": "600010387",
+            "TO": "Jeffery Kopas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-606-2588"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61408",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "225 Brunswick Ave (KD) Ltd.",
+            "OPERATINGNAME": "225 Brunswick Ave (KD) Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Brunswick Lofts",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 225 Brunswick Ave ",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

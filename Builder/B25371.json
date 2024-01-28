@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25371",
+            "Umbrella": "Knapp's Paving & Landscaping",
+            "Umbrella ID": "12540119",
+            "VB_NAME": "1137315 Ontario Ltd.",
+            "OPERATINGNAME": "North Wood Builders",
+            "CITY": "BROCKVILLE",
+            "HCRA_INITIALLICENSEDATE": "1996-03-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-03-30 13:31:02.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "R.R.2",
+            "TELEPHONE": "(613)342-9243",
+            "FAX": "(613)342-6463",
+            "WEBSITEURL": "www.knappspaving.ca",
+            "EMAIL": "knapps@knappspaving.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341528",
+            "TO": "Lloyd George Knapp",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-342-9243"
+        },
+        {
+            "TOUNIQUENUMBER": "341528",
+            "TO": "Lloyd George Knapp",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-342-9243"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25371",
+            "Umbrella": "Knapp's Paving & Landscaping",
+            "Umbrella ID": "12540119",
+            "VB_NAME": "1137315 Ontario Ltd.",
+            "OPERATINGNAME": "North Wood Builders",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32823",
+            "MEMBERNAME": "Knapp's Paving & Landscaping Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25371",
+            "Umbrella": "Knapp's Paving & Landscaping",
+            "Umbrella ID": "12540119",
+            "VB_NAME": "1137315 Ontario Ltd.",
+            "OPERATINGNAME": "North Wood Builders",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25371",
+            "MEMBERNAME": "1137315 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "North Wood Builders",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

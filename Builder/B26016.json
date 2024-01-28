@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26016",
+            "Umbrella": "Sienna Properties",
+            "Umbrella ID": "12540823",
+            "VB_NAME": "Sienna Properties Inc.",
+            "OPERATINGNAME": "Sienna Homes",
+            "CITY": "KANATA",
+            "HCRA_INITIALLICENSEDATE": "1996-11-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-10-09 20:47:14.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "#103 - 300 Earl Grey Dr.",
+            "TELEPHONE": "(613)  721-4110",
+            "FAX": "(613) 257-2182",
+            "WEBSITEURL": "www.siennahomes.com",
+            "EMAIL": "margret@siennahomes.com",
+            "ACCOUNTNUMBER": "B26016",
+            "Total Outstanding Amount": 26678.89,
+            "TAB": 0,
+            "BREACH": 26678.89,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 650,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 650
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11797238",
+            "TO": "Alex Testa",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "341421",
+            "TO": "Margret Gallo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-591-1503"
+        },
+        {
+            "TOUNIQUENUMBER": "341421",
+            "TO": "Margret Gallo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-591-1503"
+        },
+        {
+            "TOUNIQUENUMBER": "341421",
+            "TO": "Margret Gallo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-591-1503"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26016",
+            "Umbrella": "Sienna Properties",
+            "Umbrella ID": "12540823",
+            "VB_NAME": "Sienna Properties Inc.",
+            "OPERATINGNAME": "Sienna Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26016",
+            "MEMBERNAME": "Sienna Properties Inc.",
+            "MEMBEROPERATINGNAME": "Sienna Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26016",
+            "Umbrella": "Sienna Properties",
+            "Umbrella ID": "12540823",
+            "VB_NAME": "Sienna Properties Inc.",
+            "OPERATINGNAME": "Sienna Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25297",
+            "MEMBERNAME": "Cameo Signature Corp.",
+            "MEMBEROPERATINGNAME": "Cameo Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

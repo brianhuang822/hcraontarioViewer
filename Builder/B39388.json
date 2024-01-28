@@ -1,0 +1,70 @@
+{
+    "builderSummary": [],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343460",
+            "TO": "Brett Wright",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905- 383-9490"
+        },
+        {
+            "TOUNIQUENUMBER": "12334668",
+            "TO": "Tony Locane",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905 574 3038"
+        },
+        {
+            "TOUNIQUENUMBER": "12334846",
+            "TO": "Shawn Murray",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-719-5726"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA106132",
+            "CHARGE_AGAINST": "10502754 ONTARIO INC.",
+            "CHARGE_DATE": "2008-12-14",
+            "DISPOSITION_DATE": "2010-09-02",
+            "THE_FINE_": "0",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "0",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Suspended Sentence",
+            "INVESTIGATION_": "9324304",
+            "ORGANIZATION_NAME": "10502754 Ontario Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Dundas, ON",
+            "CITY_DEFENCE": "Hamilton, ON",
+            "VB_NUMBER": "B39388",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": null,
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA106132 9324304",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Hamilton, City",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Builder of a New Home",
+            "FROM_OFFENCE_DATE": "2008-11-18",
+            "TO_OFFENCE_DATE": "2008-12-12",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "0",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "35:19.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

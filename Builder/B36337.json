@@ -1,0 +1,132 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36337",
+            "Umbrella": "Buchcic Contracting",
+            "Umbrella ID": "12540649",
+            "VB_NAME": "Bizmex Import & Export Ltd.",
+            "OPERATINGNAME": "Buchcic Builders",
+            "CITY": "KINGSVILLE",
+            "HCRA_INITIALLICENSEDATE": "2006-07-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-07-25 13:31:47.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "115 Road 4 East, R.R. 2",
+            "TELEPHONE": "519-733-3597",
+            "FAX": "519-733-8179",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "311255",
+            "TO": "Zdzislaw Buchcic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-791-0979"
+        },
+        {
+            "TOUNIQUENUMBER": "311255",
+            "TO": "Zdzislaw Buchcic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-791-0979"
+        },
+        {
+            "TOUNIQUENUMBER": "311255",
+            "TO": "Zdzislaw Buchcic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-791-0979"
+        },
+        {
+            "TOUNIQUENUMBER": "12022199",
+            "TO": "Mariusz Buchcic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-818-1633"
+        },
+        {
+            "TOUNIQUENUMBER": "12022199",
+            "TO": "Mariusz Buchcic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-818-1633"
+        },
+        {
+            "TOUNIQUENUMBER": "12022199",
+            "TO": "Mariusz Buchcic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-818-1633"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36337",
+            "Umbrella": "Buchcic Contracting",
+            "Umbrella ID": "12540649",
+            "VB_NAME": "Bizmex Import & Export Ltd.",
+            "OPERATINGNAME": "Buchcic Builders",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34798",
+            "MEMBERNAME": "Bizmex Import & Export Ltd.",
+            "MEMBEROPERATINGNAME": "Buchcic Contracting",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36337",
+            "Umbrella": "Buchcic Contracting",
+            "Umbrella ID": "12540649",
+            "VB_NAME": "Bizmex Import & Export Ltd.",
+            "OPERATINGNAME": "Buchcic Builders",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22756",
+            "MEMBERNAME": "Zdzislaw Buchcic",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36337",
+            "Umbrella": "Buchcic Contracting",
+            "Umbrella ID": "12540649",
+            "VB_NAME": "Bizmex Import & Export Ltd.",
+            "OPERATINGNAME": "Buchcic Builders",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42898",
+            "MEMBERNAME": "Pigeon Bay Home Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B36337",
+            "Umbrella": "Buchcic Contracting",
+            "Umbrella ID": "12540649",
+            "VB_NAME": "Bizmex Import & Export Ltd.",
+            "OPERATINGNAME": "Buchcic Builders",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36337",
+            "MEMBERNAME": "Bizmex Import & Export Ltd.",
+            "MEMBEROPERATINGNAME": "Buchcic Builders",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44096",
+            "Umbrella": "Silverbrook Homes",
+            "Umbrella ID": "12305926",
+            "VB_NAME": "First Street Residences Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "2015-04-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:01:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "384 Connie Cres., Unit 2",
+            "TELEPHONE": "905/761-9161",
+            "FAX": "905/761-0897",
+            "WEBSITEURL": "www.silverbrookhomes.ca",
+            "EMAIL": "danny@silverbrookhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 41,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 41,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11882356",
+            "TO": "Robert Nicolucci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-738-3177"
+        },
+        {
+            "TOUNIQUENUMBER": "11882356",
+            "TO": "Robert Nicolucci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-738-3177"
+        },
+        {
+            "TOUNIQUENUMBER": "11882357",
+            "TO": "Daniele Santilli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-9161"
+        },
+        {
+            "TOUNIQUENUMBER": "11882357",
+            "TO": "Daniele Santilli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-9161"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44096",
+            "Umbrella": "Silverbrook Homes",
+            "Umbrella ID": "12305926",
+            "VB_NAME": "First Street Residences Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38239",
+            "MEMBERNAME": "Broadway Grande Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44096",
+            "Umbrella": "Silverbrook Homes",
+            "Umbrella ID": "12305926",
+            "VB_NAME": "First Street Residences Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37231",
+            "MEMBERNAME": "Silver Brook Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Silverbrook Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44096",
+            "Umbrella": "Silverbrook Homes",
+            "Umbrella ID": "12305926",
+            "VB_NAME": "First Street Residences Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39302",
+            "MEMBERNAME": "SBH (Gamble) Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44096",
+            "Umbrella": "Silverbrook Homes",
+            "Umbrella ID": "12305926",
+            "VB_NAME": "First Street Residences Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44096",
+            "MEMBERNAME": "First Street Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Enclave On First",
+            "Project Status": null,
+            "Location": "ORANGEVILLE",
+            "Address": "60 First St.",
+            "# of Units": 41,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

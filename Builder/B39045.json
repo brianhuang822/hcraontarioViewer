@@ -1,0 +1,148 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39045",
+            "Umbrella": "Burnac Group",
+            "Umbrella ID": "12539785",
+            "VB_NAME": "Burnac Holdings Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2008-07-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-23 04:00:00.000 +0000",
+            "Expiry Date": "2024-07-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "44 St. Clair Avenue West",
+            "TELEPHONE": "416-964-3600",
+            "FAX": "416-964-5840",
+            "WEBSITEURL": " ",
+            "EMAIL": "cyeung@burnac.com",
+            "ACCOUNTNUMBER": "B39045",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 164,
+            "SUMM_TOTAL": 165,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100248684",
+            "TO": "Joseph Manserra",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-964-3600"
+        },
+        {
+            "TOUNIQUENUMBER": "100538531",
+            "TO": "Zachary Burnett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-925-9095"
+        },
+        {
+            "TOUNIQUENUMBER": "304766",
+            "TO": "Theodore F. Burnett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-964-3600"
+        },
+        {
+            "TOUNIQUENUMBER": "304766",
+            "TO": "Theodore F. Burnett",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-964-3600"
+        },
+        {
+            "TOUNIQUENUMBER": "304766",
+            "TO": "Theodore F. Burnett",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-964-3600"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39045",
+            "Umbrella": "Burnac Group",
+            "Umbrella ID": "12539785",
+            "VB_NAME": "Burnac Holdings Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41299",
+            "MEMBERNAME": "Burnac Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39045",
+            "Umbrella": "Burnac Group",
+            "Umbrella ID": "12539785",
+            "VB_NAME": "Burnac Holdings Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31390",
+            "MEMBERNAME": "Lakeburn Land Capital Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39045",
+            "Umbrella": "Burnac Group",
+            "Umbrella ID": "12539785",
+            "VB_NAME": "Burnac Holdings Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27417",
+            "MEMBERNAME": "Burnac Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39045",
+            "Umbrella": "Burnac Group",
+            "Umbrella ID": "12539785",
+            "VB_NAME": "Burnac Holdings Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39045",
+            "MEMBERNAME": "Burnac Holdings Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39045",
+            "Umbrella": "Burnac Group",
+            "Umbrella ID": "12539785",
+            "VB_NAME": "Burnac Holdings Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27416",
+            "MEMBERNAME": "Delisle Properties Limited",
+            "MEMBEROPERATINGNAME": "Thirty Three Delisle Avenue",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "South Hill on Madision",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "377 Madison Ave.",
+            "# of Units": 164,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-10-10"
+        }
+    ],
+    "builderConditions": []
+}

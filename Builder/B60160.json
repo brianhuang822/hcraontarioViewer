@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60160",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "O'Shanter Development Company Ltd.",
+            "OPERATINGNAME": "O'Shanter Development Company Ltd.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-05-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-05 19:03:41.000 +0000",
+            "Expiry Date": "2024-05-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "245 Carlaw Avenue",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": "http://www.oshanter.com",
+            "EMAIL": "hermann@oshanter.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 5,
+            "SUMM_TOTAL": 5,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600005905",
+            "TO": "Jonathan Krehm",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-822-0613"
+        },
+        {
+            "TOUNIQUENUMBER": "600005905",
+            "TO": "Jonathan Krehm",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-822-0613"
+        },
+        {
+            "TOUNIQUENUMBER": "600005901",
+            "TO": "Adam Krehm",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-540-3888"
+        },
+        {
+            "TOUNIQUENUMBER": "600005901",
+            "TO": "Adam Krehm",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-540-3888"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60160",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "O'Shanter Development Company Ltd.",
+            "OPERATINGNAME": "O'Shanter Development Company Ltd.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Deer Park Crossing",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "  Lascelles Blvd ",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

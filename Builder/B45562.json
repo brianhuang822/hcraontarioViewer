@@ -1,0 +1,127 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45562",
+            "Umbrella": "Porter",
+            "Umbrella ID": "12547058",
+            "VB_NAME": "J.P. Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Odessa",
+            "HCRA_INITIALLICENSEDATE": "2017-10-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-10-05 13:00:23.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5918 Hwy 2 Loyalist TP RR1",
+            "TELEPHONE": "613/634-7333",
+            "FAX": "613/507-8842",
+            "WEBSITEURL": " ",
+            "EMAIL": "jpdevelopments@bell.net",
+            "ACCOUNTNUMBER": "B45562",
+            "Total Outstanding Amount": 26911.89,
+            "TAB": 0,
+            "BREACH": 26911.89,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 23011.44,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 23011.44
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11718755",
+            "TO": "Penelope Belanger",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-561-1340"
+        },
+        {
+            "TOUNIQUENUMBER": "11718755",
+            "TO": "Penelope Belanger",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-561-1340"
+        },
+        {
+            "TOUNIQUENUMBER": "11718755",
+            "TO": "Penelope Belanger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-561-1340"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108743",
+            "CHARGE_AGAINST": "J.P. Development Corporation",
+            "CHARGE_DATE": "2016-07-29",
+            "DISPOSITION_DATE": "2017-02-15",
+            "THE_FINE_": "5000",
+            "CHARGE_TYPE": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "1250",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326772",
+            "ORGANIZATION_NAME": "J.P. Development Corporation",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Yarker, ON",
+            "CITY_DEFENCE": "Kingston, ON",
+            "VB_NUMBER": "B45562",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108743 9326772",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Stone Mills, Township",
+            "INFORMATION_NUMBER": "999 16 0388",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 6 - Illegally acted as a Vendor of a New Home",
+            "FROM_OFFENCE_DATE": "2015-08-29",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "6250",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B45562",
+            "Umbrella": "Porter",
+            "Umbrella ID": "12547058",
+            "VB_NAME": "J.P. Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45562",
+            "MEMBERNAME": "J.P. Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45562",
+            "Umbrella": "Porter",
+            "Umbrella ID": "12547058",
+            "VB_NAME": "J.P. Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31690",
+            "MEMBERNAME": "Penelope Belanger",
+            "MEMBEROPERATINGNAME": "Gentry Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

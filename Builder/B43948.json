@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43948",
+            "Umbrella": "Terra Firma Homes",
+            "Umbrella ID": "12497125",
+            "VB_NAME": "Baby Point Towns Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2014-10-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-10-11 13:00:03.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "332 High Park Ave., Ste. 101",
+            "TELEPHONE": "416/769-0148",
+            "FAX": "416/769-0872",
+            "WEBSITEURL": "the23bp.com",
+            "EMAIL": "terrafirma@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 23,
+            "SUMM_TOTAL": 23,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11692083",
+            "TO": "Salvatore Grasso",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-988-9550"
+        },
+        {
+            "TOUNIQUENUMBER": "11692083",
+            "TO": "Salvatore Grasso",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-988-9550"
+        },
+        {
+            "TOUNIQUENUMBER": "11692083",
+            "TO": "Salvatore Grasso",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-988-9550"
+        },
+        {
+            "TOUNIQUENUMBER": "11692082",
+            "TO": "Roberto Salmena",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-606-7844"
+        },
+        {
+            "TOUNIQUENUMBER": "11692082",
+            "TO": "Roberto Salmena",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-606-7844"
+        },
+        {
+            "TOUNIQUENUMBER": "11692082",
+            "TO": "Roberto Salmena",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-606-7844"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43948",
+            "Umbrella": "Terra Firma Homes",
+            "Umbrella ID": "12497125",
+            "VB_NAME": "Baby Point Towns Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31308",
+            "MEMBERNAME": "Terra Firma Homes Corporation",
+            "MEMBEROPERATINGNAME": "Terra Firma Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43948",
+            "Umbrella": "Terra Firma Homes",
+            "Umbrella ID": "12497125",
+            "VB_NAME": "Baby Point Towns Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43948",
+            "MEMBERNAME": "Baby Point Towns Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43948",
+            "Umbrella": "Terra Firma Homes",
+            "Umbrella ID": "12497125",
+            "VB_NAME": "Baby Point Towns Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41535",
+            "MEMBERNAME": "Volta Lofts Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43948",
+            "Umbrella": "Terra Firma Homes",
+            "Umbrella ID": "12497125",
+            "VB_NAME": "Baby Point Towns Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45324",
+            "MEMBERNAME": "Deco Towns Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Townhouses at Baby Point",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "441 JANE ST",
+            "# of Units": 23,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-11-29"
+        }
+    ],
+    "builderConditions": []
+}

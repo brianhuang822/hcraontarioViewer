@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37626",
+            "Umbrella": "Dwyers Homes",
+            "Umbrella ID": "12275620",
+            "VB_NAME": "1706000 Ontario Inc.",
+            "OPERATINGNAME": "Dwyer Homes",
+            "CITY": "Strathroy",
+            "HCRA_INITIALLICENSEDATE": "2007-05-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-26 16:29:23.000 +0000",
+            "Expiry Date": "2024-05-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "38 Briscoe Cres",
+            "TELEPHONE": "519-245-8573",
+            "FAX": "519-245-8573",
+            "WEBSITEURL": "www.dwyerhomes.ca",
+            "EMAIL": "dwyerhomes@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 115,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 115,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11883285",
+            "TO": "Michael Dwyer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-245-8573"
+        },
+        {
+            "TOUNIQUENUMBER": "11883285",
+            "TO": "Michael Dwyer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-245-8573"
+        },
+        {
+            "TOUNIQUENUMBER": "11883284",
+            "TO": "Elmer Dwyer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-245-8573"
+        },
+        {
+            "TOUNIQUENUMBER": "11883284",
+            "TO": "Elmer Dwyer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-245-8573"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37626",
+            "Umbrella": "Dwyers Homes",
+            "Umbrella ID": "12275620",
+            "VB_NAME": "1706000 Ontario Inc.",
+            "OPERATINGNAME": "Dwyer Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37626",
+            "MEMBERNAME": "1706000 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Dwyer Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B37626",
+            "Umbrella": "Dwyers Homes",
+            "Umbrella ID": "12275620",
+            "VB_NAME": "1706000 Ontario Inc.",
+            "OPERATINGNAME": "Dwyer Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33193",
+            "MEMBERNAME": "Elmer George Dwyer & Michael George Dwyer",
+            "MEMBEROPERATINGNAME": "Dwyer's",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

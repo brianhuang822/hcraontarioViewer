@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28560",
+            "Umbrella": "Q-1 Construction",
+            "Umbrella ID": "12540427",
+            "VB_NAME": "Q-1 Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "WINDSOR",
+            "HCRA_INITIALLICENSEDATE": "1999-11-25",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2005-10-24 17:43:19.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1085 Wallace Ave.",
+            "TELEPHONE": "519-250-4726",
+            "FAX": "519-250-4935",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341513",
+            "TO": "Selman Habib",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-969-9188"
+        },
+        {
+            "TOUNIQUENUMBER": "341513",
+            "TO": "Selman Habib",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-969-9188"
+        },
+        {
+            "TOUNIQUENUMBER": "341513",
+            "TO": "Selman Habib",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-969-9188"
+        },
+        {
+            "TOUNIQUENUMBER": "345429",
+            "TO": "Raifeh Habib",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "345429",
+            "TO": "Raifeh Habib",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "345429",
+            "TO": "Raifeh Habib",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28560",
+            "Umbrella": "Q-1 Construction",
+            "Umbrella ID": "12540427",
+            "VB_NAME": "Q-1 Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B28560",
+            "MEMBERNAME": "Q-1 Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B28560",
+            "Umbrella": "Q-1 Construction",
+            "Umbrella ID": "12540427",
+            "VB_NAME": "Q-1 Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B25360",
+            "MEMBERNAME": "Q-1 Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

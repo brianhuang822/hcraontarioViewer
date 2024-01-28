@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47156",
+            "Umbrella": "HDB Holdings",
+            "Umbrella ID": "12552315",
+            "VB_NAME": "2523820 Ontario Corp.",
+            "OPERATINGNAME": "Nest Fine Homes",
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2019-02-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-10 21:47:16.000 +0000",
+            "Expiry Date": "2025-02-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5360 Walkers Line",
+            "TELEPHONE": "289-337-5120",
+            "FAX": null,
+            "WEBSITEURL": "www.nestfinehomes.com",
+            "EMAIL": "aaron@nestfinehomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 245121.6,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 245121.6
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100515060",
+            "TO": "Aaron Breier",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-337-5120"
+        },
+        {
+            "TOUNIQUENUMBER": "100515060",
+            "TO": "Aaron Breier",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-337-5120"
+        },
+        {
+            "TOUNIQUENUMBER": "100515060",
+            "TO": "Aaron Breier",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-337-5120"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47156",
+            "Umbrella": "HDB Holdings",
+            "Umbrella ID": "12552315",
+            "VB_NAME": "2523820 Ontario Corp.",
+            "OPERATINGNAME": "Nest Fine Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47156",
+            "MEMBERNAME": "2523820 Ontario Corp.",
+            "MEMBEROPERATINGNAME": "Nest Fine Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47156",
+            "Umbrella": "HDB Holdings",
+            "Umbrella ID": "12552315",
+            "VB_NAME": "2523820 Ontario Corp.",
+            "OPERATINGNAME": "Nest Fine Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47342",
+            "MEMBERNAME": "Aaron Breier and Michelle Breier",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

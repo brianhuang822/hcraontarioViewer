@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48410",
+            "Umbrella": "Cairnwood Homes",
+            "Umbrella ID": "12552246",
+            "VB_NAME": "Cairnwood Developments Inc.",
+            "OPERATINGNAME": "Cairnwood Developments Inc.",
+            "CITY": "Welland",
+            "HCRA_INITIALLICENSEDATE": "2020-08-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-26 16:18:51.000 +0000",
+            "Expiry Date": "2024-08-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "331 Major Street",
+            "TELEPHONE": "905-941-5066",
+            "FAX": null,
+            "WEBSITEURL": "https://www.cairnwood.ca",
+            "EMAIL": "julie@cairnwood.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 37,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 37,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100185149",
+            "TO": "Julie Dodge",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-941-5066"
+        },
+        {
+            "TOUNIQUENUMBER": "100185149",
+            "TO": "Julie Dodge",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-941-5066"
+        },
+        {
+            "TOUNIQUENUMBER": "100185149",
+            "TO": "Julie Dodge",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-941-5066"
+        },
+        {
+            "TOUNIQUENUMBER": "333340",
+            "TO": "Richard Tenden",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-407-2320"
+        },
+        {
+            "TOUNIQUENUMBER": "333340",
+            "TO": "Richard Tenden",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-407-2320"
+        },
+        {
+            "TOUNIQUENUMBER": "333340",
+            "TO": "Richard Tenden",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-407-2320"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48410",
+            "Umbrella": "Cairnwood Homes",
+            "Umbrella ID": "12552246",
+            "VB_NAME": "Cairnwood Developments Inc.",
+            "OPERATINGNAME": "Cairnwood Developments Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48410",
+            "MEMBERNAME": "Cairnwood Developments Inc.",
+            "MEMBEROPERATINGNAME": "Cairnwood Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48410",
+            "Umbrella": "Cairnwood Homes",
+            "Umbrella ID": "12552246",
+            "VB_NAME": "Cairnwood Developments Inc.",
+            "OPERATINGNAME": "Cairnwood Developments Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43142",
+            "MEMBERNAME": "Cairnwood Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Broadway Lane",
+            "Project Status": null,
+            "Location": "WELLAND",
+            "Address": " 170 Broadway Lane ",
+            "# of Units": 37,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

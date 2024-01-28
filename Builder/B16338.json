@@ -1,0 +1,165 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B16338",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Wyndham Gate Inc.",
+            "OPERATINGNAME": "Wyndham Gate",
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1988-10-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1995-10-28 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "248 Pall Mall St., Suite # 400",
+            "TELEPHONE": "(519)672-1585",
+            "FAX": "(519)433-6982",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "308309",
+            "TO": "Michael DeGroote",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-335-8533"
+        },
+        {
+            "TOUNIQUENUMBER": "308309",
+            "TO": "Michael DeGroote",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-335-8533"
+        },
+        {
+            "TOUNIQUENUMBER": "331315",
+            "TO": "Robert Siskind",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-781-0623"
+        },
+        {
+            "TOUNIQUENUMBER": "331315",
+            "TO": "Robert Siskind",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-781-0623"
+        },
+        {
+            "TOUNIQUENUMBER": "331862",
+            "TO": "Hal Soule",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "331862",
+            "TO": "Hal Soule",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "314728",
+            "TO": "Leslie Haworth",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "314728",
+            "TO": "Leslie Haworth",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336487",
+            "TO": "Thomas G. Whealy",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336487",
+            "TO": "Thomas G. Whealy",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B16338",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Wyndham Gate Inc.",
+            "OPERATINGNAME": "Wyndham Gate",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WYNDHAM GATE - PHASE III",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1500 Richmond Street North",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1992-12-01"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1500 Richmond N.",
+            "# of Units": 49,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-05-02"
+        },
+        {
+            "Condo Project Name": "WYNDHAM GATE",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1510 Richmond St.",
+            "# of Units": 100,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-12-15"
+        },
+        {
+            "Condo Project Name": null,
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1500 Richmond St n",
+            "# of Units": 45,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-09-26"
+        }
+    ],
+    "builderConditions": []
+}

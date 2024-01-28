@@ -1,0 +1,104 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32560",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Glenbrook Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Thorold",
+            "HCRA_INITIALLICENSEDATE": "2002-08-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-07-15 19:00:04.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1051 Old Thorold Stone Rd.",
+            "TELEPHONE": "905-680-6000",
+            "FAX": "905-680-6025",
+            "WEBSITEURL": "www.silvergatehomes.com",
+            "EMAIL": "tpace@silvergatehomes.com",
+            "ACCOUNTNUMBER": "B32560",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 12,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 12,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32560",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Glenbrook Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Village On The Twelve Stage V",
+            "Project Status": null,
+            "Location": "ST. CATHARINES",
+            "Address": "168 Martindale Rd.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Village On The Twelve Stage IV",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": " 170 Martindale RD. ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-12-01"
+        },
+        {
+            "Condo Project Name": "VILLAGE ON THE TWELVE - PHASE III",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": " 172 Martindale Rd. ",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-05-28"
+        },
+        {
+            "Condo Project Name": "VILLAGE ON THE TWELVE - PHASE III",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": " 172 Martindale Rd. ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-03-09"
+        },
+        {
+            "Condo Project Name": "VILLAGE ON THE TWELVE - PHASE III",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": " 172 Martindale Rd. ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-11-07"
+        }
+    ],
+    "builderConditions": []
+}

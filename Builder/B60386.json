@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60386",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "DDR Design & Build Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Utterson",
+            "HCRA_INITIALLICENSEDATE": "2021-07-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-07-14 05:00:03.000 +0000",
+            "Expiry Date": "2023-07-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1402 Windermere Road",
+            "TELEPHONE": "705-205-1088",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "woodscapesdb@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600006701",
+            "TO": "Damien Burke",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-205-1088"
+        },
+        {
+            "TOUNIQUENUMBER": "600006701",
+            "TO": "Damien Burke",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-205-1088"
+        },
+        {
+            "TOUNIQUENUMBER": "600007610",
+            "TO": "Dillon Norrie",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-644-0312"
+        },
+        {
+            "TOUNIQUENUMBER": "600007610",
+            "TO": "Dillon Norrie",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-644-0312"
+        },
+        {
+            "TOUNIQUENUMBER": "600007609",
+            "TO": "Roberto Lamas",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-706-0258"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60386",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "DDR Design & Build Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

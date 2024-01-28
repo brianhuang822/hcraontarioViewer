@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33840",
+            "Umbrella": "Peter North Homes",
+            "Umbrella ID": "12540208",
+            "VB_NAME": "2026272 Ontario Inc.",
+            "OPERATINGNAME": "Peter North Homes",
+            "CITY": "PORT STANLEY",
+            "HCRA_INITIALLICENSEDATE": "2003-10-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-10-30 15:02:59.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4485 Thomas Rd., R.R. 2",
+            "TELEPHONE": "519-782-5084",
+            "FAX": "519-782-3885",
+            "WEBSITEURL": null,
+            "EMAIL": "pd.north@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11948540",
+            "TO": "Peter North",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-782-5084"
+        },
+        {
+            "TOUNIQUENUMBER": "11948540",
+            "TO": "Peter North",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-782-5084"
+        },
+        {
+            "TOUNIQUENUMBER": "11948540",
+            "TO": "Peter North",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-782-5084"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33840",
+            "Umbrella": "Peter North Homes",
+            "Umbrella ID": "12540208",
+            "VB_NAME": "2026272 Ontario Inc.",
+            "OPERATINGNAME": "Peter North Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42154",
+            "MEMBERNAME": "Peter North",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33840",
+            "Umbrella": "Peter North Homes",
+            "Umbrella ID": "12540208",
+            "VB_NAME": "2026272 Ontario Inc.",
+            "OPERATINGNAME": "Peter North Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33840",
+            "MEMBERNAME": "2026272 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Peter North Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

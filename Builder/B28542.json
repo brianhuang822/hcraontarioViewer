@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28542",
+            "Umbrella": "Formstructures Karir FCP",
+            "Umbrella ID": "12541728",
+            "VB_NAME": "Metron Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2000-01-12",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2006-04-06 20:55:22.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "550 Eglinton Ave. W., PO Box 38115",
+            "TELEPHONE": "(416) 487-3200 ext. 222",
+            "FAX": "(416) 421-4343",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345408",
+            "TO": "Joel Michael Swartz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-931-0779"
+        },
+        {
+            "TOUNIQUENUMBER": "345408",
+            "TO": "Joel Michael Swartz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-931-0779"
+        },
+        {
+            "TOUNIQUENUMBER": "345408",
+            "TO": "Joel Michael Swartz",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-931-0779"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28542",
+            "Umbrella": "Formstructures Karir FCP",
+            "Umbrella ID": "12541728",
+            "VB_NAME": "Metron Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B28542",
+            "MEMBERNAME": "Metron Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B28542",
+            "Umbrella": "Formstructures Karir FCP",
+            "Umbrella ID": "12541728",
+            "VB_NAME": "Metron Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B41320",
+            "MEMBERNAME": "Formstructures Karir FCP Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

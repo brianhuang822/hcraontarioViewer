@@ -1,0 +1,81 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Mercedes Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "100 Beddoe St., Unit 85",
+            "TELEPHONE": "(905) 572-1801",
+            "FAX": "(905) 628-7800",
+            "WEBSITEURL": "www.merchomes.com",
+            "EMAIL": "lszpirglas@cogeco.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "770432 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Mercedes Homes",
+            "MEMBERVBNUM": "B17017",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Caroga Manor Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B11722",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "LONDONDERRY LANE",
+            "Account Number": "B17017",
+            "Project Status": "Completed",
+            "Location": "ANCASTER",
+            "Address": "876 Golf Links Rd.",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-12-04"
+        },
+        {
+            "Condo Project Name": "LONDONDERRY LANES",
+            "Account Number": "B17017",
+            "Project Status": "Completed",
+            "Location": "ANCASTER",
+            "Address": "876 Golf Links Rd.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-12-22"
+        },
+        {
+            "Condo Project Name": null,
+            "Account Number": "B11722",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": "51 Caroga Crt.",
+            "# of Units": 35,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1986-04-17"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47438",
+            "Umbrella": "Harse Homes",
+            "Umbrella ID": "12549748",
+            "VB_NAME": "Harse Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2022-06-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-15 20:43:52.000 +0000",
+            "Expiry Date": "2024-06-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "815 Spring Gardens Road",
+            "TELEPHONE": "905-689-7660",
+            "FAX": null,
+            "WEBSITEURL": "www.harsehomes.ca",
+            "EMAIL": "jeff@harsehomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "314593",
+            "TO": "John Harsevoort",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-520-6907"
+        },
+        {
+            "TOUNIQUENUMBER": "314593",
+            "TO": "John Harsevoort",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-520-6907"
+        },
+        {
+            "TOUNIQUENUMBER": "314593",
+            "TO": "John Harsevoort",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-520-6907"
+        },
+        {
+            "TOUNIQUENUMBER": "100554856",
+            "TO": "Rachel Harsevoort",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-741-1461"
+        },
+        {
+            "TOUNIQUENUMBER": "100554857",
+            "TO": "Joy Klumpenhouwer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-291-1599"
+        },
+        {
+            "TOUNIQUENUMBER": "100551224",
+            "TO": "Jeff Harsevoort",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-7660"
+        },
+        {
+            "TOUNIQUENUMBER": "100551224",
+            "TO": "Jeff Harsevoort",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-7660"
+        },
+        {
+            "TOUNIQUENUMBER": "100551224",
+            "TO": "Jeff Harsevoort",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-7660"
+        },
+        {
+            "TOUNIQUENUMBER": "100551224",
+            "TO": "Jeff Harsevoort",
+            "Relationship Type": "Sales & Marketing Contact",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-689-7660"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47438",
+            "Umbrella": "Harse Homes",
+            "Umbrella ID": "12549748",
+            "VB_NAME": "Harse Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47438",
+            "MEMBERNAME": "Harse Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47438",
+            "Umbrella": "Harse Homes",
+            "Umbrella ID": "12549748",
+            "VB_NAME": "Harse Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37657",
+            "MEMBERNAME": "John Harsevoort",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

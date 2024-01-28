@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38810",
+            "Umbrella": "180 University",
+            "Umbrella ID": "12537838",
+            "VB_NAME": "180 University Management Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "VANCOUVER",
+            "HCRA_INITIALLICENSEDATE": "2008-05-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-05-08 12:01:03.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1067 West Cordova St., Ste. 501",
+            "TELEPHONE": "604-685-8986",
+            "FAX": "604-893-1708",
+            "WEBSITEURL": " ",
+            "EMAIL": "lucia@westbankcorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12213672",
+            "TO": "Ben Yeung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-688-4885"
+        },
+        {
+            "TOUNIQUENUMBER": "12213672",
+            "TO": "Ben Yeung",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-688-4885"
+        },
+        {
+            "TOUNIQUENUMBER": "12213672",
+            "TO": "Ben Yeung",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-688-4885"
+        },
+        {
+            "TOUNIQUENUMBER": "12213671",
+            "TO": "Ian Gillespie",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-685-8986"
+        },
+        {
+            "TOUNIQUENUMBER": "12213671",
+            "TO": "Ian Gillespie",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-685-8986"
+        },
+        {
+            "TOUNIQUENUMBER": "12213671",
+            "TO": "Ian Gillespie",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-685-8986"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38810",
+            "Umbrella": "180 University",
+            "Umbrella ID": "12537838",
+            "VB_NAME": "180 University Management Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38810",
+            "MEMBERNAME": "180 University Management Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38810",
+            "Umbrella": "180 University",
+            "Umbrella ID": "12537838",
+            "VB_NAME": "180 University Management Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37522",
+            "MEMBERNAME": "180 University Residential Limited Partnership",
+            "MEMBEROPERATINGNAME": "Living Shangri-La Toronto",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,130 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45824",
+            "Umbrella": "Textbook Student Suites",
+            "Umbrella ID": "12543125",
+            "VB_NAME": "Textbook (256 Rideau Street) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CONCORD",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2017-06-13 20:25:32.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "51 Caldari Rd., Ste. A1M",
+            "TELEPHONE": "416/477-7744",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "james@textbooksuites.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100202609",
+            "TO": "John Evan Davies",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-477-7744"
+        },
+        {
+            "TOUNIQUENUMBER": "100202609",
+            "TO": "John Evan Davies",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-477-7744"
+        },
+        {
+            "TOUNIQUENUMBER": "100304339",
+            "TO": "Walter William Thompson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-477-7744"
+        },
+        {
+            "TOUNIQUENUMBER": "100304339",
+            "TO": "Walter William Thompson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-477-7744"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45824",
+            "Umbrella": "Textbook Student Suites",
+            "Umbrella ID": "12543125",
+            "VB_NAME": "Textbook (256 Rideau Street) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B43382",
+            "MEMBERNAME": "McMurray Street Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B45824",
+            "Umbrella": "Textbook Student Suites",
+            "Umbrella ID": "12543125",
+            "VB_NAME": "Textbook (256 Rideau Street) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B44530",
+            "MEMBERNAME": "Textbook Ross Park Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B45824",
+            "Umbrella": "Textbook Student Suites",
+            "Umbrella ID": "12543125",
+            "VB_NAME": "Textbook (256 Rideau Street) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B45824",
+            "MEMBERNAME": "Textbook (256 Rideau Street) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B45824",
+            "Umbrella": "Textbook Student Suites",
+            "Umbrella ID": "12543125",
+            "VB_NAME": "Textbook (256 Rideau Street) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B44013",
+            "MEMBERNAME": "Scollard Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45824",
+            "Umbrella": "Textbook Student Suites",
+            "Umbrella ID": "12543125",
+            "VB_NAME": "Textbook (256 Rideau Street) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B45190",
+            "MEMBERNAME": "Textbook (774 Bronson Avenue) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

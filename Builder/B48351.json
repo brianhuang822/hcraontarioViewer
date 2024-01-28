@@ -1,0 +1,112 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48351",
+            "Umbrella": "Elite Living Realty",
+            "Umbrella ID": "500002109",
+            "VB_NAME": "Lakeview Townhomes (Barrie) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Barrie",
+            "HCRA_INITIALLICENSEDATE": "2020-10-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-11 20:39:00.000 +0000",
+            "Expiry Date": "2024-10-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "145 Welham road",
+            "TELEPHONE": "705-770-4322",
+            "FAX": "705 792-9050",
+            "WEBSITEURL": "Lakeviewtowns.com",
+            "EMAIL": "tzarcone@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100657495",
+            "TO": "Frank Vogel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "+31 65 028 7531"
+        },
+        {
+            "TOUNIQUENUMBER": "100657495",
+            "TO": "Frank Vogel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "+31 65 028 7531"
+        },
+        {
+            "TOUNIQUENUMBER": "100657500",
+            "TO": "Edward Lea",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-721-6874"
+        },
+        {
+            "TOUNIQUENUMBER": "100657500",
+            "TO": "Edward Lea",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-721-6874"
+        },
+        {
+            "TOUNIQUENUMBER": "12206354",
+            "TO": "Tino Zarcone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-770-4322"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48351",
+            "Umbrella": "Elite Living Realty",
+            "Umbrella ID": "500002109",
+            "VB_NAME": "Lakeview Townhomes (Barrie) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48351",
+            "MEMBERNAME": "Lakeview Townhomes (Barrie) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48351",
+            "Umbrella": "Elite Living Realty",
+            "Umbrella ID": "500002109",
+            "VB_NAME": "Lakeview Townhomes (Barrie) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62007",
+            "MEMBERNAME": "481 Yonge Developments Inc.",
+            "MEMBEROPERATINGNAME": "481 Yonge Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Lakeview Townhomes Barrie",
+            "Project Status": null,
+            "Location": "BARRIE",
+            "Address": " 1 MILBURN ",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

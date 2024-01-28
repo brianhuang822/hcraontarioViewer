@@ -1,0 +1,103 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43813",
+            "Umbrella": "Resolve Group",
+            "Umbrella ID": "12541672",
+            "VB_NAME": "Aurora Condominiums LP by its General Partner",
+            "OPERATINGNAME": null,
+            "CITY": "WINNIPEG",
+            "HCRA_INITIALLICENSEDATE": "2014-07-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-02-23 02:31:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "897 Corydon Ave., Ste. 200",
+            "TELEPHONE": "204/594-1430",
+            "FAX": "204/594-1439",
+            "WEBSITEURL": " ",
+            "EMAIL": "gisele.macdonald@resolvegroup.ca",
+            "ACCOUNTNUMBER": "B43813",
+            "Total Outstanding Amount": 2685564.46,
+            "TAB": 0,
+            "BREACH": 2685564.46,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 45,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 3173938.61,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 3173938.61
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12435236",
+            "TO": "Gisele Macdonald",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "204-594-1430"
+        },
+        {
+            "TOUNIQUENUMBER": "12435236",
+            "TO": "Gisele Macdonald",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "204-594-1430"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43813",
+            "Umbrella": "Resolve Group",
+            "Umbrella ID": "12541672",
+            "VB_NAME": "Aurora Condominiums LP by its General Partner",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43814",
+            "MEMBERNAME": "Allure Condominiums LP by its General Partner",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43813",
+            "Umbrella": "Resolve Group",
+            "Umbrella ID": "12541672",
+            "VB_NAME": "Aurora Condominiums LP by its General Partner",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40778",
+            "MEMBERNAME": "1778691 Ontario Inc",
+            "MEMBEROPERATINGNAME": "Resolve Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43813",
+            "Umbrella": "Resolve Group",
+            "Umbrella ID": "12541672",
+            "VB_NAME": "Aurora Condominiums LP by its General Partner",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43813",
+            "MEMBERNAME": "Aurora Condominiums LP by its General Partner",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Vue On The Water - Aurora",
+            "Project Status": "Completed",
+            "Location": "THUNDER BAY",
+            "Address": "2260 Sleeping Giant Pkwy.",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-18"
+        }
+    ],
+    "builderConditions": []
+}

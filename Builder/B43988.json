@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43988",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "TM Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "SUDBURY",
+            "HCRA_INITIALLICENSEDATE": "2014-10-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-04 03:00:54.000 +0000",
+            "Expiry Date": "2024-10-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "366 Fourth Ave.",
+            "TELEPHONE": "705-561-9265",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "tim@tmqualityhomesinc.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 18,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 18,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12285446",
+            "TO": "Timothy McDonald",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-561-9265"
+        },
+        {
+            "TOUNIQUENUMBER": "12285446",
+            "TO": "Timothy McDonald",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-561-9265"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108811",
+            "CHARGE_AGAINST": "TM Quality Homes Inc.",
+            "CHARGE_DATE": "2016-11-08",
+            "DISPOSITION_DATE": "2017-06-09",
+            "THE_FINE_": "1500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "375",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326944",
+            "ORGANIZATION_NAME": "TM Quality Homes Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Hanmer, ON",
+            "CITY_DEFENCE": "Sudbury, ON",
+            "VB_NUMBER": "B43988",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108811 9326944",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Greater Sudbury, City",
+            "INFORMATION_NUMBER": "16-5716",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2016-09-13",
+            "TO_OFFENCE_DATE": "2016-09-27",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "1875",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B43988",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "TM Quality Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23110",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1011125 Ontario Limited",
+            "OPERATINGNAME": "Clemchar Contractors",
+            "CITY": "Sudbury",
+            "HCRA_INITIALLICENSEDATE": "1993-07-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-27 18:47:06.000 +0000",
+            "Expiry Date": "2024-11-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1434 gennings street",
+            "TELEPHONE": "705-691-3931",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "clemchar@persona.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 21,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 21,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "308099",
+            "TO": "Jean Charles",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-691-3931"
+        },
+        {
+            "TOUNIQUENUMBER": "308099",
+            "TO": "Jean Charles",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-691-3931"
+        },
+        {
+            "TOUNIQUENUMBER": "308099",
+            "TO": "Jean Charles",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-691-3931"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA100473",
+            "CHARGE_AGAINST": "1011125 Ontario Ltd. operating as Clemchar Contrac",
+            "CHARGE_DATE": "2008-11-20",
+            "DISPOSITION_DATE": "2009-03-10",
+            "THE_FINE_": "0",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "0",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Suspended Sentence",
+            "INVESTIGATION_": "9324266",
+            "ORGANIZATION_NAME": "1011125 Ontario Ltd. operating as Clemchar Contractors",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Sudbury, ON",
+            "CITY_DEFENCE": "Sudbury, ON",
+            "VB_NUMBER": "B23110",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA100473 9324266",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Greater Sudbury, City",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2008-06-27",
+            "TO_OFFENCE_DATE": "2008-11-19",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "0",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "54:39.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B23110",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1011125 Ontario Limited",
+            "OPERATINGNAME": "Clemchar Contractors",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

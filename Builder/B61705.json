@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61705",
+            "Umbrella": "Capital Developments",
+            "Umbrella ID": "500001923",
+            "VB_NAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "OPERATINGNAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-11-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-29 16:30:00.000 +0000",
+            "Expiry Date": "2024-11-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "45 St. Clair Avenue West",
+            "TELEPHONE": "416-632-9300",
+            "FAX": null,
+            "WEBSITEURL": "https://www.capitaldevelopments.com",
+            "EMAIL": "info@capitaldevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100157772",
+            "TO": "Todd Cowan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-637-9307"
+        },
+        {
+            "TOUNIQUENUMBER": "100157772",
+            "TO": "Todd Cowan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-637-9307"
+        },
+        {
+            "TOUNIQUENUMBER": "100157774",
+            "TO": "Jordan Dermer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-637-9308"
+        },
+        {
+            "TOUNIQUENUMBER": "100157774",
+            "TO": "Jordan Dermer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-637-9308"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61705",
+            "Umbrella": "Capital Developments",
+            "Umbrella ID": "500001923",
+            "VB_NAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "OPERATINGNAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47449",
+            "MEMBERNAME": "15-21 Holmes Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B61705",
+            "Umbrella": "Capital Developments",
+            "Umbrella ID": "500001923",
+            "VB_NAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "OPERATINGNAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61728",
+            "MEMBERNAME": "31F Development Limited Partnership, by its general partner, 31F Development GP Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61705",
+            "Umbrella": "Capital Developments",
+            "Umbrella ID": "500001923",
+            "VB_NAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "OPERATINGNAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61705",
+            "MEMBERNAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "MEMBEROPERATINGNAME": "C&P Development Limited Partnership by its general partner, C&P Development GP Corporation",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Park Road",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 717 Church street ",
+            "# of Units": 302,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

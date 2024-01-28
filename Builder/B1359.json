@@ -1,0 +1,82 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1359",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bob's Carpentry Service Limited",
+            "OPERATINGNAME": "Bob's Carpentry",
+            "CITY": "Kemptville",
+            "HCRA_INITIALLICENSEDATE": "1986-11-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-27 14:46:29.000 +0000",
+            "Expiry Date": "2024-12-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4048 County Road 43",
+            "TELEPHONE": "613-258-4959",
+            "FAX": "613-258-7855",
+            "WEBSITEURL": null,
+            "EMAIL": "bobscarpentry@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 19,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 19,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100341624",
+            "TO": "Matthew Stuckless",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-258-4959"
+        },
+        {
+            "TOUNIQUENUMBER": "332713",
+            "TO": "Bob Stuckless",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-258-4959"
+        },
+        {
+            "TOUNIQUENUMBER": "332713",
+            "TO": "Bob Stuckless",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-258-4959"
+        },
+        {
+            "TOUNIQUENUMBER": "332713",
+            "TO": "Bob Stuckless",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-258-4959"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1359",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Bob's Carpentry Service Limited",
+            "OPERATINGNAME": "Bob's Carpentry",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

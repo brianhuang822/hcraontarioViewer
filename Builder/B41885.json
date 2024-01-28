@@ -1,0 +1,131 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41885",
+            "Umbrella": "MOD Developments",
+            "Umbrella ID": "12545338",
+            "VB_NAME": "MOD Developments (197 Yonge) LP",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2012-03-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-11 21:28:30.000 +0000",
+            "Expiry Date": "2024-03-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "555 Richmond St. W., Ste 1106",
+            "TELEPHONE": "647-748-2022",
+            "FAX": "647/748-2822",
+            "WEBSITEURL": " ",
+            "EMAIL": "info@moddevelopments.com",
+            "ACCOUNTNUMBER": "B41885",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 694,
+            "SUMM_TOTAL": 694,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12523739",
+            "TO": "Noorez Lalani",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-295-2285"
+        },
+        {
+            "TOUNIQUENUMBER": "12523739",
+            "TO": "Noorez Lalani",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-295-2285"
+        },
+        {
+            "TOUNIQUENUMBER": "12523736",
+            "TO": "Don Forsgren",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-801-7014"
+        },
+        {
+            "TOUNIQUENUMBER": "12523736",
+            "TO": "Don Forsgren",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-801-7014"
+        },
+        {
+            "TOUNIQUENUMBER": "12523737",
+            "TO": "Gary Switzer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-748-2722"
+        },
+        {
+            "TOUNIQUENUMBER": "12523737",
+            "TO": "Gary Switzer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-748-2722"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41885",
+            "Umbrella": "MOD Developments",
+            "Umbrella ID": "12545338",
+            "VB_NAME": "MOD Developments (197 Yonge) LP",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45783",
+            "MEMBERNAME": "Woodcliffe MOD Developments (St. Andrew's) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41885",
+            "Umbrella": "MOD Developments",
+            "Umbrella ID": "12545338",
+            "VB_NAME": "MOD Developments (197 Yonge) LP",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47557",
+            "MEMBERNAME": "MOD Developments (Charles) LP by its general partner MOD Developments (Charles) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41885",
+            "Umbrella": "MOD Developments",
+            "Umbrella ID": "12545338",
+            "VB_NAME": "MOD Developments (197 Yonge) LP",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41885",
+            "MEMBERNAME": "MOD Developments (197 Yonge) LP",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Massey Tower",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 197 Yonge St. ",
+            "# of Units": 697,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-10-09"
+        }
+    ],
+    "builderConditions": []
+}

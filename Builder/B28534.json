@@ -1,0 +1,82 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28534",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1327115 Ontario Limited",
+            "OPERATINGNAME": "Earl Street Mews",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1999-09-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-09-16 12:34:06.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1643 Bathurst St., Ste. 104",
+            "TELEPHONE": "(416)460-9999",
+            "FAX": "(416)494-6788",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "330000",
+            "TO": "Saul Schacht",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-482-9365"
+        },
+        {
+            "TOUNIQUENUMBER": "330000",
+            "TO": "Saul Schacht",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-482-9365"
+        },
+        {
+            "TOUNIQUENUMBER": "311253",
+            "TO": "Leo Fisherman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-460-9999"
+        },
+        {
+            "TOUNIQUENUMBER": "311253",
+            "TO": "Leo Fisherman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-460-9999"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28534",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1327115 Ontario Limited",
+            "OPERATINGNAME": "Earl Street Mews",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

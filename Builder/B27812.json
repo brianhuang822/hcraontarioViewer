@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27812",
+            "Umbrella": "Donkers Harris Homes",
+            "Umbrella ID": "10944",
+            "VB_NAME": "Donkers Harris Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Listowel",
+            "HCRA_INITIALLICENSEDATE": "1998-10-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-11 03:26:08.000 +0000",
+            "Expiry Date": "2024-10-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3 David Street",
+            "TELEPHONE": "519-291-4881",
+            "FAX": "519-291-3952",
+            "WEBSITEURL": "www.donkersharris.com",
+            "EMAIL": "log@donkersharris.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 33,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 33,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600015572",
+            "TO": "Adam Johnson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-291-4881"
+        },
+        {
+            "TOUNIQUENUMBER": "600015572",
+            "TO": "Adam Johnson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-291-4881"
+        },
+        {
+            "TOUNIQUENUMBER": "309431",
+            "TO": "James William Donkers",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-291-4881"
+        },
+        {
+            "TOUNIQUENUMBER": "309431",
+            "TO": "James William Donkers",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-291-4881"
+        },
+        {
+            "TOUNIQUENUMBER": "314559",
+            "TO": "Gordon Stewart Harris",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-291-4881"
+        },
+        {
+            "TOUNIQUENUMBER": "314559",
+            "TO": "Gordon Stewart Harris",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-291-4881"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27812",
+            "Umbrella": "Donkers Harris Homes",
+            "Umbrella ID": "10944",
+            "VB_NAME": "Donkers Harris Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B13707",
+            "MEMBERNAME": "Donkers-Harris Construction",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27812",
+            "Umbrella": "Donkers Harris Homes",
+            "Umbrella ID": "10944",
+            "VB_NAME": "Donkers Harris Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27812",
+            "MEMBERNAME": "Donkers Harris Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

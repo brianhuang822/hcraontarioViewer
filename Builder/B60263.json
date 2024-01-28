@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60263",
+            "Umbrella": "Ahmed Group",
+            "Umbrella ID": "12550152",
+            "VB_NAME": "Ahmed Group (15 Parish St) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Mississauga",
+            "HCRA_INITIALLICENSEDATE": "2021-06-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-06-16 04:15:18.000 +0000",
+            "Expiry Date": "2022-06-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1-1024 Dundas St. E.",
+            "TELEPHONE": "905-949-0999",
+            "FAX": "905-949-0999",
+            "WEBSITEURL": "http://www.Ahmed.Group",
+            "EMAIL": "m@ahmed.group",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100499347",
+            "TO": "Mohammed Ahmed",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-949-0999"
+        },
+        {
+            "TOUNIQUENUMBER": "100635181",
+            "TO": "Imran Ahmed",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-812-9786"
+        },
+        {
+            "TOUNIQUENUMBER": "100635181",
+            "TO": "Imran Ahmed",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-812-9786"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60263",
+            "Umbrella": "Ahmed Group",
+            "Umbrella ID": "12550152",
+            "VB_NAME": "Ahmed Group (15 Parish St) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47626",
+            "MEMBERNAME": "Ahmed Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60263",
+            "Umbrella": "Ahmed Group",
+            "Umbrella ID": "12550152",
+            "VB_NAME": "Ahmed Group (15 Parish St) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46987",
+            "MEMBERNAME": "Ahmed Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60263",
+            "Umbrella": "Ahmed Group",
+            "Umbrella ID": "12550152",
+            "VB_NAME": "Ahmed Group (15 Parish St) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B62359",
+            "MEMBERNAME": "Ahmed Group (1000 Dundas St. E.) Inc.",
+            "MEMBEROPERATINGNAME": "Ahmed Group (1000 Dundas St. E.) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60263",
+            "Umbrella": "Ahmed Group",
+            "Umbrella ID": "12550152",
+            "VB_NAME": "Ahmed Group (15 Parish St) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60263",
+            "MEMBERNAME": "Ahmed Group (15 Parish St) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

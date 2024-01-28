@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32953",
+            "Umbrella": "Lansen Homes",
+            "Umbrella ID": "12540936",
+            "VB_NAME": "2017841 Ontario Inc.",
+            "OPERATINGNAME": "Lansen Homes",
+            "CITY": "NEWMARKET",
+            "HCRA_INITIALLICENSEDATE": "2003-06-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2008-08-21 01:32:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "737 Old Bathurst St.",
+            "TELEPHONE": "(905) 727-6116",
+            "FAX": "905-727-6110",
+            "WEBSITEURL": null,
+            "EMAIL": "lansenhomes@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11850851",
+            "TO": "Monique Langlois",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-853-9954"
+        },
+        {
+            "TOUNIQUENUMBER": "11850854",
+            "TO": "Alain Senecal",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11850854",
+            "TO": "Alain Senecal",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11850854",
+            "TO": "Alain Senecal",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32953",
+            "Umbrella": "Lansen Homes",
+            "Umbrella ID": "12540936",
+            "VB_NAME": "2017841 Ontario Inc.",
+            "OPERATINGNAME": "Lansen Homes",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B32953",
+            "MEMBERNAME": "2017841 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Lansen Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B32953",
+            "Umbrella": "Lansen Homes",
+            "Umbrella ID": "12540936",
+            "VB_NAME": "2017841 Ontario Inc.",
+            "OPERATINGNAME": "Lansen Homes",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B37308",
+            "MEMBERNAME": "1501233 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

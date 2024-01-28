@@ -1,0 +1,167 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37698",
+            "Umbrella": "Cityscape",
+            "Umbrella ID": "11785445",
+            "VB_NAME": "Distillery SE Development Corp.",
+            "OPERATINGNAME": "Clear Spirit",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2007-05-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-05-26 13:01:07.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "30 Adelaide St., E., Ste. 1600",
+            "TELEPHONE": "416/364-1177",
+            "FAX": "416-364-4793",
+            "WEBSITEURL": "www.liveatthedistillery.com",
+            "EMAIL": "ls@thedistillerydistrict.com",
+            "ACCOUNTNUMBER": "B37698",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 324,
+            "SUMM_TOTAL": 324,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343315",
+            "TO": "John Berman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "343315",
+            "TO": "John Berman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "343325",
+            "TO": "James Goad",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "337453",
+            "TO": "David Jackson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-364-1177"
+        },
+        {
+            "TOUNIQUENUMBER": "337265",
+            "TO": "Mathew Rosenblatt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12208477",
+            "TO": "Jason Lester",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-365-5993"
+        },
+        {
+            "TOUNIQUENUMBER": "12208477",
+            "TO": "Jason Lester",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-365-5993"
+        },
+        {
+            "TOUNIQUENUMBER": "343479",
+            "TO": "Michael Cooper",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-365-3535"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37698",
+            "Umbrella": "Cityscape",
+            "Umbrella ID": "11785445",
+            "VB_NAME": "Distillery SE Development Corp.",
+            "OPERATINGNAME": "Clear Spirit",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35452",
+            "MEMBERNAME": "D H D Development Corp.",
+            "MEMBEROPERATINGNAME": "Pure Spirit Lofts & Condominiums",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37698",
+            "Umbrella": "Cityscape",
+            "Umbrella ID": "11785445",
+            "VB_NAME": "Distillery SE Development Corp.",
+            "OPERATINGNAME": "Clear Spirit",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31863",
+            "MEMBERNAME": "C D Jarvis Corp.",
+            "MEMBEROPERATINGNAME": "Massey Estates",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37698",
+            "Umbrella": "Cityscape",
+            "Umbrella ID": "11785445",
+            "VB_NAME": "Distillery SE Development Corp.",
+            "OPERATINGNAME": "Clear Spirit",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37698",
+            "MEMBERNAME": "Distillery SE Development Corp.",
+            "MEMBEROPERATINGNAME": "Clear Spirit",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37698",
+            "Umbrella": "Cityscape",
+            "Umbrella ID": "11785445",
+            "VB_NAME": "Distillery SE Development Corp.",
+            "OPERATINGNAME": "Clear Spirit",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27413",
+            "MEMBERNAME": "Cityscape Niagara Corp.",
+            "MEMBEROPERATINGNAME": "Portland Park Village",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Gooderham Condominiums at The Distillery",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "390 Cherry St.",
+            "# of Units": 325,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-07-22"
+        },
+        {
+            "Condo Project Name": "Clear Spirit Condominiums",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "70 Distillery Lane",
+            "# of Units": 344,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-03-14"
+        }
+    ],
+    "builderConditions": []
+}

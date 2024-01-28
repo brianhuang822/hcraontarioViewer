@@ -1,0 +1,153 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23125",
+            "Umbrella": "M.D.H Properties",
+            "Umbrella ID": "12540611",
+            "VB_NAME": "M.D.H. Properties Limited",
+            "OPERATINGNAME": null,
+            "CITY": "NORTH YORK",
+            "HCRA_INITIALLICENSEDATE": "1993-06-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1995-06-14 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "141 Brooke Ave.",
+            "TELEPHONE": "(416)486-3210",
+            "FAX": "(416)486-3210",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "323174",
+            "TO": "Barbara M. Milne",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-489-4794"
+        },
+        {
+            "TOUNIQUENUMBER": "323174",
+            "TO": "Barbara M. Milne",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-489-4794"
+        },
+        {
+            "TOUNIQUENUMBER": "323177",
+            "TO": "Peter N. Milne",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-3210"
+        },
+        {
+            "TOUNIQUENUMBER": "323177",
+            "TO": "Peter N. Milne",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-3210"
+        },
+        {
+            "TOUNIQUENUMBER": "323177",
+            "TO": "Peter N. Milne",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-3210"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA104853",
+            "CHARGE_AGAINST": "M.D.H Properties Limited",
+            "CHARGE_DATE": "2009-09-27",
+            "DISPOSITION_DATE": "2009-12-21",
+            "THE_FINE_": "0",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "0",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Suspended Sentence",
+            "INVESTIGATION_": "9324604",
+            "ORGANIZATION_NAME": "M.D.H Properties Limited",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Toronto, ON",
+            "CITY_DEFENCE": "Ottawa, ON",
+            "VB_NUMBER": "B23125",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA104853 9324604",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Toronto, City",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2008-04-02",
+            "TO_OFFENCE_DATE": "2009-09-25",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "0",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "15:03.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B23125",
+            "Umbrella": "M.D.H Properties",
+            "Umbrella ID": "12540611",
+            "VB_NAME": "M.D.H. Properties Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23125",
+            "MEMBERNAME": "M.D.H. Properties Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23125",
+            "Umbrella": "M.D.H Properties",
+            "Umbrella ID": "12540611",
+            "VB_NAME": "M.D.H. Properties Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33880",
+            "MEMBERNAME": "M.D.H. Properties Limited",
+            "MEMBEROPERATINGNAME": "M.D.H. Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23125",
+            "Umbrella": "M.D.H Properties",
+            "Umbrella ID": "12540611",
+            "VB_NAME": "M.D.H. Properties Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28428",
+            "MEMBERNAME": "M.D.H. Properties Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

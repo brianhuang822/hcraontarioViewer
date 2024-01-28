@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26543",
+            "Umbrella": "Arcadia",
+            "Umbrella ID": "12540895",
+            "VB_NAME": "Arcadia Symington Avenue Development Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "NORTH YORK",
+            "HCRA_INITIALLICENSEDATE": "1997-06-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1998-06-12 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "85 Irondale Dr.",
+            "TELEPHONE": "(416)745-6422",
+            "FAX": "(416)743-6171",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "306298",
+            "TO": "Claudio Cinapri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-745-6422"
+        },
+        {
+            "TOUNIQUENUMBER": "306298",
+            "TO": "Claudio Cinapri",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-745-6422"
+        },
+        {
+            "TOUNIQUENUMBER": "302233",
+            "TO": "John G. Bassel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-247-5352"
+        },
+        {
+            "TOUNIQUENUMBER": "302233",
+            "TO": "John G. Bassel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-247-5352"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26543",
+            "Umbrella": "Arcadia",
+            "Umbrella ID": "12540895",
+            "VB_NAME": "Arcadia Symington Avenue Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28182",
+            "MEMBERNAME": "Arcadia Dupont Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26543",
+            "Umbrella": "Arcadia",
+            "Umbrella ID": "12540895",
+            "VB_NAME": "Arcadia Symington Avenue Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26543",
+            "MEMBERNAME": "Arcadia Symington Avenue Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26543",
+            "Umbrella": "Arcadia",
+            "Umbrella ID": "12540895",
+            "VB_NAME": "Arcadia Symington Avenue Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32091",
+            "MEMBERNAME": "Arcadia Queensway Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

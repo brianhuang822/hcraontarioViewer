@@ -1,0 +1,82 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34954",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Truchan Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Sutton West",
+            "HCRA_INITIALLICENSEDATE": "2004-11-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-11-10 13:31:35.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "24013 Kennedy Rd.",
+            "TELEPHONE": "905-722-1025",
+            "FAX": "905-722-1025",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B34954",
+            "Total Outstanding Amount": 25728.99,
+            "TAB": 0,
+            "BREACH": 25728.99,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12032803",
+            "TO": "Stanislawa Truchan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-722-1025"
+        },
+        {
+            "TOUNIQUENUMBER": "12032803",
+            "TO": "Stanislawa Truchan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-722-1025"
+        },
+        {
+            "TOUNIQUENUMBER": "12032802",
+            "TO": "Michael Scott Schoffelmeer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-722-1025"
+        },
+        {
+            "TOUNIQUENUMBER": "12032802",
+            "TO": "Michael Scott Schoffelmeer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-722-1025"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34954",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Truchan Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

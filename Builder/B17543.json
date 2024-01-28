@@ -1,0 +1,148 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B17543",
+            "Umbrella": "Schuit Homes",
+            "Umbrella ID": "12401969",
+            "VB_NAME": "Schuit Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Dundas",
+            "HCRA_INITIALLICENSEDATE": "1989-04-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-20 19:29:26.000 +0000",
+            "Expiry Date": "2024-04-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "210 Old Ancaster Road",
+            "TELEPHONE": "905-628-9559",
+            "FAX": "905-627-2953",
+            "WEBSITEURL": "www.schuithomes.com",
+            "EMAIL": "marco@schuithomes.com",
+            "ACCOUNTNUMBER": "B17543",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 12,
+            "SUMM_CONDO": 19,
+            "SUMM_TOTAL": 31,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 53054.69,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 53054.69
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "330254",
+            "TO": "Gerald Schuit",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-9559"
+        },
+        {
+            "TOUNIQUENUMBER": "330254",
+            "TO": "Gerald Schuit",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-9559"
+        },
+        {
+            "TOUNIQUENUMBER": "330254",
+            "TO": "Gerald Schuit",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-628-9559"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B17543",
+            "Umbrella": "Schuit Homes",
+            "Umbrella ID": "12401969",
+            "VB_NAME": "Schuit Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B17543",
+            "MEMBERNAME": "Schuit Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B17543",
+            "Umbrella": "Schuit Homes",
+            "Umbrella ID": "12401969",
+            "VB_NAME": "Schuit Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33248",
+            "MEMBERNAME": "998153 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Pleasant Valley Estates",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Perth Park",
+            "Project Status": null,
+            "Location": "ANCASTER",
+            "Address": "3 - 27 Greenleaf Way",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Vintage",
+            "Project Status": "Completed",
+            "Location": "GRIMSBY",
+            "Address": " 107 Main St. E ",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-01-31"
+        },
+        {
+            "Condo Project Name": "Madison Park Condominiums",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "Park Rd. N.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-10-24"
+        },
+        {
+            "Condo Project Name": "Madison Park Condominiums",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "Park Rd. N.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-03-19"
+        },
+        {
+            "Condo Project Name": "Madison Park Condominiums",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "655 Park Rd. N.",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-07-05"
+        },
+        {
+            "Condo Project Name": "ABBEY COURT",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "10 Courtland Dr.",
+            "# of Units": 10,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-03-27"
+        }
+    ],
+    "builderConditions": []
+}

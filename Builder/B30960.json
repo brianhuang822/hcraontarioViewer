@@ -1,0 +1,84 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B30960",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Carrington on the Park Limited",
+            "OPERATINGNAME": "The Carrington on the Park",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2000-10-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-05-03 17:22:57.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2550 Victoria Park Avenue",
+            "TELEPHONE": "416-491-7440",
+            "FAX": "416-491-7216",
+            "WEBSITEURL": "www.monarchgroup.net",
+            "EMAIL": "monarch@monarchgroup.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B30960",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "The Carrington on the Park Limited",
+            "OPERATINGNAME": "The Carrington on the Park",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HAVEN The Condominium",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": " 1105 Leslie St. ",
+            "# of Units": 133,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-11-30"
+        },
+        {
+            "Condo Project Name": "CARRINGTON PLACE",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": " 1103 Leslie St ",
+            "# of Units": 110,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-11-18"
+        },
+        {
+            "Condo Project Name": "THE CARRINGTON ON THE PARK",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 1101 Leslie St. ",
+            "# of Units": 158,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-11-20"
+        }
+    ],
+    "builderConditions": []
+}

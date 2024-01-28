@@ -1,0 +1,109 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "El-Pine Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "300 March Rd., Ste. 300",
+            "TELEPHONE": "6135919090",
+            "FAX": "613 5919095",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "El-Pine Homes Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27435",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Les Terrasses Amelie Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34392",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Les Terrasses Amelie Inc.",
+            "MEMBEROPERATINGNAME": "Les Terrasses Amelie",
+            "MEMBERVBNUM": "B34613",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "LES TERRASES AMELLE",
+            "Account Number": "B34613",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "369 North River Rd.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-08-31"
+        },
+        {
+            "Condo Project Name": "ROBSON CRT IN KANATA LAKES",
+            "Account Number": "B27435",
+            "Project Status": "Completed",
+            "Location": "KANATA",
+            "Address": "Robson Crt.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-10-17"
+        },
+        {
+            "Condo Project Name": "ROBSON COURT IN KANATA LAKES",
+            "Account Number": "B27435",
+            "Project Status": "Completed",
+            "Location": "KANATA",
+            "Address": "151/150 Robson Crt.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-06-26"
+        },
+        {
+            "Condo Project Name": "ROBSON CRT IN KANATA LAKES",
+            "Account Number": "B27435",
+            "Project Status": "Completed",
+            "Location": "KANATA",
+            "Address": "Robson Crt.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-12-30"
+        },
+        {
+            "Condo Project Name": "ROBSON COURT IN KANATA LAKES",
+            "Account Number": "B27435",
+            "Project Status": "Completed",
+            "Location": "KANATA",
+            "Address": "130/140 Robson Crt.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-04-26"
+        }
+    ]
+}

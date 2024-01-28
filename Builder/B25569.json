@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25569",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "McLean Manor Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MANOTICK",
+            "HCRA_INITIALLICENSEDATE": "1996-08-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-08-16 12:39:39.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Box 310",
+            "TELEPHONE": "(613)692-6301",
+            "FAX": "(613)692-2653",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341867",
+            "TO": "Charles Stonehouse",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "341867",
+            "TO": "Charles Stonehouse",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "341792",
+            "TO": "Kenneth O. Gordon",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-692-4042"
+        },
+        {
+            "TOUNIQUENUMBER": "341792",
+            "TO": "Kenneth O. Gordon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-692-4042"
+        },
+        {
+            "TOUNIQUENUMBER": "341792",
+            "TO": "Kenneth O. Gordon",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-692-4042"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25569",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "McLean Manor Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "MCLEAN COURT",
+            "Project Status": "Completed",
+            "Location": "MANOTICK",
+            "Address": "Mahogany Harbour Ln.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-01-05"
+        },
+        {
+            "Condo Project Name": "MCLEAN MANOR INC.",
+            "Project Status": "Completed",
+            "Location": "MANOTICK",
+            "Address": "Mahogany Harbour Ln.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-11-26"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45770",
+            "Umbrella": "Brian Lynch",
+            "Umbrella ID": "12545307",
+            "VB_NAME": "1430980 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Loretto",
+            "HCRA_INITIALLICENSEDATE": "2016-09-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-08 20:33:01.000 +0000",
+            "Expiry Date": "2024-09-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4433 Concession 7",
+            "TELEPHONE": "705-794-6699",
+            "FAX": "705-435-3539",
+            "WEBSITEURL": " ",
+            "EMAIL": "lynchhomes@hotmail.com",
+            "ACCOUNTNUMBER": "B45770",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 32572.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 32572.84
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11657861",
+            "TO": "Brian Lynch",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-7434"
+        },
+        {
+            "TOUNIQUENUMBER": "11657861",
+            "TO": "Brian Lynch",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-7434"
+        },
+        {
+            "TOUNIQUENUMBER": "11657861",
+            "TO": "Brian Lynch",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-7434"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45770",
+            "Umbrella": "Brian Lynch",
+            "Umbrella ID": "12545307",
+            "VB_NAME": "1430980 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B30950",
+            "MEMBERNAME": "Brian Lynch",
+            "MEMBEROPERATINGNAME": "Lynch Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45770",
+            "Umbrella": "Brian Lynch",
+            "Umbrella ID": "12545307",
+            "VB_NAME": "1430980 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45770",
+            "MEMBERNAME": "1430980 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

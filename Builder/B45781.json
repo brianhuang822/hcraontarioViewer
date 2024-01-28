@@ -1,0 +1,160 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45781",
+            "Umbrella": "United Lands",
+            "Umbrella ID": "12144260",
+            "VB_NAME": "Southdown Towns Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "OAKVILLE",
+            "HCRA_INITIALLICENSEDATE": "2016-11-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-09-28 21:53:00.000 +0000",
+            "Expiry Date": "2021-04-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2904 South Sheridan Way, Unit 103",
+            "TELEPHONE": "905/829-1500",
+            "FAX": "289/815-0628",
+            "WEBSITEURL": "unitedlands.com",
+            "EMAIL": "shelley@unitedlands.com",
+            "ACCOUNTNUMBER": "B45781",
+            "Total Outstanding Amount": 39760.95,
+            "TAB": 30465.48,
+            "BREACH": 9295.47,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 104,
+            "SUMM_TOTAL": 104,
+            "SUMM_CC": 7,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 17842.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 17842.26
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "265153",
+            "TO": "Sidney Y. Dick",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-822-8858"
+        },
+        {
+            "TOUNIQUENUMBER": "340834",
+            "TO": "Colin Pillar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-688-3563"
+        },
+        {
+            "TOUNIQUENUMBER": "340834",
+            "TO": "Colin Pillar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-688-3563"
+        },
+        {
+            "TOUNIQUENUMBER": "323966",
+            "TO": "Daniel Welton",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-420-1772"
+        },
+        {
+            "TOUNIQUENUMBER": "323966",
+            "TO": "Daniel Welton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-420-1772"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45781",
+            "Umbrella": "United Lands",
+            "Umbrella ID": "12144260",
+            "VB_NAME": "Southdown Towns Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27412",
+            "MEMBERNAME": "Oakridge Heights Limited",
+            "MEMBEROPERATINGNAME": "Oakridge Heights",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45781",
+            "Umbrella": "United Lands",
+            "Umbrella ID": "12144260",
+            "VB_NAME": "Southdown Towns Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47643",
+            "MEMBERNAME": "Stonebrook II General Partner Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45781",
+            "Umbrella": "United Lands",
+            "Umbrella ID": "12144260",
+            "VB_NAME": "Southdown Towns Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36846",
+            "MEMBERNAME": "Stonebrook Properties Inc.",
+            "MEMBEROPERATINGNAME": "Stonebrook Condominiums",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45781",
+            "Umbrella": "United Lands",
+            "Umbrella ID": "12144260",
+            "VB_NAME": "Southdown Towns Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24422",
+            "MEMBERNAME": "Northampton Gardens Limited",
+            "MEMBEROPERATINGNAME": "Terracotta Gardens",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45781",
+            "Umbrella": "United Lands",
+            "Umbrella ID": "12144260",
+            "VB_NAME": "Southdown Towns Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28680",
+            "MEMBERNAME": "Chestnut Place Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B45781",
+            "Umbrella": "United Lands",
+            "Umbrella ID": "12144260",
+            "VB_NAME": "Southdown Towns Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45781",
+            "MEMBERNAME": "Southdown Towns Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Southdown Towns Ltd.",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": " 2212-2232 Bromsgrove Rd. ",
+            "# of Units": 104,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-10-21"
+        }
+    ],
+    "builderConditions": []
+}

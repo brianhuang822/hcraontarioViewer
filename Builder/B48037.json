@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48037",
+            "Umbrella": "Heykoop Construction",
+            "Umbrella ID": "12551101",
+            "VB_NAME": "Heykoop Construction Ltd",
+            "OPERATINGNAME": null,
+            "CITY": "Goderich",
+            "HCRA_INITIALLICENSEDATE": "2019-12-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-12 17:45:44.000 +0000",
+            "Expiry Date": "2024-12-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "79370 Porter's Hill Line",
+            "TELEPHONE": "519-525-6465",
+            "FAX": null,
+            "WEBSITEURL": "https://heykoopconstruction.com",
+            "EMAIL": "heykoopconstruction@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 61,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 61,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100261678",
+            "TO": "Nicholas Heykoop",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-525-6465"
+        },
+        {
+            "TOUNIQUENUMBER": "100261678",
+            "TO": "Nicholas Heykoop",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-525-6465"
+        },
+        {
+            "TOUNIQUENUMBER": "100261678",
+            "TO": "Nicholas Heykoop",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-525-6465"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48037",
+            "Umbrella": "Heykoop Construction",
+            "Umbrella ID": "12551101",
+            "VB_NAME": "Heykoop Construction Ltd",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48037",
+            "MEMBERNAME": "Heykoop Construction Ltd",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48037",
+            "Umbrella": "Heykoop Construction",
+            "Umbrella ID": "12551101",
+            "VB_NAME": "Heykoop Construction Ltd",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44068",
+            "MEMBERNAME": "Nicholas Paul Heykoop",
+            "MEMBEROPERATINGNAME": "Nicholas Paul Heykoop",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

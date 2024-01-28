@@ -1,0 +1,145 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44496",
+            "Umbrella": "Decade Homes",
+            "Umbrella ID": "12539609",
+            "VB_NAME": "690 King Street Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2015-09-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-04-19 12:45:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1806 Avenue Rd., Ste. 2",
+            "TELEPHONE": "416/781-0623",
+            "FAX": "416/352-7484",
+            "WEBSITEURL": "www. decadegroup.ca",
+            "EMAIL": "kate@decadehomes.ca",
+            "ACCOUNTNUMBER": "B44496",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 138,
+            "SUMM_TOTAL": 138,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "331315",
+            "TO": "Robert Siskind",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-781-0623"
+        },
+        {
+            "TOUNIQUENUMBER": "100306416",
+            "TO": "Moshe (Marc) Eichorn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-781-0623"
+        },
+        {
+            "TOUNIQUENUMBER": "100306416",
+            "TO": "Moshe (Marc) Eichorn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-781-0623"
+        },
+        {
+            "TOUNIQUENUMBER": "100306418",
+            "TO": "Hanan Shemesh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "hanan@Kerenhagshama.co.il"
+        },
+        {
+            "TOUNIQUENUMBER": "12522789",
+            "TO": "Jeffrey Willick",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-781-0623"
+        },
+        {
+            "TOUNIQUENUMBER": "12522789",
+            "TO": "Jeffrey Willick",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-781-0623"
+        },
+        {
+            "TOUNIQUENUMBER": "12522181",
+            "TO": "Michael Siskind",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-781-0623"
+        },
+        {
+            "TOUNIQUENUMBER": "12522181",
+            "TO": "Michael Siskind",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-781-0623"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44496",
+            "Umbrella": "Decade Homes",
+            "Umbrella ID": "12539609",
+            "VB_NAME": "690 King Street Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43216",
+            "MEMBERNAME": "855 Wilson Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44496",
+            "Umbrella": "Decade Homes",
+            "Umbrella ID": "12539609",
+            "VB_NAME": "690 King Street Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41842",
+            "MEMBERNAME": "877 Wilson Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44496",
+            "Umbrella": "Decade Homes",
+            "Umbrella ID": "12539609",
+            "VB_NAME": "690 King Street Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44496",
+            "MEMBERNAME": "690 King Street Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Midtown Lofts",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 672-690 King St. W., And 8,12 And 18 Louisa St. ",
+            "# of Units": 138,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-05-16"
+        }
+    ],
+    "builderConditions": []
+}

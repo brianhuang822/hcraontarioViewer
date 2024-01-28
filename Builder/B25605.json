@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25605",
+            "Umbrella": "Country Homes Construction",
+            "Umbrella ID": "12539939",
+            "VB_NAME": "Cedar Creek Construction",
+            "OPERATINGNAME": null,
+            "CITY": "MOUNTAIN",
+            "HCRA_INITIALLICENSEDATE": "1996-06-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1997-06-06 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "R.R. 2",
+            "TELEPHONE": "(613)989-2691",
+            "FAX": "(613)989-1493",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341837",
+            "TO": "John Vandewint",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-298-6269"
+        },
+        {
+            "TOUNIQUENUMBER": "341837",
+            "TO": "John Vandewint",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-298-6269"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25605",
+            "Umbrella": "Country Homes Construction",
+            "Umbrella ID": "12539939",
+            "VB_NAME": "Cedar Creek Construction",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25605",
+            "MEMBERNAME": "Cedar Creek Construction",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25605",
+            "Umbrella": "Country Homes Construction",
+            "Umbrella ID": "12539939",
+            "VB_NAME": "Cedar Creek Construction",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32108",
+            "MEMBERNAME": "John Vandewint",
+            "MEMBEROPERATINGNAME": "Country Homes Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

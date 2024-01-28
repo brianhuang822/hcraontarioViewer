@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39331",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2125808 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORRANCE",
+            "HCRA_INITIALLICENSEDATE": "2008-12-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-12-24 19:46:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1006 Clear Lake Rd.",
+            "TELEPHONE": "416-271-9515",
+            "FAX": null,
+            "WEBSITEURL": "www.knightdevelopments.ca",
+            "EMAIL": "greg@knightdevelopments.ca",
+            "ACCOUNTNUMBER": "B39331",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 880,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 880
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12327735",
+            "TO": "Greg Knight",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-271-9515"
+        },
+        {
+            "TOUNIQUENUMBER": "12327735",
+            "TO": "Greg Knight",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-271-9515"
+        },
+        {
+            "TOUNIQUENUMBER": "12327735",
+            "TO": "Greg Knight",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-271-9515"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39331",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2125808 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Seguin Place",
+            "Project Status": "Completed",
+            "Location": "PARRY SOUND",
+            "Address": "37 - 45 Seguin Place Dr,",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-11-28"
+        },
+        {
+            "Condo Project Name": "Seguin Place",
+            "Project Status": "Completed",
+            "Location": "PARRY SOUND",
+            "Address": "17 Seguin Place Dr., R.R. 2",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-12-13"
+        }
+    ],
+    "builderConditions": []
+}

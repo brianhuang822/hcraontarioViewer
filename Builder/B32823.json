@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32823",
+            "Umbrella": "Knapp's Paving & Landscaping",
+            "Umbrella ID": "12540119",
+            "VB_NAME": "Knapp's Paving & Landscaping Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "BROCKVILLE",
+            "HCRA_INITIALLICENSEDATE": "2002-10-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-10-08 04:15:29.000 +0000",
+            "Expiry Date": "2022-10-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3113 Bethel Rd., R.R.2, Stn. Main",
+            "TELEPHONE": "613-342-9243",
+            "FAX": "613-342-6463",
+            "WEBSITEURL": "knappspaving.ca",
+            "EMAIL": "knapps@knappspaving.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341528",
+            "TO": "Lloyd George Knapp",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-342-9243"
+        },
+        {
+            "TOUNIQUENUMBER": "341528",
+            "TO": "Lloyd George Knapp",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-342-9243"
+        },
+        {
+            "TOUNIQUENUMBER": "341528",
+            "TO": "Lloyd George Knapp",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-342-9243"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32823",
+            "Umbrella": "Knapp's Paving & Landscaping",
+            "Umbrella ID": "12540119",
+            "VB_NAME": "Knapp's Paving & Landscaping Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32823",
+            "MEMBERNAME": "Knapp's Paving & Landscaping Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32823",
+            "Umbrella": "Knapp's Paving & Landscaping",
+            "Umbrella ID": "12540119",
+            "VB_NAME": "Knapp's Paving & Landscaping Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25371",
+            "MEMBERNAME": "1137315 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "North Wood Builders",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

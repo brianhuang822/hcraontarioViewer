@@ -1,0 +1,122 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34046",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Triomphe Home Builders Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2004-04-01",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2008-08-29 20:10:27.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "171 Marycroft Ave., Unit 4 & 5",
+            "TELEPHONE": "(905)851-9968",
+            "FAX": "(905)266-8162",
+            "WEBSITEURL": "www.triomphehomes.com",
+            "EMAIL": "info@triomphehomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11973542",
+            "TO": "Enzo D'Amario",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-9968"
+        },
+        {
+            "TOUNIQUENUMBER": "11973542",
+            "TO": "Enzo D'Amario",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-9968"
+        },
+        {
+            "TOUNIQUENUMBER": "11973542",
+            "TO": "Enzo D'Amario",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-9968"
+        },
+        {
+            "TOUNIQUENUMBER": "12287918",
+            "TO": "Lucy D'Amario",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-851-9968"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA102969",
+            "CHARGE_AGAINST": "Triomphe Homes Builders Ltd.",
+            "CHARGE_DATE": "2008-09-22",
+            "DISPOSITION_DATE": "2009-08-28",
+            "THE_FINE_": "1000",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "125",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9324025",
+            "ORGANIZATION_NAME": "Triomphe Home Builders Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Lindsay, ON",
+            "CITY_DEFENCE": "Woodbridge, ON",
+            "VB_NUMBER": "B34046",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA102969 9324025",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Kawartha Lakes, City",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2008-06-12",
+            "TO_OFFENCE_DATE": "2008-09-22",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "1125",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "16:47.0",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B34046",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Triomphe Home Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

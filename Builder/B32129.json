@@ -1,0 +1,132 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32129",
+            "Umbrella": "Urbandale",
+            "Umbrella ID": "11764642",
+            "VB_NAME": "Urbandale Riverside Gate Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2002-04-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-04-25 12:00:50.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2193 Arch St.",
+            "TELEPHONE": "613-731-6331",
+            "FAX": "613-731-7835",
+            "WEBSITEURL": "www.urbandale.com",
+            "EMAIL": "tnichols@urbandale.com",
+            "ACCOUNTNUMBER": "B32129",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11763345",
+            "TO": "Terry Nichols",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-731-6331"
+        },
+        {
+            "TOUNIQUENUMBER": "324203",
+            "TO": "Herbert Nadolny",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-731-6331"
+        },
+        {
+            "TOUNIQUENUMBER": "329497",
+            "TO": "Lyon S. Sachs",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-731-6331"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32129",
+            "Umbrella": "Urbandale",
+            "Umbrella ID": "11764642",
+            "VB_NAME": "Urbandale Riverside Gate Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B10",
+            "MEMBERNAME": "Urbandale Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32129",
+            "Umbrella": "Urbandale",
+            "Umbrella ID": "11764642",
+            "VB_NAME": "Urbandale Riverside Gate Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B509",
+            "MEMBERNAME": "Urbandale Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B32129",
+            "Umbrella": "Urbandale",
+            "Umbrella ID": "11764642",
+            "VB_NAME": "Urbandale Riverside Gate Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32129",
+            "MEMBERNAME": "Urbandale Riverside Gate Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32129",
+            "Umbrella": "Urbandale",
+            "Umbrella ID": "11764642",
+            "VB_NAME": "Urbandale Riverside Gate Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42447",
+            "MEMBERNAME": "99 Parkdale Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "RIVERSIDE GATE",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 3580 Rivergate Way ",
+            "# of Units": 144,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-10-18"
+        },
+        {
+            "Condo Project Name": "RIVERSIDE GATE",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": " 3590 River Gate Way ",
+            "# of Units": 140,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-10-07"
+        }
+    ],
+    "builderConditions": []
+}

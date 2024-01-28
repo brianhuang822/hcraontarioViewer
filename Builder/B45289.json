@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45289",
+            "Umbrella": "Manorwood Homes",
+            "Umbrella ID": "12544834",
+            "VB_NAME": "2501310 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Woodbridge",
+            "HCRA_INITIALLICENSEDATE": "2016-06-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-08 20:04:33.000 +0000",
+            "Expiry Date": "2024-06-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8611 Weston Road",
+            "TELEPHONE": "905-850-1188",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "carlos@manorwoodhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 25,
+            "SUMM_TOTAL": 25,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100243895",
+            "TO": "Carlos Lopez",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-822-3344"
+        },
+        {
+            "TOUNIQUENUMBER": "100243895",
+            "TO": "Carlos Lopez",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-822-3344"
+        },
+        {
+            "TOUNIQUENUMBER": "100243895",
+            "TO": "Carlos Lopez",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-822-3344"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45289",
+            "Umbrella": "Manorwood Homes",
+            "Umbrella ID": "12544834",
+            "VB_NAME": "2501310 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45289",
+            "MEMBERNAME": "2501310 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45289",
+            "Umbrella": "Manorwood Homes",
+            "Umbrella ID": "12544834",
+            "VB_NAME": "2501310 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48937",
+            "MEMBERNAME": "2789170 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45289",
+            "Umbrella": "Manorwood Homes",
+            "Umbrella ID": "12544834",
+            "VB_NAME": "2501310 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45446",
+            "MEMBERNAME": "2381423 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45289",
+            "Umbrella": "Manorwood Homes",
+            "Umbrella ID": "12544834",
+            "VB_NAME": "2501310 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60074",
+            "MEMBERNAME": "2798734 Ontario Limited",
+            "MEMBEROPERATINGNAME": "2798734 Ontario Limited",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B45289",
+            "Umbrella": "Manorwood Homes",
+            "Umbrella ID": "12544834",
+            "VB_NAME": "2501310 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43879",
+            "MEMBERNAME": "Manorwood Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Snowbridge Towns",
+            "Project Status": "Completed",
+            "Location": "BLUE MOUNTAINS",
+            "Address": " 171 Snowbridge Way ",
+            "# of Units": 25,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-11-21"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48071",
+            "Umbrella": "Lincoln Homes",
+            "Umbrella ID": "500000316",
+            "VB_NAME": "LincolnHomesCanada Inc.",
+            "OPERATINGNAME": "Lincoln Homes",
+            "CITY": "Newcastle",
+            "HCRA_INITIALLICENSEDATE": "2020-10-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-13 20:07:53.000 +0000",
+            "Expiry Date": "2024-10-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "16 Metcalf St",
+            "TELEPHONE": "905-441-2911",
+            "FAX": null,
+            "WEBSITEURL": "www.lincolnhomes.ca",
+            "EMAIL": "crystal@lincolnhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100612463",
+            "TO": "Michael Yaki",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-404-5963"
+        },
+        {
+            "TOUNIQUENUMBER": "100612463",
+            "TO": "Michael Yaki",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-404-5963"
+        },
+        {
+            "TOUNIQUENUMBER": "100612463",
+            "TO": "Michael Yaki",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-404-5963"
+        },
+        {
+            "TOUNIQUENUMBER": "100612394",
+            "TO": "Crystal Yaki",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-441-2911"
+        },
+        {
+            "TOUNIQUENUMBER": "100612394",
+            "TO": "Crystal Yaki",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-441-2911"
+        },
+        {
+            "TOUNIQUENUMBER": "100612394",
+            "TO": "Crystal Yaki",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-441-2911"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48071",
+            "Umbrella": "Lincoln Homes",
+            "Umbrella ID": "500000316",
+            "VB_NAME": "LincolnHomesCanada Inc.",
+            "OPERATINGNAME": "Lincoln Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60236",
+            "MEMBERNAME": "Crystal Yaki and Mike Yaki",
+            "MEMBEROPERATINGNAME": "Lincoln Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48071",
+            "Umbrella": "Lincoln Homes",
+            "Umbrella ID": "500000316",
+            "VB_NAME": "LincolnHomesCanada Inc.",
+            "OPERATINGNAME": "Lincoln Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48071",
+            "MEMBERNAME": "LincolnHomesCanada Inc.",
+            "MEMBEROPERATINGNAME": "Lincoln Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

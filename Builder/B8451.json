@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B8451",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Orchard Place Developments Limited.,",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1986-04-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1990-06-06 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "20 Eglinton Ave. West, Ste. 1600",
+            "TELEPHONE": "(416)487-1100",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "319032",
+            "TO": "Steven D. Latner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-488-3160"
+        },
+        {
+            "TOUNIQUENUMBER": "319029",
+            "TO": "Albert J. Latner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-859-4732"
+        },
+        {
+            "TOUNIQUENUMBER": "319031",
+            "TO": "Michael Latner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-322-2359"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B8451",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Orchard Place Developments Limited.,",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BOUGH BEECHES CONDO 2",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1155 Bough Beech Blvd.",
+            "# of Units": 119,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-03-03"
+        },
+        {
+            "Condo Project Name": "BOUGH BEECHES CONDO",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "1111 Bough Beeches Blvd.",
+            "# of Units": 99,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-11-09"
+        }
+    ],
+    "builderConditions": []
+}

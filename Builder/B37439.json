@@ -1,0 +1,154 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37439",
+            "Umbrella": "The Victorian",
+            "Umbrella ID": "12541128",
+            "VB_NAME": "Aurora Heights Development Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2007-07-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-08-03 19:49:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6 Sherman Crt.",
+            "TELEPHONE": "905-761-6000",
+            "FAX": "905-761-6001",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": "B37439",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 4,
+            "SUMM_MINOR_AMT": 103613.16,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 103613.16
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12201947",
+            "TO": "Luciano (Lou) Carlini",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-6000"
+        },
+        {
+            "TOUNIQUENUMBER": "12208825",
+            "TO": "Tony Trichilo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-798-4965"
+        },
+        {
+            "TOUNIQUENUMBER": "12208831",
+            "TO": "Marcella Tenaglia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-393-5506"
+        },
+        {
+            "TOUNIQUENUMBER": "12449958",
+            "TO": "Fulvio Tenaglia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-249-9989"
+        },
+        {
+            "TOUNIQUENUMBER": "12449958",
+            "TO": "Fulvio Tenaglia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-249-9989"
+        },
+        {
+            "TOUNIQUENUMBER": "12208827",
+            "TO": "Frank Miele",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-7857"
+        },
+        {
+            "TOUNIQUENUMBER": "12208827",
+            "TO": "Frank Miele",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-7857"
+        },
+        {
+            "TOUNIQUENUMBER": "12208828",
+            "TO": "Daniel Mac Kay",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-217-6044"
+        },
+        {
+            "TOUNIQUENUMBER": "12208828",
+            "TO": "Daniel Mac Kay",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-217-6044"
+        },
+        {
+            "TOUNIQUENUMBER": "12208830",
+            "TO": "Onofrio Lombardo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-576-8938"
+        },
+        {
+            "TOUNIQUENUMBER": "12208830",
+            "TO": "Onofrio Lombardo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-576-8938"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37439",
+            "Umbrella": "The Victorian",
+            "Umbrella ID": "12541128",
+            "VB_NAME": "Aurora Heights Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37327",
+            "MEMBERNAME": "Eaglebrook Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37439",
+            "Umbrella": "The Victorian",
+            "Umbrella ID": "12541128",
+            "VB_NAME": "Aurora Heights Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37439",
+            "MEMBERNAME": "Aurora Heights Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Victorian",
+            "Project Status": "Completed",
+            "Location": "AURORA",
+            "Address": "15450 Yonge St.",
+            "# of Units": 64,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-09-02"
+        }
+    ],
+    "builderConditions": []
+}

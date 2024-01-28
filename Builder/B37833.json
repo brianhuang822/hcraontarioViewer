@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37833",
+            "Umbrella": "Gantlett Contracting",
+            "Umbrella ID": "12540310",
+            "VB_NAME": "Gantlett Contracting Inc..",
+            "OPERATINGNAME": null,
+            "CITY": "DORCHESTER",
+            "HCRA_INITIALLICENSEDATE": "2007-07-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-07-14 15:01:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1171 Shaw Rd., R.R. 1",
+            "TELEPHONE": "519-777-8318",
+            "FAX": "519-268-2127",
+            "WEBSITEURL": "www.gcine.ca",
+            "EMAIL": "a.gantlett@gcinc.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329605",
+            "TO": "Graham John Gantlett",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-878-6728"
+        },
+        {
+            "TOUNIQUENUMBER": "329605",
+            "TO": "Graham John Gantlett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-878-6728"
+        },
+        {
+            "TOUNIQUENUMBER": "329605",
+            "TO": "Graham John Gantlett",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-878-6728"
+        },
+        {
+            "TOUNIQUENUMBER": "12228038",
+            "TO": "Andrew Gantlett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-777-8318"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37833",
+            "Umbrella": "Gantlett Contracting",
+            "Umbrella ID": "12540310",
+            "VB_NAME": "Gantlett Contracting Inc..",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37833",
+            "MEMBERNAME": "Gantlett Contracting Inc..",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37833",
+            "Umbrella": "Gantlett Contracting",
+            "Umbrella ID": "12540310",
+            "VB_NAME": "Gantlett Contracting Inc..",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41186",
+            "MEMBERNAME": "Gantlett Contracting Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

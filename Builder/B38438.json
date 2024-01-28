@@ -1,0 +1,121 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38438",
+            "Umbrella": "Gentrac",
+            "Umbrella ID": "12281215",
+            "VB_NAME": "Permterra Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Tillsonburg",
+            "HCRA_INITIALLICENSEDATE": "2008-02-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-13 14:24:12.000 +0000",
+            "Expiry Date": "2025-02-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "18 Harvey Street",
+            "TELEPHONE": "519-842-9090",
+            "FAX": "519-842-7989",
+            "WEBSITEURL": "www.gentrachomes.com",
+            "EMAIL": "gentrac@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 12,
+            "SUMM_TOTAL": 12,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "312794",
+            "TO": "John Gregory Gilvesy",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-842-9090"
+        },
+        {
+            "TOUNIQUENUMBER": "312794",
+            "TO": "John Gregory Gilvesy",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-842-9090"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38438",
+            "Umbrella": "Gentrac",
+            "Umbrella ID": "12281215",
+            "VB_NAME": "Permterra Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32295",
+            "MEMBERNAME": "Gentrac Building Corporation",
+            "MEMBEROPERATINGNAME": "Gentrac Building Corporation",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B38438",
+            "Umbrella": "Gentrac",
+            "Umbrella ID": "12281215",
+            "VB_NAME": "Permterra Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38438",
+            "MEMBERNAME": "Permterra Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Woodhaven Condominiums",
+            "Project Status": "Completed",
+            "Location": "TILLSONBURG",
+            "Address": " 5 Wood Haven Dr. ",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-01-20"
+        },
+        {
+            "Condo Project Name": "Wood Haven",
+            "Project Status": "Completed",
+            "Location": "TILLSONBURG",
+            "Address": " 5 Wood Haven Dr. ",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-11-18"
+        },
+        {
+            "Condo Project Name": "Wood Haven",
+            "Project Status": "Completed",
+            "Location": "TILLSONBURG",
+            "Address": "Wood Haven Dr.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-10-31"
+        },
+        {
+            "Condo Project Name": "Wood Haven",
+            "Project Status": "Completed",
+            "Location": "TILLSONBURG",
+            "Address": "5 Wood Haven Drive",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-12-12"
+        }
+    ],
+    "builderConditions": []
+}

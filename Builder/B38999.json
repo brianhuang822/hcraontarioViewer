@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38999",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "M.R. Homes Ltd.",
+            "OPERATINGNAME": "MR Homes",
+            "CITY": "BURLINGTON",
+            "HCRA_INITIALLICENSEDATE": "2008-11-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-11-15 16:03:10.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "417 Townsend Ave.",
+            "TELEPHONE": "905-407-0061",
+            "FAX": "905-631-8612",
+            "WEBSITEURL": null,
+            "EMAIL": "mr_homes@ymail.com",
+            "ACCOUNTNUMBER": "B38999",
+            "Total Outstanding Amount": 230685.35,
+            "TAB": 0,
+            "BREACH": 230685.35,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 352692.67,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 352692.67
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12300932",
+            "TO": "Mark L. Roccatagliata",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-407-0061"
+        },
+        {
+            "TOUNIQUENUMBER": "12300932",
+            "TO": "Mark L. Roccatagliata",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-407-0061"
+        },
+        {
+            "TOUNIQUENUMBER": "12300932",
+            "TO": "Mark L. Roccatagliata",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-407-0061"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38999",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "M.R. Homes Ltd.",
+            "OPERATINGNAME": "MR Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Bridgeview",
+            "Project Status": "Completed",
+            "Location": "HUNTSVILLE",
+            "Address": "23 Winona Rd.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-12-13"
+        }
+    ],
+    "builderConditions": []
+}

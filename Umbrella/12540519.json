@@ -1,0 +1,117 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Routeburn Properties",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "446 Cloverdale Rd.",
+            "TELEPHONE": "6132342733",
+            "FAX": "6132354932",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Routeburn Dufferin Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34110",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Robin Hamilton Fyfe Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B1656",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Routeburn Wellington Inc.",
+            "MEMBEROPERATINGNAME": "1277 Wellington",
+            "MEMBERVBNUM": "B32906",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Routeburn Properties Inc.",
+            "MEMBEROPERATINGNAME": "The Routeburn Group",
+            "MEMBERVBNUM": "B24663",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Routeburn Properties Inc.",
+            "MEMBEROPERATINGNAME": "The Routeburn Group",
+            "MEMBERVBNUM": "B27661",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "736707 Ontario Limited",
+            "MEMBEROPERATINGNAME": "The Routeburn Group",
+            "MEMBERVBNUM": "B23565",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Routeburn Parkdale Corporation",
+            "MEMBEROPERATINGNAME": "201 Parkdale",
+            "MEMBERVBNUM": "B32904",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Routeburn Holdings Limited",
+            "MEMBEROPERATINGNAME": "Routeburn Urban Developments",
+            "MEMBERVBNUM": "B26527",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "1277 WELLINGTON",
+            "Account Number": "B32906",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "150 Caroline Ave.",
+            "# of Units": 37,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-11-10"
+        },
+        {
+            "Condo Project Name": "211 SECOND AVENUE",
+            "Account Number": "B24663",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "211 Second Ave.",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-02-16"
+        },
+        {
+            "Condo Project Name": "144 CLARENCE STREET",
+            "Account Number": "B23565",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "144 Clarence Street",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-08-12"
+        }
+    ]
+}

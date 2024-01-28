@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35066",
+            "Umbrella": "Pallah Homes",
+            "Umbrella ID": "12541208",
+            "VB_NAME": "1597761 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "CASSELMAN",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2005-10-28 23:34:02.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "776 Levesque Cres.",
+            "TELEPHONE": "613-271-7318",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12000989",
+            "TO": "Gurbakhshish Bal",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-271-7318"
+        },
+        {
+            "TOUNIQUENUMBER": "12000989",
+            "TO": "Gurbakhshish Bal",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-271-7318"
+        },
+        {
+            "TOUNIQUENUMBER": "12000989",
+            "TO": "Gurbakhshish Bal",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-271-7318"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35066",
+            "Umbrella": "Pallah Homes",
+            "Umbrella ID": "12541208",
+            "VB_NAME": "1597761 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B34434",
+            "MEMBERNAME": "Pallah Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B35066",
+            "Umbrella": "Pallah Homes",
+            "Umbrella ID": "12541208",
+            "VB_NAME": "1597761 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B35256",
+            "MEMBERNAME": "Pallah Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B35066",
+            "Umbrella": "Pallah Homes",
+            "Umbrella ID": "12541208",
+            "VB_NAME": "1597761 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B35066",
+            "MEMBERNAME": "1597761 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

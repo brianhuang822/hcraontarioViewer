@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9534",
+            "Umbrella": "Hanson Development Group",
+            "Umbrella ID": "12543657",
+            "VB_NAME": "Rainbow Village Scarborough Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "1988-05-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-19 17:34:34.000 +0000",
+            "Expiry Date": "2024-05-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5700 Yonge Street",
+            "TELEPHONE": "416-733-0902",
+            "FAX": "416-733-0925",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "314433",
+            "TO": "Elaine Hanson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "314433",
+            "TO": "Elaine Hanson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "100527528",
+            "TO": "Greg Liness",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-733-0902"
+        },
+        {
+            "TOUNIQUENUMBER": "336098",
+            "TO": "Karen Waterhouse",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336098",
+            "TO": "Karen Waterhouse",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "314441",
+            "TO": "Mark Hanson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-733-0902"
+        },
+        {
+            "TOUNIQUENUMBER": "314441",
+            "TO": "Mark Hanson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-733-0902"
+        },
+        {
+            "TOUNIQUENUMBER": "314441",
+            "TO": "Mark Hanson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-733-0902"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9534",
+            "Umbrella": "Hanson Development Group",
+            "Umbrella ID": "12543657",
+            "VB_NAME": "Rainbow Village Scarborough Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B9534",
+            "MEMBERNAME": "Rainbow Village Scarborough Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B9534",
+            "Umbrella": "Hanson Development Group",
+            "Umbrella ID": "12543657",
+            "VB_NAME": "Rainbow Village Scarborough Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44664",
+            "MEMBERNAME": "Somerset Gables Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "RAINBOW VILLAGE EGLINTON",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "2466-2472 Eglinton E.",
+            "# of Units": 301,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-12-07"
+        },
+        {
+            "Condo Project Name": "RAINBOW VILLAGE",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": "2460-2472 Eglinton Ave. East",
+            "# of Units": 334,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-11-16"
+        }
+    ],
+    "builderConditions": []
+}

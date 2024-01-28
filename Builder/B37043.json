@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37043",
+            "Umbrella": "Ninco Developments",
+            "Umbrella ID": "12398443",
+            "VB_NAME": "1612700 Ontario Ltd.",
+            "OPERATINGNAME": "445 Elizabeth St.",
+            "CITY": "DUNDAS",
+            "HCRA_INITIALLICENSEDATE": "2006-11-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-11-17 20:19:43.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "60 Head St.",
+            "TELEPHONE": "905-627-9878",
+            "FAX": "905-627-1860",
+            "WEBSITEURL": null,
+            "EMAIL": "ninco@nas.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "303946",
+            "TO": "Arduino Bragagnolo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-627-0502"
+        },
+        {
+            "TOUNIQUENUMBER": "303946",
+            "TO": "Arduino Bragagnolo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-627-0502"
+        },
+        {
+            "TOUNIQUENUMBER": "11686709",
+            "TO": "Franco Bragagnolo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-961-0370"
+        },
+        {
+            "TOUNIQUENUMBER": "11686709",
+            "TO": "Franco Bragagnolo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-961-0370"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37043",
+            "Umbrella": "Ninco Developments",
+            "Umbrella ID": "12398443",
+            "VB_NAME": "1612700 Ontario Ltd.",
+            "OPERATINGNAME": "445 Elizabeth St.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47827",
+            "MEMBERNAME": "Ninco Developments Inc.",
+            "MEMBEROPERATINGNAME": "Ninco Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B37043",
+            "Umbrella": "Ninco Developments",
+            "Umbrella ID": "12398443",
+            "VB_NAME": "1612700 Ontario Ltd.",
+            "OPERATINGNAME": "445 Elizabeth St.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37043",
+            "MEMBERNAME": "1612700 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "445 Elizabeth St.",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37043",
+            "Umbrella": "Ninco Developments",
+            "Umbrella ID": "12398443",
+            "VB_NAME": "1612700 Ontario Ltd.",
+            "OPERATINGNAME": "445 Elizabeth St.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33549",
+            "MEMBERNAME": "1536459 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Cornerstone Condominiums",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "445 Elizabeth St.",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": " 445 Elizabeth St ",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-08-28"
+        }
+    ],
+    "builderConditions": []
+}

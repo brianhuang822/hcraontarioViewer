@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47805",
+            "Umbrella": "Algonquin Group",
+            "Umbrella ID": "12552833",
+            "VB_NAME": "Ertler Lane Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Huntsville",
+            "HCRA_INITIALLICENSEDATE": "2020-11-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-20 19:07:17.000 +0000",
+            "Expiry Date": "2024-11-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "12 Ertler Lane",
+            "TELEPHONE": "416-727-6690",
+            "FAX": "705-789-7239",
+            "WEBSITEURL": "http://terracesofertlerlane.ca",
+            "EMAIL": "walter@algonquincustomhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 10,
+            "SUMM_TOTAL": 10,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100177397",
+            "TO": "Walter Grys",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-727-6690"
+        },
+        {
+            "TOUNIQUENUMBER": "100177397",
+            "TO": "Walter Grys",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-727-6690"
+        },
+        {
+            "TOUNIQUENUMBER": "100177397",
+            "TO": "Walter Grys",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-727-6690"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47805",
+            "Umbrella": "Algonquin Group",
+            "Umbrella ID": "12552833",
+            "VB_NAME": "Ertler Lane Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43033",
+            "MEMBERNAME": "2362889 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Algonquin Custom Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47805",
+            "Umbrella": "Algonquin Group",
+            "Umbrella ID": "12552833",
+            "VB_NAME": "Ertler Lane Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47805",
+            "MEMBERNAME": "Ertler Lane Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Ertler Lane Homes",
+            "Project Status": "In Progress",
+            "Location": "HUNTSVILLE",
+            "Address": " 161 Townline Rd. W ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

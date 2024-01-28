@@ -1,0 +1,138 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48228",
+            "Umbrella": "M5V Developments",
+            "Umbrella ID": "12551758",
+            "VB_NAME": "M5V The Niagara 2 Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Kleinburg",
+            "HCRA_INITIALLICENSEDATE": "2020-06-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-24 20:51:57.000 +0000",
+            "Expiry Date": "2024-06-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10504 Islington Ave",
+            "TELEPHONE": "416-986-5800",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "sherard@m5vinc.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100580202",
+            "TO": "Priscilla Facey Castaneda",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-722-3431"
+        },
+        {
+            "TOUNIQUENUMBER": "100580202",
+            "TO": "Priscilla Facey Castaneda",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-722-3431"
+        },
+        {
+            "TOUNIQUENUMBER": "100634638",
+            "TO": "Fiorino Paolucci",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-780-0537"
+        },
+        {
+            "TOUNIQUENUMBER": "100634638",
+            "TO": "Fiorino Paolucci",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-780-0537"
+        },
+        {
+            "TOUNIQUENUMBER": "100580200",
+            "TO": "Sherard McQueen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-986-5800"
+        },
+        {
+            "TOUNIQUENUMBER": "100580201",
+            "TO": "Yaseen Nimjee",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-200-5122"
+        },
+        {
+            "TOUNIQUENUMBER": "100580201",
+            "TO": "Yaseen Nimjee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-200-5122"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48228",
+            "Umbrella": "M5V Developments",
+            "Umbrella ID": "12551758",
+            "VB_NAME": "M5V The Niagara 2 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48228",
+            "MEMBERNAME": "M5V The Niagara 2 Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48228",
+            "Umbrella": "M5V Developments",
+            "Umbrella ID": "12551758",
+            "VB_NAME": "M5V The Niagara 2 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62021",
+            "MEMBERNAME": "M5V The Niagara 111 Inc.",
+            "MEMBEROPERATINGNAME": "M5V The Niagara 111 Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48228",
+            "Umbrella": "M5V Developments",
+            "Umbrella ID": "12551758",
+            "VB_NAME": "M5V The Niagara 2 Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47769",
+            "MEMBERNAME": "M5V The Niagara Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Niagara II",
+            "Project Status": "In Progress",
+            "Location": "NIAGARA FALLS",
+            "Address": "  6622 And 6600 McLeod Road ",
+            "# of Units": 60,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

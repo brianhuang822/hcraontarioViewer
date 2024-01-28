@@ -1,0 +1,155 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44354",
+            "Umbrella": "Wyview Group",
+            "Umbrella ID": "500000627",
+            "VB_NAME": "2426483 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "MARKHAM",
+            "HCRA_INITIALLICENSEDATE": "2015-06-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-06-27 04:15:06.000 +0000",
+            "Expiry Date": "2022-06-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4151 Highway 7 East",
+            "TELEPHONE": "905-604-8077",
+            "FAX": "905-604-5077",
+            "WEBSITEURL": "www.wyviewgroup.com",
+            "EMAIL": "info@wyviewgroup.com",
+            "ACCOUNTNUMBER": "B44354",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 72,
+            "SUMM_CONDO": 379,
+            "SUMM_TOTAL": 451,
+            "SUMM_CC": 3,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100290658",
+            "TO": "Zhi Wei Zhang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        },
+        {
+            "TOUNIQUENUMBER": "100290655",
+            "TO": "Yuanli Yang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        },
+        {
+            "TOUNIQUENUMBER": "100290655",
+            "TO": "Yuanli Yang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        },
+        {
+            "TOUNIQUENUMBER": "100290656",
+            "TO": "Yangchao Wang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        },
+        {
+            "TOUNIQUENUMBER": "100290656",
+            "TO": "Yangchao Wang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        },
+        {
+            "TOUNIQUENUMBER": "100290657",
+            "TO": "Weixiang Wang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        },
+        {
+            "TOUNIQUENUMBER": "100290657",
+            "TO": "Weixiang Wang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        },
+        {
+            "TOUNIQUENUMBER": "100683596",
+            "TO": "Eric Zou",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-604-8077"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44354",
+            "Umbrella": "Wyview Group",
+            "Umbrella ID": "500000627",
+            "VB_NAME": "2426483 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44354",
+            "MEMBERNAME": "2426483 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44354",
+            "Umbrella": "Wyview Group",
+            "Umbrella ID": "500000627",
+            "VB_NAME": "2426483 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B49002",
+            "MEMBERNAME": "2577336 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44354",
+            "Umbrella": "Wyview Group",
+            "Umbrella ID": "500000627",
+            "VB_NAME": "2426483 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B60776",
+            "MEMBERNAME": "2725599 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Unionville Gardens",
+            "Project Status": null,
+            "Location": "MARKHAM",
+            "Address": "3972 Hwy. 7 E.",
+            "# of Units": 72,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Unionville Gardens",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": " 268 & 278 Buchanan Dr. ",
+            "# of Units": 379,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-09-24"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37231",
+            "Umbrella": "Silverbrook Homes",
+            "Umbrella ID": "12305926",
+            "VB_NAME": "Silver Brook Homes Ltd.",
+            "OPERATINGNAME": "Silverbrook Homes",
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2006-12-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-29 19:59:18.000 +0000",
+            "Expiry Date": "2024-12-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "11 Malden Street",
+            "TELEPHONE": "416-771-3999",
+            "FAX": "905-761-0897",
+            "WEBSITEURL": "www.silverbrookhomes.ca",
+            "EMAIL": "danny@silverbrookhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 10,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 10,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11882357",
+            "TO": "Daniele Santilli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-9161"
+        },
+        {
+            "TOUNIQUENUMBER": "11882357",
+            "TO": "Daniele Santilli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-9161"
+        },
+        {
+            "TOUNIQUENUMBER": "11882357",
+            "TO": "Daniele Santilli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-761-9161"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37231",
+            "Umbrella": "Silverbrook Homes",
+            "Umbrella ID": "12305926",
+            "VB_NAME": "Silver Brook Homes Ltd.",
+            "OPERATINGNAME": "Silverbrook Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39302",
+            "MEMBERNAME": "SBH (Gamble) Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37231",
+            "Umbrella": "Silverbrook Homes",
+            "Umbrella ID": "12305926",
+            "VB_NAME": "Silver Brook Homes Ltd.",
+            "OPERATINGNAME": "Silverbrook Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44096",
+            "MEMBERNAME": "First Street Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37231",
+            "Umbrella": "Silverbrook Homes",
+            "Umbrella ID": "12305926",
+            "VB_NAME": "Silver Brook Homes Ltd.",
+            "OPERATINGNAME": "Silverbrook Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37231",
+            "MEMBERNAME": "Silver Brook Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Silverbrook Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B37231",
+            "Umbrella": "Silverbrook Homes",
+            "Umbrella ID": "12305926",
+            "VB_NAME": "Silver Brook Homes Ltd.",
+            "OPERATINGNAME": "Silverbrook Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38239",
+            "MEMBERNAME": "Broadway Grande Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

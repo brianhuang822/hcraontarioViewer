@@ -1,0 +1,118 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31045",
+            "Umbrella": "NY Towers",
+            "Umbrella ID": "12539817",
+            "VB_NAME": "Y. C. Whitby Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "WHITBY",
+            "HCRA_INITIALLICENSEDATE": "2000-09-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2003-09-23 12:30:56.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "340 Watson St.",
+            "TELEPHONE": "(905) 430-1814",
+            "FAX": "(905) 430-1860",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11864100",
+            "TO": "Chaim (Haim) Bialostozky",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-830-7018"
+        },
+        {
+            "TOUNIQUENUMBER": "11864100",
+            "TO": "Chaim (Haim) Bialostozky",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-830-7018"
+        },
+        {
+            "TOUNIQUENUMBER": "11864099",
+            "TO": "Eva Waldman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11864099",
+            "TO": "Eva Waldman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31045",
+            "Umbrella": "NY Towers",
+            "Umbrella ID": "12539817",
+            "VB_NAME": "Y. C. Whitby Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36659",
+            "MEMBERNAME": "1598490 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B31045",
+            "Umbrella": "NY Towers",
+            "Umbrella ID": "12539817",
+            "VB_NAME": "Y. C. Whitby Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31045",
+            "MEMBERNAME": "Y. C. Whitby Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31045",
+            "Umbrella": "NY Towers",
+            "Umbrella ID": "12539817",
+            "VB_NAME": "Y. C. Whitby Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37080",
+            "MEMBERNAME": "1598490 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31045",
+            "Umbrella": "NY Towers",
+            "Umbrella ID": "12539817",
+            "VB_NAME": "Y. C. Whitby Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42945",
+            "MEMBERNAME": "1598490 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

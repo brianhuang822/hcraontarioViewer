@@ -1,0 +1,137 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Allied REIT",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 5,
+            "TOTALUNITS": 132,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 8098.37,
+            "ADDRESS": "134 Peter St., Ste 1700",
+            "TELEPHONE": "416/977-9002",
+            "FAX": null,
+            "WEBSITEURL": "www.alliedreitcom",
+            "EMAIL": "hclark@alliedreit.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 132,
+            "SUMM_TOTAL": 132,
+            "SUMM_CC": 5,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 8098.37,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 8098.37
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "489-539 King Street West Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47173",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "RA King/Portland Nominee Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46512",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 132,
+            "Total Posessions": 132,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 132,
+            "SUMM_TOTAL": 132,
+            "SUMM_CC": 5,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 8098.37,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 8098.37,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 560.72,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 560.72,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 132,
+            "SUMM_TOTAL": 132,
+            "SUMM_CC": 5,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 8098.37,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 8098.37,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 5,
+            "# of Claims (Minor)": 4,
+            "Dollers paid in Claims (Minor)": 7537.65,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 7537.65,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 132,
+            "SUMM_TOTAL": 132,
+            "SUMM_CC": 5,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 8098.37,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 8098.37,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Kingly Condos",
+            "Account Number": "B46512",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 501 Adelaide St. West ",
+            "# of Units": 133,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-03-17"
+        },
+        {
+            "Condo Project Name": "489-539 King Street West.",
+            "Account Number": "B47173",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 489-539 King St. W. ",
+            "# of Units": 440,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

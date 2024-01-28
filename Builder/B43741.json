@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43741",
+            "Umbrella": "The Rashotte Group",
+            "Umbrella ID": "500000977",
+            "VB_NAME": "2401012 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Tweed",
+            "HCRA_INITIALLICENSEDATE": "2014-06-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-16 13:34:38.000 +0000",
+            "Expiry Date": "2024-06-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "18 Countryman Road",
+            "TELEPHONE": "613-813-3762",
+            "FAX": "613-478-2192",
+            "WEBSITEURL": " ",
+            "EMAIL": "chris.rashotte@rashotte.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 10,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 10,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100232047",
+            "TO": "Christopher Rashotte",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-478-2539"
+        },
+        {
+            "TOUNIQUENUMBER": "100232047",
+            "TO": "Christopher Rashotte",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-478-2539"
+        },
+        {
+            "TOUNIQUENUMBER": "100232047",
+            "TO": "Christopher Rashotte",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-478-2539"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43741",
+            "Umbrella": "The Rashotte Group",
+            "Umbrella ID": "500000977",
+            "VB_NAME": "2401012 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60736",
+            "MEMBERNAME": "Danford Homes Inc.",
+            "MEMBEROPERATINGNAME": "Danford Homes Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43741",
+            "Umbrella": "The Rashotte Group",
+            "Umbrella ID": "500000977",
+            "VB_NAME": "2401012 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43741",
+            "MEMBERNAME": "2401012 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

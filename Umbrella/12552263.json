@@ -1,0 +1,82 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "NAHID",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "31 Scarsdale Road",
+            "TELEPHONE": "416-451-5252",
+            "FAX": null,
+            "WEBSITEURL": "https://optionsdevelopment.ca",
+            "EMAIL": "arjang.zandnia@optionsdevelopment.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "615 Kennedy Road Inc.",
+            "MEMBEROPERATINGNAME": "615 Kennedy Road Inc.",
+            "MEMBERVBNUM": "B60188",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "800 Broadview Ave Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47552",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "80 Harbour Inc.",
+            "MEMBEROPERATINGNAME": "80 Harbour Inc.",
+            "MEMBERVBNUM": "B61275",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Nahid Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48224",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "800 Broadview Avenue Inc.",
+            "Account Number": "B47552",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 800 Broadview Ave. ",
+            "# of Units": 33,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Nahid Kennedy",
+            "Account Number": "B60188",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 615 Kennedy Road ",
+            "# of Units": 215,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

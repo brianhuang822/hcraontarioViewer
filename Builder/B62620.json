@@ -1,0 +1,146 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62620",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "Yonge and Rosehill Inc.",
+            "OPERATINGNAME": "Yonge and Rosehill Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2023-10-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-20 13:14:04.000 +0000",
+            "Expiry Date": "2024-10-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1500 Don Mills Road",
+            "TELEPHONE": "416-849-2894",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "adam@originate.build",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100253099",
+            "TO": "Sean Fleming",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-591-8787"
+        },
+        {
+            "TOUNIQUENUMBER": "100253099",
+            "TO": "Sean Fleming",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-591-8787"
+        },
+        {
+            "TOUNIQUENUMBER": "600015693",
+            "TO": "Scott Cameron",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-591-8787"
+        },
+        {
+            "TOUNIQUENUMBER": "100492793",
+            "TO": "Adam Sheffer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-222-3116"
+        },
+        {
+            "TOUNIQUENUMBER": "100492793",
+            "TO": "Adam Sheffer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-222-3116"
+        },
+        {
+            "TOUNIQUENUMBER": "100294880",
+            "TO": "Mitchell Cohen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-4000"
+        },
+        {
+            "TOUNIQUENUMBER": "100294880",
+            "TO": "Mitchell Cohen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-4000"
+        },
+        {
+            "TOUNIQUENUMBER": "100528033",
+            "TO": "Ryan Kimel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-703-1877"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62620",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "Yonge and Rosehill Inc.",
+            "OPERATINGNAME": "Yonge and Rosehill Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62620",
+            "MEMBERNAME": "Yonge and Rosehill Inc.",
+            "MEMBEROPERATINGNAME": "Yonge and Rosehill Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62620",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "Yonge and Rosehill Inc.",
+            "OPERATINGNAME": "Yonge and Rosehill Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46878",
+            "MEMBERNAME": "Originate Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62620",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "Yonge and Rosehill Inc.",
+            "OPERATINGNAME": "Yonge and Rosehill Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61585",
+            "MEMBERNAME": "Originate (Bathurst & Richmond) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62620",
+            "Umbrella": "Originate",
+            "Umbrella ID": "500000673",
+            "VB_NAME": "Yonge and Rosehill Inc.",
+            "OPERATINGNAME": "Yonge and Rosehill Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60628",
+            "MEMBERNAME": "699 Sheppard East Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42560",
+            "Umbrella": "Hutchinson Builders",
+            "Umbrella ID": "12538919",
+            "VB_NAME": "JHBG Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Cornwall",
+            "HCRA_INITIALLICENSEDATE": "2013-01-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-10 23:05:28.000 +0000",
+            "Expiry Date": "2025-01-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3602 Joseph Street",
+            "TELEPHONE": "613-938-2585",
+            "FAX": "613-938-8682",
+            "WEBSITEURL": "www.hutchinsonbuilders.com",
+            "EMAIL": "jamie@hutchinsonbuilders.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "315942",
+            "TO": "James A. Hutchinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-938-2585"
+        },
+        {
+            "TOUNIQUENUMBER": "315942",
+            "TO": "James A. Hutchinson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-938-2585"
+        },
+        {
+            "TOUNIQUENUMBER": "315942",
+            "TO": "James A. Hutchinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-938-2585"
+        },
+        {
+            "TOUNIQUENUMBER": "100153899",
+            "TO": "Jeannette Hutchinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-937-0308"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42560",
+            "Umbrella": "Hutchinson Builders",
+            "Umbrella ID": "12538919",
+            "VB_NAME": "JHBG Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42560",
+            "MEMBERNAME": "JHBG Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B42560",
+            "Umbrella": "Hutchinson Builders",
+            "Umbrella ID": "12538919",
+            "VB_NAME": "JHBG Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B1435",
+            "MEMBERNAME": "James Hutchinson",
+            "MEMBEROPERATINGNAME": "Hutchinson Homes & Renovations",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

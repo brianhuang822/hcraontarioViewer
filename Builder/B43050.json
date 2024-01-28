@@ -1,0 +1,124 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43050",
+            "Umbrella": "Coventry Homes",
+            "Umbrella ID": "12540321",
+            "VB_NAME": "Coventry Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2013-09-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-09-06 12:00:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1315 Lawrence Ave. E., Ste. 308",
+            "TELEPHONE": "416/385-3648",
+            "FAX": "416/385-0667",
+            "WEBSITEURL": "www.coventryhomes.ca",
+            "EMAIL": "jgoulding@me.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 14,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 14,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12003410",
+            "TO": "Justin J. Goulding",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-385-3648"
+        },
+        {
+            "TOUNIQUENUMBER": "12003410",
+            "TO": "Justin J. Goulding",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-385-3648"
+        },
+        {
+            "TOUNIQUENUMBER": "12003410",
+            "TO": "Justin J. Goulding",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-385-3648"
+        },
+        {
+            "TOUNIQUENUMBER": "12003414",
+            "TO": "Allan W. Goulding",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-410-4331"
+        },
+        {
+            "TOUNIQUENUMBER": "12003414",
+            "TO": "Allan W. Goulding",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-410-4331"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43050",
+            "Umbrella": "Coventry Homes",
+            "Umbrella ID": "12540321",
+            "VB_NAME": "Coventry Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34500",
+            "MEMBERNAME": "Coventry Homes Inc.",
+            "MEMBEROPERATINGNAME": "Coventry Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43050",
+            "Umbrella": "Coventry Homes",
+            "Umbrella ID": "12540321",
+            "VB_NAME": "Coventry Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39967",
+            "MEMBERNAME": "Coventry Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43050",
+            "Umbrella": "Coventry Homes",
+            "Umbrella ID": "12540321",
+            "VB_NAME": "Coventry Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43050",
+            "MEMBERNAME": "Coventry Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Danforth's Crossings",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "27 Leyton Ave.",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

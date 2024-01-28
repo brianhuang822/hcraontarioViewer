@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B13225",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "John Gerber Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Milverton",
+            "HCRA_INITIALLICENSEDATE": "1977-09-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-09-21 05:00:13.000 +0000",
+            "Expiry Date": "2023-09-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "37 Mill Street West, P.O. Box 339",
+            "TELEPHONE": "519-595-8800",
+            "FAX": "519/595-4400",
+            "WEBSITEURL": " ",
+            "EMAIL": "jgcl.jr@hotmail.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11746255",
+            "TO": "Roger Gerber",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-595-8800"
+        },
+        {
+            "TOUNIQUENUMBER": "11746255",
+            "TO": "Roger Gerber",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-595-8800"
+        },
+        {
+            "TOUNIQUENUMBER": "11746255",
+            "TO": "Roger Gerber",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-595-8800"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B13225",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "John Gerber Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

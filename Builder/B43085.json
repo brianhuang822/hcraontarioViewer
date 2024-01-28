@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43085",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "733515 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Thunder Bay",
+            "HCRA_INITIALLICENSEDATE": "2013-10-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-13 13:48:32.000 +0000",
+            "Expiry Date": "2024-10-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "800 Norah Crescent",
+            "TELEPHONE": "807-622-1919",
+            "FAX": "807-623-1994",
+            "WEBSITEURL": "www.triadcontracting.com",
+            "EMAIL": "marieboquist@yahoo.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 30,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 30,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100180289",
+            "TO": "William Stephen Boquist",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-622-1919"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108777",
+            "CHARGE_AGAINST": "733515 Ontario Inc.",
+            "CHARGE_DATE": "2016-09-22",
+            "DISPOSITION_DATE": "2018-09-26",
+            "THE_FINE_": "1500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "375",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326978",
+            "ORGANIZATION_NAME": "733515 Ontario Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Thunder Bay, ON",
+            "CITY_DEFENCE": "Thunder Bay, ON",
+            "VB_NUMBER": "B43085",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108777 9326978",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Thunder Bay, City",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2016-09-22",
+            "TO_OFFENCE_DATE": "NULL",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "1875",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B43085",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "733515 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

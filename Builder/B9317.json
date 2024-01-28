@@ -1,0 +1,141 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9317",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kingsbridge Grand Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1988-03-15",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1999-03-17 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "970 Lawrence Ave. W., Ste. 300",
+            "TELEPHONE": "(416)256-7500",
+            "FAX": "(416)256-7501",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304279",
+            "TO": "R. Brookbinder",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "314990",
+            "TO": "R.W. Henry",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313875",
+            "TO": "Alexander E. Grossman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "313875",
+            "TO": "Alexander E. Grossman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "327056",
+            "TO": "N.G. Powell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "330508",
+            "TO": "George Seidel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "303336",
+            "TO": "Abraham Bleeman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-3900"
+        },
+        {
+            "TOUNIQUENUMBER": "303336",
+            "TO": "Abraham Bleeman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-256-3900"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9317",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kingsbridge Grand Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "KINGSBRIDGE CONDO",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4450 Tucana Crt.",
+            "# of Units": 197,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-12-20"
+        },
+        {
+            "Condo Project Name": "THE GRAND II",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4460 Hurontario St.",
+            "# of Units": 250,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-12-17"
+        },
+        {
+            "Condo Project Name": "THE GRAND I",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "4470 Tucana Crt.",
+            "# of Units": 250,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-08-08"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60875",
+            "Umbrella": "RHP Building Group",
+            "Umbrella ID": "500001762",
+            "VB_NAME": "2776563 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Guelph",
+            "HCRA_INITIALLICENSEDATE": "2022-01-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-07 20:53:31.000 +0000",
+            "Expiry Date": "2025-01-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1515 Gordon Street",
+            "TELEPHONE": "647-203-5997",
+            "FAX": null,
+            "WEBSITEURL": "https://reidsproperties.com",
+            "EMAIL": "mmacgregor@reidsproperties.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "252248",
+            "TO": "Jason Roque",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-635-1381"
+        },
+        {
+            "TOUNIQUENUMBER": "100302804",
+            "TO": "Helen Hurlbut",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-635-1381"
+        },
+        {
+            "TOUNIQUENUMBER": "600007890",
+            "TO": "Todd Neill",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-654-9099"
+        },
+        {
+            "TOUNIQUENUMBER": "312302",
+            "TO": "Scott Reid",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-654-9099"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60875",
+            "Umbrella": "RHP Building Group",
+            "Umbrella ID": "500001762",
+            "VB_NAME": "2776563 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60875",
+            "MEMBERNAME": "2776563 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60875",
+            "Umbrella": "RHP Building Group",
+            "Umbrella ID": "500001762",
+            "VB_NAME": "2776563 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60833",
+            "MEMBERNAME": "RHH Rental Properties Ltd.",
+            "MEMBEROPERATINGNAME": "Reid's Heritage Properties",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Marquis",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": "  Woolwich St and Woodlawn Rd ",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Marquis",
+            "Project Status": "In Progress",
+            "Location": "GUELPH",
+            "Address": "  Woolwich St and Woodlawn Rd ",
+            "# of Units": 48,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

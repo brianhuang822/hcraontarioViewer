@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41649",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sier Developments Corporation",
+            "OPERATINGNAME": "Reis Design Build",
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2011-11-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-11 05:00:00.000 +0000",
+            "Expiry Date": "2024-11-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "49 Sunningdale Road East",
+            "TELEPHONE": "519-476-1862",
+            "FAX": null,
+            "WEBSITEURL": "www.reisdesignbuild.com",
+            "EMAIL": "david@reisdesignbuild.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 27,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 27,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12505030",
+            "TO": "David Reis",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-636-7888"
+        },
+        {
+            "TOUNIQUENUMBER": "12505030",
+            "TO": "David Reis",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-636-7888"
+        },
+        {
+            "TOUNIQUENUMBER": "12505030",
+            "TO": "David Reis",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-636-7888"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41649",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Sier Developments Corporation",
+            "OPERATINGNAME": "Reis Design Build",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Woodholme Park",
+            "Project Status": null,
+            "Location": "LONDON",
+            "Address": "49 Woodholme Pl.",
+            "# of Units": 2,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

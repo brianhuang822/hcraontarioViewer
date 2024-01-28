@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11690",
+            "Umbrella": "Celac Construction",
+            "Umbrella ID": "12540202",
+            "VB_NAME": "Celac Construction Limited",
+            "OPERATINGNAME": null,
+            "CITY": "STONEY CREEK",
+            "HCRA_INITIALLICENSEDATE": "1984-03-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-04-30 13:30:59.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "452 Second Rd. E.",
+            "TELEPHONE": "(905)662-8242",
+            "FAX": "(905)662-8247",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "305755",
+            "TO": "John Celani",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-662-8242"
+        },
+        {
+            "TOUNIQUENUMBER": "305755",
+            "TO": "John Celani",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-662-8242"
+        },
+        {
+            "TOUNIQUENUMBER": "305755",
+            "TO": "John Celani",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-662-8242"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11690",
+            "Umbrella": "Celac Construction",
+            "Umbrella ID": "12540202",
+            "VB_NAME": "Celac Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40743",
+            "MEMBERNAME": "Celac Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B11690",
+            "Umbrella": "Celac Construction",
+            "Umbrella ID": "12540202",
+            "VB_NAME": "Celac Construction Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11690",
+            "MEMBERNAME": "Celac Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46750",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1606-1614 Charles Street East GP Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2019-02-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-23 14:53:27.000 +0000",
+            "Expiry Date": "2025-02-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "20 Adelaide Street East",
+            "TELEPHONE": "416-593-4747",
+            "FAX": "416-867-9790",
+            "WEBSITEURL": "www.carttera.com",
+            "EMAIL": "info@carttera.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100399268",
+            "TO": "Dean Cutting",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-593-4747"
+        },
+        {
+            "TOUNIQUENUMBER": "100399268",
+            "TO": "Dean Cutting",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-593-4747"
+        },
+        {
+            "TOUNIQUENUMBER": "12293348",
+            "TO": "Thomas James Tadeson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-593-4747"
+        },
+        {
+            "TOUNIQUENUMBER": "12293348",
+            "TO": "Thomas James Tadeson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-593-4747"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46750",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1606-1614 Charles Street East GP Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Landing",
+            "Project Status": "In Progress",
+            "Location": "WHITBY",
+            "Address": " 1614 Charles St. E. ",
+            "# of Units": 347,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

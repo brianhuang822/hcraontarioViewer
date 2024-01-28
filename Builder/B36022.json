@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36022",
+            "Umbrella": "Windmill Construction",
+            "Umbrella ID": "12113491",
+            "VB_NAME": "H and J Windmill Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "LONG SAULT",
+            "HCRA_INITIALLICENSEDATE": "2005-09-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2006-09-29 12:32:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "16024 Losey Rd., R.R.1",
+            "TELEPHONE": "613-551-3837",
+            "FAX": "613-534-3837",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332271",
+            "TO": "Henry Van de Glind",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-551-3837"
+        },
+        {
+            "TOUNIQUENUMBER": "332271",
+            "TO": "Henry Van de Glind",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-551-3837"
+        },
+        {
+            "TOUNIQUENUMBER": "332271",
+            "TO": "Henry Van de Glind",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-551-3837"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36022",
+            "Umbrella": "Windmill Construction",
+            "Umbrella ID": "12113491",
+            "VB_NAME": "H and J Windmill Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26622",
+            "MEMBERNAME": "Hendrick Van de Glind",
+            "MEMBEROPERATINGNAME": "H & J Windmill Construction",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B36022",
+            "Umbrella": "Windmill Construction",
+            "Umbrella ID": "12113491",
+            "VB_NAME": "H and J Windmill Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36022",
+            "MEMBERNAME": "H and J Windmill Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

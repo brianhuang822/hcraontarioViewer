@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40151",
+            "Umbrella": "ARK Group of Companies",
+            "Umbrella ID": "500000463",
+            "VB_NAME": "ARK Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Kanata",
+            "HCRA_INITIALLICENSEDATE": "2021-06-24",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-24 04:00:00.000 +0000",
+            "Expiry Date": "2024-06-25",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "255 Michael Cowpland Drive",
+            "TELEPHONE": "613-224-6200",
+            "FAX": "613-599-3118",
+            "WEBSITEURL": " ",
+            "EMAIL": "anthony@arkconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12378724",
+            "TO": "Anthony Nicolini",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-224-6200"
+        },
+        {
+            "TOUNIQUENUMBER": "12378724",
+            "TO": "Anthony Nicolini",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-224-6200"
+        },
+        {
+            "TOUNIQUENUMBER": "12388994",
+            "TO": "Robert Nicolini",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-224-6200"
+        },
+        {
+            "TOUNIQUENUMBER": "12388994",
+            "TO": "Robert Nicolini",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-224-6200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40151",
+            "Umbrella": "ARK Group of Companies",
+            "Umbrella ID": "500000463",
+            "VB_NAME": "ARK Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40151",
+            "MEMBERNAME": "ARK Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40151",
+            "Umbrella": "ARK Group of Companies",
+            "Umbrella ID": "500000463",
+            "VB_NAME": "ARK Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60050",
+            "MEMBERNAME": "NIVO Developments Inc.",
+            "MEMBEROPERATINGNAME": "NIVO Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,111 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B8712",
+            "Umbrella": "Logan Homes",
+            "Umbrella ID": "12539819",
+            "VB_NAME": "333568 Ontario Ltd.",
+            "OPERATINGNAME": "Logan Homes",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1986-10-29",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "2003-11-22 00:40:09.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2 Risebrough Ave.",
+            "TELEPHONE": "(416)222-6118",
+            "FAX": "(416)222-6118",
+            "WEBSITEURL": null,
+            "EMAIL": "loganhomes@yahoo.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "311260",
+            "TO": "Ronald Fisico",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-222-6118"
+        },
+        {
+            "TOUNIQUENUMBER": "311260",
+            "TO": "Ronald Fisico",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-222-6118"
+        },
+        {
+            "TOUNIQUENUMBER": "311260",
+            "TO": "Ronald Fisico",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-222-6118"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B8712",
+            "Umbrella": "Logan Homes",
+            "Umbrella ID": "12539819",
+            "VB_NAME": "333568 Ontario Ltd.",
+            "OPERATINGNAME": "Logan Homes",
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B8712",
+            "MEMBERNAME": "333568 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Logan Homes",
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B8712",
+            "Umbrella": "Logan Homes",
+            "Umbrella ID": "12539819",
+            "VB_NAME": "333568 Ontario Ltd.",
+            "OPERATINGNAME": "Logan Homes",
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B5262",
+            "MEMBERNAME": "333568 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Logan Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B8712",
+            "Umbrella": "Logan Homes",
+            "Umbrella ID": "12539819",
+            "VB_NAME": "333568 Ontario Ltd.",
+            "OPERATINGNAME": "Logan Homes",
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B7426",
+            "MEMBERNAME": "333568 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Logan Homes",
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B8712",
+            "Umbrella": "Logan Homes",
+            "Umbrella ID": "12539819",
+            "VB_NAME": "333568 Ontario Ltd.",
+            "OPERATINGNAME": "Logan Homes",
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B34049",
+            "MEMBERNAME": "333568 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Logan Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

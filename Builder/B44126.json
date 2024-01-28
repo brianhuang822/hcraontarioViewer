@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44126",
+            "Umbrella": "Fernwood",
+            "Umbrella ID": "12542804",
+            "VB_NAME": "Fernwood Developments (Ontario) Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "GUELPH",
+            "HCRA_INITIALLICENSEDATE": "2015-04-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-04-11 13:00:19.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "490 York Rd., Building E, Unit 1",
+            "TELEPHONE": "519/362-0543",
+            "FAX": null,
+            "WEBSITEURL": "www.fernwoodhomes.ca",
+            "EMAIL": "fernwoodoffice@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 38,
+            "SUMM_TOTAL": 38,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 13500,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 13500
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11703202",
+            "TO": "Jordan Zukowski",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-362-0543"
+        },
+        {
+            "TOUNIQUENUMBER": "11703202",
+            "TO": "Jordan Zukowski",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-362-0543"
+        },
+        {
+            "TOUNIQUENUMBER": "11703202",
+            "TO": "Jordan Zukowski",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-362-0543"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44126",
+            "Umbrella": "Fernwood",
+            "Umbrella ID": "12542804",
+            "VB_NAME": "Fernwood Developments (Ontario) Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31492",
+            "MEMBERNAME": "Fernwood Developments (Ontario) Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44126",
+            "Umbrella": "Fernwood",
+            "Umbrella ID": "12542804",
+            "VB_NAME": "Fernwood Developments (Ontario) Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44126",
+            "MEMBERNAME": "Fernwood Developments (Ontario) Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Schoolhouse",
+            "Project Status": "Completed \u2013 Legal Proceeding",
+            "Location": "BARRIE",
+            "Address": "240-252 Penetanguishine Rd.",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-03-09"
+        },
+        {
+            "Condo Project Name": "The Schoolhouse",
+            "Project Status": "Completed",
+            "Location": "BARRIE",
+            "Address": "240, 242 244, 246, 248, 250, 252 Penetanguishene Rd.",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-10-24"
+        }
+    ],
+    "builderConditions": []
+}

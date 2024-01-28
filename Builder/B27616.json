@@ -1,0 +1,139 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27616",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Nelson-Wolfe Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Arva",
+            "HCRA_INITIALLICENSEDATE": "1998-08-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-19 18:51:21.000 +0000",
+            "Expiry Date": "2024-08-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "15307 Medway Road",
+            "TELEPHONE": "519-777-6929",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "steve@nelsonwolfe.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340020",
+            "TO": "Steve Allen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-777-6929"
+        },
+        {
+            "TOUNIQUENUMBER": "340020",
+            "TO": "Steve Allen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-777-6929"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27616",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Nelson-Wolfe Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Lucan Country Estate",
+            "Project Status": "Completed",
+            "Location": "LUCAN",
+            "Address": "220 Walnut St.",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-05-31"
+        },
+        {
+            "Condo Project Name": "LUCAN COUNTRY ESTATE",
+            "Project Status": "Completed",
+            "Location": "LUCAN",
+            "Address": "220 Walnut St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-02-27"
+        },
+        {
+            "Condo Project Name": "LUCAN COUNTRY ESTATE",
+            "Project Status": "Completed",
+            "Location": "LUCAN",
+            "Address": "220 Walnut St.",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-05-16"
+        },
+        {
+            "Condo Project Name": "LUCAN COUNTRY ESTATE",
+            "Project Status": "Completed",
+            "Location": "LUCAN",
+            "Address": " 220 Walnut St. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-11-26"
+        },
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": "Completed",
+            "Location": "STRATFORD",
+            "Address": "160 Romeo St S",
+            "# of Units": 42,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-05-18"
+        },
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": " 95 Capulet Ln. ",
+            "# of Units": 17,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-12-17"
+        },
+        {
+            "Condo Project Name": "TBD",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "95 Capulet Ln.",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-09-24"
+        }
+    ],
+    "builderConditions": []
+}

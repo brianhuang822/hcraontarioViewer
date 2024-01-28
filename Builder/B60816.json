@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60816",
+            "Umbrella": "EverBuilt Group",
+            "Umbrella ID": "500001908",
+            "VB_NAME": "10041068 Canada Incorporated",
+            "OPERATINGNAME": "10041068 Canada Incorporated",
+            "CITY": "Winchester",
+            "HCRA_INITIALLICENSEDATE": "2021-12-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-27 19:51:51.000 +0000",
+            "Expiry Date": "2024-12-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "12054 Main Street",
+            "TELEPHONE": "613-325-0261",
+            "FAX": null,
+            "WEBSITEURL": "https://everbuiltgroup.ca/",
+            "EMAIL": "info@everbuiltgroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600006638",
+            "TO": "Daniel Evans",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-325-0261"
+        },
+        {
+            "TOUNIQUENUMBER": "600006638",
+            "TO": "Daniel Evans",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-325-0261"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60816",
+            "Umbrella": "EverBuilt Group",
+            "Umbrella ID": "500001908",
+            "VB_NAME": "10041068 Canada Incorporated",
+            "OPERATINGNAME": "10041068 Canada Incorporated",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61749",
+            "MEMBERNAME": "EverBuilt Group Custom Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60816",
+            "Umbrella": "EverBuilt Group",
+            "Umbrella ID": "500001908",
+            "VB_NAME": "10041068 Canada Incorporated",
+            "OPERATINGNAME": "10041068 Canada Incorporated",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60816",
+            "MEMBERNAME": "10041068 Canada Incorporated",
+            "MEMBEROPERATINGNAME": "10041068 Canada Incorporated",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

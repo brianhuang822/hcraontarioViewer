@@ -1,0 +1,98 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43154",
+            "Umbrella": "Willowdale Development",
+            "Umbrella ID": "12548159",
+            "VB_NAME": "U.I.D. Development Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "WATERLOO",
+            "HCRA_INITIALLICENSEDATE": "2014-02-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:26:33.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "18 James St., Ground Floor",
+            "TELEPHONE": "519/725-3246",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "lingli@uid-development.com",
+            "ACCOUNTNUMBER": "B43154",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 85,
+            "SUMM_TOTAL": 85,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 11000,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 11000
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100189050",
+            "TO": "Yun Liu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-289-3665"
+        },
+        {
+            "TOUNIQUENUMBER": "100186180",
+            "TO": "Ling Li",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-725-3246"
+        },
+        {
+            "TOUNIQUENUMBER": "100191563",
+            "TO": "Ru Fang Xie",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-289-3665"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43154",
+            "Umbrella": "Willowdale Development",
+            "Umbrella ID": "12548159",
+            "VB_NAME": "U.I.D. Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43154",
+            "MEMBERNAME": "U.I.D. Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43154",
+            "Umbrella": "Willowdale Development",
+            "Umbrella ID": "12548159",
+            "VB_NAME": "U.I.D. Development Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46817",
+            "MEMBERNAME": "U Style Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "K2 Waterloo",
+            "Project Status": "Completed",
+            "Location": "WATERLOO",
+            "Address": " 158 King St. N. ",
+            "# of Units": 169,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-08-08"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37274",
+            "Umbrella": "Sam Raseta",
+            "Umbrella ID": "12540498",
+            "VB_NAME": "2067041 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "BALA",
+            "HCRA_INITIALLICENSEDATE": "2006-12-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-12-22 16:01:50.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1016 Tower Rd",
+            "TELEPHONE": "705-323-4560",
+            "FAX": "705-323-9889",
+            "WEBSITEURL": null,
+            "EMAIL": "samraseta@gmail.com",
+            "ACCOUNTNUMBER": "B37274",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 4,
+            "SUMM_MINOR_AMT": 32322.5,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 32322.5
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "327679",
+            "TO": "Sam Raseta",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-323-4560"
+        },
+        {
+            "TOUNIQUENUMBER": "327679",
+            "TO": "Sam Raseta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-323-4560"
+        },
+        {
+            "TOUNIQUENUMBER": "327679",
+            "TO": "Sam Raseta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-323-4560"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37274",
+            "Umbrella": "Sam Raseta",
+            "Umbrella ID": "12540498",
+            "VB_NAME": "2067041 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37274",
+            "MEMBERNAME": "2067041 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37274",
+            "Umbrella": "Sam Raseta",
+            "Umbrella ID": "12540498",
+            "VB_NAME": "2067041 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33113",
+            "MEMBERNAME": "Sam Raseta",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37274",
+            "Umbrella": "Sam Raseta",
+            "Umbrella ID": "12540498",
+            "VB_NAME": "2067041 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B10531",
+            "MEMBERNAME": "717226 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Erect Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

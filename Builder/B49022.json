@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B49022",
+            "Umbrella": "Acme Homes",
+            "Umbrella ID": "12553237",
+            "VB_NAME": "Acme Homes and Development Inc.",
+            "OPERATINGNAME": "Acme Homes",
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2021-01-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-13 14:00:36.000 +0000",
+            "Expiry Date": "2025-01-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3209 Trailside Drive",
+            "TELEPHONE": "905-330-3989",
+            "FAX": null,
+            "WEBSITEURL": "http://www.acme-homes.ca",
+            "EMAIL": "upandya222@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100687162",
+            "TO": "Udayan Pandya",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-330-3989"
+        },
+        {
+            "TOUNIQUENUMBER": "100687162",
+            "TO": "Udayan Pandya",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-330-3989"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B49022",
+            "Umbrella": "Acme Homes",
+            "Umbrella ID": "12553237",
+            "VB_NAME": "Acme Homes and Development Inc.",
+            "OPERATINGNAME": "Acme Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B49022",
+            "MEMBERNAME": "Acme Homes and Development Inc.",
+            "MEMBEROPERATINGNAME": "Acme Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B49022",
+            "Umbrella": "Acme Homes",
+            "Umbrella ID": "12553237",
+            "VB_NAME": "Acme Homes and Development Inc.",
+            "OPERATINGNAME": "Acme Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B49020",
+            "MEMBERNAME": "2802013 Ontario Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

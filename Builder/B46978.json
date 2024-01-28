@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46978",
+            "Umbrella": "Ritson and Sons Contracting",
+            "Umbrella ID": "12548151",
+            "VB_NAME": "Ritson & Sons Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "THUNDER BAY",
+            "HCRA_INITIALLICENSEDATE": "2018-06-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-06-02 04:15:37.000 +0000",
+            "Expiry Date": "2022-06-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "141 Frederica St. W.",
+            "TELEPHONE": "807-285-3426",
+            "FAX": "807-285-3427",
+            "WEBSITEURL": " ",
+            "EMAIL": "ritsonandsons@shaw.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100152804",
+            "TO": "Joey Ritson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-472-7494"
+        },
+        {
+            "TOUNIQUENUMBER": "100152804",
+            "TO": "Joey Ritson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-472-7494"
+        },
+        {
+            "TOUNIQUENUMBER": "100152804",
+            "TO": "Joey Ritson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "807-472-7494"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46978",
+            "Umbrella": "Ritson and Sons Contracting",
+            "Umbrella ID": "12548151",
+            "VB_NAME": "Ritson & Sons Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46978",
+            "MEMBERNAME": "Ritson & Sons Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46978",
+            "Umbrella": "Ritson and Sons Contracting",
+            "Umbrella ID": "12548151",
+            "VB_NAME": "Ritson & Sons Contracting Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42570",
+            "MEMBERNAME": "Ritson & Sons Contracting Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

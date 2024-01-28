@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31495",
+            "Umbrella": "Chicopee Craftsmen",
+            "Umbrella ID": "11730142",
+            "VB_NAME": "Chicopee Craftsmen (1999) Inc.",
+            "OPERATINGNAME": "Chicopee Craftsmen",
+            "CITY": "Waterloo",
+            "HCRA_INITIALLICENSEDATE": "2001-07-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-07-12 04:15:49.000 +0000",
+            "Expiry Date": "2022-07-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "39 Durward Place",
+            "TELEPHONE": "519-578-6290",
+            "FAX": "1-519-578-6296",
+            "WEBSITEURL": "https://www.chicopeecraftsmen.com",
+            "EMAIL": "johnwestcott@chicopeecraftsmen.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336422",
+            "TO": "Carol Westcott",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336424",
+            "TO": "John D. Westcott",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-578-6290"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31495",
+            "Umbrella": "Chicopee Craftsmen",
+            "Umbrella ID": "11730142",
+            "VB_NAME": "Chicopee Craftsmen (1999) Inc.",
+            "OPERATINGNAME": "Chicopee Craftsmen",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31495",
+            "MEMBERNAME": "Chicopee Craftsmen (1999) Inc.",
+            "MEMBEROPERATINGNAME": "Chicopee Craftsmen",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31495",
+            "Umbrella": "Chicopee Craftsmen",
+            "Umbrella ID": "11730142",
+            "VB_NAME": "Chicopee Craftsmen (1999) Inc.",
+            "OPERATINGNAME": "Chicopee Craftsmen",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B13486",
+            "MEMBERNAME": "Chicopee Craftsmen Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

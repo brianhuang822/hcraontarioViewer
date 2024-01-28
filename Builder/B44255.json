@@ -1,0 +1,132 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44255",
+            "Umbrella": "Eastway Construction",
+            "Umbrella ID": "12548862",
+            "VB_NAME": "All Delight Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MARKHAM",
+            "HCRA_INITIALLICENSEDATE": "2015-02-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-02-26 13:00:54.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "555 Denison St. E., Unit A",
+            "TELEPHONE": "416/505-3338",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "tleung.mank@gmail.com",
+            "ACCOUNTNUMBER": "B44255",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 12,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 12,
+            "SUMM_CC": 8,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 21188.7,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 21188.7
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12227921",
+            "TO": "Thomas Leung",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-505-3338"
+        },
+        {
+            "TOUNIQUENUMBER": "12227921",
+            "TO": "Thomas Leung",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-505-3338"
+        },
+        {
+            "TOUNIQUENUMBER": "12227921",
+            "TO": "Thomas Leung",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-505-3338"
+        },
+        {
+            "TOUNIQUENUMBER": "343841",
+            "TO": "Raymond Wan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-800-6696"
+        },
+        {
+            "TOUNIQUENUMBER": "343841",
+            "TO": "Raymond Wan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-800-6696"
+        },
+        {
+            "TOUNIQUENUMBER": "343841",
+            "TO": "Raymond Wan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-800-6696"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44255",
+            "Umbrella": "Eastway Construction",
+            "Umbrella ID": "12548862",
+            "VB_NAME": "All Delight Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37830",
+            "MEMBERNAME": "Eastway Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44255",
+            "Umbrella": "Eastway Construction",
+            "Umbrella ID": "12548862",
+            "VB_NAME": "All Delight Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46790",
+            "MEMBERNAME": "Eastway Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44255",
+            "Umbrella": "Eastway Construction",
+            "Umbrella ID": "12548862",
+            "VB_NAME": "All Delight Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38876",
+            "MEMBERNAME": "All Delight Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44255",
+            "Umbrella": "Eastway Construction",
+            "Umbrella ID": "12548862",
+            "VB_NAME": "All Delight Enterprises Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44255",
+            "MEMBERNAME": "All Delight Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

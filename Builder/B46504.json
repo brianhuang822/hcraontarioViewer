@@ -1,0 +1,122 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46504",
+            "Umbrella": "R S Homes",
+            "Umbrella ID": "12539815",
+            "VB_NAME": "500 Wellington Woods Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2017-09-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2021-09-20 04:15:06.000 +0000",
+            "Expiry Date": "2021-09-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "23 Lesmil Rd., Unit 110",
+            "TELEPHONE": "416/480-0282",
+            "FAX": null,
+            "WEBSITEURL": "www.rshomes.ca",
+            "EMAIL": "info@rshomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "303111",
+            "TO": "Ramtin Sotoadeh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-480-0282"
+        },
+        {
+            "TOUNIQUENUMBER": "303111",
+            "TO": "Ramtin Sotoadeh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-480-0282"
+        },
+        {
+            "TOUNIQUENUMBER": "303111",
+            "TO": "Ramtin Sotoadeh",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-480-0282"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46504",
+            "Umbrella": "R S Homes",
+            "Umbrella ID": "12539815",
+            "VB_NAME": "500 Wellington Woods Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46504",
+            "MEMBERNAME": "500 Wellington Woods Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46504",
+            "Umbrella": "R S Homes",
+            "Umbrella ID": "12539815",
+            "VB_NAME": "500 Wellington Woods Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27956",
+            "MEMBERNAME": "Liza Sotoadeh Investments Inc.",
+            "MEMBEROPERATINGNAME": "Ramtin Sotoadeh & Associates",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46504",
+            "Umbrella": "R S Homes",
+            "Umbrella ID": "12539815",
+            "VB_NAME": "500 Wellington Woods Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33425",
+            "MEMBERNAME": "1527520 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Monet Gardens",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46504",
+            "Umbrella": "R S Homes",
+            "Umbrella ID": "12539815",
+            "VB_NAME": "500 Wellington Woods Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33019",
+            "MEMBERNAME": "L.S.I. Engineering Limited",
+            "MEMBEROPERATINGNAME": "R.S. Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "500 Wellington Woods",
+            "Project Status": null,
+            "Location": "AURORA",
+            "Address": "497 Wellington St.",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

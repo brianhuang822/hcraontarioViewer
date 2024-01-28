@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41052",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Hillside Partners Limited Partnership (GP) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2011-03-21",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-28 01:39:50.000 +0000",
+            "Expiry Date": "2024-03-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "20 Bay Street",
+            "TELEPHONE": "647-244-8182",
+            "FAX": "416-231-5640",
+            "WEBSITEURL": "www.treetopsliving.com",
+            "EMAIL": "gregory@clubleisure.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 24,
+            "SUMM_TOTAL": 24,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12461858",
+            "TO": "Adel Marco",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-234-2144"
+        },
+        {
+            "TOUNIQUENUMBER": "12461858",
+            "TO": "Adel Marco",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-234-2144"
+        },
+        {
+            "TOUNIQUENUMBER": "12461868",
+            "TO": "Lesley Gregory",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-244-8182"
+        },
+        {
+            "TOUNIQUENUMBER": "12461868",
+            "TO": "Lesley Gregory",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-244-8182"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41052",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Hillside Partners Limited Partnership (GP) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "TreeTops",
+            "Project Status": "In Progress",
+            "Location": "HUNTSVILLE",
+            "Address": "  Treetops Lane ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "TreeTops",
+            "Project Status": "In Progress",
+            "Location": "HUNTSVILLE",
+            "Address": "  Treetops Lane ",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "TreeTops",
+            "Project Status": "In Progress",
+            "Location": "HUNTSVILLE",
+            "Address": "  Treetops Lane ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "TreeTops-Brentwood",
+            "Project Status": "In Progress",
+            "Location": "HUNTSVILLE",
+            "Address": "  Tree Tops Lane, ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Phase 2 of Treetops",
+            "Project Status": "Completed",
+            "Location": "HUNTSVILLE",
+            "Address": " 1-9 Tree Tops Ln. ",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-01-22"
+        },
+        {
+            "Condo Project Name": "Treetops",
+            "Project Status": "Completed",
+            "Location": "HUNTSVILLE",
+            "Address": "1280 Deerhurst Dr.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-02-13"
+        }
+    ],
+    "builderConditions": []
+}

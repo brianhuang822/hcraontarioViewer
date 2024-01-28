@@ -1,0 +1,138 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34344",
+            "Umbrella": "Port Picton Homes",
+            "Umbrella ID": "12553172",
+            "VB_NAME": "Cleave Management & Investment Services Ltd.",
+            "OPERATINGNAME": "Port Picton Homes",
+            "CITY": "Picton",
+            "HCRA_INITIALLICENSEDATE": "2004-04-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-22 05:25:32.000 +0000",
+            "Expiry Date": "2024-04-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "141 Picton Main Street",
+            "TELEPHONE": "613-476-9084",
+            "FAX": "613-476-6545",
+            "WEBSITEURL": " ",
+            "EMAIL": "david@cleave.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 249,
+            "SUMM_CONDO": 4,
+            "SUMM_TOTAL": 253,
+            "SUMM_CC": 7,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 36263.81,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 36263.81
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "306439",
+            "TO": "David Cleave",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-813-4400"
+        },
+        {
+            "TOUNIQUENUMBER": "306439",
+            "TO": "David Cleave",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-813-4400"
+        },
+        {
+            "TOUNIQUENUMBER": "306439",
+            "TO": "David Cleave",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-813-4400"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34344",
+            "Umbrella": "Port Picton Homes",
+            "Umbrella ID": "12553172",
+            "VB_NAME": "Cleave Management & Investment Services Ltd.",
+            "OPERATINGNAME": "Port Picton Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34344",
+            "MEMBERNAME": "Cleave Management & Investment Services Ltd.",
+            "MEMBEROPERATINGNAME": "Port Picton Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34344",
+            "Umbrella": "Port Picton Homes",
+            "Umbrella ID": "12553172",
+            "VB_NAME": "Cleave Management & Investment Services Ltd.",
+            "OPERATINGNAME": "Port Picton Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48519",
+            "MEMBERNAME": "1974692 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Port Picton",
+            "Project Status": null,
+            "Location": "PICTON",
+            "Address": " 69 - 97 Bridge St. ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "ROSEMARY LANE CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "PICTON",
+            "Address": "Rosemary Crt.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-10-30"
+        },
+        {
+            "Condo Project Name": "ROSEMARY LANE CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "PICTON",
+            "Address": "Rosemary Crt.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-11-04"
+        },
+        {
+            "Condo Project Name": "ROSEMARY LANE CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "PICTON",
+            "Address": "Rosemary Crt.",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-09-02"
+        },
+        {
+            "Condo Project Name": "ROSEMARY LANE CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "PICTON",
+            "Address": "Rosemary Crt.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-12-17"
+        }
+    ],
+    "builderConditions": []
+}

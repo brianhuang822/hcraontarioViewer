@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28123",
+            "Umbrella": "Mark Pedersen",
+            "Umbrella ID": "12540012",
+            "VB_NAME": "Pedersen Developments Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "LITTLE BRITAIN",
+            "HCRA_INITIALLICENSEDATE": "1999-04-13",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "2005-11-11 19:13:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "34 Oakdeen Ave., R.R.1",
+            "TELEPHONE": "(705)786-3772",
+            "FAX": "(705)786-3880",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "325980",
+            "TO": "Mark Pedersen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-786-3772"
+        },
+        {
+            "TOUNIQUENUMBER": "325980",
+            "TO": "Mark Pedersen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-786-3772"
+        },
+        {
+            "TOUNIQUENUMBER": "325980",
+            "TO": "Mark Pedersen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-786-3772"
+        },
+        {
+            "TOUNIQUENUMBER": "344768",
+            "TO": "Cathie Pedersen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-786-3772"
+        },
+        {
+            "TOUNIQUENUMBER": "344768",
+            "TO": "Cathie Pedersen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-786-3772"
+        },
+        {
+            "TOUNIQUENUMBER": "344768",
+            "TO": "Cathie Pedersen",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-786-3772"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28123",
+            "Umbrella": "Mark Pedersen",
+            "Umbrella ID": "12540012",
+            "VB_NAME": "Pedersen Developments Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B4659",
+            "MEMBERNAME": "Mark Pedersen",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28123",
+            "Umbrella": "Mark Pedersen",
+            "Umbrella ID": "12540012",
+            "VB_NAME": "Pedersen Developments Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B28123",
+            "MEMBERNAME": "Pedersen Developments Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

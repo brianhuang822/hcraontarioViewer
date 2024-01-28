@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46214",
+            "Umbrella": "De Saulniers Homes",
+            "Umbrella ID": "12540291",
+            "VB_NAME": "De Saulniers Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Cornwall",
+            "HCRA_INITIALLICENSEDATE": "2017-05-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-09 18:49:41.000 +0000",
+            "Expiry Date": "2024-05-31",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1120 Marleau Avenue",
+            "TELEPHONE": "613-937-0016",
+            "FAX": "613-937-3897",
+            "WEBSITEURL": " ",
+            "EMAIL": "mail@dclimited.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 17,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 17,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12146497",
+            "TO": "Vance De Saulniers",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-937-0016"
+        },
+        {
+            "TOUNIQUENUMBER": "12146497",
+            "TO": "Vance De Saulniers",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-937-0016"
+        },
+        {
+            "TOUNIQUENUMBER": "12146497",
+            "TO": "Vance De Saulniers",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-937-0016"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46214",
+            "Umbrella": "De Saulniers Homes",
+            "Umbrella ID": "12540291",
+            "VB_NAME": "De Saulniers Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46214",
+            "MEMBERNAME": "De Saulniers Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46214",
+            "Umbrella": "De Saulniers Homes",
+            "Umbrella ID": "12540291",
+            "VB_NAME": "De Saulniers Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40943",
+            "MEMBERNAME": "De Saulniers Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46214",
+            "Umbrella": "De Saulniers Homes",
+            "Umbrella ID": "12540291",
+            "VB_NAME": "De Saulniers Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B36572",
+            "MEMBERNAME": "Desaulniers Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

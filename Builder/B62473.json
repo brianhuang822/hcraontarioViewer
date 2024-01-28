@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62473",
+            "Umbrella": "Plenus",
+            "Umbrella ID": "500002571",
+            "VB_NAME": "2814712 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2023-09-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-19 13:52:41.000 +0000",
+            "Expiry Date": "2024-09-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "11 Buttonville Crescent East",
+            "TELEPHONE": "416-671-8316",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "victor@plenusdevelopment.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100313382",
+            "TO": "Shin-Li Huang",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-671-8316"
+        },
+        {
+            "TOUNIQUENUMBER": "100313382",
+            "TO": "Shin-Li Huang",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-671-8316"
+        },
+        {
+            "TOUNIQUENUMBER": "100313382",
+            "TO": "Shin-Li Huang",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-671-8316"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62473",
+            "Umbrella": "Plenus",
+            "Umbrella ID": "500002571",
+            "VB_NAME": "2814712 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47270",
+            "MEMBERNAME": "2644522 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62473",
+            "Umbrella": "Plenus",
+            "Umbrella ID": "500002571",
+            "VB_NAME": "2814712 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62473",
+            "MEMBERNAME": "2814712 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

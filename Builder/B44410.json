@@ -1,0 +1,160 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44410",
+            "Umbrella": "Riverview",
+            "Umbrella ID": "12539404",
+            "VB_NAME": "Pinevest Homes (Hampton Trails) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Paris",
+            "HCRA_INITIALLICENSEDATE": "2015-05-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-16 17:21:55.000 +0000",
+            "Expiry Date": "2024-05-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1 Grand River Street North",
+            "TELEPHONE": "519-442-1786",
+            "FAX": "1-519-442-5438",
+            "WEBSITEURL": "www.pinevesthomes.com",
+            "EMAIL": "brad@pinevest.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 36,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 36,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12402240",
+            "TO": "Gary Norris",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-753-8268"
+        },
+        {
+            "TOUNIQUENUMBER": "12400379",
+            "TO": "Bradley Wilson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-442-1786"
+        },
+        {
+            "TOUNIQUENUMBER": "12400379",
+            "TO": "Bradley Wilson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-442-1786"
+        },
+        {
+            "TOUNIQUENUMBER": "332507",
+            "TO": "Henry Stolp",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-442-1786"
+        },
+        {
+            "TOUNIQUENUMBER": "332507",
+            "TO": "Henry Stolp",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-442-1786"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44410",
+            "Umbrella": "Riverview",
+            "Umbrella ID": "12539404",
+            "VB_NAME": "Pinevest Homes (Hampton Trails) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60246",
+            "MEMBERNAME": "Pinevest Homes (Glen Morris) Inc.",
+            "MEMBEROPERATINGNAME": "Pinevest Homes (Glen Morris) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44410",
+            "Umbrella": "Riverview",
+            "Umbrella ID": "12539404",
+            "VB_NAME": "Pinevest Homes (Hampton Trails) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44410",
+            "MEMBERNAME": "Pinevest Homes (Hampton Trails) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44410",
+            "Umbrella": "Riverview",
+            "Umbrella ID": "12539404",
+            "VB_NAME": "Pinevest Homes (Hampton Trails) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40350",
+            "MEMBERNAME": "Pinevest Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44410",
+            "Umbrella": "Riverview",
+            "Umbrella ID": "12539404",
+            "VB_NAME": "Pinevest Homes (Hampton Trails) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60657",
+            "MEMBERNAME": "Pinevest Homes (Cedar East) Inc.",
+            "MEMBEROPERATINGNAME": "Pinevest Homes (Cedar East) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B44410",
+            "Umbrella": "Riverview",
+            "Umbrella ID": "12539404",
+            "VB_NAME": "Pinevest Homes (Hampton Trails) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45749",
+            "MEMBERNAME": "Glen Gardens (Pinevest) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44410",
+            "Umbrella": "Riverview",
+            "Umbrella ID": "12539404",
+            "VB_NAME": "Pinevest Homes (Hampton Trails) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B42930",
+            "MEMBERNAME": "Pinevest Homes (Riverview) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HAMPTON TRAILS",
+            "Project Status": null,
+            "Location": "PARIS",
+            "Address": "30 BALMORAL STREET",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

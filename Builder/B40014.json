@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40014",
+            "Umbrella": "JTC",
+            "Umbrella ID": "12387096",
+            "VB_NAME": "Jacques Trudel Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Timmins",
+            "HCRA_INITIALLICENSEDATE": "2009-11-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-11-14 04:15:16.000 +0000",
+            "Expiry Date": "2022-11-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "440 Dalton Road",
+            "TELEPHONE": "705-268-3538",
+            "FAX": "705-268-0562",
+            "WEBSITEURL": "www.JacquesTrudelConstruction.com",
+            "EMAIL": "trudelco@ntl.sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12239352",
+            "TO": "Linda Trudel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-268-3538"
+        },
+        {
+            "TOUNIQUENUMBER": "12239352",
+            "TO": "Linda Trudel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-268-3538"
+        },
+        {
+            "TOUNIQUENUMBER": "12239352",
+            "TO": "Linda Trudel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-268-3538"
+        },
+        {
+            "TOUNIQUENUMBER": "12239350",
+            "TO": "Jacques Trudel",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-268-3538"
+        },
+        {
+            "TOUNIQUENUMBER": "12239350",
+            "TO": "Jacques Trudel",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-268-3538"
+        },
+        {
+            "TOUNIQUENUMBER": "12239350",
+            "TO": "Jacques Trudel",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-268-3538"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40014",
+            "Umbrella": "JTC",
+            "Umbrella ID": "12387096",
+            "VB_NAME": "Jacques Trudel Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38008",
+            "MEMBERNAME": "Jacques P. Trudel",
+            "MEMBEROPERATINGNAME": "Jacques Trudel Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40014",
+            "Umbrella": "JTC",
+            "Umbrella ID": "12387096",
+            "VB_NAME": "Jacques Trudel Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40014",
+            "MEMBERNAME": "Jacques Trudel Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

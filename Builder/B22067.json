@@ -1,0 +1,141 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22067",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kawartha Gates (Lindsay) Inc.",
+            "OPERATINGNAME": "Rivermill Village",
+            "CITY": "BOWMANVILLE",
+            "HCRA_INITIALLICENSEDATE": "1992-08-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:20:21.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2385 Energy Dr.",
+            "TELEPHONE": "905/623-6398",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "val.weroth@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12314131",
+            "TO": "Victor Roth",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-623-6398"
+        },
+        {
+            "TOUNIQUENUMBER": "12314131",
+            "TO": "Victor Roth",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-623-6398"
+        },
+        {
+            "TOUNIQUENUMBER": "262067",
+            "TO": "Alex Roth",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-878-5722"
+        },
+        {
+            "TOUNIQUENUMBER": "262067",
+            "TO": "Alex Roth",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-878-5722"
+        },
+        {
+            "TOUNIQUENUMBER": "12374337",
+            "TO": "Valerie Bakunowicz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-725-9991"
+        },
+        {
+            "TOUNIQUENUMBER": "12367828",
+            "TO": "David Rife",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-725-9991"
+        },
+        {
+            "TOUNIQUENUMBER": "12314132",
+            "TO": "Irving Gleibernan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-940-5525"
+        },
+        {
+            "TOUNIQUENUMBER": "12314132",
+            "TO": "Irving Gleibernan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-940-5525"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22067",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Kawartha Gates (Lindsay) Inc.",
+            "OPERATINGNAME": "Rivermill Village",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "RiverMill Village",
+            "Project Status": "Completed",
+            "Location": "LINDSAY",
+            "Address": " 166-190 Lindsey St. N. ",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-11-15"
+        },
+        {
+            "Condo Project Name": "RIVERMILL VILLAGE, PHASE II",
+            "Project Status": "Completed",
+            "Location": "LINDSAY",
+            "Address": "51 Rivermill Blvd.",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-11-06"
+        },
+        {
+            "Condo Project Name": "RIVERMILL VILLAGE CONDOS",
+            "Project Status": "Completed",
+            "Location": "LINDSAY",
+            "Address": "50 Rivermill Blvd.",
+            "# of Units": 54,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-08-27"
+        }
+    ],
+    "builderConditions": []
+}

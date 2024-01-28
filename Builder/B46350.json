@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46350",
+            "Umbrella": "The Wright Group",
+            "Umbrella ID": "12547916",
+            "VB_NAME": "Wright General Contractors Ltd",
+            "OPERATINGNAME": null,
+            "CITY": "Brights Grove",
+            "HCRA_INITIALLICENSEDATE": "2017-07-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-08-01 04:15:24.000 +0000",
+            "Expiry Date": "2022-08-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 124",
+            "TELEPHONE": "519-331-1121",
+            "FAX": "519/908-9461",
+            "WEBSITEURL": "www.twgc.ca",
+            "EMAIL": "amanda@twgc.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100446526",
+            "TO": "John Wright",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-331-1121"
+        },
+        {
+            "TOUNIQUENUMBER": "100446526",
+            "TO": "John Wright",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-331-1121"
+        },
+        {
+            "TOUNIQUENUMBER": "100446526",
+            "TO": "John Wright",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-331-1121"
+        },
+        {
+            "TOUNIQUENUMBER": "100446527",
+            "TO": "Amanda Wright",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-331-1121"
+        },
+        {
+            "TOUNIQUENUMBER": "100446527",
+            "TO": "Amanda Wright",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-331-1121"
+        },
+        {
+            "TOUNIQUENUMBER": "100446527",
+            "TO": "Amanda Wright",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-331-1121"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46350",
+            "Umbrella": "The Wright Group",
+            "Umbrella ID": "12547916",
+            "VB_NAME": "Wright General Contractors Ltd",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46350",
+            "MEMBERNAME": "Wright General Contractors Ltd",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B46350",
+            "Umbrella": "The Wright Group",
+            "Umbrella ID": "12547916",
+            "VB_NAME": "Wright General Contractors Ltd",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46862",
+            "MEMBERNAME": "Benabella Holdings Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

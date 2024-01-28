@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42684",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1808634 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2013-05-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-05-29 13:00:51.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "50 Kew Beach Ave.",
+            "TELEPHONE": "416/363-7199",
+            "FAX": "416/363-5834",
+            "WEBSITEURL": " ",
+            "EMAIL": "brian@theidealenvironment.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 3,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100159303",
+            "TO": "Brian Lee",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-363-7199"
+        },
+        {
+            "TOUNIQUENUMBER": "100159303",
+            "TO": "Brian Lee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-363-7199"
+        },
+        {
+            "TOUNIQUENUMBER": "100159304",
+            "TO": "Marilyn Lake",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-702-9334"
+        },
+        {
+            "TOUNIQUENUMBER": "100159304",
+            "TO": "Marilyn Lake",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-702-9334"
+        },
+        {
+            "TOUNIQUENUMBER": "100159304",
+            "TO": "Marilyn Lake",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-702-9334"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42684",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1808634 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "KewBeachouse",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "17 - 19 Kippendavie Ave.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-04-28"
+        }
+    ],
+    "builderConditions": []
+}

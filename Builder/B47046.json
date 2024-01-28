@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47046",
+            "Umbrella": "Traditional Carpentry",
+            "Umbrella ID": "500002446",
+            "VB_NAME": "Orlan Martin and Cynthia Martin",
+            "OPERATINGNAME": "Traditional Carpentry",
+            "CITY": "Harriston",
+            "HCRA_INITIALLICENSEDATE": "2018-06-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-10 21:06:37.000 +0000",
+            "Expiry Date": "2024-06-20",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "9577 Ayton Road",
+            "TELEPHONE": "226-220-1301",
+            "FAX": "519 510 8717",
+            "WEBSITEURL": " ",
+            "EMAIL": "orlan@traditionalcarp.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100504457",
+            "TO": "Cynthia Martin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "orlan@tradionalcarp.ca"
+        },
+        {
+            "TOUNIQUENUMBER": "100504455",
+            "TO": "Orlan Martin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "226-220-1301"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47046",
+            "Umbrella": "Traditional Carpentry",
+            "Umbrella ID": "500002446",
+            "VB_NAME": "Orlan Martin and Cynthia Martin",
+            "OPERATINGNAME": "Traditional Carpentry",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62285",
+            "MEMBERNAME": "Traditional Carpentry Ltd.",
+            "MEMBEROPERATINGNAME": "Traditional Carpentry Ltd.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47046",
+            "Umbrella": "Traditional Carpentry",
+            "Umbrella ID": "500002446",
+            "VB_NAME": "Orlan Martin and Cynthia Martin",
+            "OPERATINGNAME": "Traditional Carpentry",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47046",
+            "MEMBERNAME": "Orlan Martin and Cynthia Martin",
+            "MEMBEROPERATINGNAME": "Traditional Carpentry",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

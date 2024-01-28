@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38402",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Belcomo Management Ltd.",
+            "OPERATINGNAME": "The Terrace on Rouge Creek",
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2008-03-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-03-05 13:00:11.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "468 Jevlan Dr.",
+            "TELEPHONE": "647/922-7781",
+            "FAX": "905/856-6884",
+            "WEBSITEURL": "www.belcomo.com",
+            "EMAIL": "belcomo@bellnet.ca",
+            "ACCOUNTNUMBER": "B38402",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 2,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11899473",
+            "TO": "Anthony Lanni",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-673-7444"
+        },
+        {
+            "TOUNIQUENUMBER": "12270674",
+            "TO": "Rocco Rossi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-922-7781"
+        },
+        {
+            "TOUNIQUENUMBER": "12270674",
+            "TO": "Rocco Rossi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-922-7781"
+        },
+        {
+            "TOUNIQUENUMBER": "11772387",
+            "TO": "Peter D'Ambrosio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-682-5200"
+        },
+        {
+            "TOUNIQUENUMBER": "11772387",
+            "TO": "Peter D'Ambrosio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-682-5200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38402",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Belcomo Management Ltd.",
+            "OPERATINGNAME": "The Terrace on Rouge Creek",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Terrace on Rouge Creek",
+            "Project Status": "Completed",
+            "Location": "STOUFFVILLE",
+            "Address": "35 Baker Hill Blvd.,",
+            "# of Units": 107,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-11-23"
+        }
+    ],
+    "builderConditions": []
+}

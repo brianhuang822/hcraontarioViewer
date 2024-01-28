@@ -1,0 +1,88 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48330",
+            "Umbrella": "Stafford Developments",
+            "Umbrella ID": "12551786",
+            "VB_NAME": "Willowshep Properties Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2020-07-07",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-01 15:56:18.000 +0000",
+            "Expiry Date": "2024-07-08",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "55 St. Clair Avenue West",
+            "TELEPHONE": "416-461-6100",
+            "FAX": null,
+            "WEBSITEURL": "stafford.ca",
+            "EMAIL": "lhum@stafford.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48330",
+            "Umbrella": "Stafford Developments",
+            "Umbrella ID": "12551786",
+            "VB_NAME": "Willowshep Properties Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48332",
+            "MEMBERNAME": "Stafford Property Management Inc.",
+            "MEMBEROPERATINGNAME": "Stafford Property Management Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48330",
+            "Umbrella": "Stafford Developments",
+            "Umbrella ID": "12551786",
+            "VB_NAME": "Willowshep Properties Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48330",
+            "MEMBERNAME": "Willowshep Properties Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48330",
+            "Umbrella": "Stafford Developments",
+            "Umbrella ID": "12551786",
+            "VB_NAME": "Willowshep Properties Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B30857",
+            "MEMBERNAME": "Stafford Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Stafford Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "181 East",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 181 Sheppard Avenue East ",
+            "# of Units": 185,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

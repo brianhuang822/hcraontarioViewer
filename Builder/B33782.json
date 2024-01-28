@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33782",
+            "Umbrella": "Jim Simpson and Jean Marsh",
+            "Umbrella ID": "12540434",
+            "VB_NAME": "Jim Simpson and Jean Marsh",
+            "OPERATINGNAME": null,
+            "CITY": "PALGRAVE",
+            "HCRA_INITIALLICENSEDATE": "2003-10-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-10-03 12:31:41.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "R.R. 1, (Concession 3 Adjala)",
+            "TELEPHONE": "905-729-4549",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "jeanjim@csolve.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "316603",
+            "TO": "James (Jim) Simpson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-435-3347"
+        },
+        {
+            "TOUNIQUENUMBER": "11941764",
+            "TO": "Jean Simpson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33782",
+            "Umbrella": "Jim Simpson and Jean Marsh",
+            "Umbrella ID": "12540434",
+            "VB_NAME": "Jim Simpson and Jean Marsh",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34633",
+            "MEMBERNAME": "1595465 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33782",
+            "Umbrella": "Jim Simpson and Jean Marsh",
+            "Umbrella ID": "12540434",
+            "VB_NAME": "Jim Simpson and Jean Marsh",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33782",
+            "MEMBERNAME": "Jim Simpson and Jean Marsh",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60245",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "MacCap Holdings Corp.",
+            "OPERATINGNAME": "MacCap Holdings Corp.",
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2023-07-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-27 14:06:14.000 +0000",
+            "Expiry Date": "2024-07-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "100 Smirle Avenue",
+            "TELEPHONE": "613-402-8849",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600007504",
+            "TO": "Natasha MacMillan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-406-2223"
+        },
+        {
+            "TOUNIQUENUMBER": "600005565",
+            "TO": "James MacMillan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-402-8849"
+        },
+        {
+            "TOUNIQUENUMBER": "600005565",
+            "TO": "James MacMillan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-402-8849"
+        },
+        {
+            "TOUNIQUENUMBER": "600005565",
+            "TO": "James MacMillan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-402-8849"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60245",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "MacCap Holdings Corp.",
+            "OPERATINGNAME": "MacCap Holdings Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Gramercy Westrboro",
+            "Project Status": null,
+            "Location": "OTTAWA",
+            "Address": " 316-332 Clifton Road ",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

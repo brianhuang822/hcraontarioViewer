@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26698",
+            "Umbrella": "B.C.R. Construction",
+            "Umbrella ID": "12541196",
+            "VB_NAME": "B.C.R. Construction Incorporated",
+            "OPERATINGNAME": null,
+            "CITY": "Langley",
+            "HCRA_INITIALLICENSEDATE": "1997-09-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-09-05 15:00:35.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "20134 2nd Ave",
+            "TELEPHONE": "6045104354",
+            "FAX": "6045103890",
+            "WEBSITEURL": null,
+            "EMAIL": "bcrondeau@sympatico.ca",
+            "ACCOUNTNUMBER": "B26698",
+            "Total Outstanding Amount": 24117.8,
+            "TAB": 0,
+            "BREACH": 24117.8,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 24097,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 24097
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343008",
+            "TO": "Bruce Charles Rondeau",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-510-4354"
+        },
+        {
+            "TOUNIQUENUMBER": "343008",
+            "TO": "Bruce Charles Rondeau",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-510-4354"
+        },
+        {
+            "TOUNIQUENUMBER": "343008",
+            "TO": "Bruce Charles Rondeau",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-510-4354"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26698",
+            "Umbrella": "B.C.R. Construction",
+            "Umbrella ID": "12541196",
+            "VB_NAME": "B.C.R. Construction Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26698",
+            "MEMBERNAME": "B.C.R. Construction Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26698",
+            "Umbrella": "B.C.R. Construction",
+            "Umbrella ID": "12541196",
+            "VB_NAME": "B.C.R. Construction Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41898",
+            "MEMBERNAME": "B.C.R. Construction Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

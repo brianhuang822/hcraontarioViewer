@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26642",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1259541 Ontario Inc.",
+            "OPERATINGNAME": "Bill Bolger Construction",
+            "CITY": "Clayton",
+            "HCRA_INITIALLICENSEDATE": "1997-07-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-07-19 05:00:08.000 +0000",
+            "Expiry Date": "2023-07-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "General Delivery",
+            "TELEPHONE": "613-256-3797",
+            "FAX": "613-256-3121",
+            "WEBSITEURL": " ",
+            "EMAIL": "wtbolger@me.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 6,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343120",
+            "TO": "Bill Bolger",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-256-3797"
+        },
+        {
+            "TOUNIQUENUMBER": "343120",
+            "TO": "Bill Bolger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-256-3797"
+        },
+        {
+            "TOUNIQUENUMBER": "343120",
+            "TO": "Bill Bolger",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-256-3797"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26642",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1259541 Ontario Inc.",
+            "OPERATINGNAME": "Bill Bolger Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

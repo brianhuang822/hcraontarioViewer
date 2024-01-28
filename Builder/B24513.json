@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24513",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "White Sands Condominiums Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "1995-01-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1998-01-28 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1187 Mississauga Rd.",
+            "TELEPHONE": "(905)821-3434Ext.274",
+            "FAX": "(705)549-6427",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "323667",
+            "TO": "Garry Newton",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-526-0173"
+        },
+        {
+            "TOUNIQUENUMBER": "325565",
+            "TO": "Gregory Gilmour",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-361-3434 ext- 1274"
+        },
+        {
+            "TOUNIQUENUMBER": "325565",
+            "TO": "Gregory Gilmour",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-361-3434 ext- 1274"
+        },
+        {
+            "TOUNIQUENUMBER": "325565",
+            "TO": "Gregory Gilmour",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-361-3434 ext- 1274"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24513",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "White Sands Condominiums Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WHITE SANDS CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "PENETANGUISHENE",
+            "Address": "11 Beck Blvd.",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-10-01"
+        }
+    ],
+    "builderConditions": []
+}

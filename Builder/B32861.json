@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32861",
+            "Umbrella": "Miscione Homes",
+            "Umbrella ID": "12540116",
+            "VB_NAME": "Miscione Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Stoney Creek",
+            "HCRA_INITIALLICENSEDATE": "2003-04-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-14 20:35:05.000 +0000",
+            "Expiry Date": "2024-04-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "165 Westbury Avenue",
+            "TELEPHONE": "905-981-4113",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "ngmiscione@gmail.com",
+            "ACCOUNTNUMBER": "B32861",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 4668.94,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 4668.94
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11666804",
+            "TO": "Nick Miscione",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-981-4113"
+        },
+        {
+            "TOUNIQUENUMBER": "11666804",
+            "TO": "Nick Miscione",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-981-4113"
+        },
+        {
+            "TOUNIQUENUMBER": "11666804",
+            "TO": "Nick Miscione",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-981-4113"
+        },
+        {
+            "TOUNIQUENUMBER": "11849964",
+            "TO": "Claudette Lalonde",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-979-7359"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32861",
+            "Umbrella": "Miscione Homes",
+            "Umbrella ID": "12540116",
+            "VB_NAME": "Miscione Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31060",
+            "MEMBERNAME": "Nick Miscione",
+            "MEMBEROPERATINGNAME": "Miscione Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32861",
+            "Umbrella": "Miscione Homes",
+            "Umbrella ID": "12540116",
+            "VB_NAME": "Miscione Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B32861",
+            "MEMBERNAME": "Miscione Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

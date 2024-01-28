@@ -1,0 +1,112 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38524",
+            "Umbrella": "Lloyd Manor Estates",
+            "Umbrella ID": "12526797",
+            "VB_NAME": "Gallery Loft Towns Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2008-05-05",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-05-06 12:00:28.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "385 Brunswick Ave., Ste. 408",
+            "TELEPHONE": "416-929-5264",
+            "FAX": "416-360-8947",
+            "WEBSITEURL": "www.gallerylofttowns.com",
+            "EMAIL": "alex@greendoors.ca",
+            "ACCOUNTNUMBER": "B38524",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12276632",
+            "TO": "Jorge Fonseca",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-364-7717"
+        },
+        {
+            "TOUNIQUENUMBER": "12276632",
+            "TO": "Jorge Fonseca",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-364-7717"
+        },
+        {
+            "TOUNIQUENUMBER": "12276632",
+            "TO": "Jorge Fonseca",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-364-7717"
+        },
+        {
+            "TOUNIQUENUMBER": "12276633",
+            "TO": "Robert Feldman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-731-9170"
+        },
+        {
+            "TOUNIQUENUMBER": "12276633",
+            "TO": "Robert Feldman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-731-9170"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38524",
+            "Umbrella": "Lloyd Manor Estates",
+            "Umbrella ID": "12526797",
+            "VB_NAME": "Gallery Loft Towns Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38524",
+            "MEMBERNAME": "Gallery Loft Towns Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38524",
+            "Umbrella": "Lloyd Manor Estates",
+            "Umbrella ID": "12526797",
+            "VB_NAME": "Gallery Loft Towns Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41871",
+            "MEMBERNAME": "Lloyd Manor Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Gallery Loft Towns",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "207 Beverley Street",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-07-27"
+        }
+    ],
+    "builderConditions": []
+}

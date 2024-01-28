@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43104",
+            "Umbrella": "Stone Brook",
+            "Umbrella ID": "12543226",
+            "VB_NAME": "Scott Reginald Gateley & Lee Thomas Joy",
+            "OPERATINGNAME": null,
+            "CITY": "ODESSA",
+            "HCRA_INITIALLICENSEDATE": "2013-10-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-10-02 12:01:14.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "803 County Rd. 4",
+            "TELEPHONE": "613/329-5196",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "stonebrookhomes1@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100182026",
+            "TO": "Lee Joy",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-803-9422"
+        },
+        {
+            "TOUNIQUENUMBER": "100182013",
+            "TO": "Scott Gateley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-329-5196"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43104",
+            "Umbrella": "Stone Brook",
+            "Umbrella ID": "12543226",
+            "VB_NAME": "Scott Reginald Gateley & Lee Thomas Joy",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43104",
+            "MEMBERNAME": "Scott Reginald Gateley & Lee Thomas Joy",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43104",
+            "Umbrella": "Stone Brook",
+            "Umbrella ID": "12543226",
+            "VB_NAME": "Scott Reginald Gateley & Lee Thomas Joy",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44573",
+            "MEMBERNAME": "Scott Gateley & Lori Lynn Gateley",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,133 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46789",
+            "Umbrella": "Tuscany Hill Homes (Springbrook)",
+            "Umbrella ID": "12547747",
+            "VB_NAME": "2615027 Ontario Inc.",
+            "OPERATINGNAME": "Tuscany Hill Homes (Springbrook)",
+            "CITY": "STONEY CREEK",
+            "HCRA_INITIALLICENSEDATE": "2018-02-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-07-24 04:15:23.000 +0000",
+            "Expiry Date": "2022-07-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2247 Rymal Rd. E., Unit 250",
+            "TELEPHONE": "905/318-5231",
+            "FAX": "905/318-3947",
+            "WEBSITEURL": "tuscanyhillhomes.ca",
+            "EMAIL": "sam_ventresca@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 11,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 11,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100482521",
+            "TO": "Anthony Silvestro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-522-3328"
+        },
+        {
+            "TOUNIQUENUMBER": "100482521",
+            "TO": "Anthony Silvestro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-522-3328"
+        },
+        {
+            "TOUNIQUENUMBER": "333109",
+            "TO": "Salvatore (Sam) Ventresca",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-318-5231"
+        },
+        {
+            "TOUNIQUENUMBER": "333109",
+            "TO": "Salvatore (Sam) Ventresca",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-318-5231"
+        },
+        {
+            "TOUNIQUENUMBER": "338825",
+            "TO": "Dominic Chiaravalle",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-574-3038"
+        },
+        {
+            "TOUNIQUENUMBER": "338825",
+            "TO": "Dominic Chiaravalle",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-574-3038"
+        },
+        {
+            "TOUNIQUENUMBER": "100482516",
+            "TO": "Anthony Disilvestro",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-525-7854"
+        },
+        {
+            "TOUNIQUENUMBER": "100482516",
+            "TO": "Anthony Disilvestro",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-525-7854"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46789",
+            "Umbrella": "Tuscany Hill Homes (Springbrook)",
+            "Umbrella ID": "12547747",
+            "VB_NAME": "2615027 Ontario Inc.",
+            "OPERATINGNAME": "Tuscany Hill Homes (Springbrook)",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28759",
+            "MEMBERNAME": "Tuscany Hill Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B46789",
+            "Umbrella": "Tuscany Hill Homes (Springbrook)",
+            "Umbrella ID": "12547747",
+            "VB_NAME": "2615027 Ontario Inc.",
+            "OPERATINGNAME": "Tuscany Hill Homes (Springbrook)",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46789",
+            "MEMBERNAME": "2615027 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Tuscany Hill Homes (Springbrook)",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Singles At Stonehenge",
+            "Project Status": null,
+            "Location": "ANCASTER",
+            "Address": "215 Stonehenge Dr.",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

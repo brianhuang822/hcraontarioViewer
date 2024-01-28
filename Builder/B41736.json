@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41736",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Tofni Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2012-03-14",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-10-18 20:25:42.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "856 Dundas St., W.",
+            "TELEPHONE": "416/603-7878",
+            "FAX": "416/503-2442",
+            "WEBSITEURL": " ",
+            "EMAIL": "renato@tofnidev.com",
+            "ACCOUNTNUMBER": "B41736",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 9,
+            "SUMM_CONDO": 67,
+            "SUMM_TOTAL": 76,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 320.53,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 320.53
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12513151",
+            "TO": "Connie Silva",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-603-7878"
+        },
+        {
+            "TOUNIQUENUMBER": "12513151",
+            "TO": "Connie Silva",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-603-7878"
+        },
+        {
+            "TOUNIQUENUMBER": "12513151",
+            "TO": "Connie Silva",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-603-7878"
+        },
+        {
+            "TOUNIQUENUMBER": "331039",
+            "TO": "Renato Silva",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-918-4862"
+        },
+        {
+            "TOUNIQUENUMBER": "331039",
+            "TO": "Renato Silva",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-918-4862"
+        },
+        {
+            "TOUNIQUENUMBER": "331039",
+            "TO": "Renato Silva",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-918-4862"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41736",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Tofni Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Nero Condos + Lofthouses",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "217/219 Manning Ave.",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Nero Condos  + Lofthouses",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 205 Manning Ave. ",
+            "# of Units": 75,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-09-19"
+        }
+    ],
+    "builderConditions": []
+}

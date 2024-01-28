@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35470",
+            "Umbrella": "WCM Developments",
+            "Umbrella ID": "12541230",
+            "VB_NAME": "WCM Development Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "Concord",
+            "HCRA_INITIALLICENSEDATE": "9999-12-30",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2005-08-31 00:42:36.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "350 Credit Stone Rd., Ste. 200",
+            "TELEPHONE": "416-917-5565",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "billmeek@wcmeek.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11647221",
+            "TO": "William C. Meek",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-917-5565"
+        },
+        {
+            "TOUNIQUENUMBER": "11647221",
+            "TO": "William C. Meek",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-917-5565"
+        },
+        {
+            "TOUNIQUENUMBER": "11647221",
+            "TO": "William C. Meek",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-917-5565"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35470",
+            "Umbrella": "WCM Developments",
+            "Umbrella ID": "12541230",
+            "VB_NAME": "WCM Development Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B36088",
+            "MEMBERNAME": "WCM Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35470",
+            "Umbrella": "WCM Developments",
+            "Umbrella ID": "12541230",
+            "VB_NAME": "WCM Development Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B30759",
+            "MEMBERNAME": "W.C. Meek Design and Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35470",
+            "Umbrella": "WCM Developments",
+            "Umbrella ID": "12541230",
+            "VB_NAME": "WCM Development Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B35470",
+            "MEMBERNAME": "WCM Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

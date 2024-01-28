@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37223",
+            "Umbrella": "Simonview Group",
+            "Umbrella ID": "12550535",
+            "VB_NAME": "Simon View Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Kitchener",
+            "HCRA_INITIALLICENSEDATE": "2006-12-05",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-11 16:52:38.000 +0000",
+            "Expiry Date": "2024-12-06",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "234 Heiman Street",
+            "TELEPHONE": "519-635-5121",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "simonviewhome@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12194433",
+            "TO": "Simon Hasiu",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-635-5121"
+        },
+        {
+            "TOUNIQUENUMBER": "12194433",
+            "TO": "Simon Hasiu",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-635-5121"
+        },
+        {
+            "TOUNIQUENUMBER": "12194433",
+            "TO": "Simon Hasiu",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-635-5121"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37223",
+            "Umbrella": "Simonview Group",
+            "Umbrella ID": "12550535",
+            "VB_NAME": "Simon View Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46938",
+            "MEMBERNAME": "2594026 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Parkside Luxury Condos",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B37223",
+            "Umbrella": "Simonview Group",
+            "Umbrella ID": "12550535",
+            "VB_NAME": "Simon View Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B37223",
+            "MEMBERNAME": "Simon View Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B37223",
+            "Umbrella": "Simonview Group",
+            "Umbrella ID": "12550535",
+            "VB_NAME": "Simon View Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47745",
+            "MEMBERNAME": "2645826 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

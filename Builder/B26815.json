@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26815",
+            "Umbrella": "Klein Developments",
+            "Umbrella ID": "3463",
+            "VB_NAME": "Klein Building Company Limited",
+            "OPERATINGNAME": null,
+            "CITY": "NIAGARA FALLS",
+            "HCRA_INITIALLICENSEDATE": "1997-10-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-10-28 18:14:54.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6279 Huggins St.",
+            "TELEPHONE": "905-354-3412",
+            "FAX": "905-354-9312",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "317777",
+            "TO": "Julius Klein",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "317777",
+            "TO": "Julius Klein",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "317780",
+            "TO": "Marcus Martin Klein",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-354-3412"
+        },
+        {
+            "TOUNIQUENUMBER": "306179",
+            "TO": "Kurt Robert Klein",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-354-3412"
+        },
+        {
+            "TOUNIQUENUMBER": "306215",
+            "TO": "Ingrid K. Balinski",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-354-3412"
+        },
+        {
+            "TOUNIQUENUMBER": "306215",
+            "TO": "Ingrid K. Balinski",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-354-3412"
+        },
+        {
+            "TOUNIQUENUMBER": "317779",
+            "TO": "Lydia Klein",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "317779",
+            "TO": "Lydia Klein",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26815",
+            "Umbrella": "Klein Developments",
+            "Umbrella ID": "3463",
+            "VB_NAME": "Klein Building Company Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22490",
+            "MEMBERNAME": "Klein Developments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26815",
+            "Umbrella": "Klein Developments",
+            "Umbrella ID": "3463",
+            "VB_NAME": "Klein Building Company Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26815",
+            "MEMBERNAME": "Klein Building Company Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE GLADES",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": " 4300 Kalar Rd ",
+            "# of Units": 11,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-02-06"
+        },
+        {
+            "Condo Project Name": "KLEIN BUILDING COMPANY",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": "3381 Montrose Rd.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-04-13"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34892",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Jon Koopmans Construction Limited",
+            "OPERATINGNAME": "Koopmans Homes",
+            "CITY": "Trenton",
+            "HCRA_INITIALLICENSEDATE": "2004-09-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-09-22 05:00:02.000 +0000",
+            "Expiry Date": "2023-09-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "17650 Telephone Road",
+            "TELEPHONE": "613-392-5667",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "koopmanshomes@hotmail.com",
+            "ACCOUNTNUMBER": "B34892",
+            "Total Outstanding Amount": 877.13,
+            "TAB": 877.13,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 29,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 29,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 8650,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 8650
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12027432",
+            "TO": "Cynthia Koopmans",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-5667"
+        },
+        {
+            "TOUNIQUENUMBER": "12027432",
+            "TO": "Cynthia Koopmans",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-5667"
+        },
+        {
+            "TOUNIQUENUMBER": "12027432",
+            "TO": "Cynthia Koopmans",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-5667"
+        },
+        {
+            "TOUNIQUENUMBER": "12027429",
+            "TO": "Jon Koopmans",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-922-1028"
+        },
+        {
+            "TOUNIQUENUMBER": "12027429",
+            "TO": "Jon Koopmans",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-922-1028"
+        },
+        {
+            "TOUNIQUENUMBER": "12027429",
+            "TO": "Jon Koopmans",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-922-1028"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34892",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Jon Koopmans Construction Limited",
+            "OPERATINGNAME": "Koopmans Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

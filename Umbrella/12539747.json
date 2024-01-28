@@ -1,0 +1,137 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Orpheus",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 1,
+            "TOTALUNITS": 13,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 13344,
+            "ADDRESS": "130 Denison St., Unit B",
+            "TELEPHONE": "905/940-8345",
+            "FAX": "905/940-1913",
+            "WEBSITEURL": " ",
+            "EMAIL": "jgeist@geistproperties.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 13,
+            "SUMM_TOTAL": 13,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 13344,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 13344
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Orpheus Investment Company Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B39815",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Uxland Development East Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42307",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2012",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 3500,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 3500,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 13,
+            "SUMM_TOTAL": 13,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 13344,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 13344,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 5,
+            "Total Posessions": 5,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 13,
+            "SUMM_TOTAL": 13,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 13344,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 13344,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 8,
+            "Total Posessions": 8,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 9844,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 9844,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 13,
+            "SUMM_TOTAL": 13,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 13344,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 13344,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Uxland Dev. East -UXB II",
+            "Account Number": "B42307",
+            "Project Status": "Completed",
+            "Location": "UXBRIDGE",
+            "Address": "177 Toronto Street South",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-11-06"
+        },
+        {
+            "Condo Project Name": "The Glens",
+            "Account Number": "B39815",
+            "Project Status": "Completed",
+            "Location": "UXBRIDGE",
+            "Address": "Fred Barnard Way",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-08-13"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24928",
+            "Umbrella": "Antoine Brisson & Paulette Brisson",
+            "Umbrella ID": "12540502",
+            "VB_NAME": "Antoine Brisson And Paulette Brisson",
+            "OPERATINGNAME": null,
+            "CITY": "CASSELMAN",
+            "HCRA_INITIALLICENSEDATE": "1995-06-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1998-06-30 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1462 Route 400",
+            "TELEPHONE": "(613)764-5552",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340923",
+            "TO": "Paulette Brisson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-764-5552"
+        },
+        {
+            "TOUNIQUENUMBER": "340922",
+            "TO": "Antoine Brisson",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-229-1836"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24928",
+            "Umbrella": "Antoine Brisson & Paulette Brisson",
+            "Umbrella ID": "12540502",
+            "VB_NAME": "Antoine Brisson And Paulette Brisson",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24928",
+            "MEMBERNAME": "Antoine Brisson And Paulette Brisson",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B24928",
+            "Umbrella": "Antoine Brisson & Paulette Brisson",
+            "Umbrella ID": "12540502",
+            "VB_NAME": "Antoine Brisson And Paulette Brisson",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33017",
+            "MEMBERNAME": "Antoine & Paulette Brisson",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

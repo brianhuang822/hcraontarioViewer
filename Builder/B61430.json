@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61430",
+            "Umbrella": "J Dass",
+            "Umbrella ID": "500001371",
+            "VB_NAME": "2700673 Ontario Inc.",
+            "OPERATINGNAME": "2700673 Ontario Inc.",
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2022-05-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-06 18:12:32.000 +0000",
+            "Expiry Date": "2024-05-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "370 New Enterprise Way",
+            "TELEPHONE": "905-678-9568",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "projects@dass.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008262",
+            "TO": "Jaswant Dass",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-678-9568"
+        },
+        {
+            "TOUNIQUENUMBER": "600008262",
+            "TO": "Jaswant Dass",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-678-9568"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61430",
+            "Umbrella": "J Dass",
+            "Umbrella ID": "500001371",
+            "VB_NAME": "2700673 Ontario Inc.",
+            "OPERATINGNAME": "2700673 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61278",
+            "MEMBERNAME": "5048942 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "5048942 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61430",
+            "Umbrella": "J Dass",
+            "Umbrella ID": "500001371",
+            "VB_NAME": "2700673 Ontario Inc.",
+            "OPERATINGNAME": "2700673 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61430",
+            "MEMBERNAME": "2700673 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "2700673 Ontario Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B61430",
+            "Umbrella": "J Dass",
+            "Umbrella ID": "500001371",
+            "VB_NAME": "2700673 Ontario Inc.",
+            "OPERATINGNAME": "2700673 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60384",
+            "MEMBERNAME": "2827935 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "J Dass Developments",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

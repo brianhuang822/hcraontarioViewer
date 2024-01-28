@@ -1,0 +1,158 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B22470",
+            "Umbrella": "Alexander Sumner",
+            "Umbrella ID": "12540962",
+            "VB_NAME": "890534 Ontario Ltd.",
+            "OPERATINGNAME": "Byron Development Corp.",
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1993-02-12",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1994-02-15 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "279 Exeter Rd.",
+            "TELEPHONE": "(519)268-8901",
+            "FAX": "(519)268-8065",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332815",
+            "TO": "Alexander E. Sumner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-455-6770"
+        },
+        {
+            "TOUNIQUENUMBER": "332815",
+            "TO": "Alexander E. Sumner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-455-6770"
+        },
+        {
+            "TOUNIQUENUMBER": "332815",
+            "TO": "Alexander E. Sumner",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-455-6770"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B22470",
+            "Umbrella": "Alexander Sumner",
+            "Umbrella ID": "12540962",
+            "VB_NAME": "890534 Ontario Ltd.",
+            "OPERATINGNAME": "Byron Development Corp.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22470",
+            "MEMBERNAME": "890534 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Byron Development Corp.",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22470",
+            "Umbrella": "Alexander Sumner",
+            "Umbrella ID": "12540962",
+            "VB_NAME": "890534 Ontario Ltd.",
+            "OPERATINGNAME": "Byron Development Corp.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17319",
+            "MEMBERNAME": "794561 Ont.Inc.",
+            "MEMBEROPERATINGNAME": "Sumner & Company",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22470",
+            "Umbrella": "Alexander Sumner",
+            "Umbrella ID": "12540962",
+            "VB_NAME": "890534 Ontario Ltd.",
+            "OPERATINGNAME": "Byron Development Corp.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B20216",
+            "MEMBERNAME": "Wolfebridge Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22470",
+            "Umbrella": "Alexander Sumner",
+            "Umbrella ID": "12540962",
+            "VB_NAME": "890534 Ontario Ltd.",
+            "OPERATINGNAME": "Byron Development Corp.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17318",
+            "MEMBERNAME": "Templar Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22470",
+            "Umbrella": "Alexander Sumner",
+            "Umbrella ID": "12540962",
+            "VB_NAME": "890534 Ontario Ltd.",
+            "OPERATINGNAME": "Byron Development Corp.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17531",
+            "MEMBERNAME": "776577 Ontario Inc",
+            "MEMBEROPERATINGNAME": "Mariner'S Bluff Dev.",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B22470",
+            "Umbrella": "Alexander Sumner",
+            "Umbrella ID": "12540962",
+            "VB_NAME": "890534 Ontario Ltd.",
+            "OPERATINGNAME": "Byron Development Corp.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30678",
+            "MEMBERNAME": "1288918 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B22470",
+            "Umbrella": "Alexander Sumner",
+            "Umbrella ID": "12540962",
+            "VB_NAME": "890534 Ontario Ltd.",
+            "OPERATINGNAME": "Byron Development Corp.",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24794",
+            "MEMBERNAME": "Templar Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "BYRON RIVER ESTATES",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1415 Commissioners Road West",
+            "# of Units": 31,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-01-08"
+        }
+    ],
+    "builderConditions": []
+}

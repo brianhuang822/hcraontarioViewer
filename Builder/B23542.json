@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23542",
+            "Umbrella": "D. Rossi Construction",
+            "Umbrella ID": "12539840",
+            "VB_NAME": "D. Rossi Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Brampton",
+            "HCRA_INITIALLICENSEDATE": "1993-11-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-10 17:55:08.000 +0000",
+            "Expiry Date": "2024-11-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "41 Michelangelo Boulevard",
+            "TELEPHONE": "416-579-8048",
+            "FAX": "1-905-794-4034",
+            "WEBSITEURL": " ",
+            "EMAIL": "d_rossi@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "329073",
+            "TO": "David Rossi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-794-1426"
+        },
+        {
+            "TOUNIQUENUMBER": "329073",
+            "TO": "David Rossi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-794-1426"
+        },
+        {
+            "TOUNIQUENUMBER": "329073",
+            "TO": "David Rossi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-794-1426"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23542",
+            "Umbrella": "D. Rossi Construction",
+            "Umbrella ID": "12539840",
+            "VB_NAME": "D. Rossi Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B9093",
+            "MEMBERNAME": "D.Rossi Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23542",
+            "Umbrella": "D. Rossi Construction",
+            "Umbrella ID": "12539840",
+            "VB_NAME": "D. Rossi Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B23542",
+            "MEMBERNAME": "D. Rossi Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,141 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60544",
+            "Umbrella": "Collecdev",
+            "Umbrella ID": "12549943",
+            "VB_NAME": "300 Bloor West JVCNB Inc.",
+            "OPERATINGNAME": "300 Bloor West JVCNB Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-08-17",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-21 15:24:01.000 +0000",
+            "Expiry Date": "2024-08-18",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "365 Bloor Street East",
+            "TELEPHONE": "416-640-6000",
+            "FAX": null,
+            "WEBSITEURL": "http://www.collecdev.com",
+            "EMAIL": "info@collecdev.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100430220",
+            "TO": "Stephen Bloom",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-322-4806"
+        },
+        {
+            "TOUNIQUENUMBER": "100430220",
+            "TO": "Stephen Bloom",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-322-4806"
+        },
+        {
+            "TOUNIQUENUMBER": "600007935",
+            "TO": "David Strom",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-565-1003"
+        },
+        {
+            "TOUNIQUENUMBER": "600007935",
+            "TO": "David Strom",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-565-1003"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60544",
+            "Umbrella": "Collecdev",
+            "Umbrella ID": "12549943",
+            "VB_NAME": "300 Bloor West JVCNB Inc.",
+            "OPERATINGNAME": "300 Bloor West JVCNB Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B46143",
+            "MEMBERNAME": "Collecdev (8868 Yonge) LP by its general partner",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60544",
+            "Umbrella": "Collecdev",
+            "Umbrella ID": "12549943",
+            "VB_NAME": "300 Bloor West JVCNB Inc.",
+            "OPERATINGNAME": "300 Bloor West JVCNB Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47388",
+            "MEMBERNAME": "Collecdev (Tippett) LP by its General Partner Collecdev (Tippett) GP Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60544",
+            "Umbrella": "Collecdev",
+            "Umbrella ID": "12549943",
+            "VB_NAME": "300 Bloor West JVCNB Inc.",
+            "OPERATINGNAME": "300 Bloor West JVCNB Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47920",
+            "MEMBERNAME": "Collecdev (500 Wilson) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60544",
+            "Umbrella": "Collecdev",
+            "Umbrella ID": "12549943",
+            "VB_NAME": "300 Bloor West JVCNB Inc.",
+            "OPERATINGNAME": "300 Bloor West JVCNB Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60544",
+            "MEMBERNAME": "300 Bloor West JVCNB Inc.",
+            "MEMBEROPERATINGNAME": "300 Bloor West JVCNB Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60544",
+            "Umbrella": "Collecdev",
+            "Umbrella ID": "12549943",
+            "VB_NAME": "300 Bloor West JVCNB Inc.",
+            "OPERATINGNAME": "300 Bloor West JVCNB Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61553",
+            "MEMBERNAME": "Collecdev Harlo (38 Broadway) LP by its general partner Collecdev Harlo (38 Broadway) GP Inc.",
+            "MEMBEROPERATINGNAME": "Collecdev Harlo (38 Broadway) LP by its general partner Collecdev Harlo (38 Broadway) GP Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "CIELO",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 436 Huron Street ",
+            "# of Units": 284,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

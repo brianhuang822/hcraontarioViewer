@@ -1,0 +1,138 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40467",
+            "Umbrella": "FCH Building Group",
+            "Umbrella ID": "12550718",
+            "VB_NAME": "Forest City Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "2010-05-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-10-27 13:32:15.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "46 Penrith Crt.",
+            "TELEPHONE": "519-438-1900",
+            "FAX": "519-438-2829",
+            "WEBSITEURL": "www.forestcityhomes.ca",
+            "EMAIL": "denis@forestcityhomes.ca",
+            "ACCOUNTNUMBER": "B40467",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 8,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 8,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 2111.12,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 2111.12
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12407487",
+            "TO": "Denis DiMarcelli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-318-5917"
+        },
+        {
+            "TOUNIQUENUMBER": "12407487",
+            "TO": "Denis DiMarcelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-318-5917"
+        },
+        {
+            "TOUNIQUENUMBER": "12407487",
+            "TO": "Denis DiMarcelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-318-5917"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108203",
+            "CHARGE_AGAINST": "Forest City Homes Ltd",
+            "CHARGE_DATE": "2014-04-08",
+            "DISPOSITION_DATE": "2014-07-29",
+            "THE_FINE_": "0",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "NULL",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Suspended Sentence",
+            "INVESTIGATION_": "9326114",
+            "ORGANIZATION_NAME": "Forest City Homes Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "London, ON",
+            "CITY_DEFENCE": "London, ON",
+            "VB_NUMBER": "B40467",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108203 9326114",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "London, City",
+            "INFORMATION_NUMBER": "999 14 229p",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2012-10-09",
+            "TO_OFFENCE_DATE": "2014-04-08",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "0",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B40467",
+            "Umbrella": "FCH Building Group",
+            "Umbrella ID": "12550718",
+            "VB_NAME": "Forest City Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40467",
+            "MEMBERNAME": "Forest City Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40467",
+            "Umbrella": "FCH Building Group",
+            "Umbrella ID": "12550718",
+            "VB_NAME": "Forest City Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47844",
+            "MEMBERNAME": "Forest City Homes & Building (London) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Birchcrest Condominiums",
+            "Project Status": null,
+            "Location": "KOMOKA",
+            "Address": "41 Earlscourt Terrace",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

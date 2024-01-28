@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32370",
+            "Umbrella": "Harbourview Homes",
+            "Umbrella ID": "12544936",
+            "VB_NAME": "Maram Building Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2002-05-29",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-05-30 12:00:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 56564, 5289 Hwy 7, Unit 7",
+            "TELEPHONE": "905-652-5333",
+            "FAX": "905-663-9033",
+            "WEBSITEURL": "www.marambuilding.com",
+            "EMAIL": "mpicard@marambuilding.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343697",
+            "TO": "Mary Picard",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-532-1550"
+        },
+        {
+            "TOUNIQUENUMBER": "343697",
+            "TO": "Mary Picard",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-532-1550"
+        },
+        {
+            "TOUNIQUENUMBER": "343697",
+            "TO": "Mary Picard",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-532-1550"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32370",
+            "Umbrella": "Harbourview Homes",
+            "Umbrella ID": "12544936",
+            "VB_NAME": "Maram Building Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32370",
+            "MEMBERNAME": "Maram Building Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32370",
+            "Umbrella": "Harbourview Homes",
+            "Umbrella ID": "12544936",
+            "VB_NAME": "Maram Building Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36066",
+            "MEMBERNAME": "2062300 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32370",
+            "Umbrella": "Harbourview Homes",
+            "Umbrella ID": "12544936",
+            "VB_NAME": "Maram Building Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B45161",
+            "MEMBERNAME": "Harbourview Homes Inc. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47552",
+            "Umbrella": "NAHID",
+            "Umbrella ID": "12552263",
+            "VB_NAME": "800 Broadview Ave Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2020-02-28",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-31 22:10:06.000 +0000",
+            "Expiry Date": "2024-02-29",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "31 Scarsdale Road",
+            "TELEPHONE": "647-345-2442",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "hemami@optionsdevelopment.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100545129",
+            "TO": "Hamid Emami",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-345-2442"
+        },
+        {
+            "TOUNIQUENUMBER": "100545129",
+            "TO": "Hamid Emami",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-345-2442"
+        },
+        {
+            "TOUNIQUENUMBER": "100267498",
+            "TO": "Arjang Zandnia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-345-2442"
+        },
+        {
+            "TOUNIQUENUMBER": "100267498",
+            "TO": "Arjang Zandnia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-345-2442"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47552",
+            "Umbrella": "NAHID",
+            "Umbrella ID": "12552263",
+            "VB_NAME": "800 Broadview Ave Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48224",
+            "MEMBERNAME": "Nahid Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47552",
+            "Umbrella": "NAHID",
+            "Umbrella ID": "12552263",
+            "VB_NAME": "800 Broadview Ave Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B61275",
+            "MEMBERNAME": "80 Harbour Inc.",
+            "MEMBEROPERATINGNAME": "80 Harbour Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47552",
+            "Umbrella": "NAHID",
+            "Umbrella ID": "12552263",
+            "VB_NAME": "800 Broadview Ave Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47552",
+            "MEMBERNAME": "800 Broadview Ave Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47552",
+            "Umbrella": "NAHID",
+            "Umbrella ID": "12552263",
+            "VB_NAME": "800 Broadview Ave Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60188",
+            "MEMBERNAME": "615 Kennedy Road Inc.",
+            "MEMBEROPERATINGNAME": "615 Kennedy Road Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "800 Broadview Avenue Inc.",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 800 Broadview Ave. ",
+            "# of Units": 33,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

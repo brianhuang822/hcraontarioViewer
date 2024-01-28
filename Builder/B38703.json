@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38703",
+            "Umbrella": "Delco Homes",
+            "Umbrella ID": "12305934",
+            "VB_NAME": "Glengrove on the Park (Stouffville) Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Richmond Hill",
+            "HCRA_INITIALLICENSEDATE": "2008-07-04",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-27 12:16:19.000 +0000",
+            "Expiry Date": "2024-07-05",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "100 York Boulevard",
+            "TELEPHONE": "905-709-3200",
+            "FAX": "905-709-5800",
+            "WEBSITEURL": "www.glengroveonthepark.com",
+            "EMAIL": "admin@delcoinc.com",
+            "ACCOUNTNUMBER": "B38703",
+            "Total Outstanding Amount": 20257.9,
+            "TAB": 4586.36,
+            "BREACH": 15671.54,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 155,
+            "SUMM_TOTAL": 155,
+            "SUMM_CC": 10,
+            "SUMM_MINOR": 4,
+            "SUMM_MINOR_AMT": 36398.2,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 36398.2
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100582731",
+            "TO": "William Egi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-709-3200"
+        },
+        {
+            "TOUNIQUENUMBER": "100582731",
+            "TO": "William Egi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-709-3200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38703",
+            "Umbrella": "Delco Homes",
+            "Umbrella ID": "12305934",
+            "VB_NAME": "Glengrove on the Park (Stouffville) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38163",
+            "MEMBERNAME": "Delco Homes Inc.",
+            "MEMBEROPERATINGNAME": "Cherrywood Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B38703",
+            "Umbrella": "Delco Homes",
+            "Umbrella ID": "12305934",
+            "VB_NAME": "Glengrove on the Park (Stouffville) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38703",
+            "MEMBERNAME": "Glengrove on the Park (Stouffville) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Glengrove on the Park",
+            "Project Status": "Completed",
+            "Location": "STOUFFVILLE",
+            "Address": " 481 Rupert Ave. ",
+            "# of Units": 59,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-05-27"
+        },
+        {
+            "Condo Project Name": "Glengrove on the Park",
+            "Project Status": "Completed",
+            "Location": "STOUFFVILLE",
+            "Address": " 481 Rupert Avenue ",
+            "# of Units": 96,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-06-04"
+        }
+    ],
+    "builderConditions": []
+}

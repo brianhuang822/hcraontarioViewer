@@ -1,0 +1,119 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34753",
+            "Umbrella": "Lancer",
+            "Umbrella ID": "12540510",
+            "VB_NAME": "Lancer Galt Inc.",
+            "OPERATINGNAME": "Wellington Square Condominiums",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2004-11-05",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2010-07-14 19:21:06.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "95 Thorncliffe Park Drive, Ste 3610",
+            "TELEPHONE": "416-493-9393",
+            "FAX": "416-647-9635",
+            "WEBSITEURL": "www.lancerdevelopments.com/wellington/",
+            "EMAIL": "mail@lancerdevelopments.com",
+            "ACCOUNTNUMBER": "B34753",
+            "Total Outstanding Amount": 11705.18,
+            "TAB": 0,
+            "BREACH": 11705.18,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "327749",
+            "TO": "Irv Rayman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-9393"
+        },
+        {
+            "TOUNIQUENUMBER": "327749",
+            "TO": "Irv Rayman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-9393"
+        },
+        {
+            "TOUNIQUENUMBER": "323439",
+            "TO": "Stan Moneta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-498-4980"
+        },
+        {
+            "TOUNIQUENUMBER": "323439",
+            "TO": "Stan Moneta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-498-4980"
+        },
+        {
+            "TOUNIQUENUMBER": "344152",
+            "TO": "Toby Rayman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-0608"
+        },
+        {
+            "TOUNIQUENUMBER": "344152",
+            "TO": "Toby Rayman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-0608"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34753",
+            "Umbrella": "Lancer",
+            "Umbrella ID": "12540510",
+            "VB_NAME": "Lancer Galt Inc.",
+            "OPERATINGNAME": "Wellington Square Condominiums",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B34753",
+            "MEMBERNAME": "Lancer Galt Inc.",
+            "MEMBEROPERATINGNAME": "Wellington Square Condominiums",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B34753",
+            "Umbrella": "Lancer",
+            "Umbrella ID": "12540510",
+            "VB_NAME": "Lancer Galt Inc.",
+            "OPERATINGNAME": "Wellington Square Condominiums",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B27601",
+            "MEMBERNAME": "Lancer Building (Danby) Corporation",
+            "MEMBEROPERATINGNAME": "Lancer Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "WELLINGTON SQUARE CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": " 8 Harris St. ",
+            "# of Units": 85,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-03-23"
+        }
+    ],
+    "builderConditions": []
+}

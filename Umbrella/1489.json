@@ -1,0 +1,2390 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Greenpark Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 5148,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 33239.26,
+            "ADDRESS": "8700 Dufferin Street",
+            "TELEPHONE": "416-661-5989",
+            "FAX": "905-669-0444",
+            "WEBSITEURL": "www.greenparkhomes.com",
+            "EMAIL": "communications@greenparkhomes.com",
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Inverglen Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8996",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Castlebridge Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21275",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Marinella Development Corp",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36540",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Fellingham Developments Inc.",
+            "MEMBEROPERATINGNAME": "Fellingham",
+            "MEMBERVBNUM": "B20834",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bancos Homes Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B62483",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Fellingham Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16766",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Campagna Forest Home Corp.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B34594",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Foligno Building Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42341",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Fallingwater Estates Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42186",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Parklane Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8012",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Summit Pines Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9001",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Trinigroup Development Inc.",
+            "MEMBEROPERATINGNAME": "Trinigroup Development Inc.",
+            "MEMBERVBNUM": "B61186",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Russell Gardens Building Ltd.",
+            "MEMBEROPERATINGNAME": "Russell Gardens Building Ltd.",
+            "MEMBERVBNUM": "B40885",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Carron Fields Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25166",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eastleigh Downs Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8126",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Excella Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35311",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Starry Acres Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30686",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Astra-Globe Building Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9335",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Derbyfield Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9615",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Nailstone Construction Corp.",
+            "MEMBEROPERATINGNAME": "Nailstone Construction Corp.",
+            "MEMBERVBNUM": "B61966",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Terrabot Construction Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30400",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Storia Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43157",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Minnisale Homes Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47087",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cleaton Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22020",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Balsiro Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32891",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Tamarind Court Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7738",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kenley Estates Inc.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16408",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Liri Stone Group Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27266",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ardoch Mews Inc.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16407",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Green Park Residential Dev.Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B4892",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Branon Gate Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27397",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Two Step Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17045",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Pesca Builder Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46149",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Rainberry Park Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8797",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cobalt Creek Homes Inc.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B34352",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Parkeast Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8262",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Zadorra Estates Corp.",
+            "MEMBEROPERATINGNAME": "Zadorra Estates Corp.",
+            "MEMBERVBNUM": "B61502",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Bridgewater Bay Estates Inc.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B34198",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Monte Bianco Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26785",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Reside Building Group Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43685",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Tynedale Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25578",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Valtellina Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B39226",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Forsythia Meadows Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35304",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Floral Shirt Investment Corp.",
+            "MEMBEROPERATINGNAME": "Floral",
+            "MEMBERVBNUM": "B21871",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ambrose Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26607",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Erin Dancer Holding Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9612",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Hampton Hills Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22953",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sunset Flora Builders Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41107",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Tiburtino Buildup Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46148",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "The Trade Home Corp.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B28579",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Twelve Point Star Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23309",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Virano Homes Inc.",
+            "MEMBEROPERATINGNAME": "Virano Homes Inc.",
+            "MEMBERVBNUM": "B61589",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Branstone Estates Inc.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B33607",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Firestar Glen Estates Inc.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B34566",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Castle Lake Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30375",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Balsiro Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9167",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Highbrook Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8409",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Alimar Grove Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44239",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Swan Valley Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21361",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lampone Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48296",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Denim Woods Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33021",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Admiralty Square Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30399",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Helbryn Holding Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7997",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Coltfield Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24374",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cadef Properties Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32107",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Peppergreen Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8264",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Star Casa Home Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43797",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Multivest Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21089",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Unidenton Holding Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17700",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Marin Heights Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21874",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lyric Lane Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22234",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Aylesbury Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30636",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Castello Heights Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31142",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Saddle Back Lane Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37325",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Perlato Estates Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31562",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sugarloaf Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8710",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Palatine Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23376",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ivypointe Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7800",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Oak Bannister Limited.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8156",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Mansard Gates Estates Inc.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B40610",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Alcorn Gate Home Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37182",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Erin Dancer Properties Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32171",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Narni Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7775",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Chapelwood Manor Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7615",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eurostar Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23917",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Golden Lane Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27748",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Settlers Valley Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42152",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cargreen Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7801",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rougemont Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7708",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lamerton Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7954",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kilbrannan Devleopments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22381",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Atwell Mills Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31649",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Fornax Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44606",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Chartwell Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8319",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Greenoch Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7473",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Vetralla Building Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44679",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ravencliff Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20842",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dalemount Estates Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25877",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Peakmount Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17719",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Carahills Properties Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32841",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Golden Ambra Highrise Inc.",
+            "MEMBEROPERATINGNAME": "Golden Ambra Highrise Inc.",
+            "MEMBERVBNUM": "B62074",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Colony Village Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8780",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Silk Panther Home Corp.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B36483",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kerava Grove Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44931",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "West Markham Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30376",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "East Sky Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31824",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Coral Acres Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8998",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Spictan Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21181",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cardiff Vale Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32363",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Norway Creek Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26235",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Parradime Creek Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30703",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Oriole Gate Investments",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26153",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "B.R.W. Construction Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36680",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Springside Garden Estates Corp.",
+            "MEMBEROPERATINGNAME": "History Hill Group",
+            "MEMBERVBNUM": "B37668",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Belluno Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44400",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Varenna Beach Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40984",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Chromis Construction Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44401",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Millerton Heights Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26217",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Light Brass Creek Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32842",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rossgreen Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7976",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Metropark Realty Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9000",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Marlborough Heights Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28774",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lecco Ridge Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45554",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dunmere Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B7893",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Moorvale Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26152",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Gazebo Creek Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35051",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Applemoor Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8412",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Veneto Pines Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35193",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stargate Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8055",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eaglewing Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21609",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Amalfi Home Building Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40985",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Gardenia Orchard Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36111",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "New Florin Equity Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37770",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Summer Mist Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32921",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Perano Residences Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47015",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Ashdale Green Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23312",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bocaire Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9006",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Long Branch Woods Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33845",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dulcina Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44899",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Winding Willows Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21936",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Baliorti Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28714",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Leera Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19156",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bradwick Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9256",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "East Wynford Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36349",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Novarese Properties Ltd.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B40248",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Leopard Lane Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36881",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Genazzano Highrises Inc.",
+            "MEMBEROPERATINGNAME": "Genazzano Highrises Inc.",
+            "MEMBERVBNUM": "B45639",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Elderbank Estates Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B18100",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Colgera Services Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34725",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Castlebridge Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8872",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rainberry Ridge Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28383",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Little Hamton Holding Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25930",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Parkfield Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B39542",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Treestar Heights Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30398",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ripi Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40696",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sabre Ridge Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23735",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Arden Grove Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22677",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Firstgreen Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47178",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Thunderfly Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B39204",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sirius Custom Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28715",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sierra Verde Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22418",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Princestar Homes Limited.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9304",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bayfield Building Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21172",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sarjon Home Corporation,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8999",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Trengrove Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8829",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Opulent Estates Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36631",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Maplegate Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26407",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sonata Park Homes Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26302",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Summerlin Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25781",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Corebay Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22888",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Clairidge Building Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9257",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Regent Brook Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20925",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bocaire Woods Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27775",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Green Tea Structures Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35373",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Carnavon Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36614",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Atteridge Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8468",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rimini Investment Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43066",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ingal Point Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41958",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eastgreen Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8327",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Elderston Manor Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35301",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Catalpa Hill Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B40168",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lentella Heights Estate Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41891",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kimbourne Ridge Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32824",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Westbrooke Communities Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8711",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Arlington Heights Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30475",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Avery Pointe Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27241",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Avongreen Estates Inc.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17686",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Barlassina Construction Inc.",
+            "MEMBEROPERATINGNAME": "Barlassina Construction Inc.",
+            "MEMBERVBNUM": "B61233",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Coldwater Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26717",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ravenna Gardens Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26678",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dollygarden Investments Ltd.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8272",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Clarendon Ridge Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27524",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sparrow Ridge Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22678",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Trumbower Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21340",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Royalkew Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22198",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cobblefield Developments Inc.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9498",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Moonrise Gate Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23311",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rushlight Investments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8834",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Zakander Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21610",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sandgate Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8352",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bergamo Development Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43067",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lamberts Lane Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43152",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Nichol Gate Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25165",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Whitewood Forest Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8263",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bilina Garden Estates Ltd.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B40179",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Raven Falls Properties Inc.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B34149",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Silk Westerns Corporation",
+            "MEMBEROPERATINGNAME": "Silk Westerns Corporation",
+            "MEMBERVBNUM": "B60958",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Santilla Properties Corp.",
+            "MEMBEROPERATINGNAME": "Santilla Properties Corp.",
+            "MEMBERVBNUM": "B61847",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Morenci Home Builders Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38133",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Tuscaloosa Developers Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21237",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Bayview Creek Custom Classics Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26718",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eldonview Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9370",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Chapelwood Heights Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31026",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Leorador Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25745",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Adrano Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43063",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cisterna Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36827",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Vaquita Creek Home Corp",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45555",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Monlea Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22893",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Home-Oak Investments Inc.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19059",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Century Pine Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8997",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Grand Palace Home Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9130",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cloverdale Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26300",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cherrymount Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9248",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Garden Village Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8751",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Star Globe Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23409",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Museum Lane Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35138",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Edgemere Place Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16163",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Glenalder Heights Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30849",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Fern Valley Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25868",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Hidden Oaks Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22554",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Primeric Building Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9247",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Marlin-Watson Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9500",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Roundel Homes Inc.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B48582",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Venetian Woods Investments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22459",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Greenridge Wood Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8157",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Looking Glass Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23691",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Twelve-Jan Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B19157",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Brasstar Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23527",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Torrice Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40620",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cameri Investment Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44593",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Grayhill Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21244",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Louana Canyon Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23310",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Palm Ridge Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25148",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Carrot Hill Holdings Ltd.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9005",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Earlscourt Woods Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33917",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Cupola Properties Ltd.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9003",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Carrot Hill Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32232",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stargrande Custom Homes Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44711",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Redan Ridge Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33068",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rougevilla Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31240",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Tuscany Glen Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33362",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Treverton Hills Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30773",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Arabella Mist Realty Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40887",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Brydonview Estates Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16553",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Stella Terra Estates Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30434",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Greenpark Renovation Services Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24418",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Floral Shirt Properties Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32382",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Brookstar Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27133",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Astra-Mar Investments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17366",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Gatineau Heights Investment Corp.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B35243",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Fieldport Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20508",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Golden Vista Estates Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21670",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Campanile Estates Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B34167",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Easton Downs Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8013",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Blairwood Valley Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9614",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kingsglen Developments Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B18099",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Granerola Residences Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47619",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Chambertin Ridge Home Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35336",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Astrella Building Group Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36864",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Santorio Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38732",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Greencliffe Manor Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30781",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Home Sport Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B16162",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Shurphil Holding Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17696",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Olivewood Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21144",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Mountfield Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B8535",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dundene Forest Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9004",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ossory Properties Corp.",
+            "MEMBEROPERATINGNAME": "Ossory Properties Corp.",
+            "MEMBERVBNUM": "B61169",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Dundene Forest Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21258",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Magenta Sky Holdings Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37679",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kinmount Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26168",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rondeen Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31609",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Eldercrest Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9613",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kirkrow Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30639",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Twelve Rock Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27286",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Wellsville Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20509",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Heritage Ridge Investments Inc.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B9499",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Foxtail Chase Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23798",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Tufillo Construction Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45137",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sofia Heights Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28787",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Simongate Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17041",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Lotus Glade Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26178",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Rich Meadow Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21669",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Casalina Bay Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24806",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Trinar Hall Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46360",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Petaluma Building Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44424",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Sussex Ridge Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22822",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Dunmere Estates Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32425",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Arpino Ridge Construction Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36047",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Adwell Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B21356",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Fondi Homes Builder Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41192",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Mackenzie Valley Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26847",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Anagni Homes Ltd.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B40609",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Whistling Meadows Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26714",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Chantal Glade Holding Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25116",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Faustine Estates Inc.",
+            "MEMBEROPERATINGNAME": "Greenpark Homes",
+            "MEMBERVBNUM": "B37067",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Secondo Vales Estates Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46495",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 586,
+            "Condo Unit Posessions": 189,
+            "Total Posessions": 775,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 457,
+            "Condo Unit Posessions": 22,
+            "Total Posessions": 479,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 32374.25,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 32374.25,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 384,
+            "Condo Unit Posessions": 195,
+            "Total Posessions": 579,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 246,
+            "Condo Unit Posessions": 216,
+            "Total Posessions": 462,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 309,
+            "Condo Unit Posessions": 83,
+            "Total Posessions": 392,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 405,
+            "Condo Unit Posessions": 508,
+            "Total Posessions": 913,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 381,
+            "Condo Unit Posessions": 93,
+            "Total Posessions": 474,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 227,
+            "Condo Unit Posessions": 288,
+            "Total Posessions": 515,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 100,
+            "Condo Unit Posessions": 66,
+            "Total Posessions": 166,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 254,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 254,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 865.01,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 865.01,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 222,
+            "Condo Unit Posessions": 679,
+            "Total Posessions": 901,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2024",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 13,
+            "Total Posessions": 13,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2985,
+            "SUMM_CONDO": 2163,
+            "SUMM_TOTAL": 5148,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 33239.26,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 33239.26,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "TBD",
+            "Account Number": "B33607",
+            "Project Status": null,
+            "Location": "MARKHAM",
+            "Address": "Warrington Way, Hillwood St, Thoroughbre",
+            "# of Units": 168,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Thompson Towers",
+            "Account Number": "B61169",
+            "Project Status": "In Progress",
+            "Location": "MILTON",
+            "Address": " 950 & 990 Drew Centre ",
+            "# of Units": 559,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "330 Richmond",
+            "Account Number": "B44424",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 324-332 Richmond St., W. ",
+            "# of Units": 340,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-03-10"
+        },
+        {
+            "Condo Project Name": "Axiom",
+            "Account Number": "B42341",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 460 Adelaide St., E. ",
+            "# of Units": 527,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-07-19"
+        },
+        {
+            "Condo Project Name": "Markham Meadows",
+            "Account Number": "B44711",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "4-173 ROY GROVE WAY",
+            "# of Units": 158,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-06-21"
+        },
+        {
+            "Condo Project Name": "The Upper Village",
+            "Account Number": "B40609",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "9506 Hwy 48",
+            "# of Units": 219,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2016-12-15"
+        },
+        {
+            "Condo Project Name": "Allure Condominium",
+            "Account Number": "B41107",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "23 Glebe Road West",
+            "# of Units": 195,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-06-03"
+        },
+        {
+            "Condo Project Name": "The Upper Village",
+            "Account Number": "B40609",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "9500 Markham Road",
+            "# of Units": 215,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2013-12-17"
+        },
+        {
+            "Condo Project Name": "Springside Garden Estates",
+            "Account Number": "B37668",
+            "Project Status": "Completed",
+            "Location": "MAPLE",
+            "Address": "9431/9451/ 9471. Jane Street",
+            "# of Units": 105,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-07-16"
+        },
+        {
+            "Condo Project Name": "The Richmond",
+            "Account Number": "B36864",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "18 Harding Blvd.",
+            "# of Units": 364,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-05-12"
+        },
+        {
+            "Condo Project Name": "The Rosewood",
+            "Account Number": "B36349",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "133/135 Wynford Dr.",
+            "# of Units": 355,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-03-17"
+        },
+        {
+            "Condo Project Name": "Leopard Lane- Capri",
+            "Account Number": "B36881",
+            "Project Status": "Completed",
+            "Location": "VAUGHAN",
+            "Address": "9973 Keele St.",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-03-03"
+        },
+        {
+            "Condo Project Name": "Springside Garden Estates",
+            "Account Number": "B37668",
+            "Project Status": "Completed",
+            "Location": "MAPLE",
+            "Address": " 9441 Jane St ",
+            "# of Units": 29,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2009-02-09"
+        },
+        {
+            "Condo Project Name": "Colgera Services",
+            "Account Number": "B34725",
+            "Project Status": "Completed",
+            "Location": "VAUGHAN",
+            "Address": " 9699 Jane St ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-12-06"
+        },
+        {
+            "Condo Project Name": "GREENPARK HOMES",
+            "Account Number": "B26302",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "7115 Rexwood Rd.",
+            "# of Units": 128,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-11-06"
+        },
+        {
+            "Condo Project Name": "WOODLAND TRAIL LIMITED",
+            "Account Number": "B26300",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "5555 Prince William Dr.",
+            "# of Units": 66,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-08-30"
+        },
+        {
+            "Condo Project Name": "PINEDALE GATE",
+            "Account Number": "B23310",
+            "Project Status": "Completed",
+            "Location": "WOODBRIDGE",
+            "Address": "Pinedale Gate/louana Cres./mara Crt.",
+            "# of Units": 101,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-11-02"
+        },
+        {
+            "Condo Project Name": null,
+            "Account Number": "B4892",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1051 Cedarglen Gate",
+            "# of Units": 61,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1981-10-01"
+        },
+        {
+            "Condo Project Name": "Dun West Condo",
+            "Account Number": "B47015",
+            "Project Status": "In Progress",
+            "Location": "OAKVILLE",
+            "Address": " 509 Dundas St., W. ",
+            "# of Units": 146,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "The Post",
+            "Account Number": "B60958",
+            "Project Status": "In Progress",
+            "Location": "OAKVILLE",
+            "Address": " 412 Silver Maple Road ",
+            "# of Units": 168,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Charisma 2- On The Park",
+            "Account Number": "B47619",
+            "Project Status": "In Progress",
+            "Location": "VAUGHAN",
+            "Address": " 8960 Jane St. ",
+            "# of Units": 566,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "The 5th at Charisma",
+            "Account Number": "B44899",
+            "Project Status": "In Progress",
+            "Location": "VAUGHAN",
+            "Address": " 27 Korda Gate ",
+            "# of Units": 342,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Charisma Condominiums",
+            "Account Number": "B45639",
+            "Project Status": "In Progress",
+            "Location": "VAUGHAN",
+            "Address": " 9000 Jane St. ",
+            "# of Units": 586,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

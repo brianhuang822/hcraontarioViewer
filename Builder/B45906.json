@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45906",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Crescent Haven Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Waterloo",
+            "HCRA_INITIALLICENSEDATE": "2017-05-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-20 12:50:38.000 +0000",
+            "Expiry Date": "2024-05-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "180 Frobisher Drive",
+            "TELEPHONE": "647-523-6487",
+            "FAX": null,
+            "WEBSITEURL": "www.crescenthomes.ca",
+            "EMAIL": "nitin@crescenthomes.ca",
+            "ACCOUNTNUMBER": "B45906",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 43,
+            "SUMM_CONDO": 51,
+            "SUMM_TOTAL": 94,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100417245",
+            "TO": "Nitin Jain",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-523-6487"
+        },
+        {
+            "TOUNIQUENUMBER": "100417245",
+            "TO": "Nitin Jain",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-523-6487"
+        },
+        {
+            "TOUNIQUENUMBER": "100417245",
+            "TO": "Nitin Jain",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-523-6487"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45906",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Crescent Haven Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Doons Crossing",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 235 Chapel Hill Crescent ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-06-06"
+        },
+        {
+            "Condo Project Name": "Doons Crossing",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 235 Chapel Hill Crescent ",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-11-02"
+        }
+    ],
+    "builderConditions": []
+}

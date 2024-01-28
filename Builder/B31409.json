@@ -1,0 +1,126 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31409",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Willow Bridge Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "London",
+            "HCRA_INITIALLICENSEDATE": "2001-06-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-06 12:50:26.000 +0000",
+            "Expiry Date": "2024-06-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3397 Settlement Trail",
+            "TELEPHONE": "519-671-1561",
+            "FAX": "519-680-0283",
+            "WEBSITEURL": " ",
+            "EMAIL": "willowbridgehomes@live.com",
+            "ACCOUNTNUMBER": "B31409",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 186,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 186,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11698934",
+            "TO": "Mohamad F. Abou-Hussein",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-671-1561"
+        },
+        {
+            "TOUNIQUENUMBER": "11698934",
+            "TO": "Mohamad F. Abou-Hussein",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-671-1561"
+        },
+        {
+            "TOUNIQUENUMBER": "11698934",
+            "TO": "Mohamad F. Abou-Hussein",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-671-1561"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108699",
+            "CHARGE_AGAINST": "Willow Bridge Homes Ltd.",
+            "CHARGE_DATE": "2016-05-02",
+            "DISPOSITION_DATE": "2016-09-12",
+            "THE_FINE_": "0",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "0",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Suspended Sentence",
+            "INVESTIGATION_": "9326776",
+            "ORGANIZATION_NAME": "Willow Bridge Homes Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "London, ON",
+            "CITY_DEFENCE": "London, ON",
+            "VB_NUMBER": "B31409",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108699 9326776",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "London, City",
+            "INFORMATION_NUMBER": "2360 999 16 377P 00 001",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2016-03-29",
+            "TO_OFFENCE_DATE": "2016-05-02",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "0",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B31409",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Willow Bridge Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "OLD WONDERLAND ESTATES",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "525 Teeple Terr",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2002-04-30"
+        }
+    ],
+    "builderConditions": []
+}

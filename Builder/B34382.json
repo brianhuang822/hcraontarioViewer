@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34382",
+            "Umbrella": "Tomar Homes",
+            "Umbrella ID": "12001203",
+            "VB_NAME": "Tomar Custom Homes Limited",
+            "OPERATINGNAME": "Tomar Homes",
+            "CITY": "Stittsville",
+            "HCRA_INITIALLICENSEDATE": "2004-04-19",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-07 15:18:23.000 +0000",
+            "Expiry Date": "2024-07-31",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "54 Bert G. Argue Drive",
+            "TELEPHONE": "613-223-5471",
+            "FAX": "1-613-836-4477",
+            "WEBSITEURL": "http://www.tomarcustomhomes.com",
+            "EMAIL": "sales@tomarcustomhomes.com",
+            "ACCOUNTNUMBER": "B34382",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 45,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 45,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "306475",
+            "TO": "Thomas J. Clifford",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-701-3737"
+        },
+        {
+            "TOUNIQUENUMBER": "306475",
+            "TO": "Thomas J. Clifford",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-701-3737"
+        },
+        {
+            "TOUNIQUENUMBER": "306475",
+            "TO": "Thomas J. Clifford",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-701-3737"
+        },
+        {
+            "TOUNIQUENUMBER": "340133",
+            "TO": "Maria Clifford",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-836-6479"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA108165",
+            "CHARGE_AGAINST": "Tomar Custom Homes Limited",
+            "CHARGE_DATE": "2014-04-01",
+            "DISPOSITION_DATE": "2014-09-22",
+            "THE_FINE_": "2500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "625",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9326074",
+            "ORGANIZATION_NAME": "Tomar Custom Homes Limited",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "White Lake, ON",
+            "CITY_DEFENCE": "Stittsville, ON",
+            "VB_NUMBER": "B34382",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA108165 9326074",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "McNab-Braeside, Township                        ",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2013-06-14",
+            "TO_OFFENCE_DATE": "2014-03-31",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "3125",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "NULL",
+            "PROBATION_ORDER": "NULL",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B34382",
+            "Umbrella": "Tomar Homes",
+            "Umbrella ID": "12001203",
+            "VB_NAME": "Tomar Custom Homes Limited",
+            "OPERATINGNAME": "Tomar Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34382",
+            "MEMBERNAME": "Tomar Custom Homes Limited",
+            "MEMBEROPERATINGNAME": "Tomar Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B34382",
+            "Umbrella": "Tomar Homes",
+            "Umbrella ID": "12001203",
+            "VB_NAME": "Tomar Custom Homes Limited",
+            "OPERATINGNAME": "Tomar Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B1427",
+            "MEMBERNAME": "Tomar Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

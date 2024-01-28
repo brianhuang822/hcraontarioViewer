@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B30834",
+            "Umbrella": "Fanto Group",
+            "Umbrella ID": "12520961",
+            "VB_NAME": "Rideau Cliffe Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2000-08-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-11-27 23:35:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O Box 8275, Stn T",
+            "TELEPHONE": null,
+            "FAX": "613-260-8041",
+            "WEBSITEURL": "www.rideaucliffe.com",
+            "EMAIL": "teodoro@rideaucliffe.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12114395",
+            "TO": "Ryan O'Grady",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-523-4170"
+        },
+        {
+            "TOUNIQUENUMBER": "11815989",
+            "TO": "Teodoro Oliviero",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-260-7946"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B30834",
+            "Umbrella": "Fanto Group",
+            "Umbrella ID": "12520961",
+            "VB_NAME": "Rideau Cliffe Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30834",
+            "MEMBERNAME": "Rideau Cliffe Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B30834",
+            "Umbrella": "Fanto Group",
+            "Umbrella ID": "12520961",
+            "VB_NAME": "Rideau Cliffe Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41734",
+            "MEMBERNAME": "Fanto Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

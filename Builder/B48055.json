@@ -1,0 +1,153 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48055",
+            "Umbrella": "Lee Development Group",
+            "Umbrella ID": "11742798",
+            "VB_NAME": "Queen Developments (Two) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2020-02-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-02 21:40:02.000 +0000",
+            "Expiry Date": "2024-02-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "7 Lee Centre Drive",
+            "TELEPHONE": "416-922-5363",
+            "FAX": "416-922-3779",
+            "WEBSITEURL": " ",
+            "EMAIL": "bcheung@stthomasdevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11973815",
+            "TO": "Leonard (Bon Yee) Lee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-289-1338"
+        },
+        {
+            "TOUNIQUENUMBER": "263597",
+            "TO": "Patrick Quigley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-922-2860"
+        },
+        {
+            "TOUNIQUENUMBER": "100613455",
+            "TO": "Loewe Bon Chi Lee",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-922-5363"
+        },
+        {
+            "TOUNIQUENUMBER": "100613455",
+            "TO": "Loewe Bon Chi Lee",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-922-5363"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48055",
+            "Umbrella": "Lee Development Group",
+            "Umbrella ID": "11742798",
+            "VB_NAME": "Queen Developments (Two) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B26393",
+            "MEMBERNAME": "May Tower Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48055",
+            "Umbrella": "Lee Development Group",
+            "Umbrella ID": "11742798",
+            "VB_NAME": "Queen Developments (Two) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B23597",
+            "MEMBERNAME": "Lee Corporate Centre Inc.",
+            "MEMBEROPERATINGNAME": "Lee Development Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48055",
+            "Umbrella": "Lee Development Group",
+            "Umbrella ID": "11742798",
+            "VB_NAME": "Queen Developments (Two) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34050",
+            "MEMBERNAME": "St. Thomas Developments Incorporated",
+            "MEMBEROPERATINGNAME": "One St. Thomas",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48055",
+            "Umbrella": "Lee Development Group",
+            "Umbrella ID": "11742798",
+            "VB_NAME": "Queen Developments (Two) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48055",
+            "MEMBERNAME": "Queen Developments (Two) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48055",
+            "Umbrella": "Lee Development Group",
+            "Umbrella ID": "11742798",
+            "VB_NAME": "Queen Developments (Two) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B45027",
+            "MEMBERNAME": "Queen Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48055",
+            "Umbrella": "Lee Development Group",
+            "Umbrella ID": "11742798",
+            "VB_NAME": "Queen Developments (Two) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31583",
+            "MEMBERNAME": "Convention Plaza Ltd.",
+            "MEMBEROPERATINGNAME": "Ellipse",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "88 Queen",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 88 Queen St., E. ",
+            "# of Units": 575,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

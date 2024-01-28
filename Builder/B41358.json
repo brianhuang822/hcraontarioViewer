@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41358",
+            "Umbrella": "Mulligan Builders",
+            "Umbrella ID": "12540989",
+            "VB_NAME": "Mulligan Builders Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "FLESHERTON",
+            "HCRA_INITIALLICENSEDATE": "2011-08-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-08-04 15:01:34.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "77347 Hwy. 10",
+            "TELEPHONE": "519-923-3531",
+            "FAX": "519-923-9615",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "301378",
+            "TO": "Donald Patrick Mulligan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-923-3531"
+        },
+        {
+            "TOUNIQUENUMBER": "301378",
+            "TO": "Donald Patrick Mulligan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-923-3531"
+        },
+        {
+            "TOUNIQUENUMBER": "301378",
+            "TO": "Donald Patrick Mulligan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-923-3531"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41358",
+            "Umbrella": "Mulligan Builders",
+            "Umbrella ID": "12540989",
+            "VB_NAME": "Mulligan Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43529",
+            "MEMBERNAME": "Mulligan Builders Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B41358",
+            "Umbrella": "Mulligan Builders",
+            "Umbrella ID": "12540989",
+            "VB_NAME": "Mulligan Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22269",
+            "MEMBERNAME": "Don Mulligan",
+            "MEMBEROPERATINGNAME": "Mulligan Builders",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41358",
+            "Umbrella": "Mulligan Builders",
+            "Umbrella ID": "12540989",
+            "VB_NAME": "Mulligan Builders Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41358",
+            "MEMBERNAME": "Mulligan Builders Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

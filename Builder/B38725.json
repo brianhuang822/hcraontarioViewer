@@ -1,0 +1,123 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38725",
+            "Umbrella": "The Downing Street Group",
+            "Umbrella ID": "12315928",
+            "VB_NAME": "Downing Street Homes Inc..",
+            "OPERATINGNAME": "Downing Street Fine Homes",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2008-09-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-09-09 13:00:31.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "37 Advance Rd., Ste. 100",
+            "TELEPHONE": "416-248-6206",
+            "FAX": "416-248-6209",
+            "WEBSITEURL": "www.downingstreet.com",
+            "EMAIL": "dano@downingstreet.com",
+            "ACCOUNTNUMBER": "B38725",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12135169",
+            "TO": "Anthony Paul Alberga",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-248-6206"
+        },
+        {
+            "TOUNIQUENUMBER": "12073215",
+            "TO": "Daniel John Odorico",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-248-6206"
+        },
+        {
+            "TOUNIQUENUMBER": "12073215",
+            "TO": "Daniel John Odorico",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-248-6206"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38725",
+            "Umbrella": "The Downing Street Group",
+            "Umbrella ID": "12315928",
+            "VB_NAME": "Downing Street Homes Inc..",
+            "OPERATINGNAME": "Downing Street Fine Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B46252",
+            "MEMBERNAME": "Downing Street Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B38725",
+            "Umbrella": "The Downing Street Group",
+            "Umbrella ID": "12315928",
+            "VB_NAME": "Downing Street Homes Inc..",
+            "OPERATINGNAME": "Downing Street Fine Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38725",
+            "MEMBERNAME": "Downing Street Homes Inc..",
+            "MEMBEROPERATINGNAME": "Downing Street Fine Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38725",
+            "Umbrella": "The Downing Street Group",
+            "Umbrella ID": "12315928",
+            "VB_NAME": "Downing Street Homes Inc..",
+            "OPERATINGNAME": "Downing Street Fine Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35503",
+            "MEMBERNAME": "Golfvest Communities (Sawmill Creek) Inc.",
+            "MEMBEROPERATINGNAME": "The Residences of Sawmill Creek",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B38725",
+            "Umbrella": "The Downing Street Group",
+            "Umbrella ID": "12315928",
+            "VB_NAME": "Downing Street Homes Inc..",
+            "OPERATINGNAME": "Downing Street Fine Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48027",
+            "MEMBERNAME": "Parliament & Co Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B38725",
+            "Umbrella": "The Downing Street Group",
+            "Umbrella ID": "12315928",
+            "VB_NAME": "Downing Street Homes Inc..",
+            "OPERATINGNAME": "Downing Street Fine Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36368",
+            "MEMBERNAME": "Golfvest Homes Inc.",
+            "MEMBEROPERATINGNAME": "The Residences of Sawmill Creek",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

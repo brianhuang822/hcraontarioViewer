@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48432",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Gattaca Homes Inc.",
+            "OPERATINGNAME": "Gattaca Homes Inc.",
+            "CITY": "Vaughan",
+            "HCRA_INITIALLICENSEDATE": "2021-01-13",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-08 20:08:37.000 +0000",
+            "Expiry Date": "2025-01-14",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3550 Rutherford Road",
+            "TELEPHONE": "416-917-7797",
+            "FAX": null,
+            "WEBSITEURL": "www.gattacahomes.com",
+            "EMAIL": "contact.gattaca@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100290083",
+            "TO": "Frank Gentile",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-218-9898"
+        },
+        {
+            "TOUNIQUENUMBER": "100290083",
+            "TO": "Frank Gentile",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-218-9898"
+        },
+        {
+            "TOUNIQUENUMBER": "100290090",
+            "TO": "Nicholas Veri",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-917-7797"
+        },
+        {
+            "TOUNIQUENUMBER": "100290090",
+            "TO": "Nicholas Veri",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-917-7797"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48432",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Gattaca Homes Inc.",
+            "OPERATINGNAME": "Gattaca Homes Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Nue West",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 240-242 Finch Ave. W. ",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,154 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B25544",
+            "Umbrella": "Beachside Manor",
+            "Umbrella ID": "12515045",
+            "VB_NAME": "Sagio Investments Limited",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1996-06-25",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-06-26 12:00:42.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "125 Norfinch Dr., Ste. 200",
+            "TELEPHONE": "416-514-2722",
+            "FAX": "416/352-7807",
+            "WEBSITEURL": "www.princetonmanor.ca",
+            "EMAIL": "fred.lorusso@greenhillhomes.ca",
+            "ACCOUNTNUMBER": "B25544",
+            "Total Outstanding Amount": 9823.8,
+            "TAB": 0,
+            "BREACH": 9823.8,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 39,
+            "SUMM_TOTAL": 39,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 134700.28,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 134700.28
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "341760",
+            "TO": "Vito Crocitto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-574-5077"
+        },
+        {
+            "TOUNIQUENUMBER": "320180",
+            "TO": "Onofrio (Fred) Lorusso",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-569-1291"
+        },
+        {
+            "TOUNIQUENUMBER": "320180",
+            "TO": "Onofrio (Fred) Lorusso",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-569-1291"
+        },
+        {
+            "TOUNIQUENUMBER": "307321",
+            "TO": "Vince Crocitto",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "307321",
+            "TO": "Vince Crocitto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "341759",
+            "TO": "Paolo Crocitto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-510-1932"
+        },
+        {
+            "TOUNIQUENUMBER": "341761",
+            "TO": "Joe Crocitto",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-4868"
+        },
+        {
+            "TOUNIQUENUMBER": "341761",
+            "TO": "Joe Crocitto",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-4868"
+        },
+        {
+            "TOUNIQUENUMBER": "341761",
+            "TO": "Joe Crocitto",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-339-4868"
+        },
+        {
+            "TOUNIQUENUMBER": "12364183",
+            "TO": "Paul Lorusso",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-663-1455"
+        },
+        {
+            "TOUNIQUENUMBER": "12364183",
+            "TO": "Paul Lorusso",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-663-1455"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B25544",
+            "Umbrella": "Beachside Manor",
+            "Umbrella ID": "12515045",
+            "VB_NAME": "Sagio Investments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25544",
+            "MEMBERNAME": "Sagio Investments Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B25544",
+            "Umbrella": "Beachside Manor",
+            "Umbrella ID": "12515045",
+            "VB_NAME": "Sagio Investments Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41704",
+            "MEMBERNAME": "Green Hill Homes Limited",
+            "MEMBEROPERATINGNAME": "Beachside Manor",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Princeton Manor",
+            "Project Status": "Completed",
+            "Location": "OAKVILLE",
+            "Address": " 70/73 Stewart St./Washington Ave. ",
+            "# of Units": 39,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-04-11"
+        }
+    ],
+    "builderConditions": []
+}

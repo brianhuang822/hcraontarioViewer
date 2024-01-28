@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B30989",
+            "Umbrella": "Tru-Star Homes",
+            "Umbrella ID": "12505956",
+            "VB_NAME": "1309479 Ontario Inc.",
+            "OPERATINGNAME": "Regency North Homes",
+            "CITY": "VAUGHAN",
+            "HCRA_INITIALLICENSEDATE": "2000-10-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-10-14 13:00:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "201 Chrislea Rd.",
+            "TELEPHONE": "416-616-7216",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "srm@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11662209",
+            "TO": "Sergio Molella",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-616-7216"
+        },
+        {
+            "TOUNIQUENUMBER": "12501895",
+            "TO": "Mike Albo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-7100"
+        },
+        {
+            "TOUNIQUENUMBER": "12501895",
+            "TO": "Mike Albo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-264-7100"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B30989",
+            "Umbrella": "Tru-Star Homes",
+            "Umbrella ID": "12505956",
+            "VB_NAME": "1309479 Ontario Inc.",
+            "OPERATINGNAME": "Regency North Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41612",
+            "MEMBERNAME": "Tru-Star Homes Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B30989",
+            "Umbrella": "Tru-Star Homes",
+            "Umbrella ID": "12505956",
+            "VB_NAME": "1309479 Ontario Inc.",
+            "OPERATINGNAME": "Regency North Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30989",
+            "MEMBERNAME": "1309479 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Regency North Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

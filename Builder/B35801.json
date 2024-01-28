@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35801",
+            "Umbrella": "Cordeau Group",
+            "Umbrella ID": "12540517",
+            "VB_NAME": "Cor-Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2005-10-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-10-20 15:00:57.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "4936 Yonge St., Ste. 142",
+            "TELEPHONE": "416-936-7282",
+            "FAX": "905-853-6944",
+            "WEBSITEURL": "www.stillwaterhomes.ca",
+            "EMAIL": "pacordeau@telus.blackberry.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344218",
+            "TO": "Paul Cordeau",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-936-7282"
+        },
+        {
+            "TOUNIQUENUMBER": "344218",
+            "TO": "Paul Cordeau",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-936-7282"
+        },
+        {
+            "TOUNIQUENUMBER": "344218",
+            "TO": "Paul Cordeau",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-936-7282"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35801",
+            "Umbrella": "Cordeau Group",
+            "Umbrella ID": "12540517",
+            "VB_NAME": "Cor-Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27671",
+            "MEMBERNAME": "1291956 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Cordeau Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35801",
+            "Umbrella": "Cordeau Group",
+            "Umbrella ID": "12540517",
+            "VB_NAME": "Cor-Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35801",
+            "MEMBERNAME": "Cor-Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B35801",
+            "Umbrella": "Cordeau Group",
+            "Umbrella ID": "12540517",
+            "VB_NAME": "Cor-Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32817",
+            "MEMBERNAME": "1291956 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Cordeau Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

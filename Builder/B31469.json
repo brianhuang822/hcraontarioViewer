@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31469",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Diamond Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2001-05-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-05-23 12:00:06.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "50 Oasis Private",
+            "TELEPHONE": "613-741-8042",
+            "FAX": "613-741-8625",
+            "WEBSITEURL": "www.diamonddevelopments.com",
+            "EMAIL": "rglover@diamonddevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11701947",
+            "TO": "Richard Glover",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-741-8042"
+        },
+        {
+            "TOUNIQUENUMBER": "11701947",
+            "TO": "Richard Glover",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-741-8042"
+        },
+        {
+            "TOUNIQUENUMBER": "11701947",
+            "TO": "Richard Glover",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-741-8042"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31469",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Diamond Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "SANDPIPER COVE",
+            "Project Status": null,
+            "Location": "CUMBERLAND",
+            "Address": "Parkrose Private",
+            "# of Units": 113,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "PARKWAY WOODS TWO",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "  Cummings Ave. ",
+            "# of Units": 54,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-09-19"
+        }
+    ],
+    "builderConditions": []
+}

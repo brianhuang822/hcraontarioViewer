@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23126",
+            "Umbrella": "ILM",
+            "Umbrella ID": "12539499",
+            "VB_NAME": "Les Investissements Lanthier-Mainville Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "ST. ALBERT",
+            "HCRA_INITIALLICENSEDATE": "1993-06-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2018-09-19 12:01:05.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "932 Chemin du Castor, R.R. 1",
+            "TELEPHONE": "613/292-6815",
+            "FAX": null,
+            "WEBSITEURL": "maisonilm.ca",
+            "EMAIL": "maisonilm@me.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340216",
+            "TO": "Daniel C. Mainville",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-292-6815"
+        },
+        {
+            "TOUNIQUENUMBER": "340216",
+            "TO": "Daniel C. Mainville",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-292-6815"
+        },
+        {
+            "TOUNIQUENUMBER": "340216",
+            "TO": "Daniel C. Mainville",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-292-6815"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23126",
+            "Umbrella": "ILM",
+            "Umbrella ID": "12539499",
+            "VB_NAME": "Les Investissements Lanthier-Mainville Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23126",
+            "MEMBERNAME": "Les Investissements Lanthier-Mainville Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23126",
+            "Umbrella": "ILM",
+            "Umbrella ID": "12539499",
+            "VB_NAME": "Les Investissements Lanthier-Mainville Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43110",
+            "MEMBERNAME": "Maison ILM Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

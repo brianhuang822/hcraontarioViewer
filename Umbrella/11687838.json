@@ -1,0 +1,747 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Liberty Development",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 3545,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "3601 Highway 7 East",
+            "TELEPHONE": "905-731-8687",
+            "FAX": "905-731-6826",
+            "WEBSITEURL": "www.libertydevelopment.ca",
+            "EMAIL": "info@libertydevelopment.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 3545,
+            "SUMM_TOTAL": 3545,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "1456217 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Liberty II",
+            "MEMBERVBNUM": "B31555",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1373142 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "The Galleria Townhouses",
+            "MEMBERVBNUM": "B28682",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1564988 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Thornhill City Centre",
+            "MEMBERVBNUM": "B33485",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1579669 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42293",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1428823 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32227",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1945087 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45596",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1430486 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Liberty Tower",
+            "MEMBERVBNUM": "B31221",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1945086 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45201",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1900403 Ontario Inc. in its capacity as general partner of and on behalf of 5081 Hurontario Phase 1 Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48537",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "1857305 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42225",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2701382 Ontario Inc., in its capacity as general partner of and on behalf of Promenade Park Towers Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47934",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "1579670 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Thornhill City Centre, Building \"C\"",
+            "MEMBERVBNUM": "B33819",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1979352 Ontario Inc. in its capacity as general partner of and on behalf of 2901 Hwy 7 Phase 1 LP",
+            "MEMBEROPERATINGNAME": "1979352 Ontario Inc. in its capacity as general partner of and on behalf of 2901 Hwy 7 Phase 1 LP",
+            "MEMBERVBNUM": "B61864",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "2141806 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40817",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1801569 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40584",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Darcon Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45124",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1666633 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Vista At Thornhill City Centre",
+            "MEMBERVBNUM": "B35964",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2228053 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41171",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1834373 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44482",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1602979 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Noa1 & Noa 2",
+            "MEMBERVBNUM": "B35395",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1602980 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36611",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2121173 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Metropolis at Metro",
+            "MEMBERVBNUM": "B38946",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "5031677 Ontario Inc. in its capacity as general partner of and on behalf of 9781 Markham Road Phase 1 Limited Partnership",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48781",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "1541677 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42977",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1497635 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B32274",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1794392 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B39991",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1801538 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40092",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1900401 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45773",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1988378 Ontario Inc. in its capacity as general partner of and on behalf of 5085 Hurontario LP",
+            "MEMBEROPERATINGNAME": "1988378 Ontario Inc. in its capacity as general partner of and on behalf of 5085 Hurontario LP",
+            "MEMBERVBNUM": "B62011",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "1997936 Ontario Inc. in its capacity as general partner of and on behalf of 91 Eglinton Ph1 LP",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B49028",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "5001353 Ontario Inc.,in its capacity as the sole general partner of and on behalf of Rose Garden City Phase 1 A LP",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47799",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2108001 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Centre Park Condos",
+            "MEMBERVBNUM": "B37488",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1834372 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41367",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1691066 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Metro Place Condos",
+            "MEMBERVBNUM": "B37953",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 569,
+            "Total Posessions": 569,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 3545,
+            "SUMM_TOTAL": 3545,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 1316,
+            "Total Posessions": 1316,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 3545,
+            "SUMM_TOTAL": 3545,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 488,
+            "Total Posessions": 488,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 3545,
+            "SUMM_TOTAL": 3545,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 213,
+            "Total Posessions": 213,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 3545,
+            "SUMM_TOTAL": 3545,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 410,
+            "Total Posessions": 410,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 3545,
+            "SUMM_TOTAL": 3545,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 653,
+            "Total Posessions": 653,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 3545,
+            "SUMM_TOTAL": 3545,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 200,
+            "Total Posessions": 200,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 3545,
+            "SUMM_TOTAL": 3545,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 1,
+            "Total Posessions": 1,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 3545,
+            "SUMM_TOTAL": 3545,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 264,
+            "Total Posessions": 264,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 3545,
+            "SUMM_TOTAL": 3545,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "2901 Hwy 7 Phase 1 LP",
+            "Account Number": "B61864",
+            "Project Status": null,
+            "Location": "VAUGHAN",
+            "Address": " 2871 Highway 7 W., ",
+            "# of Units": 485,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "2901 Hwy 7 Phase 1 LP",
+            "Account Number": "B61864",
+            "Project Status": null,
+            "Location": "VAUGHAN",
+            "Address": " 2871 Highway 7 W. ",
+            "# of Units": 635,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Wishing Well",
+            "Account Number": "B45773",
+            "Project Status": "Completed",
+            "Location": "SCARBOROUGH",
+            "Address": " 3121 Sheppard Ave. E. ",
+            "# of Units": 264,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-07-29"
+        },
+        {
+            "Condo Project Name": "The Village Residences",
+            "Account Number": "B44482",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": " 591 Sheppard Ave. E. ",
+            "# of Units": 201,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-03-10"
+        },
+        {
+            "Condo Project Name": "Centro Square",
+            "Account Number": "B42225",
+            "Project Status": "Completed",
+            "Location": "VAUGHAN",
+            "Address": "3600 Highway 7",
+            "# of Units": 783,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-08-03"
+        },
+        {
+            "Condo Project Name": "Cosmos III",
+            "Account Number": "B45596",
+            "Project Status": "Cancelled",
+            "Location": "VAUGHAN",
+            "Address": " Maplecrete Rd. And Hwy. 7 W.",
+            "# of Units": 367,
+            "# of Terminations": 358,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-04-04"
+        },
+        {
+            "Condo Project Name": "Cosmos Condominiums - Tower B",
+            "Account Number": "B45201",
+            "Project Status": "Cancelled",
+            "Location": "VAUGHAN",
+            "Address": "  Maplecrete Rd. & Hwy. 7 W. ",
+            "# of Units": 400,
+            "# of Terminations": 391,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-04-04"
+        },
+        {
+            "Condo Project Name": "Cosmos Condominiums - Tower A",
+            "Account Number": "B45201",
+            "Project Status": "Cancelled",
+            "Location": "VAUGHAN",
+            "Address": "  Maplecrete Rd. & Hwy. 7 W. ",
+            "# of Units": 398,
+            "# of Terminations": 397,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-04-04"
+        },
+        {
+            "Condo Project Name": "Legacy Park",
+            "Account Number": "B42977",
+            "Project Status": "Completed",
+            "Location": "VAUGHAN",
+            "Address": " 7890 Bathurst St. ",
+            "# of Units": 438,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-02-08"
+        },
+        {
+            "Condo Project Name": "Parkside Towers at World On Yonge",
+            "Account Number": "B41367",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "7165 &7167 Yonge St.",
+            "# of Units": 522,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-09-17"
+        },
+        {
+            "Condo Project Name": "World on Yonge",
+            "Account Number": "B39991",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "7161 Yonge St.",
+            "# of Units": 712,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-11-03"
+        },
+        {
+            "Condo Project Name": "Terrace on Danforth",
+            "Account Number": "B41171",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "3520 Danforth Ave.",
+            "# of Units": 95,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-05-21"
+        },
+        {
+            "Condo Project Name": "Royal Gardens Condos - Building A & B",
+            "Account Number": "B40584",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "Highway 7 E.",
+            "# of Units": 440,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-05-06"
+        },
+        {
+            "Condo Project Name": "The Fountains",
+            "Account Number": "B40817",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "75/85/95 North Park Rd.",
+            "# of Units": 497,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-04-16"
+        },
+        {
+            "Condo Project Name": "Royal Gardens Condos - Building C",
+            "Account Number": "B40092",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": "370 Hwy 7 E.",
+            "# of Units": 209,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-01-07"
+        },
+        {
+            "Condo Project Name": "Metropolis at Metro, Phase I",
+            "Account Number": "B38946",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1060 Sheppard Ave. W./ 1 Deboers Dr.",
+            "# of Units": 529,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-04-18"
+        },
+        {
+            "Condo Project Name": "Metro Place - M1 & M2",
+            "Account Number": "B37953",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "55 Deboers Dr. /1070 Sheppard Ave.",
+            "# of Units": 469,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-11-30"
+        },
+        {
+            "Condo Project Name": "Centre Park Condos",
+            "Account Number": "B37488",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "20 North Park Rd.",
+            "# of Units": 260,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-06-09"
+        },
+        {
+            "Condo Project Name": "Centre Park Condos",
+            "Account Number": "B37488",
+            "Project Status": "Completed",
+            "Location": "VAUGHAN",
+            "Address": "30 North Park Rd.",
+            "# of Units": 272,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-06-09"
+        },
+        {
+            "Condo Project Name": "Noa and Noa 3",
+            "Account Number": "B36611",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "30 & 32 Clegg Rd.",
+            "# of Units": 286,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-11-28"
+        },
+        {
+            "Condo Project Name": "EKO COURTYARD COMMUNITY",
+            "Account Number": "B35395",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "55 & 75 South Town Centre Blvd.",
+            "# of Units": 313,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-09-16"
+        },
+        {
+            "Condo Project Name": "Vista At Thornhill City Centre",
+            "Account Number": "B35964",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": " 7 North Park Rd. ",
+            "# of Units": 231,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-03-07"
+        },
+        {
+            "Condo Project Name": "HIGHPOINT AT THORNHILL CITY CENTRE",
+            "Account Number": "B33819",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": " 15 North Park Rd. ",
+            "# of Units": 259,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-11-01"
+        },
+        {
+            "Condo Project Name": "THORNHILL CITY CENTRE",
+            "Account Number": "B33485",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "50/60 Disera Dr",
+            "# of Units": 354,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-02-10"
+        },
+        {
+            "Condo Project Name": "THE GALLERIA TOWNHOMES",
+            "Account Number": "B28682",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "Leitchcroft Cres./South Park Rd.",
+            "# of Units": 45,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-03-13"
+        },
+        {
+            "Condo Project Name": "5081 Hurontario St.",
+            "Account Number": "B48537",
+            "Project Status": "In Progress",
+            "Location": "MISSISSAUGA",
+            "Address": " 5105 Hurontario St. ",
+            "# of Units": 497,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "Promenade Park Towers",
+            "Account Number": "B47934",
+            "Project Status": "In Progress",
+            "Location": "VAUGHAN",
+            "Address": " 1 Promenade Cir. ",
+            "# of Units": 755,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "9781 Markham Road",
+            "Account Number": "B48781",
+            "Project Status": "In Progress",
+            "Location": "MARKHAM",
+            "Address": " 9781 Markham Rd. ",
+            "# of Units": 543,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

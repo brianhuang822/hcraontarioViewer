@@ -1,0 +1,80 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33193",
+            "Umbrella": "Dwyers Homes",
+            "Umbrella ID": "12275620",
+            "VB_NAME": "Elmer George Dwyer & Michael George Dwyer",
+            "OPERATINGNAME": "Dwyer's",
+            "CITY": "STRATHROY",
+            "HCRA_INITIALLICENSEDATE": "2003-03-31",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-04-01 13:31:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "c/o 1706000 Ontario Inc.",
+            "TELEPHONE": "519-245-8573",
+            "FAX": "519-245-8573",
+            "WEBSITEURL": null,
+            "EMAIL": "dwyerhome@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11883285",
+            "TO": "Michael Dwyer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-245-8573"
+        },
+        {
+            "TOUNIQUENUMBER": "11883284",
+            "TO": "Elmer Dwyer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-245-8573"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33193",
+            "Umbrella": "Dwyers Homes",
+            "Umbrella ID": "12275620",
+            "VB_NAME": "Elmer George Dwyer & Michael George Dwyer",
+            "OPERATINGNAME": "Dwyer's",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33193",
+            "MEMBERNAME": "Elmer George Dwyer & Michael George Dwyer",
+            "MEMBEROPERATINGNAME": "Dwyer's",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33193",
+            "Umbrella": "Dwyers Homes",
+            "Umbrella ID": "12275620",
+            "VB_NAME": "Elmer George Dwyer & Michael George Dwyer",
+            "OPERATINGNAME": "Dwyer's",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37626",
+            "MEMBERNAME": "1706000 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Dwyer Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

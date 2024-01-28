@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48268",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "8188 Yonge Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2020-09-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-26 17:22:01.000 +0000",
+            "Expiry Date": "2024-09-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "128 Hazelton Avenue",
+            "TELEPHONE": "416-543-9327",
+            "FAX": null,
+            "WEBSITEURL": "https://www.constantineinc.com",
+            "EMAIL": "chris.donlan@constantineinc.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100626116",
+            "TO": "Christopher Donlan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-543-9327"
+        },
+        {
+            "TOUNIQUENUMBER": "100634660",
+            "TO": "Duc-Vi David Chau",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-602-2062"
+        },
+        {
+            "TOUNIQUENUMBER": "100315605",
+            "TO": "Robert Hiscox",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-266-0000"
+        },
+        {
+            "TOUNIQUENUMBER": "100315605",
+            "TO": "Robert Hiscox",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-266-0000"
+        },
+        {
+            "TOUNIQUENUMBER": "100634659",
+            "TO": "Freddy Mak",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-801-8024"
+        },
+        {
+            "TOUNIQUENUMBER": "100634659",
+            "TO": "Freddy Mak",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-801-8024"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48268",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "8188 Yonge Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "8188 Yonge",
+            "Project Status": "In Progress",
+            "Location": "VAUGHAN",
+            "Address": " 8188 Yonge St. ",
+            "# of Units": 282,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

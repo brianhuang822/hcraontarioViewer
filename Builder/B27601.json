@@ -1,0 +1,147 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27601",
+            "Umbrella": "Lancer",
+            "Umbrella ID": "12540510",
+            "VB_NAME": "Lancer Building (Danby) Corporation",
+            "OPERATINGNAME": "Lancer Group",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1999-04-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-07-10 01:04:53.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "95 Thorncliffe Park Drive, Ste 3610",
+            "TELEPHONE": "(416)493-0608",
+            "FAX": "(416)493-5687",
+            "WEBSITEURL": "www.parkplacetoronto.com",
+            "EMAIL": "mail@lancercorp.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "323439",
+            "TO": "Stan Moneta",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-498-4980"
+        },
+        {
+            "TOUNIQUENUMBER": "323439",
+            "TO": "Stan Moneta",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-498-4980"
+        },
+        {
+            "TOUNIQUENUMBER": "323439",
+            "TO": "Stan Moneta",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-498-4980"
+        },
+        {
+            "TOUNIQUENUMBER": "344152",
+            "TO": "Toby Rayman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-0608"
+        },
+        {
+            "TOUNIQUENUMBER": "344152",
+            "TO": "Toby Rayman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-0608"
+        },
+        {
+            "TOUNIQUENUMBER": "344152",
+            "TO": "Toby Rayman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-493-0608"
+        },
+        {
+            "TOUNIQUENUMBER": "12006371",
+            "TO": "Rayman Dewar Stone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12006371",
+            "TO": "Rayman Dewar Stone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11753263",
+            "TO": "Len Robinson",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-681-7500"
+        },
+        {
+            "TOUNIQUENUMBER": "11753263",
+            "TO": "Len Robinson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "604-681-7500"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27601",
+            "Umbrella": "Lancer",
+            "Umbrella ID": "12540510",
+            "VB_NAME": "Lancer Building (Danby) Corporation",
+            "OPERATINGNAME": "Lancer Group",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34753",
+            "MEMBERNAME": "Lancer Galt Inc.",
+            "MEMBEROPERATINGNAME": "Wellington Square Condominiums",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B27601",
+            "Umbrella": "Lancer",
+            "Umbrella ID": "12540510",
+            "VB_NAME": "Lancer Building (Danby) Corporation",
+            "OPERATINGNAME": "Lancer Group",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27601",
+            "MEMBERNAME": "Lancer Building (Danby) Corporation",
+            "MEMBEROPERATINGNAME": "Lancer Group",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "PARK PLACE",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "4200 Bathurst St",
+            "# of Units": 92,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-10-07"
+        }
+    ],
+    "builderConditions": []
+}

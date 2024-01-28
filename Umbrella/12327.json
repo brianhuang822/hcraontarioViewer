@@ -1,0 +1,65 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Taro Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "235 Martindale Road",
+            "TELEPHONE": "(905)688-4555",
+            "FAX": "(905)684-7801",
+            "WEBSITEURL": null,
+            "EMAIL": "canopy@idirect.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "1340303 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Maracay Taro Homes",
+            "MEMBERVBNUM": "B28650",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Victoria Shores Developments Inc.",
+            "MEMBEROPERATINGNAME": "Victoria Shores",
+            "MEMBERVBNUM": "B28654",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Ladson Properties Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22130",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "VICTORY WALK CONDOMINIUMS",
+            "Account Number": "B28650",
+            "Project Status": "Completed",
+            "Location": "ST. CATHARINES",
+            "Address": "  Sculler's Way ",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2003-12-19"
+        }
+    ]
+}

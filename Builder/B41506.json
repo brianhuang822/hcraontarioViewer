@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41506",
+            "Umbrella": "Isola Construction",
+            "Umbrella ID": "12494493",
+            "VB_NAME": "Isola Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "BRAMPTON",
+            "HCRA_INITIALLICENSEDATE": "2011-08-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-08-11 04:15:19.000 +0000",
+            "Expiry Date": "2022-08-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "16 Stanley Carberry Dr.",
+            "TELEPHONE": "905/794-1948",
+            "FAX": "905/794-3021",
+            "WEBSITEURL": " ",
+            "EMAIL": "isolagc@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "308742",
+            "TO": "Stefano (Steven) Dicarlo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-794-1948"
+        },
+        {
+            "TOUNIQUENUMBER": "308742",
+            "TO": "Stefano (Steven) Dicarlo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-794-1948"
+        },
+        {
+            "TOUNIQUENUMBER": "308742",
+            "TO": "Stefano (Steven) Dicarlo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-794-1948"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41506",
+            "Umbrella": "Isola Construction",
+            "Umbrella ID": "12494493",
+            "VB_NAME": "Isola Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41506",
+            "MEMBERNAME": "Isola Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41506",
+            "Umbrella": "Isola Construction",
+            "Umbrella ID": "12494493",
+            "VB_NAME": "Isola Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B5427",
+            "MEMBERNAME": "Isola General Contractor Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

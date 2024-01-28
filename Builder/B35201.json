@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35201",
+            "Umbrella": "Les Habitations Leclair",
+            "Umbrella ID": "12539485",
+            "VB_NAME": "Les Habitations Leclair Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Embrun",
+            "HCRA_INITIALLICENSEDATE": "2005-03-10",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-22 21:45:37.000 +0000",
+            "Expiry Date": "2025-03-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 248",
+            "TELEPHONE": "613-794-1066",
+            "FAX": "613-443-5214",
+            "WEBSITEURL": "www.leclairhomes.ca",
+            "EMAIL": "leshabitationsleclair@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 194,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 194,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12048529",
+            "TO": "Christian Leclair",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-794-1066"
+        },
+        {
+            "TOUNIQUENUMBER": "12048529",
+            "TO": "Christian Leclair",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-794-1066"
+        },
+        {
+            "TOUNIQUENUMBER": "12048529",
+            "TO": "Christian Leclair",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-794-1066"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35201",
+            "Umbrella": "Les Habitations Leclair",
+            "Umbrella ID": "12539485",
+            "VB_NAME": "Les Habitations Leclair Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35201",
+            "MEMBERNAME": "Les Habitations Leclair Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B35201",
+            "Umbrella": "Les Habitations Leclair",
+            "Umbrella ID": "12539485",
+            "VB_NAME": "Les Habitations Leclair Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41201",
+            "MEMBERNAME": "JLXMD Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

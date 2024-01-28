@@ -1,0 +1,70 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Orangetown Court Developments",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "93 Valleyway Cr",
+            "TELEPHONE": "(416)258-8331",
+            "FAX": "(905)832-9694",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Orangetown Court Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B26448",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Broadway Downtown Properties Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28039",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "THE TOWN CENTRE CONDOMINIUMS",
+            "Account Number": "B28039",
+            "Project Status": "Completed",
+            "Location": "ORANGEVILLE",
+            "Address": "200 Broadway",
+            "# of Units": 46,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-08-29"
+        },
+        {
+            "Condo Project Name": "ORANGETOWN CRT DEV LTD",
+            "Account Number": "B26448",
+            "Project Status": "Completed",
+            "Location": "ORANGEVILLE",
+            "Address": "5 Spring St.",
+            "# of Units": 31,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1998-09-29"
+        }
+    ]
+}

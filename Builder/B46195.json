@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B46195",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "280 Herzberg Development Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "Ottawa",
+            "HCRA_INITIALLICENSEDATE": "2017-11-01",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-11 16:17:35.000 +0000",
+            "Expiry Date": "2024-11-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "120 Iber Road, Unit 106",
+            "TELEPHONE": "613-836-3070",
+            "FAX": null,
+            "WEBSITEURL": "www.serenitydevelopments.ca",
+            "EMAIL": "vincent.lo@serenitydevelopments.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 31,
+            "SUMM_TOTAL": 31,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100433555",
+            "TO": "Vincent Lo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-836-3070"
+        },
+        {
+            "TOUNIQUENUMBER": "100433555",
+            "TO": "Vincent Lo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-836-3070"
+        },
+        {
+            "TOUNIQUENUMBER": "100433555",
+            "TO": "Vincent Lo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-836-3070"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B46195",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "280 Herzberg Development Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Serenity in Kanata North",
+            "Project Status": "Completed",
+            "Location": "KANATA",
+            "Address": " 280 Herzberg Rd. ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-03-31"
+        }
+    ],
+    "builderConditions": []
+}

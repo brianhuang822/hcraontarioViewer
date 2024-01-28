@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B16404",
+            "Umbrella": "Somerset Homes",
+            "Umbrella ID": "12540441",
+            "VB_NAME": "Somerset Lorne Park Inc.",
+            "OPERATINGNAME": "Somerset Homes",
+            "CITY": "North York",
+            "HCRA_INITIALLICENSEDATE": "1988-09-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-01 14:41:49.000 +0000",
+            "Expiry Date": "2024-09-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "478 Champagne Drive",
+            "TELEPHONE": "416-638-8663",
+            "FAX": "416-638-8848",
+            "WEBSITEURL": " ",
+            "EMAIL": "fred@somersetgroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "314048",
+            "TO": "Fred Guth",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-8663"
+        },
+        {
+            "TOUNIQUENUMBER": "314048",
+            "TO": "Fred Guth",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-8663"
+        },
+        {
+            "TOUNIQUENUMBER": "314048",
+            "TO": "Fred Guth",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-638-8663"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B16404",
+            "Umbrella": "Somerset Homes",
+            "Umbrella ID": "12540441",
+            "VB_NAME": "Somerset Lorne Park Inc.",
+            "OPERATINGNAME": "Somerset Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B8090",
+            "MEMBERNAME": "Somerset Turtle Creek Developments Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B16404",
+            "Umbrella": "Somerset Homes",
+            "Umbrella ID": "12540441",
+            "VB_NAME": "Somerset Lorne Park Inc.",
+            "OPERATINGNAME": "Somerset Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B16404",
+            "MEMBERNAME": "Somerset Lorne Park Inc.",
+            "MEMBEROPERATINGNAME": "Somerset Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B16404",
+            "Umbrella": "Somerset Homes",
+            "Umbrella ID": "12540441",
+            "VB_NAME": "Somerset Lorne Park Inc.",
+            "OPERATINGNAME": "Somerset Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B9092",
+            "MEMBERNAME": "657197 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Somerset Scarboro",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26720",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Greenleaf Investments Corp.",
+            "OPERATINGNAME": "Greenleaf Homes",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "1997-09-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-17 17:24:44.000 +0000",
+            "Expiry Date": "2024-09-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "83 Hillmount Avenue",
+            "TELEPHONE": "416-789-9101",
+            "FAX": "416-789-9103",
+            "WEBSITEURL": " ",
+            "EMAIL": "seanthomashomes@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "343189",
+            "TO": "Stanley Cash",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-787-8001"
+        },
+        {
+            "TOUNIQUENUMBER": "343189",
+            "TO": "Stanley Cash",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-787-8001"
+        },
+        {
+            "TOUNIQUENUMBER": "343189",
+            "TO": "Stanley Cash",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-787-8001"
+        },
+        {
+            "TOUNIQUENUMBER": "330204",
+            "TO": "Thomas (Tom) Schonberger",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-991-5950"
+        },
+        {
+            "TOUNIQUENUMBER": "330204",
+            "TO": "Thomas (Tom) Schonberger",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-991-5950"
+        },
+        {
+            "TOUNIQUENUMBER": "330204",
+            "TO": "Thomas (Tom) Schonberger",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-991-5950"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26720",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Greenleaf Investments Corp.",
+            "OPERATINGNAME": "Greenleaf Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Baldwin & McCaul",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "Baldwin and McCaul Streets",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,180 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34755",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Habitat for Humanity of Northumberland",
+            "OPERATINGNAME": "Habitat for Humanity Northumberland",
+            "CITY": "Cobourg",
+            "HCRA_INITIALLICENSEDATE": "2004-07-16",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-23 12:15:17.000 +0000",
+            "Expiry Date": "2023-07-17",
+            "RENL_IN_PROCESS_FLAG": "Y",
+            "ADDRESS": "764 Division Street",
+            "TELEPHONE": "289-252-0999",
+            "FAX": "289-252-2211",
+            "WEBSITEURL": "www.habitatnorthumberland.ca",
+            "EMAIL": "info@habitatnorthumberland.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 10,
+            "SUMM_CONDO": 2,
+            "SUMM_TOTAL": 12,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600008758",
+            "TO": "Taryn Rennicks",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008751",
+            "TO": "David Lester",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008751",
+            "TO": "David Lester",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008759",
+            "TO": "Melanie Tomaz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008760",
+            "TO": "Melanie Hill",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008754",
+            "TO": "Meaghan Adams",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008754",
+            "TO": "Meaghan Adams",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008752",
+            "TO": "Thomas Flynn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008752",
+            "TO": "Thomas Flynn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008755",
+            "TO": "Rob Franklin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008753",
+            "TO": "Darryl Goodall",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008753",
+            "TO": "Darryl Goodall",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "600008757",
+            "TO": "John Coutts",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "12084301",
+            "TO": "Doug Smith",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-477-7718"
+        },
+        {
+            "TOUNIQUENUMBER": "12487807",
+            "TO": "Meaghan MacDonald",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-252-0999"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34755",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Habitat for Humanity of Northumberland",
+            "OPERATINGNAME": "Habitat for Humanity Northumberland",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "22 University Ave.",
+            "Project Status": "Completed",
+            "Location": "COBOURG",
+            "Address": " 22 University Ave. ",
+            "# of Units": 2,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2021-12-06"
+        },
+        {
+            "Condo Project Name": "Baltimore Project",
+            "Project Status": "In Progress",
+            "Location": "BALTIMORE",
+            "Address": " 4751 Highway 45 ",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

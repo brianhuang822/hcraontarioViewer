@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40867",
+            "Umbrella": "Falcon Enterprise Construction",
+            "Umbrella ID": "12541312",
+            "VB_NAME": "Falcon Enterprise Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LIMOGES",
+            "HCRA_INITIALLICENSEDATE": "2010-11-04",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-11-05 16:00:25.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "150 L'Erabliere P.O. Box 180",
+            "TELEPHONE": "613-443-9650",
+            "FAX": "613-443-9651",
+            "WEBSITEURL": "www.falconenterprise.ca",
+            "EMAIL": "info@falconenterprise.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12287490",
+            "TO": "Gerald Constantineau",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-889-1716"
+        },
+        {
+            "TOUNIQUENUMBER": "12287490",
+            "TO": "Gerald Constantineau",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-889-1716"
+        },
+        {
+            "TOUNIQUENUMBER": "12287490",
+            "TO": "Gerald Constantineau",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-889-1716"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40867",
+            "Umbrella": "Falcon Enterprise Construction",
+            "Umbrella ID": "12541312",
+            "VB_NAME": "Falcon Enterprise Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38808",
+            "MEMBERNAME": "Falcon Enterprise Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40867",
+            "Umbrella": "Falcon Enterprise Construction",
+            "Umbrella ID": "12541312",
+            "VB_NAME": "Falcon Enterprise Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40867",
+            "MEMBERNAME": "Falcon Enterprise Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

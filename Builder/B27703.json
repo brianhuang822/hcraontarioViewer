@@ -1,0 +1,123 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27703",
+            "Umbrella": "Riva",
+            "Umbrella ID": "12539891",
+            "VB_NAME": "Riva's Emporium Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1998-09-22",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-09-23 12:34:23.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "367 Joicey Blvd.",
+            "TELEPHONE": "(416)708-7300",
+            "FAX": "(416)489-1729",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "332667",
+            "TO": "Arie Kenigsvain",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-225-3985"
+        },
+        {
+            "TOUNIQUENUMBER": "332667",
+            "TO": "Arie Kenigsvain",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-225-3985"
+        },
+        {
+            "TOUNIQUENUMBER": "332667",
+            "TO": "Arie Kenigsvain",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-225-3985"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27703",
+            "Umbrella": "Riva",
+            "Umbrella ID": "12539891",
+            "VB_NAME": "Riva's Emporium Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B31806",
+            "MEMBERNAME": "Riva's Emporium Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27703",
+            "Umbrella": "Riva",
+            "Umbrella ID": "12539891",
+            "VB_NAME": "Riva's Emporium Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27703",
+            "MEMBERNAME": "Riva's Emporium Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27703",
+            "Umbrella": "Riva",
+            "Umbrella ID": "12539891",
+            "VB_NAME": "Riva's Emporium Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35500",
+            "MEMBERNAME": "Riva's Emporium Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B27703",
+            "Umbrella": "Riva",
+            "Umbrella ID": "12539891",
+            "VB_NAME": "Riva's Emporium Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33812",
+            "MEMBERNAME": "Riva's Emporium Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B27703",
+            "Umbrella": "Riva",
+            "Umbrella ID": "12539891",
+            "VB_NAME": "Riva's Emporium Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B24037",
+            "MEMBERNAME": "Riva Emporium Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

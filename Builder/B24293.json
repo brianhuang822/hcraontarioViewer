@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B24293",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Rybarco Inc.",
+            "OPERATINGNAME": "New Horizon Homes",
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "1994-09-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-09-09 13:31:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "69 John St. S., Ste. 304",
+            "TELEPHONE": "(905)777-0000",
+            "FAX": "(905)777-1300",
+            "WEBSITEURL": "www.newhorizonhome.com",
+            "EMAIL": "info@newhorizonhome.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "325400",
+            "TO": "Jeffrey Paikin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-777-0000"
+        },
+        {
+            "TOUNIQUENUMBER": "325400",
+            "TO": "Jeffrey Paikin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-777-0000"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B24293",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Rybarco Inc.",
+            "OPERATINGNAME": "New Horizon Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "CREW LANDING",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "2141 Caroline St",
+            "# of Units": 14,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-06-24"
+        },
+        {
+            "Condo Project Name": "RAVINES OF HEADON FOREST",
+            "Project Status": "Completed",
+            "Location": "BURLINGTON",
+            "Address": "2110 Headon Rd.",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-09-17"
+        }
+    ],
+    "builderConditions": []
+}

@@ -1,0 +1,59 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Capital North Communities",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "357 Edgeley Boulevard",
+            "TELEPHONE": "416-271-4642",
+            "FAX": null,
+            "WEBSITEURL": "https://www.cncommunities.com",
+            "EMAIL": "mike@capitalbuild.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "CB 11 South Woodbridge Corp.",
+            "MEMBEROPERATINGNAME": "CB 11 South Woodbridge Corp.",
+            "MEMBERVBNUM": "B60530",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2735447 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B48624",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Rose Hill",
+            "Account Number": "B48624",
+            "Project Status": "In Progress",
+            "Location": "VAUGHAN",
+            "Address": " 177-197 Woodbridge Ave. ",
+            "# of Units": 83,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ]
+}

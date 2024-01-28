@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B14478",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Rijnen Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Dorchester",
+            "HCRA_INITIALLICENSEDATE": "1977-06-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-06-17 04:15:13.000 +0000",
+            "Expiry Date": "2022-06-17",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "92 Fox Hollow Drive",
+            "TELEPHONE": "519-808-9324",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "chrisrijnen@yahoo.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "328299",
+            "TO": "Chris F. Rijnen",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-808-9324"
+        },
+        {
+            "TOUNIQUENUMBER": "328299",
+            "TO": "Chris F. Rijnen",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-808-9324"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B14478",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Rijnen Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "THE NEIGHBOURHOOD",
+            "Project Status": "Completed",
+            "Location": "DORCHESTER",
+            "Address": "Foxhollow/Hamilton",
+            "# of Units": 9,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-04-19"
+        },
+        {
+            "Condo Project Name": "THE NEIGHBOURHOOD",
+            "Project Status": "Completed",
+            "Location": "DORCHESTER",
+            "Address": "5 Foxhollow Dr Ss 3",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-10-22"
+        }
+    ],
+    "builderConditions": []
+}

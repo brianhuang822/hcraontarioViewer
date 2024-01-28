@@ -1,0 +1,81 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "AvranceCorp Developments",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "4205 Keele Street",
+            "TELEPHONE": "647-700-6934",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "info@avrancecorp.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "1000232096 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "1000232096 Ontario Inc.",
+            "MEMBERVBNUM": "B61485",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Westfield Investment Group Inc.",
+            "MEMBEROPERATINGNAME": "Avrancecorp Developments",
+            "MEMBERVBNUM": "B60168",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Wasaga Lux Condos",
+            "Account Number": "B61485",
+            "Project Status": "In Progress",
+            "Location": "WASAGA BEACH",
+            "Address": "  Sunnidale & Knox ",
+            "# of Units": 183,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Springbank Lux",
+            "Account Number": "B60168",
+            "Project Status": "In Progress",
+            "Location": "LONDON",
+            "Address": " 464 Springbank Drive ",
+            "# of Units": 186,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Georgian Bay Terrace",
+            "Account Number": "B60168",
+            "Project Status": "In Progress",
+            "Location": "MEAFORD",
+            "Address": " 1 Legion Rd. ",
+            "# of Units": 122,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ]
+}

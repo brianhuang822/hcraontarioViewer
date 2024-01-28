@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33920",
+            "Umbrella": "Eastlake Homes",
+            "Umbrella ID": "11990415",
+            "VB_NAME": "Eastlake Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Ancaster",
+            "HCRA_INITIALLICENSEDATE": "2004-02-06",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-22 18:51:49.000 +0000",
+            "Expiry Date": "2025-02-07",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "50 Thornwood Drive",
+            "TELEPHONE": "905-638-1370",
+            "FAX": null,
+            "WEBSITEURL": "www.eastlakehomes.ca",
+            "EMAIL": "eastlakehomesinc@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "311092",
+            "TO": "John Filice",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-638-1370"
+        },
+        {
+            "TOUNIQUENUMBER": "311092",
+            "TO": "John Filice",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-638-1370"
+        },
+        {
+            "TOUNIQUENUMBER": "311092",
+            "TO": "John Filice",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-638-1370"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33920",
+            "Umbrella": "Eastlake Homes",
+            "Umbrella ID": "11990415",
+            "VB_NAME": "Eastlake Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33920",
+            "MEMBERNAME": "Eastlake Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B33920",
+            "Umbrella": "Eastlake Homes",
+            "Umbrella ID": "11990415",
+            "VB_NAME": "Eastlake Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B11058",
+            "MEMBERNAME": "Jep Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33920",
+            "Umbrella": "Eastlake Homes",
+            "Umbrella ID": "11990415",
+            "VB_NAME": "Eastlake Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B25576",
+            "MEMBERNAME": "Jep Limited",
+            "MEMBEROPERATINGNAME": "Eastlake Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

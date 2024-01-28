@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36014",
+            "Umbrella": "Manchester Development",
+            "Umbrella ID": "12541231",
+            "VB_NAME": "Manchester Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Carleton Place",
+            "HCRA_INITIALLICENSEDATE": "2005-10-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-10-14 15:01:50.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "c/o Dr Bruce Firestone",
+            "TELEPHONE": "613-422-6757",
+            "FAX": "613-422-2877",
+            "WEBSITEURL": "www.manchester.ca",
+            "EMAIL": "bfirestone@partnersadvantage.ca",
+            "ACCOUNTNUMBER": "B36014",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 9314.32,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 9314.32
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11768460",
+            "TO": "Al Clayton",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613- 234-6583"
+        },
+        {
+            "TOUNIQUENUMBER": "11768463",
+            "TO": "Barry G. Lett",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613- 237-2220"
+        },
+        {
+            "TOUNIQUENUMBER": "11768464",
+            "TO": "Dawn M. Firestone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613- 599-4434"
+        },
+        {
+            "TOUNIQUENUMBER": "11768464",
+            "TO": "Dawn M. Firestone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613- 599-4434"
+        },
+        {
+            "TOUNIQUENUMBER": "11768461",
+            "TO": "Dr. Bruce M. Firestone",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613- 723-2222 Ext- 229"
+        },
+        {
+            "TOUNIQUENUMBER": "11768461",
+            "TO": "Dr. Bruce M. Firestone",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613- 723-2222 Ext- 229"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36014",
+            "Umbrella": "Manchester Development",
+            "Umbrella ID": "12541231",
+            "VB_NAME": "Manchester Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36014",
+            "MEMBERNAME": "Manchester Development Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36014",
+            "Umbrella": "Manchester Development",
+            "Umbrella ID": "12541231",
+            "VB_NAME": "Manchester Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32170",
+            "MEMBERNAME": "Manchester Development Corporation",
+            "MEMBEROPERATINGNAME": "Maple Leaf Design & Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

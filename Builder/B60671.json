@@ -1,0 +1,105 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60671",
+            "Umbrella": "Gable View Homes",
+            "Umbrella ID": "500000895",
+            "VB_NAME": "Milton Thompson Road Development G. P. Inc.",
+            "OPERATINGNAME": "Milton Thompson Road Development G. P. Inc.",
+            "CITY": "Burlington",
+            "HCRA_INITIALLICENSEDATE": "2022-03-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-05 19:51:36.000 +0000",
+            "Expiry Date": "2025-03-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1100 Burloak Drive",
+            "TELEPHONE": "905-336-8953",
+            "FAX": null,
+            "WEBSITEURL": "http://www.gableviewhomes.com",
+            "EMAIL": "info@east97.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100534179",
+            "TO": "Allison Williams",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-336-8953"
+        },
+        {
+            "TOUNIQUENUMBER": "100534179",
+            "TO": "Allison Williams",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-336-8953"
+        },
+        {
+            "TOUNIQUENUMBER": "100546601",
+            "TO": "Steven Smart",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-336-8953"
+        },
+        {
+            "TOUNIQUENUMBER": "100546602",
+            "TO": "Ioannis Xydous",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-336-8953"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60671",
+            "Umbrella": "Gable View Homes",
+            "Umbrella ID": "500000895",
+            "VB_NAME": "Milton Thompson Road Development G. P. Inc.",
+            "OPERATINGNAME": "Milton Thompson Road Development G. P. Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47319",
+            "MEMBERNAME": "Cambridge Main Street Development G.P. Inc.",
+            "MEMBEROPERATINGNAME": "Gable View Homes Main Street",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60671",
+            "Umbrella": "Gable View Homes",
+            "Umbrella ID": "500000895",
+            "VB_NAME": "Milton Thompson Road Development G. P. Inc.",
+            "OPERATINGNAME": "Milton Thompson Road Development G. P. Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60671",
+            "MEMBERNAME": "Milton Thompson Road Development G. P. Inc.",
+            "MEMBEROPERATINGNAME": "Milton Thompson Road Development G. P. Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Residence on Kennedy Circle",
+            "Project Status": "In Progress",
+            "Location": "MILTON",
+            "Address": " 1001 Kennedy Circle ",
+            "# of Units": 83,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

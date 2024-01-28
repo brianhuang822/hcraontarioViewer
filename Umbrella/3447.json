@@ -1,0 +1,64 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Double \"G\" Contractors",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "33 Memorial Drive",
+            "TELEPHONE": "905-523-0744",
+            "FAX": "905-523-1780",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Double \"G\" Constractors Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B11718",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "RIVERWEST, PHASE 1",
+            "Account Number": "B11718",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1199 Hamilton Rd.",
+            "# of Units": 43,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-06-05"
+        },
+        {
+            "Condo Project Name": null,
+            "Account Number": "B11718",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "147A-159H Brantwd",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1990-02-22"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1162",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Wedgewood Building Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "KANATA",
+            "HCRA_INITIALLICENSEDATE": "1986-02-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1994-02-22 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "538 A Hazeldean Rd.",
+            "TELEPHONE": "(613)831-0105",
+            "FAX": "(613)831-0425",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "326239",
+            "TO": "Michel Perras",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-596-2932"
+        },
+        {
+            "TOUNIQUENUMBER": "326239",
+            "TO": "Michel Perras",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-596-2932"
+        },
+        {
+            "TOUNIQUENUMBER": "311908",
+            "TO": "Gilles Fugere",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "311908",
+            "TO": "Gilles Fugere",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332257",
+            "TO": "John Steenbakkers (Jr.)",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-5388"
+        },
+        {
+            "TOUNIQUENUMBER": "332257",
+            "TO": "John Steenbakkers (Jr.)",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-5388"
+        },
+        {
+            "TOUNIQUENUMBER": "332257",
+            "TO": "John Steenbakkers (Jr.)",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-831-5388"
+        },
+        {
+            "TOUNIQUENUMBER": "302916",
+            "TO": "Pierre Bernier",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-809-6114"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1162",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Wedgewood Building Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "318 LORRY GREENBERG DR.,OTTAWA",
+            "Project Status": "Completed",
+            "Location": "OTTAWA",
+            "Address": "318 Lorry Greenberg Drive",
+            "# of Units": 94,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-07-25"
+        },
+        {
+            "Condo Project Name": "67 MCDERMOT COURT, KANATA",
+            "Project Status": "Completed",
+            "Location": "KANATA",
+            "Address": "67 McDermot Court",
+            "# of Units": 67,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1988-03-03"
+        },
+        {
+            "Condo Project Name": "LORRY GREENBERG CONDO",
+            "Project Status": "In Progress",
+            "Location": "OTTAWA",
+            "Address": "214 Lorry Greenburg Dr.",
+            "# of Units": 110,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "WEDGEWOOD CONDO",
+            "Project Status": "In Progress",
+            "Location": "OTTAWA",
+            "Address": "328 Tapiola Cres.",
+            "# of Units": 80,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "TAPIOLA CRES. CONDO",
+            "Project Status": "In Progress",
+            "Location": "OTTAWA",
+            "Address": "328 Tapiola Cres.",
+            "# of Units": 80,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

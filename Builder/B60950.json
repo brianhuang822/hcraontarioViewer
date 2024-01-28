@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60950",
+            "Umbrella": "Neatt Communities",
+            "Umbrella ID": "500001118",
+            "VB_NAME": "Neatt Communities (Nipissing) Inc.",
+            "OPERATINGNAME": "Neatt Communities (Nipissing) Inc.",
+            "CITY": "Milton",
+            "HCRA_INITIALLICENSEDATE": "2022-01-31",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-24 22:05:41.000 +0000",
+            "Expiry Date": "2025-02-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "775 Main Street East",
+            "TELEPHONE": "289-259-5016",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "Maryann@neattcommunities.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600006692",
+            "TO": "Luigi Morsillo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-503-6808"
+        },
+        {
+            "TOUNIQUENUMBER": "12277577",
+            "TO": "Michael Vernooy",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-990-4927"
+        },
+        {
+            "TOUNIQUENUMBER": "600009628",
+            "TO": "Grant Hood",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "289-259-5016"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60950",
+            "Umbrella": "Neatt Communities",
+            "Umbrella ID": "500001118",
+            "VB_NAME": "Neatt Communities (Nipissing) Inc.",
+            "OPERATINGNAME": "Neatt Communities (Nipissing) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60790",
+            "MEMBERNAME": "Neatt Communities Inc.",
+            "MEMBEROPERATINGNAME": "Neatt Communities Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60950",
+            "Umbrella": "Neatt Communities",
+            "Umbrella ID": "500001118",
+            "VB_NAME": "Neatt Communities (Nipissing) Inc.",
+            "OPERATINGNAME": "Neatt Communities (Nipissing) Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60950",
+            "MEMBERNAME": "Neatt Communities (Nipissing) Inc.",
+            "MEMBEROPERATINGNAME": "Neatt Communities (Nipissing) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Stationside",
+            "Project Status": null,
+            "Location": "MILTON",
+            "Address": " 135 & 145 Nipissing Road ",
+            "# of Units": 268,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Stationside Phase 2",
+            "Project Status": null,
+            "Location": "MILTON",
+            "Address": " 135 & 145 Nipissing Rd. ",
+            "# of Units": 345,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

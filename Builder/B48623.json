@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48623",
+            "Umbrella": "Parkview Homes",
+            "Umbrella ID": "12531115",
+            "VB_NAME": "2117467 Ontario Inc.",
+            "OPERATINGNAME": "Maplewood Homes",
+            "CITY": "Peterborough",
+            "HCRA_INITIALLICENSEDATE": "2020-10-26",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-20 20:03:21.000 +0000",
+            "Expiry Date": "2024-10-27",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "637 The Queensway",
+            "TELEPHONE": "705-761-5974",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "steve.rmclaren@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 47,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 47,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "322395",
+            "TO": "Steven McLaren",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-761-5974"
+        },
+        {
+            "TOUNIQUENUMBER": "322395",
+            "TO": "Steven McLaren",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-761-5974"
+        },
+        {
+            "TOUNIQUENUMBER": "322395",
+            "TO": "Steven McLaren",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-761-5974"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48623",
+            "Umbrella": "Parkview Homes",
+            "Umbrella ID": "12531115",
+            "VB_NAME": "2117467 Ontario Inc.",
+            "OPERATINGNAME": "Maplewood Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B34638",
+            "MEMBERNAME": "1612328 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B48623",
+            "Umbrella": "Parkview Homes",
+            "Umbrella ID": "12531115",
+            "VB_NAME": "2117467 Ontario Inc.",
+            "OPERATINGNAME": "Maplewood Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48623",
+            "MEMBERNAME": "2117467 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Maplewood Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48623",
+            "Umbrella": "Parkview Homes",
+            "Umbrella ID": "12531115",
+            "VB_NAME": "2117467 Ontario Inc.",
+            "OPERATINGNAME": "Maplewood Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B17191",
+            "MEMBERNAME": "812809 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Parkview Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

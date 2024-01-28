@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32931",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Barbini Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2003-01-15",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-18 16:15:22.000 +0000",
+            "Expiry Date": "2025-01-16",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1315 Lawrence Avenue East",
+            "TELEPHONE": "416-385-8883",
+            "FAX": "1-416-385-8825",
+            "WEBSITEURL": "www.amedeobarbini.com",
+            "EMAIL": "amedeo@barbini.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "301999",
+            "TO": "Amedeo Barbini",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-385-8883"
+        },
+        {
+            "TOUNIQUENUMBER": "301999",
+            "TO": "Amedeo Barbini",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-385-8883"
+        },
+        {
+            "TOUNIQUENUMBER": "301999",
+            "TO": "Amedeo Barbini",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-385-8883"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32931",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Barbini Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

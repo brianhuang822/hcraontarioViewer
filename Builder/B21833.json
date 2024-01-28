@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21833",
+            "Umbrella": "Whalley Homes",
+            "Umbrella ID": "11586",
+            "VB_NAME": "Whalley Construction (1992) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "1992-02-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2001-02-12 13:33:30.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5606 Westdel Bourne",
+            "TELEPHONE": "(519)439-0721",
+            "FAX": "(519)652-1549",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336470",
+            "TO": "David E. Whalley",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 872-4980"
+        },
+        {
+            "TOUNIQUENUMBER": "336470",
+            "TO": "David E. Whalley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 872-4980"
+        },
+        {
+            "TOUNIQUENUMBER": "336470",
+            "TO": "David E. Whalley",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519- 872-4980"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21833",
+            "Umbrella": "Whalley Homes",
+            "Umbrella ID": "11586",
+            "VB_NAME": "Whalley Construction (1992) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33958",
+            "MEMBERNAME": "1010960 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Whalley Homes",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B21833",
+            "Umbrella": "Whalley Homes",
+            "Umbrella ID": "11586",
+            "VB_NAME": "Whalley Construction (1992) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28219",
+            "MEMBERNAME": "1010960 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B21833",
+            "Umbrella": "Whalley Homes",
+            "Umbrella ID": "11586",
+            "VB_NAME": "Whalley Construction (1992) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B21833",
+            "MEMBERNAME": "Whalley Construction (1992) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HARMONIA GARDENS",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1225 Cheapside Street",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-11-19"
+        }
+    ],
+    "builderConditions": []
+}

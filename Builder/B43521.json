@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43521",
+            "Umbrella": "Lion's Gate Homes",
+            "Umbrella ID": "12540897",
+            "VB_NAME": "Lion's Gate Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2014-02-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2017-02-25 13:01:29.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "164 Beechwood Ave.",
+            "TELEPHONE": "416/939-8390",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "lionsgatehomes@gmail.com",
+            "ACCOUNTNUMBER": "B43521",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 17709.67,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 17709.67
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11903871",
+            "TO": "Tsur Moses",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-258-5448"
+        },
+        {
+            "TOUNIQUENUMBER": "11903871",
+            "TO": "Tsur Moses",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-258-5448"
+        },
+        {
+            "TOUNIQUENUMBER": "11903871",
+            "TO": "Tsur Moses",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-258-5448"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43521",
+            "Umbrella": "Lion's Gate Homes",
+            "Umbrella ID": "12540897",
+            "VB_NAME": "Lion's Gate Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33417",
+            "MEMBERNAME": "Lions Gate Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43521",
+            "Umbrella": "Lion's Gate Homes",
+            "Umbrella ID": "12540897",
+            "VB_NAME": "Lion's Gate Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B43521",
+            "MEMBERNAME": "Lion's Gate Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B43521",
+            "Umbrella": "Lion's Gate Homes",
+            "Umbrella ID": "12540897",
+            "VB_NAME": "Lion's Gate Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38099",
+            "MEMBERNAME": "Lion's Gate Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

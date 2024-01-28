@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B11058",
+            "Umbrella": "Eastlake Homes",
+            "Umbrella ID": "11990415",
+            "VB_NAME": "Jep Limited",
+            "OPERATINGNAME": null,
+            "CITY": "HANNON",
+            "HCRA_INITIALLICENSEDATE": "1977-04-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1994-04-20 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "6449 Twenty Rd. R.R. # 2",
+            "TELEPHONE": "(416)679-4562",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "311090",
+            "TO": "Frank Filice",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-679-4562"
+        },
+        {
+            "TOUNIQUENUMBER": "311090",
+            "TO": "Frank Filice",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-679-4562"
+        },
+        {
+            "TOUNIQUENUMBER": "311090",
+            "TO": "Frank Filice",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-679-4562"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B11058",
+            "Umbrella": "Eastlake Homes",
+            "Umbrella ID": "11990415",
+            "VB_NAME": "Jep Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11058",
+            "MEMBERNAME": "Jep Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B11058",
+            "Umbrella": "Eastlake Homes",
+            "Umbrella ID": "11990415",
+            "VB_NAME": "Jep Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33920",
+            "MEMBERNAME": "Eastlake Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B11058",
+            "Umbrella": "Eastlake Homes",
+            "Umbrella ID": "11990415",
+            "VB_NAME": "Jep Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B25576",
+            "MEMBERNAME": "Jep Limited",
+            "MEMBEROPERATINGNAME": "Eastlake Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

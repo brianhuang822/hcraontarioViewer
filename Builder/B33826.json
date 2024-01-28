@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33826",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Portland Investments Inc.",
+            "OPERATINGNAME": "Five Nine On Richmond",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2004-01-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-01-22 16:01:21.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "55 Logan Ave., Unit B",
+            "TELEPHONE": "416-591-0253",
+            "FAX": "416-260-2393",
+            "WEBSITEURL": "www.5nine.ca",
+            "EMAIL": "phillip.marsland@5nine.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11947516",
+            "TO": "Saverio Jason D'Elia",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-553-7535"
+        },
+        {
+            "TOUNIQUENUMBER": "11947516",
+            "TO": "Saverio Jason D'Elia",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-553-7535"
+        },
+        {
+            "TOUNIQUENUMBER": "11947516",
+            "TO": "Saverio Jason D'Elia",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-553-7535"
+        },
+        {
+            "TOUNIQUENUMBER": "11947515",
+            "TO": "Phillip Marsland",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-591-0253"
+        },
+        {
+            "TOUNIQUENUMBER": "11947515",
+            "TO": "Phillip Marsland",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-591-0253"
+        },
+        {
+            "TOUNIQUENUMBER": "11947515",
+            "TO": "Phillip Marsland",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-591-0253"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33826",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Portland Investments Inc.",
+            "OPERATINGNAME": "Five Nine On Richmond",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Five Nine on Richmond",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": " 533 Richmond St W ",
+            "# of Units": 52,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-08-09"
+        }
+    ],
+    "builderConditions": []
+}

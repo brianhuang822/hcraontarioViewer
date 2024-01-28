@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39246",
+            "Umbrella": "Guildford Homes",
+            "Umbrella ID": "12540286",
+            "VB_NAME": "Guildford Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Pefferlaw",
+            "HCRA_INITIALLICENSEDATE": "2008-10-14",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-26 21:50:42.000 +0000",
+            "Expiry Date": "2024-10-15",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "550 Pefferlaw Road",
+            "TELEPHONE": "905-955-3069",
+            "FAX": "705-437-1276",
+            "WEBSITEURL": " ",
+            "EMAIL": "ABCGuildford557@msn.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 9,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 9,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12094160",
+            "TO": "Arthur Brian Guildford",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-437-1276"
+        },
+        {
+            "TOUNIQUENUMBER": "12094160",
+            "TO": "Arthur Brian Guildford",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-437-1276"
+        },
+        {
+            "TOUNIQUENUMBER": "12094160",
+            "TO": "Arthur Brian Guildford",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-437-1276"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B39246",
+            "Umbrella": "Guildford Homes",
+            "Umbrella ID": "12540286",
+            "VB_NAME": "Guildford Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35895",
+            "MEMBERNAME": "Arthur Brian Guildford",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39246",
+            "Umbrella": "Guildford Homes",
+            "Umbrella ID": "12540286",
+            "VB_NAME": "Guildford Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B39246",
+            "MEMBERNAME": "Guildford Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

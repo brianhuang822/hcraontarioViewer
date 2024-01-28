@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B4037",
+            "Umbrella": "Gordon Tobey Developments",
+            "Umbrella ID": "11700795",
+            "VB_NAME": "Gordon Tobey Developments Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Brighton",
+            "HCRA_INITIALLICENSEDATE": "1985-07-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-25 04:17:00.000 +0000",
+            "Expiry Date": "2024-07-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2 Monarch Drive",
+            "TELEPHONE": "613-475-0618",
+            "FAX": "613-475-5279",
+            "WEBSITEURL": "www.tobeydevelopments.com",
+            "EMAIL": "heather@tobeydevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 74,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 74,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12419967",
+            "TO": "Heather Tobey",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-475-0618"
+        },
+        {
+            "TOUNIQUENUMBER": "12419967",
+            "TO": "Heather Tobey",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-475-0618"
+        },
+        {
+            "TOUNIQUENUMBER": "343762",
+            "TO": "Stephen Tobey",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-475-0618"
+        },
+        {
+            "TOUNIQUENUMBER": "343762",
+            "TO": "Stephen Tobey",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-475-0618"
+        },
+        {
+            "TOUNIQUENUMBER": "343762",
+            "TO": "Stephen Tobey",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-475-0618"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B4037",
+            "Umbrella": "Gordon Tobey Developments",
+            "Umbrella ID": "11700795",
+            "VB_NAME": "Gordon Tobey Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B4037",
+            "MEMBERNAME": "Gordon Tobey Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B4037",
+            "Umbrella": "Gordon Tobey Developments",
+            "Umbrella ID": "11700795",
+            "VB_NAME": "Gordon Tobey Developments Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B3885",
+            "MEMBERNAME": "Gordon Tobey Developments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

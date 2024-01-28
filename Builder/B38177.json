@@ -1,0 +1,115 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38177",
+            "Umbrella": "All Seasons Homes",
+            "Umbrella ID": "12541152",
+            "VB_NAME": "All Season Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "WOODBRIDGE",
+            "HCRA_INITIALLICENSEDATE": "2008-07-07",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "2010-04-19 18:49:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "240 Chrislea Rd., Unit 3",
+            "TELEPHONE": "905-856-0645",
+            "FAX": "905-856-1637",
+            "WEBSITEURL": null,
+            "EMAIL": "robstrmota@hotmail.com",
+            "ACCOUNTNUMBER": "B38177",
+            "Total Outstanding Amount": 3438.16,
+            "TAB": 0,
+            "BREACH": 3438.16,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12252830",
+            "TO": "Rob Strmota",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-891-0937"
+        },
+        {
+            "TOUNIQUENUMBER": "12252830",
+            "TO": "Rob Strmota",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-891-0937"
+        },
+        {
+            "TOUNIQUENUMBER": "12252830",
+            "TO": "Rob Strmota",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-891-0937"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA104815",
+            "CHARGE_AGAINST": "All Season Homes Ltd.",
+            "CHARGE_DATE": "2009-03-20",
+            "DISPOSITION_DATE": "2010-08-17",
+            "THE_FINE_": "0",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "0",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Suspended Sentence",
+            "INVESTIGATION_": "9324415",
+            "ORGANIZATION_NAME": "All Season Homes Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Richmond Hill, ON",
+            "CITY_DEFENCE": "Woodbridge, ON",
+            "VB_NUMBER": "B38177",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA104815 9324415",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Richmond Hill, Town",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2007-10-29",
+            "TO_OFFENCE_DATE": "2009-02-23",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "0",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "14:24.0",
+            "PROBATION_ORDER": "Y",
+            "PROBATION_TERM": "1 year",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B38177",
+            "Umbrella": "All Seasons Homes",
+            "Umbrella ID": "12541152",
+            "VB_NAME": "All Season Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B38177",
+            "MEMBERNAME": "All Season Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

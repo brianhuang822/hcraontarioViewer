@@ -1,0 +1,89 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60015",
+            "Umbrella": "Esquire Homes",
+            "Umbrella ID": "500000018",
+            "VB_NAME": "Garden Street Developments Inc.",
+            "OPERATINGNAME": "Garden Street Developments Inc.",
+            "CITY": "Markham",
+            "HCRA_INITIALLICENSEDATE": "2021-03-02",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-22 20:02:38.000 +0000",
+            "Expiry Date": "2024-03-03",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "145 Royal Crest Court Unit 21",
+            "TELEPHONE": null,
+            "FAX": "905-415-1853",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 45,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "316968",
+            "TO": "Michael Delli-Benedetti",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-415-1880"
+        },
+        {
+            "TOUNIQUENUMBER": "316968",
+            "TO": "Michael Delli-Benedetti",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-415-1880"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60015",
+            "Umbrella": "Esquire Homes",
+            "Umbrella ID": "500000018",
+            "VB_NAME": "Garden Street Developments Inc.",
+            "OPERATINGNAME": "Garden Street Developments Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60015",
+            "MEMBERNAME": "Garden Street Developments Inc.",
+            "MEMBEROPERATINGNAME": "Garden Street Developments Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Fresh Urban Towns",
+            "Project Status": "In Progress",
+            "Location": "WHITBY",
+            "Address": " 4335 Garden Street ",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Fresh Urban Towns",
+            "Project Status": null,
+            "Location": "WHITBY",
+            "Address": " 4335 Garden Street ",
+            "# of Units": 38,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

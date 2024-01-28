@@ -1,0 +1,85 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B1844",
+            "Umbrella": "Hotte Construction",
+            "Umbrella ID": "12539962",
+            "VB_NAME": "Hotte Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "NORTH BAY",
+            "HCRA_INITIALLICENSEDATE": "1978-06-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1982-06-11 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1081 Hammond",
+            "TELEPHONE": "(705)472-7099",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "315635",
+            "TO": "Denis Hotte",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-472-7099"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B1844",
+            "Umbrella": "Hotte Construction",
+            "Umbrella ID": "12539962",
+            "VB_NAME": "Hotte Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26193",
+            "MEMBERNAME": "Hotte Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B1844",
+            "Umbrella": "Hotte Construction",
+            "Umbrella ID": "12539962",
+            "VB_NAME": "Hotte Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32668",
+            "MEMBERNAME": "Hotte Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B1844",
+            "Umbrella": "Hotte Construction",
+            "Umbrella ID": "12539962",
+            "VB_NAME": "Hotte Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B1844",
+            "MEMBERNAME": "Hotte Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

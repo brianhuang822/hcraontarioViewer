@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38391",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Orchard Point Corporation",
+            "OPERATINGNAME": "Orchard Point Corporation",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2008-04-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-04-17 14:19:39.000 +0000",
+            "Expiry Date": "2024-04-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3280 Bloor Street West",
+            "TELEPHONE": "416-477-6072",
+            "FAX": "647-426-0376",
+            "WEBSITEURL": "www.orchardpoint.ca",
+            "EMAIL": "ckervin@orchardpoint.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 91,
+            "SUMM_TOTAL": 91,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100516886",
+            "TO": "Theresa Elgner",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-844-0540"
+        },
+        {
+            "TOUNIQUENUMBER": "100136103",
+            "TO": "Steven Reddick",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-426-0380"
+        },
+        {
+            "TOUNIQUENUMBER": "100136103",
+            "TO": "Steven Reddick",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-426-0380"
+        },
+        {
+            "TOUNIQUENUMBER": "100136104",
+            "TO": "Roger A. Elgner",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-426-0380"
+        },
+        {
+            "TOUNIQUENUMBER": "100136104",
+            "TO": "Roger A. Elgner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-426-0380"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38391",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Orchard Point Corporation",
+            "OPERATINGNAME": "Orchard Point Corporation",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Orchard Point Harbour",
+            "Project Status": "Completed",
+            "Location": "ORILLIA",
+            "Address": " 90 Orchard Point Rd. ",
+            "# of Units": 88,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2018-12-17"
+        },
+        {
+            "Condo Project Name": "Orchard Point Harbour",
+            "Project Status": "Completed",
+            "Location": "ORILLIA",
+            "Address": "80 Orchard Point Rd.",
+            "# of Units": 49,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-12-01"
+        }
+    ],
+    "builderConditions": []
+}

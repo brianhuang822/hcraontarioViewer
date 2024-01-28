@@ -1,0 +1,141 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B13658",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Oke Woodsmith Building Systems Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Grand Bend",
+            "HCRA_INITIALLICENSEDATE": "1985-03-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-12 19:06:48.000 +0000",
+            "Expiry Date": "2024-03-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "70964 Bluewater Highway",
+            "TELEPHONE": "519-238-8893",
+            "FAX": "519-238-8894",
+            "WEBSITEURL": "www.okewoodsmith.com",
+            "EMAIL": "woodsmith@okewoodsmith.com",
+            "ACCOUNTNUMBER": "B13658",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 31,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 31,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600014571",
+            "TO": "Katelyn Hodgins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-670-2915"
+        },
+        {
+            "TOUNIQUENUMBER": "600014571",
+            "TO": "Katelyn Hodgins",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-670-2915"
+        },
+        {
+            "TOUNIQUENUMBER": "600014569",
+            "TO": "Jeremy Oke",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-319-2011"
+        },
+        {
+            "TOUNIQUENUMBER": "600014569",
+            "TO": "Jeremy Oke",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-319-2011"
+        },
+        {
+            "TOUNIQUENUMBER": "600014570",
+            "TO": "Derek Hodgins",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-520-3618"
+        },
+        {
+            "TOUNIQUENUMBER": "600014570",
+            "TO": "Derek Hodgins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-520-3618"
+        },
+        {
+            "TOUNIQUENUMBER": "600014568",
+            "TO": "Danielle Oke",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-238-8893"
+        },
+        {
+            "TOUNIQUENUMBER": "600014568",
+            "TO": "Danielle Oke",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-238-8893"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B13658",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Oke Woodsmith Building Systems Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Stone Meadows",
+            "Project Status": "Completed",
+            "Location": "ZURICH",
+            "Address": "Conrad Dr.",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2010-10-12"
+        },
+        {
+            "Condo Project Name": "Stone Meadows",
+            "Project Status": "Completed",
+            "Location": "ZURICH",
+            "Address": "  Conrad Dr. ",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-07-31"
+        },
+        {
+            "Condo Project Name": "Stone Meadows",
+            "Project Status": "Completed",
+            "Location": "ZURICH",
+            "Address": "  Conrad Dr. ",
+            "# of Units": 8,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2007-04-25"
+        }
+    ],
+    "builderConditions": []
+}

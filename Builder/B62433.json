@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B62433",
+            "Umbrella": "Brightstone Developments",
+            "Umbrella ID": "500002697",
+            "VB_NAME": "Argyle Residences Corp.",
+            "OPERATINGNAME": "Argyle Residences Corp.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2023-08-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-18 15:46:37.000 +0000",
+            "Expiry Date": "2024-08-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10 Wanless Avenue",
+            "TELEPHONE": "416-481-2222",
+            "FAX": "416-481-8000",
+            "WEBSITEURL": null,
+            "EMAIL": "ybohbot@plazacorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600014838",
+            "TO": "Raizy Heller",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "600014838",
+            "TO": "Raizy Heller",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "100566527",
+            "TO": "Steven Heller",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "100566527",
+            "TO": "Steven Heller",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "100566527",
+            "TO": "Steven Heller",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B62433",
+            "Umbrella": "Brightstone Developments",
+            "Umbrella ID": "500002697",
+            "VB_NAME": "Argyle Residences Corp.",
+            "OPERATINGNAME": "Argyle Residences Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62433",
+            "MEMBERNAME": "Argyle Residences Corp.",
+            "MEMBEROPERATINGNAME": "Argyle Residences Corp.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B62433",
+            "Umbrella": "Brightstone Developments",
+            "Umbrella ID": "500002697",
+            "VB_NAME": "Argyle Residences Corp.",
+            "OPERATINGNAME": "Argyle Residences Corp.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62018",
+            "MEMBERNAME": "Brightstone Developments Corp.",
+            "MEMBEROPERATINGNAME": "Brightstone Developments Corp.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

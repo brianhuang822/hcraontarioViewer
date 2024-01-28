@@ -1,0 +1,155 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60358",
+            "Umbrella": "Rankin Construction",
+            "Umbrella ID": "12549524",
+            "VB_NAME": "The Waterway Inc.",
+            "OPERATINGNAME": "The Waterway Inc.",
+            "CITY": "St. Catharines",
+            "HCRA_INITIALLICENSEDATE": "2021-07-08",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-02 16:53:58.000 +0000",
+            "Expiry Date": "2024-07-09",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "20 Corporate Park Drive",
+            "TELEPHONE": "905-684-1111",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "jfrank@rankinconstruction.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100513721",
+            "TO": "Wendy Wing",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-684-1111"
+        },
+        {
+            "TOUNIQUENUMBER": "100513721",
+            "TO": "Wendy Wing",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-684-1111"
+        },
+        {
+            "TOUNIQUENUMBER": "100513725",
+            "TO": "Brian Rankin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-684-1111"
+        },
+        {
+            "TOUNIQUENUMBER": "100513725",
+            "TO": "Brian Rankin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-684-1111"
+        },
+        {
+            "TOUNIQUENUMBER": "100513726",
+            "TO": "Thomas Rankin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-841-1111"
+        },
+        {
+            "TOUNIQUENUMBER": "100513726",
+            "TO": "Thomas Rankin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-841-1111"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60358",
+            "Umbrella": "Rankin Construction",
+            "Umbrella ID": "12549524",
+            "VB_NAME": "The Waterway Inc.",
+            "OPERATINGNAME": "The Waterway Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60358",
+            "MEMBERNAME": "The Waterway Inc.",
+            "MEMBEROPERATINGNAME": "The Waterway Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60358",
+            "Umbrella": "Rankin Construction",
+            "Umbrella ID": "12549524",
+            "VB_NAME": "The Waterway Inc.",
+            "OPERATINGNAME": "The Waterway Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62068",
+            "MEMBERNAME": "The Locks Inc.",
+            "MEMBEROPERATINGNAME": "The Locks Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60358",
+            "Umbrella": "Rankin Construction",
+            "Umbrella ID": "12549524",
+            "VB_NAME": "The Waterway Inc.",
+            "OPERATINGNAME": "The Waterway Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47027",
+            "MEMBERNAME": "Rankin Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60358",
+            "Umbrella": "Rankin Construction",
+            "Umbrella ID": "12549524",
+            "VB_NAME": "The Waterway Inc.",
+            "OPERATINGNAME": "The Waterway Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48057",
+            "MEMBERNAME": "SouthPort Condos Inc. ",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B60358",
+            "Umbrella": "Rankin Construction",
+            "Umbrella ID": "12549524",
+            "VB_NAME": "The Waterway Inc.",
+            "OPERATINGNAME": "The Waterway Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47058",
+            "MEMBERNAME": "Royal Port Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "The Waterway Condominiums",
+            "Project Status": "In Progress",
+            "Location": "WELLAND",
+            "Address": " 119 Lincoln St. ",
+            "# of Units": 30,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

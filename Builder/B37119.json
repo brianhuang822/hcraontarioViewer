@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B37119",
+            "Umbrella": "Ironwood Homes",
+            "Umbrella ID": "12541137",
+            "VB_NAME": "Ironwood Homes Incorporated",
+            "OPERATINGNAME": null,
+            "CITY": "KITCHENER",
+            "HCRA_INITIALLICENSEDATE": "2006-12-08",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-12-09 16:01:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "18 Charleston Place",
+            "TELEPHONE": "(519)342-4185",
+            "FAX": "(519)896-7541",
+            "WEBSITEURL": "WWW.IRONWOODHOMES.CA",
+            "EMAIL": "cleal@ironwoodhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12186902",
+            "TO": "Francis R. Meyer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "GRAMPAMEYER@ROGERS.COM"
+        },
+        {
+            "TOUNIQUENUMBER": "12186898",
+            "TO": "Carlos A. Leal",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-342-4186"
+        },
+        {
+            "TOUNIQUENUMBER": "12186898",
+            "TO": "Carlos A. Leal",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-342-4186"
+        },
+        {
+            "TOUNIQUENUMBER": "12186898",
+            "TO": "Carlos A. Leal",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-342-4186"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B37119",
+            "Umbrella": "Ironwood Homes",
+            "Umbrella ID": "12541137",
+            "VB_NAME": "Ironwood Homes Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39426",
+            "MEMBERNAME": "Ironwood Homes Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B37119",
+            "Umbrella": "Ironwood Homes",
+            "Umbrella ID": "12541137",
+            "VB_NAME": "Ironwood Homes Incorporated",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B37119",
+            "MEMBERNAME": "Ironwood Homes Incorporated",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

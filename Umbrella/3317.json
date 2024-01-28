@@ -1,0 +1,673 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Remington Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": 1130,
+            "OUTSTANDINGAMTTAB": 1130,
+            "BREACH": 0,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 9,
+            "TOTALUNITS": 2003,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 74639.84,
+            "ADDRESS": "7501 Keele Street",
+            "TELEPHONE": "905-761-8200",
+            "FAX": "905-761-8201",
+            "WEBSITEURL": "www.remingtongroupinc.com",
+            "EMAIL": "lowriseservice@remingtongroupinc.com",
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Remington Evergreen Gate Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47149",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Highglen Manor) Inc.",
+            "MEMBEROPERATINGNAME": "Highglen Manors",
+            "MEMBERVBNUM": "B31181",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Mayfield Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46313",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Midland Shores Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36833",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Santa Creek Homes Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25156",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Coventry Court Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41376",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Keswick) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27986",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Cresthaven) Inc.",
+            "MEMBEROPERATINGNAME": "Cresthaven South",
+            "MEMBERVBNUM": "B32675",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Benchmark Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36836",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Maple South) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27232",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Mississauga) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43731",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Burlington) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31854",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Terracotta Remington Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38323",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Highglen) Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25158",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Victory Green Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47691",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Royal Rose Corporation Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33991",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Weston) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27988",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Heritage Glen) Inc.",
+            "MEMBEROPERATINGNAME": "Heritage Glen",
+            "MEMBERVBNUM": "B31182",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Sunrise Ridge) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27987",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Mississauga) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B31633",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Roselawn) Inc.",
+            "MEMBEROPERATINGNAME": "Roselawn Villas",
+            "MEMBERVBNUM": "B32258",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Glitter) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27230",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Georgetown Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42412",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Broadway Homes Inc.",
+            "MEMBEROPERATINGNAME": "Broadway Homes",
+            "MEMBERVBNUM": "B26222",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (St.Phillips) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36689",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Neamsby Investments Inc",
+            "MEMBEROPERATINGNAME": "Remington Homes",
+            "MEMBERVBNUM": "B25155",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Thornhill Woods Homes Inc.",
+            "MEMBEROPERATINGNAME": "Thornhill Woods",
+            "MEMBERVBNUM": "B32237",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Brampton West 6-2) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B35554",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington South Barrie Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B62627",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Bathurst Park Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33989",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Oakville Preserve Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42540",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Georgetown) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B33998",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Sandalwood) Inc.",
+            "MEMBEROPERATINGNAME": "Sandalwood Trails",
+            "MEMBERVBNUM": "B28669",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "State Park Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B23169",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Calsper Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B22580",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Bella Strada Development Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25159",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Dufferin Hills) Inc.",
+            "MEMBEROPERATINGNAME": "Tucson Trails",
+            "MEMBERVBNUM": "B31180",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Smart Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41057",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Captain's Cove Landing Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36834",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Seville Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40587",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Thornhill Woods Townhomes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B36837",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Thornhill North Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42378",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "1082951 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Dude Construction",
+            "MEMBERVBNUM": "B26223",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Brampton West) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25475",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Clayton) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B27231",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Kennedy Landing Towns Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B47340",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Remington Timberbank Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B40821",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (Cresthaven) Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B25154",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Homes (O'Connor) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B28670",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Remington Watersand Inc.",
+            "MEMBEROPERATINGNAME": "Remington Watersand Inc.",
+            "MEMBERVBNUM": "B62688",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Thornhill Trails Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37398",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2013",
+            "Freehold Posessions": 88,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 88,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 313,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 313,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2015",
+            "Freehold Posessions": 146,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 146,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2016",
+            "Freehold Posessions": 267,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 267,
+            "Chargeable Conciliation": 1,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2017",
+            "Freehold Posessions": 163,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 163,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2018",
+            "Freehold Posessions": 146,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 146,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2019",
+            "Freehold Posessions": 223,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 223,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2020",
+            "Freehold Posessions": 103,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 103,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 5265,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 5265,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 249,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 249,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 235,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 235,
+            "Chargeable Conciliation": 5,
+            "# of Claims (Minor)": 3,
+            "Dollers paid in Claims (Minor)": 67152.57,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 67152.57,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2023",
+            "Freehold Posessions": 154,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 154,
+            "Chargeable Conciliation": 3,
+            "# of Claims (Minor)": 1,
+            "Dollers paid in Claims (Minor)": 2222.27,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 2222.27,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2024",
+            "Freehold Posessions": 4,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 4,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2003,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2003,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 5,
+            "SUMM_MINOR_AMT": 74639.84,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 74639.84,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Remington Homes (Georgetown)",
+            "Account Number": "B33998",
+            "Project Status": null,
+            "Location": "HALTON HILLS",
+            "Address": "Danby Rd., Goldham Way, La Roche Ave.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Brookside Towns",
+            "Account Number": "B42540",
+            "Project Status": null,
+            "Location": "OAKVILLE",
+            "Address": "  George Savage Ave. & River Trail Common ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Conventry Court",
+            "Account Number": "B41376",
+            "Project Status": null,
+            "Location": "RICHMOND HILL",
+            "Address": "108 Dunlop St.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "IQ Smart",
+            "Account Number": "B41057",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "1185 The Queensway",
+            "# of Units": 303,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2015-01-12"
+        },
+        {
+            "Condo Project Name": "Terracotta Village",
+            "Account Number": "B38323",
+            "Project Status": "Completed",
+            "Location": "BRAMPTON",
+            "Address": " Cedar Lake Crescent & Bakewell St.",
+            "# of Units": 69,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2011-11-14"
+        },
+        {
+            "Condo Project Name": "Thornhill Woods Townhomes",
+            "Account Number": "B36837",
+            "Project Status": "Completed",
+            "Location": "VAUGHAN",
+            "Address": "8900 Bathurst St.",
+            "# of Units": 47,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2008-07-28"
+        }
+    ]
+}

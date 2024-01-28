@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B18254",
+            "Umbrella": "M + Sons Homes",
+            "Umbrella ID": "11933573",
+            "VB_NAME": "437561 Ontario Limited",
+            "OPERATINGNAME": "M.S. General Repairs",
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1989-06-07",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-06-08 12:30:41.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "24 Grove Ave.",
+            "TELEPHONE": "(647) 280-5664",
+            "FAX": "(416)537-6368",
+            "WEBSITEURL": null,
+            "EMAIL": "m_and_sons@yahoo.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "321557",
+            "TO": "Manuel Martins",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647- 280-5664"
+        },
+        {
+            "TOUNIQUENUMBER": "321557",
+            "TO": "Manuel Martins",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647- 280-5664"
+        },
+        {
+            "TOUNIQUENUMBER": "321557",
+            "TO": "Manuel Martins",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647- 280-5664"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B18254",
+            "Umbrella": "M + Sons Homes",
+            "Umbrella ID": "11933573",
+            "VB_NAME": "437561 Ontario Limited",
+            "OPERATINGNAME": "M.S. General Repairs",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B18254",
+            "MEMBERNAME": "437561 Ontario Limited",
+            "MEMBEROPERATINGNAME": "M.S. General Repairs",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B18254",
+            "Umbrella": "M + Sons Homes",
+            "Umbrella ID": "11933573",
+            "VB_NAME": "437561 Ontario Limited",
+            "OPERATINGNAME": "M.S. General Repairs",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28394",
+            "MEMBERNAME": "M & Sons Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,105 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Angil Development Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 140,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "20 Valleywood Drive",
+            "TELEPHONE": "905-604-7955",
+            "FAX": null,
+            "WEBSITEURL": "https://www.angildevelopment.com",
+            "EMAIL": "y.li@angildevelopment.com",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 140,
+            "SUMM_TOTAL": 140,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "2687525 Ontario Inc",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B60315",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "1000311332 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "1000311332 Ontario Inc.",
+            "MEMBERVBNUM": "B61881",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "2587499 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B60049",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "MEMBERNAME": "Angil Development Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B45665",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2021",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 140,
+            "Total Posessions": 140,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 140,
+            "SUMM_TOTAL": 140,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Simcoe Garden",
+            "Account Number": "B60049",
+            "Project Status": null,
+            "Location": "WEST GWILLIMBURY",
+            "Address": " 539 Simcoe Rd ",
+            "# of Units": 71,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Laurier Condo",
+            "Account Number": "B45665",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": " 1 Wellington Street ",
+            "# of Units": 140,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-05-16"
+        }
+    ]
+}

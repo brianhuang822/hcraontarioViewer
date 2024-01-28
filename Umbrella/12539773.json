@@ -1,0 +1,76 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "388 Bloor East",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "3625 Dufferin St., Ste. 110",
+            "TELEPHONE": "416/635-7520",
+            "FAX": "416/635-6601",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Two Bloor Residences Limited",
+            "MEMBEROPERATINGNAME": "8 Park Road",
+            "MEMBERVBNUM": "B28269",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "388 Bloor East Limited",
+            "MEMBEROPERATINGNAME": "The Rosedale",
+            "MEMBERVBNUM": "B26867",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Parkview-Kingsdale Holds.Ltd.",
+            "MEMBEROPERATINGNAME": "Kingsdale Terrace",
+            "MEMBERVBNUM": "B24640",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "THE ROSEDALE",
+            "Account Number": "B26867",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "388 Bloor St. E.",
+            "# of Units": 91,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2001-06-27"
+        },
+        {
+            "Condo Project Name": "KINGSDALE TERRACE",
+            "Account Number": "B24640",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "238 Doris Ave.",
+            "# of Units": 205,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-02-10"
+        }
+    ]
+}

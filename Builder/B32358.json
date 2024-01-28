@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32358",
+            "Umbrella": "Apple Home Builders",
+            "Umbrella ID": "12538373",
+            "VB_NAME": "Apple Home Builders Ltd.",
+            "OPERATINGNAME": "Apple Home Builders",
+            "CITY": "NEW HAMBURG",
+            "HCRA_INITIALLICENSEDATE": "2002-06-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-06-04 14:09:24.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "3523 Huron Rd.",
+            "TELEPHONE": "519-662-4511",
+            "FAX": "519-662-4887",
+            "WEBSITEURL": "www.applehomes.ca",
+            "EMAIL": "jday@golden.net",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 1,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 1,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11783342",
+            "TO": "John Day",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-574-3315"
+        },
+        {
+            "TOUNIQUENUMBER": "11783342",
+            "TO": "John Day",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-574-3315"
+        },
+        {
+            "TOUNIQUENUMBER": "11783342",
+            "TO": "John Day",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-574-3315"
+        },
+        {
+            "TOUNIQUENUMBER": "12158518",
+            "TO": "Nancy Kubassek",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-632-7116"
+        },
+        {
+            "TOUNIQUENUMBER": "12158517",
+            "TO": "David Kubassek",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-465-1678"
+        },
+        {
+            "TOUNIQUENUMBER": "12158517",
+            "TO": "David Kubassek",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-465-1678"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32358",
+            "Umbrella": "Apple Home Builders",
+            "Umbrella ID": "12538373",
+            "VB_NAME": "Apple Home Builders Ltd.",
+            "OPERATINGNAME": "Apple Home Builders",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32358",
+            "MEMBERNAME": "Apple Home Builders Ltd.",
+            "MEMBEROPERATINGNAME": "Apple Home Builders",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

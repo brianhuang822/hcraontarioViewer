@@ -1,0 +1,96 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47653",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1821154 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Oakville",
+            "HCRA_INITIALLICENSEDATE": "2019-10-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-01 18:41:50.000 +0000",
+            "Expiry Date": "2024-10-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2030 Bristol Circle",
+            "TELEPHONE": "416-896-5800",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "khalid@lakeviewdevelopment.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 94,
+            "SUMM_TOTAL": 94,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100566203",
+            "TO": "Khalid Mehmood",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-896-5800"
+        },
+        {
+            "TOUNIQUENUMBER": "100566203",
+            "TO": "Khalid Mehmood",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-896-5800"
+        },
+        {
+            "TOUNIQUENUMBER": "100566203",
+            "TO": "Khalid Mehmood",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-896-5800"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47653",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1821154 Ontario Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Grand Bell 2",
+            "Project Status": "In Progress",
+            "Location": "BRANTFORD",
+            "Address": " 33 and 43 Erie Ave. ",
+            "# of Units": 222,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "Grand Bell Suites",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": " 7 Erie Ave. ",
+            "# of Units": 96,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2023-06-26"
+        }
+    ],
+    "builderConditions": []
+}

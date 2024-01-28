@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B45455",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "River Rock Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Otterville",
+            "HCRA_INITIALLICENSEDATE": "2016-08-31",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-20 18:35:10.000 +0000",
+            "Expiry Date": "2024-09-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "225827 Otterville Road",
+            "TELEPHONE": "519-788-3145",
+            "FAX": null,
+            "WEBSITEURL": "www.rrcl.build",
+            "EMAIL": "dan@rrcl.build",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 6,
+            "SUMM_CONDO": 4,
+            "SUMM_TOTAL": 10,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100310244",
+            "TO": "Dan Martin",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-788-3145"
+        },
+        {
+            "TOUNIQUENUMBER": "100310244",
+            "TO": "Dan Martin",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-788-3145"
+        },
+        {
+            "TOUNIQUENUMBER": "100310244",
+            "TO": "Dan Martin",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-788-3145"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B45455",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "River Rock Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Sea Breeze Villas",
+            "Project Status": "Completed",
+            "Location": "PORT DOVER",
+            "Address": " 16 Somerset Dr. ",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-02-11"
+        }
+    ],
+    "builderConditions": []
+}

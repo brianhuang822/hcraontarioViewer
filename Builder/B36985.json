@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36985",
+            "Umbrella": "MacGregor Enterprises",
+            "Umbrella ID": "12540280",
+            "VB_NAME": "1429109 Ontario Inc.",
+            "OPERATINGNAME": "Inverlyn Construction",
+            "CITY": "KINCARDINE",
+            "HCRA_INITIALLICENSEDATE": "2006-09-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-09-27 13:31:10.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "85 Saratoga Rd., P.O. Box 269",
+            "TELEPHONE": "519-396-5531",
+            "FAX": "519-396-5532",
+            "WEBSITEURL": null,
+            "EMAIL": "inverlyn@bmts.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "309550",
+            "TO": "Heather Doyle",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "331453",
+            "TO": "Anne MacGregor Small",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "320595",
+            "TO": "Norman James MacGregor",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-396-5531"
+        },
+        {
+            "TOUNIQUENUMBER": "320595",
+            "TO": "Norman James MacGregor",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-396-5531"
+        },
+        {
+            "TOUNIQUENUMBER": "320598",
+            "TO": "Deborah MacGregor-Brindley",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-396-5531"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36985",
+            "Umbrella": "MacGregor Enterprises",
+            "Umbrella ID": "12540280",
+            "VB_NAME": "1429109 Ontario Inc.",
+            "OPERATINGNAME": "Inverlyn Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40888",
+            "MEMBERNAME": "MacGregor Enterprises Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36985",
+            "Umbrella": "MacGregor Enterprises",
+            "Umbrella ID": "12540280",
+            "VB_NAME": "1429109 Ontario Inc.",
+            "OPERATINGNAME": "Inverlyn Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36985",
+            "MEMBERNAME": "1429109 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Inverlyn Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

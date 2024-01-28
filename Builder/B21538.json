@@ -1,0 +1,186 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21538",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Echovale Properties Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Brantford",
+            "HCRA_INITIALLICENSEDATE": "1991-11-18",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1999-11-20 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "George Hertog",
+            "TELEPHONE": "(519)756-6777",
+            "FAX": "(905)523-0378",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339072",
+            "TO": "W.E.C. Wilson",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "338760",
+            "TO": "Elmer Parkas",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "338758",
+            "TO": "Carl Turkstra",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "338758",
+            "TO": "Carl Turkstra",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "334420",
+            "TO": "Peter Turkstra",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-679-6855"
+        },
+        {
+            "TOUNIQUENUMBER": "334420",
+            "TO": "Peter Turkstra",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-679-6855"
+        },
+        {
+            "TOUNIQUENUMBER": "338759",
+            "TO": "Herb Schreiber",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "338759",
+            "TO": "Herb Schreiber",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "338111",
+            "TO": "Lynn E. Taylor",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-476-1163"
+        },
+        {
+            "TOUNIQUENUMBER": "338761",
+            "TO": "Clifford Turkstra",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "315080",
+            "TO": "George Hertog",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "315080",
+            "TO": "George Hertog",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "338762",
+            "TO": "Marlene Verduyn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21538",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Echovale Properties Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HARRIS VALLEY",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "Harris Ave.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1999-01-11"
+        },
+        {
+            "Condo Project Name": "HARRIS VALLEY",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "26 Harris Valley",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1997-12-04"
+        },
+        {
+            "Condo Project Name": "HARRIS VALLEY",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "26 Harris Ave.,",
+            "# of Units": 13,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1995-11-29"
+        },
+        {
+            "Condo Project Name": "HARRIS VALLEY, BRANTFORD",
+            "Project Status": "Completed",
+            "Location": "BRANTFORD",
+            "Address": "26 Harris Ave.",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1992-07-21"
+        }
+    ],
+    "builderConditions": []
+}

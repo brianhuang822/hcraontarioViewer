@@ -1,0 +1,141 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B8761",
+            "Umbrella": "Centara Corporation",
+            "Umbrella ID": "1467",
+            "VB_NAME": "Centara Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "NORTH YORK",
+            "HCRA_INITIALLICENSEDATE": "1987-03-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1991-06-17 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "5255 Yonge St. Suite# 800",
+            "TELEPHONE": "(416)512-6777",
+            "FAX": "(416)512-2711",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "305606",
+            "TO": "Daniel C. Casey",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-971-7557"
+        },
+        {
+            "TOUNIQUENUMBER": "332304",
+            "TO": "Michael L. Stein",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-861-5758"
+        },
+        {
+            "TOUNIQUENUMBER": "305088",
+            "TO": "Donald Cameron",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-920-5899"
+        },
+        {
+            "TOUNIQUENUMBER": "303495",
+            "TO": "Joseph Bolla",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B8761",
+            "Umbrella": "Centara Corporation",
+            "Umbrella ID": "1467",
+            "VB_NAME": "Centara Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B9157",
+            "MEMBERNAME": "Riverpark Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B8761",
+            "Umbrella": "Centara Corporation",
+            "Umbrella ID": "1467",
+            "VB_NAME": "Centara Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B18732",
+            "MEMBERNAME": "Corinthian Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B8761",
+            "Umbrella": "Centara Corporation",
+            "Umbrella ID": "1467",
+            "VB_NAME": "Centara Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17595",
+            "MEMBERNAME": "Cathedral Square Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B8761",
+            "Umbrella": "Centara Corporation",
+            "Umbrella ID": "1467",
+            "VB_NAME": "Centara Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B8761",
+            "MEMBERNAME": "Centara Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B8761",
+            "Umbrella": "Centara Corporation",
+            "Umbrella ID": "1467",
+            "VB_NAME": "Centara Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B9200",
+            "MEMBERNAME": "Empire Plaza Enterprises Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "HURONTARIO ST. CONDO",
+            "Project Status": "Completed",
+            "Location": "MISSISSAUGA",
+            "Address": "2091 Hurontario St.",
+            "# of Units": 140,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1989-04-03"
+        }
+    ],
+    "builderConditions": []
+}

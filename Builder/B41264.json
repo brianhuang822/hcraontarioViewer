@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41264",
+            "Umbrella": "Kathmann Construction",
+            "Umbrella ID": "12492373",
+            "VB_NAME": "Lunas Holdings Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "2011-07-28",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2012-07-29 15:03:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1425 Mulligan St.",
+            "TELEPHONE": "613-737-3331",
+            "FAX": "613-737-3331",
+            "WEBSITEURL": null,
+            "EMAIL": "lunasholdings@msn.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12475430",
+            "TO": "Leslie Kathmann",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-737-3331"
+        },
+        {
+            "TOUNIQUENUMBER": "12475430",
+            "TO": "Leslie Kathmann",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-737-3331"
+        },
+        {
+            "TOUNIQUENUMBER": "12475430",
+            "TO": "Leslie Kathmann",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-737-3331"
+        },
+        {
+            "TOUNIQUENUMBER": "12468383",
+            "TO": "Peter Kathmann",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-261-7165"
+        },
+        {
+            "TOUNIQUENUMBER": "12468383",
+            "TO": "Peter Kathmann",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-261-7165"
+        },
+        {
+            "TOUNIQUENUMBER": "12468383",
+            "TO": "Peter Kathmann",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-261-7165"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41264",
+            "Umbrella": "Kathmann Construction",
+            "Umbrella ID": "12492373",
+            "VB_NAME": "Lunas Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41264",
+            "MEMBERNAME": "Lunas Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41264",
+            "Umbrella": "Kathmann Construction",
+            "Umbrella ID": "12492373",
+            "VB_NAME": "Lunas Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41161",
+            "MEMBERNAME": "Kathmann Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

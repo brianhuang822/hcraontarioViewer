@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B43926",
+            "Umbrella": "Policella Homes",
+            "Umbrella ID": "12542043",
+            "VB_NAME": "Policella Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Welland",
+            "HCRA_INITIALLICENSEDATE": "2014-09-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-09-05 20:46:19.000 +0000",
+            "Expiry Date": "2024-09-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "945 South Pelham Road",
+            "TELEPHONE": "905-892-9897",
+            "FAX": "905-892-9897",
+            "WEBSITEURL": "www.policellahomes.com",
+            "EMAIL": "vincepolicella@cogeco.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 157,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 157,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12106696",
+            "TO": "Vince Policella Jr.",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-9897"
+        },
+        {
+            "TOUNIQUENUMBER": "12106696",
+            "TO": "Vince Policella Jr.",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-9897"
+        },
+        {
+            "TOUNIQUENUMBER": "12106696",
+            "TO": "Vince Policella Jr.",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-892-9897"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B43926",
+            "Umbrella": "Policella Homes",
+            "Umbrella ID": "12542043",
+            "VB_NAME": "Policella Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B20967",
+            "MEMBERNAME": "Vincent Policella Masonry Contractor Limited",
+            "MEMBEROPERATINGNAME": "Policella Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B43926",
+            "Umbrella": "Policella Homes",
+            "Umbrella ID": "12542043",
+            "VB_NAME": "Policella Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B43926",
+            "MEMBERNAME": "Policella Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B48836",
+            "Umbrella": "YGK Homes",
+            "Umbrella ID": "500002289",
+            "VB_NAME": "YGK Group Inc.",
+            "OPERATINGNAME": "Northpeak Homes",
+            "CITY": "Kingston",
+            "HCRA_INITIALLICENSEDATE": "2021-01-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-12-28 14:28:53.000 +0000",
+            "Expiry Date": "2025-01-21",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "696 Harrow Place",
+            "TELEPHONE": "613-484-5955",
+            "FAX": null,
+            "WEBSITEURL": "https://www.northpeakhomes.ca",
+            "EMAIL": "info@northpeakhomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 7,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 7,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100681828",
+            "TO": "Matthew Williams",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-484-5955"
+        },
+        {
+            "TOUNIQUENUMBER": "100681828",
+            "TO": "Matthew Williams",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-484-5955"
+        },
+        {
+            "TOUNIQUENUMBER": "100683259",
+            "TO": "Andrew Nesbitt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-532-9506"
+        },
+        {
+            "TOUNIQUENUMBER": "100683259",
+            "TO": "Andrew Nesbitt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-532-9506"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B48836",
+            "Umbrella": "YGK Homes",
+            "Umbrella ID": "500002289",
+            "VB_NAME": "YGK Group Inc.",
+            "OPERATINGNAME": "Northpeak Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B48836",
+            "MEMBERNAME": "YGK Group Inc.",
+            "MEMBEROPERATINGNAME": "Northpeak Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B48836",
+            "Umbrella": "YGK Homes",
+            "Umbrella ID": "500002289",
+            "VB_NAME": "YGK Group Inc.",
+            "OPERATINGNAME": "Northpeak Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62204",
+            "MEMBERNAME": "Matthew Williams",
+            "MEMBEROPERATINGNAME": "WX3",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B32040",
+            "Umbrella": "John Trainer Construction",
+            "Umbrella ID": "12004470",
+            "VB_NAME": "John Trainer",
+            "OPERATINGNAME": "John Trainer Construction",
+            "CITY": "HAGERSVILLE",
+            "HCRA_INITIALLICENSEDATE": "2002-02-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-02-22 13:30:59.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "125 Duxburry Rd, Box 123",
+            "TELEPHONE": "(905)768-2975",
+            "FAX": "(905)768-4344",
+            "WEBSITEURL": null,
+            "EMAIL": "ktrainer@sympatico.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11756430",
+            "TO": "John Trainer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B32040",
+            "Umbrella": "John Trainer Construction",
+            "Umbrella ID": "12004470",
+            "VB_NAME": "John Trainer",
+            "OPERATINGNAME": "John Trainer Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34426",
+            "MEMBERNAME": "John Trainer Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B32040",
+            "Umbrella": "John Trainer Construction",
+            "Umbrella ID": "12004470",
+            "VB_NAME": "John Trainer",
+            "OPERATINGNAME": "John Trainer Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32040",
+            "MEMBERNAME": "John Trainer",
+            "MEMBEROPERATINGNAME": "John Trainer Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

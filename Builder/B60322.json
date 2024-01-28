@@ -1,0 +1,100 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B60322",
+            "Umbrella": "Plazacomm",
+            "Umbrella ID": "500001351",
+            "VB_NAME": "One Thompson Inc.",
+            "OPERATINGNAME": "Mill Street Courtyards",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2021-06-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-11 17:06:51.000 +0000",
+            "Expiry Date": "2024-07-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "10 Wanless Avenue",
+            "TELEPHONE": "416-481-2222",
+            "FAX": null,
+            "WEBSITEURL": "https://www.plazacomm.com/",
+            "EMAIL": "agold@plazacorp.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100563407",
+            "TO": "Ezriel Gestetner",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "100563407",
+            "TO": "Ezriel Gestetner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "100563407",
+            "TO": "Ezriel Gestetner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "314889",
+            "TO": "Anthony Heller",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        },
+        {
+            "TOUNIQUENUMBER": "314889",
+            "TO": "Anthony Heller",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-481-2222"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B60322",
+            "Umbrella": "Plazacomm",
+            "Umbrella ID": "500001351",
+            "VB_NAME": "One Thompson Inc.",
+            "OPERATINGNAME": "Mill Street Courtyards",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60322",
+            "MEMBERNAME": "One Thompson Inc.",
+            "MEMBEROPERATINGNAME": "Mill Street Courtyards",
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Mill Street Courtyards",
+            "Project Status": null,
+            "Location": "PORT HOPE",
+            "Address": "  Mill St. N. ",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

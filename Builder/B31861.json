@@ -1,0 +1,92 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31861",
+            "Umbrella": "L.A. Group",
+            "Umbrella ID": "12299256",
+            "VB_NAME": "1000563466 Ontario Limited",
+            "OPERATINGNAME": "L.A. Group",
+            "CITY": "Kemptville",
+            "HCRA_INITIALLICENSEDATE": "2002-03-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-16 17:59:22.000 +0000",
+            "Expiry Date": "2024-03-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 278",
+            "TELEPHONE": "613-271-9644",
+            "FAX": "613-271-1801",
+            "WEBSITEURL": "www.lagroup.ca",
+            "EMAIL": "joel@lagroup.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304192",
+            "TO": "J. Gilles Brisebois",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-271-9644"
+        },
+        {
+            "TOUNIQUENUMBER": "304192",
+            "TO": "J. Gilles Brisebois",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-271-9644"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31861",
+            "Umbrella": "L.A. Group",
+            "Umbrella ID": "12299256",
+            "VB_NAME": "1000563466 Ontario Limited",
+            "OPERATINGNAME": "L.A. Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31861",
+            "MEMBERNAME": "1000563466 Ontario Limited",
+            "MEMBEROPERATINGNAME": "L.A. Group",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31861",
+            "Umbrella": "L.A. Group",
+            "Umbrella ID": "12299256",
+            "VB_NAME": "1000563466 Ontario Limited",
+            "OPERATINGNAME": "L.A. Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B38750",
+            "MEMBERNAME": "2156116 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Upper East Side",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31861",
+            "Umbrella": "L.A. Group",
+            "Umbrella ID": "12299256",
+            "VB_NAME": "1000563466 Ontario Limited",
+            "OPERATINGNAME": "L.A. Group",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44201",
+            "MEMBERNAME": "Old Town Reuben Crescent Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

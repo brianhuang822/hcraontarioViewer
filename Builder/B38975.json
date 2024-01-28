@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38975",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Cobourg Construction Corp.",
+            "OPERATINGNAME": null,
+            "CITY": "Keswick",
+            "HCRA_INITIALLICENSEDATE": "2008-08-22",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-06-28 15:16:20.000 +0000",
+            "Expiry Date": "2024-08-23",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 25055",
+            "TELEPHONE": "647-333-9563",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "pshorten2@hotmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 15,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 15,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12299235",
+            "TO": "Paul Shorten",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-333-9563"
+        },
+        {
+            "TOUNIQUENUMBER": "12299235",
+            "TO": "Paul Shorten",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-333-9563"
+        },
+        {
+            "TOUNIQUENUMBER": "12299235",
+            "TO": "Paul Shorten",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "647-333-9563"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38975",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Cobourg Construction Corp.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Rama Lakefront",
+            "Project Status": null,
+            "Location": "LONGFORD",
+            "Address": "7199 Rama Rd.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

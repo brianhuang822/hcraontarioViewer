@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33122",
+            "Umbrella": "Coghill Construction & Woodworking",
+            "Umbrella ID": "12540501",
+            "VB_NAME": "1298477 Ontario Limited",
+            "OPERATINGNAME": "Coghill Construction & Woodworking",
+            "CITY": "KINGSVILLE",
+            "HCRA_INITIALLICENSEDATE": "2003-03-20",
+            "LICENCE_STATUS": "Refused",
+            "HCRA_LICENSERENEWEDON": "2009-06-03 19:38:06.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "59 Queen Street",
+            "TELEPHONE": "519-733-6413",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344792",
+            "TO": "Nancy Coghill",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "344792",
+            "TO": "Nancy Coghill",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "342184",
+            "TO": "Francis Dean Coghill",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-733-6413"
+        },
+        {
+            "TOUNIQUENUMBER": "342184",
+            "TO": "Francis Dean Coghill",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-733-6413"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33122",
+            "Umbrella": "Coghill Construction & Woodworking",
+            "Umbrella ID": "12540501",
+            "VB_NAME": "1298477 Ontario Limited",
+            "OPERATINGNAME": "Coghill Construction & Woodworking",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B25901",
+            "MEMBERNAME": "Coghill Construction & Woodworking",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33122",
+            "Umbrella": "Coghill Construction & Woodworking",
+            "Umbrella ID": "12540501",
+            "VB_NAME": "1298477 Ontario Limited",
+            "OPERATINGNAME": "Coghill Construction & Woodworking",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B28146",
+            "MEMBERNAME": "1298477 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Coghill Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B33122",
+            "Umbrella": "Coghill Construction & Woodworking",
+            "Umbrella ID": "12540501",
+            "VB_NAME": "1298477 Ontario Limited",
+            "OPERATINGNAME": "Coghill Construction & Woodworking",
+            "LICENCE_STATUS": "Refused",
+            "MEMBERVBNUM": "B33122",
+            "MEMBERNAME": "1298477 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Coghill Construction & Woodworking",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

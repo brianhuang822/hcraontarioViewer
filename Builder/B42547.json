@@ -1,0 +1,134 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B42547",
+            "Umbrella": "NovaCore Communities",
+            "Umbrella ID": "12540834",
+            "VB_NAME": "Starward Homes (Scenic 2012) Limited",
+            "OPERATINGNAME": null,
+            "CITY": "HAMILTON",
+            "HCRA_INITIALLICENSEDATE": "2013-02-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2016-02-27 14:01:01.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2000 Garth St., Ste. 201",
+            "TELEPHONE": "905/667-8800",
+            "FAX": "905/667-8801",
+            "WEBSITEURL": "www.starwardhomes.com",
+            "EMAIL": "brandon@starwardhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 15,
+            "SUMM_CONDO": 45,
+            "SUMM_TOTAL": 60,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100170973",
+            "TO": "Anthony Di Fruscio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-667-4832"
+        },
+        {
+            "TOUNIQUENUMBER": "100170973",
+            "TO": "Anthony Di Fruscio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-667-4832"
+        },
+        {
+            "TOUNIQUENUMBER": "12207674",
+            "TO": "Robert Joseph Baiocco",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-684-4141"
+        },
+        {
+            "TOUNIQUENUMBER": "12207674",
+            "TO": "Robert Joseph Baiocco",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-684-4141"
+        },
+        {
+            "TOUNIQUENUMBER": "305181",
+            "TO": "Ward Campbell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-667-8800"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B42547",
+            "Umbrella": "NovaCore Communities",
+            "Umbrella ID": "12540834",
+            "VB_NAME": "Starward Homes (Scenic 2012) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39715",
+            "MEMBERNAME": "Starward Homes (Heritage Point) Limited",
+            "MEMBEROPERATINGNAME": "Starward Homes (Heritage Point)",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42547",
+            "Umbrella": "NovaCore Communities",
+            "Umbrella ID": "12540834",
+            "VB_NAME": "Starward Homes (Scenic 2012) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42909",
+            "MEMBERNAME": "Starward Homes (Country Ridge) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B42547",
+            "Umbrella": "NovaCore Communities",
+            "Umbrella ID": "12540834",
+            "VB_NAME": "Starward Homes (Scenic 2012) Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42547",
+            "MEMBERNAME": "Starward Homes (Scenic 2012) Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Scenic Trail",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": "53 Redfern Ave.",
+            "# of Units": 19,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-09-29"
+        },
+        {
+            "Condo Project Name": "Scenic Trail",
+            "Project Status": "Completed",
+            "Location": "HAMILTON",
+            "Address": "53 Redfern Ave.",
+            "# of Units": 26,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-06-19"
+        }
+    ],
+    "builderConditions": []
+}

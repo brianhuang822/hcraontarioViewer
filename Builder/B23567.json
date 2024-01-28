@@ -1,0 +1,139 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23567",
+            "Umbrella": "Royal Creek Homes",
+            "Umbrella ID": "2489",
+            "VB_NAME": "Grand Oak Homes (Northern One) Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "1995-01-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1997-01-22 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2837 Yonge St.",
+            "TELEPHONE": "(416)482-0133",
+            "FAX": "(416)440-3073",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "315989",
+            "TO": "Edwin G. Hyde",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-482-0133"
+        },
+        {
+            "TOUNIQUENUMBER": "315989",
+            "TO": "Edwin G. Hyde",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-482-0133"
+        },
+        {
+            "TOUNIQUENUMBER": "315989",
+            "TO": "Edwin G. Hyde",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-482-0133"
+        },
+        {
+            "TOUNIQUENUMBER": "322383",
+            "TO": "Colin McLachlan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-482-0133"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23567",
+            "Umbrella": "Royal Creek Homes",
+            "Umbrella ID": "2489",
+            "VB_NAME": "Grand Oak Homes (Northern One) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23567",
+            "MEMBERNAME": "Grand Oak Homes (Northern One) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23567",
+            "Umbrella": "Royal Creek Homes",
+            "Umbrella ID": "2489",
+            "VB_NAME": "Grand Oak Homes (Northern One) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22482",
+            "MEMBERNAME": "Major Mills Estates Inc.",
+            "MEMBEROPERATINGNAME": "Symphony Park",
+            "MEMBERLICENCESTATUS": "Revoked"
+        },
+        {
+            "Account Number": "B23567",
+            "Umbrella": "Royal Creek Homes",
+            "Umbrella ID": "2489",
+            "VB_NAME": "Grand Oak Homes (Northern One) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B8545",
+            "MEMBERNAME": "Abrade Investments Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23567",
+            "Umbrella": "Royal Creek Homes",
+            "Umbrella ID": "2489",
+            "VB_NAME": "Grand Oak Homes (Northern One) Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22569",
+            "MEMBERNAME": "Grand Oak Homes (Trillium) Inc.",
+            "MEMBEROPERATINGNAME": "Whitby Village",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "GRAND OAK HOMES (NORTHERN)",
+            "Project Status": "In Progress",
+            "Location": "WHITBY",
+            "Address": "Brock & Wallace Dr.",
+            "# of Units": 34,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        },
+        {
+            "Condo Project Name": "PARK PLACE",
+            "Project Status": "In Progress",
+            "Location": "WHITBY",
+            "Address": "Wallace Drive",
+            "# of Units": 15,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ],
+    "builderConditions": []
+}

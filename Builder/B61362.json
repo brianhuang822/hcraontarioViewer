@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B61362",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2808234 Ontario Inc.",
+            "OPERATINGNAME": "2808234 Ontario Inc.",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2022-05-25",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-06 18:54:38.000 +0000",
+            "Expiry Date": "2024-05-26",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "161 Dupont Street",
+            "TELEPHONE": "416-722-4428",
+            "FAX": null,
+            "WEBSITEURL": "https://daffodildevelopments.com",
+            "EMAIL": "sep@daffodildevelopments.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": null,
+            "SUMM_CONDO": null,
+            "SUMM_TOTAL": null,
+            "SUMM_CC": null,
+            "SUMM_MINOR": null,
+            "SUMM_MINOR_AMT": null,
+            "SUMM_MAJOR": null,
+            "SUMM_MAJOR_AMT": null,
+            "SUMM_TOTAL_CLAIMS": null
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "600010774",
+            "TO": "Mir Shams Mousavi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "437-255-9098"
+        },
+        {
+            "TOUNIQUENUMBER": "600010774",
+            "TO": "Mir Shams Mousavi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "437-255-9098"
+        },
+        {
+            "TOUNIQUENUMBER": "600010774",
+            "TO": "Mir Shams Mousavi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "437-255-9098"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B61362",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "2808234 Ontario Inc.",
+            "OPERATINGNAME": "2808234 Ontario Inc.",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Angular Condos",
+            "Project Status": "In Progress",
+            "Location": "TORONTO",
+            "Address": " 995-1005 Broadview Ave. ",
+            "# of Units": 50,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

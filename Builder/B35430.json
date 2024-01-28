@@ -1,0 +1,84 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35430",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Christopher Heights Development Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "Waterloo",
+            "HCRA_INITIALLICENSEDATE": "2005-04-06",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-04-07 13:31:08.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "180 Frobisher Dr., Unit # 3",
+            "TELEPHONE": "519-208-2215",
+            "FAX": "226-820-1708",
+            "WEBSITEURL": "aberdeenhomes.ca",
+            "EMAIL": "sabrina.r@crescenthomes.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35430",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Christopher Heights Development Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "CHRISTOPHER HEIGHTS",
+            "Project Status": "Completed",
+            "Location": "KITCHENER",
+            "Address": " 120 Dudhope Ave. ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-12-12"
+        },
+        {
+            "Condo Project Name": "CHRISTOPHER HEIGHTS",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": " 120 Dudhope Ave ",
+            "# of Units": 12,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-07-17"
+        },
+        {
+            "Condo Project Name": "CHRISTOPHER HEIGHTS",
+            "Project Status": "Completed",
+            "Location": "CAMBRIDGE",
+            "Address": " 120 Dudhope Ave ",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2006-03-28"
+        }
+    ],
+    "builderConditions": []
+}

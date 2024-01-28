@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36300",
+            "Umbrella": "Campbell Homes",
+            "Umbrella ID": "12540230",
+            "VB_NAME": "J. Campbell Custom Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "ANCASTER",
+            "HCRA_INITIALLICENSEDATE": "2006-01-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2020-01-12 14:00:08.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "39 Thornwood Dr.",
+            "TELEPHONE": "905-975-3827",
+            "FAX": "905/648-8301",
+            "WEBSITEURL": " ",
+            "EMAIL": "rcampbell004@sympatico.ca",
+            "ACCOUNTNUMBER": "B36300",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 4,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 4,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11944534",
+            "TO": "John Ross Campbell",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-975-3827"
+        },
+        {
+            "TOUNIQUENUMBER": "11944534",
+            "TO": "John Ross Campbell",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-975-3827"
+        },
+        {
+            "TOUNIQUENUMBER": "11944534",
+            "TO": "John Ross Campbell",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-975-3827"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36300",
+            "Umbrella": "Campbell Homes",
+            "Umbrella ID": "12540230",
+            "VB_NAME": "J. Campbell Custom Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36300",
+            "MEMBERNAME": "J. Campbell Custom Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36300",
+            "Umbrella": "Campbell Homes",
+            "Umbrella ID": "12540230",
+            "VB_NAME": "J. Campbell Custom Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B33800",
+            "MEMBERNAME": "6123295 Canada Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

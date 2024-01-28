@@ -1,0 +1,152 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23533",
+            "Umbrella": "Rinaldi Homes",
+            "Umbrella ID": "3325",
+            "VB_NAME": "Rinaldi Homes Inc. (joint Venture)",
+            "OPERATINGNAME": null,
+            "CITY": "ST. CATHARINES",
+            "HCRA_INITIALLICENSEDATE": "1993-12-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1995-12-19 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1 Breckenridge P.O. Box 1655",
+            "TELEPHONE": "(905)680-2240",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "328308",
+            "TO": "Frank Rinaldi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-3030"
+        },
+        {
+            "TOUNIQUENUMBER": "328308",
+            "TO": "Frank Rinaldi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-3030"
+        },
+        {
+            "TOUNIQUENUMBER": "328308",
+            "TO": "Frank Rinaldi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-651-3030"
+        },
+        {
+            "TOUNIQUENUMBER": "323575",
+            "TO": "John Delisio",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "323575",
+            "TO": "John Delisio",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "323575",
+            "TO": "John Delisio",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "328309",
+            "TO": "Jerry Rinaldi",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-0095"
+        },
+        {
+            "TOUNIQUENUMBER": "328309",
+            "TO": "Jerry Rinaldi",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-0095"
+        },
+        {
+            "TOUNIQUENUMBER": "328309",
+            "TO": "Jerry Rinaldi",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-688-0095"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23533",
+            "Umbrella": "Rinaldi Homes",
+            "Umbrella ID": "3325",
+            "VB_NAME": "Rinaldi Homes Inc. (joint Venture)",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23533",
+            "MEMBERNAME": "Rinaldi Homes Inc. (joint Venture)",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23533",
+            "Umbrella": "Rinaldi Homes",
+            "Umbrella ID": "3325",
+            "VB_NAME": "Rinaldi Homes Inc. (joint Venture)",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41698",
+            "MEMBERNAME": "Rinaldi Homes (Niagara) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B23533",
+            "Umbrella": "Rinaldi Homes",
+            "Umbrella ID": "3325",
+            "VB_NAME": "Rinaldi Homes Inc. (joint Venture)",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B12794",
+            "MEMBERNAME": "895066 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "KAITLIN COURT CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "NIAGARA FALLS",
+            "Address": "3364 Montrose Rd.",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1992-10-19"
+        }
+    ],
+    "builderConditions": []
+}

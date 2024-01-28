@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21984",
+            "Umbrella": "RND Construction",
+            "Umbrella ID": "11985431",
+            "VB_NAME": "895547 Ontario Ltd.",
+            "OPERATINGNAME": "RND Construction",
+            "CITY": "OTTAWA",
+            "HCRA_INITIALLICENSEDATE": "1992-05-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-05-14 13:30:41.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "675  Industrail Avenue",
+            "TELEPHONE": "(613) 225-5288",
+            "FAX": "(613) 225-4838",
+            "WEBSITEURL": "www.acculiftflooring.com",
+            "EMAIL": "roy@acculiftflooring.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "324242",
+            "TO": "Kamal Nandram",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-523-8598"
+        },
+        {
+            "TOUNIQUENUMBER": "324242",
+            "TO": "Kamal Nandram",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-523-8598"
+        },
+        {
+            "TOUNIQUENUMBER": "324242",
+            "TO": "Kamal Nandram",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-523-8598"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21984",
+            "Umbrella": "RND Construction",
+            "Umbrella ID": "11985431",
+            "VB_NAME": "895547 Ontario Ltd.",
+            "OPERATINGNAME": "RND Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39459",
+            "MEMBERNAME": "RND Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B21984",
+            "Umbrella": "RND Construction",
+            "Umbrella ID": "11985431",
+            "VB_NAME": "895547 Ontario Ltd.",
+            "OPERATINGNAME": "RND Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B21984",
+            "MEMBERNAME": "895547 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "RND Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B21984",
+            "Umbrella": "RND Construction",
+            "Umbrella ID": "11985431",
+            "VB_NAME": "895547 Ontario Ltd.",
+            "OPERATINGNAME": "RND Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34103",
+            "MEMBERNAME": "RND Development Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

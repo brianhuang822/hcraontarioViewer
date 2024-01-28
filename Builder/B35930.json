@@ -1,0 +1,105 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35930",
+            "Umbrella": "Home-Form Construction",
+            "Umbrella ID": "12544109",
+            "VB_NAME": "Home-Form Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2006-05-24",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-05-25 12:00:17.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "2751 Bloor St West, 1'st Floor",
+            "TELEPHONE": "416-249-8181",
+            "FAX": "416-242-6468",
+            "WEBSITEURL": "www.longocommunities.com",
+            "EMAIL": "lplongo@longocorp.com",
+            "ACCOUNTNUMBER": "B35930",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "320125",
+            "TO": "Dean V. Longo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-249-8181"
+        },
+        {
+            "TOUNIQUENUMBER": "320129",
+            "TO": "Lawrence (Larry) Longo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-249-8181"
+        },
+        {
+            "TOUNIQUENUMBER": "320129",
+            "TO": "Lawrence (Larry) Longo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-249-8181"
+        },
+        {
+            "TOUNIQUENUMBER": "320129",
+            "TO": "Lawrence (Larry) Longo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-249-8181"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35930",
+            "Umbrella": "Home-Form Construction",
+            "Umbrella ID": "12544109",
+            "VB_NAME": "Home-Form Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44932",
+            "MEMBERNAME": "Home-Form Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B35930",
+            "Umbrella": "Home-Form Construction",
+            "Umbrella ID": "12544109",
+            "VB_NAME": "Home-Form Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35930",
+            "MEMBERNAME": "Home-Form Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Homeform Corktown-Shuter Street",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "567 Shuter St.",
+            "# of Units": 16,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

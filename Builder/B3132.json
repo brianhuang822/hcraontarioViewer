@@ -1,0 +1,101 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B3132",
+            "Umbrella": "Klemencic Homes",
+            "Umbrella ID": "3464",
+            "VB_NAME": "Stan Klemencic Builder Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "TRENTON",
+            "HCRA_INITIALLICENSEDATE": "1977-04-16",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-04-15 12:32:39.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "499 Dundas St. W., Box 506,",
+            "TELEPHONE": "(613)392-7839",
+            "FAX": "(613)392-0726",
+            "WEBSITEURL": "www.klemencic.com",
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "317791",
+            "TO": "Andrew Peter Klemencic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "317793",
+            "TO": "Stanko Klemencic",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-7839"
+        },
+        {
+            "TOUNIQUENUMBER": "317793",
+            "TO": "Stanko Klemencic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-7839"
+        },
+        {
+            "TOUNIQUENUMBER": "317793",
+            "TO": "Stanko Klemencic",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-7839"
+        },
+        {
+            "TOUNIQUENUMBER": "317792",
+            "TO": "Mark Klemencic",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-392-7839"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B3132",
+            "Umbrella": "Klemencic Homes",
+            "Umbrella ID": "3464",
+            "VB_NAME": "Stan Klemencic Builder Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B3132",
+            "MEMBERNAME": "Stan Klemencic Builder Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B3132",
+            "Umbrella": "Klemencic Homes",
+            "Umbrella ID": "3464",
+            "VB_NAME": "Stan Klemencic Builder Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22201",
+            "MEMBERNAME": "Klemencic Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

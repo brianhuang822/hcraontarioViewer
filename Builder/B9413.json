@@ -1,0 +1,169 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B9413",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Landmark Of Thornhill Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "NORTH YORK",
+            "HCRA_INITIALLICENSEDATE": "1988-04-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1999-04-13 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Brookfield Homes, Ontario Business Group",
+            "TELEPHONE": "(416)490-2824",
+            "FAX": "(416)490-0710",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "301287",
+            "TO": "Graham Goodchild",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-599-1930"
+        },
+        {
+            "TOUNIQUENUMBER": "333107",
+            "TO": "Moshe Tamari",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "333107",
+            "TO": "Moshe Tamari",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "333107",
+            "TO": "Moshe Tamari",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "332525",
+            "TO": "Martyn Stollar",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-8997"
+        },
+        {
+            "TOUNIQUENUMBER": "332525",
+            "TO": "Martyn Stollar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-8997"
+        },
+        {
+            "TOUNIQUENUMBER": "332525",
+            "TO": "Martyn Stollar",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-449-8997"
+        },
+        {
+            "TOUNIQUENUMBER": "325874",
+            "TO": "Z. Paul",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "325874",
+            "TO": "Z. Paul",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "336093",
+            "TO": "Garnet Watchorn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-599-1930"
+        },
+        {
+            "TOUNIQUENUMBER": "336093",
+            "TO": "Garnet Watchorn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-599-1930"
+        },
+        {
+            "TOUNIQUENUMBER": "336093",
+            "TO": "Garnet Watchorn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-599-1930"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B9413",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Landmark Of Thornhill Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "LANDMARK OF THORNHILL",
+            "Project Status": "Completed",
+            "Location": "THORNHILL",
+            "Address": "7825 Bayview Ave.",
+            "# of Units": 340,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-05-09"
+        },
+        {
+            "Condo Project Name": "LANDMARK OF THORNHILL",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "7905 Bayview Ave.",
+            "# of Units": 268,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-05-09"
+        },
+        {
+            "Condo Project Name": "LANDMARK OF THORNHILL",
+            "Project Status": "Completed",
+            "Location": "MARKHAM",
+            "Address": "7805 Bayview Ave.",
+            "# of Units": 341,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-01-18"
+        }
+    ],
+    "builderConditions": []
+}

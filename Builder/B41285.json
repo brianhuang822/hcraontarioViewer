@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41285",
+            "Umbrella": "Haddington Developments",
+            "Umbrella ID": "12540864",
+            "VB_NAME": "Haddington Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2011-12-19",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2014-12-20 13:00:22.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "919 Sheppard Ave. W.",
+            "TELEPHONE": "416-410-1799",
+            "FAX": "416-850-4335",
+            "WEBSITEURL": "www.haddington.com",
+            "EMAIL": "robert@haddington.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "340710",
+            "TO": "Robert Rosenblatt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-410-1799"
+        },
+        {
+            "TOUNIQUENUMBER": "340710",
+            "TO": "Robert Rosenblatt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-410-1799"
+        },
+        {
+            "TOUNIQUENUMBER": "340710",
+            "TO": "Robert Rosenblatt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-410-1799"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41285",
+            "Umbrella": "Haddington Developments",
+            "Umbrella ID": "12540864",
+            "VB_NAME": "Haddington Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B35097",
+            "MEMBERNAME": "Haddington Developments Inc.",
+            "MEMBEROPERATINGNAME": "Haddington Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41285",
+            "Umbrella": "Haddington Developments",
+            "Umbrella ID": "12540864",
+            "VB_NAME": "Haddington Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41285",
+            "MEMBERNAME": "Haddington Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41285",
+            "Umbrella": "Haddington Developments",
+            "Umbrella ID": "12540864",
+            "VB_NAME": "Haddington Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B48072",
+            "MEMBERNAME": "Haddington Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

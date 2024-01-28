@@ -1,0 +1,146 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B39648",
+            "Umbrella": "Brejnik Fine Homes",
+            "Umbrella ID": "12356895",
+            "VB_NAME": "Brejnik Fine Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Hamilton",
+            "HCRA_INITIALLICENSEDATE": "2009-05-13",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-05-14 15:00:40.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "63 Dalewood Cres.",
+            "TELEPHONE": "905-407-3475",
+            "FAX": "905-525-2632",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "304083",
+            "TO": "Walter Brejnik",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-512-0494"
+        },
+        {
+            "TOUNIQUENUMBER": "12354142",
+            "TO": "Peter Brejnik",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-407-3475"
+        },
+        {
+            "TOUNIQUENUMBER": "12354142",
+            "TO": "Peter Brejnik",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-407-3475"
+        },
+        {
+            "TOUNIQUENUMBER": "12354142",
+            "TO": "Peter Brejnik",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-407-3475"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA104265",
+            "CHARGE_AGAINST": "Brejnik Fine Homes Inc.",
+            "CHARGE_DATE": "2012-01-09",
+            "DISPOSITION_DATE": "2012-08-14",
+            "THE_FINE_": "1500",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "375",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9325217",
+            "ORGANIZATION_NAME": "Brejnik Fine Homes Inc.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Oakville, ON",
+            "CITY_DEFENCE": "Hamilton, ON",
+            "VB_NUMBER": "B39648",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA104265 9325217",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "Oakville, Town",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2010-06-10",
+            "TO_OFFENCE_DATE": "2012-01-05",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "1875",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "08:41.0",
+            "PROBATION_ORDER": "N",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B39648",
+            "Umbrella": "Brejnik Fine Homes",
+            "Umbrella ID": "12356895",
+            "VB_NAME": "Brejnik Fine Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B42033",
+            "MEMBERNAME": "Brejnik Fine Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B39648",
+            "Umbrella": "Brejnik Fine Homes",
+            "Umbrella ID": "12356895",
+            "VB_NAME": "Brejnik Fine Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B11083",
+            "MEMBERNAME": "Brema Construction Co. Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B39648",
+            "Umbrella": "Brejnik Fine Homes",
+            "Umbrella ID": "12356895",
+            "VB_NAME": "Brejnik Fine Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39648",
+            "MEMBERNAME": "Brejnik Fine Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

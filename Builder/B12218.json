@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B12218",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Scarlett Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Ancaster",
+            "HCRA_INITIALLICENSEDATE": "1988-08-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-05 13:45:48.000 +0000",
+            "Expiry Date": "2024-08-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "36 Deerfield Lane",
+            "TELEPHONE": "905-318-3800",
+            "FAX": "905-318-3800",
+            "WEBSITEURL": "www.scarletthomes.com",
+            "EMAIL": "jlchun@mail.com",
+            "ACCOUNTNUMBER": "B12218",
+            "Total Outstanding Amount": 1254.25,
+            "TAB": 0,
+            "BREACH": 1254.25,
+            "SUMM_FREEHOLD": 135,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 135,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 5603.7,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 5603.7
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "306233",
+            "TO": "John L. Chun",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-318-3800"
+        },
+        {
+            "TOUNIQUENUMBER": "306233",
+            "TO": "John L. Chun",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-318-3800"
+        },
+        {
+            "TOUNIQUENUMBER": "306233",
+            "TO": "John L. Chun",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-318-3800"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B12218",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Scarlett Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

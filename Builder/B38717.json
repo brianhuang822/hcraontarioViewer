@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B38717",
+            "Umbrella": "Rusand Home Renovations",
+            "Umbrella ID": "12540304",
+            "VB_NAME": "Rusand Home Renovations Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2008-06-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-06-11 15:00:51.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "29 Spring Garden Rd.",
+            "TELEPHONE": "416/804-6008",
+            "FAX": "416-231-1398",
+            "WEBSITEURL": "www.rusandhomes.com",
+            "EMAIL": "info@rusandhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12286565",
+            "TO": "Krystyna Piecuch",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-817-6007"
+        },
+        {
+            "TOUNIQUENUMBER": "12286567",
+            "TO": "Jakub Bar",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-930-4798"
+        },
+        {
+            "TOUNIQUENUMBER": "12286563",
+            "TO": "Jerzy Piecuch",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-804-6008"
+        },
+        {
+            "TOUNIQUENUMBER": "12286563",
+            "TO": "Jerzy Piecuch",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-804-6008"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B38717",
+            "Umbrella": "Rusand Home Renovations",
+            "Umbrella ID": "12540304",
+            "VB_NAME": "Rusand Home Renovations Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41111",
+            "MEMBERNAME": "Rusand Home Renovations Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B38717",
+            "Umbrella": "Rusand Home Renovations",
+            "Umbrella ID": "12540304",
+            "VB_NAME": "Rusand Home Renovations Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38717",
+            "MEMBERNAME": "Rusand Home Renovations Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

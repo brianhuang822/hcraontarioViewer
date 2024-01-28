@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B34398",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Demik Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Hamilton",
+            "HCRA_INITIALLICENSEDATE": "2004-05-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-05-18 14:52:18.000 +0000",
+            "Expiry Date": "2024-05-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1250 Stone Church Road East",
+            "TELEPHONE": "905-388-9330",
+            "FAX": "905-574-1822",
+            "WEBSITEURL": " ",
+            "EMAIL": "mark.demik@demik.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11999309",
+            "TO": "Mark Demik",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-388-9330"
+        },
+        {
+            "TOUNIQUENUMBER": "11999309",
+            "TO": "Mark Demik",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-388-9330"
+        },
+        {
+            "TOUNIQUENUMBER": "11999309",
+            "TO": "Mark Demik",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-388-9330"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B34398",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Demik Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Fairway Estates",
+            "Project Status": null,
+            "Location": "DELHI",
+            "Address": " 88, 92, 96 St. Michaels St ",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

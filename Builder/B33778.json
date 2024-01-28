@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B33778",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1475022 Ontario Inc.",
+            "OPERATINGNAME": "MG Homes",
+            "CITY": "Barrie",
+            "HCRA_INITIALLICENSEDATE": "2003-08-29",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-24 17:54:51.000 +0000",
+            "Expiry Date": "2024-08-30",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "P.O. Box 28016",
+            "TELEPHONE": "705-720-4117",
+            "FAX": "705-812-1780",
+            "WEBSITEURL": "customhomesbymg.com",
+            "EMAIL": "wendy@exton.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 25,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 25,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11652876",
+            "TO": "Tony Marcelli",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-720-4117"
+        },
+        {
+            "TOUNIQUENUMBER": "11652876",
+            "TO": "Tony Marcelli",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-720-4117"
+        },
+        {
+            "TOUNIQUENUMBER": "11652876",
+            "TO": "Tony Marcelli",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-720-4117"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B33778",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "1475022 Ontario Inc.",
+            "OPERATINGNAME": "MG Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "VL Condo",
+            "Project Status": null,
+            "Location": "PORT MCNICOLL",
+            "Address": " 42,44,45 Swan Lane ",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

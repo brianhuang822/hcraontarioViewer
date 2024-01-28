@@ -1,0 +1,110 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B21975",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Anglia Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "1993-02-09",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-03-02 14:54:34.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "Reddington & White",
+            "TELEPHONE": "(905)896-7533",
+            "FAX": "(905)896-7573",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "339684",
+            "TO": "Douglas J. Reddington",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-843-3312"
+        },
+        {
+            "TOUNIQUENUMBER": "339684",
+            "TO": "Douglas J. Reddington",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-843-3312"
+        },
+        {
+            "TOUNIQUENUMBER": "339683",
+            "TO": "Stuart D. Reddington",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-896-7533"
+        },
+        {
+            "TOUNIQUENUMBER": "339683",
+            "TO": "Stuart D. Reddington",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-896-7533"
+        },
+        {
+            "TOUNIQUENUMBER": "339683",
+            "TO": "Stuart D. Reddington",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-896-7533"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B21975",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Anglia Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "REDDINGTON DRIVE",
+            "Project Status": "Completed",
+            "Location": "PALGRAVE",
+            "Address": "33 Reddington Dr.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1996-11-08"
+        },
+        {
+            "Condo Project Name": "THE ISLAND CLUB",
+            "Project Status": "Completed",
+            "Location": "PALGRAVE",
+            "Address": "31 Reddington St.",
+            "# of Units": 6,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1994-10-26"
+        }
+    ],
+    "builderConditions": []
+}

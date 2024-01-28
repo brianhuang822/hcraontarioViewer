@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B19386",
+            "Umbrella": "Metz Homes",
+            "Umbrella ID": "12540406",
+            "VB_NAME": "Metz Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Shelburne",
+            "HCRA_INITIALLICENSEDATE": "1990-03-20",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-11-28 01:00:48.000 +0000",
+            "Expiry Date": "2025-01-11",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 33 Station Main",
+            "TELEPHONE": "519-925-1904",
+            "FAX": "1-519-925-6691",
+            "WEBSITEURL": "https://www.metzhomes.com",
+            "EMAIL": "metz.homes@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 34,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 34,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12204469",
+            "TO": "Lois Metz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-925-1904"
+        },
+        {
+            "TOUNIQUENUMBER": "12204469",
+            "TO": "Lois Metz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-925-1904"
+        },
+        {
+            "TOUNIQUENUMBER": "322871",
+            "TO": "David Metz",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-925-1904"
+        },
+        {
+            "TOUNIQUENUMBER": "322871",
+            "TO": "David Metz",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-925-1904"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B19386",
+            "Umbrella": "Metz Homes",
+            "Umbrella ID": "12540406",
+            "VB_NAME": "Metz Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B14012",
+            "MEMBERNAME": "Metz Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B19386",
+            "Umbrella": "Metz Homes",
+            "Umbrella ID": "12540406",
+            "VB_NAME": "Metz Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B19386",
+            "MEMBERNAME": "Metz Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31943",
+            "Umbrella": "Mark Rosenberg Homes",
+            "Umbrella ID": "11767611",
+            "VB_NAME": "Codyco Properties Ltd.",
+            "OPERATINGNAME": "Mark Rosenberg Homes",
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2001-12-11",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-13 12:38:35.000 +0000",
+            "Expiry Date": "2024-12-12",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "43 Sandringham Drive",
+            "TELEPHONE": "416-464-8668",
+            "FAX": "416-440-2850",
+            "WEBSITEURL": "www,markrosenberghomes.com",
+            "EMAIL": "codycoprop@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "328961",
+            "TO": "Mark Rosenberg",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-464-8668"
+        },
+        {
+            "TOUNIQUENUMBER": "328961",
+            "TO": "Mark Rosenberg",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-464-8668"
+        },
+        {
+            "TOUNIQUENUMBER": "328961",
+            "TO": "Mark Rosenberg",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-464-8668"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B31943",
+            "Umbrella": "Mark Rosenberg Homes",
+            "Umbrella ID": "11767611",
+            "VB_NAME": "Codyco Properties Ltd.",
+            "OPERATINGNAME": "Mark Rosenberg Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B8739",
+            "MEMBERNAME": "White Bird Developments Ltd.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B31943",
+            "Umbrella": "Mark Rosenberg Homes",
+            "Umbrella ID": "11767611",
+            "VB_NAME": "Codyco Properties Ltd.",
+            "OPERATINGNAME": "Mark Rosenberg Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B31943",
+            "MEMBERNAME": "Codyco Properties Ltd.",
+            "MEMBEROPERATINGNAME": "Mark Rosenberg Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B31943",
+            "Umbrella": "Mark Rosenberg Homes",
+            "Umbrella ID": "11767611",
+            "VB_NAME": "Codyco Properties Ltd.",
+            "OPERATINGNAME": "Mark Rosenberg Homes",
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B8144",
+            "MEMBERNAME": "Bretward Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

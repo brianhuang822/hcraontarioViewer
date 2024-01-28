@@ -1,0 +1,94 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41136",
+            "Umbrella": "Rawlings Homes",
+            "Umbrella ID": "12477281",
+            "VB_NAME": "Rawlings Constructors Limited",
+            "OPERATINGNAME": null,
+            "CITY": "LONDON",
+            "HCRA_INITIALLICENSEDATE": "2011-04-27",
+            "LICENCE_STATUS": "Revoked",
+            "HCRA_LICENSERENEWEDON": "2013-05-30 19:33:34.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1615 North Routledge Pk.,  Ste. 11",
+            "TELEPHONE": "519-679-9700",
+            "FAX": "519-850-3829",
+            "WEBSITEURL": "www.rawlingshomes.com",
+            "EMAIL": "darlene@rawlingshomes.com",
+            "ACCOUNTNUMBER": "B41136",
+            "Total Outstanding Amount": 125432.65,
+            "TAB": 28634.04,
+            "BREACH": 96798.61,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 9,
+            "SUMM_MINOR": 15,
+            "SUMM_MINOR_AMT": 739141.33,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 739141.33
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "327730",
+            "TO": "Paul Rawlings",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-660-8654"
+        },
+        {
+            "TOUNIQUENUMBER": "327730",
+            "TO": "Paul Rawlings",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-660-8654"
+        },
+        {
+            "TOUNIQUENUMBER": "327728",
+            "TO": "Darlene Rawlings",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-660-8654"
+        },
+        {
+            "TOUNIQUENUMBER": "327728",
+            "TO": "Darlene Rawlings",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-660-8654"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41136",
+            "Umbrella": "Rawlings Homes",
+            "Umbrella ID": "12477281",
+            "VB_NAME": "Rawlings Constructors Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B20439",
+            "MEMBERNAME": "Rawlings Constructors Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "Account Number": "B41136",
+            "Umbrella": "Rawlings Homes",
+            "Umbrella ID": "12477281",
+            "VB_NAME": "Rawlings Constructors Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Revoked",
+            "MEMBERVBNUM": "B41136",
+            "MEMBERNAME": "Rawlings Constructors Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Revoked"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

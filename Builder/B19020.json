@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B19020",
+            "Umbrella": "Brian Huber Construction",
+            "Umbrella ID": "3441",
+            "VB_NAME": "855207 Ontario Limited",
+            "OPERATINGNAME": "Brian Huber Construction",
+            "CITY": "STRATFORD",
+            "HCRA_INITIALLICENSEDATE": "1989-10-27",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2008-10-16 02:21:57.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "291 Lorne Ave., Unit 1",
+            "TELEPHONE": "(519)273-0007",
+            "FAX": "(519)273-7130",
+            "WEBSITEURL": null,
+            "EMAIL": "b.huber@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "315725",
+            "TO": "Brian Huber",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "315725",
+            "TO": "Brian Huber",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "315725",
+            "TO": "Brian Huber",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B19020",
+            "Umbrella": "Brian Huber Construction",
+            "Umbrella ID": "3441",
+            "VB_NAME": "855207 Ontario Limited",
+            "OPERATINGNAME": "Brian Huber Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B13163",
+            "MEMBERNAME": "Brian Huber Holdings Limited.,",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B19020",
+            "Umbrella": "Brian Huber Construction",
+            "Umbrella ID": "3441",
+            "VB_NAME": "855207 Ontario Limited",
+            "OPERATINGNAME": "Brian Huber Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B16651",
+            "MEMBERNAME": "793333 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Brian Huber Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B19020",
+            "Umbrella": "Brian Huber Construction",
+            "Umbrella ID": "3441",
+            "VB_NAME": "855207 Ontario Limited",
+            "OPERATINGNAME": "Brian Huber Construction",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B19020",
+            "MEMBERNAME": "855207 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Brian Huber Construction",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

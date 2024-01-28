@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44322",
+            "Umbrella": "Ungerman Homes",
+            "Umbrella ID": "12542836",
+            "VB_NAME": "Ungerman Homes Limited",
+            "OPERATINGNAME": null,
+            "CITY": "Toronto",
+            "HCRA_INITIALLICENSEDATE": "2015-04-21",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2022-04-22 04:15:03.000 +0000",
+            "Expiry Date": "2022-04-22",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "12 Aldburn Road",
+            "TELEPHONE": "416-879-7999",
+            "FAX": "416-785-7112",
+            "WEBSITEURL": " ",
+            "EMAIL": "sungerman@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12156959",
+            "TO": "Steven Ungerman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-879-7999"
+        },
+        {
+            "TOUNIQUENUMBER": "12156959",
+            "TO": "Steven Ungerman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-879-7999"
+        },
+        {
+            "TOUNIQUENUMBER": "12156959",
+            "TO": "Steven Ungerman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-879-7999"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44322",
+            "Umbrella": "Ungerman Homes",
+            "Umbrella ID": "12542836",
+            "VB_NAME": "Ungerman Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36755",
+            "MEMBERNAME": "All Canada Contractors Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B44322",
+            "Umbrella": "Ungerman Homes",
+            "Umbrella ID": "12542836",
+            "VB_NAME": "Ungerman Homes Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44322",
+            "MEMBERNAME": "Ungerman Homes Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

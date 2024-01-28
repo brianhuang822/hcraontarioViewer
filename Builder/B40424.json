@@ -1,0 +1,139 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40424",
+            "Umbrella": "Canadian Equity Housing",
+            "Umbrella ID": "10634",
+            "VB_NAME": "Dupont Terrace Limited",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2010-04-23",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2013-04-24 12:00:22.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "905 Queen St. W.",
+            "TELEPHONE": "416-703-7828",
+            "FAX": "416-703-5198",
+            "WEBSITEURL": null,
+            "EMAIL": "dianely@bellnet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "301204",
+            "TO": "Paul F. Anisman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-703-7828"
+        },
+        {
+            "TOUNIQUENUMBER": "301204",
+            "TO": "Paul F. Anisman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-703-7828"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40424",
+            "Umbrella": "Canadian Equity Housing",
+            "Umbrella ID": "10634",
+            "VB_NAME": "Dupont Terrace Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B9354",
+            "MEMBERNAME": "Citysphere Residences Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40424",
+            "Umbrella": "Canadian Equity Housing",
+            "Umbrella ID": "10634",
+            "VB_NAME": "Dupont Terrace Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27652",
+            "MEMBERNAME": "The Fairfield Classic Collection Limited",
+            "MEMBEROPERATINGNAME": "Fairfields",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40424",
+            "Umbrella": "Canadian Equity Housing",
+            "Umbrella ID": "10634",
+            "VB_NAME": "Dupont Terrace Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28209",
+            "MEMBERNAME": "Development Securities Corporation",
+            "MEMBEROPERATINGNAME": "Trinity Lofts",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40424",
+            "Umbrella": "Canadian Equity Housing",
+            "Umbrella ID": "10634",
+            "VB_NAME": "Dupont Terrace Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30906",
+            "MEMBERNAME": "Canadian Equity Queen West Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40424",
+            "Umbrella": "Canadian Equity Housing",
+            "Umbrella ID": "10634",
+            "VB_NAME": "Dupont Terrace Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27693",
+            "MEMBERNAME": "Canadian Equity Housing Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40424",
+            "Umbrella": "Canadian Equity Housing",
+            "Umbrella ID": "10634",
+            "VB_NAME": "Dupont Terrace Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40424",
+            "MEMBERNAME": "Dupont Terrace Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Dupont Terrace",
+            "Project Status": null,
+            "Location": "TORONTO",
+            "Address": "712 - 722 Clarens Ave.",
+            "# of Units": 7,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}

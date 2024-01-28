@@ -1,0 +1,107 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27291",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Parkway Grand Developments Inc.",
+            "OPERATINGNAME": "The Grand Parkway Residences",
+            "CITY": "RICHMOND HILL",
+            "HCRA_INITIALLICENSEDATE": "1998-10-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2004-10-02 12:31:02.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "600 Hwy. 7 E., Ste. 102",
+            "TELEPHONE": "(905)886-7661",
+            "FAX": "(905)886-6740",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "317088",
+            "TO": "Simon Kaptyn",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-841-3725"
+        },
+        {
+            "TOUNIQUENUMBER": "317088",
+            "TO": "Simon Kaptyn",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-841-3725"
+        },
+        {
+            "TOUNIQUENUMBER": "317088",
+            "TO": "Simon Kaptyn",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-841-3725"
+        },
+        {
+            "TOUNIQUENUMBER": "305868",
+            "TO": "Eric Chan",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "305868",
+            "TO": "Eric Chan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "305868",
+            "TO": "Eric Chan",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27291",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Parkway Grand Developments Inc.",
+            "OPERATINGNAME": "The Grand Parkway Residences",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "GRAND PARKWAY RESIDENCES",
+            "Project Status": "Completed",
+            "Location": "RICHMOND HILL",
+            "Address": " 9017 Leslie St ",
+            "# of Units": 219,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2004-01-23"
+        }
+    ],
+    "builderConditions": []
+}

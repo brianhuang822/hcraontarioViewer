@@ -1,0 +1,99 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B36185",
+            "Umbrella": "Canning Contracting",
+            "Umbrella ID": "12541182",
+            "VB_NAME": "Canning Contracting Limited",
+            "OPERATINGNAME": null,
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "2005-11-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2007-11-03 13:31:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "525 Abilene Dr., 2nd Flr.",
+            "TELEPHONE": "905-696-0399",
+            "FAX": "905-696-0398",
+            "WEBSITEURL": null,
+            "EMAIL": "info@canningcontracting.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11637602",
+            "TO": "Oscar D'Silva",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-626-7993"
+        },
+        {
+            "TOUNIQUENUMBER": "11637602",
+            "TO": "Oscar D'Silva",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-626-7993"
+        },
+        {
+            "TOUNIQUENUMBER": "11637602",
+            "TO": "Oscar D'Silva",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-626-7993"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B36185",
+            "Umbrella": "Canning Contracting",
+            "Umbrella ID": "12541182",
+            "VB_NAME": "Canning Contracting Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30578",
+            "MEMBERNAME": "Canning Contracting Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36185",
+            "Umbrella": "Canning Contracting",
+            "Umbrella ID": "12541182",
+            "VB_NAME": "Canning Contracting Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39127",
+            "MEMBERNAME": "Canning Construction Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B36185",
+            "Umbrella": "Canning Contracting",
+            "Umbrella ID": "12541182",
+            "VB_NAME": "Canning Contracting Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36185",
+            "MEMBERNAME": "Canning Contracting Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

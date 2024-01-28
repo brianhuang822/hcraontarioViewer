@@ -1,0 +1,117 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40853",
+            "Umbrella": "Enirox",
+            "Umbrella ID": "12543831",
+            "VB_NAME": "2164008 Ontario Limited",
+            "OPERATINGNAME": null,
+            "CITY": "NORTH YORK",
+            "HCRA_INITIALLICENSEDATE": "2011-06-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2015-11-02 13:00:47.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "101 Railside Road",
+            "TELEPHONE": "4166616900",
+            "FAX": "416-739-9593",
+            "WEBSITEURL": "www.707lofts.ca",
+            "EMAIL": "ssales@enirox.com",
+            "ACCOUNTNUMBER": "B40853",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 59,
+            "SUMM_TOTAL": 59,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12318678",
+            "TO": "Arash Kamali",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-6900"
+        },
+        {
+            "TOUNIQUENUMBER": "12318678",
+            "TO": "Arash Kamali",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-661-6900"
+        },
+        {
+            "TOUNIQUENUMBER": "12318677",
+            "TO": "Ahmad Fatehisomeeh",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-739-9300"
+        },
+        {
+            "TOUNIQUENUMBER": "12318677",
+            "TO": "Ahmad Fatehisomeeh",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-739-9300"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40853",
+            "Umbrella": "Enirox",
+            "Umbrella ID": "12543831",
+            "VB_NAME": "2164008 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B44880",
+            "MEMBERNAME": "Enirox Group Management & Consulting Inc.",
+            "MEMBEROPERATINGNAME": "Enirox Group Management & Consulting Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40853",
+            "Umbrella": "Enirox",
+            "Umbrella ID": "12543831",
+            "VB_NAME": "2164008 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B39234",
+            "MEMBERNAME": "Enirox Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40853",
+            "Umbrella": "Enirox",
+            "Umbrella ID": "12543831",
+            "VB_NAME": "2164008 Ontario Limited",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40853",
+            "MEMBERNAME": "2164008 Ontario Limited",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "707 LOFTS",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "707-717 Dovercourt Rd.",
+            "# of Units": 77,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-09-03"
+        }
+    ],
+    "builderConditions": []
+}

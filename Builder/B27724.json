@@ -1,0 +1,129 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27724",
+            "Umbrella": "Mike W. Voskamp Construction",
+            "Umbrella ID": "11367",
+            "VB_NAME": "Mike W. Voskamp Construction Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Brighton",
+            "HCRA_INITIALLICENSEDATE": "1998-08-27",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-18 17:05:37.000 +0000",
+            "Expiry Date": "2024-08-28",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "169 Ventress Road",
+            "TELEPHONE": "905-355-2938",
+            "FAX": "905-355-2938",
+            "WEBSITEURL": " ",
+            "EMAIL": "kvoskamp@xplornet.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 56,
+            "SUMM_CONDO": 4,
+            "SUMM_TOTAL": 60,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "338341",
+            "TO": "Mike W. Voskamp",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-376-0433"
+        },
+        {
+            "TOUNIQUENUMBER": "338341",
+            "TO": "Mike W. Voskamp",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-376-0433"
+        },
+        {
+            "TOUNIQUENUMBER": "338341",
+            "TO": "Mike W. Voskamp",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-376-0433"
+        },
+        {
+            "TOUNIQUENUMBER": "339318",
+            "TO": "Kathryn Voskamp",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-355-2938"
+        },
+        {
+            "TOUNIQUENUMBER": "339318",
+            "TO": "Kathryn Voskamp",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-355-2938"
+        },
+        {
+            "TOUNIQUENUMBER": "339318",
+            "TO": "Kathryn Voskamp",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-355-2938"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27724",
+            "Umbrella": "Mike W. Voskamp Construction",
+            "Umbrella ID": "11367",
+            "VB_NAME": "Mike W. Voskamp Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B27724",
+            "MEMBERNAME": "Mike W. Voskamp Construction Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27724",
+            "Umbrella": "Mike W. Voskamp Construction",
+            "Umbrella ID": "11367",
+            "VB_NAME": "Mike W. Voskamp Construction Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B21010",
+            "MEMBERNAME": "Mike W. Voskamp Construction",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Keeler Court Condos",
+            "Project Status": "Completed",
+            "Location": "COLBORNE",
+            "Address": "17 George Crt.",
+            "# of Units": 4,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-09-22"
+        },
+        {
+            "Condo Project Name": "Keeler Court Condos",
+            "Project Status": "Completed",
+            "Location": "COLBORNE",
+            "Address": "17 George Crt.",
+            "# of Units": 5,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-10-26"
+        }
+    ],
+    "builderConditions": []
+}

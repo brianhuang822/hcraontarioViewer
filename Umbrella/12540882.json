@@ -1,0 +1,139 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Shyamora luxury Homes",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 2,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 120000,
+            "ADDRESS": "85 Prologis Blvd., Suite 1",
+            "TELEPHONE": "9057993003",
+            "FAX": "18662331914",
+            "WEBSITEURL": "www.shyamora.com",
+            "EMAIL": "admin@shyamora.com",
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 120000,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 120000
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "DIAM Danforth Property Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44439",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Shyamora Luxury Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B42064",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "2335779 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B44662",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Syrm Land Development Corp.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46156",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Diam Fox Hill Property Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B46324",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "Syrm Holdings Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B43532",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [
+        {
+            "FOR_CALENDAR_YEAR": "2014",
+            "Freehold Posessions": 2,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 2,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 0,
+            "Dollers paid in Claims (Minor)": 0,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 0,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 120000,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 120000,
+            "OBC_WARRANTED_DEFECTS": 0
+        },
+        {
+            "FOR_CALENDAR_YEAR": "2022",
+            "Freehold Posessions": 0,
+            "Condo Unit Posessions": 0,
+            "Total Posessions": 0,
+            "Chargeable Conciliation": 0,
+            "# of Claims (Minor)": 3,
+            "Dollers paid in Claims (Minor)": 120000,
+            "# of Claims (Major)": 0,
+            "Dollers paid in Claims (Major)": 0,
+            "Dollars Paid in All Claims": 120000,
+            "SUMM_FREEHOLD": 2,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 2,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 3,
+            "SUMM_MINOR_AMT": 120000,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 120000,
+            "OBC_WARRANTED_DEFECTS": 0
+        }
+    ],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "London Towns",
+            "Account Number": "B44662",
+            "Project Status": null,
+            "Location": "OAKVILLE",
+            "Address": "78, 80, 82 Trafalgar Rd.",
+            "# of Units": 3,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        },
+        {
+            "Condo Project Name": "On The Danforth",
+            "Account Number": "B44439",
+            "Project Status": "Cancelled",
+            "Location": "TORONTO",
+            "Address": "2359 Danforth Ave.",
+            "# of Units": 132,
+            "# of Terminations": 132,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2019-03-18"
+        }
+    ]
+}

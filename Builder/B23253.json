@@ -1,0 +1,106 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B23253",
+            "Umbrella": "RoJo Construction",
+            "Umbrella ID": "12540007",
+            "VB_NAME": "2915227 Canada Inc.",
+            "OPERATINGNAME": "Rojo Construction Mangement",
+            "CITY": "GREELY",
+            "HCRA_INITIALLICENSEDATE": "1993-08-11",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1998-08-13 09:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "1368 Greely Ln., Unit 2",
+            "TELEPHONE": "613-821-4193",
+            "FAX": "613-821-4163",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "318841",
+            "TO": "Joanne Wallingford",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-821-4193"
+        },
+        {
+            "TOUNIQUENUMBER": "318841",
+            "TO": "Joanne Wallingford",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-821-4193"
+        },
+        {
+            "TOUNIQUENUMBER": "318842",
+            "TO": "Robert Wallingford",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-821-4193"
+        },
+        {
+            "TOUNIQUENUMBER": "318842",
+            "TO": "Robert Wallingford",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-821-4193"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B23253",
+            "Umbrella": "RoJo Construction",
+            "Umbrella ID": "12540007",
+            "VB_NAME": "2915227 Canada Inc.",
+            "OPERATINGNAME": "Rojo Construction Mangement",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40113",
+            "MEMBERNAME": "RoJo Construction Management Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B23253",
+            "Umbrella": "RoJo Construction",
+            "Umbrella ID": "12540007",
+            "VB_NAME": "2915227 Canada Inc.",
+            "OPERATINGNAME": "Rojo Construction Mangement",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B30863",
+            "MEMBERNAME": "RoJo Construction Management Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B23253",
+            "Umbrella": "RoJo Construction",
+            "Umbrella ID": "12540007",
+            "VB_NAME": "2915227 Canada Inc.",
+            "OPERATINGNAME": "Rojo Construction Mangement",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B23253",
+            "MEMBERNAME": "2915227 Canada Inc.",
+            "MEMBEROPERATINGNAME": "Rojo Construction Mangement",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

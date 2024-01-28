@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B27590",
+            "Umbrella": "Springfield Construction",
+            "Umbrella ID": "12540662",
+            "VB_NAME": "David Eccles",
+            "OPERATINGNAME": "Eccles Homes",
+            "CITY": "ANCASTER",
+            "HCRA_INITIALLICENSEDATE": "1998-07-30",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2000-07-31 12:43:54.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "240 Taylor Rd.",
+            "TELEPHONE": "(905)648-4957",
+            "FAX": "(905)648-2600",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "344148",
+            "TO": "David Eccles",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-741-4957"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B27590",
+            "Umbrella": "Springfield Construction",
+            "Umbrella ID": "12540662",
+            "VB_NAME": "David Eccles",
+            "OPERATINGNAME": "Eccles Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B61519",
+            "MEMBERNAME": "1000151797 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Grand River Homes",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B27590",
+            "Umbrella": "Springfield Construction",
+            "Umbrella ID": "12540662",
+            "VB_NAME": "David Eccles",
+            "OPERATINGNAME": "Eccles Homes",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B27590",
+            "MEMBERNAME": "David Eccles",
+            "MEMBEROPERATINGNAME": "Eccles Homes",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

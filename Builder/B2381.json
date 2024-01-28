@@ -1,0 +1,85 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B2381",
+            "Umbrella": "Wendorf Group of Companies",
+            "Umbrella ID": "12541861",
+            "VB_NAME": "Frank Wendorf",
+            "OPERATINGNAME": null,
+            "CITY": "WAHNAPITAE",
+            "HCRA_INITIALLICENSEDATE": "1980-12-03",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "1982-03-01 10:59:58.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "R.R.#2,",
+            "TELEPHONE": "(705)694-4728",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "336376",
+            "TO": "Frank Wendorf",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "705-691-3978"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B2381",
+            "Umbrella": "Wendorf Group of Companies",
+            "Umbrella ID": "12541861",
+            "VB_NAME": "Frank Wendorf",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B2381",
+            "MEMBERNAME": "Frank Wendorf",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B2381",
+            "Umbrella": "Wendorf Group of Companies",
+            "Umbrella ID": "12541861",
+            "VB_NAME": "Frank Wendorf",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B36401",
+            "MEMBERNAME": "2169289 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed with Conditions"
+        },
+        {
+            "Account Number": "B2381",
+            "Umbrella": "Wendorf Group of Companies",
+            "Umbrella ID": "12541861",
+            "VB_NAME": "Frank Wendorf",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B17727",
+            "MEMBERNAME": "510758 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Wendorf Construction",
+            "MEMBERLICENCESTATUS": "Refused"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

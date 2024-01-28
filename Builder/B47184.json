@@ -1,0 +1,143 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47184",
+            "Umbrella": "Sheldon Creek Developments",
+            "Umbrella ID": "12253545",
+            "VB_NAME": "2500149 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Orangeville",
+            "HCRA_INITIALLICENSEDATE": "2019-03-01",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2023-03-02 06:00:08.000 +0000",
+            "Expiry Date": "2023-03-02",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "19 Centre Street",
+            "TELEPHONE": "519-942-3100",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "accounting@sheldoncreek.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 24,
+            "SUMM_TOTAL": 24,
+            "SUMM_CC": 2,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100539158",
+            "TO": "Erin Blackstock",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-941-5151"
+        },
+        {
+            "TOUNIQUENUMBER": "100539158",
+            "TO": "Erin Blackstock",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-941-5151"
+        },
+        {
+            "TOUNIQUENUMBER": "100539168",
+            "TO": "John Endeman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-278-0531"
+        },
+        {
+            "TOUNIQUENUMBER": "100539160",
+            "TO": "Jamie Bates",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-216-5533"
+        },
+        {
+            "TOUNIQUENUMBER": "11994113",
+            "TO": "Willem Wildeboer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-941-5151"
+        },
+        {
+            "TOUNIQUENUMBER": "11994113",
+            "TO": "Willem Wildeboer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-941-5151"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47184",
+            "Umbrella": "Sheldon Creek Developments",
+            "Umbrella ID": "12253545",
+            "VB_NAME": "2500149 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B34277",
+            "MEMBERNAME": "Sheldon Creek Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47184",
+            "Umbrella": "Sheldon Creek Developments",
+            "Umbrella ID": "12253545",
+            "VB_NAME": "2500149 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38424",
+            "MEMBERNAME": "Wild Gray Capital Management Group Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B47184",
+            "Umbrella": "Sheldon Creek Developments",
+            "Umbrella ID": "12253545",
+            "VB_NAME": "2500149 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B38183",
+            "MEMBERNAME": "1602183 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B47184",
+            "Umbrella": "Sheldon Creek Developments",
+            "Umbrella ID": "12253545",
+            "VB_NAME": "2500149 Ontario Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B47184",
+            "MEMBERNAME": "2500149 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Midtown",
+            "Project Status": "Completed",
+            "Location": "ORANGEVILLE",
+            "Address": " 17 Centre Street ",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-01-05"
+        }
+    ],
+    "builderConditions": []
+}

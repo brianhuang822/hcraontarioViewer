@@ -1,0 +1,122 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B31812",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Braehall Developers Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "THORNBURY",
+            "HCRA_INITIALLICENSEDATE": "2002-07-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2010-07-03 15:00:37.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO BOX 309",
+            "TELEPHONE": "519-599-3565",
+            "FAX": "519-599-3633",
+            "WEBSITEURL": "www.braehall.ca",
+            "EMAIL": "trevor@braehall.ca",
+            "ACCOUNTNUMBER": "B31812",
+            "Total Outstanding Amount": 50.76,
+            "TAB": 0,
+            "BREACH": 50.76,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 1025,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 1025
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12423464",
+            "TO": "Trevor McMillan",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "11733139",
+            "TO": "Barry Hall",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-599-3565"
+        },
+        {
+            "TOUNIQUENUMBER": "11733139",
+            "TO": "Barry Hall",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-599-3565"
+        },
+        {
+            "TOUNIQUENUMBER": "11733139",
+            "TO": "Barry Hall",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-599-3565"
+        }
+    ],
+    "builderConvictions": [
+        {
+            "CHARGE_ID": "CHA107368",
+            "CHARGE_AGAINST": "Braehall Developers Ltd.",
+            "CHARGE_DATE": "2010-10-15",
+            "DISPOSITION_DATE": "2011-04-01",
+            "THE_FINE_": "6600",
+            "CHARGE_TYPE": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "VICTIM_SURCHARGE_AMOUNT_": "1650",
+            "CHARGE_CREATE_DATE": "NULL",
+            "DISPOSITION_TYPE": "Convicted Fine",
+            "INVESTIGATION_": "9324962",
+            "ORGANIZATION_NAME": "Braehall Developers Ltd.",
+            "PERSON_NAME": " ",
+            "CITY_OFFENCE": "Thornbury, ON",
+            "CITY_DEFENCE": "Thornbury, ON",
+            "VB_NUMBER": "B31812",
+            "PERSON_ID": null,
+            "IS_VB_IN_OBD": "Y",
+            "IS_PERSON_IN_OBD": null,
+            "IS_ORGANIZATION_IN_OBD": null,
+            "ORGANIZATION_ID": null,
+            "LABEL": "CHA107368 9324962",
+            "OFFENSE_LOWER_MUNICIPALITY_NAME": "The Blue Mountains, Town",
+            "INFORMATION_NUMBER": "NULL",
+            "DEFENDANT_FIRST_NAME": "NULL",
+            "DEFENDANT_LAST_NAME": "NULL",
+            "CONVICTION_DESCRIPTION": "ONHWPA - Sec 12 - Failed to Enrol a New Home",
+            "FROM_OFFENCE_DATE": "2009-10-21",
+            "TO_OFFENCE_DATE": "2010-10-15",
+            "RESULT_FROM_TRIAL": "No",
+            "TOTAL_FINE_AMOUNT": "8250",
+            "FINE_AMOUNT_ON_APPEAL": "NULL",
+            "CHARGE_TIME": "38:33.0",
+            "PROBATION_ORDER": "N",
+            "PROBATION_TERM": "NULL",
+            "UNDER_APPEAL": "NULL",
+            "UMBRELLA": null,
+            "UMBRELLA_ID": null
+        }
+    ],
+    "builderMembers": [
+        {
+            "Account Number": "B31812",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Braehall Developers Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

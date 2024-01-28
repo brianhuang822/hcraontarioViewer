@@ -1,0 +1,139 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B41451",
+            "Umbrella": "Oxford Green Developments",
+            "Umbrella ID": "12513045",
+            "VB_NAME": "Oxford Green Developments Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Elora",
+            "HCRA_INITIALLICENSEDATE": "2011-11-30",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-26 18:09:49.000 +0000",
+            "Expiry Date": "2024-12-01",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "PO Box 2985",
+            "TELEPHONE": "519-574-3520",
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "armceachern@gmail.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 69,
+            "SUMM_TOTAL": 69,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "11917593",
+            "TO": "Paul Martin Bowman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-669-2282"
+        },
+        {
+            "TOUNIQUENUMBER": "11917593",
+            "TO": "Paul Martin Bowman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-669-2282"
+        },
+        {
+            "TOUNIQUENUMBER": "12488819",
+            "TO": "David Markham",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-574-3520"
+        },
+        {
+            "TOUNIQUENUMBER": "12488819",
+            "TO": "David Markham",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-574-3520"
+        },
+        {
+            "TOUNIQUENUMBER": "12488787",
+            "TO": "Alexander McEachern",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-574-3520"
+        },
+        {
+            "TOUNIQUENUMBER": "12488787",
+            "TO": "Alexander McEachern",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-574-3520"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B41451",
+            "Umbrella": "Oxford Green Developments",
+            "Umbrella ID": "12513045",
+            "VB_NAME": "Oxford Green Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B33571",
+            "MEMBERNAME": "Huron Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B41451",
+            "Umbrella": "Oxford Green Developments",
+            "Umbrella ID": "12513045",
+            "VB_NAME": "Oxford Green Developments Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B41451",
+            "MEMBERNAME": "Oxford Green Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Elora Heights Condominiums",
+            "Project Status": "Completed",
+            "Location": "ELORA",
+            "Address": " 19 Stumpf St. ",
+            "# of Units": 36,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2020-06-02"
+        },
+        {
+            "Condo Project Name": "Elora Heights Condominiums",
+            "Project Status": "Completed",
+            "Location": "ELORA",
+            "Address": " 23 Stumpf St. ",
+            "# of Units": 32,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2017-08-11"
+        },
+        {
+            "Condo Project Name": "Woodhill Gardens",
+            "Project Status": "Completed",
+            "Location": "FERGUS",
+            "Address": "760 Woodhill Dr.",
+            "# of Units": 24,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2012-11-21"
+        }
+    ],
+    "builderConditions": []
+}

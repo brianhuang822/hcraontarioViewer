@@ -1,0 +1,108 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B35923",
+            "Umbrella": "Pinestone",
+            "Umbrella ID": "500001174",
+            "VB_NAME": "Pinestone Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Guelph",
+            "HCRA_INITIALLICENSEDATE": "2005-08-18",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2024-01-05 15:51:29.000 +0000",
+            "Expiry Date": "2024-08-19",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "195 Hanlon Creek Boulevard",
+            "TELEPHONE": "519-822-3682",
+            "FAX": "519-822-7611",
+            "WEBSITEURL": "www.pinestonehomes.ca",
+            "EMAIL": "arnold@carsonreidhomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 79,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 79,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12096001",
+            "TO": "Arnold DeBoer",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        },
+        {
+            "TOUNIQUENUMBER": "12096001",
+            "TO": "Arnold DeBoer",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        },
+        {
+            "TOUNIQUENUMBER": "12096001",
+            "TO": "Arnold DeBoer",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        },
+        {
+            "TOUNIQUENUMBER": "327901",
+            "TO": "Carson Reid",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        },
+        {
+            "TOUNIQUENUMBER": "327901",
+            "TO": "Carson Reid",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        },
+        {
+            "TOUNIQUENUMBER": "327901",
+            "TO": "Carson Reid",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-822-3682"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B35923",
+            "Umbrella": "Pinestone",
+            "Umbrella ID": "500001174",
+            "VB_NAME": "Pinestone Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60806",
+            "MEMBERNAME": "Pinestone Construction Inc.",
+            "MEMBEROPERATINGNAME": "Pinestone Construction Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B35923",
+            "Umbrella": "Pinestone",
+            "Umbrella ID": "500001174",
+            "VB_NAME": "Pinestone Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B35923",
+            "MEMBERNAME": "Pinestone Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

@@ -1,0 +1,73 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40543",
+            "Umbrella": "Joe Whiteside Contracting",
+            "Umbrella ID": "12477284",
+            "VB_NAME": "Joe Wayne Whiteside",
+            "OPERATINGNAME": null,
+            "CITY": "KESWICK",
+            "HCRA_INITIALLICENSEDATE": "2010-06-10",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2011-06-11 15:01:34.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "67 Lake Dr., E.",
+            "TELEPHONE": "905-960-8589",
+            "FAX": null,
+            "WEBSITEURL": null,
+            "EMAIL": "lb2benben@rogers.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12412528",
+            "TO": "Joe Wayne Whiteside",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-960-8589"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40543",
+            "Umbrella": "Joe Whiteside Contracting",
+            "Umbrella ID": "12477284",
+            "VB_NAME": "Joe Wayne Whiteside",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B41246",
+            "MEMBERNAME": "2274643 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B40543",
+            "Umbrella": "Joe Whiteside Contracting",
+            "Umbrella ID": "12477284",
+            "VB_NAME": "Joe Wayne Whiteside",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B40543",
+            "MEMBERNAME": "Joe Wayne Whiteside",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

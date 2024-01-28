@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47238",
+            "Umbrella": "Hugh Van Pelt Construction",
+            "Umbrella ID": "12549222",
+            "VB_NAME": "Hugh Van Pelt Construction Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "St. Thomas",
+            "HCRA_INITIALLICENSEDATE": "2018-11-12",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-10-13 19:20:50.000 +0000",
+            "Expiry Date": "2024-11-13",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "89 Hemlock Street",
+            "TELEPHONE": "519-661-7066",
+            "FAX": null,
+            "WEBSITEURL": "https://www.hvpconstruction.com",
+            "EMAIL": "hugh@hvpconstruction.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100298206",
+            "TO": "Hugh Van Pelt",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-661-7066"
+        },
+        {
+            "TOUNIQUENUMBER": "100298206",
+            "TO": "Hugh Van Pelt",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-661-7066"
+        },
+        {
+            "TOUNIQUENUMBER": "100298206",
+            "TO": "Hugh Van Pelt",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "519-661-7066"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47238",
+            "Umbrella": "Hugh Van Pelt Construction",
+            "Umbrella ID": "12549222",
+            "VB_NAME": "Hugh Van Pelt Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B47238",
+            "MEMBERNAME": "Hugh Van Pelt Construction Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B47238",
+            "Umbrella": "Hugh Van Pelt Construction",
+            "Umbrella ID": "12549222",
+            "VB_NAME": "Hugh Van Pelt Construction Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B44455",
+            "MEMBERNAME": "Hugh F. Van Pelt",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

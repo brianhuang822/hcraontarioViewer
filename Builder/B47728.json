@@ -1,0 +1,86 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B47728",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Cliffside Holdings Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Kingston",
+            "HCRA_INITIALLICENSEDATE": "2020-09-23",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-08-15 19:34:42.000 +0000",
+            "Expiry Date": "2024-09-24",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "692 Mckay Street",
+            "TELEPHONE": null,
+            "FAX": null,
+            "WEBSITEURL": " ",
+            "EMAIL": "nathan@cliffsideholdings.ca",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 18,
+            "SUMM_TOTAL": 18,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100589942",
+            "TO": "Nathan Patry",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-770-2220"
+        },
+        {
+            "TOUNIQUENUMBER": "100589942",
+            "TO": "Nathan Patry",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-770-2220"
+        },
+        {
+            "TOUNIQUENUMBER": "100589942",
+            "TO": "Nathan Patry",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-770-2220"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B47728",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Cliffside Holdings Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "809 Development Dr.",
+            "Project Status": "Completed",
+            "Location": "KINGSTON",
+            "Address": " 809 Development Dr. ",
+            "# of Units": 18,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2022-10-20"
+        }
+    ],
+    "builderConditions": []
+}

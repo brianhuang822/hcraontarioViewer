@@ -1,0 +1,160 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B26705",
+            "Umbrella": "Evergreen Villa",
+            "Umbrella ID": "3449",
+            "VB_NAME": "779857 Ontario Inc.",
+            "OPERATINGNAME": "Oasis Condominiums",
+            "CITY": "MISSISSAUGA",
+            "HCRA_INITIALLICENSEDATE": "1997-08-20",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2009-08-21 15:01:13.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "30 Eglinton Ave. W., Ste. 601",
+            "TELEPHONE": "905-361-9600",
+            "FAX": "905-361-9595",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "309452",
+            "TO": "William W.H. Doo",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-2233"
+        },
+        {
+            "TOUNIQUENUMBER": "309452",
+            "TO": "William W.H. Doo",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-2233"
+        },
+        {
+            "TOUNIQUENUMBER": "309452",
+            "TO": "William W.H. Doo",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-391-2233"
+        },
+        {
+            "TOUNIQUENUMBER": "343178",
+            "TO": "Henry Cheng",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": null
+        },
+        {
+            "TOUNIQUENUMBER": "320400",
+            "TO": "Chaim Lustig",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-447-3880"
+        },
+        {
+            "TOUNIQUENUMBER": "343179",
+            "TO": "Murray Finkelman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-636-8680"
+        },
+        {
+            "TOUNIQUENUMBER": "343179",
+            "TO": "Murray Finkelman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-636-8680"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B26705",
+            "Umbrella": "Evergreen Villa",
+            "Umbrella ID": "3449",
+            "VB_NAME": "779857 Ontario Inc.",
+            "OPERATINGNAME": "Oasis Condominiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B32453",
+            "MEMBERNAME": "5940 Yonge Street Limited",
+            "MEMBEROPERATINGNAME": "Elite Condominiums",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26705",
+            "Umbrella": "Evergreen Villa",
+            "Umbrella ID": "3449",
+            "VB_NAME": "779857 Ontario Inc.",
+            "OPERATINGNAME": "Oasis Condominiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B22757",
+            "MEMBERNAME": "Evergreen Villa Homes Ltd.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26705",
+            "Umbrella": "Evergreen Villa",
+            "Umbrella ID": "3449",
+            "VB_NAME": "779857 Ontario Inc.",
+            "OPERATINGNAME": "Oasis Condominiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B8703",
+            "MEMBERNAME": "1031636 Ontario Limited",
+            "MEMBEROPERATINGNAME": "Evergreen Villa",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B26705",
+            "Umbrella": "Evergreen Villa",
+            "Umbrella ID": "3449",
+            "VB_NAME": "779857 Ontario Inc.",
+            "OPERATINGNAME": "Oasis Condominiums",
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B26705",
+            "MEMBERNAME": "779857 Ontario Inc.",
+            "MEMBEROPERATINGNAME": "Oasis Condominiums",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "SOLEIL CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": " 1730 Eglinton Ave. E. ",
+            "# of Units": 110,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2005-05-16"
+        },
+        {
+            "Condo Project Name": "OASIS CONDOMINIUMS",
+            "Project Status": "Completed",
+            "Location": "NORTH YORK",
+            "Address": "1700 Eglinton Ave. E.",
+            "# of Units": 212,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2000-06-20"
+        }
+    ],
+    "builderConditions": []
+}

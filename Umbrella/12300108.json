@@ -1,0 +1,65 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Neilas Group",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "263 Adelaide St. W., Ste. 503",
+            "TELEPHONE": "416/506-1435",
+            "FAX": "416/865-3399",
+            "WEBSITEURL": null,
+            "EMAIL": "john@neilas.ca",
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "799 College Street Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B37557",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "54 Shepherd Road Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B41019",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Neilas (1249 Queen E) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B38655",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "Cube Lofts",
+            "Account Number": "B37557",
+            "Project Status": "Completed",
+            "Location": "TORONTO",
+            "Address": "799 College St.",
+            "# of Units": 21,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "2014-07-22"
+        }
+    ]
+}

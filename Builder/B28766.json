@@ -1,0 +1,87 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B28766",
+            "Umbrella": "Zinc Construction",
+            "Umbrella ID": "12539855",
+            "VB_NAME": "Zinc Construction Corporation",
+            "OPERATINGNAME": null,
+            "CITY": "TORONTO",
+            "HCRA_INITIALLICENSEDATE": "2000-06-02",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2005-06-03 12:31:00.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "113 Dupont St., Ste. 100",
+            "TELEPHONE": "(416)323-3636",
+            "FAX": "(416)323-0191",
+            "WEBSITEURL": null,
+            "EMAIL": null,
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "345653",
+            "TO": "Kenneth Zuckerman",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "345653",
+            "TO": "Kenneth Zuckerman",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-0200"
+        },
+        {
+            "TOUNIQUENUMBER": "345653",
+            "TO": "Kenneth Zuckerman",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "416-520-0200"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B28766",
+            "Umbrella": "Zinc Construction",
+            "Umbrella ID": "12539855",
+            "VB_NAME": "Zinc Construction Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28767",
+            "MEMBERNAME": "115 Dupont Holdings Limited",
+            "MEMBEROPERATINGNAME": "115 Dupont",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "Account Number": "B28766",
+            "Umbrella": "Zinc Construction",
+            "Umbrella ID": "12539855",
+            "VB_NAME": "Zinc Construction Corporation",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": "B28766",
+            "MEMBERNAME": "Zinc Construction Corporation",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

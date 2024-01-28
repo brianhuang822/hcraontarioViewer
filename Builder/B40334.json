@@ -1,0 +1,132 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B40334",
+            "Umbrella": "Bromont Group",
+            "Umbrella ID": "500000483",
+            "VB_NAME": "Bromont Homes Inc.",
+            "OPERATINGNAME": null,
+            "CITY": "Concord",
+            "HCRA_INITIALLICENSEDATE": "2011-03-03",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-03-22 20:08:33.000 +0000",
+            "Expiry Date": "2024-03-04",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "60 Saramia Crescent",
+            "TELEPHONE": "905-850-3333",
+            "FAX": "905-850-7368",
+            "WEBSITEURL": "www.bromonthomes.com",
+            "EMAIL": "rocco@bromonthomes.com",
+            "ACCOUNTNUMBER": null,
+            "Total Outstanding Amount": null,
+            "TAB": null,
+            "BREACH": null,
+            "SUMM_FREEHOLD": 473,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 473,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 1,
+            "SUMM_MINOR_AMT": 8430,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 8430
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "12431974",
+            "TO": "Joe Montemarano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-3333"
+        },
+        {
+            "TOUNIQUENUMBER": "12117558",
+            "TO": "Luciano Montemarano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-3333"
+        },
+        {
+            "TOUNIQUENUMBER": "12216978",
+            "TO": "Rocco Montemarano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-3333"
+        },
+        {
+            "TOUNIQUENUMBER": "323482",
+            "TO": "Saverio Montemarano",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-3333"
+        },
+        {
+            "TOUNIQUENUMBER": "323482",
+            "TO": "Saverio Montemarano",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-3333"
+        },
+        {
+            "TOUNIQUENUMBER": "323482",
+            "TO": "Saverio Montemarano",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-850-3333"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B40334",
+            "Umbrella": "Bromont Group",
+            "Umbrella ID": "500000483",
+            "VB_NAME": "Bromont Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60139",
+            "MEMBERNAME": "Bromont Homes (Peterborough) Inc.",
+            "MEMBEROPERATINGNAME": "Bromont Homes (Peterborough) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40334",
+            "Umbrella": "Bromont Group",
+            "Umbrella ID": "500000483",
+            "VB_NAME": "Bromont Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B40334",
+            "MEMBERNAME": "Bromont Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40334",
+            "Umbrella": "Bromont Group",
+            "Umbrella ID": "500000483",
+            "VB_NAME": "Bromont Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B62669",
+            "MEMBERNAME": "Bromont Homes (Gateway) Inc.",
+            "MEMBEROPERATINGNAME": "Bromont Homes (Gateway) Inc.",
+            "MEMBERLICENCESTATUS": "Licensed"
+        },
+        {
+            "Account Number": "B40334",
+            "Umbrella": "Bromont Group",
+            "Umbrella ID": "500000483",
+            "VB_NAME": "Bromont Homes Inc.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": "B60149",
+            "MEMBERNAME": "Bromont Homes (Millbrook) Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": "Licensed"
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

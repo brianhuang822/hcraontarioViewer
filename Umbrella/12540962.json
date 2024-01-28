@@ -1,0 +1,111 @@
+{
+    "umbrellaSummary": [
+        {
+            "UMBRELLANAME": "Alexander Sumner",
+            "CITY": null,
+            "INITIALLYLICENSED": null,
+            "OUTSTANDINGAMT": null,
+            "OUTSTANDINGAMTTAB": null,
+            "BREACH": null,
+            "LOWRISE": null,
+            "CHARGEABLECONCILIATION": 0,
+            "TOTALUNITS": 0,
+            "CONDOCOUNT": null,
+            "TOTAL_CLAIMS": 0,
+            "ADDRESS": "51 Birchcrest Dr.",
+            "TELEPHONE": "519 6791200",
+            "FAX": "519 6791446",
+            "WEBSITEURL": " ",
+            "EMAIL": null,
+            "SUMM_FREEHOLD": 0,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 0,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "umbrellaMembers": [
+        {
+            "MEMBERNAME": "Templar Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B24794",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "1288918 Ontario Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B30678",
+            "MEMBERLICENCESTATUS": "Refused"
+        },
+        {
+            "MEMBERNAME": "776577 Ontario Inc",
+            "MEMBEROPERATINGNAME": "Mariner'S Bluff Dev.",
+            "MEMBERVBNUM": "B17531",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Templar Homes Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B17318",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "794561 Ont.Inc.",
+            "MEMBEROPERATINGNAME": "Sumner & Company",
+            "MEMBERVBNUM": "B17319",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "Wolfebridge Developments Inc.",
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERVBNUM": "B20216",
+            "MEMBERLICENCESTATUS": "Expired"
+        },
+        {
+            "MEMBERNAME": "890534 Ontario Ltd.",
+            "MEMBEROPERATINGNAME": "Byron Development Corp.",
+            "MEMBERVBNUM": "B22470",
+            "MEMBERLICENCESTATUS": "Expired"
+        }
+    ],
+    "umbrellaProperties": [],
+    "umbrellaCondoProjects": [
+        {
+            "Condo Project Name": "BYRON RIVER ESTATES",
+            "Account Number": "B22470",
+            "Project Status": "Completed",
+            "Location": "LONDON",
+            "Address": "1415 Commissioners Road West",
+            "# of Units": 31,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1993-01-08"
+        },
+        {
+            "Condo Project Name": "MARINER'S BLUFF, PORT STANLEY",
+            "Account Number": "B17531",
+            "Project Status": "Completed",
+            "Location": "PORT STANLEY",
+            "Address": "374 Front St.",
+            "# of Units": 53,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": "1991-04-16"
+        },
+        {
+            "Condo Project Name": "CULVER GATE",
+            "Account Number": "B20216",
+            "Project Status": "In Progress",
+            "Location": "LONDON",
+            "Address": "1920 Culver Drive",
+            "# of Units": 27,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": ""
+        }
+    ]
+}

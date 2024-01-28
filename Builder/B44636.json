@@ -1,0 +1,75 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B44636",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "RSM Construction Group Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "MOUNT ALBERT",
+            "HCRA_INITIALLICENSEDATE": "2015-08-26",
+            "LICENCE_STATUS": "Expired",
+            "HCRA_LICENSERENEWEDON": "2019-08-27 13:00:02.000 +0000",
+            "Expiry Date": null,
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "8289 Concession 2",
+            "TELEPHONE": "905/473-6844",
+            "FAX": null,
+            "WEBSITEURL": "www.rsmconstructiongroup.ca",
+            "EMAIL": "mike@rsmconstructiongroup.ca",
+            "ACCOUNTNUMBER": "B44636",
+            "Total Outstanding Amount": 17360.22,
+            "TAB": 0,
+            "BREACH": 17360.22,
+            "SUMM_FREEHOLD": 3,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 3,
+            "SUMM_CC": 1,
+            "SUMM_MINOR": 2,
+            "SUMM_MINOR_AMT": 14763.67,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 14763.67
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "100312860",
+            "TO": "Michael Zollner",
+            "Relationship Type": "Principal",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-960-1349"
+        },
+        {
+            "TOUNIQUENUMBER": "100312860",
+            "TO": "Michael Zollner",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-960-1349"
+        },
+        {
+            "TOUNIQUENUMBER": "100312860",
+            "TO": "Michael Zollner",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "905-960-1349"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B44636",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "RSM Construction Group Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Expired",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [],
+    "builderConditions": []
+}

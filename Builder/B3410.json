@@ -1,0 +1,93 @@
+{
+    "builderSummary": [
+        {
+            "Account Number": "B3410",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Hilden Homes Ltd.",
+            "OPERATINGNAME": null,
+            "CITY": "Belleville",
+            "HCRA_INITIALLICENSEDATE": "1985-08-09",
+            "LICENCE_STATUS": "Licensed",
+            "HCRA_LICENSERENEWEDON": "2023-07-27 13:25:42.000 +0000",
+            "Expiry Date": "2024-09-10",
+            "RENL_IN_PROCESS_FLAG": "N",
+            "ADDRESS": "393 Sidney Street",
+            "TELEPHONE": "613-962-4600",
+            "FAX": "613-962-4511",
+            "WEBSITEURL": "www.hildenhomes.com",
+            "EMAIL": "eric@hildenhomes.com",
+            "ACCOUNTNUMBER": "B3410",
+            "Total Outstanding Amount": 0,
+            "TAB": 0,
+            "BREACH": 0,
+            "SUMM_FREEHOLD": 361,
+            "SUMM_CONDO": 0,
+            "SUMM_TOTAL": 361,
+            "SUMM_CC": 0,
+            "SUMM_MINOR": 0,
+            "SUMM_MINOR_AMT": 0,
+            "SUMM_MAJOR": 0,
+            "SUMM_MAJOR_AMT": 0,
+            "SUMM_TOTAL_CLAIMS": 0
+        }
+    ],
+    "builderPDOs": [
+        {
+            "TOUNIQUENUMBER": "308504",
+            "TO": "Eric DenOuden",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-962-4600"
+        },
+        {
+            "TOUNIQUENUMBER": "308504",
+            "TO": "Eric DenOuden",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-962-4600"
+        },
+        {
+            "TOUNIQUENUMBER": "301270",
+            "TO": "Antonia DenOuden",
+            "Relationship Type": "Officer",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-962-4600"
+        },
+        {
+            "TOUNIQUENUMBER": "301270",
+            "TO": "Antonia DenOuden",
+            "Relationship Type": "Director",
+            "STATUS": "Active",
+            "PDO_CONTACT_INFO": "613-962-4600"
+        }
+    ],
+    "builderConvictions": [],
+    "builderMembers": [
+        {
+            "Account Number": "B3410",
+            "Umbrella": null,
+            "Umbrella ID": null,
+            "VB_NAME": "Hilden Homes Ltd.",
+            "OPERATINGNAME": null,
+            "LICENCE_STATUS": "Licensed",
+            "MEMBERVBNUM": null,
+            "MEMBERNAME": null,
+            "MEMBEROPERATINGNAME": null,
+            "MEMBERLICENCESTATUS": null
+        }
+    ],
+    "builderCondoProjects": [
+        {
+            "Condo Project Name": "Kingfisher Cove",
+            "Project Status": null,
+            "Location": "QUINTE WEST",
+            "Address": "Loyalist Parkway",
+            "# of Units": 22,
+            "# of Terminations": null,
+            "HCRA_CANCELLATIONREASON": null,
+            "Last Status Update": null
+        }
+    ],
+    "builderConditions": []
+}
