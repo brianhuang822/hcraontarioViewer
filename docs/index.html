@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HCRA Ontario Builder Ratings</title>
+<style>
+  :root {
+    --bg: #f4f6f9;
+    --card: #ffffff;
+    --primary: #1a4f8b;
+    --primary-light: #2563b0;
+    --accent: #e07b22;
+    --star-fill: #f5a623;
+    --star-empty: #d1d5db;
+    --text: #1f2937;
+    --text-muted: #6b7280;
+    --border: #e5e7eb;
+    --badge-licensed: #d1fae5;
+    --badge-licensed-text: #065f46;
+    --badge-expired: #fef3c7;
+    --badge-expired-text: #92400e;
+    --badge-revoked: #fee2e2;
+    --badge-revoked-text: #991b1b;
+    --badge-other: #e0e7ff;
+    --badge-other-text: #3730a3;
+    --shadow: 0 1px 3px rgba(0,0,0,0.1);
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.12);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  header {
+    background: var(--primary);
+    color: white;
+    padding: 20px 24px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+  }
+
+  header p {
+    font-size: 0.85rem;
+    opacity: 0.8;
+    margin-top: 2px;
+  }
+
+  .stats-bar {
+    background: var(--primary-light);
+    color: white;
+    padding: 12px 24px;
+    display: flex;
+    gap: 32px;
+    font-size: 0.875rem;
+  }
+
+  .stat-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .stat-label { opacity: 0.8; }
+  .stat-value { font-weight: 700; font-size: 1rem; }
+
+  .stat-stars {
+    display: inline-flex;
+    gap: 1px;
+  }
+
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 24px 16px;
+  }
+
+  .search-bar {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: var(--shadow);
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .search-row {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .search-input-wrap {
+    flex: 1;
+    min-width: 200px;
+    position: relative;
+  }
+
+  .search-input-wrap svg {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-muted);
+    pointer-events: none;
+  }
+
+  input[type="text"] {
+    width: 100%;
+    padding: 10px 12px 10px 38px;
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.9rem;
+    outline: none;
+    transition: border-color 0.15s;
+    background: var(--bg);
+  }
+
+  input[type="text"]:focus {
+    border-color: var(--primary);
+    background: white;
+  }
+
+  select {
+    padding: 10px 12px;
+    border: 1.5px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.875rem;
+    outline: none;
+    background: var(--bg);
+    cursor: pointer;
+    transition: border-color 0.15s;
+  }
+
+  select:focus { border-color: var(--primary); background: white; }
+
+  .sort-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    flex-wrap: wrap;
+  }
+
+  .sort-btn {
+    padding: 4px 10px;
+    border: 1.5px solid var(--border);
+    border-radius: 6px;
+    background: white;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.15s;
+    color: var(--text-muted);
+  }
+
+  .sort-btn.active {
+    border-color: var(--primary);
+    color: var(--primary);
+    background: #eff6ff;
+    font-weight: 600;
+  }
+
+  .results-count {
+    font-size: 0.825rem;
+    color: var(--text-muted);
+    margin-bottom: 10px;
+    padding: 0 2px;
+  }
+
+  .builder-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .builder-card {
+    background: var(--card);
+    border-radius: 10px;
+    border: 1.5px solid var(--border);
+    padding: 14px 16px;
+    cursor: pointer;
+    transition: all 0.15s;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .builder-card:hover {
+    border-color: var(--primary);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-1px);
+  }
+
+  .builder-card.selected {
+    border-color: var(--primary);
+    background: #f0f7ff;
+  }
+
+  .score-circle {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    flex-shrink: 0;
+    border: 2.5px solid;
+  }
+
+  .score-circle .score-num {
+    font-size: 1rem;
+    line-height: 1;
+  }
+
+  .score-circle .score-max {
+    font-size: 0.6rem;
+    opacity: 0.7;
+  }
+
+  .score-high { color: #166534; border-color: #22c55e; background: #f0fdf4; }
+  .score-mid  { color: #92400e; border-color: #f59e0b; background: #fffbeb; }
+  .score-low  { color: #991b1b; border-color: #ef4444; background: #fef2f2; }
+
+  .builder-info { flex: 1; min-width: 0; }
+
+  .builder-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .builder-op {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .builder-meta {
+    display: flex;
+    gap: 6px;
+    margin-top: 5px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.72rem;
+    font-weight: 600;
+  }
+
+  .badge-licensed { background: var(--badge-licensed); color: var(--badge-licensed-text); }
+  .badge-expired  { background: var(--badge-expired);  color: var(--badge-expired-text); }
+  .badge-revoked  { background: var(--badge-revoked);  color: var(--badge-revoked-text); }
+  .badge-refused  { background: var(--badge-revoked);  color: var(--badge-revoked-text); }
+  .badge-other    { background: var(--badge-other);    color: var(--badge-other-text); }
+
+  .city-text {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+  }
+
+  .stars-inline {
+    display: inline-flex;
+    gap: 1px;
+  }
+
+  .builder-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 4px;
+    flex-shrink: 0;
+  }
+
+  .homes-count {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-align: right;
+  }
+
+  /* Detail panel */
+  .detail-panel {
+    background: var(--card);
+    border-radius: 12px;
+    border: 1.5px solid var(--border);
+    margin-bottom: 16px;
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    display: none;
+  }
+
+  .detail-panel.open { display: block; }
+
+  .detail-header {
+    background: var(--primary);
+    color: white;
+    padding: 16px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .detail-header h2 {
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.3;
+  }
+
+  .detail-header .sub {
+    font-size: 0.82rem;
+    opacity: 0.8;
+    margin-top: 2px;
+  }
+
+  .close-btn {
+    background: rgba(255,255,255,0.2);
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 4px 8px;
+    font-size: 0.85rem;
+    flex-shrink: 0;
+  }
+
+  .close-btn:hover { background: rgba(255,255,255,0.3); }
+
+  .detail-body {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+
+  @media (max-width: 600px) {
+    .detail-body { grid-template-columns: 1fr; }
+    .stats-bar { flex-wrap: wrap; gap: 12px; }
+    .builder-card { flex-wrap: wrap; }
+  }
+
+  .detail-section h3 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+
+  .detail-score-block {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 12px;
+  }
+
+  .big-score-circle {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    border: 3px solid;
+    flex-shrink: 0;
+  }
+
+  .big-score-circle .n { font-size: 1.5rem; line-height: 1; }
+  .big-score-circle .d { font-size: 0.7rem; opacity: 0.7; }
+
+  .detail-stars { display: flex; gap: 3px; margin-bottom: 4px; }
+
+  .stat-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+
+  .stat-box {
+    background: var(--bg);
+    border-radius: 8px;
+    padding: 10px 12px;
+    text-align: center;
+  }
+
+  .stat-box .val {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text);
+  }
+
+  .stat-box .lbl {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    margin-top: 2px;
+  }
+
+  .info-list {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+  }
+
+  .info-row {
+    display: flex;
+    gap: 8px;
+    font-size: 0.85rem;
+  }
+
+  .info-row .key {
+    color: var(--text-muted);
+    min-width: 80px;
+    flex-shrink: 0;
+  }
+
+  .info-row .val { color: var(--text); word-break: break-word; }
+
+  .warning-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: #fee2e2;
+    color: #991b1b;
+    border-radius: 6px;
+    padding: 4px 10px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-right: 6px;
+    margin-top: 6px;
+  }
+
+  .umbrella-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: #ede9fe;
+    color: #5b21b6;
+    border-radius: 6px;
+    padding: 4px 10px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-top: 6px;
+  }
+
+  .load-more {
+    text-align: center;
+    padding: 16px;
+  }
+
+  .load-more button {
+    padding: 10px 28px;
+    background: var(--primary);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.15s;
+  }
+
+  .load-more button:hover { background: var(--primary-light); }
+
+  .loading {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-muted);
+    font-size: 1rem;
+  }
+
+  .spinner {
+    width: 36px;
+    height: 36px;
+    border: 3px solid var(--border);
+    border-top-color: var(--primary);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 14px;
+  }
+
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .no-results {
+    text-align: center;
+    padding: 48px 20px;
+    color: var(--text-muted);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>HCRA Ontario Builder Ratings</h1>
+  <p>Search and compare home builders registered with the Home Construction Regulatory Authority</p>
+</header>
+
+<div class="stats-bar" id="statsBar">
+  <div class="stat-item">
+    <span class="stat-label">Total Builders:</span>
+    <span class="stat-value" id="statTotal">—</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-label">Average Rating:</span>
+    <span class="stat-value" id="statAvg">—</span>
+    <span class="stat-stars" id="statAvgStars"></span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-label">Median Rating:</span>
+    <span class="stat-value" id="statMedian">—</span>
+    <span class="stat-stars" id="statMedianStars"></span>
+  </div>
+</div>
+
+<main>
+  <div class="search-bar">
+    <div class="search-row">
+      <div class="search-input-wrap">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input type="text" id="searchInput" placeholder="Search by builder name, city, or operating name..." autocomplete="off">
+      </div>
+      <select id="statusFilter">
+        <option value="">All Statuses</option>
+        <option value="Licensed">Licensed</option>
+        <option value="Licensed with Conditions">Licensed with Conditions</option>
+        <option value="Expired">Expired</option>
+        <option value="Revoked">Revoked</option>
+        <option value="Refused">Refused</option>
+        <option value="Suspended">Suspended</option>
+        <option value="Resigned">Resigned</option>
+        <option value="NULL/UMBRELLA">Umbrella Org</option>
+      </select>
+      <select id="scoreFilter">
+        <option value="">All Ratings</option>
+        <option value="4">4+ Stars</option>
+        <option value="3">3+ Stars</option>
+        <option value="2">2+ Stars</option>
+        <option value="0">Below 2 Stars</option>
+      </select>
+    </div>
+    <div class="sort-row">
+      <span>Sort by:</span>
+      <button class="sort-btn active" data-sort="score-desc">Rating ↓</button>
+      <button class="sort-btn" data-sort="score-asc">Rating ↑</button>
+      <button class="sort-btn" data-sort="name-asc">Name A–Z</button>
+      <button class="sort-btn" data-sort="homes-desc">Most Homes</button>
+    </div>
+  </div>
+
+  <div id="detailPanel" class="detail-panel">
+    <!-- populated by JS -->
+  </div>
+
+  <div id="resultsCount" class="results-count"></div>
+  <div id="builderList" class="builder-list">
+    <div class="loading">
+      <div class="spinner"></div>
+      Loading builder data…
+    </div>
+  </div>
+  <div id="loadMore" class="load-more" style="display:none">
+    <button onclick="showMore()">Load More</button>
+  </div>
+</main>
+
+<script>
+let allBuilders = [];
+let filtered = [];
+let displayed = 0;
+const PAGE_SIZE = 50;
+let currentSort = 'score-desc';
+let selectedId = null;
+
+function starSVG(fill, size=14) {
+  const w = size, h = size;
+  return `<svg width="${w}" height="${h}" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <defs><clipPath id="c${Math.random().toString(36).slice(2)}">
+      <rect x="0" y="0" width="${fill*24}" height="24"/>
+    </clipPath></defs>
+    <polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26"
+      fill="${fill > 0 ? 'var(--star-fill)' : 'var(--star-empty)'}" stroke="var(--star-fill)" stroke-width="0.5"/>
+  </svg>`;
+}
+
+function renderStars(score, size=14) {
+  let html = '';
+  for (let i = 1; i <= 5; i++) {
+    const fill = Math.min(1, Math.max(0, score - (i - 1)));
+    if (fill === 0) {
+      html += `<svg width="${size}" height="${size}" viewBox="0 0 24 24"><polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26" fill="var(--star-empty)" stroke="var(--star-empty)" stroke-width="0.5"/></svg>`;
+    } else if (fill >= 1) {
+      html += `<svg width="${size}" height="${size}" viewBox="0 0 24 24"><polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26" fill="var(--star-fill)" stroke="var(--star-fill)" stroke-width="0.5"/></svg>`;
+    } else {
+      const pct = Math.round(fill * 100);
+      const uid = 'sg' + Math.random().toString(36).slice(2);
+      html += `<svg width="${size}" height="${size}" viewBox="0 0 24 24">
+        <defs><linearGradient id="${uid}"><stop offset="${pct}%" stop-color="var(--star-fill)"/><stop offset="${pct}%" stop-color="var(--star-empty)"/></linearGradient></defs>
+        <polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26" fill="url(#${uid})" stroke="var(--star-fill)" stroke-width="0.5"/>
+      </svg>`;
+    }
+  }
+  return `<span class="stars-inline">${html}</span>`;
+}
+
+function scoreClass(sc) {
+  if (sc >= 4) return 'score-high';
+  if (sc >= 2.5) return 'score-mid';
+  return 'score-low';
+}
+
+function badgeClass(status) {
+  if (status === 'Licensed' || status === 'Licensed with Conditions') return 'badge-licensed';
+  if (status === 'Expired') return 'badge-expired';
+  if (status === 'Revoked' || status === 'Refused' || status === 'Suspended') return 'badge-revoked';
+  return 'badge-other';
+}
+
+function statusLabel(st) {
+  if (st === 'NULL/UMBRELLA') return 'Umbrella Org';
+  if (st === 'NULL/TarionConviction') return 'Tarion Conviction';
+  return st;
+}
+
+function renderCard(b) {
+  const sc = b.sc;
+  const scClass = scoreClass(sc);
+  const badgeCls = badgeClass(b.st);
+  const isSelected = b.id === selectedId;
+
+  return `<div class="builder-card${isSelected ? ' selected' : ''}" onclick="selectBuilder('${b.id}')" data-id="${b.id}">
+    <div class="score-circle ${scClass}">
+      <span class="score-num">${sc.toFixed(1)}</span>
+      <span class="score-max">/5</span>
+    </div>
+    <div class="builder-info">
+      <div class="builder-name">${escHtml(b.n)}</div>
+      ${b.op ? `<div class="builder-op">${escHtml(b.op)}</div>` : ''}
+      <div class="builder-meta">
+        <span class="badge ${badgeCls}">${statusLabel(b.st)}</span>
+        ${b.c ? `<span class="city-text">📍 ${escHtml(b.c)}</span>` : ''}
+        ${b.un ? `<span class="city-text">🏢 ${escHtml(b.un)}</span>` : ''}
+      </div>
+    </div>
+    <div class="builder-right">
+      ${renderStars(sc, 13)}
+      ${b.h > 0 ? `<span class="homes-count">${b.h.toLocaleString()} homes</span>` : '<span class="homes-count">No data</span>'}
+    </div>
+  </div>`;
+}
+
+function renderDetail(b) {
+  const sc = b.sc;
+  const scClass = scoreClass(sc);
+  const badgeCls = badgeClass(b.st);
+
+  let warnings = '';
+  if (b.cv > 0) warnings += `<span class="warning-tag">⚠ ${b.cv} Conviction${b.cv>1?'s':''}</span>`;
+  if (b.cond) warnings += `<span class="warning-tag">⚠ Has Conditions</span>`;
+  if (b.br) warnings += `<span class="warning-tag">🚨 Breach</span>`;
+  if (b.un) warnings += `<span class="umbrella-tag">🏢 Part of: ${escHtml(b.un)}</span>`;
+
+  const panel = document.getElementById('detailPanel');
+  panel.innerHTML = `
+    <div class="detail-header">
+      <div>
+        <h2>${escHtml(b.n)}</h2>
+        ${b.op ? `<div class="sub">Operating as: ${escHtml(b.op)}</div>` : ''}
+        <div class="sub" style="margin-top:6px">
+          <span class="badge ${badgeCls}" style="background:rgba(255,255,255,0.2);color:white">${statusLabel(b.st)}</span>
+          ${b.c ? ` &nbsp;📍 ${escHtml(b.c)}` : ''}
+        </div>
+      </div>
+      <button class="close-btn" onclick="closeDetail()">✕ Close</button>
+    </div>
+    <div class="detail-body">
+      <div class="detail-section">
+        <h3>Rating</h3>
+        <div class="detail-score-block">
+          <div class="big-score-circle ${scClass}">
+            <span class="n">${sc.toFixed(1)}</span>
+            <span class="d">out of 5</span>
+          </div>
+          <div>
+            <div class="detail-stars">${renderStars(sc, 18)}</div>
+            <div style="font-size:0.8rem;color:var(--text-muted);margin-top:4px">
+              ${sc >= 4.5 ? 'Excellent' : sc >= 3.5 ? 'Good' : sc >= 2.5 ? 'Fair' : sc >= 1.5 ? 'Poor' : 'Very Poor'}
+            </div>
+          </div>
+        </div>
+        ${warnings ? `<div>${warnings}</div>` : ''}
+        <div class="stat-grid" style="margin-top:14px">
+          <div class="stat-box">
+            <div class="val">${b.h.toLocaleString()}</div>
+            <div class="lbl">Total Homes</div>
+          </div>
+          <div class="stat-box">
+            <div class="val">${b.cc}</div>
+            <div class="lbl">Conciliations</div>
+          </div>
+          <div class="stat-box">
+            <div class="val">${b.mi}</div>
+            <div class="lbl">Minor Claims</div>
+          </div>
+          <div class="stat-box">
+            <div class="val">${b.ma}</div>
+            <div class="lbl">Major Claims</div>
+          </div>
+        </div>
+        ${b.h > 0 ? `
+        <div style="margin-top:12px;font-size:0.8rem;color:var(--text-muted)">
+          Per 100 homes: ${b.h>0?((b.cc/b.h)*100).toFixed(1):0} conciliations,
+          ${b.h>0?((b.mi/b.h)*100).toFixed(1):0} minor claims,
+          ${b.h>0?((b.ma/b.h)*100).toFixed(1):0} major claims
+          ${b.un ? '(umbrella aggregate)' : ''}
+        </div>` : ''}
+      </div>
+      <div class="detail-section">
+        <h3>Builder Info</h3>
+        <div class="info-list">
+          <div class="info-row"><span class="key">ID</span><span class="val">${escHtml(b.id)}</span></div>
+          ${b.addr ? `<div class="info-row"><span class="key">Address</span><span class="val">${escHtml(b.addr)}</span></div>` : ''}
+          ${b.ph ? `<div class="info-row"><span class="key">Phone</span><span class="val">${escHtml(b.ph)}</span></div>` : ''}
+          ${b.em ? `<div class="info-row"><span class="key">Email</span><span class="val"><a href="mailto:${escHtml(b.em)}">${escHtml(b.em)}</a></span></div>` : ''}
+          ${b.web ? `<div class="info-row"><span class="key">Website</span><span class="val"><a href="${b.web.startsWith('http')?'':'https://'}${escHtml(b.web)}" target="_blank" rel="noopener">${escHtml(b.web)}</a></span></div>` : ''}
+          ${b.un ? `<div class="info-row"><span class="key">Umbrella</span><span class="val">${escHtml(b.un)}</span></div>` : ''}
+          <div class="info-row"><span class="key">Status</span><span class="val">${statusLabel(b.st)}</span></div>
+          <div class="info-row"><span class="key">Convictions</span><span class="val">${b.cv}</span></div>
+        </div>
+      </div>
+    </div>`;
+  panel.classList.add('open');
+  panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+function escHtml(str) {
+  if (!str) return '';
+  return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function selectBuilder(id) {
+  const b = allBuilders.find(x => x.id === id);
+  if (!b) return;
+  if (selectedId === id) {
+    closeDetail();
+    return;
+  }
+  selectedId = id;
+  renderDetail(b);
+  // Update card selection
+  document.querySelectorAll('.builder-card').forEach(el => {
+    el.classList.toggle('selected', el.dataset.id === id);
+  });
+}
+
+function closeDetail() {
+  selectedId = null;
+  const panel = document.getElementById('detailPanel');
+  panel.classList.remove('open');
+  document.querySelectorAll('.builder-card').forEach(el => el.classList.remove('selected'));
+}
+
+function applyFilters() {
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  const statusVal = document.getElementById('statusFilter').value;
+  const scoreVal = document.getElementById('scoreFilter').value;
+
+  filtered = allBuilders.filter(b => {
+    if (statusVal && b.st !== statusVal) return false;
+    if (scoreVal !== '') {
+      const min = parseFloat(scoreVal);
+      if (scoreVal === '0') { if (b.sc >= 2) return false; }
+      else { if (b.sc < min) return false; }
+    }
+    if (q) {
+      const searchable = (b.n + ' ' + (b.op||'') + ' ' + (b.c||'') + ' ' + (b.un||'')).toLowerCase();
+      if (!searchable.includes(q)) return false;
+    }
+    return true;
+  });
+
+  sortFiltered();
+  displayed = 0;
+  renderList(true);
+}
+
+function sortFiltered() {
+  switch (currentSort) {
+    case 'score-desc': filtered.sort((a,b) => b.sc - a.sc || a.n.localeCompare(b.n)); break;
+    case 'score-asc':  filtered.sort((a,b) => a.sc - b.sc || a.n.localeCompare(b.n)); break;
+    case 'name-asc':   filtered.sort((a,b) => a.n.localeCompare(b.n)); break;
+    case 'homes-desc': filtered.sort((a,b) => b.h - a.h || b.sc - a.sc); break;
+  }
+}
+
+function renderList(reset) {
+  const container = document.getElementById('builderList');
+  const countEl = document.getElementById('resultsCount');
+
+  countEl.textContent = `Showing ${Math.min(displayed + PAGE_SIZE, filtered.length).toLocaleString()} of ${filtered.length.toLocaleString()} builders`;
+
+  if (filtered.length === 0) {
+    container.innerHTML = '<div class="no-results">No builders found matching your search.</div>';
+    document.getElementById('loadMore').style.display = 'none';
+    return;
+  }
+
+  const slice = filtered.slice(displayed, displayed + PAGE_SIZE);
+  const html = slice.map(renderCard).join('');
+
+  if (reset) {
+    container.innerHTML = html;
+  } else {
+    container.insertAdjacentHTML('beforeend', html);
+  }
+
+  displayed += slice.length;
+  document.getElementById('loadMore').style.display = displayed < filtered.length ? 'block' : 'none';
+}
+
+function showMore() {
+  renderList(false);
+}
+
+async function init() {
+  try {
+    const resp = await fetch('data.json');
+    if (!resp.ok) throw new Error('Failed to load data');
+    const data = await resp.json();
+    allBuilders = data.builders;
+
+    // Stats bar
+    document.getElementById('statTotal').textContent = data.stats.total.toLocaleString();
+    document.getElementById('statAvg').textContent = data.stats.avg.toFixed(2);
+    document.getElementById('statMedian').textContent = data.stats.median.toFixed(2);
+    document.getElementById('statAvgStars').innerHTML = renderStars(data.stats.avg, 13);
+    document.getElementById('statMedianStars').innerHTML = renderStars(data.stats.median, 13);
+
+    filtered = [...allBuilders];
+    sortFiltered();
+    renderList(true);
+
+    // Event listeners
+    let debounce;
+    document.getElementById('searchInput').addEventListener('input', () => {
+      clearTimeout(debounce);
+      debounce = setTimeout(applyFilters, 200);
+    });
+    document.getElementById('statusFilter').addEventListener('change', applyFilters);
+    document.getElementById('scoreFilter').addEventListener('change', applyFilters);
+
+    document.querySelectorAll('.sort-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentSort = btn.dataset.sort;
+        applyFilters();
+      });
+    });
+
+  } catch (e) {
+    document.getElementById('builderList').innerHTML =
+      `<div class="no-results">Error loading data: ${e.message}</div>`;
+  }
+}
+
+init();
+</script>
+</body>
+</html>
